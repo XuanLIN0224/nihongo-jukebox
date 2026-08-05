@@ -8,10 +8,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "指切り",
     "kana": "ゆびきり",
     "romaji": "yubikiri",
-    "zh": "释义：pinky swear (i.e. linking little fingers to confirm a promise); pinky promise",
+    "zh": "拉钩起誓；拉钩约定",
     "en": "pinky swear (i.e. linking little fingers to confirm a promise); pinky promise",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：pinky swear (i.e. linking little fingers to confirm a promise); pinky promise。出自例句「指切りげんまん ホラでも吹いたら」。",
+    "introZh": "词典释义：拉钩起誓；拉钩约定。出自例句「指切りげんまん ホラでも吹いたら」。",
     "introEn": "Meaning: pinky swear (i.e. linking little fingers to confirm a promise); pinky promise. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "指切りげんまん ホラでも吹いたら",
     "exampleZh": "拉勾约定 要是说了大话",
@@ -22,10 +22,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆびきり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3052-3093-307e-3093-2",
@@ -53,10 +50,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ホラ",
     "kana": "ほら",
     "romaji": "hora",
-    "zh": "释义：look!; see!; here!; there!; hey!",
+    "zh": "看！；看这里；这边；那里；看那边；喂；嘿",
     "en": "look!; see!; here!; there!; hey!",
     "partOfSpeech": "名词 / noun; interjection",
-    "introZh": "词典释义：look!; see!; here!; there!; hey!。出自例句「指切りげんまん ホラでも吹いたら」。",
+    "introZh": "词典释义：看！；看这里；这边；那里；看那边；喂；嘿。出自例句「指切りげんまん ホラでも吹いたら」。",
     "introEn": "Meaning: look!; see!; here!; there!; hey!. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "指切りげんまん ホラでも吹いたら",
     "exampleZh": "拉勾约定 要是说了大话",
@@ -67,20 +64,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ほら"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3067-3082-4",
     "japanese": "でも",
     "kana": "でも",
     "romaji": "demo",
-    "zh": "释义：but; however; though; nevertheless; still; yet",
+    "zh": "但是；不过；然而；尽管如此；仍然；还是；还",
     "en": "but; however; though; nevertheless; still; yet",
     "partOfSpeech": "助词 / particle; conjunction",
-    "introZh": "词典释义：but; however; though; nevertheless; still; yet。出自例句「指切りげんまん ホラでも吹いたら」。",
+    "introZh": "词典释义：但是；不过；然而；尽管如此；仍然；还是；还。出自例句「指切りげんまん ホラでも吹いたら」。",
     "introEn": "Meaning: but; however; though; nevertheless; still; yet. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "指切りげんまん ホラでも吹いたら",
     "exampleZh": "拉勾约定 要是说了大话",
@@ -98,10 +92,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たら",
     "kana": "たら",
     "romaji": "tara",
-    "zh": "释义：if; when; after; when it comes to ...; as for ...; that ...",
+    "zh": "如果；什么时候；当……时",
     "en": "if; when; after; when it comes to ...; as for ...; that ...",
     "partOfSpeech": "助动词 / auxiliary; particle · conjunction",
-    "introZh": "词典释义：if; when; after; when it comes to ...; as for ...; that ...。出自例句「指切りげんまん ホラでも吹いたら」。",
+    "introZh": "词典释义：如果；什么时候；当……时。出自例句「指切りげんまん ホラでも吹いたら」。",
     "introEn": "Meaning: if; when; after; when it comes to ...; as for ...; that .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "指切りげんまん ホラでも吹いたら",
     "exampleZh": "拉勾约定 要是说了大话",
@@ -122,10 +116,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "針",
     "kana": "はり",
     "romaji": "hari",
-    "zh": "释义：needle; pin; hook; stinger; thorn; hand (e.g. clock, etc.)",
+    "zh": "手",
     "en": "needle; pin; hook; stinger; thorn; hand (e.g. clock, etc.)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：needle; pin; hook; stinger; thorn; hand (e.g. clock, etc.)。出自例句「針でもなんでも 飲ませていただき Monday」。",
+    "introZh": "词典释义：手。出自例句「針でもなんでも 飲ませていただき Monday」。",
     "introEn": "Meaning: needle; pin; hook; stinger; thorn; hand (e.g. clock, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "針でもなんでも 飲ませていただき Monday",
     "exampleZh": "吞针还是吞什么 我都愿意星期一",
@@ -136,20 +130,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306a-3093-7",
     "japanese": "なん",
     "kana": "なん",
     "romaji": "nan",
-    "zh": "释义：difficulty; trouble; hardship; shortage; accident; disaster",
+    "zh": "困难；麻烦；事故；意外；灾难",
     "en": "difficulty; trouble; hardship; shortage; accident; disaster",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：difficulty; trouble; hardship; shortage; accident; disaster。出自例句「針でもなんでも 飲ませていただき Monday」。",
+    "introZh": "词典释义：困难；麻烦；事故；意外；灾难。出自例句「針でもなんでも 飲ませていただき Monday」。",
     "introEn": "Meaning: difficulty; trouble; hardship; shortage; accident; disaster. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "針でもなんでも 飲ませていただき Monday",
     "exampleZh": "吞针还是吞什么 我都愿意星期一",
@@ -167,11 +158,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "せ",
     "kana": "せ",
     "romaji": "se",
-    "zh": "释义：shallows; shoal; rapids; current; torrent; position",
-    "en": "shallows; shoal; rapids; current; torrent; position",
+    "zh": "结合本句可理解为：吞针还是吞什么 我都愿意星期一",
+    "en": "cell; serge; cel (celluloid); starter motor",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：shallows; shoal; rapids; current; torrent; position。出自例句「針でもなんでも 飲ませていただき Monday」。",
-    "introEn": "Meaning: shallows; shoal; rapids; current; torrent; position. Dictionary data: local Kotobako/JMdict.",
+    "introZh": "词典释义：结合本句可理解为：吞针还是吞什么 我都愿意星期一。出自例句「針でもなんでも 飲ませていただき Monday」。",
+    "introEn": "Meaning: cell; serge; cel (celluloid); starter motor. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "針でもなんでも 飲ませていただき Monday",
     "exampleZh": "吞针还是吞什么 我都愿意星期一",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -191,11 +182,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "て",
     "kana": "て",
     "romaji": "te",
-    "zh": "释义：hand; arm; forepaw; foreleg; handle",
-    "en": "hand; arm; forepaw; foreleg; handle",
-    "partOfSpeech": "助词 / particle; noun",
-    "introZh": "词典释义：hand; arm; forepaw; foreleg; handle。出自例句「針でもなんでも 飲ませていただき Monday」。",
-    "introEn": "Meaning: hand; arm; forepaw; foreleg; handle. Dictionary data: local Kotobako/JMdict.",
+    "zh": "连接助词，表示动作连接、方式或原因。",
+    "en": "Connective te-form marker.",
+    "partOfSpeech": "助词 / particle",
+    "introZh": "语法说明：连接助词，表示动作连接、方式或原因。 出自例句「針でもなんでも 飲ませていただき Monday」。",
+    "introEn": "Connective te-form marker. Example line: \"針でもなんでも 飲ませていただき Monday\".",
     "exampleJp": "針でもなんでも 飲ませていただき Monday",
     "exampleZh": "吞针还是吞什么 我都愿意星期一",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -205,18 +196,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-3044-305f-3060-304d-10",
     "japanese": "いただき",
     "kana": "いただき",
     "romaji": "itadaki",
-    "zh": "释义：crown (of head); summit (of mountain); spire; easy win for one; something received",
-    "en": "crown (of head); summit (of mountain); spire; easy win for one; something received",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：crown (of head); summit (of mountain); spire; easy win for one; something received。出自例句「針でもなんでも 飲ませていただき Monday」。",
-    "introEn": "Meaning: crown (of head); summit (of mountain); spire; easy win for one; something received. Dictionary data: local Kotobako/JMdict.",
+    "zh": "得到；变得",
+    "en": "to receive; to get; to accept; to take; to buy; to eat",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：得到；变得。出自例句「針でもなんでも 飲ませていただき Monday」。",
+    "introEn": "Meaning: to receive; to get; to accept; to take; to buy; to eat. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "針でもなんでも 飲ませていただき Monday",
     "exampleZh": "吞针还是吞什么 我都愿意星期一",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -257,10 +248,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "鏡",
     "kana": "かがみ",
     "romaji": "kagami",
-    "zh": "释义：mirror; looking-glass; barrel head; page added at the beginning of a document mentioning its purpose, date, author, etc.; mirror-shaped mochi",
+    "zh": "结合本句可理解为：镜子镜子告诉我 这个世界上",
     "en": "mirror; looking-glass; barrel head; page added at the beginning of a document mentioning its purpose, date, author, etc.; mirror-shaped mochi",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：mirror; looking-glass; barrel head; page added at the beginning of a document mentioning its purpose, date, author, etc.; mirror-shaped mochi。出自例句「鏡よ鏡よ この世で1番」。",
+    "introZh": "词典释义：结合本句可理解为：镜子镜子告诉我 这个世界上。出自例句「鏡よ鏡よ この世で1番」。",
     "introEn": "Meaning: mirror; looking-glass; barrel head; page added at the beginning of a document mentioning its purpose, date, author, etc.; mirror-shaped mochi. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鏡よ鏡よ この世で1番",
     "exampleZh": "镜子镜子告诉我 这个世界上",
@@ -271,20 +262,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かがみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3088-13",
     "japanese": "よ",
     "kana": "よ",
     "romaji": "yo",
-    "zh": "释义：hey; you; hold on; yo",
+    "zh": "喂；嘿；你",
     "en": "hey; you; hold on; yo",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：hey; you; hold on; yo。出自例句「鏡よ鏡よ この世で1番」。",
+    "introZh": "词典释义：喂；嘿；你。出自例句「鏡よ鏡よ この世で1番」。",
     "introEn": "Meaning: hey; you; hold on; yo. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鏡よ鏡よ この世で1番",
     "exampleZh": "镜子镜子告诉我 这个世界上",
@@ -316,10 +304,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "このよ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-31-15",
@@ -347,10 +332,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "番",
     "kana": "ばん",
     "romaji": "ban",
-    "zh": "释义：number (in a series); (one's) turn; watch; guard; lookout; rank",
+    "zh": "结合本句可理解为：镜子镜子告诉我 这个世界上",
     "en": "number (in a series); (one's) turn; watch; guard; lookout; rank",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：number (in a series); (one's) turn; watch; guard; lookout; rank。出自例句「鏡よ鏡よ この世で1番」。",
+    "introZh": "词典释义：结合本句可理解为：镜子镜子告诉我 这个世界上。出自例句「鏡よ鏡よ この世で1番」。",
     "introEn": "Meaning: number (in a series); (one's) turn; watch; guard; lookout; rank. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鏡よ鏡よ この世で1番",
     "exampleZh": "镜子镜子告诉我 这个世界上",
@@ -361,20 +346,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ばん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5909-308f-308b-17",
     "japanese": "変わる",
     "kana": "かわる",
     "romaji": "kawaru",
-    "zh": "释义：to change; to be transformed; to be altered; to vary; to move to; to be different",
+    "zh": "改变；变化；变形；被改变；发生改变；不同；搬到；移动到",
     "en": "to change; to be transformed; to be altered; to vary; to move to; to be different",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to change; to be transformed; to be altered; to vary; to move to; to be different。出自例句「変わることのない 愛をくれるのは だれ」。",
+    "introZh": "词典释义：改变；变化；变形；被改变；发生改变；不同；搬到；移动到。出自例句「変わることのない 愛をくれるのは だれ」。",
     "introEn": "Meaning: to change; to be transformed; to be altered; to vary; to move to; to be different. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わることのない 愛をくれるのは だれ",
     "exampleZh": "是谁 献给我最永恒不变的爱",
@@ -385,20 +367,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かわる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3053-3068-18",
     "japanese": "こと",
     "kana": "こと",
     "romaji": "koto",
-    "zh": "释义：thing; matter; incident; occurrence; event; something serious",
+    "zh": "事情；东西",
     "en": "thing; matter; incident; occurrence; event; something serious",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：thing; matter; incident; occurrence; event; something serious。出自例句「変わることのない 愛をくれるのは だれ」。",
+    "introZh": "词典释义：事情；东西。出自例句「変わることのない 愛をくれるのは だれ」。",
     "introEn": "Meaning: thing; matter; incident; occurrence; event; something serious. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わることのない 愛をくれるのは だれ",
     "exampleZh": "是谁 献给我最永恒不变的爱",
@@ -416,11 +395,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ない",
     "kana": "ない",
     "romaji": "nai",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
-    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
-    "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「変わることのない 愛をくれるのは だれ」。",
-    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
+    "zh": "否定助动词，相当于“不/没有”。",
+    "en": "Negative auxiliary, similar to not.",
+    "partOfSpeech": "形容词 / adjective",
+    "introZh": "语法说明：否定助动词，相当于“不/没有”。 出自例句「変わることのない 愛をくれるのは だれ」。",
+    "introEn": "Negative auxiliary, similar to not. Example line: \"変わることのない 愛をくれるのは だれ\".",
     "exampleJp": "変わることのない 愛をくれるのは だれ",
     "exampleZh": "是谁 献给我最永恒不变的爱",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -430,17 +409,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-304f-308c-308b-20",
     "japanese": "くれる",
     "kana": "くれる",
     "romaji": "kureru",
-    "zh": "释义：to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage",
+    "zh": "结合本句可理解为：是谁 献给我最永恒不变的爱",
     "en": "to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage",
     "partOfSpeech": "动词 / verb; v1-s · transitive verb",
-    "introZh": "词典释义：to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage。出自例句「変わることのない 愛をくれるのは だれ」。",
+    "introZh": "词典释义：结合本句可理解为：是谁 献给我最永恒不变的爱。出自例句「変わることのない 愛をくれるのは だれ」。",
     "introEn": "Meaning: to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わることのない 愛をくれるのは だれ",
     "exampleZh": "是谁 献给我最永恒不变的爱",
@@ -458,10 +437,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だれ",
     "kana": "だれ",
     "romaji": "dare",
-    "zh": "释义：who",
+    "zh": "谁",
     "en": "who",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：who。出自例句「変わることのない 愛をくれるのは だれ」。",
+    "introZh": "词典释义：谁。出自例句「変わることのない 愛をくれるのは だれ」。",
     "introEn": "Meaning: who. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わることのない 愛をくれるのは だれ",
     "exampleZh": "是谁 献给我最永恒不变的爱",
@@ -479,10 +458,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "最後",
     "kana": "さいご",
     "romaji": "saigo",
-    "zh": "释义：end; conclusion; last; final; latest; most recent",
+    "zh": "结束；末尾",
     "en": "end; conclusion; last; final; latest; most recent",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：end; conclusion; last; final; latest; most recent。出自例句「私の最後はあなたがいい」。",
+    "introZh": "词典释义：结束；末尾。出自例句「私の最後はあなたがいい」。",
     "introEn": "Meaning: end; conclusion; last; final; latest; most recent. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私の最後はあなたがいい",
     "exampleZh": "我的最后就交给你",
@@ -493,20 +472,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さいご"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-306a-305f-23",
     "japanese": "あなた",
     "kana": "あなた",
     "romaji": "anata",
-    "zh": "释义：you; dear; honey",
+    "zh": "你；亲爱的",
     "en": "you; dear; honey",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：you; dear; honey。出自例句「私の最後はあなたがいい」。",
+    "introZh": "词典释义：你；亲爱的。出自例句「私の最後はあなたがいい」。",
     "introEn": "Meaning: you; dear; honey. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私の最後はあなたがいい",
     "exampleZh": "我的最后就交给你",
@@ -524,10 +500,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いい",
     "kana": "いい",
     "romaji": "ii",
-    "zh": "释义：good; excellent; fine; nice; pleasant; agreeable",
+    "zh": "好的；优秀的；极好的；愉快的；舒服的",
     "en": "good; excellent; fine; nice; pleasant; agreeable",
     "partOfSpeech": "形容词 / adjective; adj-ix",
-    "introZh": "词典释义：good; excellent; fine; nice; pleasant; agreeable。出自例句「私の最後はあなたがいい」。",
+    "introZh": "词典释义：好的；优秀的；极好的；愉快的；舒服的。出自例句「私の最後はあなたがいい」。",
     "introEn": "Meaning: good; excellent; fine; nice; pleasant; agreeable. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私の最後はあなたがいい",
     "exampleZh": "我的最后就交给你",
@@ -545,10 +521,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "まま",
     "kana": "まま",
     "romaji": "mama",
-    "zh": "释义：as (it is); remaining (in a state); keeping (the same); leaving (unchanged); with (e.g. one's eyes closed, the light on); while (e.g. standing, alive)",
+    "zh": "和……一起",
     "en": "as (it is); remaining (in a state); keeping (the same); leaving (unchanged); with (e.g. one's eyes closed, the light on); while (e.g. standing, alive)",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：as (it is); remaining (in a state); keeping (the same); leaving (unchanged); with (e.g. one's eyes closed, the light on); while (e.g. standing, alive)。出自例句「あなたとこのままおさらばするより」。",
+    "introZh": "词典释义：和……一起。出自例句「あなたとこのままおさらばするより」。",
     "introEn": "Meaning: as (it is); remaining (in a state); keeping (the same); leaving (unchanged); with (e.g. one's eyes closed, the light on); while (e.g. standing, alive). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたとこのままおさらばするより",
     "exampleZh": "如果就这样和你分开",
@@ -587,10 +563,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "する",
     "kana": "する",
     "romaji": "suru",
-    "zh": "释义：to do; to carry out; to perform; to cause to become; to make (into); to turn (into)",
+    "zh": "做；进行；执行；完成；表演；使变成；做成；使变为",
     "en": "to do; to carry out; to perform; to cause to become; to make (into); to turn (into)",
     "partOfSpeech": "动词 / verb; suru verb",
-    "introZh": "词典释义：to do; to carry out; to perform; to cause to become; to make (into); to turn (into)。出自例句「あなたとこのままおさらばするより」。",
+    "introZh": "词典释义：做；进行；执行；完成；表演；使变成；做成；使变为。出自例句「あなたとこのままおさらばするより」。",
     "introEn": "Meaning: to do; to carry out; to perform; to cause to become; to make (into); to turn (into). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたとこのままおさらばするより",
     "exampleZh": "如果就这样和你分开",
@@ -608,10 +584,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "より",
     "kana": "より",
     "romaji": "yori",
-    "zh": "释义：than; rather than; instead of; over; above; from",
+    "zh": "从；由于",
     "en": "than; rather than; instead of; over; above; from",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：than; rather than; instead of; over; above; from。出自例句「あなたとこのままおさらばするより」。",
+    "introZh": "词典释义：从；由于。出自例句「あなたとこのままおさらばするより」。",
     "introEn": "Meaning: than; rather than; instead of; over; above; from. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたとこのままおさらばするより",
     "exampleZh": "如果就这样和你分开",
@@ -629,10 +605,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "死ぬ",
     "kana": "しぬ",
     "romaji": "shinu",
-    "zh": "释义：to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease",
+    "zh": "死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止",
     "en": "to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease。出自例句「死ぬのがいいわ 死ぬのがいいわ」。",
+    "introZh": "词典释义：死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止。出自例句「死ぬのがいいわ 死ぬのがいいわ」。",
     "introEn": "Meaning: to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死ぬのがいいわ 死ぬのがいいわ",
     "exampleZh": "不如让我去死 不如让我去死",
@@ -643,20 +619,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しぬ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-308f-30",
     "japanese": "わ",
     "kana": "わ",
     "romaji": "wa",
-    "zh": "释义：indicates emotion or admiration; indicates emphasis; I; me; wah!; boo!",
+    "zh": "我",
     "en": "indicates emotion or admiration; indicates emphasis; I; me; wah!; boo!",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：indicates emotion or admiration; indicates emphasis; I; me; wah!; boo!。出自例句「死ぬのがいいわ 死ぬのがいいわ」。",
+    "introZh": "词典释义：我。出自例句「死ぬのがいいわ 死ぬのがいいわ」。",
     "introEn": "Meaning: indicates emotion or admiration; indicates emphasis; I; me; wah!; boo!. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死ぬのがいいわ 死ぬのがいいわ",
     "exampleZh": "不如让我去死 不如让我去死",
@@ -674,10 +647,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "三",
     "kana": "さん",
     "romaji": "san",
-    "zh": "释义：three; 3",
+    "zh": "结合本句可理解为：你比一日三餐还重要",
     "en": "three; 3",
     "partOfSpeech": "名词 / noun; numeric",
-    "introZh": "词典释义：three; 3。出自例句「三度の飯よりあんたがいいのよ」。",
+    "introZh": "词典释义：结合本句可理解为：你比一日三餐还重要。出自例句「三度の飯よりあんたがいいのよ」。",
     "introEn": "Meaning: three; 3. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "三度の飯よりあんたがいいのよ",
     "exampleZh": "你比一日三餐还重要",
@@ -688,20 +661,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5ea6-32",
     "japanese": "度",
     "kana": "ど",
     "romaji": "do",
-    "zh": "释义：degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume",
+    "zh": "结合本句可理解为：你比一日三餐还重要",
     "en": "degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume。出自例句「三度の飯よりあんたがいいのよ」。",
+    "introZh": "词典释义：结合本句可理解为：你比一日三餐还重要。出自例句「三度の飯よりあんたがいいのよ」。",
     "introEn": "Meaning: degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "三度の飯よりあんたがいいのよ",
     "exampleZh": "你比一日三餐还重要",
@@ -712,20 +682,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ど"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-98ef-33",
     "japanese": "飯",
     "kana": "めし",
     "romaji": "meshi",
-    "zh": "释义：cooked rice; meal; food; one's living; livelihood",
+    "zh": "结合本句可理解为：你比一日三餐还重要",
     "en": "cooked rice; meal; food; one's living; livelihood",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：cooked rice; meal; food; one's living; livelihood。出自例句「三度の飯よりあんたがいいのよ」。",
+    "introZh": "词典释义：结合本句可理解为：你比一日三餐还重要。出自例句「三度の飯よりあんたがいいのよ」。",
     "introEn": "Meaning: cooked rice; meal; food; one's living; livelihood. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "三度の飯よりあんたがいいのよ",
     "exampleZh": "你比一日三餐还重要",
@@ -736,20 +703,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "めし"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-3093-305f-34",
     "japanese": "あんた",
     "kana": "あんた",
     "romaji": "anta",
-    "zh": "释义：you",
+    "zh": "你",
     "en": "you",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：you。出自例句「三度の飯よりあんたがいいのよ」。",
+    "introZh": "词典释义：你。出自例句「三度の飯よりあんたがいいのよ」。",
     "introEn": "Meaning: you. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "三度の飯よりあんたがいいのよ",
     "exampleZh": "你比一日三餐还重要",
@@ -767,10 +731,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "か",
     "kana": "か",
     "romaji": "ka",
-    "zh": "释义：indicates a question; indicates an embedded question; indicates an indirect question; or; whether or not; either ... or ...",
+    "zh": "结合本句可理解为：如果就这样和你分开",
     "en": "indicates a question; indicates an embedded question; indicates an indirect question; or; whether or not; either ... or ...",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：indicates a question; indicates an embedded question; indicates an indirect question; or; whether or not; either ... or ...。出自例句「あんたとこのままおさらばするよか」。",
+    "introZh": "词典释义：结合本句可理解为：如果就这样和你分开。出自例句「あんたとこのままおさらばするよか」。",
     "introEn": "Meaning: indicates a question; indicates an embedded question; indicates an indirect question; or; whether or not; either ... or .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あんたとこのままおさらばするよか",
     "exampleZh": "如果就这样和你分开",
@@ -788,10 +752,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "それでも",
     "kana": "それでも",
     "romaji": "soredemo",
-    "zh": "释义：but (still); and yet; nevertheless; even so; notwithstanding",
+    "zh": "但是；不过；然而；即便如此；尽管如此",
     "en": "but (still); and yet; nevertheless; even so; notwithstanding",
     "partOfSpeech": "连接词 / conjunction",
-    "introZh": "词典释义：but (still); and yet; nevertheless; even so; notwithstanding。出自例句「それでも時々 浮つくmy heart」。",
+    "introZh": "词典释义：但是；不过；然而；即便如此；尽管如此。出自例句「それでも時々 浮つくmy heart」。",
     "introEn": "Meaning: but (still); and yet; nevertheless; even so; notwithstanding. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "それでも時々 浮つくmy heart",
     "exampleZh": "即便如此 我还是偶尔花心",
@@ -823,10 +787,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うわつく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6d-79-38",
@@ -875,11 +836,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "死ん",
     "kana": "しん",
     "romaji": "shin",
-    "zh": "释义：wick; marrow; staple (for stapler); (pencil) lead; stuffing; pith",
-    "en": "wick; marrow; staple (for stapler); (pencil) lead; stuffing; pith",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：wick; marrow; staple (for stapler); (pencil) lead; stuffing; pith。出自例句「死んでも治らな治してみせます baby」。",
-    "introEn": "Meaning: wick; marrow; staple (for stapler); (pencil) lead; stuffing; pith. Dictionary data: local Kotobako/JMdict.",
+    "zh": "死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止",
+    "en": "to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止。出自例句「死んでも治らな治してみせます baby」。",
+    "introEn": "Meaning: to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -891,8 +852,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "死ぬ",
-      "しん"
+      "死ぬ"
     ]
   },
   {
@@ -900,10 +860,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "治ら",
     "kana": "なおら",
     "romaji": "naora",
-    "zh": "释义：to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal",
+    "zh": "好转；恢复；好起来；痊愈；康复；从病中恢复；被治好；复原",
     "en": "to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal。出自例句「死んでも治らな治してみせます baby」。",
+    "introZh": "词典释义：好转；恢复；好起来；痊愈；康复；从病中恢复；被治好；复原。出自例句「死んでも治らな治してみせます baby」。",
     "introEn": "Meaning: to get better; to get well; to recover (from an illness); to be cured; to be restored; to heal. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
@@ -916,8 +876,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "治る",
-      "なおら"
+      "治る"
     ]
   },
   {
@@ -925,11 +884,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "な",
     "kana": "な",
     "romaji": "na",
-    "zh": "释义：don't; do; hey; listen; look; say",
-    "en": "don't; do; hey; listen; look; say",
-    "partOfSpeech": "助动词 / auxiliary; particle",
-    "introZh": "词典释义：don't; do; hey; listen; look; say。出自例句「死んでも治らな治してみせます baby」。",
-    "introEn": "Meaning: don't; do; hey; listen; look; say. Dictionary data: local Kotobako/JMdict.",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
+    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "partOfSpeech": "助动词 / auxiliary; i-adjective",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「死んでも治らな治してみせます baby」。",
+    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -949,11 +908,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "治し",
     "kana": "なおし",
     "romaji": "naoshi",
-    "zh": "释义：correction; rectification; mending; repair",
-    "en": "correction; rectification; mending; repair",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：correction; rectification; mending; repair。出自例句「死んでも治らな治してみせます baby」。",
-    "introEn": "Meaning: correction; rectification; mending; repair. Dictionary data: local Kotobako/JMdict.",
+    "zh": "治好；治愈；痊愈",
+    "en": "to cure; to heal",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：治好；治愈；痊愈。出自例句「死んでも治らな治してみせます baby」。",
+    "introEn": "Meaning: to cure; to heal. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -965,8 +924,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "治す",
-      "なおし"
+      "治す"
     ]
   },
   {
@@ -974,11 +932,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "みせ",
     "kana": "みせ",
     "romaji": "mise",
-    "zh": "释义：store; shop; establishment; restaurant",
-    "en": "store; shop; establishment; restaurant",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：store; shop; establishment; restaurant。出自例句「死んでも治らな治してみせます baby」。",
-    "introEn": "Meaning: store; shop; establishment; restaurant. Dictionary data: local Kotobako/JMdict.",
+    "zh": "显示；给……看；展示；使某物或某人显得……；呈现出……的样子；使……值得一看；有看头；有趣",
+    "en": "to show; to display; to make (something or someone) look ...; to present an appearance of ...; to make (something) worth watching; to be entertaining",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：显示；给……看；展示；使某物或某人显得……；呈现出……的样子；使……值得一看；有看头；有趣。出自例句「死んでも治らな治してみせます baby」。",
+    "introEn": "Meaning: to show; to display; to make (something or someone) look ...; to present an appearance of ...; to make (something) worth watching; to be entertaining. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -998,11 +956,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ます",
     "kana": "ます",
     "romaji": "masu",
-    "zh": "释义：mass; mass (media, production, etc.)",
-    "en": "mass; mass (media, production, etc.)",
-    "partOfSpeech": "助动词 / auxiliary; noun",
-    "introZh": "词典释义：mass; mass (media, production, etc.)。出自例句「死んでも治らな治してみせます baby」。",
-    "introEn": "Meaning: mass; mass (media, production, etc.). Dictionary data: local Kotobako/JMdict.",
+    "zh": "礼貌助动词，让动词语气更郑重。",
+    "en": "Polite auxiliary attached to verbs.",
+    "partOfSpeech": "助动词 / auxiliary",
+    "introZh": "语法说明：礼貌助动词，让动词语气更郑重。 出自例句「死んでも治らな治してみせます baby」。",
+    "introEn": "Polite auxiliary attached to verbs. Example line: \"死んでも治らな治してみせます baby\".",
     "exampleJp": "死んでも治らな治してみせます baby",
     "exampleZh": "死也治不好的毛病我也要治好给你看 baby",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -1012,7 +970,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-62-61-62-79-46",
@@ -1040,10 +998,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "失っ",
     "kana": "うしなっ",
     "romaji": "ushina",
-    "zh": "释义：to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)",
+    "zh": "失去；输掉；错过机会；失去亲近的人；丧失；失分；让分",
     "en": "to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)。出自例句「失って初めて気がつくなんて」。",
+    "introZh": "词典释义：失去；输掉；错过机会；失去亲近的人；丧失；失分；让分。出自例句「失って初めて気がつくなんて」。",
     "introEn": "Meaning: to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失って初めて気がつくなんて",
     "exampleZh": "失去了才知道珍惜",
@@ -1056,8 +1014,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "失う",
-      "うしなっ"
+      "失う"
     ]
   },
   {
@@ -1065,10 +1022,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "気",
     "kana": "き",
     "romaji": "ki",
-    "zh": "释义：spirit; mind; heart; nature; disposition; intention",
+    "zh": "精神；心；内心；本性；自然；性情；倾向；意图",
     "en": "spirit; mind; heart; nature; disposition; intention",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：spirit; mind; heart; nature; disposition; intention。出自例句「失って初めて気がつくなんて」。",
+    "introZh": "词典释义：精神；心；内心；本性；自然；性情；倾向；意图。出自例句「失って初めて気がつくなんて」。",
     "introEn": "Meaning: spirit; mind; heart; nature; disposition; intention. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失って初めて気がつくなんて",
     "exampleZh": "失去了才知道珍惜",
@@ -1079,20 +1036,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "き"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3064-304f-49",
     "japanese": "つく",
     "kana": "つく",
     "romaji": "tsuku",
-    "zh": "释义：to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on",
+    "zh": "结合本句可理解为：失去了才知道珍惜",
     "en": "to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on。出自例句「失って初めて気がつくなんて」。",
+    "introZh": "词典释义：结合本句可理解为：失去了才知道珍惜。出自例句「失って初めて気がつくなんて」。",
     "introEn": "Meaning: to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失って初めて気がつくなんて",
     "exampleZh": "失去了才知道珍惜",
@@ -1110,10 +1064,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なんて",
     "kana": "なんて",
     "romaji": "nante",
-    "zh": "释义：how ...!; what ...!; what?; what's that?",
+    "zh": "什么？",
     "en": "how ...!; what ...!; what?; what's that?",
     "partOfSpeech": "助词 / particle; adj-f · adverb",
-    "introZh": "词典释义：how ...!; what ...!; what?; what's that?。出自例句「失って初めて気がつくなんて」。",
+    "introZh": "词典释义：什么？。出自例句「失って初めて気がつくなんて」。",
     "introEn": "Meaning: how ...!; what ...!; what?; what's that?. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失って初めて気がつくなんて",
     "exampleZh": "失去了才知道珍惜",
@@ -1131,10 +1085,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "そんな",
     "kana": "そんな",
     "romaji": "sonna",
-    "zh": "释义：such; that sort of; that kind of; like that; no way!; never!",
+    "zh": "这样的；那种；像那样",
     "en": "such; that sort of; that kind of; like that; no way!; never!",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：such; that sort of; that kind of; like that; no way!; never!。出自例句「そんなダサいこと もうしたないのよ goodbye」。",
+    "introZh": "词典释义：这样的；那种；像那样。出自例句「そんなダサいこと もうしたないのよ goodbye」。",
     "introEn": "Meaning: such; that sort of; that kind of; like that; no way!; never!. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなダサいこと もうしたないのよ goodbye",
     "exampleZh": "这种逊毙了事情 可再也不做了 Goodbye",
@@ -1166,21 +1120,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ださい"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3082-3046-3057-53",
     "japanese": "もうし",
     "kana": "もうし",
     "romaji": "moushi",
-    "zh": "语境释义：这种逊毙了事情 可再也不做了 Goodbye",
-    "en": "Context meaning: 这种逊毙了事情 可再也不做了 Goodbye",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「もうし」。本句语境：这种逊毙了事情 可再也不做了 Goodbye",
-    "introEn": "Read as \"moushi\". Context: 这种逊毙了事情 可再也不做了 Goodbye",
+    "zh": "做；进行",
+    "en": "to say; to be called; to do",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：做；进行。出自例句「そんなダサいこと もうしたないのよ goodbye」。",
+    "introEn": "Meaning: to say; to be called; to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなダサいこと もうしたないのよ goodbye",
     "exampleZh": "这种逊毙了事情 可再也不做了 Goodbye",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -1190,7 +1141,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "もうす"
     ]
@@ -1200,11 +1151,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "た",
     "kana": "た",
     "romaji": "ta",
-    "zh": "释义：multi-",
-    "en": "multi-",
-    "partOfSpeech": "助动词 / auxiliary; noun · prefix",
-    "introZh": "词典释义：multi-。出自例句「そんなダサいこと もうしたないのよ goodbye」。",
-    "introEn": "Meaning: multi-. Dictionary data: local Kotobako/JMdict.",
+    "zh": "过去或完成助动词，相当于“了/过”。",
+    "en": "Past or completion auxiliary.",
+    "partOfSpeech": "助动词 / auxiliary",
+    "introZh": "语法说明：过去或完成助动词，相当于“了/过”。 出自例句「そんなダサいこと もうしたないのよ goodbye」。",
+    "introEn": "Past or completion auxiliary. Example line: \"そんなダサいこと もうしたないのよ goodbye\".",
     "exampleJp": "そんなダサいこと もうしたないのよ goodbye",
     "exampleZh": "这种逊毙了事情 可再也不做了 Goodbye",
     "exampleEn": "Example line from \"死ぬのがいいわ\" by 藤井風.",
@@ -1214,7 +1165,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-67-6f-6f-64-62-79-65-55",
@@ -1242,10 +1193,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "もう",
     "kana": "もう",
     "romaji": "mou",
-    "zh": "释义：already; yet; by now; now; (not) any more; (not) any longer",
+    "zh": "已经；还；然而；现在",
     "en": "already; yet; by now; now; (not) any more; (not) any longer",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：already; yet; by now; now; (not) any more; (not) any longer。出自例句「そんなダサいのは もう要らないのよ byebye」。",
+    "introZh": "词典释义：已经；还；然而；现在。出自例句「そんなダサいのは もう要らないのよ byebye」。",
     "introEn": "Meaning: already; yet; by now; now; (not) any more; (not) any longer. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなダサいのは もう要らないのよ byebye",
     "exampleZh": "这种逊毙的事儿再无必要 byebye",
@@ -1284,10 +1235,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "走り出し",
     "kana": "はしりだし",
     "romaji": "hashiridashi",
-    "zh": "释义：to begin to run; to start running; to break into a run; to start moving (e.g. a vehicle); to take off; to get under way",
+    "zh": "开始跑；开始跑起来；突然跑起来；开始移动（如车辆）；起飞；出发；开始进行；启程",
     "en": "to begin to run; to start running; to break into a run; to start moving (e.g. a vehicle); to take off; to get under way",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to begin to run; to start running; to break into a run; to start moving (e.g. a vehicle); to take off; to get under way。出自例句「走り出した午後も」。",
+    "introZh": "词典释义：开始跑；开始跑起来；突然跑起来；开始移动（如车辆）；起飞；出发；开始进行；启程。出自例句「走り出した午後も」。",
     "introEn": "Meaning: to begin to run; to start running; to break into a run; to start moving (e.g. a vehicle); to take off; to get under way. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "走り出した午後も",
     "exampleZh": "午后时分 迈出步伐",
@@ -1300,8 +1251,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "走り出す",
-      "はしりだし"
+      "走り出す"
     ]
   },
   {
@@ -1323,20 +1273,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "かさねあう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-65e5-3005-60",
     "japanese": "日々",
     "kana": "ひび",
     "romaji": "hibi",
-    "zh": "释义：daily; everyday; days (e.g. of one's youth); every day; day after day; day by day",
+    "zh": "每日的；日常的；每天的；每天",
     "en": "daily; everyday; days (e.g. of one's youth); every day; day after day; day by day",
     "partOfSpeech": "名词 / noun; no-adjective",
-    "introZh": "词典释义：daily; everyday; days (e.g. of one's youth); every day; day after day; day by day。出自例句「重ね合う日々も」。",
+    "introZh": "词典释义：每日的；日常的；每天的；每天。出自例句「重ね合う日々も」。",
     "introEn": "Meaning: daily; everyday; days (e.g. of one's youth); every day; day after day; day by day. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "重ね合う日々も",
     "exampleZh": "日复一日",
@@ -1347,10 +1294,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひび"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304c-305f-304f-61",
@@ -1381,10 +1325,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "来る",
     "kana": "くる",
     "romaji": "kuru",
-    "zh": "释义：to come (spatially or temporally); to approach; to arrive; to come back; to do ... and come back; to come to be",
+    "zh": "到达；抵达",
     "en": "to come (spatially or temporally); to approach; to arrive; to come back; to do ... and come back; to come to be",
     "partOfSpeech": "动词 / verb; kuru verb · intransitive verb",
-    "introZh": "词典释义：to come (spatially or temporally); to approach; to arrive; to come back; to do ... and come back; to come to be。出自例句「避けがたく全て終わりが来る」。",
+    "introZh": "词典释义：到达；抵达。出自例句「避けがたく全て終わりが来る」。",
     "introEn": "Meaning: to come (spatially or temporally); to approach; to arrive; to come back; to do ... and come back; to come to be. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "避けがたく全て終わりが来る",
     "exampleZh": "这一切注定将迎来终焉",
@@ -1395,20 +1339,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-306e-63",
     "japanese": "あの",
     "kana": "あの",
     "romaji": "ano",
-    "zh": "释义：that; those; the",
+    "zh": "那个；那样；那；这个",
     "en": "that; those; the",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：that; those; the。出自例句「あの日のきらめきも」。",
+    "introZh": "词典释义：那个；那样；那；这个。出自例句「あの日のきらめきも」。",
     "introEn": "Meaning: that; those; the. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あの日のきらめきも",
     "exampleZh": "某日的光辉",
@@ -1426,10 +1367,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "日",
     "kana": "ひ",
     "romaji": "hi",
-    "zh": "释义：day; days; sun; sunshine; sunlight; (the) day",
+    "zh": "结合本句可理解为：某日的光辉",
     "en": "day; days; sun; sunshine; sunlight; (the) day",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：day; days; sun; sunshine; sunlight; (the) day。出自例句「あの日のきらめきも」。",
+    "introZh": "词典释义：结合本句可理解为：某日的光辉。出自例句「あの日のきらめきも」。",
     "introEn": "Meaning: day; days; sun; sunshine; sunlight; (the) day. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あの日のきらめきも",
     "exampleZh": "某日的光辉",
@@ -1440,10 +1381,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304d-3089-3081-304d-65",
@@ -1474,10 +1412,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "淡い",
     "kana": "あわい",
     "romaji": "awai",
-    "zh": "释义：light; faint; pale; fleeting",
+    "zh": "光；轻微的；短暂的；转瞬即逝的",
     "en": "light; faint; pale; fleeting",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：light; faint; pale; fleeting。出自例句「淡いときめきも」。",
+    "introZh": "词典释义：光；轻微的；短暂的；转瞬即逝的。出自例句「淡いときめきも」。",
     "introEn": "Meaning: light; faint; pale; fleeting. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "淡いときめきも",
     "exampleZh": "浅浅的悸动",
@@ -1488,10 +1426,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あわい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3068-304d-3081-304d-67",
@@ -1519,10 +1454,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "あれ",
     "kana": "あれ",
     "romaji": "are",
-    "zh": "释义：that; that thing; that person; then; that time; that place (over there)",
+    "zh": "那个；那样；然后；那时；那个时候",
     "en": "that; that thing; that person; then; that time; that place (over there)",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：that; that thing; that person; then; that time; that place (over there)。出自例句「あれもこれもどこか置いてくる」。",
+    "introZh": "词典释义：那个；那样；然后；那时；那个时候。出自例句「あれもこれもどこか置いてくる」。",
     "introEn": "Meaning: that; that thing; that person; then; that time; that place (over there). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもどこか置いてくる",
     "exampleZh": "所有的一切 就把它们留在某处",
@@ -1540,10 +1475,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "これ",
     "kana": "これ",
     "romaji": "kore",
-    "zh": "释义：this; this one; this person; now; this point (in time); here",
+    "zh": "这个；这个人；这边；现在",
     "en": "this; this one; this person; now; this point (in time); here",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：this; this one; this person; now; this point (in time); here。出自例句「あれもこれもどこか置いてくる」。",
+    "introZh": "词典释义：这个；这个人；这边；现在。出自例句「あれもこれもどこか置いてくる」。",
     "introEn": "Meaning: this; this one; this person; now; this point (in time); here. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもどこか置いてくる",
     "exampleZh": "所有的一切 就把它们留在某处",
@@ -1561,10 +1496,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "どこ",
     "kana": "どこ",
     "romaji": "doko",
-    "zh": "释义：where; what place; how much (long, far); what extent",
+    "zh": "结合本句可理解为：所有的一切 就把它们留在某处",
     "en": "where; what place; how much (long, far); what extent",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：where; what place; how much (long, far); what extent。出自例句「あれもこれもどこか置いてくる」。",
+    "introZh": "词典释义：结合本句可理解为：所有的一切 就把它们留在某处。出自例句「あれもこれもどこか置いてくる」。",
     "introEn": "Meaning: where; what place; how much (long, far); what extent. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもどこか置いてくる",
     "exampleZh": "所有的一切 就把它们留在某处",
@@ -1582,11 +1517,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "置い",
     "kana": "おい",
     "romaji": "oi",
-    "zh": "释义：hey!; say!; I say!; come on!; look!; oi!",
-    "en": "hey!; say!; I say!; come on!; look!; oi!",
-    "partOfSpeech": "动词 / verb; interjection",
-    "introZh": "词典释义：hey!; say!; I say!; come on!; look!; oi!。出自例句「あれもこれもどこか置いてくる」。",
-    "introEn": "Meaning: hey!; say!; I say!; come on!; look!; oi!. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：所有的一切 就把它们留在某处",
+    "en": "to put; to place; to leave (behind); to establish (an organization, a facility, a position, etc.); to set up; to appoint (someone to a certain position)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：所有的一切 就把它们留在某处。出自例句「あれもこれもどこか置いてくる」。",
+    "introEn": "Meaning: to put; to place; to leave (behind); to establish (an organization, a facility, a position, etc.); to set up; to appoint (someone to a certain position). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもどこか置いてくる",
     "exampleZh": "所有的一切 就把它们留在某处",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1598,8 +1533,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "置く",
-      "おい"
+      "置く"
     ]
   },
   {
@@ -1607,10 +1541,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "くる",
     "kana": "くる",
     "romaji": "kuru",
-    "zh": "释义：to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book)",
+    "zh": "转向；变成",
     "en": "to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book)。出自例句「あれもこれもどこか置いてくる」。",
+    "introZh": "词典释义：转向；变成。出自例句「あれもこれもどこか置いてくる」。",
     "introEn": "Meaning: to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもどこか置いてくる",
     "exampleZh": "所有的一切 就把它们留在某处",
@@ -1628,10 +1562,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "それで",
     "kana": "それで",
     "romaji": "sorede",
-    "zh": "释义：so; therefore; and; (and) then",
+    "zh": "所以；那么；和；然后；那时",
     "en": "so; therefore; and; (and) then",
     "partOfSpeech": "连接词 / conjunction",
-    "introZh": "词典释义：so; therefore; and; (and) then。出自例句「それで良かったと」。",
+    "introZh": "词典释义：所以；那么；和；然后；那时。出自例句「それで良かったと」。",
     "introEn": "Meaning: so; therefore; and; (and) then. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "それで良かったと",
     "exampleZh": "那样也好",
@@ -1649,10 +1583,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "健やか",
     "kana": "すこやか",
     "romaji": "sukoyaka",
-    "zh": "释义：vigorous; healthy; sound",
+    "zh": "结合本句可理解为：直到迎来我们健健康康 相视而笑的那一天",
     "en": "vigorous; healthy; sound",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：vigorous; healthy; sound。出自例句「健やかに笑い合える日まで」。",
+    "introZh": "词典释义：结合本句可理解为：直到迎来我们健健康康 相视而笑的那一天。出自例句「健やかに笑い合える日まで」。",
     "introEn": "Meaning: vigorous; healthy; sound. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "健やかに笑い合える日まで",
     "exampleZh": "直到迎来我们健健康康 相视而笑的那一天",
@@ -1663,10 +1597,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "すこやか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5408-3048-308b-75",
@@ -1687,20 +1618,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あえる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-660e-3051-76",
     "japanese": "明け",
     "kana": "あけ",
     "romaji": "ake",
-    "zh": "释义：red; vermilion; cinnabar; scarlet",
+    "zh": "结合本句可理解为：黎明将近 又暗淡下去",
     "en": "red; vermilion; cinnabar; scarlet",
     "partOfSpeech": "动词 / verb; noun · no-adjective",
-    "introZh": "词典释义：red; vermilion; cinnabar; scarlet。出自例句「明けてゆく空も暮れてゆく空も」。",
+    "introZh": "词典释义：结合本句可理解为：黎明将近 又暗淡下去。出自例句「明けてゆく空も暮れてゆく空も」。",
     "introEn": "Meaning: red; vermilion; cinnabar; scarlet. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "明けてゆく空も暮れてゆく空も",
     "exampleZh": "黎明将近 又暗淡下去",
@@ -1713,8 +1641,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "明ける",
-      "あけ"
+      "明ける"
     ]
   },
   {
@@ -1743,11 +1670,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "暮れ",
     "kana": "くれ",
     "romaji": "kure",
-    "zh": "释义：sunset; sundown; nightfall; dusk; end; close",
-    "en": "sunset; sundown; nightfall; dusk; end; close",
-    "partOfSpeech": "动词 / verb; noun · adverb · no-adjective",
-    "introZh": "词典释义：sunset; sundown; nightfall; dusk; end; close。出自例句「明けてゆく空も暮れてゆく空も」。",
-    "introEn": "Meaning: sunset; sundown; nightfall; dusk; end; close. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结束；告终；关闭",
+    "en": "to get dark; to grow dark; to end (of a day, year, season, etc.); to come to an end; to close; to be sunk in (e.g. despair)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结束；告终；关闭。出自例句「明けてゆく空も暮れてゆく空も」。",
+    "introEn": "Meaning: to get dark; to grow dark; to end (of a day, year, season, etc.); to come to an end; to close; to be sunk in (e.g. despair). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "明けてゆく空も暮れてゆく空も",
     "exampleZh": "黎明将近 又暗淡下去",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1759,8 +1686,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "暮れる",
-      "くれ"
+      "暮れる"
     ]
   },
   {
@@ -1768,10 +1694,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "僕ら",
     "kana": "ぼくら",
     "romaji": "bokura",
-    "zh": "释义：we; us",
+    "zh": "结合本句可理解为：我们也将跨越这片苍穹",
     "en": "we; us",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：we; us。出自例句「僕らは超えてゆく」。",
+    "introZh": "词典释义：结合本句可理解为：我们也将跨越这片苍穹。出自例句「僕らは超えてゆく」。",
     "introEn": "Meaning: we; us. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らは超えてゆく",
     "exampleZh": "我们也将跨越这片苍穹",
@@ -1782,21 +1708,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぼくら"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8d85-3048-80",
     "japanese": "超え",
     "kana": "こえ",
     "romaji": "koe",
-    "zh": "释义：voice; singing (of a bird); chirping (of an insect); hoot; opinion (as expressed in words)",
-    "en": "voice; singing (of a bird); chirping (of an insect); hoot; opinion (as expressed in words)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：voice; singing (of a bird); chirping (of an insect); hoot; opinion (as expressed in words)。出自例句「僕らは超えてゆく」。",
-    "introEn": "Meaning: voice; singing (of a bird); chirping (of an insect); hoot; opinion (as expressed in words). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我们也将跨越这片苍穹",
+    "en": "to exceed; to cross over; to cross",
+    "partOfSpeech": "动词 / verb",
+    "introZh": "词典释义：结合本句可理解为：我们也将跨越这片苍穹。出自例句「僕らは超えてゆく」。",
+    "introEn": "Meaning: to exceed; to cross over; to cross. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らは超えてゆく",
     "exampleZh": "我们也将跨越这片苍穹",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1808,8 +1731,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "超える",
-      "こえ"
+      "超える"
     ]
   },
   {
@@ -1817,11 +1739,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "変わり",
     "kana": "かわり",
     "romaji": "kawari",
-    "zh": "释义：change; alteration; difference; distinction; something wrong; abnormality",
-    "en": "change; alteration; difference; distinction; something wrong; abnormality",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：change; alteration; difference; distinction; something wrong; abnormality。出自例句「変わりゆくものは仕方がないねと」。",
-    "introEn": "Meaning: change; alteration; difference; distinction; something wrong; abnormality. Dictionary data: local Kotobako/JMdict.",
+    "zh": "改变；变化；变形；被改变；发生改变；不同；搬到；移动到",
+    "en": "to change; to be transformed; to be altered; to vary; to move to; to be different",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：改变；变化；变形；被改变；发生改变；不同；搬到；移动到。出自例句「変わりゆくものは仕方がないねと」。",
+    "introEn": "Meaning: to change; to be transformed; to be altered; to vary; to move to; to be different. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わりゆくものは仕方がないねと",
     "exampleZh": "时过境迁 我们虽无计可施",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1833,8 +1755,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "変わる",
-      "かわり"
+      "変わる"
     ]
   },
   {
@@ -1842,10 +1763,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "もの",
     "kana": "もの",
     "romaji": "mono",
-    "zh": "释义：indicates reason or excuse; indicates dissatisfaction; indicates desire to be pampered or indulged",
+    "zh": "结合本句可理解为：时过境迁 我们虽无计可施",
     "en": "indicates reason or excuse; indicates dissatisfaction; indicates desire to be pampered or indulged",
     "partOfSpeech": "名词 / noun; particle",
-    "introZh": "词典释义：indicates reason or excuse; indicates dissatisfaction; indicates desire to be pampered or indulged。出自例句「変わりゆくものは仕方がないねと」。",
+    "introZh": "词典释义：结合本句可理解为：时过境迁 我们虽无计可施。出自例句「変わりゆくものは仕方がないねと」。",
     "introEn": "Meaning: indicates reason or excuse; indicates dissatisfaction; indicates desire to be pampered or indulged. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わりゆくものは仕方がないねと",
     "exampleZh": "时过境迁 我们虽无计可施",
@@ -1863,10 +1784,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "手",
     "kana": "て",
     "romaji": "te",
-    "zh": "释义：hand; arm; forepaw; foreleg; handle",
+    "zh": "手；手臂；前爪；前腿；把手；处理",
     "en": "hand; arm; forepaw; foreleg; handle",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：hand; arm; forepaw; foreleg; handle。出自例句「手を放す、軽くなる、満ちてゆく」。",
+    "introZh": "词典释义：手；手臂；前爪；前腿；把手；处理。出自例句「手を放す、軽くなる、満ちてゆく」。",
     "introEn": "Meaning: hand; arm; forepaw; foreleg; handle. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手を放す、軽くなる、満ちてゆく",
     "exampleZh": "放开双手，身体轻盈，逐渐满溢",
@@ -1878,9 +1799,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
-    "forms": [
-      "て"
-    ],
     "readingOptions": [
       "て",
       "しゅ"
@@ -1895,10 +1813,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "放す",
     "kana": "ほかす",
     "romaji": "hokasu",
-    "zh": "释义：to release; to let go; to free; to set free; to let loose; to turn loose",
+    "zh": "结合本句可理解为：放开双手，身体轻盈，逐渐满溢",
     "en": "to release; to let go; to free; to set free; to let loose; to turn loose",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to release; to let go; to free; to set free; to let loose; to turn loose。出自例句「手を放す、軽くなる、満ちてゆく」。",
+    "introZh": "词典释义：结合本句可理解为：放开双手，身体轻盈，逐渐满溢。出自例句「手を放す、軽くなる、満ちてゆく」。",
     "introEn": "Meaning: to release; to let go; to free; to set free; to let loose; to turn loose. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手を放す、軽くなる、満ちてゆく",
     "exampleZh": "放开双手，身体轻盈，逐渐满溢",
@@ -1909,20 +1827,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ほかす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306a-308b-85",
     "japanese": "なる",
     "kana": "なる",
     "romaji": "naru",
-    "zh": "释义：to become; to get; to grow; to turn; to reach; to attain",
+    "zh": "变成；成为；得到；变得；成长；转向；到达；达到",
     "en": "to become; to get; to grow; to turn; to reach; to attain",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to become; to get; to grow; to turn; to reach; to attain。出自例句「手を放す、軽くなる、満ちてゆく」。",
+    "introZh": "词典释义：变成；成为；得到；变得；成长；转向；到达；达到。出自例句「手を放す、軽くなる、満ちてゆく」。",
     "introEn": "Meaning: to become; to get; to grow; to turn; to reach; to attain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手を放す、軽くなる、満ちてゆく",
     "exampleZh": "放开双手，身体轻盈，逐渐满溢",
@@ -1940,11 +1855,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "満ち",
     "kana": "みち",
     "romaji": "michi",
-    "zh": "释义：road; path; street; lane; passage; route",
-    "en": "road; path; street; lane; passage; route",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：road; path; street; lane; passage; route。出自例句「手を放す、軽くなる、満ちてゆく」。",
-    "introEn": "Meaning: road; path; street; lane; passage; route. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：放开双手，身体轻盈，逐渐满溢",
+    "en": "to fill; to become full (of); to be filled (with); to brim (with); to wax (of the moon); to rise (of the tide)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：放开双手，身体轻盈，逐渐满溢。出自例句「手を放す、軽くなる、満ちてゆく」。",
+    "introEn": "Meaning: to fill; to become full (of); to be filled (with); to brim (with); to wax (of the moon); to rise (of the tide). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手を放す、軽くなる、満ちてゆく",
     "exampleZh": "放开双手，身体轻盈，逐渐满溢",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1956,8 +1871,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "満ちる",
-      "みち"
+      "満ちる"
     ]
   },
   {
@@ -1965,11 +1879,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "し",
     "kana": "し",
     "romaji": "shi",
-    "zh": "释义：and; besides; moreover; what's more; not only ... but also; because",
-    "en": "and; besides; moreover; what's more; not only ... but also; because",
-    "partOfSpeech": "动词 / verb; particle · conjunction",
-    "introZh": "词典释义：and; besides; moreover; what's more; not only ... but also; because。出自例句「手にした瞬間に」。",
-    "introEn": "Meaning: and; besides; moreover; what's more; not only ... but also; because. Dictionary data: local Kotobako/JMdict.",
+    "zh": "做；进行；执行；完成；表演；使变成；做成；使变为",
+    "en": "to do; to carry out; to perform; to cause to become; to make (into); to turn (into)",
+    "partOfSpeech": "动词 / verb; suru verb",
+    "introZh": "词典释义：做；进行；执行；完成；表演；使变成；做成；使变为。出自例句「手にした瞬間に」。",
+    "introEn": "Meaning: to do; to carry out; to perform; to cause to become; to make (into); to turn (into). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手にした瞬間に",
     "exampleZh": "当渴望之物到手的一刹那",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -1989,10 +1903,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "瞬間",
     "kana": "しゅんかん",
     "romaji": "shunkan",
-    "zh": "释义：moment; instant; second",
+    "zh": "瞬间",
     "en": "moment; instant; second",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：moment; instant; second。出自例句「手にした瞬間に」。",
+    "introZh": "词典释义：瞬间。出自例句「手にした瞬間に」。",
     "introEn": "Meaning: moment; instant; second. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手にした瞬間に",
     "exampleZh": "当渴望之物到手的一刹那",
@@ -2003,21 +1917,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しゅんかん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7121-304f-306a-308b-89",
     "japanese": "無くなる",
     "kana": "なくなる",
     "romaji": "nakunaru",
-    "zh": "释义：to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed",
-    "en": "to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed",
-    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed。出自例句「無くなる喜び」。",
-    "introEn": "Meaning: to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：便不再欢喜",
+    "en": "to disappear; to get lost",
+    "partOfSpeech": "动词 / verb",
+    "introZh": "词典释义：结合本句可理解为：便不再欢喜。出自例句「無くなる喜び」。",
+    "introEn": "Meaning: to disappear; to get lost. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無くなる喜び",
     "exampleZh": "便不再欢喜",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -2027,20 +1938,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "なくなる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3070-304b-308a-90",
     "japanese": "ばかり",
     "kana": "ばかり",
     "romaji": "bakari",
-    "zh": "释义：only; merely; nothing but; no more than; approximately; about",
+    "zh": "只有；仅仅；只是；只不过；不超过；大约；关于",
     "en": "only; merely; nothing but; no more than; approximately; about",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：only; merely; nothing but; no more than; approximately; about。出自例句「そんなものばかり追いかけては」。",
+    "introZh": "词典释义：只有；仅仅；只是；只不过；不超过；大约；关于。出自例句「そんなものばかり追いかけては」。",
     "introEn": "Meaning: only; merely; nothing but; no more than; approximately; about. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなものばかり追いかけては",
     "exampleZh": "总是去追逐那些虚幻之物",
@@ -2058,10 +1966,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "追いかけ",
     "kana": "おいかけ",
     "romaji": "oikake",
-    "zh": "释义：to chase; to run after; to pursue; subsequently; following that; (and) then",
+    "zh": "然后；那时",
     "en": "to chase; to run after; to pursue; subsequently; following that; (and) then",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to chase; to run after; to pursue; subsequently; following that; (and) then。出自例句「そんなものばかり追いかけては」。",
+    "introZh": "词典释义：然后；那时。出自例句「そんなものばかり追いかけては」。",
     "introEn": "Meaning: to chase; to run after; to pursue; subsequently; following that; (and) then. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなものばかり追いかけては",
     "exampleZh": "总是去追逐那些虚幻之物",
@@ -2074,8 +1982,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "追いかける",
-      "おいかけ"
+      "追いかける"
     ]
   },
   {
@@ -2083,10 +1990,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "無駄",
     "kana": "むだ",
     "romaji": "muda",
-    "zh": "释义：futility; waste; uselessness; pointlessness; idleness",
+    "zh": "徒劳；无益",
     "en": "futility; waste; uselessness; pointlessness; idleness",
     "partOfSpeech": "名词 / noun; noun · na-adjective",
-    "introZh": "词典释义：futility; waste; uselessness; pointlessness; idleness。出自例句「無駄にしてた“愛”という言葉」。",
+    "introZh": "词典释义：徒劳；无益。出自例句「無駄にしてた“愛”という言葉」。",
     "introEn": "Meaning: futility; waste; uselessness; pointlessness; idleness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無駄にしてた“愛”という言葉",
     "exampleZh": "把“爱”这个词语用得越发平庸",
@@ -2097,20 +2004,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "むだ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3068-3044-3046-93",
     "japanese": "という",
     "kana": "という",
     "romaji": "toiu",
-    "zh": "释义：called; named; that says; that; as many as; as much as",
+    "zh": "那个；那样",
     "en": "called; named; that says; that; as many as; as much as",
     "partOfSpeech": "助词 / particle; expression",
-    "introZh": "词典释义：called; named; that says; that; as many as; as much as。出自例句「無駄にしてた“愛”という言葉」。",
+    "introZh": "词典释义：那个；那样。出自例句「無駄にしてた“愛”という言葉」。",
     "introEn": "Meaning: called; named; that says; that; as many as; as much as. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無駄にしてた“愛”という言葉",
     "exampleZh": "把“爱”这个词语用得越发平庸",
@@ -2128,10 +2032,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "今",
     "kana": "いま",
     "romaji": "ima",
-    "zh": "释义：now; the present time; just now; soon; immediately; another",
+    "zh": "现在；很快；不久；立刻；马上",
     "en": "now; the present time; just now; soon; immediately; another",
     "partOfSpeech": "名词 / noun; noun · no-adjective · adverb",
-    "introZh": "词典释义：now; the present time; just now; soon; immediately; another。出自例句「今なら本当の意味が分かるのかな」。",
+    "introZh": "词典释义：现在；很快；不久；立刻；马上。出自例句「今なら本当の意味が分かるのかな」。",
     "introEn": "Meaning: now; the present time; just now; soon; immediately; another. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今なら本当の意味が分かるのかな",
     "exampleZh": "如今能知晓 何为真正的爱了吗",
@@ -2142,21 +2046,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いま"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306a-3089-95",
     "japanese": "なら",
     "kana": "なら",
     "romaji": "nara",
-    "zh": "释义：if; in case; if it is the case that; if it is true that; as for; on the topic of",
-    "en": "if; in case; if it is the case that; if it is true that; as for; on the topic of",
-    "partOfSpeech": "助动词 / auxiliary",
-    "introZh": "词典释义：if; in case; if it is the case that; if it is true that; as for; on the topic of。出自例句「今なら本当の意味が分かるのかな」。",
-    "introEn": "Meaning: if; in case; if it is the case that; if it is true that; as for; on the topic of. Dictionary data: local Kotobako/JMdict.",
+    "zh": "是；存在",
+    "en": "be; is",
+    "partOfSpeech": "助动词 / auxiliary; auxiliary verb · cop",
+    "introZh": "词典释义：是；存在。出自例句「今なら本当の意味が分かるのかな」。",
+    "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今なら本当の意味が分かるのかな",
     "exampleZh": "如今能知晓 何为真正的爱了吗",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -2176,10 +2077,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "意味",
     "kana": "いみ",
     "romaji": "imi",
-    "zh": "释义：meaning; significance; sense",
+    "zh": "意思；意义",
     "en": "meaning; significance; sense",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：meaning; significance; sense。出自例句「今なら本当の意味が分かるのかな」。",
+    "introZh": "词典释义：意思；意义。出自例句「今なら本当の意味が分かるのかな」。",
     "introEn": "Meaning: meaning; significance; sense. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今なら本当の意味が分かるのかな",
     "exampleZh": "如今能知晓 何为真正的爱了吗",
@@ -2190,20 +2091,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-611b-3055-97",
     "japanese": "愛さ",
     "kana": "あいさ",
     "romaji": "aisa",
-    "zh": "释义：to love",
+    "zh": "爱；喜欢",
     "en": "to love",
     "partOfSpeech": "动词 / verb; godan verb · vs-c · transitive verb",
-    "introZh": "词典释义：to love。出自例句「愛される為に」。",
+    "introZh": "词典释义：爱；喜欢。出自例句「愛される為に」。",
     "introEn": "Meaning: to love. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "愛される為に",
     "exampleZh": "为了被爱而去爱",
@@ -2216,8 +2114,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "愛す",
-      "あいさ"
+      "愛す"
     ]
   },
   {
@@ -2246,10 +2143,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "愛す",
     "kana": "あいす",
     "romaji": "aisu",
-    "zh": "释义：to love",
+    "zh": "爱；喜欢",
     "en": "to love",
     "partOfSpeech": "动词 / verb; godan verb · vs-c · transitive verb",
-    "introZh": "词典释义：to love。出自例句「愛すのは悲劇」。",
+    "introZh": "词典释义：爱；喜欢。出自例句「愛すのは悲劇」。",
     "introEn": "Meaning: to love. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "愛すのは悲劇",
     "exampleZh": "只不过是一场悲剧",
@@ -2260,20 +2157,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あいす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-60b2-5287-100",
     "japanese": "悲劇",
     "kana": "ひげき",
     "romaji": "higeki",
-    "zh": "释义：tragedy; tragic drama; tragic play; calamity; disaster",
+    "zh": "灾难",
     "en": "tragedy; tragic drama; tragic play; calamity; disaster",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：tragedy; tragic drama; tragic play; calamity; disaster。出自例句「愛すのは悲劇」。",
+    "introZh": "词典释义：灾难。出自例句「愛すのは悲劇」。",
     "introEn": "Meaning: tragedy; tragic drama; tragic play; calamity; disaster. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "愛すのは悲劇",
     "exampleZh": "只不过是一场悲剧",
@@ -2284,10 +2178,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひげき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30ab-30e9-30ab-30e9-101",
@@ -2308,20 +2199,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "からから"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5fc3-102",
     "japanese": "心",
     "kana": "こころ",
     "romaji": "kokoro",
-    "zh": "释义：mind; heart; spirit; the meaning of a phrase (riddle, etc.)",
+    "zh": "心；精神；内心",
     "en": "mind; heart; spirit; the meaning of a phrase (riddle, etc.)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：mind; heart; spirit; the meaning of a phrase (riddle, etc.)。出自例句「カラカラな心にお恵みを」。",
+    "introZh": "词典释义：心；精神；内心。出自例句「カラカラな心にお恵みを」。",
     "introEn": "Meaning: mind; heart; spirit; the meaning of a phrase (riddle, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "カラカラな心にお恵みを",
     "exampleZh": "让恩惠充盈这干涸的心灵",
@@ -2332,20 +2220,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こころ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304a-103",
     "japanese": "お",
     "kana": "お",
     "romaji": "o",
-    "zh": "释义：honorific/polite/humble prefix",
+    "zh": "结合本句可理解为：让恩惠充盈这干涸的心灵",
     "en": "honorific/polite/humble prefix",
     "partOfSpeech": "前缀 / prefix",
-    "introZh": "词典释义：honorific/polite/humble prefix。出自例句「カラカラな心にお恵みを」。",
+    "introZh": "词典释义：结合本句可理解为：让恩惠充盈这干涸的心灵。出自例句「カラカラな心にお恵みを」。",
     "introEn": "Meaning: honorific/polite/humble prefix. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "カラカラな心にお恵みを",
     "exampleZh": "让恩惠充盈这干涸的心灵",
@@ -2363,10 +2248,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "恵み",
     "kana": "めぐみ",
     "romaji": "megumi",
-    "zh": "释义：blessing; grace",
+    "zh": "祝福；恩惠；优雅",
     "en": "blessing; grace",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：blessing; grace。出自例句「カラカラな心にお恵みを」。",
+    "introZh": "词典释义：祝福；恩惠；优雅。出自例句「カラカラな心にお恵みを」。",
     "introEn": "Meaning: blessing; grace. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "カラカラな心にお恵みを",
     "exampleZh": "让恩惠充盈这干涸的心灵",
@@ -2377,21 +2262,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "めぐみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8352-308c-105",
     "japanese": "荒れ",
     "kana": "あれ",
     "romaji": "are",
-    "zh": "释义：stormy weather; tempest; chaps (of skin)",
-    "en": "stormy weather; tempest; chaps (of skin)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：stormy weather; tempest; chaps (of skin)。出自例句「晴れてゆく空も荒れてゆく空も」。",
-    "introEn": "Meaning: stormy weather; tempest; chaps (of skin). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：无论放晴 还是云卷风起",
+    "en": "to become stormy; to become rough (of the sea); to fall into ruin; to become neglected; to become dilapidated; to become rough (of skin)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：无论放晴 还是云卷风起。出自例句「晴れてゆく空も荒れてゆく空も」。",
+    "introEn": "Meaning: to become stormy; to become rough (of the sea); to fall into ruin; to become neglected; to become dilapidated; to become rough (of skin). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "晴れてゆく空も荒れてゆく空も",
     "exampleZh": "无论放晴 还是云卷风起",
     "exampleEn": "Example line from \"満ちてゆく\" by 藤井風.",
@@ -2403,8 +2285,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "荒れる",
-      "あれ"
+      "荒れる"
     ]
   },
   {
@@ -2428,8 +2309,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "愛でる",
-      "めで"
+      "愛でる"
     ]
   },
   {
@@ -2437,10 +2317,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "けれど",
     "kana": "けれど",
     "romaji": "keredo",
-    "zh": "释义：but; however; although",
+    "zh": "但是；不过；然而；虽然；尽管",
     "en": "but; however; although",
     "partOfSpeech": "助词 / particle; conjunction · particle",
-    "introZh": "词典释义：but; however; although。出自例句「何もないけれど全て差し出すよ」。",
+    "introZh": "词典释义：但是；不过；然而；虽然；尽管。出自例句「何もないけれど全て差し出すよ」。",
     "introEn": "Meaning: but; however; although. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もないけれど全て差し出すよ",
     "exampleZh": "虽然一无所有 但我会献上一切",
@@ -2458,10 +2338,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "差し出す",
     "kana": "さしだす",
     "romaji": "sashidasu",
-    "zh": "释义：to hold out; to extend (e.g. a hand); to present; to submit; to tender; to sacrifice",
+    "zh": "伸出；坚持；提出；呈现",
     "en": "to hold out; to extend (e.g. a hand); to present; to submit; to tender; to sacrifice",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hold out; to extend (e.g. a hand); to present; to submit; to tender; to sacrifice。出自例句「何もないけれど全て差し出すよ」。",
+    "introZh": "词典释义：伸出；坚持；提出；呈现。出自例句「何もないけれど全て差し出すよ」。",
     "introEn": "Meaning: to hold out; to extend (e.g. a hand); to present; to submit; to tender; to sacrifice. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もないけれど全て差し出すよ",
     "exampleZh": "虽然一无所有 但我会献上一切",
@@ -2472,10 +2352,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さしだす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-958b-3051-653e-3064-109",
@@ -2496,20 +2373,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あけはなつ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-95c7-110",
     "japanese": "闇",
     "kana": "やみ",
     "romaji": "yami",
-    "zh": "释义：darkness; the dark; bewilderment; despair; hopelessness; hidden place",
+    "zh": "黑暗；迷惘；迷惑；困惑；绝望",
     "en": "darkness; the dark; bewilderment; despair; hopelessness; hidden place",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：darkness; the dark; bewilderment; despair; hopelessness; hidden place。出自例句「闇を照らし道を示す」。",
+    "introZh": "词典释义：黑暗；迷惘；迷惑；困惑；绝望。出自例句「闇を照らし道を示す」。",
     "introEn": "Meaning: darkness; the dark; bewilderment; despair; hopelessness; hidden place. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "闇を照らし道を示す",
     "exampleZh": "照亮黑暗 指明前路",
@@ -2520,20 +2394,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "やみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3084-304c-3066-111",
     "japanese": "やがて",
     "kana": "やがて",
     "romaji": "yagate",
-    "zh": "释义：before long; soon; shortly; almost; nearly; finally",
+    "zh": "不久；很快；几乎；差不多；将近；终于；最后",
     "en": "before long; soon; shortly; almost; nearly; finally",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：before long; soon; shortly; almost; nearly; finally。出自例句「やがて生死を超えて繋がる」。",
+    "introZh": "词典释义：不久；很快；几乎；差不多；将近；终于；最后。出自例句「やがて生死を超えて繋がる」。",
     "introEn": "Meaning: before long; soon; shortly; almost; nearly; finally. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やがて生死を超えて繋がる",
     "exampleZh": "终有一天 跨越生死 连接彼此",
@@ -2551,10 +2422,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "生死",
     "kana": "せいし",
     "romaji": "seishi",
-    "zh": "释义：life and death; life or death; samsara (cycle of death and rebirth); death",
+    "zh": "结合本句可理解为：终有一天 跨越生死 连接彼此",
     "en": "life and death; life or death; samsara (cycle of death and rebirth); death",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：life and death; life or death; samsara (cycle of death and rebirth); death。出自例句「やがて生死を超えて繋がる」。",
+    "introZh": "词典释义：结合本句可理解为：终有一天 跨越生死 连接彼此。出自例句「やがて生死を超えて繋がる」。",
     "introEn": "Meaning: life and death; life or death; samsara (cycle of death and rebirth); death. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やがて生死を超えて繋がる",
     "exampleZh": "终有一天 跨越生死 连接彼此",
@@ -2565,20 +2436,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "せいし"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7e4b-304c-308b-113",
     "japanese": "繋がる",
     "kana": "つながる",
     "romaji": "tsunagaru",
-    "zh": "释义：to be connected (to); to be joined together; to be linked; to be tied together; to lead (to); to connect (of a telephone call, the internet, etc.)",
+    "zh": "连接到；关联到；连接；联系",
     "en": "to be connected (to); to be joined together; to be linked; to be tied together; to lead (to); to connect (of a telephone call, the internet, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be connected (to); to be joined together; to be linked; to be tied together; to lead (to); to connect (of a telephone call, the internet, etc.)。出自例句「やがて生死を超えて繋がる」。",
+    "introZh": "词典释义：连接到；关联到；连接；联系。出自例句「やがて生死を超えて繋がる」。",
     "introEn": "Meaning: to be connected (to); to be joined together; to be linked; to be tied together; to lead (to); to connect (of a telephone call, the internet, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やがて生死を超えて繋がる",
     "exampleZh": "终有一天 跨越生死 连接彼此",
@@ -2589,20 +2457,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つながる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5171-306b-114",
     "japanese": "共に",
     "kana": "ともに",
     "romaji": "tomoni",
-    "zh": "释义：together; jointly; at the same time; with; as ...; including",
+    "zh": "和……一起",
     "en": "together; jointly; at the same time; with; as ...; including",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：together; jointly; at the same time; with; as ...; including。出自例句「共に手を放す、軽くなる、満ちてゆく」。",
+    "introZh": "词典释义：和……一起。出自例句「共に手を放す、軽くなる、満ちてゆく」。",
     "introEn": "Meaning: together; jointly; at the same time; with; as ...; including. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "共に手を放す、軽くなる、満ちてゆく",
     "exampleZh": "一齐放手，身体轻盈，逐渐满溢",
@@ -2613,10 +2478,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ともに"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8352-308c-72c2-3046-115",
@@ -2637,20 +2499,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あれくるう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-4e8c-116",
     "japanese": "二",
     "kana": "に",
     "romaji": "ni",
-    "zh": "释义：two; 2",
+    "zh": "结合本句可理解为：狂暴的季节中 由二人沦为孤身一人 爽快",
     "en": "two; 2",
     "partOfSpeech": "名词 / noun; numeric",
-    "introZh": "词典释义：two; 2。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
+    "introZh": "词典释义：结合本句可理解为：狂暴的季节中 由二人沦为孤身一人 爽快。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
     "introEn": "Meaning: two; 2. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "荒れ狂う季節の中を二人は一人きり さらり",
     "exampleZh": "狂暴的季节中 由二人沦为孤身一人 爽快",
@@ -2661,20 +2520,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "に"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4eba-117",
     "japanese": "人",
     "kana": "にん",
     "romaji": "nin",
-    "zh": "释义：counter for people",
+    "zh": "结合本句可理解为：狂暴的季节中 由二人沦为孤身一人 爽快",
     "en": "counter for people",
     "partOfSpeech": "名词 / noun; counter",
-    "introZh": "词典释义：counter for people。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
+    "introZh": "词典释义：结合本句可理解为：狂暴的季节中 由二人沦为孤身一人 爽快。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
     "introEn": "Meaning: counter for people. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "荒れ狂う季節の中を二人は一人きり さらり",
     "exampleZh": "狂暴的季节中 由二人沦为孤身一人 爽快",
@@ -2685,20 +2541,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e00-118",
     "japanese": "一",
     "kana": "いち",
     "romaji": "ichi",
-    "zh": "释义：one; 1; best; first; foremost; beginning",
+    "zh": "最好；第一；开始；开端",
     "en": "one; 1; best; first; foremost; beginning",
     "partOfSpeech": "名词 / noun; numeric · prefix",
-    "introZh": "词典释义：one; 1; best; first; foremost; beginning。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
+    "introZh": "词典释义：最好；第一；开始；开端。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
     "introEn": "Meaning: one; 1; best; first; foremost; beginning. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "荒れ狂う季節の中を二人は一人きり さらり",
     "exampleZh": "狂暴的季节中 由二人沦为孤身一人 爽快",
@@ -2709,20 +2562,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304d-308a-119",
     "japanese": "きり",
     "kana": "きり",
     "romaji": "kiri",
-    "zh": "释义：end; finish; place to stop; bound; limit",
+    "zh": "结束；末尾；完成",
     "en": "end; finish; place to stop; bound; limit",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：end; finish; place to stop; bound; limit。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
+    "introZh": "词典释义：结束；末尾；完成。出自例句「荒れ狂う季節の中を二人は一人きり さらり」。",
     "introEn": "Meaning: end; finish; place to stop; bound; limit. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "荒れ狂う季節の中を二人は一人きり さらり",
     "exampleZh": "狂暴的季节中 由二人沦为孤身一人 爽快",
@@ -2761,10 +2611,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "行く",
     "kana": "いく",
     "romaji": "iku",
-    "zh": "释义：to go; to move (towards); to head (towards); to leave (for); to move through; to travel across",
+    "zh": "朝……移动",
     "en": "to go; to move (towards); to head (towards); to leave (for); to move through; to travel across",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to go; to move (towards); to head (towards); to leave (for); to move through; to travel across。出自例句「明け行く夕日の中を今夜も昼下がり さらり」。",
+    "introZh": "词典释义：朝……移动。出自例句「明け行く夕日の中を今夜も昼下がり さらり」。",
     "introEn": "Meaning: to go; to move (towards); to head (towards); to leave (for); to move through; to travel across. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "明け行く夕日の中を今夜も昼下がり さらり",
     "exampleZh": "夕阳迎来黎明 今夜辗转午后 爽快",
@@ -2775,20 +2625,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-663c-4e0b-304c-308a-122",
     "japanese": "昼下がり",
     "kana": "ひるさがり",
     "romaji": "hirusagari",
-    "zh": "释义：early afternoon",
+    "zh": "结合本句可理解为：夕阳迎来黎明 今夜辗转午后 爽快",
     "en": "early afternoon",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：early afternoon。出自例句「明け行く夕日の中を今夜も昼下がり さらり」。",
+    "introZh": "词典释义：结合本句可理解为：夕阳迎来黎明 今夜辗转午后 爽快。出自例句「明け行く夕日の中を今夜も昼下がり さらり」。",
     "introEn": "Meaning: early afternoon. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "明け行く夕日の中を今夜も昼下がり さらり",
     "exampleZh": "夕阳迎来黎明 今夜辗转午后 爽快",
@@ -2799,10 +2646,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひるさがり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-673d-3061-679c-3066-3088-123",
@@ -2825,8 +2669,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "朽ち果てる",
-      "くちはてよ"
+      "朽ち果てる"
     ]
   },
   {
@@ -2834,10 +2677,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "う",
     "kana": "う",
     "romaji": "u",
-    "zh": "释义：the Rabbit (fourth sign of the Chinese zodiac); the Hare; hour of the Rabbit (around 6am, 5-7am, or 6-8am); east; second month in the lunar calendar",
+    "zh": "结合本句可理解为：无论结局多么腐朽陈旧 都想在最后一笑释怀",
     "en": "the Rabbit (fourth sign of the Chinese zodiac); the Hare; hour of the Rabbit (around 6am, 5-7am, or 6-8am); east; second month in the lunar calendar",
     "partOfSpeech": "助动词 / auxiliary; noun",
-    "introZh": "词典释义：the Rabbit (fourth sign of the Chinese zodiac); the Hare; hour of the Rabbit (around 6am, 5-7am, or 6-8am); east; second month in the lunar calendar。出自例句「どれほど朽ち果てようと最後にゃ笑いたい」。",
+    "introZh": "词典释义：结合本句可理解为：无论结局多么腐朽陈旧 都想在最后一笑释怀。出自例句「どれほど朽ち果てようと最後にゃ笑いたい」。",
     "introEn": "Meaning: the Rabbit (fourth sign of the Chinese zodiac); the Hare; hour of the Rabbit (around 6am, 5-7am, or 6-8am); east; second month in the lunar calendar. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どれほど朽ち果てようと最後にゃ笑いたい",
     "exampleZh": "无论结局多么腐朽陈旧 都想在最后一笑释怀",
@@ -2876,10 +2719,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たい",
     "kana": "たい",
     "romaji": "tai",
-    "zh": "释义：want to do ...; would like to do ...; indicates emphasis; very ...",
+    "zh": "结合本句可理解为：无论结局多么腐朽陈旧 都想在最后一笑释怀",
     "en": "want to do ...; would like to do ...; indicates emphasis; very ...",
     "partOfSpeech": "助动词 / auxiliary; aux-adj · i-adjective",
-    "introZh": "词典释义：want to do ...; would like to do ...; indicates emphasis; very ...。出自例句「どれほど朽ち果てようと最後にゃ笑いたい」。",
+    "introZh": "词典释义：结合本句可理解为：无论结局多么腐朽陈旧 都想在最后一笑释怀。出自例句「どれほど朽ち果てようと最後にゃ笑いたい」。",
     "introEn": "Meaning: want to do ...; would like to do ...; indicates emphasis; very .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どれほど朽ち果てようと最後にゃ笑いたい",
     "exampleZh": "无论结局多么腐朽陈旧 都想在最后一笑释怀",
@@ -2897,10 +2740,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ため",
     "kana": "ため",
     "romaji": "tame",
-    "zh": "释义：good; advantage; benefit; welfare; sake; purpose",
+    "zh": "好的",
     "en": "good; advantage; benefit; welfare; sake; purpose",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：good; advantage; benefit; welfare; sake; purpose。出自例句「何のために戦おうとも動機は愛がいい」。",
+    "introZh": "词典释义：好的。出自例句「何のために戦おうとも動機は愛がいい」。",
     "introEn": "Meaning: good; advantage; benefit; welfare; sake; purpose. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何のために戦おうとも動機は愛がいい",
     "exampleZh": "无论为何而战 动机是爱便好",
@@ -2918,10 +2761,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "戦お",
     "kana": "たたかお",
     "romaji": "tatakao",
-    "zh": "释义：to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against); to compete (against)",
+    "zh": "结合本句可理解为：无论为何而战 动机是爱便好",
     "en": "to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against); to compete (against)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against); to compete (against)。出自例句「何のために戦おうとも動機は愛がいい」。",
+    "introZh": "词典释义：结合本句可理解为：无论为何而战 动机是爱便好。出自例句「何のために戦おうとも動機は愛がいい」。",
     "introEn": "Meaning: to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against); to compete (against). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何のために戦おうとも動機は愛がいい",
     "exampleZh": "无论为何而战 动机是爱便好",
@@ -2934,8 +2777,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "戦う",
-      "たたかお"
+      "戦う"
     ]
   },
   {
@@ -2943,10 +2785,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "動機",
     "kana": "どうき",
     "romaji": "douki",
-    "zh": "释义：motive; incentive; motif",
+    "zh": "动机",
     "en": "motive; incentive; motif",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：motive; incentive; motif。出自例句「何のために戦おうとも動機は愛がいい」。",
+    "introZh": "词典释义：动机。出自例句「何のために戦おうとも動機は愛がいい」。",
     "introEn": "Meaning: motive; incentive; motif. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何のために戦おうとも動機は愛がいい",
     "exampleZh": "无论为何而战 动机是爱便好",
@@ -2957,20 +2799,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "どうき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63a2-3055-130",
     "japanese": "探さ",
     "kana": "さがさ",
     "romaji": "sagasa",
-    "zh": "释义：to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
+    "zh": "结合本句可理解为：不必去追寻全新的日子 它总是在此",
     "en": "to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through。出自例句「新しい日々は探さずとも常に ここに」。",
+    "introZh": "词典释义：结合本句可理解为：不必去追寻全新的日子 它总是在此。出自例句「新しい日々は探さずとも常に ここに」。",
     "introEn": "Meaning: to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "新しい日々は探さずとも常に ここに",
     "exampleZh": "不必去追寻全新的日子 它总是在此",
@@ -2983,8 +2822,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "探す",
-      "さがさ"
+      "探す"
     ]
   },
   {
@@ -2992,10 +2830,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ず",
     "kana": "ず",
     "romaji": "zu",
-    "zh": "释义：drawing; picture; diagram; figure; illustration; chart",
+    "zh": "身影；形状",
     "en": "drawing; picture; diagram; figure; illustration; chart",
     "partOfSpeech": "助动词 / auxiliary; noun · n-suf",
-    "introZh": "词典释义：drawing; picture; diagram; figure; illustration; chart。出自例句「新しい日々は探さずとも常に ここに」。",
+    "introZh": "词典释义：身影；形状。出自例句「新しい日々は探さずとも常に ここに」。",
     "introEn": "Meaning: drawing; picture; diagram; figure; illustration; chart. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "新しい日々は探さずとも常に ここに",
     "exampleZh": "不必去追寻全新的日子 它总是在此",
@@ -3016,10 +2854,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "とも",
     "kana": "とも",
     "romaji": "tomo",
-    "zh": "释义：certainly; of course; to be sure; surely; even if; no matter (who, what, when, where, why, how)",
+    "zh": "即使",
     "en": "certainly; of course; to be sure; surely; even if; no matter (who, what, when, where, why, how)",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：certainly; of course; to be sure; surely; even if; no matter (who, what, when, where, why, how)。出自例句「新しい日々は探さずとも常に ここに」。",
+    "introZh": "词典释义：即使。出自例句「新しい日々は探さずとも常に ここに」。",
     "introEn": "Meaning: certainly; of course; to be sure; surely; even if; no matter (who, what, when, where, why, how). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "新しい日々は探さずとも常に ここに",
     "exampleZh": "不必去追寻全新的日子 它总是在此",
@@ -3037,11 +2875,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "見",
     "kana": "み",
     "romaji": "mi",
-    "zh": "释义：fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance",
-    "en": "fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
-    "introEn": "Meaning: fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance. Dictionary data: local Kotobako/JMdict.",
+    "zh": "看见；明白；看；瞧",
+    "en": "to see; to look; to watch; to view; to observe; to examine",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：看见；明白；看；瞧。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
+    "introEn": "Meaning: to see; to look; to watch; to view; to observe; to examine. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々見てきたけれどこの瞳は永遠に きらり",
     "exampleZh": "看遍人世百态 这双眼睛也永远澄澈明亮",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3053,8 +2891,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "見る",
-      "み"
+      "見る"
     ]
   },
   {
@@ -3062,11 +2899,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "き",
     "kana": "き",
     "romaji": "ki",
-    "zh": "释义：spirit; mind; heart; nature; disposition; intention",
-    "en": "spirit; mind; heart; nature; disposition; intention",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：spirit; mind; heart; nature; disposition; intention。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
-    "introEn": "Meaning: spirit; mind; heart; nature; disposition; intention. Dictionary data: local Kotobako/JMdict.",
+    "zh": "转向；变成",
+    "en": "to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：转向；变成。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
+    "introEn": "Meaning: to reel; to wind; to spin (thread); to turn (pages); to flip through (a book); to leaf through (a book). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々見てきたけれどこの瞳は永遠に きらり",
     "exampleZh": "看遍人世百态 这双眼睛也永远澄澈明亮",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3086,10 +2923,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "永遠",
     "kana": "えいえん",
     "romaji": "eien",
-    "zh": "释义：eternity; perpetuity; permanence; immortality",
+    "zh": "结合本句可理解为：看遍人世百态 这双眼睛也永远澄澈明亮",
     "en": "eternity; perpetuity; permanence; immortality",
     "partOfSpeech": "名词 / noun; noun · no-adjective · na-adjective",
-    "introZh": "词典释义：eternity; perpetuity; permanence; immortality。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
+    "introZh": "词典释义：结合本句可理解为：看遍人世百态 这双眼睛也永远澄澈明亮。出自例句「色々見てきたけれどこの瞳は永遠に きらり」。",
     "introEn": "Meaning: eternity; perpetuity; permanence; immortality. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々見てきたけれどこの瞳は永遠に きらり",
     "exampleZh": "看遍人世百态 这双眼睛也永远澄澈明亮",
@@ -3100,10 +2937,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "えいえん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304d-3089-308a-136",
@@ -3131,10 +2965,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "けど",
     "kana": "けど",
     "romaji": "kedo",
-    "zh": "释义：but; however; although",
+    "zh": "但是；不过；然而；虽然；尽管",
     "en": "but; however; although",
     "partOfSpeech": "助词 / particle; conjunction · particle",
-    "introZh": "词典释义：but; however; although。出自例句「あれほど生きてきたけど全ては夢みたい」。",
+    "introZh": "词典释义：但是；不过；然而；虽然；尽管。出自例句「あれほど生きてきたけど全ては夢みたい」。",
     "introEn": "Meaning: but; however; although. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれほど生きてきたけど全ては夢みたい",
     "exampleZh": "那样生活着 一切宛如梦境",
@@ -3168,8 +3002,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "夢みる",
-      "ゆめみ"
+      "夢みる"
     ]
   },
   {
@@ -3177,10 +3010,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "魅力",
     "kana": "みりょく",
     "romaji": "miryoku",
-    "zh": "释义：charm; fascination; glamour; glamor; attraction; appeal",
+    "zh": "魅力",
     "en": "charm; fascination; glamour; glamor; attraction; appeal",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：charm; fascination; glamour; glamor; attraction; appeal。出自例句「あれもこれも魅力的でも私は君がいい」。",
+    "introZh": "词典释义：魅力。出自例句「あれもこれも魅力的でも私は君がいい」。",
     "introEn": "Meaning: charm; fascination; glamour; glamor; attraction; appeal. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれも魅力的でも私は君がいい",
     "exampleZh": "一切都那么吸引人 但我只要你",
@@ -3191,20 +3024,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "みりょく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7684-140",
     "japanese": "的",
     "kana": "てき",
     "romaji": "teki",
-    "zh": "释义：-ical; -ive; -al; -ic; -y; -like",
+    "zh": "结合本句可理解为：一切都那么吸引人 但我只要你",
     "en": "-ical; -ive; -al; -ic; -y; -like",
     "partOfSpeech": "名词 / noun; suffix · na-adjective",
-    "introZh": "词典释义：-ical; -ive; -al; -ic; -y; -like。出自例句「あれもこれも魅力的でも私は君がいい」。",
+    "introZh": "词典释义：结合本句可理解为：一切都那么吸引人 但我只要你。出自例句「あれもこれも魅力的でも私は君がいい」。",
     "introEn": "Meaning: -ical; -ive; -al; -ic; -y; -like. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれも魅力的でも私は君がいい",
     "exampleZh": "一切都那么吸引人 但我只要你",
@@ -3215,20 +3045,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "てき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-541b-141",
     "japanese": "君",
     "kana": "きみ",
     "romaji": "kimi",
-    "zh": "释义：you; buddy; pal; monarch; ruler; sovereign",
+    "zh": "你",
     "en": "you; buddy; pal; monarch; ruler; sovereign",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：you; buddy; pal; monarch; ruler; sovereign。出自例句「あれもこれも魅力的でも私は君がいい」。",
+    "introZh": "词典释义：你。出自例句「あれもこれも魅力的でも私は君がいい」。",
     "introEn": "Meaning: you; buddy; pal; monarch; ruler; sovereign. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれも魅力的でも私は君がいい",
     "exampleZh": "一切都那么吸引人 但我只要你",
@@ -3239,21 +3066,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3044-142",
     "japanese": "い",
     "kana": "い",
     "romaji": "i",
-    "zh": "释义：stomach; Chinese \"stomach\" constellation (one of the 28 mansions)",
-    "en": "stomach; Chinese \"stomach\" constellation (one of the 28 mansions)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：stomach; Chinese \"stomach\" constellation (one of the 28 mansions)。出自例句「どこにいたの 探してたよ」。",
-    "introEn": "Meaning: stomach; Chinese \"stomach\" constellation (one of the 28 mansions). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：你前往何处了呢 我在寻找你哦",
+    "en": "to be needed; to be necessary; to be required; to be wanted; to need; to want",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：你前往何处了呢 我在寻找你哦。出自例句「どこにいたの 探してたよ」。",
+    "introEn": "Meaning: to be needed; to be necessary; to be required; to be wanted; to need; to want. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どこにいたの 探してたよ",
     "exampleZh": "你前往何处了呢 我在寻找你哦",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3273,10 +3097,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "探し",
     "kana": "さがし",
     "romaji": "sagashi",
-    "zh": "释义：to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
+    "zh": "结合本句可理解为：你前往何处了呢 我在寻找你哦",
     "en": "to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through。出自例句「どこにいたの 探してたよ」。",
+    "introZh": "词典释义：结合本句可理解为：你前往何处了呢 我在寻找你哦。出自例句「どこにいたの 探してたよ」。",
     "introEn": "Meaning: to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どこにいたの 探してたよ",
     "exampleZh": "你前往何处了呢 我在寻找你哦",
@@ -3289,8 +3113,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "探す",
-      "さがし"
+      "探す"
     ]
   },
   {
@@ -3298,11 +3121,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "っ",
     "kana": "っ",
     "romaji": "",
-    "zh": "语境释义：带我走吧 让我和你一起走吧",
-    "en": "Context meaning: 带我走吧 让我和你一起走吧",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「っ」。本句语境：带我走吧 让我和你一起走吧",
-    "introEn": "Read as \"\". Context: 带我走吧 让我和你一起走吧",
+    "zh": "通道；段落",
+    "en": "section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry)",
+    "partOfSpeech": "动词 / verb; noun · n-suf",
+    "introZh": "词典释义：通道；段落。出自例句「連れてって 連れてって」。",
+    "introEn": "Meaning: section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "連れてって 連れてって",
     "exampleZh": "带我走吧 让我和你一起走吧",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3312,7 +3135,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "く"
     ]
@@ -3336,20 +3159,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "なにもかも"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6368-3066-146",
     "japanese": "捨て",
     "kana": "すて",
     "romaji": "sute",
-    "zh": "释义：to throw away; to cast away; to dump; to discard; to abandon; to desert",
+    "zh": "放弃；抛弃",
     "en": "to throw away; to cast away; to dump; to discard; to abandon; to desert",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to throw away; to cast away; to dump; to discard; to abandon; to desert。出自例句「何もかも 捨ててくよ」。",
+    "introZh": "词典释义：放弃；抛弃。出自例句「何もかも 捨ててくよ」。",
     "introEn": "Meaning: to throw away; to cast away; to dump; to discard; to abandon; to desert. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも 捨ててくよ",
     "exampleZh": "为了你我可以舍弃一切",
@@ -3362,8 +3182,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "捨てる",
-      "すて"
+      "捨てる"
     ]
   },
   {
@@ -3371,10 +3190,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "く",
     "kana": "く",
     "romaji": "ku",
-    "zh": "释义：section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry)",
+    "zh": "通道；段落",
     "en": "section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry)",
     "partOfSpeech": "动词 / verb; noun · n-suf",
-    "introZh": "词典释义：section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry)。出自例句「何もかも 捨ててくよ」。",
+    "introZh": "词典释义：通道；段落。出自例句「何もかも 捨ててくよ」。",
     "introEn": "Meaning: section (i.e. of text); sentence; passage; paragraph; phrase; verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも 捨ててくよ",
     "exampleZh": "为了你我可以舍弃一切",
@@ -3392,10 +3211,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "群衆",
     "kana": "ぐんしゅう",
     "romaji": "gunshuu",
-    "zh": "释义：group (of people); crowd; horde; throng; mob; multitude",
+    "zh": "结合本句可理解为：狂乱的季节中 抑或是人海茫茫中",
     "en": "group (of people); crowd; horde; throng; mob; multitude",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：group (of people); crowd; horde; throng; mob; multitude。出自例句「荒れ狂う 季節の中も 群衆の中も」。",
+    "introZh": "词典释义：结合本句可理解为：狂乱的季节中 抑或是人海茫茫中。出自例句「荒れ狂う 季節の中も 群衆の中も」。",
     "introEn": "Meaning: group (of people); crowd; horde; throng; mob; multitude. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "荒れ狂う 季節の中も 群衆の中も",
     "exampleZh": "狂乱的季节中 抑或是人海茫茫中",
@@ -3406,21 +3225,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぐんしゅう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3070-149",
     "japanese": "ば",
     "kana": "ば",
     "romaji": "ba",
-    "zh": "释义：if ... then; when; and; why don't you ...?; the more (one does something); because",
-    "en": "if ... then; when; and; why don't you ...?; the more (one does something); because",
-    "partOfSpeech": "助词 / particle; particle · conjunction",
-    "introZh": "词典释义：if ... then; when; and; why don't you ...?; the more (one does something); because。出自例句「君とならば さらり さらり」。",
-    "introEn": "Meaning: if ... then; when; and; why don't you ...?; the more (one does something); because. Dictionary data: local Kotobako/JMdict.",
+    "zh": "条件形式，相当于“如果……就……”。",
+    "en": "Conditional marker, similar to if/when.",
+    "partOfSpeech": "助词 / particle",
+    "introZh": "语法说明：条件形式，相当于“如果……就……”。 出自例句「君とならば さらり さらり」。",
+    "introEn": "Conditional marker, similar to if/when. Example line: \"君とならば さらり さらり\".",
     "exampleJp": "君とならば さらり さらり",
     "exampleZh": "和你在一起便是快活",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3430,7 +3246,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-62d9-3044-150",
@@ -3451,20 +3267,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "つたない"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3057-307e-3063-151",
     "japanese": "しまっ",
     "kana": "しまっ",
     "romaji": "shima",
-    "zh": "释义：to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)",
+    "zh": "完成；结束；停止；关闭",
     "en": "to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)。出自例句「無くしてしまったものを振り返って ほろり」。",
+    "introZh": "词典释义：完成；结束；停止；关闭。出自例句「無くしてしまったものを振り返って ほろり」。",
     "introEn": "Meaning: to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無くしてしまったものを振り返って ほろり",
     "exampleZh": "回首看看那些失去之物 轻轻地",
@@ -3485,10 +3298,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "振り返っ",
     "kana": "ふりかえっ",
     "romaji": "furikae",
-    "zh": "释义：to turn one's head; to look over one's shoulder; to turn around; to look back; to think back (on); to reminisce",
+    "zh": "结合本句可理解为：回首看看那些失去之物 轻轻地",
     "en": "to turn one's head; to look over one's shoulder; to turn around; to look back; to think back (on); to reminisce",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb · transitive verb",
-    "introZh": "词典释义：to turn one's head; to look over one's shoulder; to turn around; to look back; to think back (on); to reminisce。出自例句「無くしてしまったものを振り返って ほろり」。",
+    "introZh": "词典释义：结合本句可理解为：回首看看那些失去之物 轻轻地。出自例句「無くしてしまったものを振り返って ほろり」。",
     "introEn": "Meaning: to turn one's head; to look over one's shoulder; to turn around; to look back; to think back (on); to reminisce. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無くしてしまったものを振り返って ほろり",
     "exampleZh": "回首看看那些失去之物 轻轻地",
@@ -3501,8 +3314,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "振り返る",
-      "ふりかえっ"
+      "振り返る"
     ]
   },
   {
@@ -3531,10 +3343,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "時には",
     "kana": "ときには",
     "romaji": "tokiniha",
-    "zh": "释义：at times; occasionally",
+    "zh": "有时；偶尔",
     "en": "at times; occasionally",
     "partOfSpeech": "副词 / adverb; expression · adverb",
-    "introZh": "词典释义：at times; occasionally。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
+    "introZh": "词典释义：有时；偶尔。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
     "introEn": "Meaning: at times; occasionally. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "時には途方に暮れてただ風に吹かれて ゆらり",
     "exampleZh": "有时我们不知所措 只能随风飘荡 摇晃",
@@ -3545,20 +3357,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ときには"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9014-65b9-155",
     "japanese": "途方",
     "kana": "とほう",
     "romaji": "tohou",
-    "zh": "释义：way; destination; reason",
+    "zh": "目的地；去向",
     "en": "way; destination; reason",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：way; destination; reason。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
+    "introZh": "词典释义：目的地；去向。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
     "introEn": "Meaning: way; destination; reason. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "時には途方に暮れてただ風に吹かれて ゆらり",
     "exampleZh": "有时我们不知所措 只能随风飘荡 摇晃",
@@ -3569,20 +3378,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とほう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305f-3060-156",
     "japanese": "ただ",
     "kana": "ただ",
     "romaji": "tada",
-    "zh": "释义：ordinary; common; usual; free of charge; unaffected; as is",
+    "zh": "普通的；平常的；普通；常见；通常的",
     "en": "ordinary; common; usual; free of charge; unaffected; as is",
     "partOfSpeech": "连接词 / conjunction; no-adjective · noun",
-    "introZh": "词典释义：ordinary; common; usual; free of charge; unaffected; as is。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
+    "introZh": "词典释义：普通的；平常的；普通；常见；通常的。出自例句「時には途方に暮れてただ風に吹かれて ゆらり」。",
     "introEn": "Meaning: ordinary; common; usual; free of charge; unaffected; as is. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "時には途方に暮れてただ風に吹かれて ゆらり",
     "exampleZh": "有时我们不知所措 只能随风飘荡 摇晃",
@@ -3661,8 +3467,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "息せき切る",
-      "いきせききっ"
+      "息せき切る"
     ]
   },
   {
@@ -3670,10 +3475,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "行き先",
     "kana": "ゆきさき",
     "romaji": "yukisaki",
-    "zh": "释义：destination; whereabouts; future; prospects",
+    "zh": "目的地；去向",
     "en": "destination; whereabouts; future; prospects",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：destination; whereabouts; future; prospects。出自例句「行き先は決めたの」。",
+    "introZh": "词典释义：目的地；去向。出自例句「行き先は決めたの」。",
     "introEn": "Meaning: destination; whereabouts; future; prospects. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "行き先は決めたの",
     "exampleZh": "决定好目的地了吗",
@@ -3684,20 +3489,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆきさき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8ff7-308f-161",
     "japanese": "迷わ",
     "kana": "まよわ",
     "romaji": "mayowa",
-    "zh": "释义：to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate",
+    "zh": "结合本句可理解为：虽说想要毫不犹豫地出发 但也无法保证哟",
     "en": "to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate。出自例句「迷わずに行きたいけど保証はしないよ」。",
+    "introZh": "词典释义：结合本句可理解为：虽说想要毫不犹豫地出发 但也无法保证哟。出自例句「迷わずに行きたいけど保証はしないよ」。",
     "introEn": "Meaning: to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "迷わずに行きたいけど保証はしないよ",
     "exampleZh": "虽说想要毫不犹豫地出发 但也无法保证哟",
@@ -3710,8 +3512,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "迷う",
-      "まよわ"
+      "迷う"
     ]
   },
   {
@@ -3719,11 +3520,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "行き",
     "kana": "いき",
     "romaji": "iki",
-    "zh": "释义：the way there; outbound leg; outbound trip; departing leg; bound for ...; outbound ticket",
-    "en": "the way there; outbound leg; outbound trip; departing leg; bound for ...; outbound ticket",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：the way there; outbound leg; outbound trip; departing leg; bound for ...; outbound ticket。出自例句「迷わずに行きたいけど保証はしないよ」。",
-    "introEn": "Meaning: the way there; outbound leg; outbound trip; departing leg; bound for ...; outbound ticket. Dictionary data: local Kotobako/JMdict.",
+    "zh": "朝……移动",
+    "en": "to go; to move (towards); to head (towards); to leave (for); to move through; to travel across",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：朝……移动。出自例句「迷わずに行きたいけど保証はしないよ」。",
+    "introEn": "Meaning: to go; to move (towards); to head (towards); to leave (for); to move through; to travel across. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "迷わずに行きたいけど保証はしないよ",
     "exampleZh": "虽说想要毫不犹豫地出发 但也无法保证哟",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3735,8 +3536,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "行く",
-      "いき"
+      "行く"
     ]
   },
   {
@@ -3744,10 +3544,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "よう",
     "kana": "よう",
     "romaji": "you",
-    "zh": "释义：appearing ...; looking ...; way to ...; method of ...ing; form; style",
+    "zh": "结合本句可理解为：好像明白了什么",
     "en": "appearing ...; looking ...; way to ...; method of ...ing; form; style",
     "partOfSpeech": "名词 / noun; n-suf · noun",
-    "introZh": "词典释义：appearing ...; looking ...; way to ...; method of ...ing; form; style。出自例句「何か分かったようで」。",
+    "introZh": "词典释义：结合本句可理解为：好像明白了什么。出自例句「何か分かったようで」。",
     "introEn": "Meaning: appearing ...; looking ...; way to ...; method of ...ing; form; style. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何か分かったようで",
     "exampleZh": "好像明白了什么",
@@ -3765,11 +3565,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なく",
     "kana": "なく",
     "romaji": "naku",
-    "zh": "释义：to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by)",
-    "en": "to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by)",
-    "partOfSpeech": "形容词 / adjective; godan verb · intransitive verb",
-    "introZh": "词典释义：to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by)。出自例句「何も分かってなくて」。",
-    "introEn": "Meaning: to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by). Dictionary data: local Kotobako/JMdict.",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
+    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「何も分かってなくて」。",
+    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何も分かってなくて",
     "exampleZh": "又好像什么都不明白",
     "exampleEn": "Example line from \"きらり\" by 藤井風.",
@@ -3789,10 +3589,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だけど",
     "kana": "だけど",
     "romaji": "dakedo",
-    "zh": "释义：but; however; although",
+    "zh": "但是；不过；然而；虽然；尽管",
     "en": "but; however; although",
     "partOfSpeech": "连接词 / conjunction",
-    "introZh": "词典释义：but; however; although。出自例句「だけどそれが分かって本当に良かった」。",
+    "introZh": "词典释义：但是；不过；然而；虽然；尽管。出自例句「だけどそれが分かって本当に良かった」。",
     "introEn": "Meaning: but; however; although. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だけどそれが分かって本当に良かった",
     "exampleZh": "单单知道这一点也很好了",
@@ -3810,10 +3610,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "それ",
     "kana": "それ",
     "romaji": "sore",
-    "zh": "释义：that; it; then; that point (in time); that time; there",
+    "zh": "那个；那样；然后；那时；那个时候",
     "en": "that; it; then; that point (in time); that time; there",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：that; it; then; that point (in time); that time; there。出自例句「だけどそれが分かって本当に良かった」。",
+    "introZh": "词典释义：那个；那样；然后；那时；那个时候。出自例句「だけどそれが分かって本当に良かった」。",
     "introEn": "Meaning: that; it; then; that point (in time); that time; there. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だけどそれが分かって本当に良かった",
     "exampleZh": "单单知道这一点也很好了",
@@ -3831,10 +3631,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "本当に",
     "kana": "ほんとうに",
     "romaji": "hontouni",
-    "zh": "释义：really; truly",
+    "zh": "真的；确实",
     "en": "really; truly",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：really; truly。出自例句「だけどそれが分かって本当に良かった」。",
+    "introZh": "词典释义：真的；确实。出自例句「だけどそれが分かって本当に良かった」。",
     "introEn": "Meaning: really; truly. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だけどそれが分かって本当に良かった",
     "exampleZh": "单单知道这一点也很好了",
@@ -3845,21 +3645,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ほんとうに"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-67af-308c-168",
     "japanese": "枯れ",
     "kana": "かれ",
     "romaji": "kare",
-    "zh": "释义：he; him; boyfriend",
-    "en": "he; him; boyfriend",
-    "partOfSpeech": "动词 / verb; pronoun",
-    "introZh": "词典释义：he; him; boyfriend。出自例句「枯れていく」。",
-    "introEn": "Meaning: he; him; boyfriend. Dictionary data: local Kotobako/JMdict.",
+    "zh": "死亡；逝去",
+    "en": "to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：死亡；逝去。出自例句「枯れていく」。",
+    "introEn": "Meaning: to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "枯れていく",
     "exampleZh": "逐渐凋零",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -3871,8 +3668,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "枯れる",
-      "かれ"
+      "枯れる"
     ]
   },
   {
@@ -3880,10 +3676,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いく",
     "kana": "いく",
     "romaji": "iku",
-    "zh": "释义：some; several; a few; many; how many; how much",
+    "zh": "结合本句可理解为：逐渐凋零",
     "en": "some; several; a few; many; how many; how much",
     "partOfSpeech": "动词 / verb; prefix",
-    "introZh": "词典释义：some; several; a few; many; how many; how much。出自例句「枯れていく」。",
+    "introZh": "词典释义：结合本句可理解为：逐渐凋零。出自例句「枯れていく」。",
     "introEn": "Meaning: some; several; a few; many; how many; how much. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "枯れていく",
     "exampleZh": "逐渐凋零",
@@ -3901,10 +3697,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いる",
     "kana": "いる",
     "romaji": "iru",
-    "zh": "释义：to be needed; to be necessary; to be required; to be wanted; to need; to want",
+    "zh": "结合本句可理解为：全力绽放着",
     "en": "to be needed; to be necessary; to be required; to be wanted; to need; to want",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be needed; to be necessary; to be required; to be wanted; to need; to want。出自例句「咲いている」。",
+    "introZh": "词典释义：结合本句可理解为：全力绽放着。出自例句「咲いている」。",
     "introEn": "Meaning: to be needed; to be necessary; to be required; to be wanted; to need; to want. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "咲いている",
     "exampleZh": "全力绽放着",
@@ -3922,10 +3718,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "溶け",
     "kana": "とけ",
     "romaji": "toke",
-    "zh": "释义：to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)",
+    "zh": "结合本句可理解为：又融化于风里",
     "en": "to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)。出自例句「全ては溶けていく」。",
+    "introZh": "词典释义：结合本句可理解为：又融化于风里。出自例句「全ては溶けていく」。",
     "introEn": "Meaning: to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全ては溶けていく",
     "exampleZh": "又融化于风里",
@@ -3938,8 +3734,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "溶ける",
-      "とけ"
+      "溶ける"
     ]
   },
   {
@@ -3947,10 +3742,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "出来る",
     "kana": "できる",
     "romaji": "dekiru",
-    "zh": "释义：to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in)",
+    "zh": "结合本句可理解为：我能做到什么呢",
     "en": "to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in)。出自例句「何が出来るのだろうか」。",
+    "introZh": "词典释义：结合本句可理解为：我能做到什么呢。出自例句「何が出来るのだろうか」。",
     "introEn": "Meaning: to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何が出来るのだろうか",
     "exampleZh": "我能做到什么呢",
@@ -3961,20 +3756,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "できる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3060-308d-173",
     "japanese": "だろ",
     "kana": "だろ",
     "romaji": "daro",
-    "zh": "释义：be; is",
+    "zh": "是；存在",
     "en": "be; is",
     "partOfSpeech": "助动词 / auxiliary; auxiliary verb · cop",
-    "introZh": "词典释义：be; is。出自例句「何が出来るのだろうか」。",
+    "introZh": "词典释义：是；存在。出自例句「何が出来るのだろうか」。",
     "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何が出来るのだろうか",
     "exampleZh": "我能做到什么呢",
@@ -3995,10 +3787,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "みんな",
     "kana": "みんな",
     "romaji": "minna",
-    "zh": "释义：all; everyone; everybody",
+    "zh": "全部；所有",
     "en": "all; everyone; everybody",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：all; everyone; everybody。出自例句「みんな儚い」。",
+    "introZh": "词典释义：全部；所有。出自例句「みんな儚い」。",
     "introEn": "Meaning: all; everyone; everybody. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "みんな儚い",
     "exampleZh": "一切都虚无缥缈",
@@ -4016,10 +3808,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "儚い",
     "kana": "はかない",
     "romaji": "hakanai",
-    "zh": "释义：fleeting; transient; short-lived; momentary; ephemeral; fickle",
+    "zh": "短暂的；转瞬即逝的",
     "en": "fleeting; transient; short-lived; momentary; ephemeral; fickle",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：fleeting; transient; short-lived; momentary; ephemeral; fickle。出自例句「みんな儚い」。",
+    "introZh": "词典释义：短暂的；转瞬即逝的。出自例句「みんな儚い」。",
     "introEn": "Meaning: fleeting; transient; short-lived; momentary; ephemeral; fickle. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "みんな儚い",
     "exampleZh": "一切都虚无缥缈",
@@ -4030,20 +3822,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はかない"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5c0a-3044-176",
     "japanese": "尊い",
     "kana": "とうとい",
     "romaji": "toutoi",
-    "zh": "释义：precious; valuable; priceless; noble; exalted; sacred",
+    "zh": "珍贵的",
     "en": "precious; valuable; priceless; noble; exalted; sacred",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：precious; valuable; priceless; noble; exalted; sacred。出自例句「みんな尊い」。",
+    "introZh": "词典释义：珍贵的。出自例句「みんな尊い」。",
     "introEn": "Meaning: precious; valuable; priceless; noble; exalted; sacred. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "みんな尊い",
     "exampleZh": "也因此弥足珍贵",
@@ -4054,10 +3843,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とうとい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3057-308f-3057-308f-177",
@@ -4085,10 +3871,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "萎れ",
     "kana": "しおれ",
     "romaji": "shiore",
-    "zh": "释义：to wither; to wilt; to droop; to fade; to be dejected; to be disheartened",
+    "zh": "结合本句可理解为：将皱皱巴巴枯萎凋谢的花束",
     "en": "to wither; to wilt; to droop; to fade; to be dejected; to be disheartened",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to wither; to wilt; to droop; to fade; to be dejected; to be disheartened。出自例句「しわしわに萎れた花束」。",
+    "introZh": "词典释义：结合本句可理解为：将皱皱巴巴枯萎凋谢的花束。出自例句「しわしわに萎れた花束」。",
     "introEn": "Meaning: to wither; to wilt; to droop; to fade; to be dejected; to be disheartened. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "しわしわに萎れた花束",
     "exampleZh": "将皱皱巴巴枯萎凋谢的花束",
@@ -4101,8 +3887,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "萎れる",
-      "しおれ"
+      "萎れる"
     ]
   },
   {
@@ -4110,10 +3895,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "花束",
     "kana": "はなたば",
     "romaji": "hanataba",
-    "zh": "释义：bunch of flowers; bouquet",
+    "zh": "结合本句可理解为：将皱皱巴巴枯萎凋谢的花束",
     "en": "bunch of flowers; bouquet",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：bunch of flowers; bouquet。出自例句「しわしわに萎れた花束」。",
+    "introZh": "词典释义：结合本句可理解为：将皱皱巴巴枯萎凋谢的花束。出自例句「しわしわに萎れた花束」。",
     "introEn": "Meaning: bunch of flowers; bouquet. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "しわしわに萎れた花束",
     "exampleZh": "将皱皱巴巴枯萎凋谢的花束",
@@ -4124,10 +3909,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はなたば"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5c0f-308f-304d-180",
@@ -4148,21 +3930,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "こわき"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5909-308f-3089-181",
     "japanese": "変わら",
     "kana": "かわら",
     "romaji": "kawara",
-    "zh": "释义：tile (e.g. roof)",
-    "en": "tile (e.g. roof)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：tile (e.g. roof)。出自例句「永遠に変わらぬ輝き」。",
-    "introEn": "Meaning: tile (e.g. roof). Dictionary data: local Kotobako/JMdict.",
+    "zh": "改变；变化；变形；被改变；发生改变；不同；搬到；移动到",
+    "en": "to change; to be transformed; to be altered; to vary; to move to; to be different",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：改变；变化；变形；被改变；发生改变；不同；搬到；移动到。出自例句「永遠に変わらぬ輝き」。",
+    "introEn": "Meaning: to change; to be transformed; to be altered; to vary; to move to; to be different. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "永遠に変わらぬ輝き",
     "exampleZh": "探寻着",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -4174,8 +3953,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "変わる",
-      "かわら"
+      "変わる"
     ]
   },
   {
@@ -4183,11 +3961,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ぬ",
     "kana": "ぬ",
     "romaji": "nu",
-    "zh": "语境释义：探寻着",
-    "en": "Context meaning: 探寻着",
+    "zh": "文语或歌词里常见的否定助动词，相当于“不”。",
+    "en": "Literary negative auxiliary, often seen in lyrics.",
     "partOfSpeech": "助动词 / auxiliary",
-    "introZh": "读作「ぬ」。本句语境：探寻着",
-    "introEn": "Read as \"nu\". Context: 探寻着",
+    "introZh": "语法说明：文语或歌词里常见的否定助动词，相当于“不”。 出自例句「永遠に変わらぬ輝き」。",
+    "introEn": "Literary negative auxiliary, often seen in lyrics. Example line: \"永遠に変わらぬ輝き\".",
     "exampleJp": "永遠に変わらぬ輝き",
     "exampleZh": "探寻着",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -4197,17 +3975,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-8f1d-304d-183",
     "japanese": "輝き",
     "kana": "かがやき",
     "romaji": "kagayaki",
-    "zh": "释义：brightness; brilliance; brilliancy; radiance; glitter",
+    "zh": "明亮；光辉",
     "en": "brightness; brilliance; brilliancy; radiance; glitter",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：brightness; brilliance; brilliancy; radiance; glitter。出自例句「永遠に変わらぬ輝き」。",
+    "introZh": "词典释义：明亮；光辉。出自例句「永遠に変わらぬ輝き」。",
     "introEn": "Meaning: brightness; brilliance; brilliancy; radiance; glitter. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "永遠に変わらぬ輝き",
     "exampleZh": "探寻着",
@@ -4218,20 +3996,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かがやき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4fe1-3058-184",
     "japanese": "信じ",
     "kana": "しんじ",
     "romaji": "shinji",
-    "zh": "释义：to believe; to believe in; to place trust in; to confide in; to have faith in",
+    "zh": "结合本句可理解为：试着相信我们",
     "en": "to believe; to believe in; to place trust in; to confide in; to have faith in",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to believe; to believe in; to place trust in; to confide in; to have faith in。出自例句「僕らを信じてみた」。",
+    "introZh": "词典释义：结合本句可理解为：试着相信我们。出自例句「僕らを信じてみた」。",
     "introEn": "Meaning: to believe; to believe in; to place trust in; to confide in; to have faith in. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らを信じてみた",
     "exampleZh": "试着相信我们",
@@ -4244,8 +4019,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "信じる",
-      "しんじ"
+      "信じる"
     ]
   },
   {
@@ -4253,11 +4027,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "み",
     "kana": "み",
     "romaji": "mi",
-    "zh": "释义：fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance",
-    "en": "fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance。出自例句「僕らを信じてみた」。",
-    "introEn": "Meaning: fruit; nut; seed; (in broth) pieces of meat, vegetable, etc.; content; substance. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：试着相信我们",
+    "en": "to look after (often medically); to take care of",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：试着相信我们。出自例句「僕らを信じてみた」。",
+    "introEn": "Meaning: to look after (often medically); to take care of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らを信じてみた",
     "exampleZh": "试着相信我们",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -4293,8 +4067,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "咲かせる",
-      "さかせ"
+      "咲かせる"
     ]
   },
   {
@@ -4302,10 +4075,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "花",
     "kana": "はな",
     "romaji": "hana",
-    "zh": "释义：flower; blossom; bloom; petal; cherry blossom; beauty",
+    "zh": "花",
     "en": "flower; blossom; bloom; petal; cherry blossom; beauty",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：flower; blossom; bloom; petal; cherry blossom; beauty。出自例句「内なる花を」。",
+    "introZh": "词典释义：花。出自例句「内なる花を」。",
     "introEn": "Meaning: flower; blossom; bloom; petal; cherry blossom; beauty. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "内なる花を",
     "exampleZh": "内心的花朵",
@@ -4316,10 +4089,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はな"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3055-308a-3052-188",
@@ -4347,10 +4117,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "思い",
     "kana": "おもい",
     "romaji": "omoi",
-    "zh": "释义：thought; imagination; mind; heart; desire; wish",
+    "zh": "心；精神；内心",
     "en": "thought; imagination; mind; heart; desire; wish",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：thought; imagination; mind; heart; desire; wish。出自例句「思いを込めてみる」。",
+    "introZh": "词典释义：心；精神；内心。出自例句「思いを込めてみる」。",
     "introEn": "Meaning: thought; imagination; mind; heart; desire; wish. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "思いを込めてみる",
     "exampleZh": "将心意埋藏于其中",
@@ -4361,21 +4131,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おもい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8fbc-3081-190",
     "japanese": "込め",
     "kana": "こめ",
     "romaji": "kome",
-    "zh": "释义：(husked grains of) rice; staple (product, etc.); necessity; (online) comment",
-    "en": "(husked grains of) rice; staple (product, etc.); necessity; (online) comment",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：(husked grains of) rice; staple (product, etc.); necessity; (online) comment。出自例句「思いを込めてみる」。",
-    "introEn": "Meaning: (husked grains of) rice; staple (product, etc.); necessity; (online) comment. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：将心意埋藏于其中",
+    "en": "to load (a gun, etc.); to charge; to put into (e.g. emotion, effort); to include (e.g. tax in a sales price); to hang over; to shroud",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：将心意埋藏于其中。出自例句「思いを込めてみる」。",
+    "introEn": "Meaning: to load (a gun, etc.); to charge; to put into (e.g. emotion, effort); to include (e.g. tax in a sales price); to hang over; to shroud. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "思いを込めてみる",
     "exampleZh": "将心意埋藏于其中",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -4387,8 +4154,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "込める",
-      "こめ"
+      "込める"
     ]
   },
   {
@@ -4396,10 +4162,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "みる",
     "kana": "みる",
     "romaji": "miru",
-    "zh": "释义：to look after (often medically); to take care of",
+    "zh": "结合本句可理解为：将心意埋藏于其中",
     "en": "to look after (often medically); to take care of",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to look after (often medically); to take care of。出自例句「思いを込めてみる」。",
+    "introZh": "词典释义：结合本句可理解为：将心意埋藏于其中。出自例句「思いを込めてみる」。",
     "introEn": "Meaning: to look after (often medically); to take care of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "思いを込めてみる",
     "exampleZh": "将心意埋藏于其中",
@@ -4431,20 +4197,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "やむをえず"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7948-308a-193",
     "japanese": "祈り",
     "kana": "いのり",
     "romaji": "inori",
-    "zh": "释义：prayer; supplication",
+    "zh": "结合本句可理解为：将祈祷寄托于今后",
     "en": "prayer; supplication",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：prayer; supplication。出自例句「祈りを込めていく」。",
+    "introZh": "词典释义：结合本句可理解为：将祈祷寄托于今后。出自例句「祈りを込めていく」。",
     "introEn": "Meaning: prayer; supplication. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "祈りを込めていく",
     "exampleZh": "将祈祷寄托于今后",
@@ -4455,20 +4218,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いのり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3044-3064-194",
     "japanese": "いつ",
     "kana": "いつ",
     "romaji": "itsu",
-    "zh": "释义：when; at what time; how soon; normal times; ordinary days",
+    "zh": "什么时候；当……时",
     "en": "when; at what time; how soon; normal times; ordinary days",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：when; at what time; how soon; normal times; ordinary days。出自例句「いつまで迷うんだろうか」。",
+    "introZh": "词典释义：什么时候；当……时。出自例句「いつまで迷うんだろうか」。",
     "introEn": "Meaning: when; at what time; how soon; normal times; ordinary days. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつまで迷うんだろうか",
     "exampleZh": "要迷茫到何时",
@@ -4486,10 +4246,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "迷う",
     "kana": "まよう",
     "romaji": "mayou",
-    "zh": "释义：to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate",
+    "zh": "结合本句可理解为：要迷茫到何时",
     "en": "to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate。出自例句「いつまで迷うんだろうか」。",
+    "introZh": "词典释义：结合本句可理解为：要迷茫到何时。出自例句「いつまで迷うんだろうか」。",
     "introEn": "Meaning: to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつまで迷うんだろうか",
     "exampleZh": "要迷茫到何时",
@@ -4500,21 +4260,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まよう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3093-196",
     "japanese": "ん",
     "kana": "ん",
     "romaji": "n",
-    "zh": "语境释义：要迷茫到何时",
-    "en": "Context meaning: 要迷茫到何时",
+    "zh": "口语否定或音便形式的一部分，需结合整句判断。",
+    "en": "Colloquial negative or sound-change fragment; read in context.",
     "partOfSpeech": "名词 / noun",
-    "introZh": "读作「ん」。本句语境：要迷茫到何时",
-    "introEn": "Read as \"n\". Context: 要迷茫到何时",
+    "introZh": "语法说明：口语否定或音便形式的一部分，需结合整句判断。 出自例句「いつまで迷うんだろうか」。",
+    "introEn": "Colloquial negative or sound-change fragment; read in context. Example line: \"いつまで迷うんだろうか\".",
     "exampleJp": "いつまで迷うんだろうか",
     "exampleZh": "要迷茫到何时",
     "exampleEn": "Example line from \"花\" by 藤井風.",
@@ -4524,17 +4281,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-3044-3064-304b-197",
     "japanese": "いつか",
     "kana": "いつか",
     "romaji": "itsuka",
-    "zh": "释义：5th day of the month; five days",
+    "zh": "结合本句可理解为：才能拨云见日",
     "en": "5th day of the month; five days",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：5th day of the month; five days。出自例句「いつかは分かるよな」。",
+    "introZh": "词典释义：结合本句可理解为：才能拨云见日。出自例句「いつかは分かるよな」。",
     "introEn": "Meaning: 5th day of the month; five days. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつかは分かるよな",
     "exampleZh": "才能拨云见日",
@@ -4552,10 +4309,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "姿",
     "kana": "すがた",
     "romaji": "sugata",
-    "zh": "释义：figure; form; shape; appearance; dress; guise",
+    "zh": "身影；形状；样子",
     "en": "figure; form; shape; appearance; dress; guise",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：figure; form; shape; appearance; dress; guise。出自例句「色々な姿や形に」。",
+    "introZh": "词典释义：身影；形状；样子。出自例句「色々な姿や形に」。",
     "introEn": "Meaning: figure; form; shape; appearance; dress; guise. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々な姿や形に",
     "exampleZh": "形形色色的花儿",
@@ -4566,20 +4323,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "すがた"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3084-199",
     "japanese": "や",
     "kana": "や",
     "romaji": "ya",
-    "zh": "释义：such things as ...; and ... and; the minute (that) ...; no sooner than ...; as soon as; be",
+    "zh": "是；存在",
     "en": "such things as ...; and ... and; the minute (that) ...; no sooner than ...; as soon as; be",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：such things as ...; and ... and; the minute (that) ...; no sooner than ...; as soon as; be。出自例句「色々な姿や形に」。",
+    "introZh": "词典释义：是；存在。出自例句「色々な姿や形に」。",
     "introEn": "Meaning: such things as ...; and ... and; the minute (that) ...; no sooner than ...; as soon as; be. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々な姿や形に",
     "exampleZh": "形形色色的花儿",
@@ -4597,10 +4351,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "形",
     "kana": "かたち",
     "romaji": "katachi",
-    "zh": "释义：(physical) form; shape; figure; visage; (facial) features; appearance (of a person)",
+    "zh": "形状；样子；身影；面容；相貌",
     "en": "(physical) form; shape; figure; visage; (facial) features; appearance (of a person)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：(physical) form; shape; figure; visage; (facial) features; appearance (of a person)。出自例句「色々な姿や形に」。",
+    "introZh": "词典释义：形状；样子；身影；面容；相貌。出自例句「色々な姿や形に」。",
     "introEn": "Meaning: (physical) form; shape; figure; visage; (facial) features; appearance (of a person). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "色々な姿や形に",
     "exampleZh": "形形色色的花儿",
@@ -4611,20 +4365,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かたち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-60d1-308f-3055-201",
     "japanese": "惑わさ",
     "kana": "まどわさ",
     "romaji": "madowasa",
-    "zh": "释义：to bewilder; to perplex; to puzzle; to delude; to mislead; to deceive",
+    "zh": "欺骗",
     "en": "to bewilder; to perplex; to puzzle; to delude; to mislead; to deceive",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to bewilder; to perplex; to puzzle; to delude; to mislead; to deceive。出自例句「惑わされるけど」。",
+    "introZh": "词典释义：欺骗。出自例句「惑わされるけど」。",
     "introEn": "Meaning: to bewilder; to perplex; to puzzle; to delude; to mislead; to deceive. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "惑わされるけど",
     "exampleZh": "总会迷乱人心",
@@ -4637,8 +4388,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "惑わす",
-      "まどわさ"
+      "惑わす"
     ]
   },
   {
@@ -4646,10 +4396,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "かわいく",
     "kana": "かわいく",
     "romaji": "kawaiku",
-    "zh": "释义：cute; adorable; charming; lovely; pretty; dear",
+    "zh": "可爱的；令人喜爱的；亲爱的",
     "en": "cute; adorable; charming; lovely; pretty; dear",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：cute; adorable; charming; lovely; pretty; dear。出自例句「全てがかわいく思えるさ」。",
+    "introZh": "词典释义：可爱的；令人喜爱的；亲爱的。出自例句「全てがかわいく思えるさ」。",
     "introEn": "Meaning: cute; adorable; charming; lovely; pretty; dear. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てがかわいく思えるさ",
     "exampleZh": "每一朵都会让人怜爱",
@@ -4684,20 +4434,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "おもえる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3055-204",
     "japanese": "さ",
     "kana": "さ",
     "romaji": "sa",
-    "zh": "释义：-ness; indicates assertion; come; come now",
+    "zh": "结合本句可理解为：每一朵都会让人怜爱",
     "en": "-ness; indicates assertion; come; come now",
     "partOfSpeech": "助词 / particle; suffix",
-    "introZh": "词典释义：-ness; indicates assertion; come; come now。出自例句「全てがかわいく思えるさ」。",
+    "introZh": "词典释义：结合本句可理解为：每一朵都会让人怜爱。出自例句「全てがかわいく思えるさ」。",
     "introEn": "Meaning: -ness; indicates assertion; come; come now. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てがかわいく思えるさ",
     "exampleZh": "每一朵都会让人怜爱",
@@ -4715,10 +4462,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "わたし",
     "kana": "わたし",
     "romaji": "watashi",
-    "zh": "释义：I; me",
+    "zh": "我",
     "en": "I; me",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：I; me。出自例句「わたしは何になろうか」。",
+    "introZh": "词典释义：我。出自例句「わたしは何になろうか」。",
     "introEn": "Meaning: I; me. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは何になろうか",
     "exampleZh": "我要成为怎样的花呢",
@@ -4736,10 +4483,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なろ",
     "kana": "なろ",
     "romaji": "naro",
-    "zh": "释义：to become; to get; to grow; to turn; to reach; to attain",
+    "zh": "变成；成为；得到；变得；成长；转向；到达；达到",
     "en": "to become; to get; to grow; to turn; to reach; to attain",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to become; to get; to grow; to turn; to reach; to attain。出自例句「わたしは何になろうか」。",
+    "introZh": "词典释义：变成；成为；得到；变得；成长；转向；到达；达到。出自例句「わたしは何になろうか」。",
     "introEn": "Meaning: to become; to get; to grow; to turn; to reach; to attain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは何になろうか",
     "exampleZh": "我要成为怎样的花呢",
@@ -4760,10 +4507,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "どんな",
     "kana": "どんな",
     "romaji": "donna",
-    "zh": "释义：what kind of; what sort of; what; no matter what (kind of); whatever; any",
+    "zh": "结合本句可理解为：什么颜色能描绘出我呢",
     "en": "what kind of; what sort of; what; no matter what (kind of); whatever; any",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：what kind of; what sort of; what; no matter what (kind of); whatever; any。出自例句「どんな色がいいかな」。",
+    "introZh": "词典释义：结合本句可理解为：什么颜色能描绘出我呢。出自例句「どんな色がいいかな」。",
     "introEn": "Meaning: what kind of; what sort of; what; no matter what (kind of); whatever; any. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どんな色がいいかな",
     "exampleZh": "什么颜色能描绘出我呢",
@@ -4781,10 +4528,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "色",
     "kana": "いろ",
     "romaji": "iro",
-    "zh": "释义：colour; color; hue; tint; tinge; shade",
+    "zh": "结合本句可理解为：什么颜色能描绘出我呢",
     "en": "colour; color; hue; tint; tinge; shade",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：colour; color; hue; tint; tinge; shade。出自例句「どんな色がいいかな」。",
+    "introZh": "词典释义：结合本句可理解为：什么颜色能描绘出我呢。出自例句「どんな色がいいかな」。",
     "introEn": "Meaning: colour; color; hue; tint; tinge; shade. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どんな色がいいかな",
     "exampleZh": "什么颜色能描绘出我呢",
@@ -4796,9 +4543,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
-    "forms": [
-      "いろ"
-    ],
     "readingOptions": [
       "いろ",
       "しょく"
@@ -4827,10 +4571,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "まっ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-2f69-210",
@@ -4895,8 +4636,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "惹く",
-      "ひか"
+      "惹く"
     ]
   },
   {
@@ -4904,10 +4644,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "真実",
     "kana": "しんじつ",
     "romaji": "shinjitsu",
-    "zh": "释义：truth; reality; truly; really; absolute truth",
+    "zh": "真的；确实",
     "en": "truth; reality; truly; really; absolute truth",
     "partOfSpeech": "名词 / noun; noun · no-adjective · na-adjective",
-    "introZh": "词典释义：truth; reality; truly; really; absolute truth。出自例句「真実をさまよえば」。",
+    "introZh": "词典释义：真的；确实。出自例句「真実をさまよえば」。",
     "introEn": "Meaning: truth; reality; truly; really; absolute truth. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真実をさまよえば",
     "exampleZh": "赤裸真相啊 令我徘徊",
@@ -4918,20 +4658,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しんじつ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3055-307e-3088-3048-214",
     "japanese": "さまよえ",
     "kana": "さまよえ",
     "romaji": "samayoe",
-    "zh": "释义：to loiter; to putter; to prowl; to wander about; to roam about; to knock around",
+    "zh": "结合本句可理解为：赤裸真相啊 令我徘徊",
     "en": "to loiter; to putter; to prowl; to wander about; to roam about; to knock around",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to loiter; to putter; to prowl; to wander about; to roam about; to knock around。出自例句「真実をさまよえば」。",
+    "introZh": "词典释义：结合本句可理解为：赤裸真相啊 令我徘徊。出自例句「真実をさまよえば」。",
     "introEn": "Meaning: to loiter; to putter; to prowl; to wander about; to roam about; to knock around. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真実をさまよえば",
     "exampleZh": "赤裸真相啊 令我徘徊",
@@ -4973,10 +4710,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ところ",
     "kana": "ところ",
     "romaji": "tokoro",
-    "zh": "释义：place; spot; scene; site; address; district",
+    "zh": "地点；场所",
     "en": "place; spot; scene; site; address; district",
     "partOfSpeech": "名词 / noun; noun · adverb · suffix",
-    "introZh": "词典释义：place; spot; scene; site; address; district。出自例句「真っ⿊なところはぶち抜かれ」。",
+    "introZh": "词典释义：地点；场所。出自例句「真っ⿊なところはぶち抜かれ」。",
     "introEn": "Meaning: place; spot; scene; site; address; district. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っ⿊なところはぶち抜かれ",
     "exampleZh": "黑暗阴影啊 已被击穿",
@@ -5015,10 +4752,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "真新しい",
     "kana": "まあたらしい",
     "romaji": "maatarashii",
-    "zh": "释义：brand new",
+    "zh": "崭新的",
     "en": "brand new",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：brand new。出自例句「真新しい⾵にまた抱かれた」。",
+    "introZh": "词典释义：崭新的。出自例句「真新しい⾵にまた抱かれた」。",
     "introEn": "Meaning: brand new. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真新しい⾵にまた抱かれた",
     "exampleZh": "全新风儿啊把我拥抱",
@@ -5029,10 +4766,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まあたらしい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-2fb5-219",
@@ -5060,10 +4794,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "また",
     "kana": "また",
     "romaji": "mata",
-    "zh": "释义：again; once more; once again; another time; some other time; also",
+    "zh": "再次；又",
     "en": "again; once more; once again; another time; some other time; also",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：again; once more; once again; another time; some other time; also。出自例句「真新しい⾵にまた抱かれた」。",
+    "introZh": "词典释义：再次；又。出自例句「真新しい⾵にまた抱かれた」。",
     "introEn": "Meaning: again; once more; once again; another time; some other time; also. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真新しい⾵にまた抱かれた",
     "exampleZh": "全新风儿啊把我拥抱",
@@ -5081,10 +4815,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "抱か",
     "kana": "いだか",
     "romaji": "idaka",
-    "zh": "释义：to hold in one's arms (e.g. a baby); to embrace; to hug; to have (a thought or feeling); to hold; to harbour (suspicion, doubt, etc.)",
+    "zh": "结合本句可理解为：全新风儿啊把我拥抱",
     "en": "to hold in one's arms (e.g. a baby); to embrace; to hug; to have (a thought or feeling); to hold; to harbour (suspicion, doubt, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hold in one's arms (e.g. a baby); to embrace; to hug; to have (a thought or feeling); to hold; to harbour (suspicion, doubt, etc.)。出自例句「真新しい⾵にまた抱かれた」。",
+    "introZh": "词典释义：结合本句可理解为：全新风儿啊把我拥抱。出自例句「真新しい⾵にまた抱かれた」。",
     "introEn": "Meaning: to hold in one's arms (e.g. a baby); to embrace; to hug; to have (a thought or feeling); to hold; to harbour (suspicion, doubt, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真新しい⾵にまた抱かれた",
     "exampleZh": "全新风儿啊把我拥抱",
@@ -5097,8 +4831,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "抱く",
-      "いだか"
+      "抱く"
     ]
   },
   {
@@ -5106,11 +4839,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だ",
     "kana": "だ",
     "romaji": "da",
-    "zh": "释义：be; is",
-    "en": "be; is",
-    "partOfSpeech": "助动词 / auxiliary; auxiliary verb · cop",
-    "introZh": "词典释义：be; is。出自例句「好きだよ 好きだけど」。",
-    "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
+    "zh": "断定助动词，相当于“是/为”。",
+    "en": "Plain copula, similar to is/am/are.",
+    "partOfSpeech": "助动词 / auxiliary",
+    "introZh": "语法说明：断定助动词，相当于“是/为”。 出自例句「好きだよ 好きだけど」。",
+    "introEn": "Plain copula, similar to is/am/are. Example line: \"好きだよ 好きだけど\".",
     "exampleJp": "好きだよ 好きだけど",
     "exampleZh": "我喜欢你 尽管喜欢",
     "exampleEn": "Example line from \"真っ白\" by 藤井風.",
@@ -5120,17 +4853,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-3061-3083-223",
     "japanese": "ちゃ",
     "kana": "ちゃ",
     "romaji": "cha",
-    "zh": "释义：tea; tea plant (Camellia sinensis); tea preparation; making tea; brown; mockery",
+    "zh": "结合本句可理解为：却必须离开 必须割舍",
     "en": "tea; tea plant (Camellia sinensis); tea preparation; making tea; brown; mockery",
     "partOfSpeech": "助词 / particle; noun",
-    "introZh": "词典释义：tea; tea plant (Camellia sinensis); tea preparation; making tea; brown; mockery。出自例句「離れなくちゃ 置いてかなきゃ」。",
+    "introZh": "词典释义：结合本句可理解为：却必须离开 必须割舍。出自例句「離れなくちゃ 置いてかなきゃ」。",
     "introEn": "Meaning: tea; tea plant (Camellia sinensis); tea preparation; making tea; brown; mockery. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "離れなくちゃ 置いてかなきゃ",
     "exampleZh": "却必须离开 必须割舍",
@@ -5148,10 +4881,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なきゃ",
     "kana": "なきゃ",
     "romaji": "nakya",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
     "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
     "partOfSpeech": "助动词 / auxiliary; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「離れなくちゃ 置いてかなきゃ」。",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「離れなくちゃ 置いてかなきゃ」。",
     "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "離れなくちゃ 置いてかなきゃ",
     "exampleZh": "却必须离开 必须割舍",
@@ -5172,10 +4905,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たち",
     "kana": "たち",
     "romaji": "tachi",
-    "zh": "释义：pluralizing suffix (esp. for people and animals; formerly honorific)",
+    "zh": "结合本句可理解为：我们之间啊 已经到了那种阶段吧",
     "en": "pluralizing suffix (esp. for people and animals; formerly honorific)",
     "partOfSpeech": "名词 / noun; suffix",
-    "introZh": "词典释义：pluralizing suffix (esp. for people and animals; formerly honorific)。出自例句「私たちもう そんな頃よ」。",
+    "introZh": "词典释义：结合本句可理解为：我们之间啊 已经到了那种阶段吧。出自例句「私たちもう そんな頃よ」。",
     "introEn": "Meaning: pluralizing suffix (esp. for people and animals; formerly honorific). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私たちもう そんな頃よ",
     "exampleZh": "我们之间啊 已经到了那种阶段吧",
@@ -5193,10 +4926,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "先",
     "kana": "さき",
     "romaji": "saki",
-    "zh": "释义：point; tip; end; nozzle; head (of a line); front",
+    "zh": "结束；末尾",
     "en": "point; tip; end; nozzle; head (of a line); front",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：point; tip; end; nozzle; head (of a line); front。出自例句「先にさよならするわ」。",
+    "introZh": "词典释义：结束；末尾。出自例句「先にさよならするわ」。",
     "introEn": "Meaning: point; tip; end; nozzle; head (of a line); front. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先にさよならするわ",
     "exampleZh": "告别话语 由我开口",
@@ -5207,20 +4940,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3055-3088-306a-3089-227",
     "japanese": "さよなら",
     "kana": "さよなら",
     "romaji": "sayonara",
-    "zh": "释义：goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with",
+    "zh": "再见；告别",
     "en": "goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with",
     "partOfSpeech": "名词 / noun; interjection",
-    "introZh": "词典释义：goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with。出自例句「先にさよならするわ」。",
+    "introZh": "词典释义：再见；告别。出自例句「先にさよならするわ」。",
     "introEn": "Meaning: goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先にさよならするわ",
     "exampleZh": "告别话语 由我开口",
@@ -5238,10 +4968,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いつも",
     "kana": "いつも",
     "romaji": "itsumo",
-    "zh": "释义：always; all the time; at all times; never; usual; regular",
+    "zh": "通常的；平常的；固定的",
     "en": "always; all the time; at all times; never; usual; regular",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：always; all the time; at all times; never; usual; regular。出自例句「悪いのはそうよいつも私でいいの」。",
+    "introZh": "词典释义：通常的；平常的；固定的。出自例句「悪いのはそうよいつも私でいいの」。",
     "introEn": "Meaning: always; all the time; at all times; never; usual; regular. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "悪いのはそうよいつも私でいいの",
     "exampleZh": "万般指责 由我承受",
@@ -5259,10 +4989,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "進ま",
     "kana": "すすま",
     "romaji": "susuma",
-    "zh": "释义：to advance; to go forward; to precede; to go ahead (of); to make progress; to improve",
+    "zh": "前进；进展",
     "en": "to advance; to go forward; to precede; to go ahead (of); to make progress; to improve",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to advance; to go forward; to precede; to go ahead (of); to make progress; to improve。出自例句「先に進まなければゴールできぬゲームなのよ」。",
+    "introZh": "词典释义：前进；进展。出自例句「先に進まなければゴールできぬゲームなのよ」。",
     "introEn": "Meaning: to advance; to go forward; to precede; to go ahead (of); to make progress; to improve. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先に進まなければゴールできぬゲームなのよ",
     "exampleZh": "别无选择 只能前进 唯有如此 方能抵达游戏终点",
@@ -5275,8 +5005,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "進む",
-      "すすま"
+      "進む"
     ]
   },
   {
@@ -5284,10 +5013,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なけれ",
     "kana": "なけれ",
     "romaji": "nakere",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
     "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
     "partOfSpeech": "助动词 / auxiliary; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「先に進まなければゴールできぬゲームなのよ」。",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「先に進まなければゴールできぬゲームなのよ」。",
     "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先に進まなければゴールできぬゲームなのよ",
     "exampleZh": "别无选择 只能前进 唯有如此 方能抵达游戏终点",
@@ -5308,10 +5037,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ゴール",
     "kana": "ごうる",
     "romaji": "gouru",
-    "zh": "释义：goal (in soccer, hockey, etc.); basket (in basketball); finish line; finishing line; winning post; reaching the finish line",
+    "zh": "结合本句可理解为：别无选择 只能前进 唯有如此 方能抵达游戏终点",
     "en": "goal (in soccer, hockey, etc.); basket (in basketball); finish line; finishing line; winning post; reaching the finish line",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：goal (in soccer, hockey, etc.); basket (in basketball); finish line; finishing line; winning post; reaching the finish line。出自例句「先に進まなければゴールできぬゲームなのよ」。",
+    "introZh": "词典释义：结合本句可理解为：别无选择 只能前进 唯有如此 方能抵达游戏终点。出自例句「先に進まなければゴールできぬゲームなのよ」。",
     "introEn": "Meaning: goal (in soccer, hockey, etc.); basket (in basketball); finish line; finishing line; winning post; reaching the finish line. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先に進まなければゴールできぬゲームなのよ",
     "exampleZh": "别无选择 只能前进 唯有如此 方能抵达游戏终点",
@@ -5322,20 +5051,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ごうる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30b2-30fc-30e0-232",
     "japanese": "ゲーム",
     "kana": "げえむ",
     "romaji": "geemu",
-    "zh": "释义：game",
+    "zh": "结合本句可理解为：别无选择 只能前进 唯有如此 方能抵达游戏终点",
     "en": "game",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：game。出自例句「先に進まなければゴールできぬゲームなのよ」。",
+    "introZh": "词典释义：结合本句可理解为：别无选择 只能前进 唯有如此 方能抵达游戏终点。出自例句「先に進まなければゴールできぬゲームなのよ」。",
     "introEn": "Meaning: game. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先に進まなければゴールできぬゲームなのよ",
     "exampleZh": "别无选择 只能前进 唯有如此 方能抵达游戏终点",
@@ -5346,20 +5072,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "げえむ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3057-304b-233",
     "japanese": "しか",
     "kana": "しか",
     "romaji": "shika",
-    "zh": "释义：nothing but; except; no more than",
+    "zh": "仅仅；只有；只不过；不超过",
     "en": "nothing but; except; no more than",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：nothing but; except; no more than。出自例句「愛しか感じたくもない」。",
+    "introZh": "词典释义：仅仅；只有；只不过；不超过。出自例句「愛しか感じたくもない」。",
     "introEn": "Meaning: nothing but; except; no more than. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "愛しか感じたくもない",
     "exampleZh": "只愿感受到爱",
@@ -5377,11 +5100,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たく",
     "kana": "たく",
     "romaji": "taku",
-    "zh": "释义：table; desk; counter for tables, desks, etc.; offering table before an altar (sometimes used in tea ceremony); tabletop incense burner",
-    "en": "table; desk; counter for tables, desks, etc.; offering table before an altar (sometimes used in tea ceremony); tabletop incense burner",
-    "partOfSpeech": "助动词 / auxiliary; noun",
-    "introZh": "词典释义：table; desk; counter for tables, desks, etc.; offering table before an altar (sometimes used in tea ceremony); tabletop incense burner。出自例句「愛しか感じたくもない」。",
-    "introEn": "Meaning: table; desk; counter for tables, desks, etc.; offering table before an altar (sometimes used in tea ceremony); tabletop incense burner. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：只愿感受到爱",
+    "en": "want to do ...; would like to do ...; indicates emphasis; very ...",
+    "partOfSpeech": "助动词 / auxiliary; aux-adj · i-adjective",
+    "introZh": "词典释义：结合本句可理解为：只愿感受到爱。出自例句「愛しか感じたくもない」。",
+    "introEn": "Meaning: want to do ...; would like to do ...; indicates emphasis; very .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "愛しか感じたくもない",
     "exampleZh": "只愿感受到爱",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -5401,10 +5124,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "隔て",
     "kana": "へだて",
     "romaji": "hedate",
-    "zh": "释义：partition; division; barrier; separation; discrimination; partiality",
+    "zh": "分割；划分",
     "en": "partition; division; barrier; separation; discrimination; partiality",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：partition; division; barrier; separation; discrimination; partiality。出自例句「もう何の分け隔てもない」。",
+    "introZh": "词典释义：分割；划分。出自例句「もう何の分け隔てもない」。",
     "introEn": "Meaning: partition; division; barrier; separation; discrimination; partiality. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう何の分け隔てもない",
     "exampleZh": "众生平等相待",
@@ -5415,21 +5138,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "へだて"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-307e-3068-3081-236",
     "japanese": "まとめ",
     "kana": "まとめ",
     "romaji": "matome",
-    "zh": "释义：summary; recapitulation; aggregation",
-    "en": "summary; recapitulation; aggregation",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：summary; recapitulation; aggregation。出自例句「まとめてかかってきなさい」。",
-    "introEn": "Meaning: summary; recapitulation; aggregation. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：大伙放马过来",
+    "en": "to collect; to put (it all) together; to integrate; to consolidate; to unify; to summarize",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：大伙放马过来。出自例句「まとめてかかってきなさい」。",
+    "introEn": "Meaning: to collect; to put (it all) together; to integrate; to consolidate; to unify; to summarize. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まとめてかかってきなさい",
     "exampleZh": "大伙放马过来",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -5449,10 +5169,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "かかっ",
     "kana": "かかっ",
     "romaji": "kaka",
-    "zh": "释义：to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)",
+    "zh": "到达；抵达",
     "en": "to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)。出自例句「まとめてかかってきなさい」。",
+    "introZh": "词典释义：到达；抵达。出自例句「まとめてかかってきなさい」。",
     "introEn": "Meaning: to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まとめてかかってきなさい",
     "exampleZh": "大伙放马过来",
@@ -5473,11 +5193,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なさい",
     "kana": "なさい",
     "romaji": "nasai",
-    "zh": "释义：do ...",
-    "en": "do ...",
-    "partOfSpeech": "动词 / verb; auxiliary verb",
-    "introZh": "词典释义：do ...。出自例句「まとめてかかってきなさい」。",
-    "introEn": "Meaning: do .... Dictionary data: local Kotobako/JMdict.",
+    "zh": "做；进行",
+    "en": "to do",
+    "partOfSpeech": "动词 / verb; v5aru · transitive verb",
+    "introZh": "词典释义：做；进行。出自例句「まとめてかかってきなさい」。",
+    "introEn": "Meaning: to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まとめてかかってきなさい",
     "exampleZh": "大伙放马过来",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -5497,10 +5217,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "から",
     "kana": "から",
     "romaji": "kara",
-    "zh": "释义：from (e.g. time, place, numerical quantity); since; from (originator); by; because",
+    "zh": "从；由于；因为",
     "en": "from (e.g. time, place, numerical quantity); since; from (originator); by; because",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：from (e.g. time, place, numerical quantity); since; from (originator); by; because。出自例句「今なら全て受け止めるから」。",
+    "introZh": "词典释义：从；由于；因为。出自例句「今なら全て受け止めるから」。",
     "introEn": "Meaning: from (e.g. time, place, numerical quantity); since; from (originator); by; because. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今なら全て受け止めるから",
     "exampleZh": "照单全收无外",
@@ -5518,10 +5238,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "一体",
     "kana": "いったい",
     "romaji": "ittai",
-    "zh": "释义：(what) the heck; (why) in the world; (who) on earth; (where) the hell; (how) the hell; one object",
+    "zh": "结合本句可理解为：所以、你到底想要什么",
     "en": "(what) the heck; (why) in the world; (who) on earth; (where) the hell; (how) the hell; one object",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：(what) the heck; (why) in the world; (who) on earth; (where) the hell; (how) the hell; one object。出自例句「で、一体何がほしいわけ」。",
+    "introZh": "词典释义：结合本句可理解为：所以、你到底想要什么。出自例句「で、一体何がほしいわけ」。",
     "introEn": "Meaning: (what) the heck; (why) in the world; (who) on earth; (where) the hell; (how) the hell; one object. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "で、一体何がほしいわけ",
     "exampleZh": "所以、你到底想要什么",
@@ -5532,20 +5252,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いったい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-307b-3057-3044-241",
     "japanese": "ほしい",
     "kana": "ほしい",
     "romaji": "hoshii",
-    "zh": "释义：wanting (to have); desiring; wishing for; I want (you, them, etc.) to (do)",
+    "zh": "结合本句可理解为：所以、你到底想要什么",
     "en": "wanting (to have); desiring; wishing for; I want (you, them, etc.) to (do)",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：wanting (to have); desiring; wishing for; I want (you, them, etc.) to (do)。出自例句「で、一体何がほしいわけ」。",
+    "introZh": "词典释义：结合本句可理解为：所以、你到底想要什么。出自例句「で、一体何がほしいわけ」。",
     "introEn": "Meaning: wanting (to have); desiring; wishing for; I want (you, them, etc.) to (do). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "で、一体何がほしいわけ",
     "exampleZh": "所以、你到底想要什么",
@@ -5563,10 +5280,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "わけ",
     "kana": "わけ",
     "romaji": "wake",
-    "zh": "释义：division; splitting; classification; sharing; distribution; draw",
+    "zh": "分割；划分",
     "en": "division; splitting; classification; sharing; distribution; draw",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：division; splitting; classification; sharing; distribution; draw。出自例句「で、一体何がほしいわけ」。",
+    "introZh": "词典释义：分割；划分。出自例句「で、一体何がほしいわけ」。",
     "introEn": "Meaning: division; splitting; classification; sharing; distribution; draw. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "で、一体何がほしいわけ",
     "exampleZh": "所以、你到底想要什么",
@@ -5584,10 +5301,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なかなか",
     "kana": "なかなか",
     "romaji": "nakanaka",
-    "zh": "释义：very; considerably; easily; readily; fairly; quite",
+    "zh": "结合本句可理解为：是有些难以察觉呢",
     "en": "very; considerably; easily; readily; fairly; quite",
     "partOfSpeech": "副词 / adverb; adverb · na-adjective",
-    "introZh": "词典释义：very; considerably; easily; readily; fairly; quite。出自例句「なかなか気づけんよね」。",
+    "introZh": "词典释义：结合本句可理解为：是有些难以察觉呢。出自例句「なかなか気づけんよね」。",
     "introEn": "Meaning: very; considerably; easily; readily; fairly; quite. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "なかなか気づけんよね",
     "exampleZh": "是有些难以察觉呢",
@@ -5605,10 +5322,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "気づけ",
     "kana": "きづけ",
     "romaji": "kizuke",
-    "zh": "释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense",
+    "zh": "注意到；察觉；意识到；明白；察觉到；感知；感觉到",
     "en": "to notice; to realize; to realise; to become aware (of); to perceive; to sense",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense。出自例句「なかなか気づけんよね」。",
+    "introZh": "词典释义：注意到；察觉；意识到；明白；察觉到；感知；感觉到。出自例句「なかなか気づけんよね」。",
     "introEn": "Meaning: to notice; to realize; to realise; to become aware (of); to perceive; to sense. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "なかなか気づけんよね",
     "exampleZh": "是有些难以察觉呢",
@@ -5621,8 +5338,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "気づく",
-      "きづけ"
+      "気づく"
     ]
   },
   {
@@ -5630,10 +5346,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "既に",
     "kana": "すでに",
     "romaji": "sudeni",
-    "zh": "释义：already; previously; before; undeniably; unmistakably; in the first place",
+    "zh": "已经",
     "en": "already; previously; before; undeniably; unmistakably; in the first place",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：already; previously; before; undeniably; unmistakably; in the first place。出自例句「何もかも既に持ってるのにね」。",
+    "introZh": "词典释义：已经。出自例句「何もかも既に持ってるのにね」。",
     "introEn": "Meaning: already; previously; before; undeniably; unmistakably; in the first place. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも既に持ってるのにね",
     "exampleZh": "我们其实早已拥有了一切",
@@ -5644,20 +5360,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "すでに"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3066-308b-246",
     "japanese": "てる",
     "kana": "てる",
     "romaji": "teru",
-    "zh": "释义：to shine; to look slightly upward (of a noh mask; indicating joy, etc.)",
+    "zh": "结合本句可理解为：我们其实早已拥有了一切",
     "en": "to shine; to look slightly upward (of a noh mask; indicating joy, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to shine; to look slightly upward (of a noh mask; indicating joy, etc.)。出自例句「何もかも既に持ってるのにね」。",
+    "introZh": "词典释义：结合本句可理解为：我们其实早已拥有了一切。出自例句「何もかも既に持ってるのにね」。",
     "introEn": "Meaning: to shine; to look slightly upward (of a noh mask; indicating joy, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも既に持ってるのにね",
     "exampleZh": "我们其实早已拥有了一切",
@@ -5675,10 +5388,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "のに",
     "kana": "のに",
     "romaji": "noni",
-    "zh": "释义：although; despite; even though; and yet; whereas; while",
+    "zh": "虽然；尽管；然而；即便如此",
     "en": "although; despite; even though; and yet; whereas; while",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：although; despite; even though; and yet; whereas; while。出自例句「何もかも既に持ってるのにね」。",
+    "introZh": "词典释义：虽然；尽管；然而；即便如此。出自例句「何もかも既に持ってるのにね」。",
     "introEn": "Meaning: although; despite; even though; and yet; whereas; while. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも既に持ってるのにね",
     "exampleZh": "我们其实早已拥有了一切",
@@ -5710,20 +5423,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "はなまつり"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-796d-308a-249",
     "japanese": "祭り",
     "kana": "まつり",
     "romaji": "matsuri",
-    "zh": "释义：festival; feast; matsuri; harassment by an Internet pitchfork mob; online shaming; flaming",
+    "zh": "结合本句可理解为：浴佛节 夏日祭",
     "en": "festival; feast; matsuri; harassment by an Internet pitchfork mob; online shaming; flaming",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：festival; feast; matsuri; harassment by an Internet pitchfork mob; online shaming; flaming。出自例句「花祭り 夏祭り」。",
+    "introZh": "词典释义：结合本句可理解为：浴佛节 夏日祭。出自例句「花祭り 夏祭り」。",
     "introEn": "Meaning: festival; feast; matsuri; harassment by an Internet pitchfork mob; online shaming; flaming. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "花祭り 夏祭り",
     "exampleZh": "浴佛节 夏日祭",
@@ -5734,20 +5444,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まつり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9078-3073-250",
     "japanese": "選び",
     "kana": "えらび",
     "romaji": "erabi",
-    "zh": "释义：to choose; to select; to pick (out)",
+    "zh": "结合本句可理解为：选择你的心之所向",
     "en": "to choose; to select; to pick (out)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to choose; to select; to pick (out)。出自例句「何でも好きに選びな」。",
+    "introZh": "词典释义：结合本句可理解为：选择你的心之所向。出自例句「何でも好きに選びな」。",
     "introEn": "Meaning: to choose; to select; to pick (out). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何でも好きに選びな",
     "exampleZh": "选择你的心之所向",
@@ -5760,8 +5467,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "選ぶ",
-      "えらび"
+      "選ぶ"
     ]
   },
   {
@@ -5769,10 +5475,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "え",
     "kana": "え",
     "romaji": "e",
-    "zh": "释义：eh?; what?; oh?; yes; that's correct; used for soft emphasis or to soften a statement or request",
+    "zh": "什么？",
     "en": "eh?; what?; oh?; yes; that's correct; used for soft emphasis or to soften a statement or request",
     "partOfSpeech": "填充词 / filler; interjection",
-    "introZh": "词典释义：eh?; what?; oh?; yes; that's correct; used for soft emphasis or to soften a statement or request。出自例句「あなたの心の中咲かせな(えいっ)」。",
+    "introZh": "词典释义：什么？。出自例句「あなたの心の中咲かせな(えいっ)」。",
     "introEn": "Meaning: eh?; what?; oh?; yes; that's correct; used for soft emphasis or to soften a statement or request. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたの心の中咲かせな(えいっ)",
     "exampleZh": "让它在你心中开花结果（耶）",
@@ -5790,11 +5496,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いっ",
     "kana": "いっ",
     "romaji": "i",
-    "zh": "语境释义：让它在你心中开花结果（耶）",
-    "en": "Context meaning: 让它在你心中开花结果（耶）",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「いっ」。本句语境：让它在你心中开花结果（耶）",
-    "introEn": "Read as \"i\". Context: 让它在你心中开花结果（耶）",
+    "zh": "结合本句可理解为：让它在你心中开花结果（耶）",
+    "en": "to say; to utter; to declare; to name; to call; to go (e.g. \"the alarm went ping\")",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：让它在你心中开花结果（耶）。出自例句「あなたの心の中咲かせな(えいっ)」。",
+    "introEn": "Meaning: to say; to utter; to declare; to name; to call; to go (e.g. \"the alarm went ping\"). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたの心の中咲かせな(えいっ)",
     "exampleZh": "让它在你心中开花结果（耶）",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -5804,7 +5510,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "いう"
     ]
@@ -5828,20 +5534,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あきまつり"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-51ac-4f11-307f-254",
     "japanese": "冬休み",
     "kana": "ふゆやすみ",
     "romaji": "fuyuyasumi",
-    "zh": "释义：winter vacation; winter holidays",
+    "zh": "结合本句可理解为：秋日祭 冬休假",
     "en": "winter vacation; winter holidays",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：winter vacation; winter holidays。出自例句「秋祭り 冬休み」。",
+    "introZh": "词典释义：结合本句可理解为：秋日祭 冬休假。出自例句「秋祭り 冬休み」。",
     "introEn": "Meaning: winter vacation; winter holidays. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "秋祭り 冬休み",
     "exampleZh": "秋日祭 冬休假",
@@ -5852,20 +5555,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふゆやすみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-306e-255",
     "japanese": "その",
     "kana": "その",
     "romaji": "sono",
-    "zh": "释义：that; the; part (as in \"part two\"); um ...; er ...; uh ...",
+    "zh": "那个；那样；那；这个",
     "en": "that; the; part (as in \"part two\"); um ...; er ...; uh ...",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：that; the; part (as in \"part two\"); um ...; er ...; uh ...。出自例句「その閉じた心 今こじ開けな」。",
+    "introZh": "词典释义：那个；那样；那；这个。出自例句「その閉じた心 今こじ開けな」。",
     "introEn": "Meaning: that; the; part (as in \"part two\"); um ...; er ...; uh .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "その閉じた心 今こじ開けな",
     "exampleZh": "那紧闭的心扉 现在敞开吧",
@@ -5899,8 +5599,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "こじ開ける",
-      "こじあけ"
+      "こじ開ける"
     ]
   },
   {
@@ -5908,10 +5607,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "あっけ",
     "kana": "あっけ",
     "romaji": "akke",
-    "zh": "释义：being taken aback; state of shock; dumbfoundedness",
+    "zh": "结合本句可理解为：敞开心扉吧",
     "en": "being taken aback; state of shock; dumbfoundedness",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：being taken aback; state of shock; dumbfoundedness。出自例句「あっけーな」。",
+    "introZh": "词典释义：结合本句可理解为：敞开心扉吧。出自例句「あっけーな」。",
     "introEn": "Meaning: being taken aback; state of shock; dumbfoundedness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あっけーな",
     "exampleZh": "敞开心扉吧",
@@ -5964,20 +5663,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "らっせえら"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6bce-65e5-260",
     "japanese": "毎日",
     "kana": "まいにち",
     "romaji": "mainichi",
-    "zh": "释义：every day; daily",
+    "zh": "每天；每日的；日常的",
     "en": "every day; daily",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：every day; daily。出自例句「毎日愛しき何かの」。",
+    "introZh": "词典释义：每天；每日的；日常的。出自例句「毎日愛しき何かの」。",
     "introEn": "Meaning: every day; daily. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "毎日愛しき何かの",
     "exampleZh": "每天都惹人怜爱",
@@ -5988,20 +5684,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まいにち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-611b-3057-304d-261",
     "japanese": "愛しき",
     "kana": "いとしき",
     "romaji": "itoshiki",
-    "zh": "释义：lovely; dear; beloved; darling; dearest; pitiable",
+    "zh": "可爱的；令人喜爱的；亲爱的",
     "en": "lovely; dear; beloved; darling; dearest; pitiable",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：lovely; dear; beloved; darling; dearest; pitiable。出自例句「毎日愛しき何かの」。",
+    "introZh": "词典释义：可爱的；令人喜爱的；亲爱的。出自例句「毎日愛しき何かの」。",
     "introEn": "Meaning: lovely; dear; beloved; darling; dearest; pitiable. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "毎日愛しき何かの",
     "exampleZh": "每天都惹人怜爱",
@@ -6014,8 +5707,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "愛しい",
-      "いとしき"
+      "愛しい"
     ]
   },
   {
@@ -6023,10 +5715,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "大当たり",
     "kana": "おおあたり",
     "romaji": "ooatari",
-    "zh": "释义：great success; big hit; smash hit; winner; (hitting the) jackpot; big win",
+    "zh": "结合本句可理解为：再细微的小事都是行大运",
     "en": "great success; big hit; smash hit; winner; (hitting the) jackpot; big win",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：great success; big hit; smash hit; winner; (hitting the) jackpot; big win。出自例句「あれもこれもが大当たり」。",
+    "introZh": "词典释义：结合本句可理解为：再细微的小事都是行大运。出自例句「あれもこれもが大当たり」。",
     "introEn": "Meaning: great success; big hit; smash hit; winner; (hitting the) jackpot; big win. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あれもこれもが大当たり",
     "exampleZh": "再细微的小事都是行大运",
@@ -6037,20 +5729,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おおあたり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6bd4-3079-308b-263",
     "japanese": "比べる",
     "kana": "くらべる",
     "romaji": "kuraberu",
-    "zh": "释义：to compare; to make a comparison (between); to compete (on); to measure (one's strength, ability, etc. against another's)",
+    "zh": "结合本句可理解为：无需比较",
     "en": "to compare; to make a comparison (between); to compete (on); to measure (one's strength, ability, etc. against another's)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to compare; to make a comparison (between); to compete (on); to measure (one's strength, ability, etc. against another's)。出自例句「比べるものは何もない」。",
+    "introZh": "词典释义：结合本句可理解为：无需比较。出自例句「比べるものは何もない」。",
     "introEn": "Meaning: to compare; to make a comparison (between); to compete (on); to measure (one's strength, ability, etc. against another's). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "比べるものは何もない",
     "exampleZh": "无需比较",
@@ -6061,20 +5750,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くらべる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8ca0-3051-264",
     "japanese": "負け",
     "kana": "まけ",
     "romaji": "make",
-    "zh": "释义：defeat; loss; losing (a game); failing to live up to (one's name, looks, etc.); discount; loss (on a sale)",
+    "zh": "失败；落败",
     "en": "defeat; loss; losing (a game); failing to live up to (one's name, looks, etc.); discount; loss (on a sale)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：defeat; loss; losing (a game); failing to live up to (one's name, looks, etc.); discount; loss (on a sale)。出自例句「勝ちや負けとか一切ない」。",
+    "introZh": "词典释义：失败；落败。出自例句「勝ちや負けとか一切ない」。",
     "introEn": "Meaning: defeat; loss; losing (a game); failing to live up to (one's name, looks, etc.); discount; loss (on a sale). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "勝ちや負けとか一切ない",
     "exampleZh": "无关胜负",
@@ -6085,20 +5771,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まけ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3068-304b-265",
     "japanese": "とか",
     "kana": "とか",
     "romaji": "toka",
-    "zh": "释义：and the like; such as; among other things; and so on; or something; something like",
+    "zh": "结合本句可理解为：无关胜负",
     "en": "and the like; such as; among other things; and so on; or something; something like",
     "partOfSpeech": "助词 / particle; particle · conjunction",
-    "introZh": "词典释义：and the like; such as; among other things; and so on; or something; something like。出自例句「勝ちや負けとか一切ない」。",
+    "introZh": "词典释义：结合本句可理解为：无关胜负。出自例句「勝ちや負けとか一切ない」。",
     "introEn": "Meaning: and the like; such as; among other things; and so on; or something; something like. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "勝ちや負けとか一切ない",
     "exampleZh": "无关胜负",
@@ -6116,10 +5799,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "一切",
     "kana": "いっさい",
     "romaji": "issai",
-    "zh": "释义：all; everything; entirety; the whole; absolutely (not); (not) at all",
+    "zh": "全部；所有",
     "en": "all; everything; entirety; the whole; absolutely (not); (not) at all",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：all; everything; entirety; the whole; absolutely (not); (not) at all。出自例句「勝ちや負けとか一切ない」。",
+    "introZh": "词典释义：全部；所有。出自例句「勝ちや負けとか一切ない」。",
     "introEn": "Meaning: all; everything; entirety; the whole; absolutely (not); (not) at all. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "勝ちや負けとか一切ない",
     "exampleZh": "无关胜负",
@@ -6130,20 +5813,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いっさい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3053-3063-3061-267",
     "japanese": "こっち",
     "kana": "こっち",
     "romaji": "kotchi",
-    "zh": "释义：this person; this direction; this side",
+    "zh": "结合本句可理解为：我什么都不在乎",
     "en": "this person; this direction; this side",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：this person; this direction; this side。出自例句「何も知ったこっちゃない」。",
+    "introZh": "词典释义：结合本句可理解为：我什么都不在乎。出自例句「何も知ったこっちゃない」。",
     "introEn": "Meaning: this person; this direction; this side. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何も知ったこっちゃない",
     "exampleZh": "我什么都不在乎",
@@ -6182,11 +5862,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ください",
     "kana": "ください",
     "romaji": "kudasai",
-    "zh": "释义：please (give me); please (do for me)",
-    "en": "please (give me); please (do for me)",
-    "partOfSpeech": "动词 / verb; expression",
-    "introZh": "词典释义：please (give me); please (do for me)。出自例句「好きにしてください」。",
-    "introEn": "Meaning: please (give me); please (do for me). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：爱咋咋地",
+    "en": "to give; to confer; to bestow; to kindly do for one; to oblige; to favour",
+    "partOfSpeech": "动词 / verb; v5aru · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：爱咋咋地。出自例句「好きにしてください」。",
+    "introEn": "Meaning: to give; to confer; to bestow; to kindly do for one; to oblige; to favour. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "好きにしてください",
     "exampleZh": "爱咋咋地",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -6206,11 +5886,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "泣い",
     "kana": "ない",
     "romaji": "nai",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
-    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
-    "partOfSpeech": "动词 / verb; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「僕が激しく泣いたせいで」。",
-    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：都怪我嚎啕大哭",
+    "en": "to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by)",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：都怪我嚎啕大哭。出自例句「僕が激しく泣いたせいで」。",
+    "introEn": "Meaning: to cry; to shed tears; to weep; to sob; to suffer (from); to be troubled (by). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕が激しく泣いたせいで",
     "exampleZh": "都怪我嚎啕大哭",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -6222,8 +5902,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "泣く",
-      "ない"
+      "泣く"
     ]
   },
   {
@@ -6231,10 +5910,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "せい",
     "kana": "せい",
     "romaji": "sei",
-    "zh": "释义：consequence; outcome; result; blame; fault",
+    "zh": "结果；结局",
     "en": "consequence; outcome; result; blame; fault",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：consequence; outcome; result; blame; fault。出自例句「僕が激しく泣いたせいで」。",
+    "introZh": "词典释义：结果；结局。出自例句「僕が激しく泣いたせいで」。",
     "introEn": "Meaning: consequence; outcome; result; blame; fault. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕が激しく泣いたせいで",
     "exampleZh": "都怪我嚎啕大哭",
@@ -6266,20 +5945,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ほねみ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6c81-307f-273",
     "japanese": "沁み",
     "kana": "しみ",
     "romaji": "shimi",
-    "zh": "释义：stain; spot; smudge; blot; smear; blotch",
+    "zh": "污渍；污点；地点；场所",
     "en": "stain; spot; smudge; blot; smear; blotch",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：stain; spot; smudge; blot; smear; blotch。出自例句「冬の厳しさ骨身に沁みた」。",
+    "introZh": "词典释义：污渍；污点；地点；场所。出自例句「冬の厳しさ骨身に沁みた」。",
     "introEn": "Meaning: stain; spot; smudge; blot; smear; blotch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "冬の厳しさ骨身に沁みた",
     "exampleZh": "凌烈寒风渗入骨髓",
@@ -6292,8 +5968,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "沁みる",
-      "しみ"
+      "沁みる"
     ]
   },
   {
@@ -6301,10 +5976,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "平ら",
     "kana": "たいら",
     "romaji": "taira",
-    "zh": "释义：flat; level; even; smooth; calm; tranquil",
+    "zh": "甚至；即使",
     "en": "flat; level; even; smooth; calm; tranquil",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：flat; level; even; smooth; calm; tranquil。出自例句「真っ平らに生きられたら」。",
+    "introZh": "词典释义：甚至；即使。出自例句「真っ平らに生きられたら」。",
     "introEn": "Meaning: flat; level; even; smooth; calm; tranquil. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っ平らに生きられたら",
     "exampleZh": "若能平稳地活着",
@@ -6315,10 +5990,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たいら"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3089-308c-275",
@@ -6349,10 +6021,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "真っ直ぐ",
     "kana": "まっすぐ",
     "romaji": "massugu",
-    "zh": "释义：straight (ahead); direct; upright; erect; straightforward; honest",
+    "zh": "结合本句可理解为：若能笔直地前行",
     "en": "straight (ahead); direct; upright; erect; straightforward; honest",
     "partOfSpeech": "名词 / noun; na-adjective · adverb · noun",
-    "introZh": "词典释义：straight (ahead); direct; upright; erect; straightforward; honest。出自例句「真っ直ぐにそこへ行けたかな」。",
+    "introZh": "词典释义：结合本句可理解为：若能笔直地前行。出自例句「真っ直ぐにそこへ行けたかな」。",
     "introEn": "Meaning: straight (ahead); direct; upright; erect; straightforward; honest. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っ直ぐにそこへ行けたかな",
     "exampleZh": "若能笔直地前行",
@@ -6363,20 +6035,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まっすぐ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-3053-277",
     "japanese": "そこ",
     "kana": "そこ",
     "romaji": "soko",
-    "zh": "释义：there (place relatively near listener); there (place just mentioned); that place; then (of some incident just spoken of); that (of point just raised); you",
+    "zh": "然后；那时；那个；那样；你",
     "en": "there (place relatively near listener); there (place just mentioned); that place; then (of some incident just spoken of); that (of point just raised); you",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：there (place relatively near listener); there (place just mentioned); that place; then (of some incident just spoken of); that (of point just raised); you。出自例句「真っ直ぐにそこへ行けたかな」。",
+    "introZh": "词典释义：然后；那时；那个；那样；你。出自例句「真っ直ぐにそこへ行けたかな」。",
     "introEn": "Meaning: there (place relatively near listener); there (place just mentioned); that place; then (of some incident just spoken of); that (of point just raised); you. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っ直ぐにそこへ行けたかな",
     "exampleZh": "若能笔直地前行",
@@ -6394,10 +6063,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "行け",
     "kana": "いけ",
     "romaji": "ike",
-    "zh": "释义：pond",
+    "zh": "结合本句可理解为：若能笔直地前行",
     "en": "pond",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：pond。出自例句「真っ直ぐにそこへ行けたかな」。",
+    "introZh": "词典释义：结合本句可理解为：若能笔直地前行。出自例句「真っ直ぐにそこへ行けたかな」。",
     "introEn": "Meaning: pond. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っ直ぐにそこへ行けたかな",
     "exampleZh": "若能笔直地前行",
@@ -6410,8 +6079,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "行ける",
-      "いけ"
+      "行ける"
     ]
   },
   {
@@ -6419,11 +6087,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "しゃ",
     "kana": "しゃ",
     "romaji": "sha",
-    "zh": "释义：hut; house; boarding house; residence hall; dormitory; one day's march (approx. 12.2 km)",
-    "en": "hut; house; boarding house; residence hall; dormitory; one day's march (approx. 12.2 km)",
-    "partOfSpeech": "动词 / verb; n-suf",
-    "introZh": "词典释义：hut; house; boarding house; residence hall; dormitory; one day's march (approx. 12.2 km)。出自例句「っしゃ今なら遅くはねーから」。",
-    "introEn": "Meaning: hut; house; boarding house; residence hall; dormitory; one day's march (approx. 12.2 km). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：现在重头开始也不迟",
+    "en": "vinegar",
+    "partOfSpeech": "动词 / verb; noun",
+    "introZh": "词典释义：结合本句可理解为：现在重头开始也不迟。出自例句「っしゃ今なら遅くはねーから」。",
+    "introEn": "Meaning: vinegar. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "っしゃ今なら遅くはねーから",
     "exampleZh": "现在重头开始也不迟",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -6443,10 +6111,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "遅く",
     "kana": "おそく",
     "romaji": "osoku",
-    "zh": "释义：slow; late; too late",
+    "zh": "结合本句可理解为：现在重头开始也不迟",
     "en": "slow; late; too late",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：slow; late; too late。出自例句「っしゃ今なら遅くはねーから」。",
+    "introZh": "词典释义：结合本句可理解为：现在重头开始也不迟。出自例句「っしゃ今なら遅くはねーから」。",
     "introEn": "Meaning: slow; late; too late. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "っしゃ今なら遅くはねーから",
     "exampleZh": "现在重头开始也不迟",
@@ -6459,8 +6127,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "遅い",
-      "おそく"
+      "遅い"
     ]
   },
   {
@@ -6482,10 +6149,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ねえ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3063-3057-282",
@@ -6537,10 +6201,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "死に",
     "kana": "しに",
     "romaji": "shini",
-    "zh": "释义：to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease",
+    "zh": "死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止",
     "en": "to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease。出自例句「生まれゆくもの死にゆくもの」。",
+    "introZh": "词典释义：死亡；逝去；去世；失去精神；泄气；失去活力；看起来没有生气；停止。出自例句「生まれゆくもの死にゆくもの」。",
     "introEn": "Meaning: to die; to pass away; to lose spirit; to lose vigor; to look dead; to cease. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "生まれゆくもの死にゆくもの",
     "exampleZh": "新生抑或是死亡",
@@ -6553,8 +6217,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "死ぬ",
-      "しに"
+      "死ぬ"
     ]
   },
   {
@@ -6562,10 +6225,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "同時",
     "kana": "どうじ",
     "romaji": "douji",
-    "zh": "释义：same time; simultaneous; concurrent; synchronous",
+    "zh": "结合本句可理解为：全部都在同时进行",
     "en": "same time; simultaneous; concurrent; synchronous",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：same time; simultaneous; concurrent; synchronous。出自例句「全てが同時の出来事」。",
+    "introZh": "词典释义：结合本句可理解为：全部都在同时进行。出自例句「全てが同時の出来事」。",
     "introEn": "Meaning: same time; simultaneous; concurrent; synchronous. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てが同時の出来事",
     "exampleZh": "全部都在同时进行",
@@ -6576,20 +6239,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "どうじ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-307f-306a-286",
     "japanese": "みな",
     "kana": "みな",
     "romaji": "mina",
-    "zh": "释义：everyone; everybody; all; everything",
+    "zh": "全部；所有",
     "en": "everyone; everybody; all; everything",
     "partOfSpeech": "名词 / noun; noun · pronoun · adverb",
-    "introZh": "词典释义：everyone; everybody; all; everything。出自例句「みな抱きしめたら踊りなさいな」。",
+    "introZh": "词典释义：全部；所有。出自例句「みな抱きしめたら踊りなさいな」。",
     "introEn": "Meaning: everyone; everybody; all; everything. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "みな抱きしめたら踊りなさいな",
     "exampleZh": "包容一切后起舞吧",
@@ -6623,8 +6283,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "抱きしめる",
-      "だきしめ"
+      "抱きしめる"
     ]
   },
   {
@@ -6648,8 +6307,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "有り難い",
-      "ありがたし"
+      "有り難い"
     ]
   },
   {
@@ -6657,10 +6315,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "苦しむ",
     "kana": "くるしむ",
     "romaji": "kurushimu",
-    "zh": "释义：to suffer; to groan; to be worried",
+    "zh": "结合本句可理解为：无需自我煎熬",
     "en": "to suffer; to groan; to be worried",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to suffer; to groan; to be worried。出自例句「苦しむことは何もない」。",
+    "introZh": "词典释义：结合本句可理解为：无需自我煎熬。出自例句「苦しむことは何もない」。",
     "introEn": "Meaning: to suffer; to groan; to be worried. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "苦しむことは何もない",
     "exampleZh": "无需自我煎熬",
@@ -6671,20 +6329,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くるしむ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-80a9-290",
     "japanese": "肩",
     "kana": "かた",
     "romaji": "kata",
-    "zh": "释义：shoulder",
+    "zh": "结合本句可理解为：无需自我煎熬",
     "en": "shoulder",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：shoulder。出自例句「肩落とすこた一切ない」。",
+    "introZh": "词典释义：结合本句可理解为：无需自我煎熬。出自例句「肩落とすこた一切ない」。",
     "introEn": "Meaning: shoulder. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "肩落とすこた一切ない",
     "exampleZh": "无需自我煎熬",
@@ -6695,20 +6350,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かた"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-843d-3068-3059-291",
     "japanese": "落とす",
     "kana": "おとす",
     "romaji": "otosu",
-    "zh": "释义：to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)",
+    "zh": "落下；丢下；失去；输掉",
     "en": "to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)。出自例句「肩落とすこた一切ない」。",
+    "introZh": "词典释义：落下；丢下；失去；输掉。出自例句「肩落とすこた一切ない」。",
     "introEn": "Meaning: to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "肩落とすこた一切ない",
     "exampleZh": "无需自我煎熬",
@@ -6719,21 +6371,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おとす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3053-292",
     "japanese": "こ",
     "kana": "こ",
     "romaji": "ko",
-    "zh": "释义：counter for (small) things or pieces; counter for military units; (an) individual; one person; counter for years (of age difference); counter for school-years",
-    "en": "counter for (small) things or pieces; counter for military units; (an) individual; one person; counter for years (of age difference); counter for school-years",
-    "partOfSpeech": "形容词 / adjective; counter",
-    "introZh": "词典释义：counter for (small) things or pieces; counter for military units; (an) individual; one person; counter for years (of age difference); counter for school-years。出自例句「肩落とすこた一切ない」。",
-    "introEn": "Meaning: counter for (small) things or pieces; counter for military units; (an) individual; one person; counter for years (of age difference); counter for school-years. Dictionary data: local Kotobako/JMdict.",
+    "zh": "意图；心意",
+    "en": "intent; intention; bad faith; mens rea (guilty mind)",
+    "partOfSpeech": "形容词 / adjective; noun · no-adjective",
+    "introZh": "词典释义：意图；心意。出自例句「肩落とすこた一切ない」。",
+    "introEn": "Meaning: intent; intention; bad faith; mens rea (guilty mind). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "肩落とすこた一切ない",
     "exampleZh": "无需自我煎熬",
     "exampleEn": "Example line from \"まつり\" by 藤井風.",
@@ -6753,10 +6402,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "せよ",
     "kana": "せよ",
     "romaji": "seyo",
-    "zh": "释义：to do; to carry out; to perform; to cause to become; to make (into); to turn (into)",
+    "zh": "做；进行；执行；完成；表演；使变成；做成；使变为",
     "en": "to do; to carry out; to perform; to cause to become; to make (into); to turn (into)",
     "partOfSpeech": "动词 / verb; suru verb",
-    "introZh": "词典释义：to do; to carry out; to perform; to cause to become; to make (into); to turn (into)。出自例句「何にせよめでたい」。",
+    "introZh": "词典释义：做；进行；执行；完成；表演；使变成；做成；使变为。出自例句「何にせよめでたい」。",
     "introEn": "Meaning: to do; to carry out; to perform; to cause to become; to make (into); to turn (into). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何にせよめでたい",
     "exampleZh": "真是可喜可贺",
@@ -6777,10 +6426,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "めでたい",
     "kana": "めでたい",
     "romaji": "medetai",
-    "zh": "释义：happy; auspicious; propitious; joyous; naive",
+    "zh": "开心的；高兴的",
     "en": "happy; auspicious; propitious; joyous; naive",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：happy; auspicious; propitious; joyous; naive。出自例句「何にせよめでたい」。",
+    "introZh": "词典释义：开心的；高兴的。出自例句「何にせよめでたい」。",
     "introEn": "Meaning: happy; auspicious; propitious; joyous; naive. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何にせよめでたい",
     "exampleZh": "真是可喜可贺",
@@ -6798,10 +6447,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "など",
     "kana": "など",
     "romaji": "nado",
-    "zh": "释义：et cetera; etc.; and the like; and so forth; or something; the likes of",
+    "zh": "结合本句可理解为：没有特别想要的 也没啥期望",
     "en": "et cetera; etc.; and the like; and so forth; or something; the likes of",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：et cetera; etc.; and the like; and so forth; or something; the likes of。出自例句「特にない 望みなどない」。",
+    "introZh": "词典释义：结合本句可理解为：没有特别想要的 也没啥期望。出自例句「特にない 望みなどない」。",
     "introEn": "Meaning: et cetera; etc.; and the like; and so forth; or something; the likes of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "特にない 望みなどない",
     "exampleZh": "没有特别想要的 也没啥期望",
@@ -6819,10 +6468,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "歩く",
     "kana": "あるく",
     "romaji": "aruku",
-    "zh": "释义：to walk",
+    "zh": "结合本句可理解为：我 漫无目的的走",
     "en": "to walk",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to walk。出自例句「私 期待せずに歩く」。",
+    "introZh": "词典释义：结合本句可理解为：我 漫无目的的走。出自例句「私 期待せずに歩く」。",
     "introEn": "Meaning: to walk. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私 期待せずに歩く",
     "exampleZh": "我 漫无目的的走",
@@ -6833,20 +6482,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あるく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8eab-297",
     "japanese": "身",
     "kana": "み",
     "romaji": "mi",
-    "zh": "释义：one's body; one's person; oneself; one's appearance; one's place (in society, etc.); one's position",
+    "zh": "结合本句可理解为：我 随波逐流",
     "en": "one's body; one's person; oneself; one's appearance; one's place (in society, etc.); one's position",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：one's body; one's person; oneself; one's appearance; one's place (in society, etc.); one's position。出自例句「私 身を任してる」。",
+    "introZh": "词典释义：结合本句可理解为：我 随波逐流。出自例句「私 身を任してる」。",
     "introEn": "Meaning: one's body; one's person; oneself; one's appearance; one's place (in society, etc.); one's position. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私 身を任してる",
     "exampleZh": "我 随波逐流",
@@ -6857,20 +6503,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "み"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-898b-8fd4-308a-298",
     "japanese": "見返り",
     "kana": "みかえり",
     "romaji": "mikaeri",
-    "zh": "释义：reward; compensation; repayment; something done or given in return; collateral; security",
+    "zh": "结合本句可理解为：因为索要回报",
     "en": "reward; compensation; repayment; something done or given in return; collateral; security",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：reward; compensation; repayment; something done or given in return; collateral; security。出自例句「見返り求めるから」。",
+    "introZh": "词典释义：结合本句可理解为：因为索要回报。出自例句「見返り求めるから」。",
     "introEn": "Meaning: reward; compensation; repayment; something done or given in return; collateral; security. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "見返り求めるから",
     "exampleZh": "因为索要回报",
@@ -6883,8 +6526,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "見返る",
-      "みかえり"
+      "見返る"
     ]
   },
   {
@@ -6892,10 +6534,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "終わる",
     "kana": "おわる",
     "romaji": "owaru",
-    "zh": "释义：to end; to come to an end; to finish; to close; to be over",
+    "zh": "结束；告终；完成；关闭",
     "en": "to end; to come to an end; to finish; to close; to be over",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to end; to come to an end; to finish; to close; to be over。出自例句「いつも傷付いて終わる」。",
+    "introZh": "词典释义：结束；告终；完成；关闭。出自例句「いつも傷付いて終わる」。",
     "introEn": "Meaning: to end; to come to an end; to finish; to close; to be over. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつも傷付いて終わる",
     "exampleZh": "才以受伤告终",
@@ -6906,20 +6548,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おわる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3054-300",
     "japanese": "ご",
     "kana": "ご",
     "romaji": "go",
-    "zh": "释义：honorific/polite/humble prefix; honorific suffix",
+    "zh": "结合本句可理解为：因为渴望赞赏",
     "en": "honorific/polite/humble prefix; honorific suffix",
     "partOfSpeech": "前缀 / prefix",
-    "introZh": "词典释义：honorific/polite/humble prefix; honorific suffix。出自例句「ご褒美欲しがるから」。",
+    "introZh": "词典释义：结合本句可理解为：因为渴望赞赏。出自例句「ご褒美欲しがるから」。",
     "introEn": "Meaning: honorific/polite/humble prefix; honorific suffix. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ご褒美欲しがるから",
     "exampleZh": "因为渴望赞赏",
@@ -6937,10 +6576,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "がる",
     "kana": "がる",
     "romaji": "garu",
-    "zh": "释义：to show signs of being; to feel; to think; to behave as if one were; to pretend; to act as if",
+    "zh": "结合本句可理解为：因为渴望赞赏",
     "en": "to show signs of being; to feel; to think; to behave as if one were; to pretend; to act as if",
     "partOfSpeech": "动词 / verb; suffix · godan verb",
-    "introZh": "词典释义：to show signs of being; to feel; to think; to behave as if one were; to pretend; to act as if。出自例句「ご褒美欲しがるから」。",
+    "introZh": "词典释义：结合本句可理解为：因为渴望赞赏。出自例句「ご褒美欲しがるから」。",
     "introEn": "Meaning: to show signs of being; to feel; to think; to behave as if one were; to pretend; to act as if. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ご褒美欲しがるから",
     "exampleZh": "因为渴望赞赏",
@@ -6958,10 +6597,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "減っ",
     "kana": "へっ",
     "romaji": "he",
-    "zh": "释义：to decrease (in size or number); to diminish; to abate",
+    "zh": "结合本句可理解为：才会饥饿难当",
     "en": "to decrease (in size or number); to diminish; to abate",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to decrease (in size or number); to diminish; to abate。出自例句「いつも腹が減ってる」。",
+    "introZh": "词典释义：结合本句可理解为：才会饥饿难当。出自例句「いつも腹が減ってる」。",
     "introEn": "Meaning: to decrease (in size or number); to diminish; to abate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつも腹が減ってる",
     "exampleZh": "才会饥饿难当",
@@ -6974,8 +6613,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "減る",
-      "へっ"
+      "減る"
     ]
   },
   {
@@ -6997,10 +6635,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "さだめ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-56da-308f-308c-304",
@@ -7023,8 +6658,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "囚われる",
-      "とらわれ"
+      "囚われる"
     ]
   },
   {
@@ -7032,10 +6666,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "渇き",
     "kana": "かわき",
     "romaji": "kawaki",
-    "zh": "释义：thirst; craving; thirst (for love, knowledge, etc.); hunger",
+    "zh": "结合本句可理解为：没什么特别想要的 也没啥渴求",
     "en": "thirst; craving; thirst (for love, knowledge, etc.); hunger",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：thirst; craving; thirst (for love, knowledge, etc.); hunger。出自例句「特にない 渇きなどない」。",
+    "introZh": "词典释义：结合本句可理解为：没什么特别想要的 也没啥渴求。出自例句「特にない 渇きなどない」。",
     "introEn": "Meaning: thirst; craving; thirst (for love, knowledge, etc.); hunger. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "特にない 渇きなどない",
     "exampleZh": "没什么特别想要的 也没啥渴求",
@@ -7046,20 +6680,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かわき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e0b-304c-3063-306",
     "japanese": "下がっ",
     "kana": "さがっ",
     "romaji": "saga",
-    "zh": "释义：to come down; to go down; to fall; to drop; to sink; to get lower",
+    "zh": "落下；丢下",
     "en": "to come down; to go down; to fall; to drop; to sink; to get lower",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to come down; to go down; to fall; to drop; to sink; to get lower。出自例句「あんたのその歯には下がった青さ粉に」。",
+    "introZh": "词典释义：落下；丢下。出自例句「あんたのその歯には下がった青さ粉に」。",
     "introEn": "Meaning: to come down; to go down; to fall; to drop; to sink; to get lower. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あんたのその歯には下がった青さ粉に",
     "exampleZh": "我看着你牙上的海苔渣子",
@@ -7072,8 +6703,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "下がる",
-      "さがっ"
+      "下がる"
     ]
   },
   {
@@ -7081,10 +6711,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "粉",
     "kana": "こ",
     "romaji": "ko",
-    "zh": "释义：flour; meal; powder; dust; heroin",
+    "zh": "结合本句可理解为：我看着你牙上的海苔渣子",
     "en": "flour; meal; powder; dust; heroin",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：flour; meal; powder; dust; heroin。出自例句「あんたのその歯には下がった青さ粉に」。",
+    "introZh": "词典释义：结合本句可理解为：我看着你牙上的海苔渣子。出自例句「あんたのその歯には下がった青さ粉に」。",
     "introEn": "Meaning: flour; meal; powder; dust; heroin. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あんたのその歯には下がった青さ粉に",
     "exampleZh": "我看着你牙上的海苔渣子",
@@ -7095,20 +6725,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3079-304d-308",
     "japanese": "べき",
     "kana": "べき",
     "romaji": "beki",
-    "zh": "释义：should; must; ought to",
+    "zh": "结合本句可理解为：犹豫着该不该说",
     "en": "should; must; ought to",
     "partOfSpeech": "助动词 / auxiliary",
-    "introZh": "词典释义：should; must; ought to。出自例句「触れるべきか否かで少し悩んでる」。",
+    "introZh": "词典释义：结合本句可理解为：犹豫着该不该说。出自例句「触れるべきか否かで少し悩んでる」。",
     "introEn": "Meaning: should; must; ought to. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "触れるべきか否かで少し悩んでる",
     "exampleZh": "犹豫着该不该说",
@@ -7129,10 +6756,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "否",
     "kana": "いな",
     "romaji": "ina",
-    "zh": "释义：no; nay; disagreement; objection; disapproval",
+    "zh": "不；没有",
     "en": "no; nay; disagreement; objection; disapproval",
     "partOfSpeech": "名词 / noun; interjection",
-    "introZh": "词典释义：no; nay; disagreement; objection; disapproval。出自例句「触れるべきか否かで少し悩んでる」。",
+    "introZh": "词典释义：不；没有。出自例句「触れるべきか否かで少し悩んでる」。",
     "introEn": "Meaning: no; nay; disagreement; objection; disapproval. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "触れるべきか否かで少し悩んでる",
     "exampleZh": "犹豫着该不该说",
@@ -7143,20 +6770,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いな"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-60a9-3093-310",
     "japanese": "悩ん",
     "kana": "なやん",
     "romaji": "nayan",
-    "zh": "释义：to be worried; to be troubled",
+    "zh": "结合本句可理解为：犹豫着该不该说",
     "en": "to be worried; to be troubled",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be worried; to be troubled。出自例句「触れるべきか否かで少し悩んでる」。",
+    "introZh": "词典释义：结合本句可理解为：犹豫着该不该说。出自例句「触れるべきか否かで少し悩んでる」。",
     "introEn": "Meaning: to be worried; to be troubled. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "触れるべきか否かで少し悩んでる",
     "exampleZh": "犹豫着该不该说",
@@ -7169,8 +6793,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "悩む",
-      "なやん"
+      "悩む"
     ]
   },
   {
@@ -7178,10 +6801,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "でる",
     "kana": "でる",
     "romaji": "deru",
-    "zh": "释义：to leave; to exit; to go out; to come out; to get out; to leave (on a journey)",
+    "zh": "结合本句可理解为：犹豫着该不该说",
     "en": "to leave; to exit; to go out; to come out; to get out; to leave (on a journey)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to leave; to exit; to go out; to come out; to get out; to leave (on a journey)。出自例句「触れるべきか否かで少し悩んでる」。",
+    "introZh": "词典释义：结合本句可理解为：犹豫着该不该说。出自例句「触れるべきか否かで少し悩んでる」。",
     "introEn": "Meaning: to leave; to exit; to go out; to come out; to get out; to leave (on a journey). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "触れるべきか否かで少し悩んでる",
     "exampleZh": "犹豫着该不该说",
@@ -7199,10 +6822,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ある",
     "kana": "ある",
     "romaji": "aru",
-    "zh": "释义：to be; to exist; to live; to have; to be located; to be equipped with",
+    "zh": "是；存在",
     "en": "to be; to exist; to live; to have; to be located; to be equipped with",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be; to exist; to live; to have; to be located; to be equipped with。出自例句「口にしない方がいい真実もあるから」。",
+    "introZh": "词典释义：是；存在。出自例句「口にしない方がいい真実もあるから」。",
     "introEn": "Meaning: to be; to exist; to live; to have; to be located; to be equipped with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "口にしない方がいい真実もあるから",
     "exampleZh": "毕竟有些真相 还是不说为妙",
@@ -7220,11 +6843,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "あっ",
     "kana": "あっ",
     "romaji": "a",
-    "zh": "释义：ah; oh; hey!",
-    "en": "ah; oh; hey!",
-    "partOfSpeech": "动词 / verb; interjection",
-    "introZh": "词典释义：ah; oh; hey!。出自例句「何があってもずっと大好きなのに」。",
-    "introEn": "Meaning: ah; oh; hey!. Dictionary data: local Kotobako/JMdict.",
+    "zh": "是；存在",
+    "en": "to be; to exist; to live; to have; to be located; to be equipped with",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：是；存在。出自例句「何があってもずっと大好きなのに」。",
+    "introEn": "Meaning: to be; to exist; to live; to have; to be located; to be equipped with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何があってもずっと大好きなのに",
     "exampleZh": "不管未来怎样 我都会一直爱你",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7244,10 +6867,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ずっと",
     "kana": "ずっと",
     "romaji": "zutto",
-    "zh": "释义：continuously; the whole time; all the way; throughout; much (more); (by) far",
+    "zh": "结合本句可理解为：不管未来怎样 我都会一直爱你",
     "en": "continuously; the whole time; all the way; throughout; much (more); (by) far",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：continuously; the whole time; all the way; throughout; much (more); (by) far。出自例句「何があってもずっと大好きなのに」。",
+    "introZh": "词典释义：结合本句可理解为：不管未来怎样 我都会一直爱你。出自例句「何があってもずっと大好きなのに」。",
     "introEn": "Meaning: continuously; the whole time; all the way; throughout; much (more); (by) far. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何があってもずっと大好きなのに",
     "exampleZh": "不管未来怎样 我都会一直爱你",
@@ -7265,11 +6888,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "すぎ",
     "kana": "すぎ",
     "romaji": "sugi",
-    "zh": "释义：Japanese cedar (Cryptomeria japonica)",
-    "en": "Japanese cedar (Cryptomeria japonica)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：Japanese cedar (Cryptomeria japonica)。出自例句「近すぎて 見えなくて 無視されて」。",
-    "introEn": "Meaning: Japanese cedar (Cryptomeria japonica). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：但离的太近就看不到 继而被熟视无睹",
+    "en": "to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：但离的太近就看不到 继而被熟视无睹。出自例句「近すぎて 見えなくて 無視されて」。",
+    "introEn": "Meaning: to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "近すぎて 見えなくて 無視されて",
     "exampleZh": "但离的太近就看不到 继而被熟视无睹",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7289,10 +6912,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "囁く",
     "kana": "ささやく",
     "romaji": "sasayaku",
-    "zh": "释义：to whisper; to murmur; to rumor; to rumour",
+    "zh": "结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"",
     "en": "to whisper; to murmur; to rumor; to rumour",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to whisper; to murmur; to rumor; to rumour。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
+    "introZh": "词典释义：结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
     "introEn": "Meaning: to whisper; to murmur; to rumor; to rumour. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心の中で囁くのよ そっちに行ってはダメと",
     "exampleZh": "心中的我 囁嚅细语 \"千万别过去\"",
@@ -7303,20 +6926,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ささやく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-3063-3061-317",
     "japanese": "そっち",
     "kana": "そっち",
     "romaji": "sotchi",
-    "zh": "释义：over there",
+    "zh": "结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"",
     "en": "over there",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：over there。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
+    "introZh": "词典释义：结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
     "introEn": "Meaning: over there. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心の中で囁くのよ そっちに行ってはダメと",
     "exampleZh": "心中的我 囁嚅细语 \"千万别过去\"",
@@ -7334,10 +6954,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "行っ",
     "kana": "いっ",
     "romaji": "i",
-    "zh": "释义：to go; to move (towards); to head (towards); to leave (for); to move through; to travel across",
+    "zh": "朝……移动",
     "en": "to go; to move (towards); to head (towards); to leave (for); to move through; to travel across",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to go; to move (towards); to head (towards); to leave (for); to move through; to travel across。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
+    "introZh": "词典释义：朝……移动。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
     "introEn": "Meaning: to go; to move (towards); to head (towards); to leave (for); to move through; to travel across. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心の中で囁くのよ そっちに行ってはダメと",
     "exampleZh": "心中的我 囁嚅细语 \"千万别过去\"",
@@ -7350,8 +6970,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "行く",
-      "いっ"
+      "行く"
     ]
   },
   {
@@ -7359,10 +6978,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ダメ",
     "kana": "だめ",
     "romaji": "dame",
-    "zh": "释义：no good; not serving its purpose; useless; broken; hopeless; wasted",
+    "zh": "结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"",
     "en": "no good; not serving its purpose; useless; broken; hopeless; wasted",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：no good; not serving its purpose; useless; broken; hopeless; wasted。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
+    "introZh": "词典释义：结合本句可理解为：心中的我 囁嚅细语 \"千万别过去\"。出自例句「心の中で囁くのよ そっちに行ってはダメと」。",
     "introEn": "Meaning: no good; not serving its purpose; useless; broken; hopeless; wasted. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心の中で囁くのよ そっちに行ってはダメと",
     "exampleZh": "心中的我 囁嚅细语 \"千万别过去\"",
@@ -7373,21 +6992,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "だめ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-805e-304b-320",
     "japanese": "聞か",
     "kana": "きか",
     "romaji": "kika",
-    "zh": "释义：geometry",
-    "en": "geometry",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：geometry。出自例句「聞かないフリ続けるあんた」。",
-    "introEn": "Meaning: geometry. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：但继续装聋的你",
+    "en": "to hear; to listen (e.g. to music); to ask; to enquire; to query; to hear about",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：但继续装聋的你。出自例句「聞かないフリ続けるあんた」。",
+    "introEn": "Meaning: to hear; to listen (e.g. to music); to ask; to enquire; to query; to hear about. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "聞かないフリ続けるあんた",
     "exampleZh": "但继续装聋的你",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7399,8 +7015,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "聞く",
-      "きか"
+      "聞く"
     ]
   },
   {
@@ -7408,10 +7023,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "フリ",
     "kana": "ふり",
     "romaji": "furi",
-    "zh": "释义：swing; shake; sweep; wave; wag; appearance",
+    "zh": "结合本句可理解为：但继续装聋的你",
     "en": "swing; shake; sweep; wave; wag; appearance",
     "partOfSpeech": "名词 / noun; noun · counter",
-    "introZh": "词典释义：swing; shake; sweep; wave; wag; appearance。出自例句「聞かないフリ続けるあんた」。",
+    "introZh": "词典释义：结合本句可理解为：但继续装聋的你。出自例句「聞かないフリ続けるあんた」。",
     "introEn": "Meaning: swing; shake; sweep; wave; wag; appearance. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "聞かないフリ続けるあんた",
     "exampleZh": "但继续装聋的你",
@@ -7422,21 +7037,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-307e-304b-305b-322",
     "japanese": "まかせ",
     "kana": "まかせ",
     "romaji": "makase",
-    "zh": "语境释义：顺势跳入粪坑",
-    "en": "Context meaning: 顺势跳入粪坑",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「まかせ」。本句语境：顺势跳入粪坑",
-    "introEn": "Read as \"makase\". Context: 顺势跳入粪坑",
+    "zh": "结合本句可理解为：顺势跳入粪坑",
+    "en": "to leave (a matter, decision, etc. to someone); to entrust (to someone); to entrust (someone) with; to leave (to chance, one's imagination, etc.); to let (take its own course); to let (happen)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：顺势跳入粪坑。出自例句「勢いにまかせて 肥溜めへとダイブ」。",
+    "introEn": "Meaning: to leave (a matter, decision, etc. to someone); to entrust (to someone); to entrust (someone) with; to leave (to chance, one's imagination, etc.); to let (take its own course); to let (happen). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "勢いにまかせて 肥溜めへとダイブ",
     "exampleZh": "顺势跳入粪坑",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7446,7 +7058,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "まかせる"
     ]
@@ -7470,20 +7082,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "こえだめ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-30c0-30a4-30d6-324",
     "japanese": "ダイブ",
     "kana": "だいぶ",
     "romaji": "daibu",
-    "zh": "释义：considerably; greatly; a lot",
+    "zh": "结合本句可理解为：顺势跳入粪坑",
     "en": "considerably; greatly; a lot",
     "partOfSpeech": "名词 / noun; adverb",
-    "introZh": "词典释义：considerably; greatly; a lot。出自例句「勢いにまかせて 肥溜めへとダイブ」。",
+    "introZh": "词典释义：结合本句可理解为：顺势跳入粪坑。出自例句「勢いにまかせて 肥溜めへとダイブ」。",
     "introEn": "Meaning: considerably; greatly; a lot. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "勢いにまかせて 肥溜めへとダイブ",
     "exampleZh": "顺势跳入粪坑",
@@ -7494,21 +7103,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "だいぶ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5148-99c6-3051-325",
     "japanese": "先駆け",
     "kana": "さきがけ",
     "romaji": "sakigake",
-    "zh": "释义：pioneer; leader; taking the initiative; forerunner; harbinger; herald",
-    "en": "pioneer; leader; taking the initiative; forerunner; harbinger; herald",
-    "partOfSpeech": "动词 / verb; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：pioneer; leader; taking the initiative; forerunner; harbinger; herald。出自例句「先駆けてワシは言うたが」。",
-    "introEn": "Meaning: pioneer; leader; taking the initiative; forerunner; harbinger; herald. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我不早跟你说了嘛",
+    "en": "to do (something) before (something or someone else); to be ahead of (others, the times, etc.)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：我不早跟你说了嘛。出自例句「先駆けてワシは言うたが」。",
+    "introEn": "Meaning: to do (something) before (something or someone else); to be ahead of (others, the times, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先駆けてワシは言うたが",
     "exampleZh": "我不早跟你说了嘛",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7520,8 +7126,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "先駆ける",
-      "さきがけ"
+      "先駆ける"
     ]
   },
   {
@@ -7529,11 +7134,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ワシ",
     "kana": "わし",
     "romaji": "washi",
-    "zh": "释义：eagle (Accipitridae family)",
-    "en": "eagle (Accipitridae family)",
+    "zh": "结合本句可理解为：我不早跟你说了嘛",
+    "en": "washi; Japanese paper",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：eagle (Accipitridae family)。出自例句「先駆けてワシは言うたが」。",
-    "introEn": "Meaning: eagle (Accipitridae family). Dictionary data: local Kotobako/JMdict.",
+    "introZh": "词典释义：结合本句可理解为：我不早跟你说了嘛。出自例句「先駆けてワシは言うたが」。",
+    "introEn": "Meaning: washi; Japanese paper. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "先駆けてワシは言うたが",
     "exampleZh": "我不早跟你说了嘛",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7543,20 +7148,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "わし"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4f55-3067-327",
     "japanese": "何で",
     "kana": "なんで",
     "romaji": "nande",
-    "zh": "释义：why?; what for?; how?; by what means?",
+    "zh": "结合本句可理解为：为什么不听人劝啊",
     "en": "why?; what for?; how?; by what means?",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：why?; what for?; how?; by what means?。出自例句「何で何も聞いてくれんかったん」。",
+    "introZh": "词典释义：结合本句可理解为：为什么不听人劝啊。出自例句「何で何も聞いてくれんかったん」。",
     "introEn": "Meaning: why?; what for?; how?; by what means?. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何で何も聞いてくれんかったん",
     "exampleZh": "为什么不听人劝啊",
@@ -7567,21 +7169,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "なんで"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-805e-3044-328",
     "japanese": "聞い",
     "kana": "きい",
     "romaji": "kii",
-    "zh": "释义：key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)",
-    "en": "key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)。出自例句「何で何も聞いてくれんかったん」。",
-    "introEn": "Meaning: key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：为什么不听人劝啊",
+    "en": "to hear; to listen (e.g. to music); to ask; to enquire; to query; to hear about",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：为什么不听人劝啊。出自例句「何で何も聞いてくれんかったん」。",
+    "introEn": "Meaning: to hear; to listen (e.g. to music); to ask; to enquire; to query; to hear about. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何で何も聞いてくれんかったん",
     "exampleZh": "为什么不听人劝啊",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7593,8 +7192,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "聞く",
-      "きい"
+      "聞く"
     ]
   },
   {
@@ -7602,11 +7200,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "くれ",
     "kana": "くれ",
     "romaji": "kure",
-    "zh": "释义：sunset; sundown; nightfall; dusk; end; close",
-    "en": "sunset; sundown; nightfall; dusk; end; close",
-    "partOfSpeech": "动词 / verb; noun · adverb · no-adjective",
-    "introZh": "词典释义：sunset; sundown; nightfall; dusk; end; close。出自例句「何で何も聞いてくれんかったん」。",
-    "introEn": "Meaning: sunset; sundown; nightfall; dusk; end; close. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：为什么不听人劝啊",
+    "en": "to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage",
+    "partOfSpeech": "动词 / verb; v1-s · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：为什么不听人劝啊。出自例句「何で何も聞いてくれんかったん」。",
+    "introEn": "Meaning: to give; to let (one) have; to do for one; to take the trouble to do; to do to someone's disadvantage. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何で何も聞いてくれんかったん",
     "exampleZh": "为什么不听人劝啊",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7626,11 +7224,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "かっ",
     "kana": "かっ",
     "romaji": "ka",
-    "zh": "语境释义：为什么不听人劝啊",
-    "en": "Context meaning: 为什么不听人劝啊",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「かっ」。本句语境：为什么不听人劝啊",
-    "introEn": "Read as \"ka\". Context: 为什么不听人劝啊",
+    "zh": "结合本句可理解为：为什么不听人劝啊",
+    "en": "to cut (grass, hair, etc.); to mow; to clip; to trim; to prune; to shear",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：为什么不听人劝啊。出自例句「何で何も聞いてくれんかったん」。",
+    "introEn": "Meaning: to cut (grass, hair, etc.); to mow; to clip; to trim; to prune; to shear. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何で何も聞いてくれんかったん",
     "exampleZh": "为什么不听人劝啊",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -7640,7 +7238,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "かる"
     ]
@@ -7650,10 +7248,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "顔",
     "kana": "かお",
     "romaji": "kao",
-    "zh": "释义：face; visage; looks; (facial) features; look; (facial) expression",
+    "zh": "面容；相貌；看；瞧",
     "en": "face; visage; looks; (facial) features; look; (facial) expression",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：face; visage; looks; (facial) features; look; (facial) expression。出自例句「その顔は何なんw」。",
+    "introZh": "词典释义：面容；相貌；看；瞧。出自例句「その顔は何なんw」。",
     "introEn": "Meaning: face; visage; looks; (facial) features; look; (facial) expression. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "その顔は何なんw",
     "exampleZh": "你那什么态度啊？",
@@ -7664,10 +7262,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かお"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-77-332",
@@ -7695,10 +7290,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "町",
     "kana": "まち",
     "romaji": "machi",
-    "zh": "释义：town; block; neighbourhood; neighborhood; downtown; main street",
+    "zh": "结合本句可理解为：在花开的街角 许下的承诺",
     "en": "town; block; neighbourhood; neighborhood; downtown; main street",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：town; block; neighbourhood; neighborhood; downtown; main street。出自例句「花咲く町の角誓った」。",
+    "introZh": "词典释义：结合本句可理解为：在花开的街角 许下的承诺。出自例句「花咲く町の角誓った」。",
     "introEn": "Meaning: town; block; neighbourhood; neighborhood; downtown; main street. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "花咲く町の角誓った",
     "exampleZh": "在花开的街角 许下的承诺",
@@ -7709,20 +7304,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7b11-9854-334",
     "japanese": "笑顔",
     "kana": "えがお",
     "romaji": "egao",
-    "zh": "释义：smiling face; smile",
+    "zh": "结合本句可理解为：那时的笑 算什么啊",
     "en": "smiling face; smile",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：smiling face; smile。出自例句「あの時の笑顔は何なん」。",
+    "introZh": "词典释义：结合本句可理解为：那时的笑 算什么啊。出自例句「あの時の笑顔は何なん」。",
     "introEn": "Meaning: smiling face; smile. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あの時の笑顔は何なん",
     "exampleZh": "那时的笑 算什么啊",
@@ -7733,10 +7325,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "えがお"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3058-3083-3063-335",
@@ -7767,10 +7356,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たま",
     "kana": "たま",
     "romaji": "tama",
-    "zh": "释义：ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop",
+    "zh": "结合本句可理解为：偶尔大胆攻进",
     "en": "ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop。出自例句「たまには大胆に攻めたら良い」。",
+    "introZh": "词典释义：结合本句可理解为：偶尔大胆攻进。出自例句「たまには大胆に攻めたら良い」。",
     "introEn": "Meaning: ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "たまには大胆に攻めたら良い",
     "exampleZh": "偶尔大胆攻进",
@@ -7788,10 +7377,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "慎重",
     "kana": "しんちょう",
     "romaji": "shinchou",
-    "zh": "释义：careful; cautious; prudent; discreet; deliberate",
+    "zh": "结合本句可理解为：时而谨慎前移",
     "en": "careful; cautious; prudent; discreet; deliberate",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：careful; cautious; prudent; discreet; deliberate。出自例句「時には慎重に歩めば良い」。",
+    "introZh": "词典释义：结合本句可理解为：时而谨慎前移。出自例句「時には慎重に歩めば良い」。",
     "introEn": "Meaning: careful; cautious; prudent; discreet; deliberate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "時には慎重に歩めば良い",
     "exampleZh": "时而谨慎前移",
@@ -7802,20 +7391,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しんちょう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3082-3093-338",
     "japanese": "もん",
     "kana": "もん",
     "romaji": "mon",
-    "zh": "释义：gate; branch of learning based on the teachings of a single master; school; phylum; division; counter for cannons",
+    "zh": "分割；划分",
     "en": "gate; branch of learning based on the teachings of a single master; school; phylum; division; counter for cannons",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：gate; branch of learning based on the teachings of a single master; school; phylum; division; counter for cannons。出自例句「真実なんてもんはとっくのとうに」。",
+    "introZh": "词典释义：分割；划分。出自例句「真実なんてもんはとっくのとうに」。",
     "introEn": "Meaning: gate; branch of learning based on the teachings of a single master; school; phylum; division; counter for cannons. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真実なんてもんはとっくのとうに",
     "exampleZh": "你所不知的事实",
@@ -7875,10 +7461,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だけ",
     "kana": "だけ",
     "romaji": "dake",
-    "zh": "释义：only; just; merely; simply; no more than; nothing but",
+    "zh": "只有；仅仅；正好；只是；只不过；不超过",
     "en": "only; just; merely; simply; no more than; nothing but",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：only; just; merely; simply; no more than; nothing but。出自例句「知っていることを知らないだけでしょう」。",
+    "introZh": "词典释义：只有；仅仅；正好；只是；只不过；不超过。出自例句「知っていることを知らないだけでしょう」。",
     "introEn": "Meaning: only; just; merely; simply; no more than; nothing but. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "知っていることを知らないだけでしょう",
     "exampleZh": "就是真相早在你心里",
@@ -7896,10 +7482,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "でしょ",
     "kana": "でしょ",
     "romaji": "desho",
-    "zh": "释义：be; is",
+    "zh": "是；存在",
     "en": "be; is",
     "partOfSpeech": "助动词 / auxiliary; cop · auxiliary verb",
-    "introZh": "词典释义：be; is。出自例句「知っていることを知らないだけでしょう」。",
+    "introZh": "词典释义：是；存在。出自例句「知っていることを知らないだけでしょう」。",
     "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "知っていることを知らないだけでしょう",
     "exampleZh": "就是真相早在你心里",
@@ -7920,10 +7506,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "くり",
     "kana": "くり",
     "romaji": "kuri",
-    "zh": "释义：Japanese chestnut (Castanea crenata)",
+    "zh": "结合本句可理解为：还是被日复一日所抹去",
     "en": "Japanese chestnut (Castanea crenata)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：Japanese chestnut (Castanea crenata)。出自例句「くり返す毎日の中で かき消されていくのね」。",
+    "introZh": "词典释义：结合本句可理解为：还是被日复一日所抹去。出自例句「くり返す毎日の中で かき消されていくのね」。",
     "introEn": "Meaning: Japanese chestnut (Castanea crenata). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "くり返す毎日の中で かき消されていくのね",
     "exampleZh": "还是被日复一日所抹去",
@@ -7941,10 +7527,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "返す",
     "kana": "かえす",
     "romaji": "kaesu",
-    "zh": "释义：to return (something); to restore; to put back; to turn over; to turn upside down; to overturn",
+    "zh": "结合本句可理解为：还是被日复一日所抹去",
     "en": "to return (something); to restore; to put back; to turn over; to turn upside down; to overturn",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to return (something); to restore; to put back; to turn over; to turn upside down; to overturn。出自例句「くり返す毎日の中で かき消されていくのね」。",
+    "introZh": "词典释义：结合本句可理解为：还是被日复一日所抹去。出自例句「くり返す毎日の中で かき消されていくのね」。",
     "introEn": "Meaning: to return (something); to restore; to put back; to turn over; to turn upside down; to overturn. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "くり返す毎日の中で かき消されていくのね",
     "exampleZh": "还是被日复一日所抹去",
@@ -7955,10 +7541,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かえす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304b-304d-6d88-3055-345",
@@ -7981,8 +7564,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "かき消す",
-      "かきけさ"
+      "かき消す"
     ]
   },
   {
@@ -7990,10 +7572,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "さらに",
     "kana": "さらに",
     "romaji": "sarani",
-    "zh": "释义：furthermore; again; after all; more and more; moreover; even more",
+    "zh": "再次；又；而且；此外",
     "en": "furthermore; again; after all; more and more; moreover; even more",
     "partOfSpeech": "副词 / adverb; adverb · conjunction",
-    "introZh": "词典释义：furthermore; again; after all; more and more; moreover; even more。出自例句「真っさらになった決意を胸に」。",
+    "introZh": "词典释义：再次；又；而且；此外。出自例句「真っさらになった決意を胸に」。",
     "introEn": "Meaning: furthermore; again; after all; more and more; moreover; even more. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っさらになった決意を胸に",
     "exampleZh": "你决定翻篇 关机重启",
@@ -8011,10 +7593,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なっ",
     "kana": "なっ",
     "romaji": "na",
-    "zh": "释义：to become; to get; to grow; to turn; to reach; to attain",
+    "zh": "变成；成为；得到；变得；成长；转向；到达；达到",
     "en": "to become; to get; to grow; to turn; to reach; to attain",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to become; to get; to grow; to turn; to reach; to attain。出自例句「真っさらになった決意を胸に」。",
+    "introZh": "词典释义：变成；成为；得到；变得；成长；转向；到达；达到。出自例句「真っさらになった決意を胸に」。",
     "introEn": "Meaning: to become; to get; to grow; to turn; to reach; to attain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っさらになった決意を胸に",
     "exampleZh": "你决定翻篇 关机重启",
@@ -8035,10 +7617,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "決意",
     "kana": "けつい",
     "romaji": "ketsui",
-    "zh": "释义：decision; determination; resolution",
+    "zh": "结合本句可理解为：你决定翻篇 关机重启",
     "en": "decision; determination; resolution",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：decision; determination; resolution。出自例句「真っさらになった決意を胸に」。",
+    "introZh": "词典释义：结合本句可理解为：你决定翻篇 关机重启。出自例句「真っさらになった決意を胸に」。",
     "introEn": "Meaning: decision; determination; resolution. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真っさらになった決意を胸に",
     "exampleZh": "你决定翻篇 关机重启",
@@ -8049,20 +7631,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "けつい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5802-3005-349",
     "japanese": "堂々",
     "kana": "どうどう",
     "romaji": "doudou",
-    "zh": "释义：magnificent; grand; impressive; dignified; majestic; imposing",
+    "zh": "结合本句可理解为：居然又自豪地对着粪坑 自由落体",
     "en": "magnificent; grand; impressive; dignified; majestic; imposing",
     "partOfSpeech": "副词 / adverb; taru-adjective · adverb (to)",
-    "introZh": "词典释义：magnificent; grand; impressive; dignified; majestic; imposing。出自例句「あんたは堂々と また肥溜めへとダイブ」。",
+    "introZh": "词典释义：结合本句可理解为：居然又自豪地对着粪坑 自由落体。出自例句「あんたは堂々と また肥溜めへとダイブ」。",
     "introEn": "Meaning: magnificent; grand; impressive; dignified; majestic; imposing. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あんたは堂々と また肥溜めへとダイブ",
     "exampleZh": "居然又自豪地对着粪坑 自由落体",
@@ -8073,20 +7652,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "どうどう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-795e-69d8-350",
     "japanese": "神様",
     "kana": "かみさま",
     "romaji": "kamisama",
-    "zh": "释义：God; god; deity; divinity; spirit; kami",
+    "zh": "精神；心",
     "en": "God; god; deity; divinity; spirit; kami",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：God; god; deity; divinity; spirit; kami。出自例句「神様助けて」。",
+    "introZh": "词典释义：精神；心。出自例句「神様助けて」。",
     "introEn": "Meaning: God; god; deity; divinity; spirit; kami. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "神様助けて",
     "exampleZh": "神明啊 救救我吧",
@@ -8097,21 +7673,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かみさま"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-52a9-3051-351",
     "japanese": "助け",
     "kana": "たすけ",
     "romaji": "tasuke",
-    "zh": "释义：assistance; help; aid; support; reinforcement",
-    "en": "assistance; help; aid; support; reinforcement",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：assistance; help; aid; support; reinforcement。出自例句「神様助けて」。",
-    "introEn": "Meaning: assistance; help; aid; support; reinforcement. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：神明啊 救救我吧",
+    "en": "to save; to rescue; to spare; to help; to assist; to support (financially)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：神明啊 救救我吧。出自例句「神様助けて」。",
+    "introEn": "Meaning: to save; to rescue; to spare; to help; to assist; to support (financially). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "神様助けて",
     "exampleZh": "神明啊 救救我吧",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -8123,8 +7696,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "助ける",
-      "たすけ"
+      "助ける"
     ]
   },
   {
@@ -8132,10 +7704,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やば",
     "kana": "やば",
     "romaji": "yaba",
-    "zh": "释义：dangerous; risky; awful; terrible; crap; terrific",
+    "zh": "结合本句可理解为：受不了 要死了",
     "en": "dangerous; risky; awful; terrible; crap; terrific",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：dangerous; risky; awful; terrible; crap; terrific。出自例句「やばめ やばめ」。",
+    "introZh": "词典释义：结合本句可理解为：受不了 要死了。出自例句「やばめ やばめ」。",
     "introEn": "Meaning: dangerous; risky; awful; terrible; crap; terrific. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やばめ やばめ",
     "exampleZh": "受不了 要死了",
@@ -8156,10 +7728,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "め",
     "kana": "め",
     "romaji": "me",
-    "zh": "释义：sprout; shoot; bud; germinal disk (in an egg)",
+    "zh": "结合本句可理解为：受不了 要死了",
     "en": "sprout; shoot; bud; germinal disk (in an egg)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：sprout; shoot; bud; germinal disk (in an egg)。出自例句「やばめ やばめ」。",
+    "introZh": "词典释义：结合本句可理解为：受不了 要死了。出自例句「やばめ やばめ」。",
     "introEn": "Meaning: sprout; shoot; bud; germinal disk (in an egg). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やばめ やばめ",
     "exampleZh": "受不了 要死了",
@@ -8177,10 +7749,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "足元",
     "kana": "あしもと",
     "romaji": "ashimoto",
-    "zh": "释义：at one's feet; underfoot; one's step (as in \"watch your step\"); gait; pace; step",
+    "zh": "结合本句可理解为：给我指条路吧",
     "en": "at one's feet; underfoot; one's step (as in \"watch your step\"); gait; pace; step",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：at one's feet; underfoot; one's step (as in \"watch your step\"); gait; pace; step。出自例句「足元照らして」。",
+    "introZh": "词典释义：结合本句可理解为：给我指条路吧。出自例句「足元照らして」。",
     "introEn": "Meaning: at one's feet; underfoot; one's step (as in \"watch your step\"); gait; pace; step. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "足元照らして",
     "exampleZh": "给我指条路吧",
@@ -8191,20 +7763,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あしもと"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8033-355",
     "japanese": "耳",
     "kana": "みみ",
     "romaji": "mimi",
-    "zh": "释义：ear; hearing; ear (for music, etc.); edge; crust; heel (of bread or cheese)",
+    "zh": "结合本句可理解为：闭上双眼 倾听内心的声音",
     "en": "ear; hearing; ear (for music, etc.); edge; crust; heel (of bread or cheese)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：ear; hearing; ear (for music, etc.); edge; crust; heel (of bread or cheese)。出自例句「目を閉じてみて 心の耳すまして」。",
+    "introZh": "词典释义：结合本句可理解为：闭上双眼 倾听内心的声音。出自例句「目を閉じてみて 心の耳すまして」。",
     "introEn": "Meaning: ear; hearing; ear (for music, etc.); edge; crust; heel (of bread or cheese). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "目を閉じてみて 心の耳すまして",
     "exampleZh": "闭上双眼 倾听内心的声音",
@@ -8215,21 +7784,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "みみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3059-307e-3057-356",
     "japanese": "すまし",
     "kana": "すまし",
     "romaji": "sumashi",
-    "zh": "语境释义：闭上双眼 倾听内心的声音",
-    "en": "Context meaning: 闭上双眼 倾听内心的声音",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「すまし」。本句语境：闭上双眼 倾听内心的声音",
-    "introEn": "Read as \"sumashi\". Context: 闭上双眼 倾听内心的声音",
+    "zh": "完成；结束",
+    "en": "to finish; to get it over with; to conclude; to settle; to pay back; to get along (without something)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：完成；结束。出自例句「目を閉じてみて 心の耳すまして」。",
+    "introEn": "Meaning: to finish; to get it over with; to conclude; to settle; to pay back; to get along (without something). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "目を閉じてみて 心の耳すまして",
     "exampleZh": "闭上双眼 倾听内心的声音",
     "exampleEn": "Example line from \"何なんw\" by 藤井風.",
@@ -8239,7 +7805,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "すます"
     ]
@@ -8249,10 +7815,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "答え",
     "kana": "こたえ",
     "romaji": "kotae",
-    "zh": "释义：answer; reply; response; solution; result",
+    "zh": "结果",
     "en": "answer; reply; response; solution; result",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：answer; reply; response; solution; result。出自例句「優しい気持ちで答えを聴いて」。",
+    "introZh": "词典释义：结果。出自例句「優しい気持ちで答えを聴いて」。",
     "introEn": "Meaning: answer; reply; response; solution; result. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "優しい気持ちで答えを聴いて",
     "exampleZh": "心存善意 便会听见答案",
@@ -8263,20 +7829,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こたえ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8074-3044-358",
     "japanese": "聴い",
     "kana": "きい",
     "romaji": "kii",
-    "zh": "释义：key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)",
+    "zh": "结合本句可理解为：心存善意 便会听见答案",
     "en": "key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.)。出自例句「優しい気持ちで答えを聴いて」。",
+    "introZh": "词典释义：结合本句可理解为：心存善意 便会听见答案。出自例句「優しい気持ちで答えを聴いて」。",
     "introEn": "Meaning: key (for a lock); key (of a piano, organ, computer keyboard, etc.); key; key (to solving something); clue; key (person, point, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "優しい気持ちで答えを聴いて",
     "exampleZh": "心存善意 便会听见答案",
@@ -8289,8 +7852,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "聴く",
-      "きい"
+      "聴く"
     ]
   },
   {
@@ -8298,10 +7860,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "歌わ",
     "kana": "うたわ",
     "romaji": "utawa",
-    "zh": "释义：to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)",
+    "zh": "结合本句可理解为：别再让我唱起 背叛的怨曲",
     "en": "to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb · intransitive verb",
-    "introZh": "词典释义：to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)。出自例句「もう歌わせないで 裏切りのブルース」。",
+    "introZh": "词典释义：结合本句可理解为：别再让我唱起 背叛的怨曲。出自例句「もう歌わせないで 裏切りのブルース」。",
     "introEn": "Meaning: to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう歌わせないで 裏切りのブルース",
     "exampleZh": "别再让我唱起 背叛的怨曲",
@@ -8314,8 +7876,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "歌う",
-      "うたわ"
+      "歌う"
     ]
   },
   {
@@ -8323,10 +7884,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "裏切り",
     "kana": "うらぎり",
     "romaji": "uragiri",
-    "zh": "释义：treachery; betrayal; perfidy",
+    "zh": "结合本句可理解为：别再让我唱起 背叛的怨曲",
     "en": "treachery; betrayal; perfidy",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：treachery; betrayal; perfidy。出自例句「もう歌わせないで 裏切りのブルース」。",
+    "introZh": "词典释义：结合本句可理解为：别再让我唱起 背叛的怨曲。出自例句「もう歌わせないで 裏切りのブルース」。",
     "introEn": "Meaning: treachery; betrayal; perfidy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう歌わせないで 裏切りのブルース",
     "exampleZh": "别再让我唱起 背叛的怨曲",
@@ -8337,20 +7898,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "うらぎり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30d6-30eb-30fc-30b9-361",
     "japanese": "ブルース",
     "kana": "ぶるうす",
     "romaji": "buruusu",
-    "zh": "释义：blues",
+    "zh": "结合本句可理解为：别再让我唱起 背叛的怨曲",
     "en": "blues",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：blues。出自例句「もう歌わせないで 裏切りのブルース」。",
+    "introZh": "词典释义：结合本句可理解为：别再让我唱起 背叛的怨曲。出自例句「もう歌わせないで 裏切りのブルース」。",
     "introEn": "Meaning: blues. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう歌わせないで 裏切りのブルース",
     "exampleZh": "别再让我唱起 背叛的怨曲",
@@ -8361,20 +7919,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぶるうす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9ce5-362",
     "japanese": "鳥",
     "kana": "とり",
     "romaji": "tori",
-    "zh": "释义：bird; bird meat (esp. chicken meat); fowl; poultry",
+    "zh": "结合本句可理解为：小鸟道来春天",
     "en": "bird; bird meat (esp. chicken meat); fowl; poultry",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：bird; bird meat (esp. chicken meat); fowl; poultry。出自例句「鳥は春を告げて」。",
+    "introZh": "词典释义：结合本句可理解为：小鸟道来春天。出自例句「鳥は春を告げて」。",
     "introEn": "Meaning: bird; bird meat (esp. chicken meat); fowl; poultry. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鳥は春を告げて",
     "exampleZh": "小鸟道来春天",
@@ -8385,20 +7940,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6625-363",
     "japanese": "春",
     "kana": "はる",
     "romaji": "haru",
-    "zh": "释义：spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday",
+    "zh": "结合本句可理解为：小鸟道来春天",
     "en": "spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday。出自例句「鳥は春を告げて」。",
+    "introZh": "词典释义：结合本句可理解为：小鸟道来春天。出自例句「鳥は春を告げて」。",
     "introEn": "Meaning: spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鳥は春を告げて",
     "exampleZh": "小鸟道来春天",
@@ -8409,20 +7961,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-544a-3052-364",
     "japanese": "告げ",
     "kana": "つげ",
     "romaji": "tsuge",
-    "zh": "释义：to tell; to inform; to announce; to indicate; to signal; to mark",
+    "zh": "结合本句可理解为：小鸟道来春天",
     "en": "to tell; to inform; to announce; to indicate; to signal; to mark",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to tell; to inform; to announce; to indicate; to signal; to mark。出自例句「鳥は春を告げて」。",
+    "introZh": "词典释义：结合本句可理解为：小鸟道来春天。出自例句「鳥は春を告げて」。",
     "introEn": "Meaning: to tell; to inform; to announce; to indicate; to signal; to mark. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "鳥は春を告げて",
     "exampleZh": "小鸟道来春天",
@@ -8435,8 +7984,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "告げる",
-      "つげ"
+      "告げる"
     ]
   },
   {
@@ -8444,10 +7992,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "恋",
     "kana": "こい",
     "romaji": "koi",
-    "zh": "释义：(romantic) love",
+    "zh": "结合本句可理解为：而我陷入热恋",
     "en": "(romantic) love",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：(romantic) love。出自例句「私は恋をして」。",
+    "introZh": "词典释义：结合本句可理解为：而我陷入热恋。出自例句「私は恋をして」。",
     "introEn": "Meaning: (romantic) love. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私は恋をして",
     "exampleZh": "而我陷入热恋",
@@ -8458,20 +8006,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6e29-5ea6-366",
     "japanese": "温度",
     "kana": "おんど",
     "romaji": "ondo",
-    "zh": "释义：temperature",
+    "zh": "结合本句可理解为：仅仅让这美妙的温度",
     "en": "temperature",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：temperature。出自例句「素敵な温度だけ」。",
+    "introZh": "词典释义：结合本句可理解为：仅仅让这美妙的温度。出自例句「素敵な温度だけ」。",
     "introEn": "Meaning: temperature. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "素敵な温度だけ",
     "exampleZh": "仅仅让这美妙的温度",
@@ -8482,20 +8027,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おんど"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3055-305b-367",
     "japanese": "させ",
     "kana": "させ",
     "romaji": "sase",
-    "zh": "释义：to make (someone) do; to allow (someone) to do",
+    "zh": "结合本句可理解为：触碰着 这个肌肤",
     "en": "to make (someone) do; to allow (someone) to do",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to make (someone) do; to allow (someone) to do。出自例句「触れさせて この肌で」。",
+    "introZh": "词典释义：结合本句可理解为：触碰着 这个肌肤。出自例句「触れさせて この肌で」。",
     "introEn": "Meaning: to make (someone) do; to allow (someone) to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "触れさせて この肌で",
     "exampleZh": "触碰着 这个肌肤",
@@ -8516,11 +8058,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "帯び",
     "kana": "おび",
     "romaji": "obi",
-    "zh": "释义：obi (kimono sash); obi (strip of paper looped around a book, CD, etc. containing information about the product); band; belt; strip; cingulum",
-    "en": "obi (kimono sash); obi (strip of paper looped around a book, CD, etc. containing information about the product); band; belt; strip; cingulum",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：obi (kimono sash); obi (strip of paper looped around a book, CD, etc. containing information about the product); band; belt; strip; cingulum。出自例句「雲は夏を帯びて」。",
-    "introEn": "Meaning: obi (kimono sash); obi (strip of paper looped around a book, CD, etc. containing information about the product); band; belt; strip; cingulum. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：云朵带来夏天",
+    "en": "to wear (a sword, decoration, etc.); to carry; to bear; to be entrusted with (a mission); to be charged with; to take on",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：云朵带来夏天。出自例句「雲は夏を帯びて」。",
+    "introEn": "Meaning: to wear (a sword, decoration, etc.); to carry; to bear; to be entrusted with (a mission); to be charged with; to take on. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "雲は夏を帯びて",
     "exampleZh": "云朵带来夏天",
     "exampleEn": "Example line from \"ガーデン\" by 藤井風.",
@@ -8532,8 +8074,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "帯びる",
-      "おび"
+      "帯びる"
     ]
   },
   {
@@ -8541,10 +8082,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "綺麗",
     "kana": "きれい",
     "romaji": "kirei",
-    "zh": "释义：pretty; lovely; beautiful; fair; clean; clear",
+    "zh": "可爱的；令人喜爱的；美丽的",
     "en": "pretty; lovely; beautiful; fair; clean; clear",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：pretty; lovely; beautiful; fair; clean; clear。出自例句「綺麗な時間だけ」。",
+    "introZh": "词典释义：可爱的；令人喜爱的；美丽的。出自例句「綺麗な時間だけ」。",
     "introEn": "Meaning: pretty; lovely; beautiful; fair; clean; clear. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "綺麗な時間だけ",
     "exampleZh": "仅仅是这美好的时间",
@@ -8555,20 +8096,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きれい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5c3d-304d-308b-370",
     "japanese": "尽きる",
     "kana": "つきる",
     "romaji": "tsukiru",
-    "zh": "释义：to be used up; to be run out; to be exhausted; to be consumed; to come to an end",
+    "zh": "用尽；耗尽；用完；筋疲力尽；被消耗；结束；告终",
     "en": "to be used up; to be run out; to be exhausted; to be consumed; to come to an end",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to be used up; to be run out; to be exhausted; to be consumed; to come to an end。出自例句「追いかけて 尽きるまで」。",
+    "introZh": "词典释义：用尽；耗尽；用完；筋疲力尽；被消耗；结束；告终。出自例句「追いかけて 尽きるまで」。",
     "introEn": "Meaning: to be used up; to be run out; to be exhausted; to be consumed; to come to an end. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "追いかけて 尽きるまで",
     "exampleZh": "追逐着 直到尽头",
@@ -8579,20 +8117,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つきる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-596a-308f-371",
     "japanese": "奪わ",
     "kana": "うばわ",
     "romaji": "ubawa",
-    "zh": "释义：to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of",
+    "zh": "结合本句可理解为：我心为你着迷",
     "en": "to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of。出自例句「あなたに心奪われ」。",
+    "introZh": "词典释义：结合本句可理解为：我心为你着迷。出自例句「あなたに心奪われ」。",
     "introEn": "Meaning: to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたに心奪われ",
     "exampleZh": "我心为你着迷",
@@ -8605,8 +8140,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "奪う",
-      "うばわ"
+      "奪う"
     ]
   },
   {
@@ -8614,11 +8148,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "守り",
     "kana": "まもり",
     "romaji": "mamori",
-    "zh": "释义：protection; defense; defence; providence; amulet; charm",
-    "en": "protection; defense; defence; providence; amulet; charm",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：protection; defense; defence; providence; amulet; charm。出自例句「それでも守り続けたくて」。",
-    "introEn": "Meaning: protection; defense; defence; providence; amulet; charm. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：即便如此依然想继续守护",
+    "en": "to protect; to guard; to defend; to keep (i.e. a promise); to abide (by the rules); to observe",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：即便如此依然想继续守护。出自例句「それでも守り続けたくて」。",
+    "introEn": "Meaning: to protect; to guard; to defend; to keep (i.e. a promise); to abide (by the rules); to observe. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "それでも守り続けたくて",
     "exampleZh": "即便如此依然想继续守护",
     "exampleEn": "Example line from \"ガーデン\" by 藤井風.",
@@ -8630,8 +8164,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "守る",
-      "まもり"
+      "守る"
     ]
   },
   {
@@ -8639,10 +8172,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ガーデン",
     "kana": "があでん",
     "romaji": "gaaden",
-    "zh": "释义：garden",
+    "zh": "结合本句可理解为：直到我的花园 盛开结果",
     "en": "garden",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：garden。出自例句「私のガーデン 果てるまで」。",
+    "introZh": "词典释义：结合本句可理解为：直到我的花园 盛开结果。出自例句「私のガーデン 果てるまで」。",
     "introEn": "Meaning: garden. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私のガーデン 果てるまで",
     "exampleZh": "直到我的花园 盛开结果",
@@ -8653,20 +8186,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "があでん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-679c-3066-308b-374",
     "japanese": "果てる",
     "kana": "はてる",
     "romaji": "hateru",
-    "zh": "释义：to end; to be finished; to be exhausted; to die; to perish; to do utterly",
+    "zh": "结束；耗尽；筋疲力尽；死亡；逝去",
     "en": "to end; to be finished; to be exhausted; to die; to perish; to do utterly",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to end; to be finished; to be exhausted; to die; to perish; to do utterly。出自例句「私のガーデン 果てるまで」。",
+    "introZh": "词典释义：结束；耗尽；筋疲力尽；死亡；逝去。出自例句「私のガーデン 果てるまで」。",
     "introEn": "Meaning: to end; to be finished; to be exhausted; to die; to perish; to do utterly. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私のガーデン 果てるまで",
     "exampleZh": "直到我的花园 盛开结果",
@@ -8677,20 +8207,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はてる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5225-308c-375",
     "japanese": "別れ",
     "kana": "わかれ",
     "romaji": "wakare",
-    "zh": "释义：parting (of people); separation; farewell; breakup",
+    "zh": "告别；再见",
     "en": "parting (of people); separation; farewell; breakup",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：parting (of people); separation; farewell; breakup。出自例句「人は出会い別れ」。",
+    "introZh": "词典释义：告别；再见。出自例句「人は出会い別れ」。",
     "introEn": "Meaning: parting (of people); separation; farewell; breakup. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "人は出会い別れ",
     "exampleZh": "人会相遇离别",
@@ -8701,20 +8228,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "わかれ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5931-376",
     "japanese": "失",
     "kana": "しつ",
     "romaji": "shitsu",
-    "zh": "释义：room; wife (of someone of high rank); scabbard; Chinese \"Encampment\" constellation (one of the 28 mansions)",
+    "zh": "结合本句可理解为：失去的会物归原主",
     "en": "room; wife (of someone of high rank); scabbard; Chinese \"Encampment\" constellation (one of the 28 mansions)",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：room; wife (of someone of high rank); scabbard; Chinese \"Encampment\" constellation (one of the 28 mansions)。出自例句「失くしてはまた手に入れ」。",
+    "introZh": "词典释义：结合本句可理解为：失去的会物归原主。出自例句「失くしてはまた手に入れ」。",
     "introEn": "Meaning: room; wife (of someone of high rank); scabbard; Chinese \"Encampment\" constellation (one of the 28 mansions). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失くしてはまた手に入れ",
     "exampleZh": "失去的会物归原主",
@@ -8725,20 +8249,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しつ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304f-3057-377",
     "japanese": "くし",
     "kana": "くし",
     "romaji": "kushi",
-    "zh": "释义：comb",
+    "zh": "结合本句可理解为：失去的会物归原主",
     "en": "comb",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：comb。出自例句「失くしてはまた手に入れ」。",
+    "introZh": "词典释义：结合本句可理解为：失去的会物归原主。出自例句「失くしてはまた手に入れ」。",
     "introEn": "Meaning: comb. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失くしてはまた手に入れ",
     "exampleZh": "失去的会物归原主",
@@ -8756,10 +8277,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "入れ",
     "kana": "いれ",
     "romaji": "ire",
-    "zh": "释义：to put in; to let in; to take in; to bring in; to insert; to install (e.g. software)",
+    "zh": "结合本句可理解为：失去的会物归原主",
     "en": "to put in; to let in; to take in; to bring in; to insert; to install (e.g. software)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to put in; to let in; to take in; to bring in; to insert; to install (e.g. software)。出自例句「失くしてはまた手に入れ」。",
+    "introZh": "词典释义：结合本句可理解为：失去的会物归原主。出自例句「失くしてはまた手に入れ」。",
     "introEn": "Meaning: to put in; to let in; to take in; to bring in; to insert; to install (e.g. software). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "失くしてはまた手に入れ",
     "exampleZh": "失去的会物归原主",
@@ -8772,8 +8293,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "入れる",
-      "いれ"
+      "入れる"
     ]
   },
   {
@@ -8781,10 +8301,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "夜",
     "kana": "よる",
     "romaji": "yoru",
-    "zh": "释义：night; evening; dinner",
+    "zh": "结合本句可理解为：夜晚唤出秋天",
     "en": "night; evening; dinner",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：night; evening; dinner。出自例句「夜が秋を呼んで」。",
+    "introZh": "词典释义：结合本句可理解为：夜晚唤出秋天。出自例句「夜が秋を呼んで」。",
     "introEn": "Meaning: night; evening; dinner. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "夜が秋を呼んで",
     "exampleZh": "夜晚唤出秋天",
@@ -8795,20 +8315,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "よる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-65c5-380",
     "japanese": "旅",
     "kana": "たび",
     "romaji": "tabi",
-    "zh": "释义：travel; trip; journey",
+    "zh": "结合本句可理解为：而我踏上旅程",
     "en": "travel; trip; journey",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：travel; trip; journey。出自例句「私は旅に出て」。",
+    "introZh": "词典释义：结合本句可理解为：而我踏上旅程。出自例句「私は旅に出て」。",
     "introEn": "Meaning: travel; trip; journey. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私は旅に出て",
     "exampleZh": "而我踏上旅程",
@@ -8819,21 +8336,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たび"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-51fa-381",
     "japanese": "出",
     "kana": "で",
     "romaji": "de",
-    "zh": "释义：coming out; going out; outflow; efflux; rising (of the Sun or the Moon); attending (work)",
-    "en": "coming out; going out; outflow; efflux; rising (of the Sun or the Moon); attending (work)",
-    "partOfSpeech": "动词 / verb; noun · n-suf",
-    "introZh": "词典释义：coming out; going out; outflow; efflux; rising (of the Sun or the Moon); attending (work)。出自例句「私は旅に出て」。",
-    "introEn": "Meaning: coming out; going out; outflow; efflux; rising (of the Sun or the Moon); attending (work). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：而我踏上旅程",
+    "en": "to leave; to exit; to go out; to come out; to get out; to leave (on a journey)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：而我踏上旅程。出自例句「私は旅に出て」。",
+    "introEn": "Meaning: to leave; to exit; to go out; to come out; to get out; to leave (on a journey). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私は旅に出て",
     "exampleZh": "而我踏上旅程",
     "exampleEn": "Example line from \"ガーデン\" by 藤井風.",
@@ -8845,8 +8359,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "出る",
-      "で"
+      "出る"
     ]
   },
   {
@@ -8854,10 +8367,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "待っ",
     "kana": "まっ",
     "romaji": "ma",
-    "zh": "释义：to wait; to await; to look forward to; to anticipate; to depend on; to need",
+    "zh": "结合本句可理解为：等待着 直到这天到来",
     "en": "to wait; to await; to look forward to; to anticipate; to depend on; to need",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb · intransitive verb",
-    "introZh": "词典释义：to wait; to await; to look forward to; to anticipate; to depend on; to need。出自例句「待っていて その日まで」。",
+    "introZh": "词典释义：结合本句可理解为：等待着 直到这天到来。出自例句「待っていて その日まで」。",
     "introEn": "Meaning: to wait; to await; to look forward to; to anticipate; to depend on; to need. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "待っていて その日まで",
     "exampleZh": "等待着 直到这天到来",
@@ -8870,8 +8383,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "待つ",
-      "まっ"
+      "待つ"
     ]
   },
   {
@@ -8900,10 +8412,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "温もり",
     "kana": "ぬくもり",
     "romaji": "nukumori",
-    "zh": "释义：warmth",
+    "zh": "结合本句可理解为：用这双手的温暖",
     "en": "warmth",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：warmth。出自例句「その手の温もりで」。",
+    "introZh": "词典释义：结合本句可理解为：用这双手的温暖。出自例句「その手の温もりで」。",
     "introEn": "Meaning: warmth. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "その手の温もりで",
     "exampleZh": "用这双手的温暖",
@@ -8914,20 +8426,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぬくもり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6eb6-3051-308b-385",
     "japanese": "溶ける",
     "kana": "とける",
     "romaji": "tokeru",
-    "zh": "释义：to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)",
+    "zh": "结合本句可理解为：让它复苏 直到融化",
     "en": "to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in)。出自例句「生きさせて 溶けるまで」。",
+    "introZh": "词典释义：结合本句可理解为：让它复苏 直到融化。出自例句「生きさせて 溶けるまで」。",
     "introEn": "Meaning: to melt; to liquefy; to soften (e.g. through heat); to thaw; to dissolve (in a liquid); to be soluble (in). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "生きさせて 溶けるまで",
     "exampleZh": "让它复苏 直到融化",
@@ -8938,20 +8447,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とける"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6d41-308c-386",
     "japanese": "流れ",
     "kana": "ながれ",
     "romaji": "nagare",
-    "zh": "释义：flow (of a fluid or gas); stream; current; flow (of people, things); passage (of time); tide",
+    "zh": "当前；潮流；通道；段落",
     "en": "flow (of a fluid or gas); stream; current; flow (of people, things); passage (of time); tide",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：flow (of a fluid or gas); stream; current; flow (of people, things); passage (of time); tide。出自例句「流れに身を任せ」。",
+    "introZh": "词典释义：当前；潮流；通道；段落。出自例句「流れに身を任せ」。",
     "introEn": "Meaning: flow (of a fluid or gas); stream; current; flow (of people, things); passage (of time); tide. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "流れに身を任せ",
     "exampleZh": "让自己随波逐流",
@@ -8962,20 +8468,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ながれ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-306e-307e-307e-387",
     "japanese": "そのまま",
     "kana": "そのまま",
     "romaji": "sonomama",
-    "zh": "释义：without change; as is; just like; extremely similar; immediately; just after",
+    "zh": "立刻；马上",
     "en": "without change; as is; just like; extremely similar; immediately; just after",
     "partOfSpeech": "副词 / adverb; adverb · no-adjective · noun",
-    "introZh": "词典释义：without change; as is; just like; extremely similar; immediately; just after。出自例句「受け入れて そのままで」。",
+    "introZh": "词典释义：立刻；马上。出自例句「受け入れて そのままで」。",
     "introEn": "Meaning: without change; as is; just like; extremely similar; immediately; just after. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "受け入れて そのままで",
     "exampleZh": "接受它 就这样",
@@ -9017,10 +8520,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "豊か",
     "kana": "ゆたか",
     "romaji": "yutaka",
-    "zh": "释义：abundant; plentiful; rich; ample; wealthy",
+    "zh": "结合本句可理解为：渐渐丰富的庭院",
     "en": "abundant; plentiful; rich; ample; wealthy",
     "partOfSpeech": "名词 / noun; na-adjective · suffix",
-    "introZh": "词典释义：abundant; plentiful; rich; ample; wealthy。出自例句「豊かになる庭で」。",
+    "introZh": "词典释义：结合本句可理解为：渐渐丰富的庭院。出自例句「豊かになる庭で」。",
     "introEn": "Meaning: abundant; plentiful; rich; ample; wealthy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "豊かになる庭で",
     "exampleZh": "渐渐丰富的庭院",
@@ -9031,20 +8534,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆたか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63b4-3093-390",
     "japanese": "掴ん",
     "kana": "つかん",
     "romaji": "tsukan",
-    "zh": "释义：to seize; to catch; to grasp; to grip; to grab; to clutch",
+    "zh": "理解；抓住",
     "en": "to seize; to catch; to grasp; to grip; to grab; to clutch",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to seize; to catch; to grasp; to grip; to grab; to clutch。出自例句「掴んだ手 解き放て 空の果て」。",
+    "introZh": "词典释义：理解；抓住。出自例句「掴んだ手 解き放て 空の果て」。",
     "introEn": "Meaning: to seize; to catch; to grasp; to grip; to grab; to clutch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "掴んだ手 解き放て 空の果て",
     "exampleZh": "紧握的手 放开它 天空的尽头",
@@ -9057,8 +8557,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "掴む",
-      "つかん"
+      "掴む"
     ]
   },
   {
@@ -9082,8 +8581,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "解き放つ",
-      "ときはなて"
+      "解き放つ"
     ]
   },
   {
@@ -9091,10 +8589,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "夜明",
     "kana": "よあけ",
     "romaji": "yoake",
-    "zh": "释义：dawn; daybreak",
+    "zh": "结合本句可理解为：我消失在黎明中",
     "en": "dawn; daybreak",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：dawn; daybreak。出自例句「わたしは夜明に消えて」。",
+    "introZh": "词典释义：结合本句可理解为：我消失在黎明中。出自例句「わたしは夜明に消えて」。",
     "introEn": "Meaning: dawn; daybreak. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは夜明に消えて",
     "exampleZh": "我消失在黎明中",
@@ -9105,21 +8603,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "よあけ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6d88-3048-393",
     "japanese": "消え",
     "kana": "きえ",
     "romaji": "kie",
-    "zh": "释义：becoming a devout believer; (religious) conversion",
-    "en": "becoming a devout believer; (religious) conversion",
-    "partOfSpeech": "动词 / verb; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：becoming a devout believer; (religious) conversion。出自例句「わたしは夜明に消えて」。",
-    "introEn": "Meaning: becoming a devout believer; (religious) conversion. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我消失在黎明中",
+    "en": "to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：我消失在黎明中。出自例句「わたしは夜明に消えて」。",
+    "introEn": "Meaning: to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは夜明に消えて",
     "exampleZh": "我消失在黎明中",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -9131,8 +8626,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "消える",
-      "きえ"
+      "消える"
     ]
   },
   {
@@ -9140,10 +8634,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "二度と",
     "kana": "にどと",
     "romaji": "nidoto",
-    "zh": "释义：never again",
+    "zh": "结合本句可理解为：如果余生无法再会",
     "en": "never again",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：never again。出自例句「もう二度と 交わらないのなら」。",
+    "introZh": "词典释义：结合本句可理解为：如果余生无法再会。出自例句「もう二度と 交わらないのなら」。",
     "introEn": "Meaning: never again. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう二度と 交わらないのなら",
     "exampleZh": "如果余生无法再会",
@@ -9154,20 +8648,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にどと"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4ea4-308f-3089-395",
     "japanese": "交わら",
     "kana": "まじわら",
     "romaji": "majiwara",
-    "zh": "释义：to cross; to intersect; to join; to meet; to associate with; to mingle with",
+    "zh": "结合本句可理解为：如果余生无法再会",
     "en": "to cross; to intersect; to join; to meet; to associate with; to mingle with",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to cross; to intersect; to join; to meet; to associate with; to mingle with。出自例句「もう二度と 交わらないのなら」。",
+    "introZh": "词典释义：结合本句可理解为：如果余生无法再会。出自例句「もう二度と 交わらないのなら」。",
     "introEn": "Meaning: to cross; to intersect; to join; to meet; to associate with; to mingle with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もう二度と 交わらないのなら",
     "exampleZh": "如果余生无法再会",
@@ -9180,8 +8671,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "交わる",
-      "まじわら"
+      "交わる"
     ]
   },
   {
@@ -9189,10 +8679,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "灯",
     "kana": "あかり",
     "romaji": "akari",
-    "zh": "释义：light; lamp",
+    "zh": "光；轻微的",
     "en": "light; lamp",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：light; lamp。出自例句「あなたは灯ともして」。",
+    "introZh": "词典释义：光；轻微的。出自例句「あなたは灯ともして」。",
     "introEn": "Meaning: light; lamp. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたは灯ともして",
     "exampleZh": "你点亮一盏灯",
@@ -9203,21 +8693,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あかり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3068-3082-3057-397",
     "japanese": "ともし",
     "kana": "ともし",
     "romaji": "tomoshi",
-    "zh": "语境释义：你点亮一盏灯",
-    "en": "Context meaning: 你点亮一盏灯",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「ともし」。本句语境：你点亮一盏灯",
-    "introEn": "Read as \"tomoshi\". Context: 你点亮一盏灯",
+    "zh": "光；轻微的",
+    "en": "to light (a candle, lamp, etc.); to turn on (a light)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：光；轻微的。出自例句「あなたは灯ともして」。",
+    "introEn": "Meaning: to light (a candle, lamp, etc.); to turn on (a light). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたは灯ともして",
     "exampleZh": "你点亮一盏灯",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -9227,7 +8714,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "ともす"
     ]
@@ -9237,11 +8724,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "とめ",
     "kana": "とめ",
     "romaji": "tome",
-    "zh": "语境释义：我渴求着一束光",
-    "en": "Context meaning: 我渴求着一束光",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「とめ」。本句语境：我渴求着一束光",
-    "introEn": "Read as \"tome\". Context: 我渴求着一束光",
+    "zh": "停止",
+    "en": "to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：停止。出自例句「わたしは光もとめて」。",
+    "introEn": "Meaning: to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは光もとめて",
     "exampleZh": "我渴求着一束光",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -9251,7 +8738,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "とめる"
     ]
@@ -9261,10 +8748,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "失う",
     "kana": "うしなう",
     "romaji": "ushinau",
-    "zh": "释义：to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)",
+    "zh": "失去；输掉；错过机会；失去亲近的人；丧失；失分；让分",
     "en": "to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.)。出自例句「怖くはない 失うものなどない」。",
+    "introZh": "词典释义：失去；输掉；错过机会；失去亲近的人；丧失；失分；让分。出自例句「怖くはない 失うものなどない」。",
     "introEn": "Meaning: to lose; to miss (a chance, opportunity); to lose (a loved one); to be bereaved of; to concede (goals, points, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "怖くはない 失うものなどない",
     "exampleZh": "心无畏惧 亦无物可失",
@@ -9275,10 +8762,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "うしなう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3058-3083-400",
@@ -9306,10 +8790,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "汚れ",
     "kana": "よごれ",
     "romaji": "yogore",
-    "zh": "释义：dirt; filth; stain; blot; spot",
+    "zh": "污渍；污点；地点；场所",
     "en": "dirt; filth; stain; blot; spot",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：dirt; filth; stain; blot; spot。出自例句「少年の瞳は汚れ」。",
+    "introZh": "词典释义：污渍；污点；地点；场所。出自例句「少年の瞳は汚れ」。",
     "introEn": "Meaning: dirt; filth; stain; blot; spot. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "少年の瞳は汚れ",
     "exampleZh": "少年的眼眸不再清澈",
@@ -9320,10 +8804,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "よごれ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-35-402",
@@ -9351,10 +8832,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "鐘",
     "kana": "かね",
     "romaji": "kane",
-    "zh": "释义：bell (often a large hanging bell); chime",
+    "zh": "结合本句可理解为：5点的钟声在回响 却已听不见",
     "en": "bell (often a large hanging bell); chime",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：bell (often a large hanging bell); chime。出自例句「5時の鐘は鳴り響けど もう聞こえない」。",
+    "introZh": "词典释义：结合本句可理解为：5点的钟声在回响 却已听不见。出自例句「5時の鐘は鳴り響けど もう聞こえない」。",
     "introEn": "Meaning: bell (often a large hanging bell); chime. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "5時の鐘は鳴り響けど もう聞こえない",
     "exampleZh": "5点的钟声在回响 却已听不见",
@@ -9365,10 +8846,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かね"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9cf4-308a-97ff-3051-404",
@@ -9391,8 +8869,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "鳴り響く",
-      "なりひびけ"
+      "鳴り響く"
     ]
   },
   {
@@ -9400,10 +8877,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ど",
     "kana": "ど",
     "romaji": "do",
-    "zh": "释义：degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume",
+    "zh": "结合本句可理解为：5点的钟声在回响 却已听不见",
     "en": "degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume",
     "partOfSpeech": "助词 / particle; noun · n-suf",
-    "introZh": "词典释义：degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume。出自例句「5時の鐘は鳴り響けど もう聞こえない」。",
+    "introZh": "词典释义：结合本句可理解为：5点的钟声在回响 却已听不见。出自例句「5時の鐘は鳴り響けど もう聞こえない」。",
     "introEn": "Meaning: degree (angle, temperature, scale, etc.); counter for occurrences; strength (of glasses); glasses prescription; alcohol content (percentage); alcohol by volume. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "5時の鐘は鳴り響けど もう聞こえない",
     "exampleZh": "5点的钟声在回响 却已听不见",
@@ -9421,10 +8898,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "まるで",
     "kana": "まるで",
     "romaji": "marude",
-    "zh": "释义：as if; as though; just like; much as; exactly like; as it were",
+    "zh": "结合本句可理解为：似乎全都结束了",
     "en": "as if; as though; just like; much as; exactly like; as it were",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：as if; as though; just like; much as; exactly like; as it were。出自例句「まるで全部 終わったみたいだね」。",
+    "introZh": "词典释义：结合本句可理解为：似乎全都结束了。出自例句「まるで全部 終わったみたいだね」。",
     "introEn": "Meaning: as if; as though; just like; much as; exactly like; as it were. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まるで全部 終わったみたいだね",
     "exampleZh": "似乎全都结束了",
@@ -9442,10 +8919,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "全部",
     "kana": "ぜんぶ",
     "romaji": "zenbu",
-    "zh": "释义：all; entire; whole; altogether",
+    "zh": "全部；所有",
     "en": "all; entire; whole; altogether",
     "partOfSpeech": "名词 / noun; noun · no-adjective · adverb",
-    "introZh": "词典释义：all; entire; whole; altogether。出自例句「まるで全部 終わったみたいだね」。",
+    "introZh": "词典释义：全部；所有。出自例句「まるで全部 終わったみたいだね」。",
     "introEn": "Meaning: all; entire; whole; altogether. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まるで全部 終わったみたいだね",
     "exampleZh": "似乎全都结束了",
@@ -9456,20 +8933,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぜんぶ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7d42-308f-3063-408",
     "japanese": "終わっ",
     "kana": "おわっ",
     "romaji": "owa",
-    "zh": "释义：to end; to come to an end; to finish; to close; to be over",
+    "zh": "结束；告终；完成；关闭",
     "en": "to end; to come to an end; to finish; to close; to be over",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to end; to come to an end; to finish; to close; to be over。出自例句「まるで全部 終わったみたいだね」。",
+    "introZh": "词典释义：结束；告终；完成；关闭。出自例句「まるで全部 終わったみたいだね」。",
     "introEn": "Meaning: to end; to come to an end; to finish; to close; to be over. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まるで全部 終わったみたいだね",
     "exampleZh": "似乎全都结束了",
@@ -9482,8 +8956,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "終わる",
-      "おわっ"
+      "終わる"
     ]
   },
   {
@@ -9491,10 +8964,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "みたい",
     "kana": "みたい",
     "romaji": "mitai",
-    "zh": "释义：-like; sort of; similar to; resembling",
+    "zh": "结合本句可理解为：似乎全都结束了",
     "en": "-like; sort of; similar to; resembling",
     "partOfSpeech": "名词 / noun; suffix · na-adjective",
-    "introZh": "词典释义：-like; sort of; similar to; resembling。出自例句「まるで全部 終わったみたいだね」。",
+    "introZh": "词典释义：结合本句可理解为：似乎全都结束了。出自例句「まるで全部 終わったみたいだね」。",
     "introEn": "Meaning: -like; sort of; similar to; resembling. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "まるで全部 終わったみたいだね",
     "exampleZh": "似乎全都结束了",
@@ -9512,10 +8985,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "大",
     "kana": "だい",
     "romaji": "dai",
-    "zh": "释义：large; big; great; huge; vast; major",
+    "zh": "结合本句可理解为：大错特错 来日方长 我不会忘记",
     "en": "large; big; great; huge; vast; major",
     "partOfSpeech": "前缀 / prefix; prefix · na-adjective · noun",
-    "introZh": "词典释义：large; big; great; huge; vast; major。出自例句「大間違い 先は長い 忘れないから」。",
+    "introZh": "词典释义：结合本句可理解为：大错特错 来日方长 我不会忘记。出自例句「大間違い 先は長い 忘れないから」。",
     "introEn": "Meaning: large; big; great; huge; vast; major. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "大間違い 先は長い 忘れないから",
     "exampleZh": "大错特错 来日方长 我不会忘记",
@@ -9526,20 +8999,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "だい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9593-9055-3044-411",
     "japanese": "間違い",
     "kana": "まちがい",
     "romaji": "machigai",
-    "zh": "释义：mistake; error; blunder; accident; mishap; trouble",
+    "zh": "事故；意外；麻烦；困难",
     "en": "mistake; error; blunder; accident; mishap; trouble",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：mistake; error; blunder; accident; mishap; trouble。出自例句「大間違い 先は長い 忘れないから」。",
+    "introZh": "词典释义：事故；意外；麻烦；困难。出自例句「大間違い 先は長い 忘れないから」。",
     "introEn": "Meaning: mistake; error; blunder; accident; mishap; trouble. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "大間違い 先は長い 忘れないから",
     "exampleZh": "大错特错 来日方长 我不会忘记",
@@ -9550,20 +9020,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まちがい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-3042-412",
     "japanese": "ああ",
     "kana": "ああ",
     "romaji": "aa",
-    "zh": "释义：like that; so",
+    "zh": "像那样；所以；那么",
     "en": "like that; so",
     "partOfSpeech": "感叹词 / interjection; adverb",
-    "introZh": "词典释义：like that; so。出自例句「ああ 全て忘れて帰ろう」。",
+    "introZh": "词典释义：像那样；所以；那么。出自例句「ああ 全て忘れて帰ろう」。",
     "introEn": "Meaning: like that; so. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ああ 全て忘れて帰ろう",
     "exampleZh": "啊 忘却一切 我欲归去",
@@ -9597,8 +9064,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "疼く",
-      "うずけ"
+      "疼く"
     ]
   },
   {
@@ -9606,10 +9072,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "癒え",
     "kana": "いえ",
     "romaji": "ie",
-    "zh": "释义：house; residence; dwelling; home; family; household",
+    "zh": "结合本句可理解为：尽管那份伤疤还疼 这份干渴尚未滋润",
     "en": "house; residence; dwelling; home; family; household",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：house; residence; dwelling; home; family; household。出自例句「あの傷は疼けどこの渇き癒えねど」。",
+    "introZh": "词典释义：结合本句可理解为：尽管那份伤疤还疼 这份干渴尚未滋润。出自例句「あの傷は疼けどこの渇き癒えねど」。",
     "introEn": "Meaning: house; residence; dwelling; home; family; household. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あの傷は疼けどこの渇き癒えねど",
     "exampleZh": "尽管那份伤疤还疼 这份干渴尚未滋润",
@@ -9622,8 +9088,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "癒える",
-      "いえ"
+      "癒える"
     ]
   },
   {
@@ -9631,10 +9096,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "どう",
     "kana": "どう",
     "romaji": "dou",
-    "zh": "释义：how; in what way; how about",
+    "zh": "结合本句可理解为：别管那些 统统任风吹尽吧",
     "en": "how; in what way; how about",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：how; in what way; how about。出自例句「もうどうでもいいの 吹き飛ばそう」。",
+    "introZh": "词典释义：结合本句可理解为：别管那些 统统任风吹尽吧。出自例句「もうどうでもいいの 吹き飛ばそう」。",
     "introEn": "Meaning: how; in what way; how about. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もうどうでもいいの 吹き飛ばそう",
     "exampleZh": "别管那些 统统任风吹尽吧",
@@ -9668,8 +9133,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "吹き飛ばす",
-      "ふきとばそ"
+      "吹き飛ばす"
     ]
   },
   {
@@ -9677,10 +9141,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "さわやか",
     "kana": "さわやか",
     "romaji": "sawayaka",
-    "zh": "释义：fresh; refreshing; invigorating; pleasant; delightful; clear (voice)",
+    "zh": "愉快的；舒服的",
     "en": "fresh; refreshing; invigorating; pleasant; delightful; clear (voice)",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：fresh; refreshing; invigorating; pleasant; delightful; clear (voice)。出自例句「さわやかな風と帰ろう」。",
+    "introZh": "词典释义：愉快的；舒服的。出自例句「さわやかな風と帰ろう」。",
     "introEn": "Meaning: fresh; refreshing; invigorating; pleasant; delightful; clear (voice). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "さわやかな風と帰ろう",
     "exampleZh": "随着轻风 我欲归去",
@@ -9698,10 +9162,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やさしく",
     "kana": "やさしく",
     "romaji": "yasashiku",
-    "zh": "释义：easy; plain; simple",
+    "zh": "结合本句可理解为：伴着细雨 我欲归去",
     "en": "easy; plain; simple",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：easy; plain; simple。出自例句「やさしく降る雨と帰ろう」。",
+    "introZh": "词典释义：结合本句可理解为：伴着细雨 我欲归去。出自例句「やさしく降る雨と帰ろう」。",
     "introEn": "Meaning: easy; plain; simple. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やさしく降る雨と帰ろう",
     "exampleZh": "伴着细雨 我欲归去",
@@ -9722,10 +9186,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "弱音",
     "kana": "よわね",
     "romaji": "yowane",
-    "zh": "释义：feeble complaint; whine",
+    "zh": "结合本句可理解为：对未来 你吐露脆弱",
     "en": "feeble complaint; whine",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：feeble complaint; whine。出自例句「あなたは弱音を吐いて」。",
+    "introZh": "词典释义：结合本句可理解为：对未来 你吐露脆弱。出自例句「あなたは弱音を吐いて」。",
     "introEn": "Meaning: feeble complaint; whine. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたは弱音を吐いて",
     "exampleZh": "对未来 你吐露脆弱",
@@ -9736,21 +9200,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "よわね"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5410-3044-420",
     "japanese": "吐い",
     "kana": "はい",
     "romaji": "hai",
-    "zh": "释义：yes; that is correct; understood; I see; OK; okay",
-    "en": "yes; that is correct; understood; I see; OK; okay",
-    "partOfSpeech": "动词 / verb; interjection",
-    "introZh": "词典释义：yes; that is correct; understood; I see; OK; okay。出自例句「あなたは弱音を吐いて」。",
-    "introEn": "Meaning: yes; that is correct; understood; I see; OK; okay. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：对未来 你吐露脆弱",
+    "en": "to breathe out; to breathe; to tell (a lie); to use (foul language); to vomit; to throw up",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：对未来 你吐露脆弱。出自例句「あなたは弱音を吐いて」。",
+    "introEn": "Meaning: to breathe out; to breathe; to tell (a lie); to use (foul language); to vomit; to throw up. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたは弱音を吐いて",
     "exampleZh": "对未来 你吐露脆弱",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -9762,8 +9223,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "吐く",
-      "はい"
+      "吐く"
     ]
   },
   {
@@ -9771,10 +9231,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "こぼし",
     "kana": "こぼし",
     "romaji": "koboshi",
-    "zh": "释义：to spill; to drop; to shed (tears); to grumble (about); to complain (of); to let (one's feelings) show",
+    "zh": "落下；丢下",
     "en": "to spill; to drop; to shed (tears); to grumble (about); to complain (of); to let (one's feelings) show",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to spill; to drop; to shed (tears); to grumble (about); to complain (of); to let (one's feelings) show。出自例句「わたしは未練こぼして」。",
+    "introZh": "词典释义：落下；丢下。出自例句「わたしは未練こぼして」。",
     "introEn": "Meaning: to spill; to drop; to shed (tears); to grumble (about); to complain (of); to let (one's feelings) show. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしは未練こぼして",
     "exampleZh": "对过去 我流露不舍",
@@ -9795,10 +9255,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "くらい",
     "kana": "くらい",
     "romaji": "kurai",
-    "zh": "释义：dark; gloomy; murky; depressed; dispirited; down in the dumps",
+    "zh": "黑暗的；阴郁的",
     "en": "dark; gloomy; murky; depressed; dispirited; down in the dumps",
     "partOfSpeech": "助词 / particle; i-adjective",
-    "introZh": "词典释义：dark; gloomy; murky; depressed; dispirited; down in the dumps。出自例句「最後くらい 神様でいさせて」。",
+    "introZh": "词典释义：黑暗的；阴郁的。出自例句「最後くらい 神様でいさせて」。",
     "introEn": "Meaning: dark; gloomy; murky; depressed; dispirited; down in the dumps. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "最後くらい 神様でいさせて",
     "exampleZh": "\"都到最后了 让我当一回神吧\"",
@@ -9816,10 +9276,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だって",
     "kana": "だって",
     "romaji": "datte",
-    "zh": "释义：after all; because; but; even; too; as well",
+    "zh": "因为；但是；不过；甚至；即使",
     "en": "after all; because; but; even; too; as well",
     "partOfSpeech": "连接词 / conjunction",
-    "introZh": "词典释义：after all; because; but; even; too; as well。出自例句「だって これじゃ人間だ」。",
+    "introZh": "词典释义：因为；但是；不过；甚至；即使。出自例句「だって これじゃ人間だ」。",
     "introEn": "Meaning: after all; because; but; even; too; as well. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だって これじゃ人間だ",
     "exampleZh": "若说这些 我们就还只是凡人",
@@ -9837,10 +9297,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "人間",
     "kana": "にんげん",
     "romaji": "ningen",
-    "zh": "释义：human being; human; person; man; mankind; humankind",
+    "zh": "结合本句可理解为：若说这些 我们就还只是凡人",
     "en": "human being; human; person; man; mankind; humankind",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：human being; human; person; man; mankind; humankind。出自例句「だって これじゃ人間だ」。",
+    "introZh": "词典释义：结合本句可理解为：若说这些 我们就还只是凡人。出自例句「だって これじゃ人間だ」。",
     "introEn": "Meaning: human being; human; person; man; mankind; humankind. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だって これじゃ人間だ",
     "exampleZh": "若说这些 我们就还只是凡人",
@@ -9851,21 +9311,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にんげん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-773a-3081-425",
     "japanese": "眺め",
     "kana": "ながめ",
     "romaji": "nagame",
-    "zh": "释义：scene; view; prospect; outlook",
-    "en": "scene; view; prospect; outlook",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：scene; view; prospect; outlook。出自例句「わたしのいない世界を上から眺めていても」。",
-    "introEn": "Meaning: scene; view; prospect; outlook. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：从天上俯瞰着没有我的世界",
+    "en": "to look at; to gaze at; to watch; to stare at; to look out over; to get a view of",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：从天上俯瞰着没有我的世界。出自例句「わたしのいない世界を上から眺めていても」。",
+    "introEn": "Meaning: to look at; to gaze at; to watch; to stare at; to look out over; to get a view of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わたしのいない世界を上から眺めていても",
     "exampleZh": "从天上俯瞰着没有我的世界",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -9877,8 +9334,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "眺める",
-      "ながめ"
+      "眺める"
     ]
   },
   {
@@ -9900,20 +9356,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "なにひとつ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-56de-308b-427",
     "japanese": "回る",
     "kana": "まわる",
     "romaji": "mawaru",
-    "zh": "释义：to turn; to rotate; to revolve; to spin; to go around; to circle",
+    "zh": "转向；变成",
     "en": "to turn; to rotate; to revolve; to spin; to go around; to circle",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to turn; to rotate; to revolve; to spin; to go around; to circle。出自例句「何一つ 変わらず回るから」。",
+    "introZh": "词典释义：转向；变成。出自例句「何一つ 変わらず回るから」。",
     "introEn": "Meaning: to turn; to rotate; to revolve; to spin; to go around; to circle. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何一つ 変わらず回るから",
     "exampleZh": "依旧旋转 毫无变化",
@@ -9924,20 +9377,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まわる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-80cc-4e2d-428",
     "japanese": "背中",
     "kana": "せなか",
     "romaji": "senaka",
-    "zh": "释义：back (of the body)",
+    "zh": "结合本句可理解为：肩背之间 终于略感轻松",
     "en": "back (of the body)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：back (of the body)。出自例句「少し背中が軽くなった」。",
+    "introZh": "词典释义：结合本句可理解为：肩背之间 终于略感轻松。出自例句「少し背中が軽くなった」。",
     "introEn": "Meaning: back (of the body). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "少し背中が軽くなった",
     "exampleZh": "肩背之间 终于略感轻松",
@@ -9948,20 +9398,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "せなか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-56fd-9053-429",
     "japanese": "国道",
     "kana": "こくどう",
     "romaji": "kokudou",
-    "zh": "释义：national road; national highway",
+    "zh": "结合本句可理解为：在国道边上的告别",
     "en": "national road; national highway",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：national road; national highway。出自例句「国道沿い前で別れ」。",
+    "introZh": "词典释义：结合本句可理解为：在国道边上的告别。出自例句「国道沿い前で別れ」。",
     "introEn": "Meaning: national road; national highway. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "国道沿い前で別れ",
     "exampleZh": "在国道边上的告别",
@@ -9972,20 +9419,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こくどう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-524d-430",
     "japanese": "前",
     "kana": "まえ",
     "romaji": "mae",
-    "zh": "释义：in front (of); before (e.g. a building); before; earlier; previously; prior",
+    "zh": "结合本句可理解为：在国道边上的告别",
     "en": "in front (of); before (e.g. a building); before; earlier; previously; prior",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：in front (of); before (e.g. a building); before; earlier; previously; prior。出自例句「国道沿い前で別れ」。",
+    "introZh": "词典释义：结合本句可理解为：在国道边上的告别。出自例句「国道沿い前で別れ」。",
     "introEn": "Meaning: in front (of); before (e.g. a building); before; earlier; previously; prior. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "国道沿い前で別れ",
     "exampleZh": "在国道边上的告别",
@@ -9996,10 +9440,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まえ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-55a7-9a12-431",
@@ -10020,10 +9461,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "けんそう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5f8c-76ee-432",
@@ -10044,10 +9482,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "しりめ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3070-3063-304b-433",
@@ -10075,11 +9510,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "あげ",
     "kana": "あげ",
     "romaji": "age",
-    "zh": "释义：tuck (e.g. in a dress); rise (e.g. in price)",
-    "en": "tuck (e.g. in a dress); rise (e.g. in price)",
-    "partOfSpeech": "动词 / verb; noun · n-suf",
-    "introZh": "词典释义：tuck (e.g. in a dress); rise (e.g. in price)。出自例句「何も あげられなかったね」。",
-    "introEn": "Meaning: tuck (e.g. in a dress); rise (e.g. in price). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：对别人 毫无给予",
+    "en": "to raise; to elevate; to move something (to a higher place); to put onto (e.g. a shelf); to increase (price, quality, status, etc.); to raise (a wage)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：对别人 毫无给予。出自例句「何も あげられなかったね」。",
+    "introEn": "Meaning: to raise; to elevate; to move something (to a higher place); to put onto (e.g. a shelf); to increase (price, quality, status, etc.); to raise (a wage). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何も あげられなかったね",
     "exampleZh": "对别人 毫无给予",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -10099,10 +9534,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なかっ",
     "kana": "なかっ",
     "romaji": "naka",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
     "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
     "partOfSpeech": "助动词 / auxiliary; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「何も あげられなかったね」。",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「何も あげられなかったね」。",
     "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何も あげられなかったね",
     "exampleZh": "对别人 毫无给予",
@@ -10123,10 +9558,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なんか",
     "kana": "なんか",
     "romaji": "nanka",
-    "zh": "释义：something like ...; things like ...; someone like ...; the likes of ...",
+    "zh": "结合本句可理解为：一直不懂 这种活法有何意义",
     "en": "something like ...; things like ...; someone like ...; the likes of ...",
     "partOfSpeech": "助词 / particle; particle · adverb",
-    "introZh": "词典释义：something like ...; things like ...; someone like ...; the likes of ...。出自例句「生きてきた 意味なんか 分からないまま」。",
+    "introZh": "词典释义：结合本句可理解为：一直不懂 这种活法有何意义。出自例句「生きてきた 意味なんか 分からないまま」。",
     "introEn": "Meaning: something like ...; things like ...; someone like ...; the likes of .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "生きてきた 意味なんか 分からないまま",
     "exampleZh": "一直不懂 这种活法有何意义",
@@ -10144,10 +9579,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "与え",
     "kana": "あたえ",
     "romaji": "atae",
-    "zh": "释义：to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award",
+    "zh": "提出；呈现",
     "en": "to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award。出自例句「ああ 全て与えて帰ろう」。",
+    "introZh": "词典释义：提出；呈现。出自例句「ああ 全て与えて帰ろう」。",
     "introEn": "Meaning: to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ああ 全て与えて帰ろう",
     "exampleZh": "啊 付出一切 我欲乘风归去",
@@ -10160,8 +9595,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "与える",
-      "あたえ"
+      "与える"
     ]
   },
   {
@@ -10190,10 +9624,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "こそ",
     "kana": "こそ",
     "romaji": "koso",
-    "zh": "释义：it is ... that ...; precisely; in particular; definitely; for sure; only (when, after, because, etc.)",
+    "zh": "只有；仅仅",
     "en": "it is ... that ...; precisely; in particular; definitely; for sure; only (when, after, because, etc.)",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：it is ... that ...; precisely; in particular; definitely; for sure; only (when, after, because, etc.)。出自例句「与えられるものこそ 与えられたもの」。",
+    "introZh": "词典释义：只有；仅仅。出自例句「与えられるものこそ 与えられたもの」。",
     "introEn": "Meaning: it is ... that ...; precisely; in particular; definitely; for sure; only (when, after, because, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "与えられるものこそ 与えられたもの",
     "exampleZh": "我们能给与别人的 正是我们曾经获得的",
@@ -10211,10 +9645,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ありがとう",
     "kana": "ありがとう",
     "romaji": "arigatou",
-    "zh": "释义：thank you; thanks",
+    "zh": "结合本句可理解为：挺起胸膛 说声“感谢”",
     "en": "thank you; thanks",
     "partOfSpeech": "感叹词 / interjection",
-    "introZh": "词典释义：thank you; thanks。出自例句「ありがとう、って胸をはろう」。",
+    "introZh": "词典释义：结合本句可理解为：挺起胸膛 说声“感谢”。出自例句「ありがとう、って胸をはろう」。",
     "introEn": "Meaning: thank you; thanks. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ありがとう、って胸をはろう",
     "exampleZh": "挺起胸膛 说声“感谢”",
@@ -10232,10 +9666,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "って",
     "kana": "って",
     "romaji": "tte",
-    "zh": "释义：you said; he said; she said; they said; even if; do you seriously think that",
+    "zh": "即使",
     "en": "you said; he said; she said; they said; even if; do you seriously think that",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：you said; he said; she said; they said; even if; do you seriously think that。出自例句「ありがとう、って胸をはろう」。",
+    "introZh": "词典释义：即使。出自例句「ありがとう、って胸をはろう」。",
     "introEn": "Meaning: you said; he said; she said; they said; even if; do you seriously think that. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ありがとう、って胸をはろう",
     "exampleZh": "挺起胸膛 说声“感谢”",
@@ -10253,11 +9687,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "はろ",
     "kana": "はろ",
     "romaji": "haro",
-    "zh": "语境释义：挺起胸膛 说声“感谢”",
-    "en": "Context meaning: 挺起胸膛 说声“感谢”",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「はろ」。本句语境：挺起胸膛 说声“感谢”",
-    "introEn": "Read as \"haro\". Context: 挺起胸膛 说声“感谢”",
+    "zh": "结合本句可理解为：挺起胸膛 说声“感谢”",
+    "en": "spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday",
+    "partOfSpeech": "动词 / verb; noun · adverb",
+    "introZh": "词典释义：结合本句可理解为：挺起胸膛 说声“感谢”。出自例句「ありがとう、って胸をはろう」。",
+    "introEn": "Meaning: spring; springtime; New Year; prime (of life); height (of one's prosperity); heyday. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ありがとう、って胸をはろう",
     "exampleZh": "挺起胸膛 说声“感谢”",
     "exampleEn": "Example line from \"帰ろう\" by 藤井風.",
@@ -10267,7 +9701,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "はる"
     ]
@@ -10277,10 +9711,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "絶え",
     "kana": "たえ",
     "romaji": "tae",
-    "zh": "释义：to die out; to peter out; to become extinct; to cease; to be stopped; to be discontinued",
+    "zh": "停止；终止",
     "en": "to die out; to peter out; to become extinct; to cease; to be stopped; to be discontinued",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to die out; to peter out; to become extinct; to cease; to be stopped; to be discontinued。出自例句「幸せ絶えぬ場所、帰ろう」。",
+    "introZh": "词典释义：停止；终止。出自例句「幸せ絶えぬ場所、帰ろう」。",
     "introEn": "Meaning: to die out; to peter out; to become extinct; to cease; to be stopped; to be discontinued. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "幸せ絶えぬ場所、帰ろう",
     "exampleZh": "朝向无尽的幸福 乘风归去",
@@ -10293,8 +9727,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "kotobako-jmdict",
     "forms": [
-      "絶える",
-      "たえ"
+      "絶える"
     ]
   },
   {
@@ -10302,10 +9735,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "場所",
     "kana": "ばしょ",
     "romaji": "basho",
-    "zh": "释义：place; location; spot; position; area; room",
+    "zh": "地点；场所；位置；立场",
     "en": "place; location; spot; position; area; room",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：place; location; spot; position; area; room。出自例句「幸せ絶えぬ場所、帰ろう」。",
+    "introZh": "词典释义：地点；场所；位置；立场。出自例句「幸せ絶えぬ場所、帰ろう」。",
     "introEn": "Meaning: place; location; spot; position; area; room. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "幸せ絶えぬ場所、帰ろう",
     "exampleZh": "朝向无尽的幸福 乘风归去",
@@ -10316,20 +9749,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ばしょ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3044-3051-308b-445",
     "japanese": "いける",
     "kana": "いける",
     "romaji": "ikeru",
-    "zh": "释义：to arrange (flowers); to plant; living; live",
+    "zh": "结合本句可理解为：离世之际 能从人间带走什么呢",
     "en": "to arrange (flowers); to plant; living; live",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to arrange (flowers); to plant; living; live。出自例句「去り際の時に 何が持っていけるの」。",
+    "introZh": "词典释义：结合本句可理解为：离世之际 能从人间带走什么呢。出自例句「去り際の時に 何が持っていけるの」。",
     "introEn": "Meaning: to arrange (flowers); to plant; living; live. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "去り際の時に 何が持っていけるの",
     "exampleZh": "离世之际 能从人间带走什么呢",
@@ -10347,10 +9777,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "荷物",
     "kana": "にもつ",
     "romaji": "nimotsu",
-    "zh": "释义：luggage; baggage; package; burden; payload (of a packet, cell, etc.)",
+    "zh": "结合本句可理解为：一个个包袱 统统放手吧",
     "en": "luggage; baggage; package; burden; payload (of a packet, cell, etc.)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：luggage; baggage; package; burden; payload (of a packet, cell, etc.)。出自例句「一つ一つ 荷物 手放そう」。",
+    "introZh": "词典释义：结合本句可理解为：一个个包袱 统统放手吧。出自例句「一つ一つ 荷物 手放そう」。",
     "introEn": "Meaning: luggage; baggage; package; burden; payload (of a packet, cell, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "一つ一つ 荷物 手放そう",
     "exampleZh": "一个个包袱 统统放手吧",
@@ -10361,10 +9791,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n2"
     ],
     "jlptLevel": "N2",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にもつ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-624b-653e-305d-447",
@@ -10387,8 +9814,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N2",
     "source": "user-provided-lyrics",
     "forms": [
-      "手放す",
-      "てばなそ"
+      "手放す"
     ]
   },
   {
@@ -10417,10 +9843,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "こう",
     "kana": "こう",
     "romaji": "kou",
-    "zh": "释义：in this way; like this; so; thus; this (much)",
+    "zh": "所以；那么；这个",
     "en": "in this way; like this; so; thus; this (much)",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：in this way; like this; so; thus; this (much)。出自例句「あぁ今日からどう生きてこう」。",
+    "introZh": "词典释义：所以；那么；这个。出自例句「あぁ今日からどう生きてこう」。",
     "introEn": "Meaning: in this way; like this; so; thus; this (much). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あぁ今日からどう生きてこう",
     "exampleZh": "啊 从今往后 我会活出怎样的人生呢",
@@ -10438,11 +9864,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やり",
     "kana": "やり",
     "romaji": "yari",
-    "zh": "释义：spear; lance; javelin; jeering",
-    "en": "spear; lance; javelin; jeering",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：spear; lance; javelin; jeering。出自例句「やり残した鼓動が この夜を覆って」。",
-    "introEn": "Meaning: spear; lance; javelin; jeering. Dictionary data: local Kotobako/JMdict.",
+    "zh": "做；进行；表演",
+    "en": "to do; to undertake; to perform; to play (a game); to study; to send",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：做；进行；表演。出自例句「やり残した鼓動が この夜を覆って」。",
+    "introEn": "Meaning: to do; to undertake; to perform; to play (a game); to study; to send. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やり残した鼓動が この夜を覆って",
     "exampleZh": "残存的心跳 覆盖了这个夜晚",
     "exampleEn": "Example line from \"雑踏、僕らの街\" by トゲナシトゲアリ.",
@@ -10462,10 +9888,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "残し",
     "kana": "のこし",
     "romaji": "nokoshi",
-    "zh": "释义：to leave (behind); to leave (undone); to not finish; to save; to set aside; to reserve",
+    "zh": "结合本句可理解为：残存的心跳 覆盖了这个夜晚",
     "en": "to leave (behind); to leave (undone); to not finish; to save; to set aside; to reserve",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to leave (behind); to leave (undone); to not finish; to save; to set aside; to reserve。出自例句「やり残した鼓動が この夜を覆って」。",
+    "introZh": "词典释义：结合本句可理解为：残存的心跳 覆盖了这个夜晚。出自例句「やり残した鼓動が この夜を覆って」。",
     "introEn": "Meaning: to leave (behind); to leave (undone); to not finish; to save; to set aside; to reserve. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やり残した鼓動が この夜を覆って",
     "exampleZh": "残存的心跳 覆盖了这个夜晚",
@@ -10478,8 +9904,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "残す",
-      "のこし"
+      "残す"
     ]
   },
   {
@@ -10487,10 +9912,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "鼓動",
     "kana": "こどう",
     "romaji": "kodou",
-    "zh": "释义：beat; palpitation; pulsation; throbbing",
+    "zh": "结合本句可理解为：残存的心跳 覆盖了这个夜晚",
     "en": "beat; palpitation; pulsation; throbbing",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：beat; palpitation; pulsation; throbbing。出自例句「やり残した鼓動が この夜を覆って」。",
+    "introZh": "词典释义：结合本句可理解为：残存的心跳 覆盖了这个夜晚。出自例句「やり残した鼓動が この夜を覆って」。",
     "introEn": "Meaning: beat; palpitation; pulsation; throbbing. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やり残した鼓動が この夜を覆って",
     "exampleZh": "残存的心跳 覆盖了这个夜晚",
@@ -10501,20 +9926,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こどう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8986-3063-453",
     "japanese": "覆っ",
     "kana": "おおっ",
     "romaji": "oo",
-    "zh": "释义：to cover; to hide; to conceal; to wrap; to disguise",
+    "zh": "结合本句可理解为：残存的心跳 覆盖了这个夜晚",
     "en": "to cover; to hide; to conceal; to wrap; to disguise",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to cover; to hide; to conceal; to wrap; to disguise。出自例句「やり残した鼓動が この夜を覆って」。",
+    "introZh": "词典释义：结合本句可理解为：残存的心跳 覆盖了这个夜晚。出自例句「やり残した鼓動が この夜を覆って」。",
     "introEn": "Meaning: to cover; to hide; to conceal; to wrap; to disguise. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やり残した鼓動が この夜を覆って",
     "exampleZh": "残存的心跳 覆盖了这个夜晚",
@@ -10527,8 +9949,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "覆う",
-      "おおっ"
+      "覆う"
     ]
   },
   {
@@ -10536,10 +9957,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "頼り",
     "kana": "たより",
     "romaji": "tayori",
-    "zh": "释义：reliance; dependence",
+    "zh": "结合本句可理解为：即使不去依靠他人伸出手臂",
     "en": "reliance; dependence",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：reliance; dependence。出自例句「頼りなくてもいい その手を」。",
+    "introZh": "词典释义：结合本句可理解为：即使不去依靠他人伸出手臂。出自例句「頼りなくてもいい その手を」。",
     "introEn": "Meaning: reliance; dependence. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "頼りなくてもいい その手を",
     "exampleZh": "即使不去依靠他人伸出手臂",
@@ -10550,20 +9971,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たより"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306f-305a-455",
     "japanese": "はず",
     "kana": "はず",
     "romaji": "hazu",
-    "zh": "释义：should (be); bound (to be); expected (to be); must (be); nock (of a bow); nock (of an arrow)",
+    "zh": "结合本句可理解为：一切并非无法改变 伸出手吧",
     "en": "should (be); bound (to be); expected (to be); must (be); nock (of a bow); nock (of an arrow)",
     "partOfSpeech": "名词 / noun; aux",
-    "introZh": "词典释义：should (be); bound (to be); expected (to be); must (be); nock (of a bow); nock (of an arrow)。出自例句「変わらないはずはないよ 手を伸ばして」。",
+    "introZh": "词典释义：结合本句可理解为：一切并非无法改变 伸出手吧。出自例句「変わらないはずはないよ 手を伸ばして」。",
     "introEn": "Meaning: should (be); bound (to be); expected (to be); must (be); nock (of a bow); nock (of an arrow). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わらないはずはないよ 手を伸ばして",
     "exampleZh": "一切并非无法改变 伸出手吧",
@@ -10581,10 +9999,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "伸ばし",
     "kana": "のばし",
     "romaji": "nobashi",
-    "zh": "释义：to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out",
+    "zh": "伸出；坚持",
     "en": "to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out。出自例句「変わらないはずはないよ 手を伸ばして」。",
+    "introZh": "词典释义：伸出；坚持。出自例句「変わらないはずはないよ 手を伸ばして」。",
     "introEn": "Meaning: to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わらないはずはないよ 手を伸ばして",
     "exampleZh": "一切并非无法改变 伸出手吧",
@@ -10597,8 +10015,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "伸ばす",
-      "のばし"
+      "伸ばす"
     ]
   },
   {
@@ -10606,10 +10023,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "雑踏",
     "kana": "ざっとう",
     "romaji": "zattou",
-    "zh": "释义：hustle and bustle; throng; crowd; congestion; traffic jam",
+    "zh": "结合本句可理解为：我在拥挤的人群中无声地哭泣着",
     "en": "hustle and bustle; throng; crowd; congestion; traffic jam",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：hustle and bustle; throng; crowd; congestion; traffic jam。出自例句「雑踏の中で 声無き声で泣いている」。",
+    "introZh": "词典释义：结合本句可理解为：我在拥挤的人群中无声地哭泣着。出自例句「雑踏の中で 声無き声で泣いている」。",
     "introEn": "Meaning: hustle and bustle; throng; crowd; congestion; traffic jam. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "雑踏の中で 声無き声で泣いている",
     "exampleZh": "我在拥挤的人群中无声地哭泣着",
@@ -10620,21 +10037,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ざっとう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7121-304d-458",
     "japanese": "無き",
     "kana": "なき",
     "romaji": "naki",
-    "zh": "释义：weeping; lamenting",
-    "en": "weeping; lamenting",
-    "partOfSpeech": "形容词 / adjective; noun",
-    "introZh": "词典释义：weeping; lamenting。出自例句「雑踏の中で 声無き声で泣いている」。",
-    "introEn": "Meaning: weeping; lamenting. Dictionary data: local Kotobako/JMdict.",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
+    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「雑踏の中で 声無き声で泣いている」。",
+    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "雑踏の中で 声無き声で泣いている",
     "exampleZh": "我在拥挤的人群中无声地哭泣着",
     "exampleEn": "Example line from \"雑踏、僕らの街\" by トゲナシトゲアリ.",
@@ -10646,8 +10060,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "無い",
-      "なき"
+      "無い"
     ]
   },
   {
@@ -10655,10 +10068,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "足跡",
     "kana": "あしあと",
     "romaji": "ashiato",
-    "zh": "释义：footprints; record of page visitors (e.g. in social networking sites)",
+    "zh": "结合本句可理解为：残留的足迹 如今将某人的声音消散在清晨",
     "en": "footprints; record of page visitors (e.g. in social networking sites)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：footprints; record of page visitors (e.g. in social networking sites)。出自例句「足跡が今 誰かの声を消した朝」。",
+    "introZh": "词典释义：结合本句可理解为：残留的足迹 如今将某人的声音消散在清晨。出自例句「足跡が今 誰かの声を消した朝」。",
     "introEn": "Meaning: footprints; record of page visitors (e.g. in social networking sites). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "足跡が今 誰かの声を消した朝",
     "exampleZh": "残留的足迹 如今将某人的声音消散在清晨",
@@ -10669,20 +10082,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あしあと"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-67af-308c-308b-460",
     "japanese": "枯れる",
     "kana": "かれる",
     "romaji": "kareru",
-    "zh": "释义：to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.)",
+    "zh": "死亡；逝去",
     "en": "to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.)。出自例句「いつになっても 枯れることのない」。",
+    "introZh": "词典释义：死亡；逝去。出自例句「いつになっても 枯れることのない」。",
     "introEn": "Meaning: to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつになっても 枯れることのない",
     "exampleZh": "无论何时都不会枯萎",
@@ -10693,20 +10103,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かれる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8150-6557-461",
     "japanese": "腐敗",
     "kana": "ふはい",
     "romaji": "fuhai",
-    "zh": "释义：decomposition; putrefaction; putrescence; spoilage; corruption; degeneracy",
+    "zh": "结合本句可理解为：腐败的街道 泥水让人感到冰冷",
     "en": "decomposition; putrefaction; putrescence; spoilage; corruption; degeneracy",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：decomposition; putrefaction; putrescence; spoilage; corruption; degeneracy。出自例句「腐敗した街の 泥水が冷たい」。",
+    "introZh": "词典释义：结合本句可理解为：腐败的街道 泥水让人感到冰冷。出自例句「腐敗した街の 泥水が冷たい」。",
     "introEn": "Meaning: decomposition; putrefaction; putrescence; spoilage; corruption; degeneracy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "腐敗した街の 泥水が冷たい",
     "exampleZh": "腐败的街道 泥水让人感到冰冷",
@@ -10717,20 +10124,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふはい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8857-462",
     "japanese": "街",
     "kana": "まち",
     "romaji": "machi",
-    "zh": "释义：street; quarter; district; area",
+    "zh": "街道",
     "en": "street; quarter; district; area",
     "partOfSpeech": "名词 / noun; n-suf",
-    "introZh": "词典释义：street; quarter; district; area。出自例句「腐敗した街の 泥水が冷たい」。",
+    "introZh": "词典释义：街道。出自例句「腐敗した街の 泥水が冷たい」。",
     "introEn": "Meaning: street; quarter; district; area. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "腐敗した街の 泥水が冷たい",
     "exampleZh": "腐败的街道 泥水让人感到冰冷",
@@ -10741,10 +10145,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "まち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6ce5-6c34-463",
@@ -10765,20 +10166,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "どろみず"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-51b7-305f-3044-464",
     "japanese": "冷たい",
     "kana": "つめたい",
     "romaji": "tsumetai",
-    "zh": "释义：cold (to the touch); chilly; icy; freezing; (emotionally) cold; coldhearted",
+    "zh": "结合本句可理解为：腐败的街道 泥水让人感到冰冷",
     "en": "cold (to the touch); chilly; icy; freezing; (emotionally) cold; coldhearted",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：cold (to the touch); chilly; icy; freezing; (emotionally) cold; coldhearted。出自例句「腐敗した街の 泥水が冷たい」。",
+    "introZh": "词典释义：结合本句可理解为：腐败的街道 泥水让人感到冰冷。出自例句「腐敗した街の 泥水が冷たい」。",
     "introEn": "Meaning: cold (to the touch); chilly; icy; freezing; (emotionally) cold; coldhearted. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "腐敗した街の 泥水が冷たい",
     "exampleZh": "腐败的街道 泥水让人感到冰冷",
@@ -10789,20 +10187,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つめたい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304f-3060-3089-306a-3044-465",
     "japanese": "くだらない",
     "kana": "くだらない",
     "romaji": "kudaranai",
-    "zh": "释义：trivial; trifling; insignificant; not worth bothering with; worthless; useless",
+    "zh": "结合本句可理解为：虽然人生无趣 也毫无办法的吧",
     "en": "trivial; trifling; insignificant; not worth bothering with; worthless; useless",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：trivial; trifling; insignificant; not worth bothering with; worthless; useless。出自例句「くだらないけど 仕方ないでしょ」。",
+    "introZh": "词典释义：结合本句可理解为：虽然人生无趣 也毫无办法的吧。出自例句「くだらないけど 仕方ないでしょ」。",
     "introEn": "Meaning: trivial; trifling; insignificant; not worth bothering with; worthless; useless. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "くだらないけど 仕方ないでしょ",
     "exampleZh": "虽然人生无趣 也毫无办法的吧",
@@ -10820,10 +10215,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "歩き",
     "kana": "あるき",
     "romaji": "aruki",
-    "zh": "释义：to walk",
+    "zh": "结合本句可理解为：我们已经踏上此途",
     "en": "to walk",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to walk。出自例句「僕らはもう 歩き始めたんだ」。",
+    "introZh": "词典释义：结合本句可理解为：我们已经踏上此途。出自例句「僕らはもう 歩き始めたんだ」。",
     "introEn": "Meaning: to walk. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らはもう 歩き始めたんだ",
     "exampleZh": "我们已经踏上此途",
@@ -10836,8 +10231,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "歩く",
-      "あるき"
+      "歩く"
     ]
   },
   {
@@ -10845,11 +10239,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "始め",
     "kana": "はじめ",
     "romaji": "hajime",
-    "zh": "释义：beginning; start; outset; opening; first (in line, etc.); origin",
-    "en": "beginning; start; outset; opening; first (in line, etc.); origin",
-    "partOfSpeech": "动词 / verb; noun · adverb",
-    "introZh": "词典释义：beginning; start; outset; opening; first (in line, etc.); origin。出自例句「僕らはもう 歩き始めたんだ」。",
-    "introEn": "Meaning: beginning; start; outset; opening; first (in line, etc.); origin. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我们已经踏上此途",
+    "en": "to start; to begin; to commence; to initiate; to originate; to start up (a business, society, etc.)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：我们已经踏上此途。出自例句「僕らはもう 歩き始めたんだ」。",
+    "introEn": "Meaning: to start; to begin; to commence; to initiate; to originate; to start up (a business, society, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕らはもう 歩き始めたんだ",
     "exampleZh": "我们已经踏上此途",
     "exampleEn": "Example line from \"雑踏、僕らの街\" by トゲナシトゲアリ.",
@@ -10861,8 +10255,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "始める",
-      "はじめ"
+      "始める"
     ]
   },
   {
@@ -10870,10 +10263,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "馬鹿",
     "kana": "ばか",
     "romaji": "baka",
-    "zh": "释义：idiot; moron; fool; stupid; foolish; dull",
+    "zh": "结合本句可理解为：像极了深信谎言的傻瓜",
     "en": "idiot; moron; fool; stupid; foolish; dull",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：idiot; moron; fool; stupid; foolish; dull。出自例句「嘘みたいな 馬鹿みたいな」。",
+    "introZh": "词典释义：结合本句可理解为：像极了深信谎言的傻瓜。出自例句「嘘みたいな 馬鹿みたいな」。",
     "introEn": "Meaning: idiot; moron; fool; stupid; foolish; dull. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "嘘みたいな 馬鹿みたいな",
     "exampleZh": "像极了深信谎言的傻瓜",
@@ -10884,20 +10277,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ばか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3057-3088-3046-469",
     "japanese": "しよう",
     "kana": "しよう",
     "romaji": "shiyou",
-    "zh": "释义：way; method; means; resource; remedy; (technical) specification",
+    "zh": "结合本句可理解为：我们这座城市早已无可救药",
     "en": "way; method; means; resource; remedy; (technical) specification",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：way; method; means; resource; remedy; (technical) specification。出自例句「どうしようもない僕らの街」。",
+    "introZh": "词典释义：结合本句可理解为：我们这座城市早已无可救药。出自例句「どうしようもない僕らの街」。",
     "introEn": "Meaning: way; method; means; resource; remedy; (technical) specification. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうしようもない僕らの街",
     "exampleZh": "我们这座城市早已无可救药",
@@ -10915,10 +10305,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "眼",
     "kana": "め",
     "romaji": "me",
-    "zh": "释义：eye; eyeball; pupil and (dark) iris of the eye; insight; perceptivity; power of observation",
+    "zh": "结合本句可理解为：即便如此 我仍试着去亲眼见证",
     "en": "eye; eyeball; pupil and (dark) iris of the eye; insight; perceptivity; power of observation",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：eye; eyeball; pupil and (dark) iris of the eye; insight; perceptivity; power of observation。出自例句「それでも この眼で確かに見えたんだ」。",
+    "introZh": "词典释义：结合本句可理解为：即便如此 我仍试着去亲眼见证。出自例句「それでも この眼で確かに見えたんだ」。",
     "introEn": "Meaning: eye; eyeball; pupil and (dark) iris of the eye; insight; perceptivity; power of observation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "それでも この眼で確かに見えたんだ",
     "exampleZh": "即便如此 我仍试着去亲眼见证",
@@ -10929,20 +10319,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "め"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-78ba-304b-471",
     "japanese": "確か",
     "kana": "たしか",
     "romaji": "tashika",
-    "zh": "释义：sure; certain; positive; definite; reliable; trustworthy",
+    "zh": "结合本句可理解为：即便如此 我仍试着去亲眼见证",
     "en": "sure; certain; positive; definite; reliable; trustworthy",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：sure; certain; positive; definite; reliable; trustworthy。出自例句「それでも この眼で確かに見えたんだ」。",
+    "introZh": "词典释义：结合本句可理解为：即便如此 我仍试着去亲眼见证。出自例句「それでも この眼で確かに見えたんだ」。",
     "introEn": "Meaning: sure; certain; positive; definite; reliable; trustworthy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "それでも この眼で確かに見えたんだ",
     "exampleZh": "即便如此 我仍试着去亲眼见证",
@@ -10953,10 +10340,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たしか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306d-3048-472",
@@ -10984,10 +10368,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ほら",
     "kana": "ほら",
     "romaji": "hora",
-    "zh": "释义：look!; see!; here!; there!; hey!",
+    "zh": "看！；看这里；这边；那里；看那边；喂；嘿",
     "en": "look!; see!; here!; there!; hey!",
     "partOfSpeech": "感叹词 / interjection",
-    "introZh": "词典释义：look!; see!; here!; there!; hey!。出自例句「この手で確かに触れたんだ ねえ ほら ほら」。",
+    "introZh": "词典释义：看！；看这里；这边；那里；看那边；喂；嘿。出自例句「この手で確かに触れたんだ ねえ ほら ほら」。",
     "introEn": "Meaning: look!; see!; here!; there!; hey!. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この手で確かに触れたんだ ねえ ほら ほら",
     "exampleZh": "用这双手去亲手触碰 呐啊 看啊 看啊",
@@ -11005,11 +10389,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "照ら",
     "kana": "てら",
     "romaji": "tera",
-    "zh": "释义：temple (Buddhist)",
-    "en": "temple (Buddhist)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：temple (Buddhist)。出自例句「どうしようもない闇を照らせ」。",
-    "introEn": "Meaning: temple (Buddhist). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：照亮那份无尽的黑暗",
+    "en": "to shine; to look slightly upward (of a noh mask; indicating joy, etc.)",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：照亮那份无尽的黑暗。出自例句「どうしようもない闇を照らせ」。",
+    "introEn": "Meaning: to shine; to look slightly upward (of a noh mask; indicating joy, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうしようもない闇を照らせ",
     "exampleZh": "照亮那份无尽的黑暗",
     "exampleEn": "Example line from \"雑踏、僕らの街\" by トゲナシトゲアリ.",
@@ -11021,8 +10405,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "照る",
-      "てら"
+      "照る"
     ]
   },
   {
@@ -11030,10 +10413,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "夢",
     "kana": "ゆめ",
     "romaji": "yume",
-    "zh": "释义：dream; hope; wish; aspiration; ambition",
+    "zh": "结合本句可理解为：这并非梦境 反正这座城市早已到了结局",
     "en": "dream; hope; wish; aspiration; ambition",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：dream; hope; wish; aspiration; ambition。出自例句「夢じゃない どうせ終わってる街だって」。",
+    "introZh": "词典释义：结合本句可理解为：这并非梦境 反正这座城市早已到了结局。出自例句「夢じゃない どうせ終わってる街だって」。",
     "introEn": "Meaning: dream; hope; wish; aspiration; ambition. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "夢じゃない どうせ終わってる街だって",
     "exampleZh": "这并非梦境 反正这座城市早已到了结局",
@@ -11044,20 +10427,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆめ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3069-3046-305b-476",
     "japanese": "どうせ",
     "kana": "どうせ",
     "romaji": "douse",
-    "zh": "释义：in any case; regardless; either way; after all; no matter what; anyway",
+    "zh": "结合本句可理解为：这并非梦境 反正这座城市早已到了结局",
     "en": "in any case; regardless; either way; after all; no matter what; anyway",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：in any case; regardless; either way; after all; no matter what; anyway。出自例句「夢じゃない どうせ終わってる街だって」。",
+    "introZh": "词典释义：结合本句可理解为：这并非梦境 反正这座城市早已到了结局。出自例句「夢じゃない どうせ終わってる街だって」。",
     "introEn": "Meaning: in any case; regardless; either way; after all; no matter what; anyway. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "夢じゃない どうせ終わってる街だって",
     "exampleZh": "这并非梦境 反正这座城市早已到了结局",
@@ -11075,10 +10455,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "変わん",
     "kana": "かわん",
     "romaji": "kawan",
-    "zh": "释义：to change; to be transformed; to be altered; to vary; to move to; to be different",
+    "zh": "改变；变化；变形；被改变；发生改变；不同；搬到；移动到",
     "en": "to change; to be transformed; to be altered; to vary; to move to; to be different",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to change; to be transformed; to be altered; to vary; to move to; to be different。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
+    "introZh": "词典释义：改变；变化；变形；被改变；发生改变；不同；搬到；移动到。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
     "introEn": "Meaning: to change; to be transformed; to be altered; to vary; to move to; to be different. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "諦めたって変わんないぜ ああ まだ まだ まだ",
     "exampleZh": "纵使放弃也无法改变 所以还没有 没有 结束",
@@ -11091,8 +10471,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "変わる",
-      "かわん"
+      "変わる"
     ]
   },
   {
@@ -11100,10 +10479,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ぜ",
     "kana": "ぜ",
     "romaji": "ze",
-    "zh": "释义：I can tell you; heh",
+    "zh": "结合本句可理解为：纵使放弃也无法改变 所以还没有 没有 结束",
     "en": "I can tell you; heh",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：I can tell you; heh。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
+    "introZh": "词典释义：结合本句可理解为：纵使放弃也无法改变 所以还没有 没有 结束。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
     "introEn": "Meaning: I can tell you; heh. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "諦めたって変わんないぜ ああ まだ まだ まだ",
     "exampleZh": "纵使放弃也无法改变 所以还没有 没有 结束",
@@ -11121,10 +10500,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "まだ",
     "kana": "まだ",
     "romaji": "mada",
-    "zh": "释义：still; as yet; only; (not) yet; more; (more) still",
+    "zh": "仍然；还是；只有；仅仅；还；然而",
     "en": "still; as yet; only; (not) yet; more; (more) still",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：still; as yet; only; (not) yet; more; (more) still。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
+    "introZh": "词典释义：仍然；还是；只有；仅仅；还；然而。出自例句「諦めたって変わんないぜ ああ まだ まだ まだ」。",
     "introEn": "Meaning: still; as yet; only; (not) yet; more; (more) still. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "諦めたって変わんないぜ ああ まだ まだ まだ",
     "exampleZh": "纵使放弃也无法改变 所以还没有 没有 结束",
@@ -11142,10 +10521,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "軽薄",
     "kana": "けいはく",
     "romaji": "keihaku",
-    "zh": "释义：frivolous; flippant; superficial; shallow; trifling; insincere",
+    "zh": "结合本句可理解为：还未传达给轻佻的你 就已凋零",
     "en": "frivolous; flippant; superficial; shallow; trifling; insincere",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：frivolous; flippant; superficial; shallow; trifling; insincere。出自例句「軽薄な君に 届くことなく散ってゆく」。",
+    "introZh": "词典释义：结合本句可理解为：还未传达给轻佻的你 就已凋零。出自例句「軽薄な君に 届くことなく散ってゆく」。",
     "introEn": "Meaning: frivolous; flippant; superficial; shallow; trifling; insincere. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "軽薄な君に 届くことなく散ってゆく",
     "exampleZh": "还未传达给轻佻的你 就已凋零",
@@ -11156,20 +10535,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "けいはく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5c4a-304f-481",
     "japanese": "届く",
     "kana": "とどく",
     "romaji": "todoku",
-    "zh": "释义：to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive",
+    "zh": "到达；达到；抵达",
     "en": "to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive。出自例句「軽薄な君に 届くことなく散ってゆく」。",
+    "introZh": "词典释义：到达；达到；抵达。出自例句「軽薄な君に 届くことなく散ってゆく」。",
     "introEn": "Meaning: to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "軽薄な君に 届くことなく散ってゆく",
     "exampleZh": "还未传达给轻佻的你 就已凋零",
@@ -11180,20 +10556,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とどく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6563-3063-482",
     "japanese": "散っ",
     "kana": "ちっ",
     "romaji": "chi",
-    "zh": "释义：to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up",
+    "zh": "结合本句可理解为：还未传达给轻佻的你 就已凋零",
     "en": "to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up。出自例句「軽薄な君に 届くことなく散ってゆく」。",
+    "introZh": "词典释义：结合本句可理解为：还未传达给轻佻的你 就已凋零。出自例句「軽薄な君に 届くことなく散ってゆく」。",
     "introEn": "Meaning: to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "軽薄な君に 届くことなく散ってゆく",
     "exampleZh": "还未传达给轻佻的你 就已凋零",
@@ -11206,8 +10579,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "散る",
-      "ちっ"
+      "散る"
     ]
   },
   {
@@ -11215,10 +10587,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "通り",
     "kana": "どおり",
     "romaji": "doori",
-    "zh": "释义：in accordance with; following; roughly; about; Street; Avenue",
+    "zh": "大约；关于；街道",
     "en": "in accordance with; following; roughly; about; Street; Avenue",
     "partOfSpeech": "名词 / noun; n-suf",
-    "introZh": "词典释义：in accordance with; following; roughly; about; Street; Avenue。出自例句「想像通り？ そんなはずはない」。",
+    "introZh": "词典释义：大约；关于；街道。出自例句「想像通り？ そんなはずはない」。",
     "introEn": "Meaning: in accordance with; following; roughly; about; Street; Avenue. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "想像通り？ そんなはずはない",
     "exampleZh": "和想象中一致？那怎么可能",
@@ -11230,9 +10602,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
-    "forms": [
-      "どおり"
-    ],
     "readingOptions": [
       "どおり",
       "とおり"
@@ -11247,10 +10616,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "逃げりゃ",
     "kana": "にげりゃ",
     "romaji": "nigerya",
-    "zh": "释义：to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse)",
+    "zh": "逃脱；逃避",
     "en": "to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse)。出自例句「逃げりゃいいでしょ？ 簡単に言わないで」。",
+    "introZh": "词典释义：逃脱；逃避。出自例句「逃げりゃいいでしょ？ 簡単に言わないで」。",
     "introEn": "Meaning: to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "逃げりゃいいでしょ？ 簡単に言わないで",
     "exampleZh": "逃避不就行了吗？不要说得那么简单啊",
@@ -11263,8 +10632,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "逃げる",
-      "にげりゃ"
+      "逃げる"
     ]
   },
   {
@@ -11272,10 +10640,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "通り",
     "kana": "とおり",
     "romaji": "toori",
-    "zh": "释义：street; road; avenue; thoroughfare; traffic; coming and going",
+    "zh": "街道；道路",
     "en": "street; road; avenue; thoroughfare; traffic; coming and going",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：street; road; avenue; thoroughfare; traffic; coming and going。出自例句「いつも通りの世界を」。",
+    "introZh": "词典释义：街道；道路。出自例句「いつも通りの世界を」。",
     "introEn": "Meaning: street; road; avenue; thoroughfare; traffic; coming and going. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつも通りの世界を",
     "exampleZh": "和往常相同的世界",
@@ -11287,9 +10655,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
-    "forms": [
-      "とおり"
-    ],
     "readingOptions": [
       "どおり",
       "とおり"
@@ -11304,11 +10669,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "駆け",
     "kana": "かけ",
     "romaji": "kake",
-    "zh": "释义：credit; money owed on an account; bill; hanger; holder; rest",
-    "en": "credit; money owed on an account; bill; hanger; holder; rest",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：credit; money owed on an account; bill; hanger; holder; rest。出自例句「今日だって駆けてゆくんだ」。",
-    "introEn": "Meaning: credit; money owed on an account; bill; hanger; holder; rest. Dictionary data: local Kotobako/JMdict.",
+    "zh": "前进；进展",
+    "en": "to run; to dash; to race; to gallop (on horseback); to canter; to advance (against one's enemy)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：前进；进展。出自例句「今日だって駆けてゆくんだ」。",
+    "introEn": "Meaning: to run; to dash; to race; to gallop (on horseback); to canter; to advance (against one's enemy). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今日だって駆けてゆくんだ",
     "exampleZh": "今天我也要继续追逐",
     "exampleEn": "Example line from \"雑踏、僕らの街\" by トゲナシトゲアリ.",
@@ -11320,8 +10685,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "駆ける",
-      "かけ"
+      "駆ける"
     ]
   },
   {
@@ -11345,8 +10709,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "滑り落ちる",
-      "すべりおち"
+      "滑り落ちる"
     ]
   },
   {
@@ -11354,10 +10717,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やろ",
     "kana": "やろ",
     "romaji": "yaro",
-    "zh": "释义：to do; to undertake; to perform; to play (a game); to study; to send",
+    "zh": "做；进行；表演",
     "en": "to do; to undertake; to perform; to play (a game); to study; to send",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to do; to undertake; to perform; to play (a game); to study; to send。出自例句「滑り落ちたら 掴んでやろう」。",
+    "introZh": "词典释义：做；进行；表演。出自例句「滑り落ちたら 掴んでやろう」。",
     "introEn": "Meaning: to do; to undertake; to perform; to play (a game); to study; to send. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "滑り落ちたら 掴んでやろう",
     "exampleZh": "若是途中滑落 那就去抓住",
@@ -11392,10 +10755,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "きらめく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3084-3051-306b-490",
@@ -11423,10 +10783,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "白い",
     "kana": "しろい",
     "romaji": "shiroi",
-    "zh": "释义：white; blank (e.g. paper); uncolored; unmarked; spotless; immaculate",
+    "zh": "结合本句可理解为：提交的试卷空白 可混乱思绪冗长",
     "en": "white; blank (e.g. paper); uncolored; unmarked; spotless; immaculate",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：white; blank (e.g. paper); uncolored; unmarked; spotless; immaculate。出自例句「やけに白いんだ やたら長いんだ」。",
+    "introZh": "词典释义：结合本句可理解为：提交的试卷空白 可混乱思绪冗长。出自例句「やけに白いんだ やたら長いんだ」。",
     "introEn": "Meaning: white; blank (e.g. paper); uncolored; unmarked; spotless; immaculate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やけに白いんだ やたら長いんだ",
     "exampleZh": "提交的试卷空白 可混乱思绪冗长",
@@ -11437,20 +10797,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しろい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3084-305f-3089-492",
     "japanese": "やたら",
     "kana": "やたら",
     "romaji": "yatara",
-    "zh": "释义：indiscriminately; blindly; at random; recklessly; thoughtlessly; excessively",
+    "zh": "结合本句可理解为：提交的试卷空白 可混乱思绪冗长",
     "en": "indiscriminately; blindly; at random; recklessly; thoughtlessly; excessively",
     "partOfSpeech": "副词 / adverb; adverb · adverb (to)",
-    "introZh": "词典释义：indiscriminately; blindly; at random; recklessly; thoughtlessly; excessively。出自例句「やけに白いんだ やたら長いんだ」。",
+    "introZh": "词典释义：结合本句可理解为：提交的试卷空白 可混乱思绪冗长。出自例句「やけに白いんだ やたら長いんだ」。",
     "introEn": "Meaning: indiscriminately; blindly; at random; recklessly; thoughtlessly; excessively. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "やけに白いんだ やたら長いんだ",
     "exampleZh": "提交的试卷空白 可混乱思绪冗长",
@@ -11468,10 +10825,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "コタエ",
     "kana": "こたえ",
     "romaji": "kotae",
-    "zh": "释义：answer; reply; response; solution; result",
+    "zh": "结果",
     "en": "answer; reply; response; solution; result",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：answer; reply; response; solution; result。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
+    "introZh": "词典释义：结果。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
     "introEn": "Meaning: answer; reply; response; solution; result. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "コタエはだいたいカタチばかりの常識だろう",
     "exampleZh": "所谓的答案 大概也只是形式上的常识罢了",
@@ -11482,20 +10839,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こたえ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3060-3044-305f-3044-494",
     "japanese": "だいたい",
     "kana": "だいたい",
     "romaji": "daitai",
-    "zh": "释义：generally; on the whole; mostly; almost; nearly; approximately",
+    "zh": "几乎；差不多；将近",
     "en": "generally; on the whole; mostly; almost; nearly; approximately",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：generally; on the whole; mostly; almost; nearly; approximately。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
+    "introZh": "词典释义：几乎；差不多；将近。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
     "introEn": "Meaning: generally; on the whole; mostly; almost; nearly; approximately. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "コタエはだいたいカタチばかりの常識だろう",
     "exampleZh": "所谓的答案 大概也只是形式上的常识罢了",
@@ -11513,10 +10867,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "カタチ",
     "kana": "かたち",
     "romaji": "katachi",
-    "zh": "释义：(physical) form; shape; figure; visage; (facial) features; appearance (of a person)",
+    "zh": "形状；样子；身影；面容；相貌",
     "en": "(physical) form; shape; figure; visage; (facial) features; appearance (of a person)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：(physical) form; shape; figure; visage; (facial) features; appearance (of a person)。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
+    "introZh": "词典释义：形状；样子；身影；面容；相貌。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
     "introEn": "Meaning: (physical) form; shape; figure; visage; (facial) features; appearance (of a person). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "コタエはだいたいカタチばかりの常識だろう",
     "exampleZh": "所谓的答案 大概也只是形式上的常识罢了",
@@ -11527,20 +10881,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かたち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5e38-8b58-496",
     "japanese": "常識",
     "kana": "じょうしき",
     "romaji": "joushiki",
-    "zh": "释义：common sense; good sense; common knowledge; general knowledge; common practice; accepted practice",
+    "zh": "结合本句可理解为：所谓的答案 大概也只是形式上的常识罢了",
     "en": "common sense; good sense; common knowledge; general knowledge; common practice; accepted practice",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：common sense; good sense; common knowledge; general knowledge; common practice; accepted practice。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
+    "introZh": "词典释义：结合本句可理解为：所谓的答案 大概也只是形式上的常识罢了。出自例句「コタエはだいたいカタチばかりの常識だろう」。",
     "introEn": "Meaning: common sense; good sense; common knowledge; general knowledge; common practice; accepted practice. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "コタエはだいたいカタチばかりの常識だろう",
     "exampleZh": "所谓的答案 大概也只是形式上的常识罢了",
@@ -11551,20 +10902,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "じょうしき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6307-5148-497",
     "japanese": "指先",
     "kana": "ゆびさき",
     "romaji": "yubisaki",
-    "zh": "释义：fingertip; finger; toe tip; toe",
+    "zh": "结合本句可理解为：纵使指尖颤抖",
     "en": "fingertip; finger; toe tip; toe",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：fingertip; finger; toe tip; toe。出自例句「指先が震えようとも」。",
+    "introZh": "词典释义：结合本句可理解为：纵使指尖颤抖。出自例句「指先が震えようとも」。",
     "introEn": "Meaning: fingertip; finger; toe tip; toe. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "指先が震えようとも",
     "exampleZh": "纵使指尖颤抖",
@@ -11575,10 +10923,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆびさき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e09-53c9-8def-498",
@@ -11599,20 +10944,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "さんさろ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3076-3064-304b-3063-499",
     "japanese": "ぶつかっ",
     "kana": "ぶつかっ",
     "romaji": "butsuka",
-    "zh": "释义：to bump into; to run into; to collide with; to hit; to strike; to encounter",
+    "zh": "打；击中",
     "en": "to bump into; to run into; to collide with; to hit; to strike; to encounter",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to bump into; to run into; to collide with; to hit; to strike; to encounter。出自例句「ぶつかっているのですが」。",
+    "introZh": "词典释义：打；击中。出自例句「ぶつかっているのですが」。",
     "introEn": "Meaning: to bump into; to run into; to collide with; to hit; to strike; to encounter. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぶつかっているのですが",
     "exampleZh": "我们会相互邂逅吗",
@@ -11633,11 +10975,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "です",
     "kana": "です",
     "romaji": "desu",
-    "zh": "释义：be; is",
-    "en": "be; is",
-    "partOfSpeech": "助动词 / auxiliary; cop · auxiliary verb",
-    "introZh": "词典释义：be; is。出自例句「ぶつかっているのですが」。",
-    "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
+    "zh": "礼貌断定助动词，相当于“是”。",
+    "en": "Polite copula, similar to is/am/are.",
+    "partOfSpeech": "助动词 / auxiliary",
+    "introZh": "语法说明：礼貌断定助动词，相当于“是”。 出自例句「ぶつかっているのですが」。",
+    "introEn": "Polite copula, similar to is/am/are. Example line: \"ぶつかっているのですが\".",
     "exampleJp": "ぶつかっているのですが",
     "exampleZh": "我们会相互邂逅吗",
     "exampleEn": "Example line from \"空の箱 (井芹仁菜、河原木桃香)\" by トゲナシトゲアリ.",
@@ -11647,18 +10989,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-9032-3081-501",
     "japanese": "進め",
     "kana": "すすめ",
     "romaji": "susume",
-    "zh": "释义：recommendation; advice; suggestion; encouragement",
-    "en": "recommendation; advice; suggestion; encouragement",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：recommendation; advice; suggestion; encouragement。出自例句「何を頼りに進めばいいのでしょうか」。",
-    "introEn": "Meaning: recommendation; advice; suggestion; encouragement. Dictionary data: local Kotobako/JMdict.",
+    "zh": "前进；进展",
+    "en": "to advance; to go forward; to precede; to go ahead (of); to make progress; to improve",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：前进；进展。出自例句「何を頼りに進めばいいのでしょうか」。",
+    "introEn": "Meaning: to advance; to go forward; to precede; to go ahead (of); to make progress; to improve. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何を頼りに進めばいいのでしょうか",
     "exampleZh": "我们该依靠什么前行才好呢",
     "exampleEn": "Example line from \"空の箱 (井芹仁菜、河原木桃香)\" by トゲナシトゲアリ.",
@@ -11670,8 +11012,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "進む",
-      "すすめ"
+      "進む"
     ]
   },
   {
@@ -11679,10 +11020,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "よく",
     "kana": "よく",
     "romaji": "yoku",
-    "zh": "释义：nicely; properly; well; skillfully; skilfully; frequently",
+    "zh": "结合本句可理解为：老师常言教科书上的才是正确答案",
     "en": "nicely; properly; well; skillfully; skilfully; frequently",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：nicely; properly; well; skillfully; skilfully; frequently。出自例句「教科書通りとはよく言ったもので」。",
+    "introZh": "词典释义：结合本句可理解为：老师常言教科书上的才是正确答案。出自例句「教科書通りとはよく言ったもので」。",
     "introEn": "Meaning: nicely; properly; well; skillfully; skilfully; frequently. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "教科書通りとはよく言ったもので",
     "exampleZh": "老师常言教科书上的才是正确答案",
@@ -11700,10 +11041,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "だらけ",
     "kana": "だらけ",
     "romaji": "darake",
-    "zh": "释义：full of (e.g. mistakes); riddled with; covered all over with (blood, mud, etc.)",
+    "zh": "结合本句可理解为：可上面皆是难懂的话语",
     "en": "full of (e.g. mistakes); riddled with; covered all over with (blood, mud, etc.)",
     "partOfSpeech": "名词 / noun; n-suf",
-    "introZh": "词典释义：full of (e.g. mistakes); riddled with; covered all over with (blood, mud, etc.)。出自例句「難しい言葉だらけ」。",
+    "introZh": "词典释义：结合本句可理解为：可上面皆是难懂的话语。出自例句「難しい言葉だらけ」。",
     "introEn": "Meaning: full of (e.g. mistakes); riddled with; covered all over with (blood, mud, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "難しい言葉だらけ",
     "exampleZh": "可上面皆是难懂的话语",
@@ -11721,11 +11062,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "こん",
     "kana": "こん",
     "romaji": "kon",
-    "zh": "释义：navy blue; deep blue",
-    "en": "navy blue; deep blue",
-    "partOfSpeech": "动词 / verb; noun · no-adjective",
-    "introZh": "词典释义：navy blue; deep blue。出自例句「今日(こんにち)あの頃から少しも変わらない」。",
-    "introEn": "Meaning: navy blue; deep blue. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我们从过去至此都毫无改变",
+    "en": "computer output microfilm system; COM",
+    "partOfSpeech": "动词 / verb; noun",
+    "introZh": "词典释义：结合本句可理解为：我们从过去至此都毫无改变。出自例句「今日(こんにち)あの頃から少しも変わらない」。",
+    "introEn": "Meaning: computer output microfilm system; COM. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今日(こんにち)あの頃から少しも変わらない",
     "exampleZh": "我们从过去至此都毫无改变",
     "exampleEn": "Example line from \"空の箱 (井芹仁菜、河原木桃香)\" by トゲナシトゲアリ.",
@@ -11745,11 +11086,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ち",
     "kana": "ち",
     "romaji": "chi",
-    "zh": "释义：blood; ancestry; lineage; stock; (the) blood",
-    "en": "blood; ancestry; lineage; stock; (the) blood",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：blood; ancestry; lineage; stock; (the) blood。出自例句「今日(こんにち)あの頃から少しも変わらない」。",
-    "introEn": "Meaning: blood; ancestry; lineage; stock; (the) blood. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我们从过去至此都毫无改变",
+    "en": "to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：我们从过去至此都毫无改变。出自例句「今日(こんにち)あの頃から少しも変わらない」。",
+    "introEn": "Meaning: to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今日(こんにち)あの頃から少しも変わらない",
     "exampleZh": "我们从过去至此都毫无改变",
     "exampleEn": "Example line from \"空の箱 (井芹仁菜、河原木桃香)\" by トゲナシトゲアリ.",
@@ -11769,10 +11110,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "空欄",
     "kana": "くうらん",
     "romaji": "kuuran",
-    "zh": "释义：blank column; blank space",
+    "zh": "结合本句可理解为：将这空格填上的话 之后就能解开吗",
     "en": "blank column; blank space",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：blank column; blank space。出自例句「この空欄を埋めれば解けますか いつの日か」。",
+    "introZh": "词典释义：结合本句可理解为：将这空格填上的话 之后就能解开吗。出自例句「この空欄を埋めれば解けますか いつの日か」。",
     "introEn": "Meaning: blank column; blank space. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この空欄を埋めれば解けますか いつの日か",
     "exampleZh": "将这空格填上的话 之后就能解开吗",
@@ -11783,20 +11124,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くうらん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-57cb-3081-308c-507",
     "japanese": "埋めれ",
     "kana": "うめれ",
     "romaji": "umere",
-    "zh": "释义：to cover; to bury (e.g. one's face in hands); to submerge; to fill (completely); to stuff; to pack",
+    "zh": "结合本句可理解为：将这空格填上的话 之后就能解开吗",
     "en": "to cover; to bury (e.g. one's face in hands); to submerge; to fill (completely); to stuff; to pack",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to cover; to bury (e.g. one's face in hands); to submerge; to fill (completely); to stuff; to pack。出自例句「この空欄を埋めれば解けますか いつの日か」。",
+    "introZh": "词典释义：结合本句可理解为：将这空格填上的话 之后就能解开吗。出自例句「この空欄を埋めれば解けますか いつの日か」。",
     "introEn": "Meaning: to cover; to bury (e.g. one's face in hands); to submerge; to fill (completely); to stuff; to pack. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この空欄を埋めれば解けますか いつの日か",
     "exampleZh": "将这空格填上的话 之后就能解开吗",
@@ -11809,8 +11147,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "埋める",
-      "うめれ"
+      "埋める"
     ]
   },
   {
@@ -11818,10 +11155,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "解け",
     "kana": "とけ",
     "romaji": "toke",
-    "zh": "释义：to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)",
+    "zh": "结合本句可理解为：将这空格填上的话 之后就能解开吗",
     "en": "to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)。出自例句「この空欄を埋めれば解けますか いつの日か」。",
+    "introZh": "词典释义：结合本句可理解为：将这空格填上的话 之后就能解开吗。出自例句「この空欄を埋めれば解けますか いつの日か」。",
     "introEn": "Meaning: to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この空欄を埋めれば解けますか いつの日か",
     "exampleZh": "将这空格填上的话 之后就能解开吗",
@@ -11834,8 +11171,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "解ける",
-      "とけ"
+      "解ける"
     ]
   },
   {
@@ -11843,10 +11179,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やっ",
     "kana": "やっ",
     "romaji": "ya",
-    "zh": "释义：to do; to undertake; to perform; to play (a game); to study; to send",
+    "zh": "做；进行；表演",
     "en": "to do; to undertake; to perform; to play (a game); to study; to send",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to do; to undertake; to perform; to play (a game); to study; to send。出自例句「あなたならどうやって先へと進みますか」。",
+    "introZh": "词典释义：做；进行；表演。出自例句「あなたならどうやって先へと進みますか」。",
     "introEn": "Meaning: to do; to undertake; to perform; to play (a game); to study; to send. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あなたならどうやって先へと進みますか",
     "exampleZh": "你会做何抉择 是要继续前行吗",
@@ -11867,10 +11203,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "無い",
     "kana": "ない",
     "romaji": "nai",
-    "zh": "释义：nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
     "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：nonexistent; not being (there); unowned; not had; unpossessed; unique。出自例句「正解は無いんだ 負けなんて無いんだ」。",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「正解は無いんだ 負けなんて無いんだ」。",
     "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "正解は無いんだ 負けなんて無いんだ",
     "exampleZh": "人生没有正确答案 所以没有什么败北",
@@ -11881,20 +11217,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ない"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-305f-3057-511",
     "japanese": "あたし",
     "kana": "あたし",
     "romaji": "atashi",
-    "zh": "释义：I; me",
+    "zh": "我",
     "en": "I; me",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：I; me。出自例句「あたしは生涯 あたしであってそれだけだろう」。",
+    "introZh": "词典释义：我。出自例句「あたしは生涯 あたしであってそれだけだろう」。",
     "introEn": "Meaning: I; me. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あたしは生涯 あたしであってそれだけだろう",
     "exampleZh": "我今生今世都依旧是我 仅此而已啊",
@@ -11912,10 +11245,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "生涯",
     "kana": "しょうがい",
     "romaji": "shougai",
-    "zh": "释义：life; lifetime; career; for life; all one's life; throughout one's life",
+    "zh": "结合本句可理解为：我今生今世都依旧是我 仅此而已啊",
     "en": "life; lifetime; career; for life; all one's life; throughout one's life",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：life; lifetime; career; for life; all one's life; throughout one's life。出自例句「あたしは生涯 あたしであってそれだけだろう」。",
+    "introZh": "词典释义：结合本句可理解为：我今生今世都依旧是我 仅此而已啊。出自例句「あたしは生涯 あたしであってそれだけだろう」。",
     "introEn": "Meaning: life; lifetime; career; for life; all one's life; throughout one's life. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あたしは生涯 あたしであってそれだけだろう",
     "exampleZh": "我今生今世都依旧是我 仅此而已啊",
@@ -11926,10 +11259,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しょうがい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304b-304d-4e71-3057-513",
@@ -11952,8 +11282,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "かき乱す",
-      "かきみだし"
+      "かき乱す"
     ]
   },
   {
@@ -11961,10 +11290,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "役立た",
     "kana": "やくだた",
     "romaji": "yakudata",
-    "zh": "释义：to be useful; to be helpful; to serve the purpose",
+    "zh": "结合本句可理解为：因为这张没用的地图",
     "en": "to be useful; to be helpful; to serve the purpose",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be useful; to be helpful; to serve the purpose。出自例句「役立たない地図の所為にして今」。",
+    "introZh": "词典释义：结合本句可理解为：因为这张没用的地图。出自例句「役立たない地図の所為にして今」。",
     "introEn": "Meaning: to be useful; to be helpful; to serve the purpose. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "役立たない地図の所為にして今",
     "exampleZh": "因为这张没用的地图",
@@ -11977,8 +11306,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "役立つ",
-      "やくだた"
+      "役立つ"
     ]
   },
   {
@@ -11986,10 +11314,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "所為",
     "kana": "しょい",
     "romaji": "shoi",
-    "zh": "释义：cause; reason; fault",
+    "zh": "结合本句可理解为：因为这张没用的地图",
     "en": "cause; reason; fault",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：cause; reason; fault。出自例句「役立たない地図の所為にして今」。",
+    "introZh": "词典释义：结合本句可理解为：因为这张没用的地图。出自例句「役立たない地図の所為にして今」。",
     "introEn": "Meaning: cause; reason; fault. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "役立たない地図の所為にして今",
     "exampleZh": "因为这张没用的地图",
@@ -12000,10 +11328,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しょい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5f37-304c-3063-516",
@@ -12026,8 +11351,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "強がる",
-      "つよがっ"
+      "強がる"
     ]
   },
   {
@@ -12035,10 +11359,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "として",
     "kana": "として",
     "romaji": "toshite",
-    "zh": "释义：as (i.e. in the role of); for (i.e. from the viewpoint of); apart from ... (used to change the topic); even (e.g. \"not even a single person\"); thinking that ...; trying to ...",
+    "zh": "甚至；即使",
     "en": "as (i.e. in the role of); for (i.e. from the viewpoint of); apart from ... (used to change the topic); even (e.g. \"not even a single person\"); thinking that ...; trying to ...",
     "partOfSpeech": "助词 / particle; expression",
-    "introZh": "词典释义：as (i.e. in the role of); for (i.e. from the viewpoint of); apart from ... (used to change the topic); even (e.g. \"not even a single person\"); thinking that ...; trying to ...。出自例句「強がったとして結果はおそらく同じ」。",
+    "introZh": "词典释义：甚至；即使。出自例句「強がったとして結果はおそらく同じ」。",
     "introEn": "Meaning: as (i.e. in the role of); for (i.e. from the viewpoint of); apart from ... (used to change the topic); even (e.g. \"not even a single person\"); thinking that ...; trying to .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "強がったとして結果はおそらく同じ",
     "exampleZh": "逞强的结果也许还是相同的",
@@ -12056,10 +11380,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "おそらく",
     "kana": "おそらく",
     "romaji": "osoraku",
-    "zh": "释义：probably; (most) likely; in all likelihood; I suspect; I dare say; I'm afraid",
+    "zh": "结合本句可理解为：逞强的结果也许还是相同的",
     "en": "probably; (most) likely; in all likelihood; I suspect; I dare say; I'm afraid",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：probably; (most) likely; in all likelihood; I suspect; I dare say; I'm afraid。出自例句「強がったとして結果はおそらく同じ」。",
+    "introZh": "词典释义：结合本句可理解为：逞强的结果也许还是相同的。出自例句「強がったとして結果はおそらく同じ」。",
     "introEn": "Meaning: probably; (most) likely; in all likelihood; I suspect; I dare say; I'm afraid. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "強がったとして結果はおそらく同じ",
     "exampleZh": "逞强的结果也许还是相同的",
@@ -12077,10 +11401,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "同じ",
     "kana": "おなじ",
     "romaji": "onaji",
-    "zh": "释义：same; identical; equal; alike; equivalent; anyway",
+    "zh": "结合本句可理解为：逞强的结果也许还是相同的",
     "en": "same; identical; equal; alike; equivalent; anyway",
     "partOfSpeech": "连体词 / adnominal; adj-f · na-adjective",
-    "introZh": "词典释义：same; identical; equal; alike; equivalent; anyway。出自例句「強がったとして結果はおそらく同じ」。",
+    "introZh": "词典释义：结合本句可理解为：逞强的结果也许还是相同的。出自例句「強がったとして結果はおそらく同じ」。",
     "introEn": "Meaning: same; identical; equal; alike; equivalent; anyway. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "強がったとして結果はおそらく同じ",
     "exampleZh": "逞强的结果也许还是相同的",
@@ -12091,20 +11415,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おなじ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3060-3057-520",
     "japanese": "だし",
     "kana": "だし",
     "romaji": "dashi",
-    "zh": "释义：dashi; Japanese soup stock made from fish and kelp; pretext; excuse; pretense (pretence); dupe",
+    "zh": "结合本句可理解为：将自己的空箱塞得满溢",
     "en": "dashi; Japanese soup stock made from fish and kelp; pretext; excuse; pretense (pretence); dupe",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：dashi; Japanese soup stock made from fish and kelp; pretext; excuse; pretense (pretence); dupe。出自例句「溢れだしそうなほど詰め込んだ」。",
+    "introZh": "词典释义：结合本句可理解为：将自己的空箱塞得满溢。出自例句「溢れだしそうなほど詰め込んだ」。",
     "introEn": "Meaning: dashi; Japanese soup stock made from fish and kelp; pretext; excuse; pretense (pretence); dupe. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "溢れだしそうなほど詰め込んだ",
     "exampleZh": "将自己的空箱塞得满溢",
@@ -12125,10 +11446,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "詰め込ん",
     "kana": "つめこん",
     "romaji": "tsumekon",
-    "zh": "释义：to cram; to stuff; to jam; to squeeze; to pack; to crowd",
+    "zh": "结合本句可理解为：将自己的空箱塞得满溢",
     "en": "to cram; to stuff; to jam; to squeeze; to pack; to crowd",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to cram; to stuff; to jam; to squeeze; to pack; to crowd。出自例句「溢れだしそうなほど詰め込んだ」。",
+    "introZh": "词典释义：结合本句可理解为：将自己的空箱塞得满溢。出自例句「溢れだしそうなほど詰め込んだ」。",
     "introEn": "Meaning: to cram; to stuff; to jam; to squeeze; to pack; to crowd. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "溢れだしそうなほど詰め込んだ",
     "exampleZh": "将自己的空箱塞得满溢",
@@ -12141,8 +11462,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "詰め込む",
-      "つめこん"
+      "詰め込む"
     ]
   },
   {
@@ -12150,10 +11470,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "他人",
     "kana": "たにん",
     "romaji": "tanin",
-    "zh": "释义：another person; other people; others; unrelated person (i.e. not related by blood); outsider; stranger",
+    "zh": "结合本句可理解为：却侧视羡慕他人的箱子",
     "en": "another person; other people; others; unrelated person (i.e. not related by blood); outsider; stranger",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：another person; other people; others; unrelated person (i.e. not related by blood); outsider; stranger。出自例句「他人の箱を横目に」。",
+    "introZh": "词典释义：结合本句可理解为：却侧视羡慕他人的箱子。出自例句「他人の箱を横目に」。",
     "introEn": "Meaning: another person; other people; others; unrelated person (i.e. not related by blood); outsider; stranger. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "他人の箱を横目に",
     "exampleZh": "却侧视羡慕他人的箱子",
@@ -12164,20 +11484,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たにん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6a2a-76ee-523",
     "japanese": "横目",
     "kana": "よこめ",
     "romaji": "yokome",
-    "zh": "释义：sidelong glance; short grain (paper); kanji \"net\" radical at top",
+    "zh": "结合本句可理解为：却侧视羡慕他人的箱子",
     "en": "sidelong glance; short grain (paper); kanji \"net\" radical at top",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：sidelong glance; short grain (paper); kanji \"net\" radical at top。出自例句「他人の箱を横目に」。",
+    "introZh": "词典释义：结合本句可理解为：却侧视羡慕他人的箱子。出自例句「他人の箱を横目に」。",
     "introEn": "Meaning: sidelong glance; short grain (paper); kanji \"net\" radical at top. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "他人の箱を横目に",
     "exampleZh": "却侧视羡慕他人的箱子",
@@ -12188,20 +11505,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "よこめ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-611b-60f3-524",
     "japanese": "愛想",
     "kana": "あいそ",
     "romaji": "aiso",
-    "zh": "释义：amiability; friendliness; affability; sociability; fondness (of someone); affection",
+    "zh": "结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来",
     "en": "amiability; friendliness; affability; sociability; fondness (of someone); affection",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：amiability; friendliness; affability; sociability; fondness (of someone); affection。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
+    "introZh": "词典释义：结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
     "introEn": "Meaning: amiability; friendliness; affability; sociability; fondness (of someone); affection. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "下手な愛想笑いすら やっぱり出来てない",
     "exampleZh": "就连蹩脚的客套笑容 果然都做不出来",
@@ -12212,20 +11526,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あいそ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3059-3089-525",
     "japanese": "すら",
     "kana": "すら",
     "romaji": "sura",
-    "zh": "释义：even",
+    "zh": "甚至；即使",
     "en": "even",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：even。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
+    "introZh": "词典释义：甚至；即使。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
     "introEn": "Meaning: even. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "下手な愛想笑いすら やっぱり出来てない",
     "exampleZh": "就连蹩脚的客套笑容 果然都做不出来",
@@ -12243,10 +11554,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "やっぱり",
     "kana": "やっぱり",
     "romaji": "yappari",
-    "zh": "释义：as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect",
+    "zh": "结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来",
     "en": "as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
+    "introZh": "词典释义：结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
     "introEn": "Meaning: as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "下手な愛想笑いすら やっぱり出来てない",
     "exampleZh": "就连蹩脚的客套笑容 果然都做不出来",
@@ -12264,11 +11575,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "出来",
     "kana": "でき",
     "romaji": "deki",
-    "zh": "释义：workmanship; craftsmanship; execution; finish; grades; results",
-    "en": "workmanship; craftsmanship; execution; finish; grades; results",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：workmanship; craftsmanship; execution; finish; grades; results。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
-    "introEn": "Meaning: workmanship; craftsmanship; execution; finish; grades; results. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来",
+    "en": "to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：就连蹩脚的客套笑容 果然都做不出来。出自例句「下手な愛想笑いすら やっぱり出来てない」。",
+    "introEn": "Meaning: to be able to do; to be possible; to be permitted (to do); to be good at; to do well; to be proficient (in). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "下手な愛想笑いすら やっぱり出来てない",
     "exampleZh": "就连蹩脚的客套笑容 果然都做不出来",
     "exampleEn": "Example line from \"空の箱 (井芹仁菜、河原木桃香)\" by トゲナシトゲアリ.",
@@ -12280,8 +11591,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "出来る",
-      "でき"
+      "出来る"
     ]
   },
   {
@@ -12289,10 +11599,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "こんな",
     "kana": "こんな",
     "romaji": "konna",
-    "zh": "释义：this sort of; this kind of; like this; such",
+    "zh": "这样的",
     "en": "this sort of; this kind of; like this; such",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：this sort of; this kind of; like this; such。出自例句「こんな空欄さえなければ あなたも思うでしょう」。",
+    "introZh": "词典释义：这样的。出自例句「こんな空欄さえなければ あなたも思うでしょう」。",
     "introEn": "Meaning: this sort of; this kind of; like this; such. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "こんな空欄さえなければ あなたも思うでしょう",
     "exampleZh": "如果人生没有这样的空栏 你也会这样想的吧",
@@ -12310,10 +11620,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "さえ",
     "kana": "さえ",
     "romaji": "sae",
-    "zh": "释义：even; (if) only; just; as long as; besides; on top of that",
+    "zh": "甚至；即使；只有；仅仅；正好；只是；而且；此外",
     "en": "even; (if) only; just; as long as; besides; on top of that",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：even; (if) only; just; as long as; besides; on top of that。出自例句「こんな空欄さえなければ あなたも思うでしょう」。",
+    "introZh": "词典释义：甚至；即使；只有；仅仅；正好；只是；而且；此外。出自例句「こんな空欄さえなければ あなたも思うでしょう」。",
     "introEn": "Meaning: even; (if) only; just; as long as; besides; on top of that. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "こんな空欄さえなければ あなたも思うでしょう",
     "exampleZh": "如果人生没有这样的空栏 你也会这样想的吧",
@@ -12352,10 +11662,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "空っぽ",
     "kana": "からっぽ",
     "romaji": "karappo",
-    "zh": "释义：empty; vacant; hollow",
+    "zh": "结合本句可理解为：答卷空白 没有痕迹",
     "en": "empty; vacant; hollow",
     "partOfSpeech": "名词 / noun; no-adjective · na-adjective · noun",
-    "introZh": "词典释义：empty; vacant; hollow。出自例句「空っぽなんだ ひとつも無いんだ」。",
+    "introZh": "词典释义：结合本句可理解为：答卷空白 没有痕迹。出自例句「空っぽなんだ ひとつも無いんだ」。",
     "introEn": "Meaning: empty; vacant; hollow. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "空っぽなんだ ひとつも無いんだ",
     "exampleZh": "答卷空白 没有痕迹",
@@ -12366,20 +11676,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "からっぽ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3072-3068-3064-532",
     "japanese": "ひとつ",
     "kana": "ひとつ",
     "romaji": "hitotsu",
-    "zh": "释义：one; for one thing; only; (not) even; just (e.g. \"just try it\"); some kind of",
+    "zh": "只有；仅仅；甚至；即使；正好；只是",
     "en": "one; for one thing; only; (not) even; just (e.g. \"just try it\"); some kind of",
     "partOfSpeech": "名词 / noun; numeric",
-    "introZh": "词典释义：one; for one thing; only; (not) even; just (e.g. \"just try it\"); some kind of。出自例句「空っぽなんだ ひとつも無いんだ」。",
+    "introZh": "词典释义：只有；仅仅；甚至；即使；正好；只是。出自例句「空っぽなんだ ひとつも無いんだ」。",
     "introEn": "Meaning: one; for one thing; only; (not) even; just (e.g. \"just try it\"); some kind of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "空っぽなんだ ひとつも無いんだ",
     "exampleZh": "答卷空白 没有痕迹",
@@ -12397,10 +11704,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "無くなっ",
     "kana": "なくなっ",
     "romaji": "nakuna",
-    "zh": "释义：to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed",
+    "zh": "丢失；遗失；不见；缺失；用尽；耗尽；用完；筋疲力尽",
     "en": "to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed。出自例句「無くなったのか 始まったのか分からないけど」。",
+    "introZh": "词典释义：丢失；遗失；不见；缺失；用尽；耗尽；用完；筋疲力尽。出自例句「無くなったのか 始まったのか分からないけど」。",
     "introEn": "Meaning: to be lost (e.g. luggage); to be missing; to be used up; to be run out; to be exhausted; to be consumed. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "無くなったのか 始まったのか分からないけど",
     "exampleZh": "究竟是失去还是开始 纵使未曾明白",
@@ -12413,8 +11720,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "無くなる",
-      "なくなっ"
+      "無くなる"
     ]
   },
   {
@@ -12422,10 +11728,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "価値",
     "kana": "かち",
     "romaji": "kachi",
-    "zh": "释义：value; worth; merit",
+    "zh": "结合本句可理解为：所谓正确答案 没有一丝价值",
     "en": "value; worth; merit",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：value; worth; merit。出自例句「正解がなんだ 価値なんて無いんだ」。",
+    "introZh": "词典释义：结合本句可理解为：所谓正确答案 没有一丝价值。出自例句「正解がなんだ 価値なんて無いんだ」。",
     "introEn": "Meaning: value; worth; merit. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "正解がなんだ 価値なんて無いんだ",
     "exampleZh": "所谓正确答案 没有一丝价值",
@@ -12436,20 +11742,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4ee5-5916-535",
     "japanese": "以外",
     "kana": "いがい",
     "romaji": "igai",
-    "zh": "释义：excluding; except (for); apart from; other than; besides; in addition to",
+    "zh": "而且；此外",
     "en": "excluding; except (for); apart from; other than; besides; in addition to",
     "partOfSpeech": "名词 / noun; n-suf",
-    "introZh": "词典释义：excluding; except (for); apart from; other than; besides; in addition to。出自例句「あたしは生涯 あたし以外じゃ生きられないよ」。",
+    "introZh": "词典释义：而且；此外。出自例句「あたしは生涯 あたし以外じゃ生きられないよ」。",
     "introEn": "Meaning: excluding; except (for); apart from; other than; besides; in addition to. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "あたしは生涯 あたし以外じゃ生きられないよ",
     "exampleZh": "但我今生今世 都只是我啊",
@@ -12460,10 +11763,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いがい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8db3-63bb-3044-536",
@@ -12486,8 +11786,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "足掻く",
-      "あがい"
+      "足掻く"
     ]
   },
   {
@@ -12511,8 +11810,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "追いつける",
-      "おいつけ"
+      "追いつける"
     ]
   },
   {
@@ -12534,20 +11832,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "たかのぞみ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-8150-3063-539",
     "japanese": "腐っ",
     "kana": "くさっ",
     "romaji": "kusa",
-    "zh": "释义：to rot; to go bad; to decay; to spoil; to fester; to decompose",
+    "zh": "结合本句可理解为：这种陈旧迂腐的话语",
     "en": "to rot; to go bad; to decay; to spoil; to fester; to decompose",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to rot; to go bad; to decay; to spoil; to fester; to decompose。出自例句「腐ったような言葉」。",
+    "introZh": "词典释义：结合本句可理解为：这种陈旧迂腐的话语。出自例句「腐ったような言葉」。",
     "introEn": "Meaning: to rot; to go bad; to decay; to spoil; to fester; to decompose. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "腐ったような言葉",
     "exampleZh": "这种陈旧迂腐的话语",
@@ -12560,8 +11855,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "腐る",
-      "くさっ"
+      "腐る"
     ]
   },
   {
@@ -12569,10 +11863,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "しも",
     "kana": "しも",
     "romaji": "shimo",
-    "zh": "释义：frost; white hair; grey hair; gray hair",
+    "zh": "结合本句可理解为：只不过是因为无人见得",
     "en": "frost; white hair; grey hair; gray hair",
     "partOfSpeech": "助词 / particle; noun",
-    "introZh": "词典释义：frost; white hair; grey hair; gray hair。出自例句「誰しも誰よりも」。",
+    "introZh": "词典释义：结合本句可理解为：只不过是因为无人见得。出自例句「誰しも誰よりも」。",
     "introEn": "Meaning: frost; white hair; grey hair; gray hair. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰しも誰よりも",
     "exampleZh": "只不过是因为无人见得",
@@ -12590,10 +11884,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "優れ",
     "kana": "すぐれ",
     "romaji": "sugure",
-    "zh": "释义：to be better (than); to be superior; to surpass; to excel; to be excellent",
+    "zh": "结合本句可理解为：有人比自己优秀",
     "en": "to be better (than); to be superior; to surpass; to excel; to be excellent",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to be better (than); to be superior; to surpass; to excel; to be excellent。出自例句「優れて欲しくはないんだよ」。",
+    "introZh": "词典释义：结合本句可理解为：有人比自己优秀。出自例句「優れて欲しくはないんだよ」。",
     "introEn": "Meaning: to be better (than); to be superior; to surpass; to excel; to be excellent. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "優れて欲しくはないんだよ",
     "exampleZh": "有人比自己优秀",
@@ -12606,8 +11900,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "優れる",
-      "すぐれ"
+      "優れる"
     ]
   },
   {
@@ -12631,8 +11924,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "打ち砕く",
-      "うちくだい"
+      "打ち砕く"
     ]
   },
   {
@@ -12640,10 +11932,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "空虚",
     "kana": "くうきょ",
     "romaji": "kuukyo",
-    "zh": "释义：emptiness; hollowness; vacancy; void; inanity; pointlessness",
+    "zh": "结合本句可理解为：就让我盼望粉碎这股空虚",
     "en": "emptiness; hollowness; vacancy; void; inanity; pointlessness",
     "partOfSpeech": "名词 / noun; noun · na-adjective",
-    "introZh": "词典释义：emptiness; hollowness; vacancy; void; inanity; pointlessness。出自例句「打ち砕いて欲しいから この空虚」。",
+    "introZh": "词典释义：结合本句可理解为：就让我盼望粉碎这股空虚。出自例句「打ち砕いて欲しいから この空虚」。",
     "introEn": "Meaning: emptiness; hollowness; vacancy; void; inanity; pointlessness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "打ち砕いて欲しいから この空虚",
     "exampleZh": "就让我盼望粉碎这股空虚",
@@ -12654,20 +11946,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くうきょ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7d14-7c8b-544",
     "japanese": "純粋",
     "kana": "じゅんすい",
     "romaji": "junsui",
-    "zh": "释义：pure; true; genuine; unmixed",
+    "zh": "结合本句可理解为：当用纯真的心灵放眼远望时",
     "en": "pure; true; genuine; unmixed",
     "partOfSpeech": "名词 / noun; na-adjective · no-adjective · noun",
-    "introZh": "词典释义：pure; true; genuine; unmixed。出自例句「純粋な心で見れた頃は」。",
+    "introZh": "词典释义：结合本句可理解为：当用纯真的心灵放眼远望时。出自例句「純粋な心で見れた頃は」。",
     "introEn": "Meaning: pure; true; genuine; unmixed. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "純粋な心で見れた頃は",
     "exampleZh": "当用纯真的心灵放眼远望时",
@@ -12678,10 +11967,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "じゅんすい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-898b-308c-545",
@@ -12704,8 +11990,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "見れる",
-      "みれ"
+      "見れる"
     ]
   },
   {
@@ -12713,10 +11998,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "虹",
     "kana": "にじ",
     "romaji": "niji",
-    "zh": "释义：rainbow",
+    "zh": "结合本句可理解为：世界又会是那么多彩",
     "en": "rainbow",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：rainbow。出自例句「全てが虹色に見える想定」。",
+    "introZh": "词典释义：结合本句可理解为：世界又会是那么多彩。出自例句「全てが虹色に見える想定」。",
     "introEn": "Meaning: rainbow. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てが虹色に見える想定",
     "exampleZh": "世界又会是那么多彩",
@@ -12727,20 +12012,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にじ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8272-547",
     "japanese": "色",
     "kana": "しょく",
     "romaji": "shoku",
-    "zh": "释义：colour; color; hue; tint; tinge; shade",
+    "zh": "结合本句可理解为：世界又会是那么多彩",
     "en": "colour; color; hue; tint; tinge; shade",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：colour; color; hue; tint; tinge; shade。出自例句「全てが虹色に見える想定」。",
+    "introZh": "词典释义：结合本句可理解为：世界又会是那么多彩。出自例句「全てが虹色に見える想定」。",
     "introEn": "Meaning: colour; color; hue; tint; tinge; shade. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てが虹色に見える想定",
     "exampleZh": "世界又会是那么多彩",
@@ -12752,9 +12034,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
-    "forms": [
-      "しょく"
-    ],
     "readingOptions": [
       "いろ",
       "しょく"
@@ -12769,10 +12048,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "想定",
     "kana": "そうてい",
     "romaji": "soutei",
-    "zh": "释义：hypothesis; supposition; assumption; expectation; anticipation",
+    "zh": "结合本句可理解为：世界又会是那么多彩",
     "en": "hypothesis; supposition; assumption; expectation; anticipation",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：hypothesis; supposition; assumption; expectation; anticipation。出自例句「全てが虹色に見える想定」。",
+    "introZh": "词典释义：结合本句可理解为：世界又会是那么多彩。出自例句「全てが虹色に見える想定」。",
     "introEn": "Meaning: hypothesis; supposition; assumption; expectation; anticipation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全てが虹色に見える想定",
     "exampleZh": "世界又会是那么多彩",
@@ -12783,20 +12062,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "そうてい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63b4-307f-549",
     "japanese": "掴み",
     "kana": "つかみ",
     "romaji": "tsukami",
-    "zh": "释义：to seize; to catch; to grasp; to grip; to grab; to clutch",
+    "zh": "理解；抓住",
     "en": "to seize; to catch; to grasp; to grip; to grab; to clutch",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to seize; to catch; to grasp; to grip; to grab; to clutch。出自例句「掴みたいものすら」。",
+    "introZh": "词典释义：理解；抓住。出自例句「掴みたいものすら」。",
     "introEn": "Meaning: to seize; to catch; to grasp; to grip; to grab; to clutch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "掴みたいものすら",
     "exampleZh": "纵使想去抓住某物",
@@ -12809,8 +12085,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "掴む",
-      "つかみ"
+      "掴む"
     ]
   },
   {
@@ -12818,10 +12093,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ぼやけ",
     "kana": "ぼやけ",
     "romaji": "boyake",
-    "zh": "释义：to become dim; to become blurred",
+    "zh": "结合本句可理解为：视野也都变得模糊",
     "en": "to become dim; to become blurred",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to become dim; to become blurred。出自例句「ぼやけて滲んでいくのさ」。",
+    "introZh": "词典释义：结合本句可理解为：视野也都变得模糊。出自例句「ぼやけて滲んでいくのさ」。",
     "introEn": "Meaning: to become dim; to become blurred. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぼやけて滲んでいくのさ",
     "exampleZh": "视野也都变得模糊",
@@ -12842,10 +12117,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "滲ん",
     "kana": "にじん",
     "romaji": "nijin",
-    "zh": "释义：to run (of liquid); to spread; to bleed; to blot; to blur",
+    "zh": "污点",
     "en": "to run (of liquid); to spread; to bleed; to blot; to blur",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to run (of liquid); to spread; to bleed; to blot; to blur。出自例句「ぼやけて滲んでいくのさ」。",
+    "introZh": "词典释义：污点。出自例句「ぼやけて滲んでいくのさ」。",
     "introEn": "Meaning: to run (of liquid); to spread; to bleed; to blot; to blur. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぼやけて滲んでいくのさ",
     "exampleZh": "视野也都变得模糊",
@@ -12858,8 +12133,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "滲む",
-      "にじん"
+      "滲む"
     ]
   },
   {
@@ -12867,10 +12141,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "不合理",
     "kana": "ふごうり",
     "romaji": "fugouri",
-    "zh": "释义：irrational; illogical; unreasonable; absurd; inconsistent",
+    "zh": "结合本句可理解为：其中不合理的焦躁 无法抑制",
     "en": "irrational; illogical; unreasonable; absurd; inconsistent",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：irrational; illogical; unreasonable; absurd; inconsistent。出自例句「不合理な焦燥 止められないんだよ」。",
+    "introZh": "词典释义：结合本句可理解为：其中不合理的焦躁 无法抑制。出自例句「不合理な焦燥 止められないんだよ」。",
     "introEn": "Meaning: irrational; illogical; unreasonable; absurd; inconsistent. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "不合理な焦燥 止められないんだよ",
     "exampleZh": "其中不合理的焦躁 无法抑制",
@@ -12881,20 +12155,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふごうり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7126-71e5-553",
     "japanese": "焦燥",
     "kana": "しょうそう",
     "romaji": "shousou",
-    "zh": "释义：impatience; irritation; frustration; fretfulness",
+    "zh": "结合本句可理解为：其中不合理的焦躁 无法抑制",
     "en": "impatience; irritation; frustration; fretfulness",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：impatience; irritation; frustration; fretfulness。出自例句「不合理な焦燥 止められないんだよ」。",
+    "introZh": "词典释义：结合本句可理解为：其中不合理的焦躁 无法抑制。出自例句「不合理な焦燥 止められないんだよ」。",
     "introEn": "Meaning: impatience; irritation; frustration; fretfulness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "不合理な焦燥 止められないんだよ",
     "exampleZh": "其中不合理的焦躁 无法抑制",
@@ -12905,20 +12176,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しょうそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6b62-3081-554",
     "japanese": "止め",
     "kana": "とめ",
     "romaji": "tome",
-    "zh": "释义：to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)",
+    "zh": "停止",
     "en": "to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)。出自例句「不合理な焦燥 止められないんだよ」。",
+    "introZh": "词典释义：停止。出自例句「不合理な焦燥 止められないんだよ」。",
     "introEn": "Meaning: to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "不合理な焦燥 止められないんだよ",
     "exampleZh": "其中不合理的焦躁 无法抑制",
@@ -12931,8 +12199,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "止める",
-      "とめ"
+      "止める"
     ]
   },
   {
@@ -12956,8 +12223,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "許せる",
-      "ゆるせ"
+      "許せる"
     ]
   },
   {
@@ -12979,20 +12245,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ふがいない"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-304b-3082-557",
     "japanese": "かも",
     "kana": "かも",
     "romaji": "kamo",
-    "zh": "释义：duck; easy mark; sucker; sitting duck",
+    "zh": "结合本句可理解为：纵使所有的一切",
     "en": "duck; easy mark; sucker; sitting duck",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：duck; easy mark; sucker; sitting duck。出自例句「何もかも何もかも」。",
+    "introZh": "词典释义：结合本句可理解为：纵使所有的一切。出自例句「何もかも何もかも」。",
     "introEn": "Meaning: duck; easy mark; sucker; sitting duck. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何もかも何もかも",
     "exampleZh": "纵使所有的一切",
@@ -13010,10 +12273,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "劣っ",
     "kana": "おとっ",
     "romaji": "oto",
-    "zh": "释义：to be inferior to; to be less good at; to fall behind",
+    "zh": "结合本句可理解为：都劣于他人",
     "en": "to be inferior to; to be less good at; to fall behind",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be inferior to; to be less good at; to fall behind。出自例句「劣ってるんだって」。",
+    "introZh": "词典释义：结合本句可理解为：都劣于他人。出自例句「劣ってるんだって」。",
     "introEn": "Meaning: to be inferior to; to be less good at; to fall behind. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "劣ってるんだって",
     "exampleZh": "都劣于他人",
@@ -13026,8 +12289,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "劣る",
-      "おとっ"
+      "劣る"
     ]
   },
   {
@@ -13049,20 +12311,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うわっつら"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-96a0-3057-560",
     "japanese": "隠し",
     "kana": "かくし",
     "romaji": "kakushi",
-    "zh": "释义：to hide; to conceal",
+    "zh": "结合本句可理解为：我将泪水也藏在表面之下",
     "en": "to hide; to conceal",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hide; to conceal。出自例句「涙上っ面だけで 隠してんだ」。",
+    "introZh": "词典释义：结合本句可理解为：我将泪水也藏在表面之下。出自例句「涙上っ面だけで 隠してんだ」。",
     "introEn": "Meaning: to hide; to conceal. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "涙上っ面だけで 隠してんだ",
     "exampleZh": "我将泪水也藏在表面之下",
@@ -13075,8 +12334,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "隠す",
-      "かくし"
+      "隠す"
     ]
   },
   {
@@ -13098,20 +12356,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "じゅうじゅん"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7cde-562",
     "japanese": "糞",
     "kana": "くそ",
     "romaji": "kuso",
-    "zh": "释义：damn; damn it; shit; crap; feces; excrement",
+    "zh": "结合本句可理解为：不过只是污言秽语",
     "en": "damn; damn it; shit; crap; feces; excrement",
     "partOfSpeech": "名词 / noun; interjection",
-    "introZh": "词典释义：damn; damn it; shit; crap; feces; excrement。出自例句「糞汚れてる言葉」。",
+    "introZh": "词典释义：结合本句可理解为：不过只是污言秽语。出自例句「糞汚れてる言葉」。",
     "introEn": "Meaning: damn; damn it; shit; crap; feces; excrement. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "糞汚れてる言葉",
     "exampleZh": "不过只是污言秽语",
@@ -13122,20 +12377,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くそ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-585e-3050-563",
     "japanese": "塞ぐ",
     "kana": "ふさぐ",
     "romaji": "fusagu",
-    "zh": "释义：to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.)",
+    "zh": "结合本句可理解为：充耳不闻地服从反而令人向往",
     "en": "to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.)。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
+    "introZh": "词典释义：结合本句可理解为：充耳不闻地服从反而令人向往。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
     "introEn": "Meaning: to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "耳を塞ぐほどの 従属はむしろ憧れ",
     "exampleZh": "充耳不闻地服从反而令人向往",
@@ -13146,20 +12398,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふさぐ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5f93-5c5e-564",
     "japanese": "従属",
     "kana": "じゅうぞく",
     "romaji": "juuzoku",
-    "zh": "释义：subordination; dependency",
+    "zh": "结合本句可理解为：充耳不闻地服从反而令人向往",
     "en": "subordination; dependency",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：subordination; dependency。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
+    "introZh": "词典释义：结合本句可理解为：充耳不闻地服从反而令人向往。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
     "introEn": "Meaning: subordination; dependency. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "耳を塞ぐほどの 従属はむしろ憧れ",
     "exampleZh": "充耳不闻地服从反而令人向往",
@@ -13170,20 +12419,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "じゅうぞく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3080-3057-308d-565",
     "japanese": "むしろ",
     "kana": "むしろ",
     "romaji": "mushiro",
-    "zh": "释义：rather; better; instead; if anything",
+    "zh": "结合本句可理解为：充耳不闻地服从反而令人向往",
     "en": "rather; better; instead; if anything",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：rather; better; instead; if anything。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
+    "introZh": "词典释义：结合本句可理解为：充耳不闻地服从反而令人向往。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
     "introEn": "Meaning: rather; better; instead; if anything. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "耳を塞ぐほどの 従属はむしろ憧れ",
     "exampleZh": "充耳不闻地服从反而令人向往",
@@ -13201,11 +12447,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "憧れ",
     "kana": "あこがれ",
     "romaji": "akogare",
-    "zh": "释义：yearning; longing; aspiration; adoration; admiration",
-    "en": "yearning; longing; aspiration; adoration; admiration",
-    "partOfSpeech": "动词 / verb; noun · no-adjective",
-    "introZh": "词典释义：yearning; longing; aspiration; adoration; admiration。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
-    "introEn": "Meaning: yearning; longing; aspiration; adoration; admiration. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：充耳不闻地服从反而令人向往",
+    "en": "to long for; to yearn for; to hanker after; to be attracted by; to be drawn to; to aspire to",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：充耳不闻地服从反而令人向往。出自例句「耳を塞ぐほどの 従属はむしろ憧れ」。",
+    "introEn": "Meaning: to long for; to yearn for; to hanker after; to be attracted by; to be drawn to; to aspire to. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "耳を塞ぐほどの 従属はむしろ憧れ",
     "exampleZh": "充耳不闻地服从反而令人向往",
     "exampleEn": "Example line from \"空白とカタルシス\" by トゲナシトゲアリ.",
@@ -13217,8 +12463,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "憧れる",
-      "あこがれ"
+      "憧れる"
     ]
   },
   {
@@ -13226,10 +12471,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "憂い",
     "kana": "うい",
     "romaji": "ui",
-    "zh": "释义：sorrow; grief; anguish; distress; anxiety; worry",
+    "zh": "结合本句可理解为：忧伤且孤独将这无处可去的痛楚",
     "en": "sorrow; grief; anguish; distress; anxiety; worry",
     "partOfSpeech": "形容词 / adjective; noun",
-    "introZh": "词典释义：sorrow; grief; anguish; distress; anxiety; worry。出自例句「憂いてただ独り行き場のない痛み」。",
+    "introZh": "词典释义：结合本句可理解为：忧伤且孤独将这无处可去的痛楚。出自例句「憂いてただ独り行き場のない痛み」。",
     "introEn": "Meaning: sorrow; grief; anguish; distress; anxiety; worry. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "憂いてただ独り行き場のない痛み",
     "exampleZh": "忧伤且孤独将这无处可去的痛楚",
@@ -13240,10 +12485,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "うい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-884c-304d-5834-568",
@@ -13264,20 +12506,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "いきば"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-75db-307f-569",
     "japanese": "痛み",
     "kana": "いたみ",
     "romaji": "itami",
-    "zh": "释义：pain; ache; soreness; grief; distress; damage",
+    "zh": "结合本句可理解为：忧伤且孤独将这无处可去的痛楚",
     "en": "pain; ache; soreness; grief; distress; damage",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：pain; ache; soreness; grief; distress; damage。出自例句「憂いてただ独り行き場のない痛み」。",
+    "introZh": "词典释义：结合本句可理解为：忧伤且孤独将这无处可去的痛楚。出自例句「憂いてただ独り行き場のない痛み」。",
     "introEn": "Meaning: pain; ache; soreness; grief; distress; damage. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "憂いてただ独り行き場のない痛み",
     "exampleZh": "忧伤且孤独将这无处可去的痛楚",
@@ -13288,20 +12527,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いたみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8e74-308a-570",
     "japanese": "蹴り",
     "kana": "けり",
     "romaji": "keri",
-    "zh": "释义：to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something)",
+    "zh": "结合本句可理解为：一脚踹飞",
     "en": "to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something)。出自例句「蹴り上げた」。",
+    "introZh": "词典释义：结合本句可理解为：一脚踹飞。出自例句「蹴り上げた」。",
     "introEn": "Meaning: to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "蹴り上げた",
     "exampleZh": "一脚踹飞",
@@ -13314,8 +12550,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "蹴る",
-      "けり"
+      "蹴る"
     ]
   },
   {
@@ -13339,8 +12574,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "泣ける",
-      "なけ"
+      "泣ける"
     ]
   },
   {
@@ -13396,10 +12630,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "果たし",
     "kana": "はたし",
     "romaji": "hatashi",
-    "zh": "释义：to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize",
+    "zh": "执行；完成；意识到；明白",
     "en": "to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize。出自例句「果たしたいことすら」。",
+    "introZh": "词典释义：执行；完成；意识到；明白。出自例句「果たしたいことすら」。",
     "introEn": "Meaning: to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "果たしたいことすら",
     "exampleZh": "就连想尽之事",
@@ -13412,8 +12646,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "果たす",
-      "はたし"
+      "果たす"
     ]
   },
   {
@@ -13421,10 +12654,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "煙っ",
     "kana": "けむっ",
     "romaji": "kemu",
-    "zh": "释义：to smoke (e.g. fire); to billow smoke; to smoulder; to smolder; to be hazy; to look dim",
+    "zh": "结合本句可理解为：也都好似烟雾缭绕 愈发模糊",
     "en": "to smoke (e.g. fire); to billow smoke; to smoulder; to smolder; to be hazy; to look dim",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to smoke (e.g. fire); to billow smoke; to smoulder; to smolder; to be hazy; to look dim。出自例句「煙って霞んでゆくのさ」。",
+    "introZh": "词典释义：结合本句可理解为：也都好似烟雾缭绕 愈发模糊。出自例句「煙って霞んでゆくのさ」。",
     "introEn": "Meaning: to smoke (e.g. fire); to billow smoke; to smoulder; to smolder; to be hazy; to look dim. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "煙って霞んでゆくのさ",
     "exampleZh": "也都好似烟雾缭绕 愈发模糊",
@@ -13437,8 +12670,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "煙る",
-      "けむっ"
+      "煙る"
     ]
   },
   {
@@ -13446,10 +12678,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "壊し",
     "kana": "こわし",
     "romaji": "kowashi",
-    "zh": "释义：to break; to destroy; to demolish; to wreck; to ruin; to spoil",
+    "zh": "断裂；折断",
     "en": "to break; to destroy; to demolish; to wreck; to ruin; to spoil",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to break; to destroy; to demolish; to wreck; to ruin; to spoil。出自例句「壊して欲しいんだ」。",
+    "introZh": "词典释义：断裂；折断。出自例句「壊して欲しいんだ」。",
     "introEn": "Meaning: to break; to destroy; to demolish; to wreck; to ruin; to spoil. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "壊して欲しいんだ",
     "exampleZh": "而是想去摧毁",
@@ -13462,8 +12694,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "壊す",
-      "こわし"
+      "壊す"
     ]
   },
   {
@@ -13487,8 +12718,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "錆びつく",
-      "さびつい"
+      "錆びつく"
     ]
   },
   {
@@ -13512,8 +12742,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "絡まる",
-      "からまっ"
+      "絡まる"
     ]
   },
   {
@@ -13535,10 +12764,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "いびつ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3044-3073-3064-580",
@@ -13566,35 +12792,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "きっ",
     "kana": "きっ",
     "romaji": "ki",
-    "zh": "语境释义：若是粉碎作浑浊的透明就会无比美丽",
-    "en": "Context meaning: 若是粉碎作浑浊的透明就会无比美丽",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「きっ」。本句语境：若是粉碎作浑浊的透明就会无比美丽",
-    "introEn": "Read as \"ki\". Context: 若是粉碎作浑浊的透明就会无比美丽",
-    "exampleJp": "濁りきった透明 粉々になれば綺麗",
-    "exampleZh": "若是粉碎作浑浊的透明就会无比美丽",
-    "exampleEn": "Example line from \"空白とカタルシス\" by トゲナシトゲアリ.",
-    "tags": [
-      "lyrics",
-      "artist-togenashi-togeari",
-      "jlpt-n1"
-    ],
-    "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "きる"
-    ]
-  },
-  {
-    "id": "lyric-900f-660e-582",
-    "japanese": "透明",
-    "kana": "とうめい",
-    "romaji": "toumei",
-    "zh": "释义：transparent; clear",
-    "en": "transparent; clear",
-    "partOfSpeech": "名词 / noun; na-adjective · no-adjective · noun",
-    "introZh": "词典释义：transparent; clear。出自例句「濁りきった透明 粉々になれば綺麗」。",
-    "introEn": "Meaning: transparent; clear. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：若是粉碎作浑浊的透明就会无比美丽",
+    "en": "kill; kill (shot); smash; spike (in volleyball)",
+    "partOfSpeech": "动词 / verb; noun",
+    "introZh": "词典释义：结合本句可理解为：若是粉碎作浑浊的透明就会无比美丽。出自例句「濁りきった透明 粉々になれば綺麗」。",
+    "introEn": "Meaning: kill; kill (shot); smash; spike (in volleyball). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "濁りきった透明 粉々になれば綺麗",
     "exampleZh": "若是粉碎作浑浊的透明就会无比美丽",
     "exampleEn": "Example line from \"空白とカタルシス\" by トゲナシトゲアリ.",
@@ -13606,19 +12808,40 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "とうめい"
+      "きる"
     ]
+  },
+  {
+    "id": "lyric-900f-660e-582",
+    "japanese": "透明",
+    "kana": "とうめい",
+    "romaji": "toumei",
+    "zh": "结合本句可理解为：若是粉碎作浑浊的透明就会无比美丽",
+    "en": "transparent; clear",
+    "partOfSpeech": "名词 / noun; na-adjective · no-adjective · noun",
+    "introZh": "词典释义：结合本句可理解为：若是粉碎作浑浊的透明就会无比美丽。出自例句「濁りきった透明 粉々になれば綺麗」。",
+    "introEn": "Meaning: transparent; clear. Dictionary data: local Kotobako/JMdict.",
+    "exampleJp": "濁りきった透明 粉々になれば綺麗",
+    "exampleZh": "若是粉碎作浑浊的透明就会无比美丽",
+    "exampleEn": "Example line from \"空白とカタルシス\" by トゲナシトゲアリ.",
+    "tags": [
+      "lyrics",
+      "artist-togenashi-togeari",
+      "jlpt-n1"
+    ],
+    "jlptLevel": "N1",
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306a-308c-583",
     "japanese": "なれ",
     "kana": "なれ",
     "romaji": "nare",
-    "zh": "释义：practice; experience; habituation; being used to; being comfortable with; being experienced in",
-    "en": "practice; experience; habituation; being used to; being comfortable with; being experienced in",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：practice; experience; habituation; being used to; being comfortable with; being experienced in。出自例句「濁りきった透明 粉々になれば綺麗」。",
-    "introEn": "Meaning: practice; experience; habituation; being used to; being comfortable with; being experienced in. Dictionary data: local Kotobako/JMdict.",
+    "zh": "变成；成为；得到；变得；成长；转向；到达；达到",
+    "en": "to become; to get; to grow; to turn; to reach; to attain",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：变成；成为；得到；变得；成长；转向；到达；达到。出自例句「濁りきった透明 粉々になれば綺麗」。",
+    "introEn": "Meaning: to become; to get; to grow; to turn; to reach; to attain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "濁りきった透明 粉々になれば綺麗",
     "exampleZh": "若是粉碎作浑浊的透明就会无比美丽",
     "exampleEn": "Example line from \"空白とカタルシス\" by トゲナシトゲアリ.",
@@ -13638,10 +12861,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "情けなく",
     "kana": "なさけなく",
     "romaji": "nasakenaku",
-    "zh": "释义：miserable; pitiable; shameful; deplorable; pathetic",
+    "zh": "结合本句可理解为：真是可悲 那么可叹",
     "en": "miserable; pitiable; shameful; deplorable; pathetic",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：miserable; pitiable; shameful; deplorable; pathetic。出自例句「情けなくて情けなくて」。",
+    "introZh": "词典释义：结合本句可理解为：真是可悲 那么可叹。出自例句「情けなくて情けなくて」。",
     "introEn": "Meaning: miserable; pitiable; shameful; deplorable; pathetic. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "情けなくて情けなくて",
     "exampleZh": "真是可悲 那么可叹",
@@ -13654,8 +12877,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "情けない",
-      "なさけなく"
+      "情けない"
     ]
   },
   {
@@ -13663,10 +12885,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "嫌",
     "kana": "いや",
     "romaji": "iya",
-    "zh": "释义：disliking; not wanting; unwilling (to do); reluctant; unpleasant; disagreeable",
+    "zh": "结合本句可理解为：让我心生厌恶",
     "en": "disliking; not wanting; unwilling (to do); reluctant; unpleasant; disagreeable",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：disliking; not wanting; unwilling (to do); reluctant; unpleasant; disagreeable。出自例句「嫌になるんだ」。",
+    "introZh": "词典释义：结合本句可理解为：让我心生厌恶。出自例句「嫌になるんだ」。",
     "introEn": "Meaning: disliking; not wanting; unwilling (to do); reluctant; unpleasant; disagreeable. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "嫌になるんだ",
     "exampleZh": "让我心生厌恶",
@@ -13677,20 +12899,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いや"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7406-60f3-586",
     "japanese": "理想",
     "kana": "りそう",
     "romaji": "risou",
-    "zh": "释义：ideal; ideals",
+    "zh": "结合本句可理解为：断绝气息的理想=陈旧的幻想",
     "en": "ideal; ideals",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：ideal; ideals。出自例句「息、絶えた 理想=古い空想」。",
+    "introZh": "词典释义：结合本句可理解为：断绝气息的理想=陈旧的幻想。出自例句「息、絶えた 理想=古い空想」。",
     "introEn": "Meaning: ideal; ideals. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "息、絶えた 理想=古い空想",
     "exampleZh": "断绝气息的理想=陈旧的幻想",
@@ -13701,10 +12920,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "りそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3d-587",
@@ -13732,10 +12948,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "古い",
     "kana": "ふるい",
     "romaji": "furui",
-    "zh": "释义：old; aged; ancient; antiquated; antique; timeworn",
+    "zh": "结合本句可理解为：断绝气息的理想=陈旧的幻想",
     "en": "old; aged; ancient; antiquated; antique; timeworn",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：old; aged; ancient; antiquated; antique; timeworn。出自例句「息、絶えた 理想=古い空想」。",
+    "introZh": "词典释义：结合本句可理解为：断绝气息的理想=陈旧的幻想。出自例句「息、絶えた 理想=古い空想」。",
     "introEn": "Meaning: old; aged; ancient; antiquated; antique; timeworn. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "息、絶えた 理想=古い空想",
     "exampleZh": "断绝气息的理想=陈旧的幻想",
@@ -13746,20 +12962,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふるい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7a7a-60f3-589",
     "japanese": "空想",
     "kana": "くうそう",
     "romaji": "kuusou",
-    "zh": "释义：daydream; fantasy; fancy; vision",
+    "zh": "结合本句可理解为：断绝气息的理想=陈旧的幻想",
     "en": "daydream; fantasy; fancy; vision",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：daydream; fantasy; fancy; vision。出自例句「息、絶えた 理想=古い空想」。",
+    "introZh": "词典释义：结合本句可理解为：断绝气息的理想=陈旧的幻想。出自例句「息、絶えた 理想=古い空想」。",
     "introEn": "Meaning: daydream; fantasy; fancy; vision. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "息、絶えた 理想=古い空想",
     "exampleZh": "断绝气息的理想=陈旧的幻想",
@@ -13770,10 +12983,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くうそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6297-3046-590",
@@ -13794,20 +13004,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あらがう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-602f-3048-591",
     "japanese": "怯え",
     "kana": "おびえ",
     "romaji": "obie",
-    "zh": "释义：to become frightened; to be frightened (of); to be scared (of)",
+    "zh": "结合本句可理解为：过去为此畏惧得不敢反抗",
     "en": "to become frightened; to be frightened (of); to be scared (of)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to become frightened; to be frightened (of); to be scared (of)。出自例句「抗うことすらせずに 怯えてんだ」。",
+    "introZh": "词典释义：结合本句可理解为：过去为此畏惧得不敢反抗。出自例句「抗うことすらせずに 怯えてんだ」。",
     "introEn": "Meaning: to become frightened; to be frightened (of); to be scared (of). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "抗うことすらせずに 怯えてんだ",
     "exampleZh": "过去为此畏惧得不敢反抗",
@@ -13820,8 +13027,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "怯える",
-      "おびえ"
+      "怯える"
     ]
   },
   {
@@ -13829,10 +13035,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "コイツ",
     "kana": "こいつ",
     "romaji": "koitsu",
-    "zh": "释义：he; she; this fellow; this guy; this person; this",
+    "zh": "他；这个人；这边；这个",
     "en": "he; she; this fellow; this guy; this person; this",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：he; she; this fellow; this guy; this person; this。出自例句「どいつもコイツもアテにならない」。",
+    "introZh": "词典释义：他；这个人；这边；这个。出自例句「どいつもコイツもアテにならない」。",
     "introEn": "Meaning: he; she; this fellow; this guy; this person; this. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どいつもコイツもアテにならない",
     "exampleZh": "那就代表任何人都不值得依靠",
@@ -13843,20 +13049,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こいつ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30a2-30c6-593",
     "japanese": "アテ",
     "kana": "あて",
     "romaji": "ate",
-    "zh": "释义：aim; object; purpose; end; expectations; prospects",
+    "zh": "结束；末尾",
     "en": "aim; object; purpose; end; expectations; prospects",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：aim; object; purpose; end; expectations; prospects。出自例句「どいつもコイツもアテにならない」。",
+    "introZh": "词典释义：结束；末尾。出自例句「どいつもコイツもアテにならない」。",
     "introEn": "Meaning: aim; object; purpose; end; expectations; prospects. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どいつもコイツもアテにならない",
     "exampleZh": "那就代表任何人都不值得依靠",
@@ -13867,20 +13070,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あて"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-3082-305d-3082-594",
     "japanese": "そもそも",
     "kana": "そもそも",
     "romaji": "somosomo",
-    "zh": "释义：in the first place; to begin with; from the start; originally; ab initio; after all",
+    "zh": "结合本句可理解为：说到底就算怪罪他人 也无法让痛楚消失",
     "en": "in the first place; to begin with; from the start; originally; ab initio; after all",
     "partOfSpeech": "连接词 / conjunction; adverb · noun",
-    "introZh": "词典释义：in the first place; to begin with; from the start; originally; ab initio; after all。出自例句「そもそも誰かのせいだと言ったってこの痛みは消えないんだ」。",
+    "introZh": "词典释义：结合本句可理解为：说到底就算怪罪他人 也无法让痛楚消失。出自例句「そもそも誰かのせいだと言ったってこの痛みは消えないんだ」。",
     "introEn": "Meaning: in the first place; to begin with; from the start; originally; ab initio; after all. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そもそも誰かのせいだと言ったってこの痛みは消えないんだ",
     "exampleZh": "说到底就算怪罪他人 也无法让痛楚消失",
@@ -13898,10 +13098,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たって",
     "kana": "たって",
     "romaji": "tatte",
-    "zh": "释义：even if; even though; however; no matter how",
+    "zh": "即使；但是；然而",
     "en": "even if; even though; however; no matter how",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：even if; even though; however; no matter how。出自例句「そもそも誰かのせいだと言ったってこの痛みは消えないんだ」。",
+    "introZh": "词典释义：即使；但是；然而。出自例句「そもそも誰かのせいだと言ったってこの痛みは消えないんだ」。",
     "introEn": "Meaning: even if; even though; however; no matter how. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そもそも誰かのせいだと言ったってこの痛みは消えないんだ",
     "exampleZh": "说到底就算怪罪他人 也无法让痛楚消失",
@@ -13919,10 +13119,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "じっと",
     "kana": "じっと",
     "romaji": "jitto",
-    "zh": "释义：motionlessly (e.g. stand, wait); (be) still; fixedly (e.g. gaze, stare); intently (e.g. listen, think); patiently (endure); stoically",
+    "zh": "仍然；还是",
     "en": "motionlessly (e.g. stand, wait); (be) still; fixedly (e.g. gaze, stare); intently (e.g. listen, think); patiently (endure); stoically",
     "partOfSpeech": "副词 / adverb; adverb · suru verb",
-    "introZh": "词典释义：motionlessly (e.g. stand, wait); (be) still; fixedly (e.g. gaze, stare); intently (e.g. listen, think); patiently (endure); stoically。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
+    "introZh": "词典释义：仍然；还是。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
     "introEn": "Meaning: motionlessly (e.g. stand, wait); (be) still; fixedly (e.g. gaze, stare); intently (e.g. listen, think); patiently (endure); stoically. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う",
     "exampleZh": "只想和环抱膝盖蜷在一角的过去说再见",
@@ -13940,10 +13140,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "うずくまる",
     "kana": "うずくまる",
     "romaji": "uzukumaru",
-    "zh": "释义：to crouch; to squat; to cower",
+    "zh": "结合本句可理解为：只想和环抱膝盖蜷在一角的过去说再见",
     "en": "to crouch; to squat; to cower",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to crouch; to squat; to cower。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
+    "introZh": "词典释义：结合本句可理解为：只想和环抱膝盖蜷在一角的过去说再见。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
     "introEn": "Meaning: to crouch; to squat; to cower. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う",
     "exampleZh": "只想和环抱膝盖蜷在一角的过去说再见",
@@ -13961,10 +13161,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "願う",
     "kana": "ねがう",
     "romaji": "negau",
-    "zh": "释义：to desire; to wish; to hope; to beg; to request; to implore",
+    "zh": "渴望；想要",
     "en": "to desire; to wish; to hope; to beg; to request; to implore",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to desire; to wish; to hope; to beg; to request; to implore。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
+    "introZh": "词典释义：渴望；想要。出自例句「じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う」。",
     "introEn": "Meaning: to desire; to wish; to hope; to beg; to request; to implore. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "じっと膝を抱えてうずくまるだけの毎日にさよならしたいと願う",
     "exampleZh": "只想和环抱膝盖蜷在一角的过去说再见",
@@ -13975,20 +13175,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ねがう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3063-307d-599",
     "japanese": "っぽ",
     "kana": "っぽ",
     "romaji": "ppo",
-    "zh": "释义：-ish; -like",
+    "zh": "结合本句可理解为：明明我从未相信过世上有神明",
     "en": "-ish; -like",
     "partOfSpeech": "形容词 / adjective; suffix · i-adjective",
-    "introZh": "词典释义：-ish; -like。出自例句「神様なんてこれっぽっちも信じてないくせに」。",
+    "introZh": "词典释义：结合本句可理解为：明明我从未相信过世上有神明。出自例句「神様なんてこれっぽっちも信じてないくせに」。",
     "introEn": "Meaning: -ish; -like. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "神様なんてこれっぽっちも信じてないくせに",
     "exampleZh": "明明我从未相信过世上有神明",
@@ -14009,10 +13206,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "くせ",
     "kana": "くせ",
     "romaji": "kuse",
-    "zh": "释义：habit (usu. a bad one); tendency; peculiarity; idiosyncrasy; mannerism; quirk",
+    "zh": "结合本句可理解为：明明我从未相信过世上有神明",
     "en": "habit (usu. a bad one); tendency; peculiarity; idiosyncrasy; mannerism; quirk",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：habit (usu. a bad one); tendency; peculiarity; idiosyncrasy; mannerism; quirk。出自例句「神様なんてこれっぽっちも信じてないくせに」。",
+    "introZh": "词典释义：结合本句可理解为：明明我从未相信过世上有神明。出自例句「神様なんてこれっぽっちも信じてないくせに」。",
     "introEn": "Meaning: habit (usu. a bad one); tendency; peculiarity; idiosyncrasy; mannerism; quirk. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "神様なんてこれっぽっちも信じてないくせに",
     "exampleZh": "明明我从未相信过世上有神明",
@@ -14030,10 +13227,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "うるさい",
     "kana": "うるさい",
     "romaji": "urusai",
-    "zh": "释义：noisy; loud; annoying; troublesome; tiresome; persistent",
+    "zh": "结合本句可理解为：闭上嘴啊 别管我了",
     "en": "noisy; loud; annoying; troublesome; tiresome; persistent",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：noisy; loud; annoying; troublesome; tiresome; persistent。出自例句「うるさいんだよ ほっといてくれよ」。",
+    "introZh": "词典释义：结合本句可理解为：闭上嘴啊 别管我了。出自例句「うるさいんだよ ほっといてくれよ」。",
     "introEn": "Meaning: noisy; loud; annoying; troublesome; tiresome; persistent. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "うるさいんだよ ほっといてくれよ",
     "exampleZh": "闭上嘴啊 别管我了",
@@ -14075,10 +13272,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ひとり",
     "kana": "ひとり",
     "romaji": "hitori",
-    "zh": "释义：one person; being alone; being by oneself; being single; being unmarried; by oneself",
+    "zh": "结合本句可理解为：我并非孤身一人",
     "en": "one person; being alone; being by oneself; being single; being unmarried; by oneself",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：one person; being alone; being by oneself; being single; being unmarried; by oneself。出自例句「ひとりなんかじゃないよって知らない誰かが」。",
+    "introZh": "词典释义：结合本句可理解为：我并非孤身一人。出自例句「ひとりなんかじゃないよって知らない誰かが」。",
     "introEn": "Meaning: one person; being alone; being by oneself; being single; being unmarried; by oneself. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ひとりなんかじゃないよって知らない誰かが",
     "exampleZh": "我并非孤身一人",
@@ -14096,10 +13293,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "誰か",
     "kana": "だれか",
     "romaji": "dareka",
-    "zh": "释义：someone; somebody",
+    "zh": "结合本句可理解为：我并非孤身一人",
     "en": "someone; somebody",
     "partOfSpeech": "名词 / noun; pronoun",
-    "introZh": "词典释义：someone; somebody。出自例句「ひとりなんかじゃないよって知らない誰かが」。",
+    "introZh": "词典释义：结合本句可理解为：我并非孤身一人。出自例句「ひとりなんかじゃないよって知らない誰かが」。",
     "introEn": "Meaning: someone; somebody. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ひとりなんかじゃないよって知らない誰かが",
     "exampleZh": "我并非孤身一人",
@@ -14110,20 +13307,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "だれか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-55c4-3089-3057-605",
     "japanese": "嗄らし",
     "kana": "からし",
     "romaji": "karashi",
-    "zh": "释义：mustard",
+    "zh": "结合本句可理解为：某人正声嘶力竭地用歌声告诉我",
     "en": "mustard",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：mustard。出自例句「声を嗄らして歌っている」。",
+    "introZh": "词典释义：结合本句可理解为：某人正声嘶力竭地用歌声告诉我。出自例句「声を嗄らして歌っている」。",
     "introEn": "Meaning: mustard. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "声を嗄らして歌っている",
     "exampleZh": "某人正声嘶力竭地用歌声告诉我",
@@ -14136,8 +13330,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "嗄らす",
-      "からし"
+      "嗄らす"
     ]
   },
   {
@@ -14145,10 +13338,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "歌っ",
     "kana": "うたっ",
     "romaji": "uta",
-    "zh": "释义：to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)",
+    "zh": "结合本句可理解为：某人正声嘶力竭地用歌声告诉我",
     "en": "to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb · intransitive verb",
-    "introZh": "词典释义：to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem)。出自例句「声を嗄らして歌っている」。",
+    "introZh": "词典释义：结合本句可理解为：某人正声嘶力竭地用歌声告诉我。出自例句「声を嗄らして歌っている」。",
     "introEn": "Meaning: to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem; to recite (a poem). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "声を嗄らして歌っている",
     "exampleZh": "某人正声嘶力竭地用歌声告诉我",
@@ -14161,8 +13354,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "歌う",
-      "うたっ"
+      "歌う"
     ]
   },
   {
@@ -14170,10 +13362,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "救わ",
     "kana": "すくわ",
     "romaji": "sukuwa",
-    "zh": "释义：to rescue (someone); to save; to help (out of a difficulty); to relieve (from); to save (spiritually); to redeem (from sin)",
+    "zh": "结合本句可理解为：想必也有被那几句歌词所拯救的人吧",
     "en": "to rescue (someone); to save; to help (out of a difficulty); to relieve (from); to save (spiritually); to redeem (from sin)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to rescue (someone); to save; to help (out of a difficulty); to relieve (from); to save (spiritually); to redeem (from sin)。出自例句「そんな言葉に救われる命もあるんだろうな」。",
+    "introZh": "词典释义：结合本句可理解为：想必也有被那几句歌词所拯救的人吧。出自例句「そんな言葉に救われる命もあるんだろうな」。",
     "introEn": "Meaning: to rescue (someone); to save; to help (out of a difficulty); to relieve (from); to save (spiritually); to redeem (from sin). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんな言葉に救われる命もあるんだろうな",
     "exampleZh": "想必也有被那几句歌词所拯救的人吧",
@@ -14186,8 +13378,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "救う",
-      "すくわ"
+      "救う"
     ]
   },
   {
@@ -14195,10 +13386,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "命",
     "kana": "いのち",
     "romaji": "inochi",
-    "zh": "释义：life; life force; lifetime; lifespan; most important thing; foundation",
+    "zh": "结合本句可理解为：想必也有被那几句歌词所拯救的人吧",
     "en": "life; life force; lifetime; lifespan; most important thing; foundation",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：life; life force; lifetime; lifespan; most important thing; foundation。出自例句「そんな言葉に救われる命もあるんだろうな」。",
+    "introZh": "词典释义：结合本句可理解为：想必也有被那几句歌词所拯救的人吧。出自例句「そんな言葉に救われる命もあるんだろうな」。",
     "introEn": "Meaning: life; life force; lifetime; lifespan; most important thing; foundation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんな言葉に救われる命もあるんだろうな",
     "exampleZh": "想必也有被那几句歌词所拯救的人吧",
@@ -14209,20 +13400,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いのち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-308f-304b-3089-609",
     "japanese": "わから",
     "kana": "わから",
     "romaji": "wakara",
-    "zh": "释义：to understand; to comprehend; to grasp; to see; to get; to follow",
+    "zh": "理解；抓住；看见；明白；得到；变得",
     "en": "to understand; to comprehend; to grasp; to see; to get; to follow",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to understand; to comprehend; to grasp; to see; to get; to follow。出自例句「わからない そうなんだ そうだっけ？ 忘れた」。",
+    "introZh": "词典释义：理解；抓住；看见；明白；得到；变得。出自例句「わからない そうなんだ そうだっけ？ 忘れた」。",
     "introEn": "Meaning: to understand; to comprehend; to grasp; to see; to get; to follow. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わからない そうなんだ そうだっけ？ 忘れた",
     "exampleZh": "我不知道 是这样啊 可真是这样吗？我已经忘了",
@@ -14264,10 +13452,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "面倒くさい",
     "kana": "めんどうくさい",
     "romaji": "mendoukusai",
-    "zh": "释义：bothersome; tiresome; bother to do",
+    "zh": "结合本句可理解为：还真是麻烦啊 明明想摧毁一切却无法鼓起勇气",
     "en": "bothersome; tiresome; bother to do",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：bothersome; tiresome; bother to do。出自例句「面倒くさい 壊したい 勇気もない」。",
+    "introZh": "词典释义：结合本句可理解为：还真是麻烦啊 明明想摧毁一切却无法鼓起勇气。出自例句「面倒くさい 壊したい 勇気もない」。",
     "introEn": "Meaning: bothersome; tiresome; bother to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "面倒くさい 壊したい 勇気もない",
     "exampleZh": "还真是麻烦啊 明明想摧毁一切却无法鼓起勇气",
@@ -14278,20 +13466,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "めんどうくさい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-52c7-6c17-612",
     "japanese": "勇気",
     "kana": "ゆうき",
     "romaji": "yuuki",
-    "zh": "释义：courage; bravery; valour; valor; nerve; boldness",
+    "zh": "结合本句可理解为：还真是麻烦啊 明明想摧毁一切却无法鼓起勇气",
     "en": "courage; bravery; valour; valor; nerve; boldness",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：courage; bravery; valour; valor; nerve; boldness。出自例句「面倒くさい 壊したい 勇気もない」。",
+    "introZh": "词典释义：结合本句可理解为：还真是麻烦啊 明明想摧毁一切却无法鼓起勇气。出自例句「面倒くさい 壊したい 勇気もない」。",
     "introEn": "Meaning: courage; bravery; valour; valor; nerve; boldness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "面倒くさい 壊したい 勇気もない",
     "exampleZh": "还真是麻烦啊 明明想摧毁一切却无法鼓起勇气",
@@ -14302,20 +13487,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆうき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3084-3064-613",
     "japanese": "やつ",
     "kana": "やつ",
     "romaji": "yatsu",
-    "zh": "释义：fellow; guy; chap; thing; object; he",
+    "zh": "事情；东西；他",
     "en": "fellow; guy; chap; thing; object; he",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：fellow; guy; chap; thing; object; he。出自例句「生きていく理由ってやつを誰か教えて はやく」。",
+    "introZh": "词典释义：事情；东西；他。出自例句「生きていく理由ってやつを誰か教えて はやく」。",
     "introEn": "Meaning: fellow; guy; chap; thing; object; he. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "生きていく理由ってやつを誰か教えて はやく",
     "exampleZh": "谁快来给我一个继续活下去的理由",
@@ -14333,11 +13515,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "はやく",
     "kana": "はやく",
     "romaji": "hayaku",
-    "zh": "释义：early; soon; quickly; swiftly; rapidly; fast",
-    "en": "early; soon; quickly; swiftly; rapidly; fast",
-    "partOfSpeech": "形容词 / adjective; adverb · noun",
-    "introZh": "词典释义：early; soon; quickly; swiftly; rapidly; fast。出自例句「生きていく理由ってやつを誰か教えて はやく」。",
-    "introEn": "Meaning: early; soon; quickly; swiftly; rapidly; fast. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：谁快来给我一个继续活下去的理由",
+    "en": "fast; quick; rapid; swift; speedy; brisk",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：结合本句可理解为：谁快来给我一个继续活下去的理由。出自例句「生きていく理由ってやつを誰か教えて はやく」。",
+    "introEn": "Meaning: fast; quick; rapid; swift; speedy; brisk. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "生きていく理由ってやつを誰か教えて はやく",
     "exampleZh": "谁快来给我一个继续活下去的理由",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -14357,10 +13539,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いくら",
     "kana": "いくら",
     "romaji": "ikura",
-    "zh": "释义：how much; something over; and something; -odd; however (much); no matter how",
+    "zh": "但是；然而",
     "en": "how much; something over; and something; -odd; however (much); no matter how",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：how much; something over; and something; -odd; however (much); no matter how。出自例句「代わりなんてさ いくらでも転がってんだ」。",
+    "introZh": "词典释义：但是；然而。出自例句「代わりなんてさ いくらでも転がってんだ」。",
     "introEn": "Meaning: how much; something over; and something; -odd; however (much); no matter how. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "代わりなんてさ いくらでも転がってんだ",
     "exampleZh": "能够取代我的人随处可见",
@@ -14378,10 +13560,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "らしく",
     "kana": "らしく",
     "romaji": "rashiku",
-    "zh": "释义：seeming ...; appearing ...; -ish; like a ...; typical of ...; appropriate for ...",
+    "zh": "结合本句可理解为：做自己就好这句话怎么能随意说出口",
     "en": "seeming ...; appearing ...; -ish; like a ...; typical of ...; appropriate for ...",
     "partOfSpeech": "助动词 / auxiliary; i-adjective · aux-adj",
-    "introZh": "词典释义：seeming ...; appearing ...; -ish; like a ...; typical of ...; appropriate for ...。出自例句「自分らしくなんてそんな簡単に言わないでしょ」。",
+    "introZh": "词典释义：结合本句可理解为：做自己就好这句话怎么能随意说出口。出自例句「自分らしくなんてそんな簡単に言わないでしょ」。",
     "introEn": "Meaning: seeming ...; appearing ...; -ish; like a ...; typical of ...; appropriate for .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "自分らしくなんてそんな簡単に言わないでしょ",
     "exampleZh": "做自己就好这句话怎么能随意说出口",
@@ -14402,10 +13584,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "叶う",
     "kana": "かなう",
     "romaji": "kanau",
-    "zh": "释义：to come true (of a dream, wish, etc.); to be realized; to be fulfilled; to be granted; to be answered (of a prayer); to be requited (of love)",
+    "zh": "结合本句可理解为：若能实现就将其夺回",
     "en": "to come true (of a dream, wish, etc.); to be realized; to be fulfilled; to be granted; to be answered (of a prayer); to be requited (of love)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to come true (of a dream, wish, etc.); to be realized; to be fulfilled; to be granted; to be answered (of a prayer); to be requited (of love)。出自例句「叶うのなら取り返して」。",
+    "introZh": "词典释义：结合本句可理解为：若能实现就将其夺回。出自例句「叶うのなら取り返して」。",
     "introEn": "Meaning: to come true (of a dream, wish, etc.); to be realized; to be fulfilled; to be granted; to be answered (of a prayer); to be requited (of love). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "叶うのなら取り返して",
     "exampleZh": "若能实现就将其夺回",
@@ -14416,20 +13598,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かなう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-53d6-308a-8fd4-3057-618",
     "japanese": "取り返し",
     "kana": "とりかえし",
     "romaji": "torikaeshi",
-    "zh": "释义：to get back; to regain; to recover; to make up (for); to catch up on",
+    "zh": "结合本句可理解为：若能实现就将其夺回",
     "en": "to get back; to regain; to recover; to make up (for); to catch up on",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to get back; to regain; to recover; to make up (for); to catch up on。出自例句「叶うのなら取り返して」。",
+    "introZh": "词典释义：结合本句可理解为：若能实现就将其夺回。出自例句「叶うのなら取り返して」。",
     "introEn": "Meaning: to get back; to regain; to recover; to make up (for); to catch up on. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "叶うのなら取り返して",
     "exampleZh": "若能实现就将其夺回",
@@ -14442,8 +13621,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "取り返す",
-      "とりかえし"
+      "取り返す"
     ]
   },
   {
@@ -14451,11 +13629,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たっ",
     "kana": "たっ",
     "romaji": "ta",
-    "zh": "语境释义：心怀梦想现实方在",
-    "en": "Context meaning: 心怀梦想现实方在",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「たっ」。本句语境：心怀梦想现实方在",
-    "introEn": "Read as \"ta\". Context: 心怀梦想现实方在",
+    "zh": "结合本句可理解为：心怀梦想现实方在",
+    "en": "to pass (of time); to elapse",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：心怀梦想现实方在。出自例句「夢に溢れてたって真実」。",
+    "introEn": "Meaning: to pass (of time); to elapse. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "夢に溢れてたって真実",
     "exampleZh": "心怀梦想现实方在",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -14465,7 +13643,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "たつ"
     ]
@@ -14496,11 +13674,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ませ",
     "kana": "ませ",
     "romaji": "mase",
-    "zh": "语境释义：呐 这里有人在吗",
-    "en": "Context meaning: 呐 这里有人在吗",
-    "partOfSpeech": "助动词 / auxiliary",
-    "introZh": "读作「ませ」。本句语境：呐 这里有人在吗",
-    "introEn": "Read as \"mase\". Context: 呐 这里有人在吗",
+    "zh": "结合本句可理解为：呐 这里有人在吗",
+    "en": "mass; mass (media, production, etc.)",
+    "partOfSpeech": "助动词 / auxiliary; noun",
+    "introZh": "词典释义：结合本句可理解为：呐 这里有人在吗。出自例句「ねぇ 誰か居ませんか」。",
+    "introEn": "Meaning: mass; mass (media, production, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ねぇ 誰か居ませんか",
     "exampleZh": "呐 这里有人在吗",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -14510,7 +13688,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
+    "source": "kotobako-jmdict",
     "forms": [
       "ます"
     ]
@@ -14541,10 +13719,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "うんざり",
     "kana": "うんざり",
     "romaji": "unzari",
-    "zh": "释义：tedious; boring; being fed up with",
+    "zh": "结合本句可理解为：我已经对这幅光景感到厌烦",
     "en": "tedious; boring; being fed up with",
     "partOfSpeech": "副词 / adverb; adverb · adverb (to) · suru verb",
-    "introZh": "词典释义：tedious; boring; being fed up with。出自例句「景色にほとほとうんざりしてる」。",
+    "introZh": "词典释义：结合本句可理解为：我已经对这幅光景感到厌烦。出自例句「景色にほとほとうんざりしてる」。",
     "introEn": "Meaning: tedious; boring; being fed up with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "景色にほとほとうんざりしてる",
     "exampleZh": "我已经对这幅光景感到厌烦",
@@ -14562,10 +13740,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "苦手",
     "kana": "にがて",
     "romaji": "nigate",
-    "zh": "释义：poor (at); weak (in); not very good (at); not one's cup of tea; not one's favorite",
+    "zh": "结合本句可理解为：总去做不擅长的事物 只会让理想破灭罢了",
     "en": "poor (at); weak (in); not very good (at); not one's cup of tea; not one's favorite",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：poor (at); weak (in); not very good (at); not one's cup of tea; not one's favorite。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
+    "introZh": "词典释义：结合本句可理解为：总去做不擅长的事物 只会让理想破灭罢了。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
     "introEn": "Meaning: poor (at); weak (in); not very good (at); not one's cup of tea; not one's favorite. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "苦手なことばかりが そびえ立って理想を終わらせるんだ",
     "exampleZh": "总去做不擅长的事物 只会让理想破灭罢了",
@@ -14576,10 +13754,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にがて"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-305d-3073-3048-7acb-3063-625",
@@ -14602,8 +13777,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "そびえ立つ",
-      "そびえたっ"
+      "そびえ立つ"
     ]
   },
   {
@@ -14611,10 +13785,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "終わら",
     "kana": "おわら",
     "romaji": "owara",
-    "zh": "释义：to end; to come to an end; to finish; to close; to be over",
+    "zh": "结束；告终；完成；关闭",
     "en": "to end; to come to an end; to finish; to close; to be over",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to end; to come to an end; to finish; to close; to be over。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
+    "introZh": "词典释义：结束；告终；完成；关闭。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
     "introEn": "Meaning: to end; to come to an end; to finish; to close; to be over. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "苦手なことばかりが そびえ立って理想を終わらせるんだ",
     "exampleZh": "总去做不擅长的事物 只会让理想破灭罢了",
@@ -14627,8 +13801,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "終わる",
-      "おわら"
+      "終わる"
     ]
   },
   {
@@ -14636,10 +13809,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "せる",
     "kana": "せる",
     "romaji": "seru",
-    "zh": "释义：cell; serge; cel (celluloid); starter motor",
+    "zh": "结合本句可理解为：总去做不擅长的事物 只会让理想破灭罢了",
     "en": "cell; serge; cel (celluloid); starter motor",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：cell; serge; cel (celluloid); starter motor。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
+    "introZh": "词典释义：结合本句可理解为：总去做不擅长的事物 只会让理想破灭罢了。出自例句「苦手なことばかりが そびえ立って理想を終わらせるんだ」。",
     "introEn": "Meaning: cell; serge; cel (celluloid); starter motor. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "苦手なことばかりが そびえ立って理想を終わらせるんだ",
     "exampleZh": "总去做不擅长的事物 只会让理想破灭罢了",
@@ -14657,10 +13830,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "もっと",
     "kana": "もっと",
     "romaji": "motto",
-    "zh": "释义：(some) more; even more; longer; further",
+    "zh": "结合本句可理解为：殴向更为污秽的内心深处 只是想听到似人的话语",
     "en": "(some) more; even more; longer; further",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：(some) more; even more; longer; further。出自例句「もっと汚くて心の奥をなぐる 人間らしい言葉がほしい」。",
+    "introZh": "词典释义：结合本句可理解为：殴向更为污秽的内心深处 只是想听到似人的话语。出自例句「もっと汚くて心の奥をなぐる 人間らしい言葉がほしい」。",
     "introEn": "Meaning: (some) more; even more; longer; further. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もっと汚くて心の奥をなぐる 人間らしい言葉がほしい",
     "exampleZh": "殴向更为污秽的内心深处 只是想听到似人的话语",
@@ -14678,10 +13851,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なぐる",
     "kana": "なぐる",
     "romaji": "naguru",
-    "zh": "释义：to strike; to hit; to beat; to punch",
+    "zh": "打；击中",
     "en": "to strike; to hit; to beat; to punch",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to strike; to hit; to beat; to punch。出自例句「もっと汚くて心の奥をなぐる 人間らしい言葉がほしい」。",
+    "introZh": "词典释义：打；击中。出自例句「もっと汚くて心の奥をなぐる 人間らしい言葉がほしい」。",
     "introEn": "Meaning: to strike; to hit; to beat; to punch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もっと汚くて心の奥をなぐる 人間らしい言葉がほしい",
     "exampleZh": "殴向更为污秽的内心深处 只是想听到似人的话语",
@@ -14713,20 +13886,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "にんげんらしい"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5815-3061-631",
     "japanese": "堕ち",
     "kana": "おち",
     "romaji": "ochi",
-    "zh": "释义：slip; omission; upshot; denouement; outcome; final result",
+    "zh": "省略；遗漏；结果；结局",
     "en": "slip; omission; upshot; denouement; outcome; final result",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：slip; omission; upshot; denouement; outcome; final result。出自例句「堕ちていく 光なき海じゃ 声も響かない」。",
+    "introZh": "词典释义：省略；遗漏；结果；结局。出自例句「堕ちていく 光なき海じゃ 声も響かない」。",
     "introEn": "Meaning: slip; omission; upshot; denouement; outcome; final result. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "堕ちていく 光なき海じゃ 声も響かない",
     "exampleZh": "可若是坠入无光大海 只会无法发声",
@@ -14739,8 +13909,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "堕ちる",
-      "おち"
+      "堕ちる"
     ]
   },
   {
@@ -14748,11 +13917,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なき",
     "kana": "なき",
     "romaji": "naki",
-    "zh": "释义：weeping; lamenting",
-    "en": "weeping; lamenting",
-    "partOfSpeech": "形容词 / adjective; noun",
-    "introZh": "词典释义：weeping; lamenting。出自例句「堕ちていく 光なき海じゃ 声も響かない」。",
-    "introEn": "Meaning: weeping; lamenting. Dictionary data: local Kotobako/JMdict.",
+    "zh": "不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的",
+    "en": "nonexistent; not being (there); unowned; not had; unpossessed; unique",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：不存在；没有；不在；无主的；没有的；没有持有；未持有的；独一无二的。出自例句「堕ちていく 光なき海じゃ 声も響かない」。",
+    "introEn": "Meaning: nonexistent; not being (there); unowned; not had; unpossessed; unique. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "堕ちていく 光なき海じゃ 声も響かない",
     "exampleZh": "可若是坠入无光大海 只会无法发声",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -14772,10 +13941,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "通",
     "kana": "つう",
     "romaji": "tsuu",
-    "zh": "释义：authority; expert; connoisseur; well-informed person; counter for messages, letters, notes, documents, etc.; understanding (esp. of male-female relations)",
+    "zh": "结合本句可理解为：方才通达便已断开",
     "en": "authority; expert; connoisseur; well-informed person; counter for messages, letters, notes, documents, etc.; understanding (esp. of male-female relations)",
     "partOfSpeech": "名词 / noun; noun · n-suf · na-adjective",
-    "introZh": "词典释义：authority; expert; connoisseur; well-informed person; counter for messages, letters, notes, documents, etc.; understanding (esp. of male-female relations)。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
+    "introZh": "词典释义：结合本句可理解为：方才通达便已断开。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
     "introEn": "Meaning: authority; expert; connoisseur; well-informed person; counter for messages, letters, notes, documents, etc.; understanding (esp. of male-female relations). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "通(かよ)ったと思えばすぐに切れるこんな",
     "exampleZh": "方才通达便已断开",
@@ -14786,20 +13955,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3059-3050-634",
     "japanese": "すぐ",
     "kana": "すぐ",
     "romaji": "sugu",
-    "zh": "释义：immediately; at once; right away; directly; soon; before long",
+    "zh": "立刻；马上；很快；不久",
     "en": "immediately; at once; right away; directly; soon; before long",
     "partOfSpeech": "副词 / adverb; adverb · noun",
-    "introZh": "词典释义：immediately; at once; right away; directly; soon; before long。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
+    "introZh": "词典释义：立刻；马上；很快；不久。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
     "introEn": "Meaning: immediately; at once; right away; directly; soon; before long. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "通(かよ)ったと思えばすぐに切れるこんな",
     "exampleZh": "方才通达便已断开",
@@ -14817,10 +13983,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "切れる",
     "kana": "きれる",
     "romaji": "kireru",
-    "zh": "释义：to break; to snap; to be cut; to split; to crack; to be injured",
+    "zh": "断裂；折断",
     "en": "to break; to snap; to be cut; to split; to crack; to be injured",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to break; to snap; to be cut; to split; to crack; to be injured。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
+    "introZh": "词典释义：断裂；折断。出自例句「通(かよ)ったと思えばすぐに切れるこんな」。",
     "introEn": "Meaning: to break; to snap; to be cut; to split; to crack; to be injured. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "通(かよ)ったと思えばすぐに切れるこんな",
     "exampleZh": "方才通达便已断开",
@@ -14831,20 +13997,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きれる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7cf8-636",
     "japanese": "糸",
     "kana": "いと",
     "romaji": "ito",
-    "zh": "释义：thread; yarn; string",
+    "zh": "结合本句可理解为：只剩复杂的线路缠绕在一起",
     "en": "thread; yarn; string",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：thread; yarn; string。出自例句「複雑な糸が絡み込んだ」。",
+    "introZh": "词典释义：结合本句可理解为：只剩复杂的线路缠绕在一起。出自例句「複雑な糸が絡み込んだ」。",
     "introEn": "Meaning: thread; yarn; string. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "複雑な糸が絡み込んだ",
     "exampleZh": "只剩复杂的线路缠绕在一起",
@@ -14855,21 +14018,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いと"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8fbc-3093-637",
     "japanese": "込ん",
     "kana": "こん",
     "romaji": "kon",
-    "zh": "释义：navy blue; deep blue",
-    "en": "navy blue; deep blue",
-    "partOfSpeech": "动词 / verb; noun · no-adjective",
-    "introZh": "词典释义：navy blue; deep blue。出自例句「複雑な糸が絡み込んだ」。",
-    "introEn": "Meaning: navy blue; deep blue. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：只剩复杂的线路缠绕在一起",
+    "en": "to be crowded; to be packed; to be congested; to be thronged (with); to be complex; to be intricate",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：只剩复杂的线路缠绕在一起。出自例句「複雑な糸が絡み込んだ」。",
+    "introEn": "Meaning: to be crowded; to be packed; to be congested; to be thronged (with); to be complex; to be intricate. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "複雑な糸が絡み込んだ",
     "exampleZh": "只剩复杂的线路缠绕在一起",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -14881,8 +14041,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "込む",
-      "こん"
+      "込む"
     ]
   },
   {
@@ -14890,10 +14049,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "現実",
     "kana": "げんじつ",
     "romaji": "genjitsu",
-    "zh": "释义：reality; actuality; hard fact",
+    "zh": "实际；现实",
     "en": "reality; actuality; hard fact",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：reality; actuality; hard fact。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
+    "introZh": "词典释义：实际；现实。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
     "introEn": "Meaning: reality; actuality; hard fact. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "現実をどうにか避けて生きては命を繋いでる",
     "exampleZh": "想办法逃避现实来维持生命",
@@ -14904,20 +14063,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "げんじつ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3069-3046-306b-304b-639",
     "japanese": "どうにか",
     "kana": "どうにか",
     "romaji": "dounika",
-    "zh": "释义：in some way or other; one way or another; somehow; only just; barely",
+    "zh": "结合本句可理解为：想办法逃避现实来维持生命",
     "en": "in some way or other; one way or another; somehow; only just; barely",
     "partOfSpeech": "副词 / adverb; adverb · suru verb",
-    "introZh": "词典释义：in some way or other; one way or another; somehow; only just; barely。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
+    "introZh": "词典释义：结合本句可理解为：想办法逃避现实来维持生命。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
     "introEn": "Meaning: in some way or other; one way or another; somehow; only just; barely. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "現実をどうにか避けて生きては命を繋いでる",
     "exampleZh": "想办法逃避现实来维持生命",
@@ -14935,10 +14091,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "繋い",
     "kana": "つない",
     "romaji": "tsunai",
-    "zh": "释义：to connect; to link together; to tie; to fasten; to restrain; to maintain",
+    "zh": "连接；联系；维持；保持",
     "en": "to connect; to link together; to tie; to fasten; to restrain; to maintain",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to connect; to link together; to tie; to fasten; to restrain; to maintain。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
+    "introZh": "词典释义：连接；联系；维持；保持。出自例句「現実をどうにか避けて生きては命を繋いでる」。",
     "introEn": "Meaning: to connect; to link together; to tie; to fasten; to restrain; to maintain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "現実をどうにか避けて生きては命を繋いでる",
     "exampleZh": "想办法逃避现实来维持生命",
@@ -14951,8 +14107,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "繋ぐ",
-      "つない"
+      "繋ぐ"
     ]
   },
   {
@@ -14960,10 +14115,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "普通",
     "kana": "ふつう",
     "romaji": "futsuu",
-    "zh": "释义：normal; ordinary; regular; usual; common; average",
+    "zh": "普通的；平常的；通常的；固定的；普通；常见",
     "en": "normal; ordinary; regular; usual; common; average",
     "partOfSpeech": "名词 / noun; no-adjective · na-adjective",
-    "introZh": "词典释义：normal; ordinary; regular; usual; common; average。出自例句「要らないんでしょ 知ってるよ 普通に 歩けない」。",
+    "introZh": "词典释义：普通的；平常的；通常的；固定的；普通；常见。出自例句「要らないんでしょ 知ってるよ 普通に 歩けない」。",
     "introEn": "Meaning: normal; ordinary; regular; usual; common; average. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "要らないんでしょ 知ってるよ 普通に 歩けない",
     "exampleZh": "其实不需要对吧 我明白啊 可若没有就 没法正常走下去啊",
@@ -14974,10 +14129,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふつう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6b69-3051-642",
@@ -15000,8 +14152,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "歩ける",
-      "あるけ"
+      "歩ける"
     ]
   },
   {
@@ -15009,10 +14160,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "バカ",
     "kana": "ばか",
     "romaji": "baka",
-    "zh": "释义：idiot; moron; fool; stupid; foolish; dull",
+    "zh": "结合本句可理解为：就像傻瓜一般 傻瓜一般 怎样才能露出笑容？",
     "en": "idiot; moron; fool; stupid; foolish; dull",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：idiot; moron; fool; stupid; foolish; dull。出自例句「バカみたい バカみたい どうやって笑うの？」。",
+    "introZh": "词典释义：结合本句可理解为：就像傻瓜一般 傻瓜一般 怎样才能露出笑容？。出自例句「バカみたい バカみたい どうやって笑うの？」。",
     "introEn": "Meaning: idiot; moron; fool; stupid; foolish; dull. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "バカみたい バカみたい どうやって笑うの？",
     "exampleZh": "就像傻瓜一般 傻瓜一般 怎样才能露出笑容？",
@@ -15023,20 +14174,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ばか"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-679c-3066-3057-306a-3044-644",
     "japanese": "果てしない",
     "kana": "はてしない",
     "romaji": "hateshinai",
-    "zh": "释义：endless; boundless; everlasting",
+    "zh": "结合本句可理解为：听到了无尽的梦想破灭的声音",
     "en": "endless; boundless; everlasting",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：endless; boundless; everlasting。出自例句「果てしないはずだった夢が壊れる音がした」。",
+    "introZh": "词典释义：结合本句可理解为：听到了无尽的梦想破灭的声音。出自例句「果てしないはずだった夢が壊れる音がした」。",
     "introEn": "Meaning: endless; boundless; everlasting. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "果てしないはずだった夢が壊れる音がした",
     "exampleZh": "听到了无尽的梦想破灭的声音",
@@ -15047,20 +14195,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はてしない"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3060-3063-645",
     "japanese": "だっ",
     "kana": "だっ",
     "romaji": "da",
-    "zh": "释义：be; is",
+    "zh": "是；存在",
     "en": "be; is",
     "partOfSpeech": "助动词 / auxiliary; auxiliary verb · cop",
-    "introZh": "词典释义：be; is。出自例句「果てしないはずだった夢が壊れる音がした」。",
+    "introZh": "词典释义：是；存在。出自例句「果てしないはずだった夢が壊れる音がした」。",
     "introEn": "Meaning: be; is. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "果てしないはずだった夢が壊れる音がした",
     "exampleZh": "听到了无尽的梦想破灭的声音",
@@ -15081,10 +14226,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "そろそろ",
     "kana": "そろそろ",
     "romaji": "sorosoro",
-    "zh": "释义：soon; before long; any time now; momentarily; slowly; quietly",
+    "zh": "很快；不久",
     "en": "soon; before long; any time now; momentarily; slowly; quietly",
     "partOfSpeech": "副词 / adverb; adverb · adverb (to)",
-    "introZh": "词典释义：soon; before long; any time now; momentarily; slowly; quietly。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
+    "introZh": "词典释义：很快；不久。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
     "introEn": "Meaning: soon; before long; any time now; momentarily; slowly; quietly. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "涙も出ない そろそろちゃんと生きよっか",
     "exampleZh": "就连泪水也已枯竭 那就好好活下去吧",
@@ -15102,10 +14247,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ちゃんと",
     "kana": "ちゃんと",
     "romaji": "chanto",
-    "zh": "释义：diligently; seriously; earnestly; reliably; steadily; legitimately",
+    "zh": "结合本句可理解为：就连泪水也已枯竭 那就好好活下去吧",
     "en": "diligently; seriously; earnestly; reliably; steadily; legitimately",
     "partOfSpeech": "副词 / adverb; adverb · suru verb",
-    "introZh": "词典释义：diligently; seriously; earnestly; reliably; steadily; legitimately。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
+    "introZh": "词典释义：结合本句可理解为：就连泪水也已枯竭 那就好好活下去吧。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
     "introEn": "Meaning: diligently; seriously; earnestly; reliably; steadily; legitimately. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "涙も出ない そろそろちゃんと生きよっか",
     "exampleZh": "就连泪水也已枯竭 那就好好活下去吧",
@@ -15123,10 +14268,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "よっ",
     "kana": "よっ",
     "romaji": "yo",
-    "zh": "释义：to be due to; to be caused by; to depend on; to turn on; to be based on; to come from",
+    "zh": "结合本句可理解为：就连泪水也已枯竭 那就好好活下去吧",
     "en": "to be due to; to be caused by; to depend on; to turn on; to be based on; to come from",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be due to; to be caused by; to depend on; to turn on; to be based on; to come from。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
+    "introZh": "词典释义：结合本句可理解为：就连泪水也已枯竭 那就好好活下去吧。出自例句「涙も出ない そろそろちゃんと生きよっか」。",
     "introEn": "Meaning: to be due to; to be caused by; to depend on; to turn on; to be based on; to come from. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "涙も出ない そろそろちゃんと生きよっか",
     "exampleZh": "就连泪水也已枯竭 那就好好活下去吧",
@@ -15147,10 +14292,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "溺れ",
     "kana": "おぼれ",
     "romaji": "obore",
-    "zh": "释义：to struggle in the water; to sink below the surface and become unable to breathe; to (nearly) drown; to indulge in; to lose one's head over something; to be addicted",
+    "zh": "结合本句可理解为：曾经溺入水中 如今就连怎样遨游也都不知道",
     "en": "to struggle in the water; to sink below the surface and become unable to breathe; to (nearly) drown; to indulge in; to lose one's head over something; to be addicted",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to struggle in the water; to sink below the surface and become unable to breathe; to (nearly) drown; to indulge in; to lose one's head over something; to be addicted。出自例句「激しく溺れてたから泳ぎ方がわかんない」。",
+    "introZh": "词典释义：结合本句可理解为：曾经溺入水中 如今就连怎样遨游也都不知道。出自例句「激しく溺れてたから泳ぎ方がわかんない」。",
     "introEn": "Meaning: to struggle in the water; to sink below the surface and become unable to breathe; to (nearly) drown; to indulge in; to lose one's head over something; to be addicted. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "激しく溺れてたから泳ぎ方がわかんない",
     "exampleZh": "曾经溺入水中 如今就连怎样遨游也都不知道",
@@ -15163,8 +14308,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "溺れる",
-      "おぼれ"
+      "溺れる"
     ]
   },
   {
@@ -15186,21 +14330,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "およぎかた"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-308f-304b-651",
     "japanese": "わか",
     "kana": "わか",
     "romaji": "waka",
-    "zh": "释义：waka; classic Japanese poem, esp. a tanka, often 31 morae",
-    "en": "waka; classic Japanese poem, esp. a tanka, often 31 morae",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：waka; classic Japanese poem, esp. a tanka, often 31 morae。出自例句「激しく溺れてたから泳ぎ方がわかんない」。",
-    "introEn": "Meaning: waka; classic Japanese poem, esp. a tanka, often 31 morae. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：曾经溺入水中 如今就连怎样遨游也都不知道",
+    "en": "frame; framework; border; box; limit; restriction",
+    "partOfSpeech": "动词 / verb; noun · n-suf",
+    "introZh": "词典释义：结合本句可理解为：曾经溺入水中 如今就连怎样遨游也都不知道。出自例句「激しく溺れてたから泳ぎ方がわかんない」。",
+    "introEn": "Meaning: frame; framework; border; box; limit; restriction. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "激しく溺れてたから泳ぎ方がわかんない",
     "exampleZh": "曾经溺入水中 如今就连怎样遨游也都不知道",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -15220,10 +14361,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "どうして",
     "kana": "どうして",
     "romaji": "doushite",
-    "zh": "释义：how; in what way; by what means; why; for what reason; for what purpose",
+    "zh": "结合本句可理解为：为什么事到如今依然伤心?",
     "en": "how; in what way; by what means; why; for what reason; for what purpose",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：how; in what way; by what means; why; for what reason; for what purpose。出自例句「どうして今さら悲しい？」。",
+    "introZh": "词典释义：结合本句可理解为：为什么事到如今依然伤心?。出自例句「どうして今さら悲しい？」。",
     "introEn": "Meaning: how; in what way; by what means; why; for what reason; for what purpose. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうして今さら悲しい？",
     "exampleZh": "为什么事到如今依然伤心?",
@@ -15241,10 +14382,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "今さら",
     "kana": "いまさら",
     "romaji": "imasara",
-    "zh": "释义：now (when it is already much too late); at this stage; afresh; anew; again",
+    "zh": "现在；再次；又",
     "en": "now (when it is already much too late); at this stage; afresh; anew; again",
     "partOfSpeech": "名词 / noun; adverb",
-    "introZh": "词典释义：now (when it is already much too late); at this stage; afresh; anew; again。出自例句「どうして今さら悲しい？」。",
+    "introZh": "词典释义：现在；再次；又。出自例句「どうして今さら悲しい？」。",
     "introEn": "Meaning: now (when it is already much too late); at this stage; afresh; anew; again. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうして今さら悲しい？",
     "exampleZh": "为什么事到如今依然伤心?",
@@ -15255,10 +14396,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いまさら"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-672c-5f53-306f-654",
@@ -15279,21 +14417,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ほんとうは"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-306a-308a-655",
     "japanese": "なり",
     "kana": "なり",
     "romaji": "nari",
-    "zh": "释义：or something; for instance ... (though there are other suitable options); ... or ...; as soon as; right after; while still",
-    "en": "or something; for instance ... (though there are other suitable options); ... or ...; as soon as; right after; while still",
-    "partOfSpeech": "动词 / verb; particle",
-    "introZh": "词典释义：or something; for instance ... (though there are other suitable options); ... or ...; as soon as; right after; while still。出自例句「幸せになりたかった」。",
-    "introEn": "Meaning: or something; for instance ... (though there are other suitable options); ... or ...; as soon as; right after; while still. Dictionary data: local Kotobako/JMdict.",
+    "zh": "变成；成为；得到；变得；成长；转向；到达；达到",
+    "en": "to become; to get; to grow; to turn; to reach; to attain",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：变成；成为；得到；变得；成长；转向；到达；达到。出自例句「幸せになりたかった」。",
+    "introEn": "Meaning: to become; to get; to grow; to turn; to reach; to attain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "幸せになりたかった",
     "exampleZh": "一样变得幸福啊",
     "exampleEn": "Example line from \"声なき魚 (新川崎(仮))\" by トゲナシトゲアリ.",
@@ -15313,10 +14448,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たかっ",
     "kana": "たかっ",
     "romaji": "taka",
-    "zh": "释义：want to do ...; would like to do ...; indicates emphasis; very ...",
+    "zh": "结合本句可理解为：一样变得幸福啊",
     "en": "want to do ...; would like to do ...; indicates emphasis; very ...",
     "partOfSpeech": "助动词 / auxiliary; aux-adj · i-adjective",
-    "introZh": "词典释义：want to do ...; would like to do ...; indicates emphasis; very ...。出自例句「幸せになりたかった」。",
+    "introZh": "词典释义：结合本句可理解为：一样变得幸福啊。出自例句「幸せになりたかった」。",
     "introEn": "Meaning: want to do ...; would like to do ...; indicates emphasis; very .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "幸せになりたかった",
     "exampleZh": "一样变得幸福啊",
@@ -15337,10 +14472,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "絶望",
     "kana": "ぜつぼう",
     "romaji": "zetsubou",
-    "zh": "释义：despair; hopelessness",
+    "zh": "绝望",
     "en": "despair; hopelessness",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：despair; hopelessness。出自例句「何の絶望もないよ真実は害さ」。",
+    "introZh": "词典释义：绝望。出自例句「何の絶望もないよ真実は害さ」。",
     "introEn": "Meaning: despair; hopelessness. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何の絶望もないよ真実は害さ",
     "exampleZh": "哪有什么绝望 真相是有害的",
@@ -15351,10 +14486,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぜつぼう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5bb3-3055-658",
@@ -15377,8 +14509,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "害す",
-      "がいさ"
+      "害す"
     ]
   },
   {
@@ -15400,20 +14531,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "しんきろう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-4e0d-90fd-5408-660",
     "japanese": "不都合",
     "kana": "ふつごう",
     "romaji": "futsugou",
-    "zh": "释义：inconvenient; inexpedient; unfavourable; troublesome; difficult; wrong",
+    "zh": "结合本句可理解为：我不介意隐藏自身存在 反正与格格不入的我豪不相干",
     "en": "inconvenient; inexpedient; unfavourable; troublesome; difficult; wrong",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：inconvenient; inexpedient; unfavourable; troublesome; difficult; wrong。出自例句「存在を消したっていい不都合な僕に関係は無いことばかり」。",
+    "introZh": "词典释义：结合本句可理解为：我不介意隐藏自身存在 反正与格格不入的我豪不相干。出自例句「存在を消したっていい不都合な僕に関係は無いことばかり」。",
     "introEn": "Meaning: inconvenient; inexpedient; unfavourable; troublesome; difficult; wrong. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "存在を消したっていい不都合な僕に関係は無いことばかり",
     "exampleZh": "我不介意隐藏自身存在 反正与格格不入的我豪不相干",
@@ -15424,20 +14552,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふつごう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-95a2-4fc2-661",
     "japanese": "関係",
     "kana": "かんけい",
     "romaji": "kankei",
-    "zh": "释义：relation; relationship; connection; participation; involvement; concern",
+    "zh": "关系；连接",
     "en": "relation; relationship; connection; participation; involvement; concern",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：relation; relationship; connection; participation; involvement; concern。出自例句「存在を消したっていい不都合な僕に関係は無いことばかり」。",
+    "introZh": "词典释义：关系；连接。出自例句「存在を消したっていい不都合な僕に関係は無いことばかり」。",
     "introEn": "Meaning: relation; relationship; connection; participation; involvement; concern. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "存在を消したっていい不都合な僕に関係は無いことばかり",
     "exampleZh": "我不介意隐藏自身存在 反正与格格不入的我豪不相干",
@@ -15448,10 +14573,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かんけい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30d7-30ec-30a4-30f3-662",
@@ -15472,20 +14594,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ぷれいん"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3061-3083-3063-663",
     "japanese": "ちゃっ",
     "kana": "ちゃっ",
     "romaji": "cha",
-    "zh": "释义：to do completely; to do accidentally; to do without meaning to; to happen to do",
+    "zh": "彻底做完；不小心做；无意中做；碰巧做",
     "en": "to do completely; to do accidentally; to do without meaning to; to happen to do",
     "partOfSpeech": "动词 / verb; auxiliary verb · godan verb",
-    "introZh": "词典释义：to do completely; to do accidentally; to do without meaning to; to happen to do。出自例句「もうプレインは砕けちゃって」。",
+    "introZh": "词典释义：彻底做完；不小心做；无意中做；碰巧做。出自例句「もうプレインは砕けちゃって」。",
     "introEn": "Meaning: to do completely; to do accidentally; to do without meaning to; to happen to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もうプレインは砕けちゃって",
     "exampleZh": "大脑早已支离破碎",
@@ -15506,10 +14625,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "教育",
     "kana": "きょういく",
     "romaji": "kyouiku",
-    "zh": "释义：education; schooling; training; instruction; teaching; upbringing",
+    "zh": "结合本句可理解为：看吧 教育永远不会认同我的品格",
     "en": "education; schooling; training; instruction; teaching; upbringing",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：education; schooling; training; instruction; teaching; upbringing。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
+    "introZh": "词典释义：结合本句可理解为：看吧 教育永远不会认同我的品格。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
     "introEn": "Meaning: education; schooling; training; instruction; teaching; upbringing. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "教育はそうやって僕の人格をずっと認めやしないよ",
     "exampleZh": "看吧 教育永远不会认同我的品格",
@@ -15520,20 +14639,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きょういく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4eba-683c-665",
     "japanese": "人格",
     "kana": "じんかく",
     "romaji": "jinkaku",
-    "zh": "释义：personality; character; individuality; personhood",
+    "zh": "结合本句可理解为：看吧 教育永远不会认同我的品格",
     "en": "personality; character; individuality; personhood",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：personality; character; individuality; personhood。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
+    "introZh": "词典释义：结合本句可理解为：看吧 教育永远不会认同我的品格。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
     "introEn": "Meaning: personality; character; individuality; personhood. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "教育はそうやって僕の人格をずっと認めやしないよ",
     "exampleZh": "看吧 教育永远不会认同我的品格",
@@ -15544,21 +14660,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "じんかく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8a8d-3081-666",
     "japanese": "認め",
     "kana": "みとめ",
     "romaji": "mitome",
-    "zh": "释义：approval; acceptance; recognition; acknowledgement; private seal; signet",
-    "en": "approval; acceptance; recognition; acknowledgement; private seal; signet",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：approval; acceptance; recognition; acknowledgement; private seal; signet。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
-    "introEn": "Meaning: approval; acceptance; recognition; acknowledgement; private seal; signet. Dictionary data: local Kotobako/JMdict.",
+    "zh": "注意到；察觉",
+    "en": "to recognize; to recognise; to observe; to notice; to deem; to judge",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：注意到；察觉。出自例句「教育はそうやって僕の人格をずっと認めやしないよ」。",
+    "introEn": "Meaning: to recognize; to recognise; to observe; to notice; to deem; to judge. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "教育はそうやって僕の人格をずっと認めやしないよ",
     "exampleZh": "看吧 教育永远不会认同我的品格",
     "exampleEn": "Example line from \"傷つき傷つけ痛くて辛い\" by トゲナシトゲアリ.",
@@ -15570,8 +14683,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "認める",
-      "みとめ"
+      "認める"
     ]
   },
   {
@@ -15603,10 +14715,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "押し付け",
     "kana": "おしつけ",
     "romaji": "oshitsuke",
-    "zh": "释义：to press against; to push against; to force against; to foist on (task, responsibility); to impose (one's will)",
+    "zh": "结合本句可理解为：强迫我解出没有正确答案的问题",
     "en": "to press against; to push against; to force against; to foist on (task, responsibility); to impose (one's will)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to press against; to push against; to force against; to foist on (task, responsibility); to impose (one's will)。出自例句「正解の無い問題を僕に押し付けて」。",
+    "introZh": "词典释义：结合本句可理解为：强迫我解出没有正确答案的问题。出自例句「正解の無い問題を僕に押し付けて」。",
     "introEn": "Meaning: to press against; to push against; to force against; to foist on (task, responsibility); to impose (one's will). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "正解の無い問題を僕に押し付けて",
     "exampleZh": "强迫我解出没有正确答案的问题",
@@ -15619,8 +14731,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "押し付ける",
-      "おしつけ"
+      "押し付ける"
     ]
   },
   {
@@ -15628,10 +14739,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "限ら",
     "kana": "かぎら",
     "romaji": "kagira",
-    "zh": "释义：to restrict; to limit; to confine; to be restricted to; to be limited to; to be confined to",
+    "zh": "结合本句可理解为：若要为了他人而活 就是在削减仅限的生命",
     "en": "to restrict; to limit; to confine; to be restricted to; to be limited to; to be confined to",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to restrict; to limit; to confine; to be restricted to; to be limited to; to be confined to。出自例句「誰かのために生きることなど限られた命を削っている」。",
+    "introZh": "词典释义：结合本句可理解为：若要为了他人而活 就是在削减仅限的生命。出自例句「誰かのために生きることなど限られた命を削っている」。",
     "introEn": "Meaning: to restrict; to limit; to confine; to be restricted to; to be limited to; to be confined to. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かのために生きることなど限られた命を削っている",
     "exampleZh": "若要为了他人而活 就是在削减仅限的生命",
@@ -15644,8 +14755,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "限る",
-      "かぎら"
+      "限る"
     ]
   },
   {
@@ -15653,10 +14763,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "若い",
     "kana": "わかい",
     "romaji": "wakai",
-    "zh": "释义：young; youthful; immature; green; low (number); small",
+    "zh": "结合本句可理解为：谁都在说年轻世代 必须为别人做的事情负起全责",
     "en": "young; youthful; immature; green; low (number); small",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：young; youthful; immature; green; low (number); small。出自例句「誰かがやったこと責任を取るのは若い世代だと言うけど」。",
+    "introZh": "词典释义：结合本句可理解为：谁都在说年轻世代 必须为别人做的事情负起全责。出自例句「誰かがやったこと責任を取るのは若い世代だと言うけど」。",
     "introEn": "Meaning: young; youthful; immature; green; low (number); small. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かがやったこと責任を取るのは若い世代だと言うけど",
     "exampleZh": "谁都在说年轻世代 必须为别人做的事情负起全责",
@@ -15667,20 +14777,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "わかい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e16-4ee3-671",
     "japanese": "世代",
     "kana": "せだい",
     "romaji": "sedai",
-    "zh": "释义：generation",
+    "zh": "结合本句可理解为：谁都在说年轻世代 必须为别人做的事情负起全责",
     "en": "generation",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：generation。出自例句「誰かがやったこと責任を取るのは若い世代だと言うけど」。",
+    "introZh": "词典释义：结合本句可理解为：谁都在说年轻世代 必须为别人做的事情负起全责。出自例句「誰かがやったこと責任を取るのは若い世代だと言うけど」。",
     "introEn": "Meaning: generation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かがやったこと責任を取るのは若い世代だと言うけど",
     "exampleZh": "谁都在说年轻世代 必须为别人做的事情负起全责",
@@ -15691,20 +14798,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "せだい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5411-3051-672",
     "japanese": "向け",
     "kana": "むけ",
     "romaji": "muke",
-    "zh": "释义：intended for ...; oriented towards ...; aimed at ...",
+    "zh": "结合本句可理解为：但究竟要补偿谁？做到何种程度？该如何做到？",
     "en": "intended for ...; oriented towards ...; aimed at ...",
     "partOfSpeech": "名词 / noun; n-suf",
-    "introZh": "词典释义：intended for ...; oriented towards ...; aimed at ...。出自例句「何処向けに何処までどう償えばいいんだろう」。",
+    "introZh": "词典释义：结合本句可理解为：但究竟要补偿谁？做到何种程度？该如何做到？。出自例句「何処向けに何処までどう償えばいいんだろう」。",
     "introEn": "Meaning: intended for ...; oriented towards ...; aimed at .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何処向けに何処までどう償えばいいんだろう",
     "exampleZh": "但究竟要补偿谁？做到何种程度？该如何做到？",
@@ -15715,20 +14819,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "むけ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-511f-3048-673",
     "japanese": "償え",
     "kana": "つぐなえ",
     "romaji": "tsugunae",
-    "zh": "释义：to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for",
+    "zh": "结合本句可理解为：但究竟要补偿谁？做到何种程度？该如何做到？",
     "en": "to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for。出自例句「何処向けに何処までどう償えばいいんだろう」。",
+    "introZh": "词典释义：结合本句可理解为：但究竟要补偿谁？做到何种程度？该如何做到？。出自例句「何処向けに何処までどう償えばいいんだろう」。",
     "introEn": "Meaning: to make up for; to compensate for; to indemnify; to recompense; to redeem (e.g. a fault); to atone for. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何処向けに何処までどう償えばいいんだろう",
     "exampleZh": "但究竟要补偿谁？做到何种程度？该如何做到？",
@@ -15741,8 +14842,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "償う",
-      "つぐなえ"
+      "償う"
     ]
   },
   {
@@ -15750,10 +14850,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "傷つき",
     "kana": "きずつき",
     "romaji": "kizutsuki",
-    "zh": "释义：to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched",
+    "zh": "结合本句可理解为：受到伤害 导致他人受伤",
     "en": "to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched。出自例句「傷つき、傷つけ」。",
+    "introZh": "词典释义：结合本句可理解为：受到伤害 导致他人受伤。出自例句「傷つき、傷つけ」。",
     "introEn": "Meaning: to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "傷つき、傷つけ",
     "exampleZh": "受到伤害 导致他人受伤",
@@ -15766,8 +14866,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "傷つく",
-      "きずつき"
+      "傷つく"
     ]
   },
   {
@@ -15775,10 +14874,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "傷つけ",
     "kana": "きずつけ",
     "romaji": "kizutsuke",
-    "zh": "释义：to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch",
+    "zh": "结合本句可理解为：受到伤害 导致他人受伤",
     "en": "to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch。出自例句「傷つき、傷つけ」。",
+    "introZh": "词典释义：结合本句可理解为：受到伤害 导致他人受伤。出自例句「傷つき、傷つけ」。",
     "introEn": "Meaning: to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "傷つき、傷つけ",
     "exampleZh": "受到伤害 导致他人受伤",
@@ -15791,8 +14890,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "傷つける",
-      "きずつけ"
+      "傷つける"
     ]
   },
   {
@@ -15800,11 +14898,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "痛く",
     "kana": "いたく",
     "romaji": "itaku",
-    "zh": "释义：entrusting (something to a person); consignment (of goods); putting in someone's charge; trust; commission",
-    "en": "entrusting (something to a person); consignment (of goods); putting in someone's charge; trust; commission",
-    "partOfSpeech": "形容词 / adjective; noun · suru verb · transitive verb",
-    "introZh": "词典释义：entrusting (something to a person); consignment (of goods); putting in someone's charge; trust; commission。出自例句「痛くて、辛いよ」。",
-    "introEn": "Meaning: entrusting (something to a person); consignment (of goods); putting in someone's charge; trust; commission. Dictionary data: local Kotobako/JMdict.",
+    "zh": "痛苦的；疼痛的",
+    "en": "painful; sore; cringy; embarrassing",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：痛苦的；疼痛的。出自例句「痛くて、辛いよ」。",
+    "introEn": "Meaning: painful; sore; cringy; embarrassing. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "痛くて、辛いよ",
     "exampleZh": "既痛苦又难受",
     "exampleEn": "Example line from \"傷つき傷つけ痛くて辛い\" by トゲナシトゲアリ.",
@@ -15816,8 +14914,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "痛い",
-      "いたく"
+      "痛い"
     ]
   },
   {
@@ -15825,10 +14922,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "辛い",
     "kana": "つらい",
     "romaji": "tsurai",
-    "zh": "释义：painful; bitter; heart-breaking; difficult (emotionally); tough; difficult",
+    "zh": "痛苦的；疼痛的",
     "en": "painful; bitter; heart-breaking; difficult (emotionally); tough; difficult",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：painful; bitter; heart-breaking; difficult (emotionally); tough; difficult。出自例句「痛くて、辛いよ」。",
+    "introZh": "词典释义：痛苦的；疼痛的。出自例句「痛くて、辛いよ」。",
     "introEn": "Meaning: painful; bitter; heart-breaking; difficult (emotionally); tough; difficult. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "痛くて、辛いよ",
     "exampleZh": "既痛苦又难受",
@@ -15839,21 +14936,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つらい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3057-307e-3044-678",
     "japanese": "しまい",
     "kana": "しまい",
     "romaji": "shimai",
-    "zh": "释义：sisters",
-    "en": "sisters",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：sisters。出自例句「どうしようもない気持ちばっか涙で前も見えなくなってしまい」。",
-    "introEn": "Meaning: sisters. Dictionary data: local Kotobako/JMdict.",
+    "zh": "完成；结束；停止；关闭",
+    "en": "to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：完成；结束；停止；关闭。出自例句「どうしようもない気持ちばっか涙で前も見えなくなってしまい」。",
+    "introEn": "Meaning: to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうしようもない気持ちばっか涙で前も見えなくなってしまい",
     "exampleZh": "每一种情绪都充斥着无奈 眼前早已因浸湿而看不到方向",
     "exampleEn": "Example line from \"傷つき傷つけ痛くて辛い\" by トゲナシトゲアリ.",
@@ -15873,10 +14967,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ちゃい",
     "kana": "ちゃい",
     "romaji": "chai",
-    "zh": "释义：to do completely; to do accidentally; to do without meaning to; to happen to do",
+    "zh": "彻底做完；不小心做；无意中做；碰巧做",
     "en": "to do completely; to do accidentally; to do without meaning to; to happen to do",
     "partOfSpeech": "动词 / verb; auxiliary verb · godan verb",
-    "introZh": "词典释义：to do completely; to do accidentally; to do without meaning to; to happen to do。出自例句「消えちゃいそうさ全て」。",
+    "introZh": "词典释义：彻底做完；不小心做；无意中做；碰巧做。出自例句「消えちゃいそうさ全て」。",
     "introEn": "Meaning: to do completely; to do accidentally; to do without meaning to; to happen to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "消えちゃいそうさ全て",
     "exampleZh": "仿佛一切都可能消失",
@@ -15897,10 +14991,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "名声",
     "kana": "めいせい",
     "romaji": "meisei",
-    "zh": "释义：fame; reputation; renown",
+    "zh": "结合本句可理解为：我们没有任何名气 真相反正与我们无关",
     "en": "fame; reputation; renown",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：fame; reputation; renown。出自例句「どんな名声もないさ真実はきっと僕たちに関係ない」。",
+    "introZh": "词典释义：结合本句可理解为：我们没有任何名气 真相反正与我们无关。出自例句「どんな名声もないさ真実はきっと僕たちに関係ない」。",
     "introEn": "Meaning: fame; reputation; renown. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どんな名声もないさ真実はきっと僕たちに関係ない",
     "exampleZh": "我们没有任何名气 真相反正与我们无关",
@@ -15911,20 +15005,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "めいせい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304d-3063-3068-681",
     "japanese": "きっと",
     "kana": "きっと",
     "romaji": "kitto",
-    "zh": "释义：surely; undoubtedly; almost certainly; most likely (e.g. 90 percent); sternly; severely",
+    "zh": "结合本句可理解为：我们没有任何名气 真相反正与我们无关",
     "en": "surely; undoubtedly; almost certainly; most likely (e.g. 90 percent); sternly; severely",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：surely; undoubtedly; almost certainly; most likely (e.g. 90 percent); sternly; severely。出自例句「どんな名声もないさ真実はきっと僕たちに関係ない」。",
+    "introZh": "词典释义：结合本句可理解为：我们没有任何名气 真相反正与我们无关。出自例句「どんな名声もないさ真実はきっと僕たちに関係ない」。",
     "introEn": "Meaning: surely; undoubtedly; almost certainly; most likely (e.g. 90 percent); sternly; severely. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どんな名声もないさ真実はきっと僕たちに関係ない",
     "exampleZh": "我们没有任何名气 真相反正与我们无关",
@@ -15958,8 +15049,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "ねじ曲げる",
-      "ねじまげ"
+      "ねじ曲げる"
     ]
   },
   {
@@ -15967,10 +15057,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ちゃえ",
     "kana": "ちゃえ",
     "romaji": "chae",
-    "zh": "释义：to do completely; to do accidentally; to do without meaning to; to happen to do",
+    "zh": "彻底做完；不小心做；无意中做；碰巧做",
     "en": "to do completely; to do accidentally; to do without meaning to; to happen to do",
     "partOfSpeech": "动词 / verb; auxiliary verb · godan verb",
-    "introZh": "词典释义：to do completely; to do accidentally; to do without meaning to; to happen to do。出自例句「全部ねじ曲げちゃえばいい」。",
+    "introZh": "词典释义：彻底做完；不小心做；无意中做；碰巧做。出自例句「全部ねじ曲げちゃえばいい」。",
     "introEn": "Meaning: to do completely; to do accidentally; to do without meaning to; to happen to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全部ねじ曲げちゃえばいい",
     "exampleZh": "扭曲全部的事实也无妨",
@@ -15991,10 +15081,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "原因",
     "kana": "げんいん",
     "romaji": "gen'in",
-    "zh": "释义：cause; origin; source",
+    "zh": "结合本句可理解为：虽原因不在我 但较好应付的我总是被轻易切割",
     "en": "cause; origin; source",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：cause; origin; source。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
+    "introZh": "词典释义：结合本句可理解为：虽原因不在我 但较好应付的我总是被轻易切割。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
     "introEn": "Meaning: cause; origin; source. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた",
     "exampleZh": "虽原因不在我 但较好应付的我总是被轻易切割",
@@ -16005,20 +15095,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "げんいん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-90fd-5408-685",
     "japanese": "都合",
     "kana": "つごう",
     "romaji": "tsugou",
-    "zh": "释义：circumstances; condition; convenience; arranging; managing; lending money",
+    "zh": "情况；状态",
     "en": "circumstances; condition; convenience; arranging; managing; lending money",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：circumstances; condition; convenience; arranging; managing; lending money。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
+    "introZh": "词典释义：情况；状态。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
     "introEn": "Meaning: circumstances; condition; convenience; arranging; managing; lending money. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた",
     "exampleZh": "虽原因不在我 但较好应付的我总是被轻易切割",
@@ -16029,21 +15116,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つごう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5207-308a-6368-3066-686",
     "japanese": "切り捨て",
     "kana": "きりすて",
     "romaji": "kirisute",
-    "zh": "释义：cutting a person down (without a second thought); sacrificing; throwing to the wolves; treating as sword fodder; omission; rounding down (e.g. fractions)",
-    "en": "cutting a person down (without a second thought); sacrificing; throwing to the wolves; treating as sword fodder; omission; rounding down (e.g. fractions)",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：cutting a person down (without a second thought); sacrificing; throwing to the wolves; treating as sword fodder; omission; rounding down (e.g. fractions)。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
-    "introEn": "Meaning: cutting a person down (without a second thought); sacrificing; throwing to the wolves; treating as sword fodder; omission; rounding down (e.g. fractions). Dictionary data: local Kotobako/JMdict.",
+    "zh": "放弃；抛弃；无视；不顾",
+    "en": "to cut off and throw away; to abandon; to disregard; to discard; to throw to the wolves; to discard (numbers after a certain decimal place)",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：放弃；抛弃；无视；不顾。出自例句「原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた」。",
+    "introEn": "Meaning: to cut off and throw away; to abandon; to disregard; to discard; to throw to the wolves; to discard (numbers after a certain decimal place). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "原因はいつだってそう関係がなくて都合がいい僕ばかり切り捨てた",
     "exampleZh": "虽原因不在我 但较好应付的我总是被轻易切割",
     "exampleEn": "Example line from \"傷つき傷つけ痛くて辛い\" by トゲナシトゲアリ.",
@@ -16055,8 +15139,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "切り捨てる",
-      "きりすて"
+      "切り捨てる"
     ]
   },
   {
@@ -16064,10 +15147,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "傷つける",
     "kana": "きずつける",
     "romaji": "kizutsukeru",
-    "zh": "释义：to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch",
+    "zh": "结合本句可理解为：倘若要为达某个目的而伤害旁人",
     "en": "to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch。出自例句「何かのために傷つけるなら」。",
+    "introZh": "词典释义：结合本句可理解为：倘若要为达某个目的而伤害旁人。出自例句「何かのために傷つけるなら」。",
     "introEn": "Meaning: to wound; to injure; to hurt someone's feelings (pride, etc.); to damage; to chip; to scratch. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何かのために傷つけるなら",
     "exampleZh": "倘若要为达某个目的而伤害旁人",
@@ -16078,20 +15161,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きずつける"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9593-9055-3063-688",
     "japanese": "間違っ",
     "kana": "まちがっ",
     "romaji": "machiga",
-    "zh": "释义：to be mistaken; to be incorrect; to be wrong; to make a mistake (in); to do incorrectly; to get wrong",
+    "zh": "结合本句可理解为：那我就是为错误的正义而歌唱着",
     "en": "to be mistaken; to be incorrect; to be wrong; to make a mistake (in); to do incorrectly; to get wrong",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be mistaken; to be incorrect; to be wrong; to make a mistake (in); to do incorrectly; to get wrong。出自例句「間違った正義を歌っている」。",
+    "introZh": "词典释义：结合本句可理解为：那我就是为错误的正义而歌唱着。出自例句「間違った正義を歌っている」。",
     "introEn": "Meaning: to be mistaken; to be incorrect; to be wrong; to make a mistake (in); to do incorrectly; to get wrong. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "間違った正義を歌っている",
     "exampleZh": "那我就是为错误的正义而歌唱着",
@@ -16104,8 +15184,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "間違う",
-      "まちがっ"
+      "間違う"
     ]
   },
   {
@@ -16113,10 +15192,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "正義",
     "kana": "せいぎ",
     "romaji": "seigi",
-    "zh": "释义：justice; right; righteousness; correct meaning; correct explanation",
+    "zh": "结合本句可理解为：那我就是为错误的正义而歌唱着",
     "en": "justice; right; righteousness; correct meaning; correct explanation",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：justice; right; righteousness; correct meaning; correct explanation。出自例句「間違った正義を歌っている」。",
+    "introZh": "词典释义：结合本句可理解为：那我就是为错误的正义而歌唱着。出自例句「間違った正義を歌っている」。",
     "introEn": "Meaning: justice; right; righteousness; correct meaning; correct explanation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "間違った正義を歌っている",
     "exampleZh": "那我就是为错误的正义而歌唱着",
@@ -16127,10 +15206,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "せいぎ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6c7a-3081-3064-3051-690",
@@ -16153,8 +15229,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "決めつける",
-      "きめつけ"
+      "決めつける"
     ]
   },
   {
@@ -16162,10 +15237,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "壊す",
     "kana": "こわす",
     "romaji": "kowasu",
-    "zh": "释义：to break; to destroy; to demolish; to wreck; to ruin; to spoil",
+    "zh": "断裂；折断",
     "en": "to break; to destroy; to demolish; to wreck; to ruin; to spoil",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to break; to destroy; to demolish; to wreck; to ruin; to spoil。出自例句「誰が決めつけた正解を壊すには長い時間がかかるけど」。",
+    "introZh": "词典释义：断裂；折断。出自例句「誰が決めつけた正解を壊すには長い時間がかかるけど」。",
     "introEn": "Meaning: to break; to destroy; to demolish; to wreck; to ruin; to spoil. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰が決めつけた正解を壊すには長い時間がかかるけど",
     "exampleZh": "到底是谁擅自决定的？ 要毁掉正确答案需要漫长的时间",
@@ -16176,20 +15251,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こわす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-304b-304b-308b-692",
     "japanese": "かかる",
     "kana": "かかる",
     "romaji": "kakaru",
-    "zh": "释义：to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)",
+    "zh": "到达；抵达",
     "en": "to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors)。出自例句「誰が決めつけた正解を壊すには長い時間がかかるけど」。",
+    "introZh": "词典释义：到达；抵达。出自例句「誰が決めつけた正解を壊すには長い時間がかかるけど」。",
     "introEn": "Meaning: to take (a resource, e.g. time or money); to hang; to come into view; to arrive; to come under (a contract, a tax); to start (engines, motors). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰が決めつけた正解を壊すには長い時間がかかるけど",
     "exampleZh": "到底是谁擅自决定的？ 要毁掉正确答案需要漫长的时间",
@@ -16207,10 +15279,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "答えれ",
     "kana": "こたえれ",
     "romaji": "kotaere",
-    "zh": "释义：to answer; to reply",
+    "zh": "回答",
     "en": "to answer; to reply",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to answer; to reply。出自例句「残酷な期待にどう答えればいいんだろう分かんないや」。",
+    "introZh": "词典释义：回答。出自例句「残酷な期待にどう答えればいいんだろう分かんないや」。",
     "introEn": "Meaning: to answer; to reply. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "残酷な期待にどう答えればいいんだろう分かんないや",
     "exampleZh": "如此残酷的期待 我到底该如何回应？ 我根本不懂!",
@@ -16223,8 +15295,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "答える",
-      "こたえれ"
+      "答える"
     ]
   },
   {
@@ -16232,10 +15303,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いや",
     "kana": "いや",
     "romaji": "iya",
-    "zh": "释义：no",
+    "zh": "不；没有",
     "en": "no",
     "partOfSpeech": "感叹词 / interjection",
-    "introZh": "词典释义：no。出自例句「残酷な期待にどう答えればいいんだろう分かんないや」。",
+    "introZh": "词典释义：不；没有。出自例句「残酷な期待にどう答えればいいんだろう分かんないや」。",
     "introEn": "Meaning: no. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "残酷な期待にどう答えればいいんだろう分かんないや",
     "exampleZh": "如此残酷的期待 我到底该如何回应？ 我根本不懂!",
@@ -16253,10 +15324,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ちゃう",
     "kana": "ちゃう",
     "romaji": "chau",
-    "zh": "释义：to do completely; to do accidentally; to do without meaning to; to happen to do",
+    "zh": "彻底做完；不小心做；无意中做；碰巧做",
     "en": "to do completely; to do accidentally; to do without meaning to; to happen to do",
     "partOfSpeech": "动词 / verb; auxiliary verb · godan verb",
-    "introZh": "词典释义：to do completely; to do accidentally; to do without meaning to; to happen to do。出自例句「消えちゃうんだ全て」。",
+    "introZh": "词典释义：彻底做完；不小心做；无意中做；碰巧做。出自例句「消えちゃうんだ全て」。",
     "introEn": "Meaning: to do completely; to do accidentally; to do without meaning to; to happen to do. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "消えちゃうんだ全て",
     "exampleZh": "然后一切将 不复存在",
@@ -16288,20 +15359,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "たえま"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-4ea4-5dee-70b9-697",
     "japanese": "交差点",
     "kana": "こうさてん",
     "romaji": "kousaten",
-    "zh": "释义：crossing; intersection",
+    "zh": "结合本句可理解为：在人流熙攘的十字路口",
     "en": "crossing; intersection",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：crossing; intersection。出自例句「絶え間なく混ざる交差点で」。",
+    "introZh": "词典释义：结合本句可理解为：在人流熙攘的十字路口。出自例句「絶え間なく混ざる交差点で」。",
     "introEn": "Meaning: crossing; intersection. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "絶え間なく混ざる交差点で",
     "exampleZh": "在人流熙攘的十字路口",
@@ -16312,10 +15380,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "こうさてん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e0a-8fba-698",
@@ -16336,20 +15401,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うわべ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-9054-699",
     "japanese": "達",
     "kana": "たち",
     "romaji": "tachi",
-    "zh": "释义：pluralizing suffix (esp. for people and animals; formerly honorific)",
+    "zh": "结合本句可理解为：空有表像的话语",
     "en": "pluralizing suffix (esp. for people and animals; formerly honorific)",
     "partOfSpeech": "名词 / noun; suffix",
-    "introZh": "词典释义：pluralizing suffix (esp. for people and animals; formerly honorific)。出自例句「上辺だけの言葉達が」。",
+    "introZh": "词典释义：结合本句可理解为：空有表像的话语。出自例句「上辺だけの言葉達が」。",
     "introEn": "Meaning: pluralizing suffix (esp. for people and animals; formerly honorific). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "上辺だけの言葉達が",
     "exampleZh": "空有表像的话语",
@@ -16360,10 +15422,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たち"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3053-3060-307e-700",
@@ -16391,10 +15450,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "流れ星",
     "kana": "ながれぼし",
     "romaji": "nagareboshi",
-    "zh": "释义：shooting star; falling star; meteor; blaze (wide white stripe down the face of a horse)",
+    "zh": "结合本句可理解为：若有流星坠落",
     "en": "shooting star; falling star; meteor; blaze (wide white stripe down the face of a horse)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：shooting star; falling star; meteor; blaze (wide white stripe down the face of a horse)。出自例句「流れ星が落ちてきたら」。",
+    "introZh": "词典释义：结合本句可理解为：若有流星坠落。出自例句「流れ星が落ちてきたら」。",
     "introEn": "Meaning: shooting star; falling star; meteor; blaze (wide white stripe down the face of a horse). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "流れ星が落ちてきたら",
     "exampleZh": "若有流星坠落",
@@ -16405,21 +15464,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ながれぼし"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-843d-3061-702",
     "japanese": "落ち",
     "kana": "おち",
     "romaji": "ochi",
-    "zh": "释义：slip; omission; upshot; denouement; outcome; final result",
-    "en": "slip; omission; upshot; denouement; outcome; final result",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：slip; omission; upshot; denouement; outcome; final result。出自例句「流れ星が落ちてきたら」。",
-    "introEn": "Meaning: slip; omission; upshot; denouement; outcome; final result. Dictionary data: local Kotobako/JMdict.",
+    "zh": "落下；丢下",
+    "en": "to fall; to drop; to come down; to crash; to collapse; to cave in",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：落下；丢下。出自例句「流れ星が落ちてきたら」。",
+    "introEn": "Meaning: to fall; to drop; to come down; to crash; to collapse; to cave in. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "流れ星が落ちてきたら",
     "exampleZh": "若有流星坠落",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -16431,8 +15487,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "落ちる",
-      "おち"
+      "落ちる"
     ]
   },
   {
@@ -16456,8 +15511,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "吹き飛ばす",
-      "ふきとばし"
+      "吹き飛ばす"
     ]
   },
   {
@@ -16465,10 +15519,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "しまう",
     "kana": "しまう",
     "romaji": "shimau",
-    "zh": "释义：to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)",
+    "zh": "完成；结束；停止；关闭",
     "en": "to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.)。出自例句「全部吹き飛ばしてしまう」。",
+    "introZh": "词典释义：完成；结束；停止；关闭。出自例句「全部吹き飛ばしてしまう」。",
     "introEn": "Meaning: to finish; to stop; to end; to put an end to; to bring to a close; to close (a business, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "全部吹き飛ばしてしまう",
     "exampleZh": "将一切尽数吹走",
@@ -16486,10 +15540,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "変われ",
     "kana": "かわれ",
     "romaji": "kaware",
-    "zh": "释义：to change; to be transformed; to be altered; to vary; to move to; to be different",
+    "zh": "改变；变化；变形；被改变；发生改变；不同；搬到；移动到",
     "en": "to change; to be transformed; to be altered; to vary; to move to; to be different",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to change; to be transformed; to be altered; to vary; to move to; to be different。出自例句「何も変われなかった」。",
+    "introZh": "词典释义：改变；变化；变形；被改变；发生改变；不同；搬到；移动到。出自例句「何も変われなかった」。",
     "introEn": "Meaning: to change; to be transformed; to be altered; to vary; to move to; to be different. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何も変われなかった",
     "exampleZh": "我们无力改变",
@@ -16502,8 +15556,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "変わる",
-      "かわれ"
+      "変わる"
     ]
   },
   {
@@ -16511,10 +15564,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "手",
     "kana": "しゅ",
     "romaji": "shu",
-    "zh": "释义：hand; arm; forepaw; foreleg; handle",
+    "zh": "手；手臂；前爪；前腿；把手；处理",
     "en": "hand; arm; forepaw; foreleg; handle",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：hand; arm; forepaw; foreleg; handle。出自例句「僕ら手が汚れないように」。",
+    "introZh": "词典释义：手；手臂；前爪；前腿；把手；处理。出自例句「僕ら手が汚れないように」。",
     "introEn": "Meaning: hand; arm; forepaw; foreleg; handle. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕ら手が汚れないように",
     "exampleZh": "只为不弄脏自己双手",
@@ -16526,9 +15579,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
-    "forms": [
-      "しゅ"
-    ],
     "readingOptions": [
       "て",
       "しゅ"
@@ -16543,10 +15593,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "視界",
     "kana": "しかい",
     "romaji": "shikai",
-    "zh": "释义：field of vision; visibility; view; visual field; (one's) ken",
+    "zh": "结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片",
     "en": "field of vision; visibility; view; visual field; (one's) ken",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：field of vision; visibility; view; visual field; (one's) ken。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
+    "introZh": "词典释义：结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
     "introEn": "Meaning: field of vision; visibility; view; visual field; (one's) ken. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "視界の隅 崩れてゆく夢のかけらも",
     "exampleZh": "就连视野一隅腐朽崩坏的梦想碎片",
@@ -16557,20 +15607,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しかい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9685-708",
     "japanese": "隅",
     "kana": "すみ",
     "romaji": "sumi",
-    "zh": "释义：corner; nook; recess; downstage right (on a noh stage)",
+    "zh": "结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片",
     "en": "corner; nook; recess; downstage right (on a noh stage)",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：corner; nook; recess; downstage right (on a noh stage)。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
+    "introZh": "词典释义：结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
     "introEn": "Meaning: corner; nook; recess; downstage right (on a noh stage). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "視界の隅 崩れてゆく夢のかけらも",
     "exampleZh": "就连视野一隅腐朽崩坏的梦想碎片",
@@ -16581,21 +15628,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "すみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5d29-308c-709",
     "japanese": "崩れ",
     "kana": "くずれ",
     "romaji": "kuzure",
-    "zh": "释义：crumbling; collapse; ruin; has-been; wannabe",
-    "en": "crumbling; collapse; ruin; has-been; wannabe",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：crumbling; collapse; ruin; has-been; wannabe。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
-    "introEn": "Meaning: crumbling; collapse; ruin; has-been; wannabe. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片",
+    "en": "to collapse; to crumble; to get out of shape; to lose one's shape; to become disorganized; to become untidy",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：就连视野一隅腐朽崩坏的梦想碎片。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
+    "introEn": "Meaning: to collapse; to crumble; to get out of shape; to lose one's shape; to become disorganized; to become untidy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "視界の隅 崩れてゆく夢のかけらも",
     "exampleZh": "就连视野一隅腐朽崩坏的梦想碎片",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -16607,8 +15651,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "崩れる",
-      "くずれ"
+      "崩れる"
     ]
   },
   {
@@ -16616,10 +15659,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "かけ",
     "kana": "かけ",
     "romaji": "kake",
-    "zh": "释义：credit; money owed on an account; bill; hanger; holder; rest",
+    "zh": "赊账；信用；账单；票据",
     "en": "credit; money owed on an account; bill; hanger; holder; rest",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：credit; money owed on an account; bill; hanger; holder; rest。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
+    "introZh": "词典释义：赊账；信用；账单；票据。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
     "introEn": "Meaning: credit; money owed on an account; bill; hanger; holder; rest. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "視界の隅 崩れてゆく夢のかけらも",
     "exampleZh": "就连视野一隅腐朽崩坏的梦想碎片",
@@ -16637,11 +15680,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ら",
     "kana": "ら",
     "romaji": "ra",
-    "zh": "释义：pluralizing suffix; or so; rough indicator of direction, location, amount, etc.; nominalizing suffix",
-    "en": "pluralizing suffix; or so; rough indicator of direction, location, amount, etc.; nominalizing suffix",
-    "partOfSpeech": "名词 / noun; suffix",
-    "introZh": "词典释义：pluralizing suffix; or so; rough indicator of direction, location, amount, etc.; nominalizing suffix。出自例句「視界の隅 崩れてゆく夢のかけらも」。",
-    "introEn": "Meaning: pluralizing suffix; or so; rough indicator of direction, location, amount, etc.; nominalizing suffix. Dictionary data: local Kotobako/JMdict.",
+    "zh": "常出现在假定、复数或活用形式中，需结合整句判断。",
+    "en": "A bound form used in conditionals, plurals, or conjugations.",
+    "partOfSpeech": "名词 / noun",
+    "introZh": "语法说明：常出现在假定、复数或活用形式中，需结合整句判断。 出自例句「視界の隅 崩れてゆく夢のかけらも」。",
+    "introEn": "A bound form used in conditionals, plurals, or conjugations. Example line: \"視界の隅 崩れてゆく夢のかけらも\".",
     "exampleJp": "視界の隅 崩れてゆく夢のかけらも",
     "exampleZh": "就连视野一隅腐朽崩坏的梦想碎片",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -16651,17 +15694,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict"
+    "source": "lyric-grammar"
   },
   {
     "id": "lyric-6c17-3065-304b-712",
     "japanese": "気づか",
     "kana": "きづか",
     "romaji": "kizuka",
-    "zh": "释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense",
+    "zh": "注意到；察觉；意识到；明白；察觉到；感知；感觉到",
     "en": "to notice; to realize; to realise; to become aware (of); to perceive; to sense",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense。出自例句「気づかないフリして 聞こえないフリして」。",
+    "introZh": "词典释义：注意到；察觉；意识到；明白；察觉到；感知；感觉到。出自例句「気づかないフリして 聞こえないフリして」。",
     "introEn": "Meaning: to notice; to realize; to realise; to become aware (of); to perceive; to sense. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "気づかないフリして 聞こえないフリして",
     "exampleZh": "也装作从未发觉 从未听到",
@@ -16674,8 +15717,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "気づく",
-      "きづか"
+      "気づく"
     ]
   },
   {
@@ -16683,11 +15725,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "過ぎ",
     "kana": "すぎ",
     "romaji": "sugi",
-    "zh": "释义：past; after; too (much); over- (e.g. eating)",
-    "en": "past; after; too (much); over- (e.g. eating)",
-    "partOfSpeech": "动词 / verb; noun · n-suf",
-    "introZh": "词典释义：past; after; too (much); over- (e.g. eating)。出自例句「ほら 過ぎてゆく」。",
-    "introEn": "Meaning: past; after; too (much); over- (e.g. eating). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：看啊 一切都将成为过去",
+    "en": "to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：看啊 一切都将成为过去。出自例句「ほら 過ぎてゆく」。",
+    "introEn": "Meaning: to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ほら 過ぎてゆく",
     "exampleZh": "看啊 一切都将成为过去",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -16699,8 +15741,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "過ぎる",
-      "すぎ"
+      "過ぎる"
     ]
   },
   {
@@ -16708,11 +15749,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "正し",
     "kana": "ただし",
     "romaji": "tadashi",
-    "zh": "释义：but; however; provided that",
-    "en": "but; however; provided that",
-    "partOfSpeech": "形容词 / adjective; conjunction",
-    "introZh": "词典释义：but; however; provided that。出自例句「正しさの渦と 流れてく街を」。",
-    "introEn": "Meaning: but; however; provided that. Dictionary data: local Kotobako/JMdict.",
+    "zh": "正好；只是",
+    "en": "right; correct; proper; righteous; just; honest",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：正好；只是。出自例句「正しさの渦と 流れてく街を」。",
+    "introEn": "Meaning: right; correct; proper; righteous; just; honest. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "正しさの渦と 流れてく街を",
     "exampleZh": "在顺应正确漩涡流动的城市",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -16724,8 +15765,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "正しい",
-      "ただし"
+      "正しい"
     ]
   },
   {
@@ -16747,20 +15787,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ぷかぷか"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6d6e-304b-3093-716",
     "japanese": "浮かん",
     "kana": "うかん",
     "romaji": "ukan",
-    "zh": "释义：to float; to be suspended; to rise to the surface; to appear; to emerge; to show up",
+    "zh": "结合本句可理解为：我们又该飘向何方",
     "en": "to float; to be suspended; to rise to the surface; to appear; to emerge; to show up",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to float; to be suspended; to rise to the surface; to appear; to emerge; to show up。出自例句「プカプカ浮かんでどこにゆこう」。",
+    "introZh": "词典释义：结合本句可理解为：我们又该飘向何方。出自例句「プカプカ浮かんでどこにゆこう」。",
     "introEn": "Meaning: to float; to be suspended; to rise to the surface; to appear; to emerge; to show up. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "プカプカ浮かんでどこにゆこう",
     "exampleZh": "我们又该飘向何方",
@@ -16773,8 +15810,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "浮かぶ",
-      "うかん"
+      "浮かぶ"
     ]
   },
   {
@@ -16822,8 +15858,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "行き着く",
-      "いきつい"
+      "行き着く"
     ]
   },
   {
@@ -16845,20 +15880,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "わらえる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7e4b-3054-720",
     "japanese": "繋ご",
     "kana": "つなご",
     "romaji": "tsunago",
-    "zh": "释义：to connect; to link together; to tie; to fasten; to restrain; to maintain",
+    "zh": "连接；联系；维持；保持",
     "en": "to connect; to link together; to tie; to fasten; to restrain; to maintain",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to connect; to link together; to tie; to fasten; to restrain; to maintain。出自例句「手を繋ごう 夢じゃない」。",
+    "introZh": "词典释义：连接；联系；维持；保持。出自例句「手を繋ごう 夢じゃない」。",
     "introEn": "Meaning: to connect; to link together; to tie; to fasten; to restrain; to maintain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "手を繋ごう 夢じゃない",
     "exampleZh": "就牵起彼此的手 这并非是梦",
@@ -16871,8 +15903,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "繋ぐ",
-      "つなご"
+      "繋ぐ"
     ]
   },
   {
@@ -16880,10 +15911,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ようやく",
     "kana": "ようやく",
     "romaji": "youyaku",
-    "zh": "释义：finally; at last; barely; narrowly; hardly; only just",
+    "zh": "终于；最后",
     "en": "finally; at last; barely; narrowly; hardly; only just",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：finally; at last; barely; narrowly; hardly; only just。出自例句「灰になった後で ようやく気づいて」。",
+    "introZh": "词典释义：终于；最后。出自例句「灰になった後で ようやく気づいて」。",
     "introEn": "Meaning: finally; at last; barely; narrowly; hardly; only just. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "灰になった後で ようやく気づいて",
     "exampleZh": "直到化作灰烬 我们才终于发觉",
@@ -16901,10 +15932,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "気づい",
     "kana": "きづい",
     "romaji": "kizui",
-    "zh": "释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense",
+    "zh": "注意到；察觉；意识到；明白；察觉到；感知；感觉到",
     "en": "to notice; to realize; to realise; to become aware (of); to perceive; to sense",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense。出自例句「灰になった後で ようやく気づいて」。",
+    "introZh": "词典释义：注意到；察觉；意识到；明白；察觉到；感知；感觉到。出自例句「灰になった後で ようやく気づいて」。",
     "introEn": "Meaning: to notice; to realize; to realise; to become aware (of); to perceive; to sense. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "灰になった後で ようやく気づいて",
     "exampleZh": "直到化作灰烬 我们才终于发觉",
@@ -16917,8 +15948,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "気づく",
-      "きづい"
+      "気づく"
     ]
   },
   {
@@ -16926,10 +15956,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "届か",
     "kana": "とどか",
     "romaji": "todoka",
-    "zh": "释义：to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive",
+    "zh": "到达；达到；抵达",
     "en": "to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive。出自例句「願いはいつまでも届かない」。",
+    "introZh": "词典释义：到达；达到；抵达。出自例句「願いはいつまでも届かない」。",
     "introEn": "Meaning: to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "願いはいつまでも届かない",
     "exampleZh": "愿望总是无法成功传达给流星",
@@ -16942,8 +15972,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "届く",
-      "とどか"
+      "届く"
     ]
   },
   {
@@ -16951,10 +15980,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "浮かべよ",
     "kana": "うかべよ",
     "romaji": "ukabeyo",
-    "zh": "释义：to float; to set afloat; to launch; to show on one's face (smile, sadness, etc.); to recall; to call to mind",
+    "zh": "结合本句可理解为：我们该浮现怎样的思想",
     "en": "to float; to set afloat; to launch; to show on one's face (smile, sadness, etc.); to recall; to call to mind",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to float; to set afloat; to launch; to show on one's face (smile, sadness, etc.); to recall; to call to mind。出自例句「僕ら 何を浮かべようか」。",
+    "introZh": "词典释义：结合本句可理解为：我们该浮现怎样的思想。出自例句「僕ら 何を浮かべようか」。",
     "introEn": "Meaning: to float; to set afloat; to launch; to show on one's face (smile, sadness, etc.); to recall; to call to mind. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕ら 何を浮かべようか",
     "exampleZh": "我们该浮现怎样的思想",
@@ -16967,8 +15996,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "浮かべる",
-      "うかべよ"
+      "浮かべる"
     ]
   },
   {
@@ -16976,10 +16004,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "掲げよ",
     "kana": "かかげよ",
     "romaji": "kakageyo",
-    "zh": "释义：to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist; to raise; to display",
+    "zh": "展示；显示",
     "en": "to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist; to raise; to display",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist; to raise; to display。出自例句「何を掲げようか」。",
+    "introZh": "词典释义：展示；显示。出自例句「何を掲げようか」。",
     "introEn": "Meaning: to put up (a notice, sign, etc.); to hang out (e.g. a banner); to fly (e.g. a flag); to hoist; to raise; to display. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何を掲げようか",
     "exampleZh": "又该高举怎样的旗帜呢",
@@ -16992,8 +16020,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "掲げる",
-      "かかげよ"
+      "掲げる"
     ]
   },
   {
@@ -17001,10 +16028,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "願っ",
     "kana": "ねがっ",
     "romaji": "nega",
-    "zh": "释义：to desire; to wish; to hope; to beg; to request; to implore",
+    "zh": "渴望；想要",
     "en": "to desire; to wish; to hope; to beg; to request; to implore",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to desire; to wish; to hope; to beg; to request; to implore。出自例句「そんなはずはないと願った」。",
+    "introZh": "词典释义：渴望；想要。出自例句「そんなはずはないと願った」。",
     "introEn": "Meaning: to desire; to wish; to hope; to beg; to request; to implore. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "そんなはずはないと願った",
     "exampleZh": "我期望未来不会那样",
@@ -17017,8 +16044,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "願う",
-      "ねがっ"
+      "願う"
     ]
   },
   {
@@ -17042,8 +16068,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "細める",
-      "ほそめ"
+      "細める"
     ]
   },
   {
@@ -17051,10 +16076,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ぼんやり",
     "kana": "ぼんやり",
     "romaji": "bon'yari",
-    "zh": "释义：dimly; faintly; indistinctly; vaguely; absentmindedly; vacantly",
+    "zh": "隐约地；微弱地",
     "en": "dimly; faintly; indistinctly; vaguely; absentmindedly; vacantly",
     "partOfSpeech": "副词 / adverb; adverb · adverb (to) · suru verb",
-    "introZh": "词典释义：dimly; faintly; indistinctly; vaguely; absentmindedly; vacantly。出自例句「ぼんやり光る月みたいに」。",
+    "introZh": "词典释义：隐约地；微弱地。出自例句「ぼんやり光る月みたいに」。",
     "introEn": "Meaning: dimly; faintly; indistinctly; vaguely; absentmindedly; vacantly. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぼんやり光る月みたいに",
     "exampleZh": "宛若朦胧的月光一般",
@@ -17072,10 +16097,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "光る",
     "kana": "ひかる",
     "romaji": "hikaru",
-    "zh": "释义：to shine; to glitter; to be bright",
+    "zh": "结合本句可理解为：宛若朦胧的月光一般",
     "en": "to shine; to glitter; to be bright",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to shine; to glitter; to be bright。出自例句「ぼんやり光る月みたいに」。",
+    "introZh": "词典释义：结合本句可理解为：宛若朦胧的月光一般。出自例句「ぼんやり光る月みたいに」。",
     "introEn": "Meaning: to shine; to glitter; to be bright. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぼんやり光る月みたいに",
     "exampleZh": "宛若朦胧的月光一般",
@@ -17086,20 +16111,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひかる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6708-730",
     "japanese": "月",
     "kana": "つき",
     "romaji": "tsuki",
-    "zh": "释义：Moon; month; moonlight; (a) moon; natural satellite",
+    "zh": "结合本句可理解为：宛若朦胧的月光一般",
     "en": "Moon; month; moonlight; (a) moon; natural satellite",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：Moon; month; moonlight; (a) moon; natural satellite。出自例句「ぼんやり光る月みたいに」。",
+    "introZh": "词典释义：结合本句可理解为：宛若朦胧的月光一般。出自例句「ぼんやり光る月みたいに」。",
     "introEn": "Meaning: Moon; month; moonlight; (a) moon; natural satellite. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ぼんやり光る月みたいに",
     "exampleZh": "宛若朦胧的月光一般",
@@ -17110,20 +16132,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "つき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306a-3093-3068-306a-304f-731",
     "japanese": "なんとなく",
     "kana": "なんとなく",
     "romaji": "nantonaku",
-    "zh": "释义：somehow; for some reason (or other); without knowing why",
+    "zh": "结合本句可理解为：总让我感到它会离开",
     "en": "somehow; for some reason (or other); without knowing why",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：somehow; for some reason (or other); without knowing why。出自例句「なんとなく歩けそうで」。",
+    "introZh": "词典释义：结合本句可理解为：总让我感到它会离开。出自例句「なんとなく歩けそうで」。",
     "introEn": "Meaning: somehow; for some reason (or other); without knowing why. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "なんとなく歩けそうで",
     "exampleZh": "总让我感到它会离开",
@@ -17141,10 +16160,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "裏返し",
     "kana": "うらがえし",
     "romaji": "uragaeshi",
-    "zh": "释义：inside out; upside down; flip side; opposite; contrary; reverse",
+    "zh": "里外颠倒；反面",
     "en": "inside out; upside down; flip side; opposite; contrary; reverse",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：inside out; upside down; flip side; opposite; contrary; reverse。出自例句「裏返しの世界で」。",
+    "introZh": "词典释义：里外颠倒；反面。出自例句「裏返しの世界で」。",
     "introEn": "Meaning: inside out; upside down; flip side; opposite; contrary; reverse. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "裏返しの世界で",
     "exampleZh": "是个完全相反的世界",
@@ -17155,21 +16174,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "うらがえし"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9003-3052-733",
     "japanese": "逃げ",
     "kana": "にげ",
     "romaji": "nige",
-    "zh": "释义：escape; getaway; evasion",
-    "en": "escape; getaway; evasion",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：escape; getaway; evasion。出自例句「逃げていくその声は」。",
-    "introEn": "Meaning: escape; getaway; evasion. Dictionary data: local Kotobako/JMdict.",
+    "zh": "逃脱；逃避",
+    "en": "to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：逃脱；逃避。出自例句「逃げていくその声は」。",
+    "introEn": "Meaning: to run away; to flee; to get away (e.g. from danger); to escape; to break out; to leave (e.g. one's spouse). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "逃げていくその声は",
     "exampleZh": "内心逃避的声音",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -17181,8 +16197,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "逃げる",
-      "にげ"
+      "逃げる"
     ]
   },
   {
@@ -17190,10 +16205,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "並べ",
     "kana": "ならべ",
     "romaji": "narabe",
-    "zh": "释义：to line up; to set up; to arrange in a line; to enumerate; to itemize; to be equal (to)",
+    "zh": "结合本句可理解为：细致排列出的真实话语",
     "en": "to line up; to set up; to arrange in a line; to enumerate; to itemize; to be equal (to)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to line up; to set up; to arrange in a line; to enumerate; to itemize; to be equal (to)。出自例句「丁寧に並べていたほんとの言葉」。",
+    "introZh": "词典释义：结合本句可理解为：细致排列出的真实话语。出自例句「丁寧に並べていたほんとの言葉」。",
     "introEn": "Meaning: to line up; to set up; to arrange in a line; to enumerate; to itemize; to be equal (to). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "丁寧に並べていたほんとの言葉",
     "exampleZh": "细致排列出的真实话语",
@@ -17206,8 +16221,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "並べる",
-      "ならべ"
+      "並べる"
     ]
   },
   {
@@ -17215,10 +16229,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ほん",
     "kana": "ほん",
     "romaji": "hon",
-    "zh": "释义：book; volume; script; this; present; current",
+    "zh": "这个；当前；潮流",
     "en": "book; volume; script; this; present; current",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：book; volume; script; this; present; current。出自例句「丁寧に並べていたほんとの言葉」。",
+    "introZh": "词典释义：这个；当前；潮流。出自例句「丁寧に並べていたほんとの言葉」。",
     "introEn": "Meaning: book; volume; script; this; present; current. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "丁寧に並べていたほんとの言葉",
     "exampleZh": "细致排列出的真实话语",
@@ -17260,10 +16274,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "落ちる",
     "kana": "おちる",
     "romaji": "ochiru",
-    "zh": "释义：to fall; to drop; to come down; to crash; to collapse; to cave in",
+    "zh": "落下；丢下",
     "en": "to fall; to drop; to come down; to crash; to collapse; to cave in",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to fall; to drop; to come down; to crash; to collapse; to cave in。出自例句「涙の落ちる音」。",
+    "introZh": "词典释义：落下；丢下。出自例句「涙の落ちる音」。",
     "introEn": "Meaning: to fall; to drop; to come down; to crash; to collapse; to cave in. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "涙の落ちる音",
     "exampleZh": "泪水滴落的声响",
@@ -17274,10 +16288,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "おちる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3056-308f-3081-304d-738",
@@ -17305,10 +16316,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "描い",
     "kana": "えがい",
     "romaji": "egai",
-    "zh": "释义：to draw; to paint; to sketch; to depict; to describe; to picture in one's mind",
+    "zh": "结合本句可理解为：在嘈杂之中 我们描绘着",
     "en": "to draw; to paint; to sketch; to depict; to describe; to picture in one's mind",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to draw; to paint; to sketch; to depict; to describe; to picture in one's mind。出自例句「ざわめきの中で 僕らは描いた」。",
+    "introZh": "词典释义：结合本句可理解为：在嘈杂之中 我们描绘着。出自例句「ざわめきの中で 僕らは描いた」。",
     "introEn": "Meaning: to draw; to paint; to sketch; to depict; to describe; to picture in one's mind. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "ざわめきの中で 僕らは描いた",
     "exampleZh": "在嘈杂之中 我们描绘着",
@@ -17321,8 +16332,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "描く",
-      "えがい"
+      "描く"
     ]
   },
   {
@@ -17330,10 +16340,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "朽ち",
     "kana": "くち",
     "romaji": "kuchi",
-    "zh": "释义：mouth; opening; hole; gap; orifice; mouth (of a bottle)",
+    "zh": "结合本句可理解为：向着腐朽的天空伸出手臂",
     "en": "mouth; opening; hole; gap; orifice; mouth (of a bottle)",
     "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：mouth; opening; hole; gap; orifice; mouth (of a bottle)。出自例句「朽ちたこの空に手を伸ばす」。",
+    "introZh": "词典释义：结合本句可理解为：向着腐朽的天空伸出手臂。出自例句「朽ちたこの空に手を伸ばす」。",
     "introEn": "Meaning: mouth; opening; hole; gap; orifice; mouth (of a bottle). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "朽ちたこの空に手を伸ばす",
     "exampleZh": "向着腐朽的天空伸出手臂",
@@ -17346,8 +16356,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "朽ちる",
-      "くち"
+      "朽ちる"
     ]
   },
   {
@@ -17355,10 +16364,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "伸ばす",
     "kana": "のばす",
     "romaji": "nobasu",
-    "zh": "释义：to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out",
+    "zh": "伸出；坚持",
     "en": "to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out。出自例句「朽ちたこの空に手を伸ばす」。",
+    "introZh": "词典释义：伸出；坚持。出自例句「朽ちたこの空に手を伸ばす」。",
     "introEn": "Meaning: to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "朽ちたこの空に手を伸ばす",
     "exampleZh": "向着腐朽的天空伸出手臂",
@@ -17369,20 +16378,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "のばす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30da-30fc-30b8-742",
     "japanese": "ページ",
     "kana": "ぺえじ",
     "romaji": "peeji",
-    "zh": "释义：page; nth page; page ...",
+    "zh": "结合本句可理解为：期望着这页后的未来",
     "en": "page; nth page; page ...",
     "partOfSpeech": "名词 / noun; noun · counter",
-    "introZh": "词典释义：page; nth page; page ...。出自例句「一ページ先の 未来を願って」。",
+    "introZh": "词典释义：结合本句可理解为：期望着这页后的未来。出自例句「一ページ先の 未来を願って」。",
     "introEn": "Meaning: page; nth page; page .... Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "一ページ先の 未来を願って",
     "exampleZh": "期望着这页后的未来",
@@ -17393,10 +16399,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぺえじ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-624b-7e70-308a-743",
@@ -17417,21 +16420,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "てぐり"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5bc4-305b-744",
     "japanese": "寄せ",
     "kana": "よせ",
     "romaji": "yose",
-    "zh": "释义：yose; end game; last stage of a game; ending; (esp. in go) endgame moves that expand one's territory or reduce opponent's; gathering",
-    "en": "yose; end game; last stage of a game; ending; (esp. in go) endgame moves that expand one's territory or reduce opponent's; gathering",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：yose; end game; last stage of a game; ending; (esp. in go) endgame moves that expand one's territory or reduce opponent's; gathering。出自例句「閉じた時を 手繰り寄せてゆく」。",
-    "introEn": "Meaning: yose; end game; last stage of a game; ending; (esp. in go) endgame moves that expand one's territory or reduce opponent's; gathering. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：将关闭的时间 一一整理",
+    "en": "to come near; to let someone approach; to bring near; to bring together; to collect; to gather",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：将关闭的时间 一一整理。出自例句「閉じた時を 手繰り寄せてゆく」。",
+    "introEn": "Meaning: to come near; to let someone approach; to bring near; to bring together; to collect; to gather. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "閉じた時を 手繰り寄せてゆく",
     "exampleZh": "将关闭的时间 一一整理",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -17443,8 +16443,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "寄せる",
-      "よせ"
+      "寄せる"
     ]
   },
   {
@@ -17466,21 +16465,39 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あえる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6307-746",
     "japanese": "指",
     "kana": "ゆび",
     "romaji": "yubi",
-    "zh": "释义：finger; toe; digit",
+    "zh": "结合本句可理解为：就用这根手指 去描绘未来吧",
     "en": "finger; toe; digit",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：finger; toe; digit。出自例句「この指で 描いていこう」。",
+    "introZh": "词典释义：结合本句可理解为：就用这根手指 去描绘未来吧。出自例句「この指で 描いていこう」。",
     "introEn": "Meaning: finger; toe; digit. Dictionary data: local Kotobako/JMdict.",
+    "exampleJp": "この指で 描いていこう",
+    "exampleZh": "就用这根手指 去描绘未来吧",
+    "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
+    "tags": [
+      "lyrics",
+      "artist-togenashi-togeari",
+      "jlpt-n1"
+    ],
+    "jlptLevel": "N1",
+    "source": "kotobako-jmdict"
+  },
+  {
+    "id": "lyric-3044-3053-747",
+    "japanese": "いこ",
+    "kana": "いこ",
+    "romaji": "iko",
+    "zh": "结合本句可理解为：就用这根手指 去描绘未来吧",
+    "en": "some; several; a few; many; how many; how much",
+    "partOfSpeech": "动词 / verb; prefix",
+    "introZh": "词典释义：结合本句可理解为：就用这根手指 去描绘未来吧。出自例句「この指で 描いていこう」。",
+    "introEn": "Meaning: some; several; a few; many; how many; how much. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この指で 描いていこう",
     "exampleZh": "就用这根手指 去描绘未来吧",
     "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
@@ -17492,30 +16509,6 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "ゆび"
-    ]
-  },
-  {
-    "id": "lyric-3044-3053-747",
-    "japanese": "いこ",
-    "kana": "いこ",
-    "romaji": "iko",
-    "zh": "语境释义：就用这根手指 去描绘未来吧",
-    "en": "Context meaning: 就用这根手指 去描绘未来吧",
-    "partOfSpeech": "动词 / verb",
-    "introZh": "读作「いこ」。本句语境：就用这根手指 去描绘未来吧",
-    "introEn": "Read as \"iko\". Context: 就用这根手指 去描绘未来吧",
-    "exampleJp": "この指で 描いていこう",
-    "exampleZh": "就用这根手指 去描绘未来吧",
-    "exampleEn": "Example line from \"視界の隅 朽ちる音 (新川崎（仮）)\" by トゲナシトゲアリ.",
-    "tags": [
-      "lyrics",
-      "artist-togenashi-togeari",
-      "jlpt-n1"
-    ],
-    "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
       "いく"
     ]
   },
@@ -17524,10 +16517,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "眩し",
     "kana": "まぶし",
     "romaji": "mabushi",
-    "zh": "释义：dazzling; radiant",
+    "zh": "结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛",
     "en": "dazzling; radiant",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：dazzling; radiant。出自例句「眩しすぎるから目に染みて痛くなった」。",
+    "introZh": "词典释义：结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛。出自例句「眩しすぎるから目に染みて痛くなった」。",
     "introEn": "Meaning: dazzling; radiant. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "眩しすぎるから目に染みて痛くなった",
     "exampleZh": "因为它太过耀眼 令我眼眸难忍疼痛",
@@ -17540,8 +16533,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "眩しい",
-      "まぶし"
+      "眩しい"
     ]
   },
   {
@@ -17549,10 +16541,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "すぎる",
     "kana": "すぎる",
     "romaji": "sugiru",
-    "zh": "释义：to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired",
+    "zh": "结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛",
     "en": "to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired。出自例句「眩しすぎるから目に染みて痛くなった」。",
+    "introZh": "词典释义：结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛。出自例句「眩しすぎるから目に染みて痛くなった」。",
     "introEn": "Meaning: to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "眩しすぎるから目に染みて痛くなった",
     "exampleZh": "因为它太过耀眼 令我眼眸难忍疼痛",
@@ -17570,11 +16562,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "染み",
     "kana": "しみ",
     "romaji": "shimi",
-    "zh": "释义：stain; spot; smudge; blot; smear; blotch",
-    "en": "stain; spot; smudge; blot; smear; blotch",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：stain; spot; smudge; blot; smear; blotch。出自例句「眩しすぎるから目に染みて痛くなった」。",
-    "introEn": "Meaning: stain; spot; smudge; blot; smear; blotch. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛",
+    "en": "to soak (into); to permeate; to seep (in); to penetrate; to pierce; to sting (of a wound, sensitive area, etc.)",
+    "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：因为它太过耀眼 令我眼眸难忍疼痛。出自例句「眩しすぎるから目に染みて痛くなった」。",
+    "introEn": "Meaning: to soak (into); to permeate; to seep (in); to penetrate; to pierce; to sting (of a wound, sensitive area, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "眩しすぎるから目に染みて痛くなった",
     "exampleZh": "因为它太过耀眼 令我眼眸难忍疼痛",
     "exampleEn": "Example line from \"碧いif\" by トゲナシトゲアリ.",
@@ -17586,8 +16578,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "染みる",
-      "しみ"
+      "染みる"
     ]
   },
   {
@@ -17616,10 +16607,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "望ん",
     "kana": "のぞん",
     "romaji": "nozon",
-    "zh": "释义：to desire; to want; to wish for; to hope for; to expect (of someone)",
+    "zh": "渴望；想要",
     "en": "to desire; to want; to wish for; to hope for; to expect (of someone)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to desire; to want; to wish for; to hope for; to expect (of someone)。出自例句「変わりのない毎日をいつからか望んでた」。",
+    "introZh": "词典释义：渴望；想要。出自例句「変わりのない毎日をいつからか望んでた」。",
     "introEn": "Meaning: to desire; to want; to wish for; to hope for; to expect (of someone). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "変わりのない毎日をいつからか望んでた",
     "exampleZh": "不知何时起期望着不曾改变的每日",
@@ -17632,8 +16623,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "望む",
-      "のぞん"
+      "望む"
     ]
   },
   {
@@ -17657,8 +16647,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "動ける",
-      "うごけ"
+      "動ける"
     ]
   },
   {
@@ -17680,21 +16669,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "かくせる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-898b-51fa-3057-755",
     "japanese": "見出し",
     "kana": "みいだし",
     "romaji": "miidashi",
-    "zh": "释义：heading; headline; title; caption; index; headword",
-    "en": "heading; headline; title; caption; index; headword",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：heading; headline; title; caption; index; headword。出自例句「今さら存在価値を見出して」。",
-    "introEn": "Meaning: heading; headline; title; caption; index; headword. Dictionary data: local Kotobako/JMdict.",
+    "zh": "注意到；察觉",
+    "en": "to find out; to discover; to notice; to detect; to select; to pick out",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：注意到；察觉。出自例句「今さら存在価値を見出して」。",
+    "introEn": "Meaning: to find out; to discover; to notice; to detect; to select; to pick out. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今さら存在価値を見出して",
     "exampleZh": "事到如今才去寻找存在价值",
     "exampleEn": "Example line from \"碧いif\" by トゲナシトゲアリ.",
@@ -17706,8 +16692,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "見出す",
-      "みいだし"
+      "見出す"
     ]
   },
   {
@@ -17731,8 +16716,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "連れ出す",
-      "つれだし"
+      "連れ出す"
     ]
   },
   {
@@ -17740,10 +16724,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "犯",
     "kana": "はん",
     "romaji": "han",
-    "zh": "释义：seal; stamp; monogram signature; judgment; judgement; size (of paper or books)",
+    "zh": "结合本句可理解为：能将我从这里带离 于是闭上了双眼",
     "en": "seal; stamp; monogram signature; judgment; judgement; size (of paper or books)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：seal; stamp; monogram signature; judgment; judgement; size (of paper or books)。出自例句「確信犯的な衝動を期待して目を閉じた」。",
+    "introZh": "词典释义：结合本句可理解为：能将我从这里带离 于是闭上了双眼。出自例句「確信犯的な衝動を期待して目を閉じた」。",
     "introEn": "Meaning: seal; stamp; monogram signature; judgment; judgement; size (of paper or books). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "確信犯的な衝動を期待して目を閉じた",
     "exampleZh": "能将我从这里带离 于是闭上了双眼",
@@ -17754,20 +16738,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-885d-52d5-758",
     "japanese": "衝動",
     "kana": "しょうどう",
     "romaji": "shoudou",
-    "zh": "释义：impulse; urge; impetus",
+    "zh": "冲动",
     "en": "impulse; urge; impetus",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：impulse; urge; impetus。出自例句「確信犯的な衝動を期待して目を閉じた」。",
+    "introZh": "词典释义：冲动。出自例句「確信犯的な衝動を期待して目を閉じた」。",
     "introEn": "Meaning: impulse; urge; impetus. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "確信犯的な衝動を期待して目を閉じた",
     "exampleZh": "能将我从这里带离 于是闭上了双眼",
@@ -17778,20 +16759,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しょうどう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5acc-308f-759",
     "japanese": "嫌わ",
     "kana": "きらわ",
     "romaji": "kirawa",
-    "zh": "释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
+    "zh": "讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视",
     "en": "to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard。出自例句「嫌われたって構わないって」。",
+    "introZh": "词典释义：讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视。出自例句「嫌われたって構わないって」。",
     "introEn": "Meaning: to hate; to dislike; to loathe; to abhor; to avoid; to disregard. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "嫌われたって構わないって",
     "exampleZh": "纵使被人厌恶也没有关系",
@@ -17804,8 +16782,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "嫌う",
-      "きらわ"
+      "嫌う"
     ]
   },
   {
@@ -17813,10 +16790,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "構わ",
     "kana": "かまわ",
     "romaji": "kamawa",
-    "zh": "释义：to mind; to care about; to be concerned about; to have a regard for; to be an issue; to matter",
+    "zh": "心；精神",
     "en": "to mind; to care about; to be concerned about; to have a regard for; to be an issue; to matter",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to mind; to care about; to be concerned about; to have a regard for; to be an issue; to matter。出自例句「嫌われたって構わないって」。",
+    "introZh": "词典释义：心；精神。出自例句「嫌われたって構わないって」。",
     "introEn": "Meaning: to mind; to care about; to be concerned about; to have a regard for; to be an issue; to matter. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "嫌われたって構わないって",
     "exampleZh": "纵使被人厌恶也没有关系",
@@ -17829,8 +16806,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "構う",
-      "かまわ"
+      "構う"
     ]
   },
   {
@@ -17838,10 +16814,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "掬わ",
     "kana": "すくわ",
     "romaji": "sukuwa",
-    "zh": "释义：to scoop; to ladle out; to trip up (e.g. someone's legs)",
+    "zh": "结合本句可理解为：反正终将被绊倒在地吧",
     "en": "to scoop; to ladle out; to trip up (e.g. someone's legs)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to scoop; to ladle out; to trip up (e.g. someone's legs)。出自例句「どうせ足を掬われてしまうんだろう」。",
+    "introZh": "词典释义：结合本句可理解为：反正终将被绊倒在地吧。出自例句「どうせ足を掬われてしまうんだろう」。",
     "introEn": "Meaning: to scoop; to ladle out; to trip up (e.g. someone's legs). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうせ足を掬われてしまうんだろう",
     "exampleZh": "反正终将被绊倒在地吧",
@@ -17854,8 +16830,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "掬う",
-      "すくわ"
+      "掬う"
     ]
   },
   {
@@ -17863,10 +16838,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いっそ",
     "kana": "いっそ",
     "romaji": "isso",
-    "zh": "释义：rather; sooner; preferably; might as well; just; on the contrary",
+    "zh": "正好；只是",
     "en": "rather; sooner; preferably; might as well; just; on the contrary",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：rather; sooner; preferably; might as well; just; on the contrary。出自例句「もういっそ、その青で僕を殺してよ」。",
+    "introZh": "词典释义：正好；只是。出自例句「もういっそ、その青で僕を殺してよ」。",
     "introEn": "Meaning: rather; sooner; preferably; might as well; just; on the contrary. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もういっそ、その青で僕を殺してよ",
     "exampleZh": "不如索性 用那片青蓝将我扼杀",
@@ -17884,10 +16859,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "青",
     "kana": "あお",
     "romaji": "ao",
-    "zh": "释义：blue; azure; green; green light (traffic); black (horse coat color); blue 5-point card",
+    "zh": "结合本句可理解为：不如索性 用那片青蓝将我扼杀",
     "en": "blue; azure; green; green light (traffic); black (horse coat color); blue 5-point card",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：blue; azure; green; green light (traffic); black (horse coat color); blue 5-point card。出自例句「もういっそ、その青で僕を殺してよ」。",
+    "introZh": "词典释义：结合本句可理解为：不如索性 用那片青蓝将我扼杀。出自例句「もういっそ、その青で僕を殺してよ」。",
     "introEn": "Meaning: blue; azure; green; green light (traffic); black (horse coat color); blue 5-point card. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もういっそ、その青で僕を殺してよ",
     "exampleZh": "不如索性 用那片青蓝将我扼杀",
@@ -17898,21 +16873,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あお"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6bba-3057-764",
     "japanese": "殺し",
     "kana": "ころし",
     "romaji": "koroshi",
-    "zh": "释义：murder; killing; murderer",
-    "en": "murder; killing; murderer",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：murder; killing; murderer。出自例句「もういっそ、その青で僕を殺してよ」。",
-    "introEn": "Meaning: murder; killing; murderer. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：不如索性 用那片青蓝将我扼杀",
+    "en": "to kill; to slay; to murder; to slaughter; to suppress; to block",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：不如索性 用那片青蓝将我扼杀。出自例句「もういっそ、その青で僕を殺してよ」。",
+    "introEn": "Meaning: to kill; to slay; to murder; to slaughter; to suppress; to block. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "もういっそ、その青で僕を殺してよ",
     "exampleZh": "不如索性 用那片青蓝将我扼杀",
     "exampleEn": "Example line from \"碧いif\" by トゲナシトゲアリ.",
@@ -17924,8 +16896,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "殺す",
-      "ころし"
+      "殺す"
     ]
   },
   {
@@ -17933,10 +16904,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "昨日",
     "kana": "きのう",
     "romaji": "kinou",
-    "zh": "释义：yesterday",
+    "zh": "结合本句可理解为：与昨日相同的今天 无异于已死去",
     "en": "yesterday",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：yesterday。出自例句「昨日と同じ今日は死んでるのと同じだ」。",
+    "introZh": "词典释义：结合本句可理解为：与昨日相同的今天 无异于已死去。出自例句「昨日と同じ今日は死んでるのと同じだ」。",
     "introEn": "Meaning: yesterday. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "昨日と同じ今日は死んでるのと同じだ",
     "exampleZh": "与昨日相同的今天 无异于已死去",
@@ -17947,10 +16918,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きのう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7d1b-3089-308f-3059-766",
@@ -17971,20 +16939,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "まぎらわす"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-611f-60c5-767",
     "japanese": "感情",
     "kana": "かんじょう",
     "romaji": "kanjou",
-    "zh": "释义：emotion; feeling; feelings; sentiment",
+    "zh": "结合本句可理解为：早已锈蚀的情感猛然刺穿咽喉深处",
     "en": "emotion; feeling; feelings; sentiment",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：emotion; feeling; feelings; sentiment。出自例句「錆びていたはずの感情が喉の奥突き刺した」。",
+    "introZh": "词典释义：结合本句可理解为：早已锈蚀的情感猛然刺穿咽喉深处。出自例句「錆びていたはずの感情が喉の奥突き刺した」。",
     "introEn": "Meaning: emotion; feeling; feelings; sentiment. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "錆びていたはずの感情が喉の奥突き刺した",
     "exampleZh": "早已锈蚀的情感猛然刺穿咽喉深处",
@@ -17995,20 +16960,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かんじょう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7a81-304d-523a-3057-768",
     "japanese": "突き刺し",
     "kana": "つきさし",
     "romaji": "tsukisashi",
-    "zh": "释义：to stab; to stick; to pierce; to thrust",
+    "zh": "结合本句可理解为：早已锈蚀的情感猛然刺穿咽喉深处",
     "en": "to stab; to stick; to pierce; to thrust",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to stab; to stick; to pierce; to thrust。出自例句「錆びていたはずの感情が喉の奥突き刺した」。",
+    "introZh": "词典释义：结合本句可理解为：早已锈蚀的情感猛然刺穿咽喉深处。出自例句「錆びていたはずの感情が喉の奥突き刺した」。",
     "introEn": "Meaning: to stab; to stick; to pierce; to thrust. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "錆びていたはずの感情が喉の奥突き刺した",
     "exampleZh": "早已锈蚀的情感猛然刺穿咽喉深处",
@@ -18021,8 +16983,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "突き刺す",
-      "つきさし"
+      "突き刺す"
     ]
   },
   {
@@ -18030,10 +16991,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "傷つい",
     "kana": "きずつい",
     "romaji": "kizutsui",
-    "zh": "释义：to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched",
+    "zh": "结合本句可理解为：说着受伤也无所谓",
     "en": "to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched。出自例句「傷ついたって構わないって」。",
+    "introZh": "词典释义：结合本句可理解为：说着受伤也无所谓。出自例句「傷ついたって構わないって」。",
     "introEn": "Meaning: to be wounded; to get injured; to get hurt feelings; to get damaged; to get chipped; to get scratched. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "傷ついたって構わないって",
     "exampleZh": "说着受伤也无所谓",
@@ -18046,8 +17007,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "傷つく",
-      "きずつい"
+      "傷つく"
     ]
   },
   {
@@ -18055,10 +17015,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "覚悟",
     "kana": "かくご",
     "romaji": "kakugo",
-    "zh": "释义：readiness; (mental) preparedness; resolution; determination; resignation (to one's fate)",
+    "zh": "结合本句可理解为：却连觉悟都未曾做好",
     "en": "readiness; (mental) preparedness; resolution; determination; resignation (to one's fate)",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：readiness; (mental) preparedness; resolution; determination; resignation (to one's fate)。出自例句「覚悟もしないままで」。",
+    "introZh": "词典释义：结合本句可理解为：却连觉悟都未曾做好。出自例句「覚悟もしないままで」。",
     "introEn": "Meaning: readiness; (mental) preparedness; resolution; determination; resignation (to one's fate). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "覚悟もしないままで",
     "exampleZh": "却连觉悟都未曾做好",
@@ -18069,10 +17029,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かくご"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-629c-3051-51fa-305b-771",
@@ -18095,8 +17052,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "抜け出せる",
-      "ぬけだせ"
+      "抜け出せる"
     ]
   },
   {
@@ -18120,8 +17076,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "淀む",
-      "よどん"
+      "淀む"
     ]
   },
   {
@@ -18129,10 +17084,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "歪ん",
     "kana": "いがん",
     "romaji": "igan",
-    "zh": "释义：to warp; to bend; to contort; to be perverted; to be warped (of a view, mind, etc.); to be distorted",
+    "zh": "结合本句可理解为：停滞不前 荆棘满途 我站在这样的世界中",
     "en": "to warp; to bend; to contort; to be perverted; to be warped (of a view, mind, etc.); to be distorted",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to warp; to bend; to contort; to be perverted; to be warped (of a view, mind, etc.); to be distorted。出自例句「淀んでいる 歪んでいる この世界に立って」。",
+    "introZh": "词典释义：结合本句可理解为：停滞不前 荆棘满途 我站在这样的世界中。出自例句「淀んでいる 歪んでいる この世界に立って」。",
     "introEn": "Meaning: to warp; to bend; to contort; to be perverted; to be warped (of a view, mind, etc.); to be distorted. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "淀んでいる 歪んでいる この世界に立って",
     "exampleZh": "停滞不前 荆棘满途 我站在这样的世界中",
@@ -18145,8 +17100,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "歪む",
-      "いがん"
+      "歪む"
     ]
   },
   {
@@ -18154,10 +17108,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "何者",
     "kana": "なにもの",
     "romaji": "nanimono",
-    "zh": "释义：who; what kind of person",
+    "zh": "谁",
     "en": "who; what kind of person",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：who; what kind of person。出自例句「私は何者でもない」。",
+    "introZh": "词典释义：谁。出自例句「私は何者でもない」。",
     "introEn": "Meaning: who; what kind of person. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私は何者でもない",
     "exampleZh": "我并非有能之辈",
@@ -18168,20 +17122,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "なにもの"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6575-775",
     "japanese": "敵",
     "kana": "てき",
     "romaji": "teki",
-    "zh": "释义：opponent; rival; adversary; menace; danger; threat",
+    "zh": "对手；敌手",
     "en": "opponent; rival; adversary; menace; danger; threat",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：opponent; rival; adversary; menace; danger; threat。出自例句「誰が敵で誰が味方さえわからない」。",
+    "introZh": "词典释义：对手；敌手。出自例句「誰が敵で誰が味方さえわからない」。",
     "introEn": "Meaning: opponent; rival; adversary; menace; danger; threat. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰が敵で誰が味方さえわからない",
     "exampleZh": "就连敌友也无法辨清",
@@ -18192,10 +17143,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "てき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4ed6-4eba-884c-5100-776",
@@ -18216,10 +17164,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "たにんぎょうぎ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-98fd-304d-98fd-304d-3057-777",
@@ -18242,8 +17187,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "飽き飽きする",
-      "あきあきし"
+      "飽き飽きする"
     ]
   },
   {
@@ -18293,10 +17237,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "なんで",
     "kana": "なんで",
     "romaji": "nande",
-    "zh": "释义：why?; what for?; how?; by what means?",
+    "zh": "结合本句可理解为：Q. 但那又是为何？",
     "en": "why?; what for?; how?; by what means?",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：why?; what for?; how?; by what means?。出自例句「Q. でもなんで？」。",
+    "introZh": "词典释义：结合本句可理解为：Q. 但那又是为何？。出自例句「Q. でもなんで？」。",
     "introEn": "Meaning: why?; what for?; how?; by what means?. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "Q. でもなんで？",
     "exampleZh": "Q. 但那又是为何？",
@@ -18335,10 +17279,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "立ち止まっ",
     "kana": "たちどまっ",
     "romaji": "tachidoma",
-    "zh": "释义：to stop (in one's tracks); to come to a stop; to halt; to pause; to stand still",
+    "zh": "停止",
     "en": "to stop (in one's tracks); to come to a stop; to halt; to pause; to stand still",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to stop (in one's tracks); to come to a stop; to halt; to pause; to stand still。出自例句「立ち止まって頭空っぽにしてるくらいなら」。",
+    "introZh": "词典释义：停止。出自例句「立ち止まって頭空っぽにしてるくらいなら」。",
     "introEn": "Meaning: to stop (in one's tracks); to come to a stop; to halt; to pause; to stand still. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "立ち止まって頭空っぽにしてるくらいなら",
     "exampleZh": "比起驻足原地将大脑放空",
@@ -18351,8 +17295,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "立ち止まる",
-      "たちどまっ"
+      "立ち止まる"
     ]
   },
   {
@@ -18360,10 +17303,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "レース",
     "kana": "れえす",
     "romaji": "reesu",
-    "zh": "释义：race",
+    "zh": "结合本句可理解为：在这场胜负已定的激烈竞争中",
     "en": "race",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：race。出自例句「削り合いの出来レースにて」。",
+    "introZh": "词典释义：结合本句可理解为：在这场胜负已定的激烈竞争中。出自例句「削り合いの出来レースにて」。",
     "introEn": "Meaning: race. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "削り合いの出来レースにて",
     "exampleZh": "在这场胜负已定的激烈竞争中",
@@ -18374,20 +17317,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "れえす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306b-3066-784",
     "japanese": "にて",
     "kana": "にて",
     "romaji": "nite",
-    "zh": "释义：at; in; when; by; with",
+    "zh": "什么时候；当……时；和……一起",
     "en": "at; in; when; by; with",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：at; in; when; by; with。出自例句「削り合いの出来レースにて」。",
+    "introZh": "词典释义：什么时候；当……时；和……一起。出自例句「削り合いの出来レースにて」。",
     "introEn": "Meaning: at; in; when; by; with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "削り合いの出来レースにて",
     "exampleZh": "在这场胜负已定的激烈竞争中",
@@ -18405,10 +17345,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "傍観",
     "kana": "ぼうかん",
     "romaji": "boukan",
-    "zh": "释义：looking on; standing by and watching; sitting back and watching; remaining a spectator",
+    "zh": "结合本句可理解为：作为旁观者在那嘲笑",
     "en": "looking on; standing by and watching; sitting back and watching; remaining a spectator",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：looking on; standing by and watching; sitting back and watching; remaining a spectator。出自例句「傍観者となってあざ笑う」。",
+    "introZh": "词典释义：结合本句可理解为：作为旁观者在那嘲笑。出自例句「傍観者となってあざ笑う」。",
     "introEn": "Meaning: looking on; standing by and watching; sitting back and watching; remaining a spectator. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "傍観者となってあざ笑う",
     "exampleZh": "作为旁观者在那嘲笑",
@@ -18419,20 +17359,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぼうかん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8005-786",
     "japanese": "者",
     "kana": "しゃ",
     "romaji": "sha",
-    "zh": "释义：person",
+    "zh": "结合本句可理解为：作为旁观者在那嘲笑",
     "en": "person",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：person。出自例句「傍観者となってあざ笑う」。",
+    "introZh": "词典释义：结合本句可理解为：作为旁观者在那嘲笑。出自例句「傍観者となってあざ笑う」。",
     "introEn": "Meaning: person. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "傍観者となってあざ笑う",
     "exampleZh": "作为旁观者在那嘲笑",
@@ -18443,20 +17380,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しゃ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-308f-304b-3063-787",
     "japanese": "わかっ",
     "kana": "わかっ",
     "romaji": "waka",
-    "zh": "释义：to understand; to comprehend; to grasp; to see; to get; to follow",
+    "zh": "理解；抓住；看见；明白；得到；变得",
     "en": "to understand; to comprehend; to grasp; to see; to get; to follow",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to understand; to comprehend; to grasp; to see; to get; to follow。出自例句「わかった気になってんなクソ喰らえ」。",
+    "introZh": "词典释义：理解；抓住；看见；明白；得到；变得。出自例句「わかった気になってんなクソ喰らえ」。",
     "introEn": "Meaning: to understand; to comprehend; to grasp; to see; to get; to follow. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わかった気になってんなクソ喰らえ",
     "exampleZh": "别以为很懂我 吔屎去吧",
@@ -18477,10 +17411,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "クソ",
     "kana": "くそ",
     "romaji": "kuso",
-    "zh": "释义：damn; damn it; shit; crap; feces; excrement",
+    "zh": "结合本句可理解为：别以为很懂我 吔屎去吧",
     "en": "damn; damn it; shit; crap; feces; excrement",
     "partOfSpeech": "前缀 / prefix; interjection",
-    "introZh": "词典释义：damn; damn it; shit; crap; feces; excrement。出自例句「わかった気になってんなクソ喰らえ」。",
+    "introZh": "词典释义：结合本句可理解为：别以为很懂我 吔屎去吧。出自例句「わかった気になってんなクソ喰らえ」。",
     "introEn": "Meaning: damn; damn it; shit; crap; feces; excrement. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "わかった気になってんなクソ喰らえ",
     "exampleZh": "别以为很懂我 吔屎去吧",
@@ -18491,10 +17425,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "くそ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-55b0-3089-3048-789",
@@ -18517,8 +17448,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "喰らう",
-      "くらえ"
+      "喰らう"
     ]
   },
   {
@@ -18526,10 +17456,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "気がつけ",
     "kana": "きがつけ",
     "romaji": "kigatsuke",
-    "zh": "释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense",
+    "zh": "注意到；察觉；意识到；明白；察觉到；感知；感觉到",
     "en": "to notice; to realize; to realise; to become aware (of); to perceive; to sense",
     "partOfSpeech": "动词 / verb; expression · godan verb",
-    "introZh": "词典释义：to notice; to realize; to realise; to become aware (of); to perceive; to sense。出自例句「気がつけば日常に揺らめいて 潜めいて」。",
+    "introZh": "词典释义：注意到；察觉；意识到；明白；察觉到；感知；感觉到。出自例句「気がつけば日常に揺らめいて 潜めいて」。",
     "introEn": "Meaning: to notice; to realize; to realise; to become aware (of); to perceive; to sense. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "気がつけば日常に揺らめいて 潜めいて",
     "exampleZh": "回过神来 它已潜藏在我那摇摇欲坠的日常中",
@@ -18542,8 +17472,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "気がつく",
-      "きがつけ"
+      "気がつく"
     ]
   },
   {
@@ -18551,10 +17480,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "日常",
     "kana": "にちじょう",
     "romaji": "nichijou",
-    "zh": "释义：everyday; daily; ordinary; usual; routine; regular",
+    "zh": "每天的；日常的；每日的；普通的；平常的；通常的；固定的",
     "en": "everyday; daily; ordinary; usual; routine; regular",
     "partOfSpeech": "名词 / noun; no-adjective · noun · adverb",
-    "introZh": "词典释义：everyday; daily; ordinary; usual; routine; regular。出自例句「気がつけば日常に揺らめいて 潜めいて」。",
+    "introZh": "词典释义：每天的；日常的；每日的；普通的；平常的；通常的；固定的。出自例句「気がつけば日常に揺らめいて 潜めいて」。",
     "introEn": "Meaning: everyday; daily; ordinary; usual; routine; regular. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "気がつけば日常に揺らめいて 潜めいて",
     "exampleZh": "回过神来 它已潜藏在我那摇摇欲坠的日常中",
@@ -18565,10 +17494,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "にちじょう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63fa-3089-3081-3044-792",
@@ -18591,8 +17517,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "揺らめく",
-      "ゆらめい"
+      "揺らめく"
     ]
   },
   {
@@ -18616,8 +17541,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "潜める",
-      "ひそめ"
+      "潜める"
     ]
   },
   {
@@ -18625,10 +17549,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "思想",
     "kana": "しそう",
     "romaji": "shisou",
-    "zh": "释义：thought; idea; ideology",
+    "zh": "结合本句可理解为：也本没有不属于自己的思想",
     "en": "thought; idea; ideology",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：thought; idea; ideology。出自例句「なれない思想もあるはずない」。",
+    "introZh": "词典释义：结合本句可理解为：也本没有不属于自己的思想。出自例句「なれない思想もあるはずない」。",
     "introEn": "Meaning: thought; idea; ideology. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "なれない思想もあるはずない",
     "exampleZh": "也本没有不属于自己的思想",
@@ -18639,20 +17563,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-554f-3044-795",
     "japanese": "問い",
     "kana": "とい",
     "romaji": "toi",
-    "zh": "释义：question; query",
+    "zh": "问题；疑问",
     "en": "question; query",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：question; query。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
+    "introZh": "词典释义：问题；疑问。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
     "introEn": "Meaning: question; query. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "問いの行方携えて輪廻は転生していくんだ",
     "exampleZh": "想带着答案未明的疑问 进入转世的轮回",
@@ -18663,20 +17584,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-884c-65b9-796",
     "japanese": "行方",
     "kana": "ゆくえ",
     "romaji": "yukue",
-    "zh": "释义：(one's) whereabouts; destination; where one is headed; outcome; course (of events); development",
+    "zh": "目的地；去向；结果；结局",
     "en": "(one's) whereabouts; destination; where one is headed; outcome; course (of events); development",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：(one's) whereabouts; destination; where one is headed; outcome; course (of events); development。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
+    "introZh": "词典释义：目的地；去向；结果；结局。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
     "introEn": "Meaning: (one's) whereabouts; destination; where one is headed; outcome; course (of events); development. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "問いの行方携えて輪廻は転生していくんだ",
     "exampleZh": "想带着答案未明的疑问 进入转世的轮回",
@@ -18687,20 +17605,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆくえ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-643a-3048-797",
     "japanese": "携え",
     "kana": "たずさえ",
     "romaji": "tazusae",
-    "zh": "释义：to carry in one's hand; to carry with one; to have on one's person; to bear; to take along (someone); to take (someone) with one",
+    "zh": "结合本句可理解为：想带着答案未明的疑问 进入转世的轮回",
     "en": "to carry in one's hand; to carry with one; to have on one's person; to bear; to take along (someone); to take (someone) with one",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to carry in one's hand; to carry with one; to have on one's person; to bear; to take along (someone); to take (someone) with one。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
+    "introZh": "词典释义：结合本句可理解为：想带着答案未明的疑问 进入转世的轮回。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
     "introEn": "Meaning: to carry in one's hand; to carry with one; to have on one's person; to bear; to take along (someone); to take (someone) with one. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "問いの行方携えて輪廻は転生していくんだ",
     "exampleZh": "想带着答案未明的疑问 进入转世的轮回",
@@ -18713,8 +17628,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "携える",
-      "たずさえ"
+      "携える"
     ]
   },
   {
@@ -18736,20 +17650,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "りんね"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-8ee2-751f-799",
     "japanese": "転生",
     "kana": "てんせい",
     "romaji": "tensei",
-    "zh": "释义：nature; natural constitution; innate disposition",
+    "zh": "本性；自然",
     "en": "nature; natural constitution; innate disposition",
     "partOfSpeech": "名词 / noun; noun · adverb",
-    "introZh": "词典释义：nature; natural constitution; innate disposition。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
+    "introZh": "词典释义：本性；自然。出自例句「問いの行方携えて輪廻は転生していくんだ」。",
     "introEn": "Meaning: nature; natural constitution; innate disposition. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "問いの行方携えて輪廻は転生していくんだ",
     "exampleZh": "想带着答案未明的疑问 进入转世的轮回",
@@ -18760,20 +17671,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "てんせい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5e7b-60f3-800",
     "japanese": "幻想",
     "kana": "げんそう",
     "romaji": "gensou",
-    "zh": "释义：fantasy; illusion; vision; dream",
+    "zh": "结合本句可理解为：就这样被幻想所玩弄",
     "en": "fantasy; illusion; vision; dream",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：fantasy; illusion; vision; dream。出自例句「このままずっと幻想に踊らされて」。",
+    "introZh": "词典释义：结合本句可理解为：就这样被幻想所玩弄。出自例句「このままずっと幻想に踊らされて」。",
     "introEn": "Meaning: fantasy; illusion; vision; dream. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "このままずっと幻想に踊らされて",
     "exampleZh": "就这样被幻想所玩弄",
@@ -18784,21 +17692,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "げんそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5f31-801",
     "japanese": "弱",
     "kana": "よわ",
     "romaji": "yowa",
-    "zh": "释义：a little less than; a little under; slightly fewer than; weakness; the weak; low (setting)",
-    "en": "a little less than; a little under; slightly fewer than; weakness; the weak; low (setting)",
-    "partOfSpeech": "形容词 / adjective; suffix",
-    "introZh": "词典释义：a little less than; a little under; slightly fewer than; weakness; the weak; low (setting)。出自例句「私の弱さ醜さが招くこと全部人のせいにして」。",
-    "introEn": "Meaning: a little less than; a little under; slightly fewer than; weakness; the weak; low (setting). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：将我的懦弱与丑陋 都归咎于别人",
+    "en": "weak; frail; delicate; tender; unskilled; weak (wine)",
+    "partOfSpeech": "形容词 / adjective; i-adjective",
+    "introZh": "词典释义：结合本句可理解为：将我的懦弱与丑陋 都归咎于别人。出自例句「私の弱さ醜さが招くこと全部人のせいにして」。",
+    "introEn": "Meaning: weak; frail; delicate; tender; unskilled; weak (wine). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "私の弱さ醜さが招くこと全部人のせいにして",
     "exampleZh": "将我的懦弱与丑陋 都归咎于别人",
     "exampleEn": "Example line from \"偽りの理\" by トゲナシトゲアリ.",
@@ -18810,8 +17715,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "弱い",
-      "よわ"
+      "弱い"
     ]
   },
   {
@@ -18819,10 +17723,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "当たり前",
     "kana": "あたりまえ",
     "romaji": "atarimae",
-    "zh": "释义：natural; reasonable; obvious; usual; common; ordinary",
+    "zh": "通常的；平常的；普通；常见；普通的",
     "en": "natural; reasonable; obvious; usual; common; ordinary",
     "partOfSpeech": "名词 / noun; no-adjective · na-adjective · noun",
-    "introZh": "词典释义：natural; reasonable; obvious; usual; common; ordinary。出自例句「今更当たり前に最低限生き延びて」。",
+    "introZh": "词典释义：通常的；平常的；普通；常见；普通的。出自例句「今更当たり前に最低限生き延びて」。",
     "introEn": "Meaning: natural; reasonable; obvious; usual; common; ordinary. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今更当たり前に最低限生き延びて",
     "exampleZh": "事到如今还理所应当地苟活着",
@@ -18833,20 +17737,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "あたりまえ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6700-4f4e-9650-803",
     "japanese": "最低限",
     "kana": "さいていげん",
     "romaji": "saiteigen",
-    "zh": "释义：minimum; at the very least",
+    "zh": "结合本句可理解为：事到如今还理所应当地苟活着",
     "en": "minimum; at the very least",
     "partOfSpeech": "名词 / noun; noun · no-adjective",
-    "introZh": "词典释义：minimum; at the very least。出自例句「今更当たり前に最低限生き延びて」。",
+    "introZh": "词典释义：结合本句可理解为：事到如今还理所应当地苟活着。出自例句「今更当たり前に最低限生き延びて」。",
     "introEn": "Meaning: minimum; at the very least. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "今更当たり前に最低限生き延びて",
     "exampleZh": "事到如今还理所应当地苟活着",
@@ -18857,10 +17758,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さいていげん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-751f-304d-5ef6-3073-804",
@@ -18883,8 +17781,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "生き延びる",
-      "いきのび"
+      "生き延びる"
     ]
   },
   {
@@ -18892,10 +17789,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "偉",
     "kana": "えら",
     "romaji": "era",
-    "zh": "释义：great; excellent; admirable; commendable; laudable; honorable",
+    "zh": "优秀的；极好的",
     "en": "great; excellent; admirable; commendable; laudable; honorable",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：great; excellent; admirable; commendable; laudable; honorable。出自例句「偉そうな顔する自分が嫌になるんだ」。",
+    "introZh": "词典释义：优秀的；极好的。出自例句「偉そうな顔する自分が嫌になるんだ」。",
     "introEn": "Meaning: great; excellent; admirable; commendable; laudable; honorable. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "偉そうな顔する自分が嫌になるんだ",
     "exampleZh": "真是厌恶一脸了不起的自己",
@@ -18908,8 +17805,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "偉い",
-      "えら"
+      "偉い"
     ]
   },
   {
@@ -18931,20 +17827,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あたまごなし"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-8996-7dda-807",
     "japanese": "視線",
     "kana": "しせん",
     "romaji": "shisen",
-    "zh": "释义：one's line of sight; one's gaze; one's eyes (looking); glance; gaze; look",
+    "zh": "看；瞧",
     "en": "one's line of sight; one's gaze; one's eyes (looking); glance; gaze; look",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：one's line of sight; one's gaze; one's eyes (looking); glance; gaze; look。出自例句「冷たい視線掻い潜って」。",
+    "introZh": "词典释义：看；瞧。出自例句「冷たい視線掻い潜って」。",
     "introEn": "Meaning: one's line of sight; one's gaze; one's eyes (looking); glance; gaze; look. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "冷たい視線掻い潜って",
     "exampleZh": "躲避那冰冷的视线",
@@ -18955,10 +17848,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しせん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63bb-3044-6f5c-3063-808",
@@ -18981,8 +17871,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "掻い潜る",
-      "かいくぐっ"
+      "掻い潜る"
     ]
   },
   {
@@ -19027,8 +17916,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "見え透く",
-      "みえすい"
+      "見え透く"
     ]
   },
   {
@@ -19050,20 +17938,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あざわらう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5984-60f3-812",
     "japanese": "妄想",
     "kana": "もうそう",
     "romaji": "mousou",
-    "zh": "释义：delusion; wild idea; (wild) fancy; (ridiculous) fantasy",
+    "zh": "妄想；错觉",
     "en": "delusion; wild idea; (wild) fancy; (ridiculous) fantasy",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：delusion; wild idea; (wild) fancy; (ridiculous) fantasy。出自例句「妄想でもないけど現実味ない」。",
+    "introZh": "词典释义：妄想；错觉。出自例句「妄想でもないけど現実味ない」。",
     "introEn": "Meaning: delusion; wild idea; (wild) fancy; (ridiculous) fantasy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "妄想でもないけど現実味ない",
     "exampleZh": "并非妄想 却不真实",
@@ -19074,10 +17959,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "もうそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-73fe-5b9f-5473-813",
@@ -19098,10 +17980,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "げんじつみ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-30a6-30b6-814",
@@ -19122,20 +18001,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うざ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-30c7-30ea-30fc-30c8-815",
     "japanese": "デリート",
     "kana": "でりいと",
     "romaji": "deriito",
-    "zh": "释义：delete",
+    "zh": "结合本句可理解为：让我心烦意乱(好想将其删除)",
     "en": "delete",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：delete。出自例句「邪魔して邪魔してウザい（デリートしたい）」。",
+    "introZh": "词典释义：结合本句可理解为：让我心烦意乱(好想将其删除)。出自例句「邪魔して邪魔してウザい（デリートしたい）」。",
     "introEn": "Meaning: delete. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "邪魔して邪魔してウザい（デリートしたい）",
     "exampleZh": "让我心烦意乱(好想将其删除)",
@@ -19146,20 +18022,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "でりいと"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30ea-30a2-30eb-816",
     "japanese": "リアル",
     "kana": "りある",
     "romaji": "riaru",
-    "zh": "释义：real; realistic; true to life; serious; non-joking; earnest",
+    "zh": "结合本句可理解为：一切化为事实",
     "en": "real; realistic; true to life; serious; non-joking; earnest",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：real; realistic; true to life; serious; non-joking; earnest。出自例句「リアルになり」。",
+    "introZh": "词典释义：结合本句可理解为：一切化为事实。出自例句「リアルになり」。",
     "introEn": "Meaning: real; realistic; true to life; serious; non-joking; earnest. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "リアルになり",
     "exampleZh": "一切化为事实",
@@ -19170,20 +18043,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "りある"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-9060-3044-817",
     "japanese": "遠い",
     "kana": "とおい",
     "romaji": "tooi",
-    "zh": "释义：far; distant; far away; a long way off; in the distance; distant (past)",
+    "zh": "结合本句可理解为：在遥远无比的某处等待",
     "en": "far; distant; far away; a long way off; in the distance; distant (past)",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：far; distant; far away; a long way off; in the distance; distant (past)。出自例句「遠い遠いどこかで待っていて」。",
+    "introZh": "词典释义：结合本句可理解为：在遥远无比的某处等待。出自例句「遠い遠いどこかで待っていて」。",
     "introEn": "Meaning: far; distant; far away; a long way off; in the distance; distant (past). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "遠い遠いどこかで待っていて",
     "exampleZh": "在遥远无比的某处等待",
@@ -19194,20 +18064,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とおい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-91d1-818",
     "japanese": "金",
     "kana": "きん",
     "romaji": "kin",
-    "zh": "释义：gold (metal); gold (color); gold (medal); first place (prize); something of great value; something golden (e.g. silence)",
+    "zh": "结合本句可理解为：金钱买不到人心?",
     "en": "gold (metal); gold (color); gold (medal); first place (prize); something of great value; something golden (e.g. silence)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：gold (metal); gold (color); gold (medal); first place (prize); something of great value; something golden (e.g. silence)。出自例句「心は金じゃ買えやしない？」。",
+    "introZh": "词典释义：结合本句可理解为：金钱买不到人心?。出自例句「心は金じゃ買えやしない？」。",
     "introEn": "Meaning: gold (metal); gold (color); gold (medal); first place (prize); something of great value; something golden (e.g. silence). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心は金じゃ買えやしない？",
     "exampleZh": "金钱买不到人心?",
@@ -19218,20 +18085,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-8cb7-3048-819",
     "japanese": "買え",
     "kana": "かえ",
     "romaji": "kae",
-    "zh": "释义：change; alteration; substitute; spare; replacement; change (e.g. of clothes)",
+    "zh": "变化；改变；变更",
     "en": "change; alteration; substitute; spare; replacement; change (e.g. of clothes)",
     "partOfSpeech": "动词 / verb; noun · n-suf",
-    "introZh": "词典释义：change; alteration; substitute; spare; replacement; change (e.g. of clothes)。出自例句「心は金じゃ買えやしない？」。",
+    "introZh": "词典释义：变化；改变；变更。出自例句「心は金じゃ買えやしない？」。",
     "introEn": "Meaning: change; alteration; substitute; spare; replacement; change (e.g. of clothes). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心は金じゃ買えやしない？",
     "exampleZh": "金钱买不到人心?",
@@ -19244,8 +18108,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "買える",
-      "かえ"
+      "買える"
     ]
   },
   {
@@ -19253,10 +18116,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "うる",
     "kana": "うる",
     "romaji": "uru",
-    "zh": "释义：to be able to ...; can ...; to get; to acquire; to obtain; to procure",
+    "zh": "得到；变得",
     "en": "to be able to ...; can ...; to get; to acquire; to obtain; to procure",
     "partOfSpeech": "动词 / verb; v2a-s · suffix",
-    "introZh": "词典释义：to be able to ...; can ...; to get; to acquire; to obtain; to procure。出自例句「心を投げうる大人達が心を騙す世界で」。",
+    "introZh": "词典释义：得到；变得。出自例句「心を投げうる大人達が心を騙す世界で」。",
     "introEn": "Meaning: to be able to ...; can ...; to get; to acquire; to obtain; to procure. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心を投げうる大人達が心を騙す世界で",
     "exampleZh": "在出卖灵魂的大人们遍布不断欺骗人心的世界里",
@@ -19274,10 +18137,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "騙す",
     "kana": "だます",
     "romaji": "damasu",
-    "zh": "释义：to trick; to cheat; to deceive; to swindle; to dupe; to coax",
+    "zh": "欺骗",
     "en": "to trick; to cheat; to deceive; to swindle; to dupe; to coax",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to trick; to cheat; to deceive; to swindle; to dupe; to coax。出自例句「心を投げうる大人達が心を騙す世界で」。",
+    "introZh": "词典释义：欺骗。出自例句「心を投げうる大人達が心を騙す世界で」。",
     "introEn": "Meaning: to trick; to cheat; to deceive; to swindle; to dupe; to coax. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心を投げうる大人達が心を騙す世界で",
     "exampleZh": "在出卖灵魂的大人们遍布不断欺骗人心的世界里",
@@ -19288,20 +18151,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "だます"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-76ee-6307-305b-822",
     "japanese": "目指せ",
     "kana": "めざせ",
     "romaji": "mezase",
-    "zh": "释义：to aim at (for, to do, to become); to try for; to have an eye on; to go toward; to head for",
+    "zh": "瞄准；以……为目标",
     "en": "to aim at (for, to do, to become); to try for; to have an eye on; to go toward; to head for",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to aim at (for, to do, to become); to try for; to have an eye on; to go toward; to head for。出自例句「何処を目指せば良いの？」。",
+    "introZh": "词典释义：瞄准；以……为目标。出自例句「何処を目指せば良いの？」。",
     "introEn": "Meaning: to aim at (for, to do, to become); to try for; to have an eye on; to go toward; to head for. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何処を目指せば良いの？",
     "exampleZh": "我该去往何方?",
@@ -19314,8 +18174,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "目指す",
-      "めざせ"
+      "目指す"
     ]
   },
   {
@@ -19323,10 +18182,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "偽装",
     "kana": "ぎそう",
     "romaji": "gisou",
-    "zh": "释义：camouflage; disguise; pretense; feigning; masquerade",
+    "zh": "结合本句可理解为：这个虚伪的世界已然枯竭",
     "en": "camouflage; disguise; pretense; feigning; masquerade",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：camouflage; disguise; pretense; feigning; masquerade。出自例句「この枯れた偽装の世界」。",
+    "introZh": "词典释义：结合本句可理解为：这个虚伪的世界已然枯竭。出自例句「この枯れた偽装の世界」。",
     "introEn": "Meaning: camouflage; disguise; pretense; feigning; masquerade. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "この枯れた偽装の世界",
     "exampleZh": "这个虚伪的世界已然枯竭",
@@ -19337,20 +18196,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぎそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306b-3068-3063-3066-824",
     "japanese": "にとって",
     "kana": "にとって",
     "romaji": "nitotte",
-    "zh": "释义：to; for; from the standpoint of; as far as ... is concerned",
+    "zh": "结合本句可理解为：也许不过是他人眼中的垃圾",
     "en": "to; for; from the standpoint of; as far as ... is concerned",
     "partOfSpeech": "助词 / particle; expression",
-    "introZh": "词典释义：to; for; from the standpoint of; as far as ... is concerned。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
+    "introZh": "词典释义：结合本句可理解为：也许不过是他人眼中的垃圾。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
     "introEn": "Meaning: to; for; from the standpoint of; as far as ... is concerned. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かにとってはゴミになるようなモノだとしても",
     "exampleZh": "也许不过是他人眼中的垃圾",
@@ -19368,10 +18224,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ゴミ",
     "kana": "ごみ",
     "romaji": "gomi",
-    "zh": "释义：rubbish; trash; garbage; refuse; litter",
+    "zh": "结合本句可理解为：也许不过是他人眼中的垃圾",
     "en": "rubbish; trash; garbage; refuse; litter",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：rubbish; trash; garbage; refuse; litter。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
+    "introZh": "词典释义：结合本句可理解为：也许不过是他人眼中的垃圾。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
     "introEn": "Meaning: rubbish; trash; garbage; refuse; litter. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かにとってはゴミになるようなモノだとしても",
     "exampleZh": "也许不过是他人眼中的垃圾",
@@ -19382,20 +18238,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ごみ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30e2-30ce-826",
     "japanese": "モノ",
     "kana": "もの",
     "romaji": "mono",
-    "zh": "释义：mono",
+    "zh": "结合本句可理解为：也许不过是他人眼中的垃圾",
     "en": "mono",
     "partOfSpeech": "名词 / noun; adj-f",
-    "introZh": "词典释义：mono。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
+    "introZh": "词典释义：结合本句可理解为：也许不过是他人眼中的垃圾。出自例句「誰かにとってはゴミになるようなモノだとしても」。",
     "introEn": "Meaning: mono. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰かにとってはゴミになるようなモノだとしても",
     "exampleZh": "也许不过是他人眼中的垃圾",
@@ -19406,20 +18259,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "もの"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-75db-3080-827",
     "japanese": "痛む",
     "kana": "いたむ",
     "romaji": "itamu",
-    "zh": "释义：to hurt; to ache; to feel a pain; to be injured; to be spoiled (e.g. food); to be damaged",
+    "zh": "结合本句可理解为：渴望能有所期待 心里其实痛不欲生",
     "en": "to hurt; to ache; to feel a pain; to be injured; to be spoiled (e.g. food); to be damaged",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to hurt; to ache; to feel a pain; to be injured; to be spoiled (e.g. food); to be damaged。出自例句「期待したい 本当は痛む心」。",
+    "introZh": "词典释义：结合本句可理解为：渴望能有所期待 心里其实痛不欲生。出自例句「期待したい 本当は痛む心」。",
     "introEn": "Meaning: to hurt; to ache; to feel a pain; to be injured; to be spoiled (e.g. food); to be damaged. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "期待したい 本当は痛む心",
     "exampleZh": "渴望能有所期待 心里其实痛不欲生",
@@ -19430,20 +18280,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いたむ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-75db-3044-828",
     "japanese": "痛い",
     "kana": "いたい",
     "romaji": "itai",
-    "zh": "释义：painful; sore; cringy; embarrassing",
+    "zh": "痛苦的；疼痛的",
     "en": "painful; sore; cringy; embarrassing",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：painful; sore; cringy; embarrassing。出自例句「視線ばっかいつも刺さって痛い」。",
+    "introZh": "词典释义：痛苦的；疼痛的。出自例句「視線ばっかいつも刺さって痛い」。",
     "introEn": "Meaning: painful; sore; cringy; embarrassing. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "視線ばっかいつも刺さって痛い",
     "exampleZh": "旁人的视线往往刺痛着我",
@@ -19454,20 +18301,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いたい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-898b-308d-829",
     "japanese": "見ろ",
     "kana": "みろ",
     "romaji": "miro",
-    "zh": "释义：to see; to look; to watch; to view; to observe; to examine",
+    "zh": "看见；明白；看；瞧",
     "en": "to see; to look; to watch; to view; to observe; to examine",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to see; to look; to watch; to view; to observe; to examine。出自例句「\"夢なんてない\"\"現実を見ろ\"」。",
+    "introZh": "词典释义：看见；明白；看；瞧。出自例句「\"夢なんてない\"\"現実を見ろ\"」。",
     "introEn": "Meaning: to see; to look; to watch; to view; to observe; to examine. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "\"夢なんてない\"\"現実を見ろ\"",
     "exampleZh": "\"别再做梦\" \"看清现实\"",
@@ -19480,8 +18324,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "見る",
-      "みろ"
+      "見る"
     ]
   },
   {
@@ -19489,10 +18332,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "殺す",
     "kana": "ころす",
     "romaji": "korosu",
-    "zh": "释义：to kill; to slay; to murder; to slaughter; to suppress; to block",
+    "zh": "结合本句可理解为：在描绘理想的大人们遍布不停扼杀内心的世界中",
     "en": "to kill; to slay; to murder; to slaughter; to suppress; to block",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to kill; to slay; to murder; to slaughter; to suppress; to block。出自例句「理想を描いた大人達が心を殺す世界で」。",
+    "introZh": "词典释义：结合本句可理解为：在描绘理想的大人们遍布不停扼杀内心的世界中。出自例句「理想を描いた大人達が心を殺す世界で」。",
     "introEn": "Meaning: to kill; to slay; to murder; to slaughter; to suppress; to block. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "理想を描いた大人達が心を殺す世界で",
     "exampleZh": "在描绘理想的大人们遍布不停扼杀内心的世界中",
@@ -19503,20 +18346,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ころす"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-983c-308c-831",
     "japanese": "頼れ",
     "kana": "たよれ",
     "romaji": "tayore",
-    "zh": "释义：to rely on; to depend on; to count on; to turn to (for help)",
+    "zh": "结合本句可理解为：我能依靠什么?",
     "en": "to rely on; to depend on; to count on; to turn to (for help)",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb · transitive verb",
-    "introZh": "词典释义：to rely on; to depend on; to count on; to turn to (for help)。出自例句「何を頼れば良いの？」。",
+    "introZh": "词典释义：结合本句可理解为：我能依靠什么?。出自例句「何を頼れば良いの？」。",
     "introEn": "Meaning: to rely on; to depend on; to count on; to turn to (for help). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "何を頼れば良いの？",
     "exampleZh": "我能依靠什么?",
@@ -19529,8 +18369,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "頼る",
-      "たよれ"
+      "頼る"
     ]
   },
   {
@@ -19538,10 +18377,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "奪う",
     "kana": "うばう",
     "romaji": "ubau",
-    "zh": "释义：to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of",
+    "zh": "结合本句可理解为：在人心屡遭掠夺的世界里 我能追求什么?",
     "en": "to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of。出自例句「心を奪う世界で何を目指せば良いの？」。",
+    "introZh": "词典释义：结合本句可理解为：在人心屡遭掠夺的世界里 我能追求什么?。出自例句「心を奪う世界で何を目指せば良いの？」。",
     "introEn": "Meaning: to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "心を奪う世界で何を目指せば良いの？",
     "exampleZh": "在人心屡遭掠夺的世界里 我能追求什么?",
@@ -19552,20 +18391,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "うばう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30b5-30e8-30ca-30e9-833",
     "japanese": "サヨナラ",
     "kana": "さよなら",
     "romaji": "sayonara",
-    "zh": "释义：goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with",
+    "zh": "再见；告别",
     "en": "goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with",
     "partOfSpeech": "感叹词 / interjection",
-    "introZh": "词典释义：goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with。出自例句「サヨナラ サヨナラ サヨナラなんだよ」。",
+    "introZh": "词典释义：再见；告别。出自例句「サヨナラ サヨナラ サヨナラなんだよ」。",
     "introEn": "Meaning: goodbye; so long; farewell; saying goodbye to (e.g. life as a bachelor); putting an end to; parting with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "サヨナラ サヨナラ サヨナラなんだよ",
     "exampleZh": "摆手再见 挥手告别 道别时刻如今将至",
@@ -19576,20 +18412,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さよなら"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-898b-4e0b-3055-834",
     "japanese": "見下さ",
     "kana": "みくださ",
     "romaji": "mikudasa",
-    "zh": "释义：to look down (on); to condescend (to)",
+    "zh": "结合本句可理解为：我再次被人所轻视",
     "en": "to look down (on); to condescend (to)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to look down (on); to condescend (to)。出自例句「また 見下された」。",
+    "introZh": "词典释义：结合本句可理解为：我再次被人所轻视。出自例句「また 見下された」。",
     "introEn": "Meaning: to look down (on); to condescend (to). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "また 見下された",
     "exampleZh": "我再次被人所轻视",
@@ -19602,8 +18435,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "見下す",
-      "みくださ"
+      "見下す"
     ]
   },
   {
@@ -19611,10 +18443,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "決め",
     "kana": "きめ",
     "romaji": "kime",
-    "zh": "释义：agreement; rule; arrangement; decision",
+    "zh": "约定；协议",
     "en": "agreement; rule; arrangement; decision",
     "partOfSpeech": "名词 / noun; noun · n-suf",
-    "introZh": "词典释义：agreement; rule; arrangement; decision。出自例句「決め付けたりしないで」。",
+    "introZh": "词典释义：约定；协议。出自例句「決め付けたりしないで」。",
     "introEn": "Meaning: agreement; rule; arrangement; decision. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "決め付けたりしないで",
     "exampleZh": "就先入为主地评价我",
@@ -19625,20 +18457,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きめ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4ed8-3051-836",
     "japanese": "付け",
     "kana": "づけ",
     "romaji": "zuke",
-    "zh": "释义：bill; bill of sale; payment invoice; tab (for later payment); credit; attachment",
+    "zh": "账单；票据；赊账；信用",
     "en": "bill; bill of sale; payment invoice; tab (for later payment); credit; attachment",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：bill; bill of sale; payment invoice; tab (for later payment); credit; attachment。出自例句「決め付けたりしないで」。",
+    "introZh": "词典释义：账单；票据；赊账；信用。出自例句「決め付けたりしないで」。",
     "introEn": "Meaning: bill; bill of sale; payment invoice; tab (for later payment); credit; attachment. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "決め付けたりしないで",
     "exampleZh": "就先入为主地评价我",
@@ -19650,9 +18479,6 @@ export const lyricVocabulary: StudyWord[] = [
     ],
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
-    "forms": [
-      "づけ"
-    ],
     "readingOptions": [
       "づけ",
       "つけ"
@@ -19667,10 +18493,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "たり",
     "kana": "たり",
     "romaji": "tari",
-    "zh": "释义：-ing and -ing (e.g. \"coming and going\"); doing such things as ...; expresses a command; to be; indicates completion or continuation of an action",
+    "zh": "是；存在",
     "en": "-ing and -ing (e.g. \"coming and going\"); doing such things as ...; expresses a command; to be; indicates completion or continuation of an action",
     "partOfSpeech": "助词 / particle",
-    "introZh": "词典释义：-ing and -ing (e.g. \"coming and going\"); doing such things as ...; expresses a command; to be; indicates completion or continuation of an action。出自例句「決め付けたりしないで」。",
+    "introZh": "词典释义：是；存在。出自例句「決め付けたりしないで」。",
     "introEn": "Meaning: -ing and -ing (e.g. \"coming and going\"); doing such things as ...; expresses a command; to be; indicates completion or continuation of an action. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "決め付けたりしないで",
     "exampleZh": "就先入为主地评价我",
@@ -19688,10 +18514,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "蔑ま",
     "kana": "さげすま",
     "romaji": "sagesuma",
-    "zh": "释义：to scorn; to despise; to hold in contempt; to look down on; to disdain",
+    "zh": "结合本句可理解为：我再次被人所轻蔑",
     "en": "to scorn; to despise; to hold in contempt; to look down on; to disdain",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to scorn; to despise; to hold in contempt; to look down on; to disdain。出自例句「また 蔑まれた」。",
+    "introZh": "词典释义：结合本句可理解为：我再次被人所轻蔑。出自例句「また 蔑まれた」。",
     "introEn": "Meaning: to scorn; to despise; to hold in contempt; to look down on; to disdain. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "また 蔑まれた",
     "exampleZh": "我再次被人所轻蔑",
@@ -19704,8 +18530,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "蔑む",
-      "さげすま"
+      "蔑む"
     ]
   },
   {
@@ -19713,11 +18538,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "付け",
     "kana": "つけ",
     "romaji": "tsuke",
-    "zh": "释义：bill; bill of sale; payment invoice; tab (for later payment); credit; attachment",
-    "en": "bill; bill of sale; payment invoice; tab (for later payment); credit; attachment",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：bill; bill of sale; payment invoice; tab (for later payment); credit; attachment。出自例句「決め付けて嬉しそう」。",
-    "introEn": "Meaning: bill; bill of sale; payment invoice; tab (for later payment); credit; attachment. Dictionary data: local Kotobako/JMdict.",
+    "zh": "连接；联系",
+    "en": "to attach; to join; to connect; to add; to append; to affix",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：连接；联系。出自例句「決め付けて嬉しそう」。",
+    "introEn": "Meaning: to attach; to join; to connect; to add; to append; to affix. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "決め付けて嬉しそう",
     "exampleZh": "并满心欢喜地如此确信着",
     "exampleEn": "Example line from \"サヨナラサヨナラサヨナラ\" by トゲナシトゲアリ.",
@@ -19729,8 +18554,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "付ける",
-      "つけ"
+      "付ける"
     ],
     "readingOptions": [
       "づけ",
@@ -19746,10 +18570,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "嬉し",
     "kana": "うれし",
     "romaji": "ureshi",
-    "zh": "释义：happy; glad; pleased; delighted; overjoyed; joyful",
+    "zh": "开心的；高兴的",
     "en": "happy; glad; pleased; delighted; overjoyed; joyful",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：happy; glad; pleased; delighted; overjoyed; joyful。出自例句「決め付けて嬉しそう」。",
+    "introZh": "词典释义：开心的；高兴的。出自例句「決め付けて嬉しそう」。",
     "introEn": "Meaning: happy; glad; pleased; delighted; overjoyed; joyful. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "決め付けて嬉しそう",
     "exampleZh": "并满心欢喜地如此确信着",
@@ -19762,8 +18586,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "嬉しい",
-      "うれし"
+      "嬉しい"
     ]
   },
   {
@@ -19785,20 +18608,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "おもいどおり"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6d88-3048-308b-842",
     "japanese": "消える",
     "kana": "きえる",
     "romaji": "kieru",
-    "zh": "释义：to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.)",
+    "zh": "结合本句可理解为：毕竟我知道你终究会消失的无影无踪",
     "en": "to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.)。出自例句「だってどうせまた 消えるくせに」。",
+    "introZh": "词典释义：结合本句可理解为：毕竟我知道你终究会消失的无影无踪。出自例句「だってどうせまた 消えるくせに」。",
     "introEn": "Meaning: to disappear; to vanish; to go out of sight; to go away; to become lost; to go out (of a fire, light, etc.). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "だってどうせまた 消えるくせに",
     "exampleZh": "毕竟我知道你终究会消失的无影无踪",
@@ -19809,20 +18629,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きえる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4eee-9762-843",
     "japanese": "仮面",
     "kana": "かめん",
     "romaji": "kamen",
-    "zh": "释义：mask; disguise; guise",
+    "zh": "结合本句可理解为：用面具掩饰微笑的那种人",
     "en": "mask; disguise; guise",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：mask; disguise; guise。出自例句「仮面被って笑ってるあんな」。",
+    "introZh": "词典释义：结合本句可理解为：用面具掩饰微笑的那种人。出自例句「仮面被って笑ってるあんな」。",
     "introEn": "Meaning: mask; disguise; guise. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "仮面被って笑ってるあんな",
     "exampleZh": "用面具掩饰微笑的那种人",
@@ -19833,20 +18650,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かめん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3042-3093-306a-844",
     "japanese": "あんな",
     "kana": "あんな",
     "romaji": "anna",
-    "zh": "释义：that sort of; that kind of; like that; such; so",
+    "zh": "那种；像那样；这样的；所以；那么",
     "en": "that sort of; that kind of; like that; such; so",
     "partOfSpeech": "连体词 / adnominal; adj-pn",
-    "introZh": "词典释义：that sort of; that kind of; like that; such; so。出自例句「仮面被って笑ってるあんな」。",
+    "introZh": "词典释义：那种；像那样；这样的；所以；那么。出自例句「仮面被って笑ってるあんな」。",
     "introEn": "Meaning: that sort of; that kind of; like that; such; so. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "仮面被って笑ってるあんな",
     "exampleZh": "用面具掩饰微笑的那种人",
@@ -19864,10 +18678,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ごめん",
     "kana": "ごめん",
     "romaji": "gomen",
-    "zh": "释义：I'm sorry; my apologies; excuse me; pardon me; may I come in?; permission",
+    "zh": "结合本句可理解为：实在令我难以忍受",
     "en": "I'm sorry; my apologies; excuse me; pardon me; may I come in?; permission",
     "partOfSpeech": "名词 / noun; interjection",
-    "introZh": "词典释义：I'm sorry; my apologies; excuse me; pardon me; may I come in?; permission。出自例句「人間 人間 ごめんだ」。",
+    "introZh": "词典释义：结合本句可理解为：实在令我难以忍受。出自例句「人間 人間 ごめんだ」。",
     "introEn": "Meaning: I'm sorry; my apologies; excuse me; pardon me; may I come in?; permission. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "人間 人間 ごめんだ",
     "exampleZh": "实在令我难以忍受",
@@ -19885,11 +18699,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "つい",
     "kana": "つい",
     "romaji": "tsui",
-    "zh": "释义：just (now); quite (near); unintentionally; subconsciously; by mistake; against one's better judgement (judgment)",
-    "en": "just (now); quite (near); unintentionally; subconsciously; by mistake; against one's better judgement (judgment)",
-    "partOfSpeech": "动词 / verb; adverb",
-    "introZh": "词典释义：just (now); quite (near); unintentionally; subconsciously; by mistake; against one's better judgement (judgment)。出自例句「いつから嘘ついて 普通ぶって」。",
-    "introEn": "Meaning: just (now); quite (near); unintentionally; subconsciously; by mistake; against one's better judgement (judgment). Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：悄无声息的谎言到底从何时存在 并装作一切正常",
+    "en": "to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on",
+    "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
+    "introZh": "词典释义：结合本句可理解为：悄无声息的谎言到底从何时存在 并装作一切正常。出自例句「いつから嘘ついて 普通ぶって」。",
+    "introEn": "Meaning: to be lit (of a lamp, burner, etc.); to catch fire; to ignite; to start burning; to be turned on (of a light, appliance, etc.); to come on. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつから嘘ついて 普通ぶって",
     "exampleZh": "悄无声息的谎言到底从何时存在 并装作一切正常",
     "exampleEn": "Example line from \"サヨナラサヨナラサヨナラ\" by トゲナシトゲアリ.",
@@ -19909,10 +18723,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ぶっ",
     "kana": "ぶっ",
     "romaji": "bu",
-    "zh": "释义：to hit (someone); to strike; to beat; to make (a speech); to give (an address); to gamble",
+    "zh": "打；击中",
     "en": "to hit (someone); to strike; to beat; to make (a speech); to give (an address); to gamble",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hit (someone); to strike; to beat; to make (a speech); to give (an address); to gamble。出自例句「いつから嘘ついて 普通ぶって」。",
+    "introZh": "词典释义：打；击中。出自例句「いつから嘘ついて 普通ぶって」。",
     "introEn": "Meaning: to hit (someone); to strike; to beat; to make (a speech); to give (an address); to gamble. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "いつから嘘ついて 普通ぶって",
     "exampleZh": "悄无声息的谎言到底从何时存在 并装作一切正常",
@@ -19933,10 +18747,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "人生",
     "kana": "じんせい",
     "romaji": "jinsei",
-    "zh": "释义：(one's) life",
+    "zh": "结合本句可理解为：“我忍受不了这样的人生”",
     "en": "(one's) life",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：(one's) life。出自例句「「こんな人生 まっぴらごめん」と」。",
+    "introZh": "词典释义：结合本句可理解为：“我忍受不了这样的人生”。出自例句「「こんな人生 まっぴらごめん」と」。",
     "introEn": "Meaning: (one's) life. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "「こんな人生 まっぴらごめん」と",
     "exampleZh": "“我忍受不了这样的人生”",
@@ -19947,10 +18761,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "じんせい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-307e-3063-3074-3089-849",
@@ -19978,11 +18789,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "蹴",
     "kana": "け",
     "romaji": "ke",
-    "zh": "释义：house; family",
-    "en": "house; family",
-    "partOfSpeech": "动词 / verb; suffix",
-    "introZh": "词典释义：house; family。出自例句「また 蹴落とされた」。",
-    "introEn": "Meaning: house; family. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：我再度遭人陷害",
+    "en": "to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something)",
+    "partOfSpeech": "动词 / verb; godan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：我再度遭人陷害。出自例句「また 蹴落とされた」。",
+    "introEn": "Meaning: to kick; to refuse; to reject; to stamp (on the ground); to firmly press one's feet (against something). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "また 蹴落とされた",
     "exampleZh": "我再度遭人陷害",
     "exampleEn": "Example line from \"サヨナラサヨナラサヨナラ\" by トゲナシトゲアリ.",
@@ -19994,8 +18805,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "蹴る",
-      "け"
+      "蹴る"
     ]
   },
   {
@@ -20003,10 +18813,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "落とさ",
     "kana": "おとさ",
     "romaji": "otosa",
-    "zh": "释义：to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)",
+    "zh": "落下；丢下；失去；输掉",
     "en": "to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)。出自例句「また 蹴落とされた」。",
+    "introZh": "词典释义：落下；丢下；失去；输掉。出自例句「また 蹴落とされた」。",
     "introEn": "Meaning: to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "また 蹴落とされた",
     "exampleZh": "我再度遭人陷害",
@@ -20019,8 +18829,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "落とす",
-      "おとさ"
+      "落とす"
     ]
   },
   {
@@ -20028,10 +18837,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "力",
     "kana": "ちから",
     "romaji": "chikara",
-    "zh": "释义：force; strength; might; vigour; vigor; energy",
+    "zh": "结合本句可理解为：别认定我软弱无害",
     "en": "force; strength; might; vigour; vigor; energy",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：force; strength; might; vigour; vigor; energy。出自例句「どうせ 私 力もないって」。",
+    "introZh": "词典释义：结合本句可理解为：别认定我软弱无害。出自例句「どうせ 私 力もないって」。",
     "introEn": "Meaning: force; strength; might; vigour; vigor; energy. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "どうせ 私 力もないって",
     "exampleZh": "别认定我软弱无害",
@@ -20042,20 +18851,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ちから"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5f3e-853",
     "japanese": "弾",
     "kana": "たま",
     "romaji": "tama",
-    "zh": "释义：ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop",
+    "zh": "结合本句可理解为：就将我排除在外",
     "en": "ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop。出自例句「弾(はじ)いたりしないで」。",
+    "introZh": "词典释义：结合本句可理解为：就将我排除在外。出自例句「弾(はじ)いたりしないで」。",
     "introEn": "Meaning: ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "弾(はじ)いたりしないで",
     "exampleZh": "就将我排除在外",
@@ -20066,20 +18872,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "たま"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-306f-3058-854",
     "japanese": "はじ",
     "kana": "はじ",
     "romaji": "haji",
-    "zh": "释义：shame; embarrassment; disgrace",
+    "zh": "结合本句可理解为：就将我排除在外",
     "en": "shame; embarrassment; disgrace",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：shame; embarrassment; disgrace。出自例句「弾(はじ)いたりしないで」。",
+    "introZh": "词典释义：结合本句可理解为：就将我排除在外。出自例句「弾(はじ)いたりしないで」。",
     "introEn": "Meaning: shame; embarrassment; disgrace. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "弾(はじ)いたりしないで",
     "exampleZh": "就将我排除在外",
@@ -20097,10 +18900,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "見放さ",
     "kana": "みはなさ",
     "romaji": "mihanasa",
-    "zh": "释义：to abandon; to give up on; to desert",
+    "zh": "放弃；抛弃",
     "en": "to abandon; to give up on; to desert",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to abandon; to give up on; to desert。出自例句「また 見放された」。",
+    "introZh": "词典释义：放弃；抛弃。出自例句「また 見放された」。",
     "introEn": "Meaning: to abandon; to give up on; to desert. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "また 見放された",
     "exampleZh": "我再度遭人背弃",
@@ -20113,8 +18916,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "見放す",
-      "みはなさ"
+      "見放す"
     ]
   },
   {
@@ -20136,20 +18938,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "とべる"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-5fc5-8981-857",
     "japanese": "必要",
     "kana": "ひつよう",
     "romaji": "hitsuyou",
-    "zh": "释义：necessary; needed; essential; indispensable; necessity; need",
+    "zh": "结合本句可理解为：多么希望有人来认同我 尽管无论是谁都需要被爱",
     "en": "necessary; needed; essential; indispensable; necessity; need",
     "partOfSpeech": "名词 / noun; na-adjective",
-    "introZh": "词典释义：necessary; needed; essential; indispensable; necessity; need。出自例句「誰か認めて 誰しも 愛が必要なのに」。",
+    "introZh": "词典释义：结合本句可理解为：多么希望有人来认同我 尽管无论是谁都需要被爱。出自例句「誰か認めて 誰しも 愛が必要なのに」。",
     "introEn": "Meaning: necessary; needed; essential; indispensable; necessity; need. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "誰か認めて 誰しも 愛が必要なのに",
     "exampleZh": "多么希望有人来认同我 尽管无论是谁都需要被爱",
@@ -20160,20 +18959,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひつよう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-55b0-3089-3044-858",
     "japanese": "喰らい",
     "kana": "くらい",
     "romaji": "kurai",
-    "zh": "释义：dark; gloomy; murky; depressed; dispirited; down in the dumps",
+    "zh": "黑暗的；阴郁的",
     "en": "dark; gloomy; murky; depressed; dispirited; down in the dumps",
     "partOfSpeech": "动词 / verb; i-adjective",
-    "introZh": "词典释义：dark; gloomy; murky; depressed; dispirited; down in the dumps。出自例句「喰らい付いて傷つきたくない」。",
+    "introZh": "词典释义：黑暗的；阴郁的。出自例句「喰らい付いて傷つきたくない」。",
     "introEn": "Meaning: dark; gloomy; murky; depressed; dispirited; down in the dumps. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "喰らい付いて傷つきたくない",
     "exampleZh": "但我不想因为紧巴着不放而受伤",
@@ -20186,8 +18982,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "喰らう",
-      "くらい"
+      "喰らう"
     ]
   },
   {
@@ -20195,10 +18990,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "羽",
     "kana": "はね",
     "romaji": "hane",
-    "zh": "释义：feather; plume; down; wing; blade (of a fan, propeller, etc.); shuttlecock (in badminton)",
+    "zh": "结合本句可理解为：或看见被拔除掉的羽毛",
     "en": "feather; plume; down; wing; blade (of a fan, propeller, etc.); shuttlecock (in badminton)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：feather; plume; down; wing; blade (of a fan, propeller, etc.); shuttlecock (in badminton)。出自例句「毟られた羽も見たくない」。",
+    "introZh": "词典释义：结合本句可理解为：或看见被拔除掉的羽毛。出自例句「毟られた羽も見たくない」。",
     "introEn": "Meaning: feather; plume; down; wing; blade (of a fan, propeller, etc.); shuttlecock (in badminton). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "毟られた羽も見たくない",
     "exampleZh": "或看见被拔除掉的羽毛",
@@ -20209,10 +19004,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "はね"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5927-4eba-3076-3063-860",
@@ -20235,8 +19027,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "大人ぶる",
-      "おとなぶっ"
+      "大人ぶる"
     ]
   },
   {
@@ -20244,10 +19035,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "構え",
     "kana": "かまえ",
     "romaji": "kamae",
-    "zh": "释义：to set up (a house, store, etc.); to build; to establish; to run; to maintain; to have at the ready (e.g. a gun)",
+    "zh": "维持；保持",
     "en": "to set up (a house, store, etc.); to build; to establish; to run; to maintain; to have at the ready (e.g. a gun)",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to set up (a house, store, etc.); to build; to establish; to run; to maintain; to have at the ready (e.g. a gun)。出自例句「大人ぶって構えてるあんな」。",
+    "introZh": "词典释义：维持；保持。出自例句「大人ぶって構えてるあんな」。",
     "introEn": "Meaning: to set up (a house, store, etc.); to build; to establish; to run; to maintain; to have at the ready (e.g. a gun). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "大人ぶって構えてるあんな",
     "exampleZh": "那些爱摆架子的虚伪大人",
@@ -20260,8 +19051,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "構える",
-      "かまえ"
+      "構える"
     ]
   },
   {
@@ -20269,10 +19059,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "貰う",
     "kana": "もらう",
     "romaji": "morau",
-    "zh": "释义：to receive; to take; to accept; to get someone to do something; to have in one's pocket (a fight, match); to contract (a disease)",
+    "zh": "契约；合同",
     "en": "to receive; to take; to accept; to get someone to do something; to have in one's pocket (a fight, match); to contract (a disease)",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to receive; to take; to accept; to get someone to do something; to have in one's pocket (a fight, match); to contract (a disease)。出自例句「自分だけ大切で 貰うだけで」。",
+    "introZh": "词典释义：契约；合同。出自例句「自分だけ大切で 貰うだけで」。",
     "introEn": "Meaning: to receive; to take; to accept; to get someone to do something; to have in one's pocket (a fight, match); to contract (a disease). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "自分だけ大切で 貰うだけで",
     "exampleZh": "我看重的唯有自身",
@@ -20283,20 +19073,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "もらう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-73fe-5728-863",
     "japanese": "現在",
     "kana": "げんざい",
     "romaji": "genzai",
-    "zh": "释义：the present; present time; now; as of; present tense; this world",
+    "zh": "现在",
     "en": "the present; present time; now; as of; present tense; this world",
     "partOfSpeech": "名词 / noun; noun · adverb · no-adjective",
-    "introZh": "词典释义：the present; present time; now; as of; present tense; this world。出自例句「後悔なんかしない 現在(いま)を羽ばたけば」。",
+    "introZh": "词典释义：现在。出自例句「後悔なんかしない 現在(いま)を羽ばたけば」。",
     "introEn": "Meaning: the present; present time; now; as of; present tense; this world. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "後悔なんかしない 現在(いま)を羽ばたけば",
     "exampleZh": "我绝不会因此后悔 如果我现在能振翅高飞",
@@ -20307,20 +19094,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "げんざい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-3044-307e-864",
     "japanese": "いま",
     "kana": "いま",
     "romaji": "ima",
-    "zh": "释义：living room (Western style); sitting room",
+    "zh": "结合本句可理解为：我绝不会因此后悔 如果我现在能振翅高飞",
     "en": "living room (Western style); sitting room",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：living room (Western style); sitting room。出自例句「後悔なんかしない 現在(いま)を羽ばたけば」。",
+    "introZh": "词典释义：结合本句可理解为：我绝不会因此后悔 如果我现在能振翅高飞。出自例句「後悔なんかしない 現在(いま)を羽ばたけば」。",
     "introEn": "Meaning: living room (Western style); sitting room. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "後悔なんかしない 現在(いま)を羽ばたけば",
     "exampleZh": "我绝不会因此后悔 如果我现在能振翅高飞",
@@ -20354,8 +19138,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "羽ばたく",
-      "はばたけ"
+      "羽ばたく"
     ]
   },
   {
@@ -20377,10 +19160,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "あいいろ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-920d-8272-867",
@@ -20401,20 +19181,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "にぶいろ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6700-9069-868",
     "japanese": "最適",
     "kana": "さいてき",
     "romaji": "saiteki",
-    "zh": "释义：most suitable; optimum; optimal; best",
+    "zh": "最好；第一",
     "en": "most suitable; optimum; optimal; best",
     "partOfSpeech": "名词 / noun; na-adjective · no-adjective · noun",
-    "introZh": "词典释义：most suitable; optimum; optimal; best。出自例句「藍色に溶く 鈍色の最適解」。",
+    "introZh": "词典释义：最好；第一。出自例句「藍色に溶く 鈍色の最適解」。",
     "introEn": "Meaning: most suitable; optimum; optimal; best. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "藍色に溶く 鈍色の最適解",
     "exampleZh": "溶解为湛蓝 深灰的最佳解答",
@@ -20425,21 +19202,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "さいてき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-89e3-869",
     "japanese": "解",
     "kana": "かい",
     "romaji": "kai",
-    "zh": "释义：yes?; no?; isn't it?; is it?",
-    "en": "yes?; no?; isn't it?; is it?",
-    "partOfSpeech": "名词 / noun; particle",
-    "introZh": "词典释义：yes?; no?; isn't it?; is it?。出自例句「藍色に溶く 鈍色の最適解」。",
-    "introEn": "Meaning: yes?; no?; isn't it?; is it?. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：溶解为湛蓝 深灰的最佳解答",
+    "en": "low rank; lower position; subordinate position; lower order (e.g. byte)",
+    "partOfSpeech": "名词 / noun; noun · no-adjective",
+    "introZh": "词典释义：结合本句可理解为：溶解为湛蓝 深灰的最佳解答。出自例句「藍色に溶く 鈍色の最適解」。",
+    "introEn": "Meaning: low rank; lower position; subordinate position; lower order (e.g. byte). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "藍色に溶く 鈍色の最適解",
     "exampleZh": "溶解为湛蓝 深灰的最佳解答",
     "exampleEn": "Example line from \"極私的極彩色アンサー\" by トゲナシトゲアリ.",
@@ -20449,10 +19223,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5410-606f-870",
@@ -20473,20 +19244,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "といき"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-8a3c-660e-871",
     "japanese": "証明",
     "kana": "しょうめい",
     "romaji": "shoumei",
-    "zh": "释义：proof; testimony; demonstration; verification; certification",
+    "zh": "结合本句可理解为：思考模式挑战证实吐息",
     "en": "proof; testimony; demonstration; verification; certification",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：proof; testimony; demonstration; verification; certification。出自例句「思考回路 挑む吐息の証明」。",
+    "introZh": "词典释义：结合本句可理解为：思考模式挑战证实吐息。出自例句「思考回路 挑む吐息の証明」。",
     "introEn": "Meaning: proof; testimony; demonstration; verification; certification. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "思考回路 挑む吐息の証明",
     "exampleZh": "思考模式挑战证实吐息",
@@ -20497,10 +19265,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しょうめい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7d14-767d-872",
@@ -20521,20 +19286,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "じゅんぱく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6f06-9ed2-873",
     "japanese": "漆黒",
     "kana": "しっこく",
     "romaji": "shikkoku",
-    "zh": "释义：pitch-black; jet-black",
+    "zh": "结合本句可理解为：质疑纯白 论漆黑的真相",
     "en": "pitch-black; jet-black",
     "partOfSpeech": "名词 / noun; no-adjective · noun",
-    "introZh": "词典释义：pitch-black; jet-black。出自例句「純白に問う 漆黒の真実に」。",
+    "introZh": "词典释义：结合本句可理解为：质疑纯白 论漆黑的真相。出自例句「純白に問う 漆黒の真実に」。",
     "introEn": "Meaning: pitch-black; jet-black. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "純白に問う 漆黒の真実に",
     "exampleZh": "质疑纯白 论漆黑的真相",
@@ -20545,20 +19307,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しっこく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-524d-5f8c-874",
     "japanese": "前後",
     "kana": "ぜんご",
     "romaji": "zengo",
-    "zh": "释义：front and rear; front and back; before and behind; back and forth; before and after; around",
+    "zh": "前后；正反",
     "en": "front and rear; front and back; before and behind; back and forth; before and after; around",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：front and rear; front and back; before and behind; back and forth; before and after; around。出自例句「前後不覚 眩む常識とAnswer」。",
+    "introZh": "词典释义：前后；正反。出自例句「前後不覚 眩む常識とAnswer」。",
     "introEn": "Meaning: front and rear; front and back; before and behind; back and forth; before and after; around. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "前後不覚 眩む常識とAnswer",
     "exampleZh": "失去知觉 让人眼花缭乱的常识和 Answer（24.879）",
@@ -20569,10 +19328,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぜんご"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e0d-899a-875",
@@ -20593,10 +19349,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ふかく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7729-3080-876",
@@ -20617,10 +19370,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "くらむ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-41-6e-73-77-65-72-877",
@@ -20648,10 +19398,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "説く",
     "kana": "とく",
     "romaji": "toku",
-    "zh": "释义：to explain; to preach; to advocate; to persuade; to prevail upon; to reason with",
+    "zh": "结合本句可理解为：向靛蓝宣扬 深灰的杂质",
     "en": "to explain; to preach; to advocate; to persuade; to prevail upon; to reason with",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to explain; to preach; to advocate; to persuade; to prevail upon; to reason with。出自例句「藍色に説く 鈍色の不純物に」。",
+    "introZh": "词典释义：结合本句可理解为：向靛蓝宣扬 深灰的杂质。出自例句「藍色に説く 鈍色の不純物に」。",
     "introEn": "Meaning: to explain; to preach; to advocate; to persuade; to prevail upon; to reason with. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "藍色に説く 鈍色の不純物に",
     "exampleZh": "向靛蓝宣扬 深灰的杂质",
@@ -20662,10 +19412,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "とく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4e0d-7d14-7269-879",
@@ -20686,20 +19433,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ふじゅんぶつ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-559c-6012-54c0-697d-880",
     "japanese": "喜怒哀楽",
     "kana": "きどあいらく",
     "romaji": "kidoairaku",
-    "zh": "释义：human emotions (joy, anger, grief and pleasure); feelings",
+    "zh": "结合本句可理解为：喜怒哀乐 摇曳的吐息证明",
     "en": "human emotions (joy, anger, grief and pleasure); feelings",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：human emotions (joy, anger, grief and pleasure); feelings。出自例句「喜怒哀楽 揺れる吐息の証明」。",
+    "introZh": "词典释义：结合本句可理解为：喜怒哀乐 摇曳的吐息证明。出自例句「喜怒哀楽 揺れる吐息の証明」。",
     "introEn": "Meaning: human emotions (joy, anger, grief and pleasure); feelings. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "喜怒哀楽 揺れる吐息の証明",
     "exampleZh": "喜怒哀乐 摇曳的吐息证明",
@@ -20710,20 +19454,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きどあいらく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-63fa-308c-308b-881",
     "japanese": "揺れる",
     "kana": "ゆれる",
     "romaji": "yureru",
-    "zh": "释义：to shake; to sway; to rock; to swing; to tremble; to jolt",
+    "zh": "结合本句可理解为：喜怒哀乐 摇曳的吐息证明",
     "en": "to shake; to sway; to rock; to swing; to tremble; to jolt",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to shake; to sway; to rock; to swing; to tremble; to jolt。出自例句「喜怒哀楽 揺れる吐息の証明」。",
+    "introZh": "词典释义：结合本句可理解为：喜怒哀乐 摇曳的吐息证明。出自例句「喜怒哀楽 揺れる吐息の証明」。",
     "introEn": "Meaning: to shake; to sway; to rock; to swing; to tremble; to jolt. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "喜怒哀楽 揺れる吐息の証明",
     "exampleZh": "喜怒哀乐 摇曳的吐息证明",
@@ -20734,10 +19475,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ゆれる"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-7d14-771f-882",
@@ -20758,21 +19496,18 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "じゅんしん"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6975-883",
     "japanese": "極",
     "kana": "ごく",
     "romaji": "goku",
-    "zh": "释义：quite; very; 10^48; quindecillion",
-    "en": "quite; very; 10^48; quindecillion",
+    "zh": "结合本句可理解为：纯真质疑 论五彩缤纷的真相",
+    "en": "quite; very",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：quite; very; 10^48; quindecillion。出自例句「純真に問う 極彩の真相に」。",
-    "introEn": "Meaning: quite; very; 10^48; quindecillion. Dictionary data: local Kotobako/JMdict.",
+    "introZh": "词典释义：结合本句可理解为：纯真质疑 论五彩缤纷的真相。出自例句「純真に問う 極彩の真相に」。",
+    "introEn": "Meaning: quite; very. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "純真に問う 極彩の真相に",
     "exampleZh": "纯真质疑 论五彩缤纷的真相",
     "exampleEn": "Example line from \"極私的極彩色アンサー\" by トゲナシトゲアリ.",
@@ -20782,20 +19517,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ごく"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5f69-884",
     "japanese": "彩",
     "kana": "いろどり",
     "romaji": "irodori",
-    "zh": "释义：coloring; colouring; coloration; colouration; color scheme; colour scheme",
+    "zh": "结合本句可理解为：纯真质疑 论五彩缤纷的真相",
     "en": "coloring; colouring; coloration; colouration; color scheme; colour scheme",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：coloring; colouring; coloration; colouration; color scheme; colour scheme。出自例句「純真に問う 極彩の真相に」。",
+    "introZh": "词典释义：结合本句可理解为：纯真质疑 论五彩缤纷的真相。出自例句「純真に問う 極彩の真相に」。",
     "introEn": "Meaning: coloring; colouring; coloration; colouration; color scheme; colour scheme. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "純真に問う 極彩の真相に",
     "exampleZh": "纯真质疑 论五彩缤纷的真相",
@@ -20806,20 +19538,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いろどり"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-771f-76f8-885",
     "japanese": "真相",
     "kana": "しんそう",
     "romaji": "shinsou",
-    "zh": "释义：truth; real situation",
+    "zh": "结合本句可理解为：纯真质疑 论五彩缤纷的真相",
     "en": "truth; real situation",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：truth; real situation。出自例句「純真に問う 極彩の真相に」。",
+    "introZh": "词典释义：结合本句可理解为：纯真质疑 论五彩缤纷的真相。出自例句「純真に問う 極彩の真相に」。",
     "introEn": "Meaning: truth; real situation. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "純真に問う 極彩の真相に",
     "exampleZh": "纯真质疑 论五彩缤纷的真相",
@@ -20830,10 +19559,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "しんそう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-96f2-6563-9727-6d88-886",
@@ -20854,20 +19580,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うんさんむしょう"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-3068-3051-308b-887",
     "japanese": "とける",
     "kana": "とける",
     "romaji": "tokeru",
-    "zh": "释义：to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)",
+    "zh": "结合本句可理解为：成云烟消散 绯红问题已解决(39.250)",
     "en": "to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)",
     "partOfSpeech": "动词 / verb; ichidan verb · intransitive verb",
-    "introZh": "词典释义：to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions)。出自例句「雲散霧消 とける緋色のクエスチョン」。",
+    "introZh": "词典释义：结合本句可理解为：成云烟消散 绯红问题已解决(39.250)。出自例句「雲散霧消 とける緋色のクエスチョン」。",
     "introEn": "Meaning: to be solved; to be worked out; to come loose; to come untied; to come undone; to be removed (of restrictions). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "雲散霧消 とける緋色のクエスチョン",
     "exampleZh": "成云烟消散 绯红问题已解决(39.250)",
@@ -20899,10 +19622,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ひいろ"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-30af-30a8-30b9-30c1-30e7-30f3-889",
@@ -20923,10 +19643,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "くえすちょん"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7814-304e-6f84-307e-305b-890",
@@ -20949,8 +19666,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "研ぎ澄ます",
-      "とぎすませ"
+      "研ぎ澄ます"
     ]
   },
   {
@@ -20958,10 +19674,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "狙う",
     "kana": "ねらう",
     "romaji": "nerau",
-    "zh": "释义：to aim at (with a weapon, etc.); to be after (something or someone); to have an eye on; to plan to make one's own; to aim for; to set up as a goal",
+    "zh": "瞄准；以……为目标",
     "en": "to aim at (with a weapon, etc.); to be after (something or someone); to have an eye on; to plan to make one's own; to aim for; to set up as a goal",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to aim at (with a weapon, etc.); to be after (something or someone); to have an eye on; to plan to make one's own; to aim for; to set up as a goal。出自例句「狙うセオリー見逃さぬよう」。",
+    "introZh": "词典释义：瞄准；以……为目标。出自例句「狙うセオリー見逃さぬよう」。",
     "introEn": "Meaning: to aim at (with a weapon, etc.); to be after (something or someone); to have an eye on; to plan to make one's own; to aim for; to set up as a goal. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "狙うセオリー見逃さぬよう",
     "exampleZh": "这样才不会错过锁定的理论",
@@ -20972,20 +19688,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ねらう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-30bb-30aa-30ea-30fc-892",
     "japanese": "セオリー",
     "kana": "せおりい",
     "romaji": "seorii",
-    "zh": "释义：theory; standard procedure; common strategy; established tactics",
+    "zh": "结合本句可理解为：这样才不会错过锁定的理论",
     "en": "theory; standard procedure; common strategy; established tactics",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：theory; standard procedure; common strategy; established tactics。出自例句「狙うセオリー見逃さぬよう」。",
+    "introZh": "词典释义：结合本句可理解为：这样才不会错过锁定的理论。出自例句「狙うセオリー見逃さぬよう」。",
     "introEn": "Meaning: theory; standard procedure; common strategy; established tactics. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "狙うセオリー見逃さぬよう",
     "exampleZh": "这样才不会错过锁定的理论",
@@ -20996,20 +19709,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "せおりい"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-898b-9003-3055-893",
     "japanese": "見逃さ",
     "kana": "みのがさ",
     "romaji": "minogasa",
-    "zh": "释义：to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to",
+    "zh": "结合本句可理解为：这样才不会错过锁定的理论",
     "en": "to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to。出自例句「狙うセオリー見逃さぬよう」。",
+    "introZh": "词典释义：结合本句可理解为：这样才不会错过锁定的理论。出自例句「狙うセオリー見逃さぬよう」。",
     "introEn": "Meaning: to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "狙うセオリー見逃さぬよう",
     "exampleZh": "这样才不会错过锁定的理论",
@@ -21022,8 +19732,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "見逃す",
-      "みのがさ"
+      "見逃す"
     ]
   },
   {
@@ -21031,10 +19740,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "録音",
     "kana": "ろくおん",
     "romaji": "rokuon",
-    "zh": "释义：(audio) recording",
+    "zh": "结合本句可理解为：只针对事实 现在录下声音(52.210)",
     "en": "(audio) recording",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：(audio) recording。出自例句「真実だけを 今 録音」。",
+    "introZh": "词典释义：结合本句可理解为：只针对事实 现在录下声音(52.210)。出自例句「真実だけを 今 録音」。",
     "introEn": "Meaning: (audio) recording. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "真実だけを 今 録音",
     "exampleZh": "只针对事实 现在录下声音(52.210)",
@@ -21045,20 +19754,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ろくおん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-6f84-307e-3057-895",
     "japanese": "澄まし",
     "kana": "すまし",
     "romaji": "sumashi",
-    "zh": "释义：to clear; to make clear; to be unruffled; to look unconcerned; to feign indifference; to look demure",
+    "zh": "结合本句可理解为：一旦你打破那副佯装坚强的面具",
     "en": "to clear; to make clear; to be unruffled; to look unconcerned; to feign indifference; to look demure",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to clear; to make clear; to be unruffled; to look unconcerned; to feign indifference; to look demure。出自例句「平気って 澄ました その仮面を壊したなら」。",
+    "introZh": "词典释义：结合本句可理解为：一旦你打破那副佯装坚强的面具。出自例句「平気って 澄ました その仮面を壊したなら」。",
     "introEn": "Meaning: to clear; to make clear; to be unruffled; to look unconcerned; to feign indifference; to look demure. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "平気って 澄ました その仮面を壊したなら",
     "exampleZh": "一旦你打破那副佯装坚强的面具",
@@ -21071,8 +19777,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "澄ます",
-      "すまし"
+      "澄ます"
     ]
   },
   {
@@ -21080,10 +19785,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "免疫",
     "kana": "めんえき",
     "romaji": "men'eki",
-    "zh": "释义：immunity; immunization; immunisation; being hardened (to); being unaffected (by); being accustomed (to)",
+    "zh": "结合本句可理解为：就涂抹失去免疫力 而且充满谎言的世界",
     "en": "immunity; immunization; immunisation; being hardened (to); being unaffected (by); being accustomed (to)",
     "partOfSpeech": "名词 / noun",
-    "introZh": "词典释义：immunity; immunization; immunisation; being hardened (to); being unaffected (by); being accustomed (to)。出自例句「免疫も死んだ 嘘だらけの世界塗りつぶせ」。",
+    "introZh": "词典释义：结合本句可理解为：就涂抹失去免疫力 而且充满谎言的世界。出自例句「免疫も死んだ 嘘だらけの世界塗りつぶせ」。",
     "introEn": "Meaning: immunity; immunization; immunisation; being hardened (to); being unaffected (by); being accustomed (to). Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "免疫も死んだ 嘘だらけの世界塗りつぶせ",
     "exampleZh": "就涂抹失去免疫力 而且充满谎言的世界",
@@ -21094,10 +19799,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "めんえき"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5857-308a-3064-3076-305b-897",
@@ -21120,8 +19822,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "塗りつぶせる",
-      "ぬりつぶせ"
+      "塗りつぶせる"
     ]
   },
   {
@@ -21143,20 +19844,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "うちぬく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6f84-307e-899",
     "japanese": "澄ま",
     "kana": "すま",
     "romaji": "suma",
-    "zh": "释义：to become clear (water, air, etc.); to become transparent; to resonate clearly (e.g. voice); to become serene; to become tranquil; to be free of worries",
+    "zh": "结合本句可理解为：竖耳倾听 竖耳倾听",
     "en": "to become clear (water, air, etc.); to become transparent; to resonate clearly (e.g. voice); to become serene; to become tranquil; to be free of worries",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to become clear (water, air, etc.); to become transparent; to resonate clearly (e.g. voice); to become serene; to become tranquil; to be free of worries。出自例句「耳澄ませ 耳澄ませ」。",
+    "introZh": "词典释义：结合本句可理解为：竖耳倾听 竖耳倾听。出自例句「耳澄ませ 耳澄ませ」。",
     "introEn": "Meaning: to become clear (water, air, etc.); to become transparent; to resonate clearly (e.g. voice); to become serene; to become tranquil; to be free of worries. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "耳澄ませ 耳澄ませ",
     "exampleZh": "竖耳倾听 竖耳倾听",
@@ -21169,8 +19867,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "澄む",
-      "すま"
+      "澄む"
     ]
   },
   {
@@ -21178,10 +19875,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "不",
     "kana": "ふ",
     "romaji": "fu",
-    "zh": "释义：un-; non-",
+    "zh": "结合本句可理解为：不明确的 不明确的",
     "en": "un-; non-",
     "partOfSpeech": "前缀 / prefix",
-    "introZh": "词典释义：un-; non-。出自例句「不確実な 不確実な」。",
+    "introZh": "词典释义：结合本句可理解为：不明确的 不明确的。出自例句「不確実な 不確実な」。",
     "introEn": "Meaning: un-; non-. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "不確実な 不確実な",
     "exampleZh": "不明确的 不明确的",
@@ -21192,10 +19889,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ふ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-52-65-63-901",
@@ -21244,10 +19938,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "拾っ",
     "kana": "ひろっ",
     "romaji": "hiro",
-    "zh": "释义：to pick up; to gather; to find (and pick up; something someone has dropped); to select; to choose; to pick out",
+    "zh": "结合本句可理解为：拾起你故作坚强时打破的面具",
     "en": "to pick up; to gather; to find (and pick up; something someone has dropped); to select; to choose; to pick out",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to pick up; to gather; to find (and pick up; something someone has dropped); to select; to choose; to pick out。出自例句「平気って 壊した その仮面を拾って」。",
+    "introZh": "词典释义：结合本句可理解为：拾起你故作坚强时打破的面具。出自例句「平気って 壊した その仮面を拾って」。",
     "introEn": "Meaning: to pick up; to gather; to find (and pick up; something someone has dropped); to select; to choose; to pick out. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "平気って 壊した その仮面を拾って",
     "exampleZh": "拾起你故作坚强时打破的面具",
@@ -21260,8 +19954,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "拾う",
-      "ひろっ"
+      "拾う"
     ]
   },
   {
@@ -21311,10 +20004,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "染まっ",
     "kana": "そまっ",
     "romaji": "soma",
-    "zh": "释义：to be dyed; to be tainted; to be infected; to be stained; to be steeped",
+    "zh": "被染上；染成；被玷污；被污染；被沾染；染上",
     "en": "to be dyed; to be tainted; to be infected; to be stained; to be steeped",
     "partOfSpeech": "动词 / verb; godan verb · intransitive verb",
-    "introZh": "词典释义：to be dyed; to be tainted; to be infected; to be stained; to be steeped。出自例句「Fake it 染まった 嘘だらけの世界を正して」。",
+    "introZh": "词典释义：被染上；染成；被玷污；被污染；被沾染；染上。出自例句「Fake it 染まった 嘘だらけの世界を正して」。",
     "introEn": "Meaning: to be dyed; to be tainted; to be infected; to be stained; to be steeped. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "Fake it 染まった 嘘だらけの世界を正して",
     "exampleZh": "FaKe it 纠正遭到玷污 而且充满谎言的世界",
@@ -21327,8 +20020,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "染まる",
-      "そまっ"
+      "染まる"
     ]
   },
   {
@@ -21336,10 +20028,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "一生",
     "kana": "いっしょう",
     "romaji": "isshou",
-    "zh": "释义：whole life; a lifetime; all through life; (the only, the greatest, etc.) of one's life",
+    "zh": "结合本句可理解为：即便一生都无人理解",
     "en": "whole life; a lifetime; all through life; (the only, the greatest, etc.) of one's life",
     "partOfSpeech": "名词 / noun; noun · no-adjective · adverb",
-    "introZh": "词典释义：whole life; a lifetime; all through life; (the only, the greatest, etc.) of one's life。出自例句「一生 誰にも 分からないとしたって」。",
+    "introZh": "词典释义：结合本句可理解为：即便一生都无人理解。出自例句「一生 誰にも 分からないとしたって」。",
     "introEn": "Meaning: whole life; a lifetime; all through life; (the only, the greatest, etc.) of one's life. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "一生 誰にも 分からないとしたって",
     "exampleZh": "即便一生都无人理解",
@@ -21350,10 +20042,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "いっしょう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-751f-304d-629c-304f-908",
@@ -21374,10 +20063,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "いきぬく"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-7652-3057-909",
@@ -21400,8 +20086,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "癒す",
-      "いやし"
+      "癒す"
     ]
   },
   {
@@ -21425,8 +20110,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "user-provided-lyrics",
     "forms": [
-      "否める",
-      "いなめ"
+      "否める"
     ]
   },
   {
@@ -21434,10 +20118,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "卑し",
     "kana": "いやし",
     "romaji": "iyashi",
-    "zh": "释义：lowborn; humble; lowly; vulgar; coarse; crude",
+    "zh": "结合本句可理解为：希望他人能够扼杀我不可否认的自卑",
     "en": "lowborn; humble; lowly; vulgar; coarse; crude",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：lowborn; humble; lowly; vulgar; coarse; crude。出自例句「否めない自分の卑しさを誰かに殺してほしい」。",
+    "introZh": "词典释义：结合本句可理解为：希望他人能够扼杀我不可否认的自卑。出自例句「否めない自分の卑しさを誰かに殺してほしい」。",
     "introEn": "Meaning: lowborn; humble; lowly; vulgar; coarse; crude. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "否めない自分の卑しさを誰かに殺してほしい",
     "exampleZh": "希望他人能够扼杀我不可否认的自卑",
@@ -21450,8 +20134,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "卑しい",
-      "いやし"
+      "卑しい"
     ]
   },
   {
@@ -21480,10 +20163,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "ちょうど",
     "kana": "ちょうど",
     "romaji": "choudo",
-    "zh": "释义：exactly; precisely; just; right; opportunely; fortunately",
+    "zh": "正好；只是",
     "en": "exactly; precisely; just; right; opportunely; fortunately",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：exactly; precisely; just; right; opportunely; fortunately。出自例句「嫌われ者ぐらいが本当はちょうどいいの」。",
+    "introZh": "词典释义：正好；只是。出自例句「嫌われ者ぐらいが本当はちょうどいいの」。",
     "introEn": "Meaning: exactly; precisely; just; right; opportunely; fortunately. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "嫌われ者ぐらいが本当はちょうどいいの",
     "exampleZh": "被他人讨厌其实也正合我意",
@@ -21515,10 +20198,7 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "ぱらどくす"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-6df7-6c8c-915",
@@ -21539,20 +20219,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "user-provided-lyrics",
-    "forms": [
-      "こんとん"
-    ]
+    "source": "user-provided-lyrics"
   },
   {
     "id": "lyric-507d-308a-916",
     "japanese": "偽り",
     "kana": "いつわり",
     "romaji": "itsuwari",
-    "zh": "释义：to lie; to pretend; to feign; to falsify; to deceive; to trick",
+    "zh": "谎言；欺骗",
     "en": "to lie; to pretend; to feign; to falsify; to deceive; to trick",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb · intransitive verb",
-    "introZh": "词典释义：to lie; to pretend; to feign; to falsify; to deceive; to trick。出自例句「混沌は僕たちを偽り」。",
+    "introZh": "词典释义：谎言；欺骗。出自例句「混沌は僕たちを偽り」。",
     "introEn": "Meaning: to lie; to pretend; to feign; to falsify; to deceive; to trick. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "混沌は僕たちを偽り",
     "exampleZh": "混沌欺骗了我们",
@@ -21565,8 +20242,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "偽る",
-      "いつわり"
+      "偽る"
     ]
   },
   {
@@ -21574,11 +20250,11 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "いけ",
     "kana": "いけ",
     "romaji": "ike",
-    "zh": "释义：pond",
-    "en": "pond",
-    "partOfSpeech": "动词 / verb; noun",
-    "introZh": "词典释义：pond。出自例句「闇がいけないの？」。",
-    "introEn": "Meaning: pond. Dictionary data: local Kotobako/JMdict.",
+    "zh": "结合本句可理解为：黑暗不行吗？",
+    "en": "to arrange (flowers); to plant; living; live",
+    "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
+    "introZh": "词典释义：结合本句可理解为：黑暗不行吗？。出自例句「闇がいけないの？」。",
+    "introEn": "Meaning: to arrange (flowers); to plant; living; live. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "闇がいけないの？",
     "exampleZh": "黑暗不行吗？",
     "exampleEn": "Example line from \"理想的パラドクスとは\" by トゲナシトゲアリ.",
@@ -21598,10 +20274,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "葛藤",
     "kana": "かっとう",
     "romaji": "kattou",
-    "zh": "释义：conflict; complication; troubles; discord",
+    "zh": "结合本句可理解为：悖论矛盾伤害了谁？",
     "en": "conflict; complication; troubles; discord",
     "partOfSpeech": "名词 / noun; noun · suru verb · intransitive verb",
-    "introZh": "词典释义：conflict; complication; troubles; discord。出自例句「葛藤は誰を傷つけた？」。",
+    "introZh": "词典释义：结合本句可理解为：悖论矛盾伤害了谁？。出自例句「葛藤は誰を傷つけた？」。",
     "introEn": "Meaning: conflict; complication; troubles; discord. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "葛藤は誰を傷つけた？",
     "exampleZh": "悖论矛盾伤害了谁？",
@@ -21612,20 +20288,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "かっとう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-60b2-89b3-919",
     "japanese": "悲観",
     "kana": "ひかん",
     "romaji": "hikan",
-    "zh": "释义：pessimism; (taking a) gloomy view; discouragement; despondency; despair; disappointment",
+    "zh": "绝望",
     "en": "pessimism; (taking a) gloomy view; discouragement; despondency; despair; disappointment",
     "partOfSpeech": "名词 / noun; noun · suru verb · transitive verb",
-    "introZh": "词典释义：pessimism; (taking a) gloomy view; discouragement; despondency; despair; disappointment。出自例句「僕は誰を信じて、何に悲観して、どこで息をする」。",
+    "introZh": "词典释义：绝望。出自例句「僕は誰を信じて、何に悲観して、どこで息をする」。",
     "introEn": "Meaning: pessimism; (taking a) gloomy view; discouragement; despondency; despair; disappointment. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "僕は誰を信じて、何に悲観して、どこで息をする",
     "exampleZh": "我究竟过该相信谁 对什么悲观 在何处栖息呢",
@@ -21636,20 +20309,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ひかん"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5351-3057-304f-920",
     "japanese": "卑しく",
     "kana": "いやしく",
     "romaji": "iyashiku",
-    "zh": "释义：lowborn; humble; lowly; vulgar; coarse; crude",
+    "zh": "结合本句可理解为：希望你能讨厌那个被自卑折磨的我",
     "en": "lowborn; humble; lowly; vulgar; coarse; crude",
     "partOfSpeech": "形容词 / adjective; i-adjective",
-    "introZh": "词典释义：lowborn; humble; lowly; vulgar; coarse; crude。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
+    "introZh": "词典释义：结合本句可理解为：希望你能讨厌那个被自卑折磨的我。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
     "introEn": "Meaning: lowborn; humble; lowly; vulgar; coarse; crude. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "卑しく自分を痛みつける僕を嫌ってほしい",
     "exampleZh": "希望你能讨厌那个被自卑折磨的我",
@@ -21662,8 +20332,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "卑しい",
-      "いやしく"
+      "卑しい"
     ]
   },
   {
@@ -21671,10 +20340,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "つける",
     "kana": "つける",
     "romaji": "tsukeru",
-    "zh": "释义：to attach; to join; to connect; to add; to append; to affix",
+    "zh": "连接；联系",
     "en": "to attach; to join; to connect; to add; to append; to affix",
     "partOfSpeech": "动词 / verb; ichidan verb · transitive verb",
-    "introZh": "词典释义：to attach; to join; to connect; to add; to append; to affix。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
+    "introZh": "词典释义：连接；联系。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
     "introEn": "Meaning: to attach; to join; to connect; to add; to append; to affix. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "卑しく自分を痛みつける僕を嫌ってほしい",
     "exampleZh": "希望你能讨厌那个被自卑折磨的我",
@@ -21692,10 +20361,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "嫌っ",
     "kana": "きらっ",
     "romaji": "kira",
-    "zh": "释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
+    "zh": "讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视",
     "en": "to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
+    "introZh": "词典释义：讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视。出自例句「卑しく自分を痛みつける僕を嫌ってほしい」。",
     "introEn": "Meaning: to hate; to dislike; to loathe; to abhor; to avoid; to disregard. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "卑しく自分を痛みつける僕を嫌ってほしい",
     "exampleZh": "希望你能讨厌那个被自卑折磨的我",
@@ -21708,8 +20377,7 @@ export const lyricVocabulary: StudyWord[] = [
     "jlptLevel": "N1",
     "source": "kotobako-jmdict",
     "forms": [
-      "嫌う",
-      "きらっ"
+      "嫌う"
     ]
   },
   {
@@ -21717,10 +20385,10 @@ export const lyricVocabulary: StudyWord[] = [
     "japanese": "善良",
     "kana": "ぜんりょう",
     "romaji": "zenryou",
-    "zh": "释义：good (person, nature, etc.); good-natured; virtuous; honest",
+    "zh": "好的",
     "en": "good (person, nature, etc.); good-natured; virtuous; honest",
     "partOfSpeech": "名词 / noun; na-adjective · noun",
-    "introZh": "词典释义：good (person, nature, etc.); good-natured; virtuous; honest。出自例句「きっと善良な大人達は問題をすぐに消してしまう」。",
+    "introZh": "词典释义：好的。出自例句「きっと善良な大人達は問題をすぐに消してしまう」。",
     "introEn": "Meaning: good (person, nature, etc.); good-natured; virtuous; honest. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "きっと善良な大人達は問題をすぐに消してしまう",
     "exampleZh": "想必那些善良的大人很快就能解决问题吧",
@@ -21731,20 +20399,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "ぜんりょう"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-4f55-6545-924",
     "japanese": "何故",
     "kana": "なぜ",
     "romaji": "naze",
-    "zh": "释义：why; how; for what reason",
+    "zh": "结合本句可理解为：你坚信什么 对谁悲观 为何讨厌我呢",
     "en": "why; how; for what reason",
     "partOfSpeech": "副词 / adverb",
-    "introZh": "词典释义：why; how; for what reason。出自例句「君は何を信じて、誰に悲観して、何故僕を嫌う」。",
+    "introZh": "词典释义：结合本句可理解为：你坚信什么 对谁悲观 为何讨厌我呢。出自例句「君は何を信じて、誰に悲観して、何故僕を嫌う」。",
     "introEn": "Meaning: why; how; for what reason. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "君は何を信じて、誰に悲観して、何故僕を嫌う",
     "exampleZh": "你坚信什么 对谁悲观 为何讨厌我呢",
@@ -21755,20 +20420,17 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "なぜ"
-    ]
+    "source": "kotobako-jmdict"
   },
   {
     "id": "lyric-5acc-3046-925",
     "japanese": "嫌う",
     "kana": "きらう",
     "romaji": "kirau",
-    "zh": "释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
+    "zh": "讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视",
     "en": "to hate; to dislike; to loathe; to abhor; to avoid; to disregard",
     "partOfSpeech": "动词 / verb; godan verb · transitive verb",
-    "introZh": "词典释义：to hate; to dislike; to loathe; to abhor; to avoid; to disregard。出自例句「君は何を信じて、誰に悲観して、何故僕を嫌う」。",
+    "introZh": "词典释义：讨厌；憎恨；不喜欢；厌恶；憎恶；避开；避免；无视。出自例句「君は何を信じて、誰に悲観して、何故僕を嫌う」。",
     "introEn": "Meaning: to hate; to dislike; to loathe; to abhor; to avoid; to disregard. Dictionary data: local Kotobako/JMdict.",
     "exampleJp": "君は何を信じて、誰に悲観して、何故僕を嫌う",
     "exampleZh": "你坚信什么 对谁悲观 为何讨厌我呢",
@@ -21779,9 +20441,6 @@ export const lyricVocabulary: StudyWord[] = [
       "jlpt-n1"
     ],
     "jlptLevel": "N1",
-    "source": "kotobako-jmdict",
-    "forms": [
-      "きらう"
-    ]
+    "source": "kotobako-jmdict"
   }
 ];
