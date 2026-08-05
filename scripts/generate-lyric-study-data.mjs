@@ -8,6 +8,7 @@ const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const artistPath = path.join(rootDir, "src/data/artistLyrics.ts");
 const lyricVocabularyPath = path.join(rootDir, "src/data/lyricVocabulary.ts");
 const generatedVocabularyPath = path.join(rootDir, "src/data/generatedVocabulary.json");
+const kotobakoPath = path.join(rootDir, "node_modules/kotobako-data/kotobako-static.json");
 
 const grammarLookup = new Map([
   ["は", "pt-wa"],
@@ -153,22 +154,113 @@ function levelForSong(song) {
   return /^N[1-5]$/.test(song.level) ? song.level : "N2";
 }
 
+function compactDefinition(values) {
+  return uniqueValues(values)
+    .map((value) => value.replace(/\s+/g, " ").trim())
+    .filter(Boolean)
+    .slice(0, 6)
+    .join("; ");
+}
+
+function addDictionaryEntry(map, key, entry) {
+  if (!key) return;
+  const items = map.get(key) ?? [];
+  items.push(entry);
+  map.set(key, items);
+}
+
+function loadKotobakoLookups() {
+  const data = JSON.parse(fs.readFileSync(kotobakoPath, "utf8"));
+  const byWord = new Map();
+  const byReading = new Map();
+  const byKey = new Map();
+
+  for (const entry of data.datasets.vocab) {
+    const reading = toHiragana(entry.reading);
+    const words = uniqueValues([entry.word, entry.altWord]);
+    for (const word of words) {
+      addDictionaryEntry(byWord, word, entry);
+      addDictionaryEntry(byKey, `${word}|${reading}`, entry);
+    }
+    addDictionaryEntry(byReading, reading, entry);
+  }
+
+  return { byWord, byReading, byKey, version: data.version };
+}
+
+function scoreDictionaryEntry(entry, word) {
+  const reading = toHiragana(entry.reading);
+  let score = 0;
+  if (entry.word === word.japanese) score += 20;
+  if (entry.altWord === word.japanese) score += 18;
+  if (reading === word.kana) score += 12;
+  if (word.forms?.includes(entry.word) || word.forms?.includes(entry.altWord)) score += 8;
+  if (entry.jlpt === word.jlptLevel) score += 2;
+  return score;
+}
+
+function findDictionaryDefinition(word, lookups) {
+  const candidates = [
+    ...(lookups.byKey.get(`${word.japanese}|${word.kana}`) ?? []),
+    ...(word.forms ?? []).flatMap((form) => lookups.byKey.get(`${form}|${word.kana}`) ?? []),
+    ...(lookups.byWord.get(word.japanese) ?? []),
+    ...(word.forms ?? []).flatMap((form) => lookups.byWord.get(form) ?? []),
+    ...(lookups.byReading.get(word.kana) ?? [])
+  ];
+  const best = uniqueValues(candidates)
+    .filter((entry) => entry.meanings?.length)
+    .map((entry) => ({ entry, score: scoreDictionaryEntry(entry, word) }))
+    .sort((a, b) => b.score - a.score)[0]?.entry;
+
+  if (!best) return null;
+  return {
+    en: compactDefinition(best.meanings),
+    partOfSpeechEn: best.pos ?? "",
+    source: "kotobako-jmdict"
+  };
+}
+
+function enrichLyricVocabulary(words, lookups) {
+  let resolved = 0;
+  for (const word of words) {
+    const definition = findDictionaryDefinition(word, lookups);
+    if (!definition?.en) continue;
+    resolved += 1;
+    word.zh = `释义：${definition.en}`;
+    word.en = definition.en;
+    word.introZh = `词典释义：${definition.en}。出自例句「${word.exampleJp}」。`;
+    word.introEn = `Meaning: ${definition.en}. Dictionary data: local Kotobako/JMdict.`;
+    if (definition.partOfSpeechEn && !word.partOfSpeech.includes(definition.partOfSpeechEn)) {
+      word.partOfSpeech = `${word.partOfSpeech}; ${definition.partOfSpeechEn}`;
+    }
+    word.source = definition.source;
+  }
+  return resolved;
+}
+
 function makeLyricWord({ id, token, reading, romaji, song, line }) {
   const surface = token.surface_form;
   const basic = token.basic_form && token.basic_form !== "*" ? token.basic_form : surface;
   const labels = posLabel(token.pos);
   const forms = uniqueValues([basic !== surface ? basic : "", surface !== reading ? reading : ""]);
+  const contextMeaning = line.zh || `the lyric line "${line.japanese}"`;
+  const fallbackZh = latinPattern.test(surface)
+    ? `英语歌词词：${surface}`
+    : `语境释义：${contextMeaning}`;
+  const fallbackEn = latinPattern.test(surface)
+    ? surface
+    : `Context meaning: ${contextMeaning}`;
 
   return {
     id,
     japanese: surface,
     kana: reading,
     romaji,
-    zh: `歌词词汇：${surface}。请结合例句理解。`,
-    en: `Lyric vocabulary item: ${surface}. Read it in context with the example line.`,
+    zh: fallbackZh,
+    en: fallbackEn,
     partOfSpeech: `${labels.zh} / ${labels.en}`,
-    introZh: `从《${song.titleJp}》补入的歌词词条，读作「${reading}」。`,
-    introEn: `A lyric vocabulary item imported from "${song.titleJp}".`,
+    introZh: `读作「${reading}」。本句语境：${contextMeaning}`,
+    introEn: `Read as "${romaji}". Context: ${contextMeaning}`,
     exampleJp: line.japanese,
     exampleZh: line.zh || `《${song.titleJp}》中的一句歌词。`,
     exampleEn: `Example line from "${song.titleJp}" by ${song.artistJp}.`,
@@ -215,6 +307,7 @@ function writeLyricVocabulary(words) {
 const packs = loadArtistPacks();
 const generatedVocabulary = JSON.parse(fs.readFileSync(generatedVocabularyPath, "utf8"));
 const existingLookups = makeExistingLookups(generatedVocabulary);
+const kotobakoLookups = loadKotobakoLookups();
 const tokenizer = await buildTokenizer();
 const lyricWordsByKey = new Map();
 const createdLookups = makeExistingLookups([]);
@@ -266,8 +359,10 @@ for (const song of packs) {
 }
 
 const lyricVocabulary = withReadingOptions(Array.from(lyricWordsByKey.values()));
+const resolvedDefinitions = enrichLyricVocabulary(lyricVocabulary, kotobakoLookups);
 writeArtistPacks(packs);
 writeLyricVocabulary(lyricVocabulary);
 
 console.log(`Updated ${packs.length} songs.`);
 console.log(`Generated ${lyricVocabulary.length} lyric vocabulary entries.`);
+console.log(`Resolved ${resolvedDefinitions} English definitions from Kotobako/JMdict.`);

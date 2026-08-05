@@ -640,6 +640,13 @@ textarea:focus {
   color: var(--muted);
 }
 
+.meaning-block span {
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
 .custom-analyzer,
 .quiz-panel,
 .word-card,

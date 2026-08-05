@@ -21,6 +21,7 @@ Useful public metadata sources:
 
 - JLPT Vocabulary API: https://jlpt-vocab-api.vercel.app/
 - Official JLPT level summary: https://www.jlpt.jp/sp/cn/about/levelsummary.html
+- Kotobako/JMdict-derived local dictionary data: https://www.npmjs.com/package/kotobako-data
 - UtaTime Global lyric reference: https://www.utatime.com/global/
 - UtaTen lyric reference: https://utaten.com/
 - Web Speech API SpeechSynthesis: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis

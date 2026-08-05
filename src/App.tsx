@@ -595,7 +595,9 @@ function TokenDetail({
         <strong>{token.pos}</strong>
       </div>
       <div className="meaning-block">
+        <span>中文释义</span>
         <p>{token.zh}</p>
+        <span>English meaning</span>
         <p>{token.en}</p>
       </div>
       <p>{token.noteZh}</p>
