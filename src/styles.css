@@ -186,6 +186,11 @@ h3 {
   color: var(--ink);
 }
 
+.icon-button:hover {
+  border-color: var(--green);
+  background: var(--green-soft);
+}
+
 .main-content {
   min-width: 0;
   padding: 30px;
@@ -404,7 +409,12 @@ textarea:focus {
 .section-title,
 .quiz-header,
 .source-row,
-.word-actions {
+.word-actions,
+.line-title-row,
+.word-title-row,
+.word-card-meta,
+.level-toolbar,
+.quiz-actions {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -532,6 +542,10 @@ textarea:focus {
   line-height: 1.6;
 }
 
+.line-title-row {
+  align-items: flex-start;
+}
+
 .line-copy strong {
   font-size: 22px;
   font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
@@ -590,6 +604,10 @@ textarea:focus {
   margin: 0;
   font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   font-size: 34px;
+}
+
+.compact-title h3 {
+  overflow-wrap: anywhere;
 }
 
 .reading-grid,
@@ -682,6 +700,10 @@ textarea:focus {
   gap: 12px;
 }
 
+.quiz-actions {
+  justify-content: flex-end;
+}
+
 .vocab-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(240px, 320px);
@@ -689,9 +711,39 @@ textarea:focus {
   align-items: start;
 }
 
+.word-stage-shell,
 .word-stage {
   display: grid;
   gap: 14px;
+}
+
+.level-toolbar {
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.82);
+}
+
+.level-toolbar h3,
+.word-card-meta .eyebrow {
+  margin: 0;
+}
+
+.segmented.level-tabs {
+  flex: 1;
+  grid-template-columns: repeat(5, minmax(72px, 1fr));
+}
+
+.level-tabs button {
+  display: grid;
+  gap: 2px;
+  min-height: 48px;
+}
+
+.level-tabs small {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
 }
 
 .progress-strip {
@@ -724,11 +776,33 @@ textarea:focus {
   min-height: 560px;
 }
 
-.word-card h3 {
+.word-title-row {
+  align-items: flex-start;
+}
+
+.word-title-row h3 {
   margin: 0;
   font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
   font-size: clamp(48px, 7vw, 86px);
   line-height: 1;
+  overflow-wrap: anywhere;
+}
+
+.compact-title h3 {
+  font-size: 34px;
+}
+
+.level-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 0 10px;
+  border: 1px solid var(--green);
+  border-radius: 999px;
+  background: var(--green-soft);
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 900;
 }
 
 .reading-large {
@@ -921,16 +995,27 @@ textarea:focus {
 
   .topbar,
   .study-heading,
+  .level-toolbar,
   .quiz-form,
   .correct-row,
+  .word-title-row,
   .word-actions {
     align-items: stretch;
     flex-direction: column;
   }
 
+  .segmented.level-tabs {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .quiz-form {
     display: grid;
     grid-template-columns: 1fr;
+  }
+
+  .quiz-actions {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   .song-list,

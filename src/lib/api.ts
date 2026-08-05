@@ -1,10 +1,11 @@
-import { contentVersion } from "../data/studyContent";
+import { contentVersion, type JLPTLevel } from "../data/studyContent";
 
 export interface ProgressState {
   learnedSongLines: string[];
   completedSongs: string[];
   learnedWords: string[];
   lastWordQuizMilestone: number;
+  wordQuizMilestones: Partial<Record<JLPTLevel, number>>;
   mistakes: Record<string, number>;
   contentVersion: string;
   updatedAt: string;
@@ -23,7 +24,6 @@ interface StoredUser {
   password: string;
 }
 
-const apiBaseKey = "nihongo-jukebox-api-base";
 const sessionKey = "nihongo-jukebox-session";
 const usersKey = "nihongo-jukebox-local-users";
 const progressKey = (username: string) => `nihongo-jukebox-progress-${username}`;
@@ -33,26 +33,14 @@ export const emptyProgress = (): ProgressState => ({
   completedSongs: [],
   learnedWords: [],
   lastWordQuizMilestone: 0,
+  wordQuizMilestones: {},
   mistakes: {},
   contentVersion,
   updatedAt: new Date().toISOString()
 });
 
 export function getApiBase(): string {
-  return (
-    localStorage.getItem(apiBaseKey) ||
-    (import.meta.env.VITE_API_BASE_URL as string | undefined) ||
-    ""
-  ).replace(/\/$/, "");
-}
-
-export function setApiBase(base: string): void {
-  const normalized = base.trim().replace(/\/$/, "");
-  if (normalized) {
-    localStorage.setItem(apiBaseKey, normalized);
-  } else {
-    localStorage.removeItem(apiBaseKey);
-  }
+  return ((import.meta.env.VITE_API_BASE_URL as string | undefined) || "").replace(/\/$/, "");
 }
 
 export function getStoredSession(): AuthSession | null {
@@ -129,7 +117,7 @@ export async function login(username: string, password: string): Promise<AuthSes
 
   const user = readLocalUsers().find((item) => item.username === username);
   if (!user || user.password !== password) {
-    throw new Error("账号或密码不对。未配置 API 时可用 demo / demo1234 体验。");
+    throw new Error("账号或密码不对。当前部署未配置后端 API 时，可用 demo / demo1234 体验。");
   }
   return {
     username: user.username,

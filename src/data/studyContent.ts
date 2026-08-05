@@ -1,4 +1,9 @@
+import { extraSongPacks } from "./extraSongs";
+import { generatedVocabulary } from "./generatedVocabulary";
+
 export type Category = "jpop" | "vocaloid" | "band";
+export type JLPTLevel = "N1" | "N2" | "N3" | "N4" | "N5";
+export type SongLevel = JLPTLevel | "N5-N4" | "N4-N3" | "N3+";
 
 export interface StudyWord {
   id: string;
@@ -14,6 +19,8 @@ export interface StudyWord {
   exampleZh: string;
   exampleEn: string;
   tags: string[];
+  jlptLevel?: JLPTLevel;
+  source?: string;
   forms?: string[];
 }
 
@@ -57,7 +64,7 @@ export interface SongPack {
   titleEn: string;
   titleZh: string;
   category: Category;
-  level: "N5-N4" | "N4-N3" | "N3+";
+  level: SongLevel;
   mood: string;
   descriptionZh: string;
   descriptionEn: string;
@@ -65,9 +72,9 @@ export interface SongPack {
   lines: StudyLine[];
 }
 
-export const contentVersion = "2026.08.05.1";
+export const contentVersion = "2026.08.05.2";
 
-export const vocabulary: StudyWord[] = [
+export const curatedVocabulary: StudyWord[] = [
   {
     id: "shizuka",
     japanese: "静か",
@@ -1461,6 +1468,25 @@ export const vocabulary: StudyWord[] = [
   }
 ];
 
+function levelFromTags(word: StudyWord): JLPTLevel {
+  const tag = word.tags.find((item) => /^jlpt-n[1-5]$/i.test(item));
+  return tag ? (`N${tag.slice(-1)}` as JLPTLevel) : "N3";
+}
+
+const seenVocabulary = new Set<string>();
+
+export const vocabulary: StudyWord[] = [...curatedVocabulary, ...generatedVocabulary]
+  .map((word) => ({
+    ...word,
+    jlptLevel: word.jlptLevel ?? levelFromTags(word)
+  }))
+  .filter((word) => {
+    const key = `${word.japanese}|${word.kana}`;
+    if (seenVocabulary.has(key)) return false;
+    seenVocabulary.add(key);
+    return true;
+  });
+
 export const grammarTokens: TokenInfo[] = [
   {
     id: "pt-wa",
@@ -1636,7 +1662,7 @@ export const grammarTokens: TokenInfo[] = [
 const lyricSafety =
   "This pack uses original study lines, not reproduced official lyrics. Use the paste analyzer for lyrics you have permission to study.";
 
-export const songPacks: SongPack[] = [
+export const baseSongPacks: SongPack[] = [
   {
     id: "fujii-kaze-shinunoga-e-wa",
     artist: "Fujii Kaze",
@@ -2056,6 +2082,8 @@ export const songPacks: SongPack[] = [
     ]
   }
 ];
+
+export const songPacks: SongPack[] = [...baseSongPacks, ...extraSongPacks];
 
 export const legalNotice = {
   zh:

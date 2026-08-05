@@ -6,10 +6,11 @@
 
 - Login and register UI
 - MongoDB-backed API for username/password login, bcrypt password hashing, JWT sessions, and progress sync
-- Song catalog for Fujii Kaze, Vaundy, Kenshi Yonezu, Togenashi Togeari, and popular Vocaloid tracks
+- 50+ song study catalog for Fujii Kaze, Vaundy, Kenshi Yonezu, Togenashi Togeari, popular J-pop, and Vocaloid tracks
 - Lyric-study flow with word-by-word analysis, readings, Chinese/English meanings, examples, and line spelling tests
 - Paste analyzer for lyrics you have permission to study
-- Vocabulary drill with intro, examples, Chinese/English hints, and spelling tests every 10 words
+- 3,000+ word JLPT vocabulary bank with N1-N5 selection, N1 as the default, JLPT labels, examples, Chinese/English hints, and spelling tests every 10 words
+- Japanese text-to-speech buttons using the browser Web Speech API, with no user-facing API key or connection setting
 - GitHub Actions workflow for GitHub Pages
 
 ## Copyright note
@@ -18,8 +19,11 @@ The repository does not include full copyrighted lyrics. The built-in song packs
 
 Useful public metadata sources:
 
+- JLPT Vocabulary API: https://jlpt-vocab-api.vercel.app/
+- Official JLPT level summary: https://www.jlpt.jp/sp/cn/about/levelsummary.html
 - VocaDB public API: https://wiki.vocadb.net/docs/public-api
 - VocaDB API and embeds: https://wiki.vocadb.net/docs/api-and-embeds
+- Web Speech API SpeechSynthesis: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 - MongoDB Node.js driver connection docs: https://www.mongodb.com/docs/drivers/node/current/connect/connection-targets/
 - GitHub Pages HTTPS docs: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
 
@@ -34,6 +38,12 @@ Build:
 
 ```bash
 npm run build
+```
+
+Regenerate the bundled JLPT vocabulary snapshot:
+
+```bash
+npm run generate:vocab
 ```
 
 For GitHub Pages, the workflow sets `VITE_BASE_PATH` automatically to `/${{ github.event.repository.name }}/`.
@@ -65,7 +75,7 @@ cd server
 npm run create-user -- linxuan your-password Linxuan
 ```
 
-Then set the frontend API URL to the deployed backend URL in the app settings, or set a GitHub repository variable named `VITE_API_BASE_URL`.
+Then set a GitHub repository variable named `VITE_API_BASE_URL` to the deployed backend URL. The app does not expose API connection settings to learners.
 
 ## Security
 

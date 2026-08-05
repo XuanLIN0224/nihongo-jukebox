@@ -2,13 +2,12 @@ import {
   BookOpen,
   Check,
   CircleUserRound,
-  Languages,
   LogOut,
   Music2,
   PenLine,
   RefreshCcw,
   Search,
-  Settings,
+  Volume2,
   X
 } from "lucide-react";
 import type { Dispatch, FormEvent, SetStateAction } from "react";
@@ -18,6 +17,7 @@ import {
   legalNotice,
   songPacks,
   type Category,
+  type JLPTLevel,
   type SongPack,
   type StudyLine,
   type StudyWord,
@@ -27,15 +27,14 @@ import {
   type AuthSession,
   type ProgressState,
   emptyProgress,
-  getApiBase,
   getStoredSession,
   loadProgress,
   login,
   register,
   saveProgress,
-  setApiBase,
   storeSession
 } from "./lib/api";
+import { speakJapanese } from "./lib/speech";
 import {
   analyzeJapaneseText,
   isLineAnswerCorrect,
@@ -45,7 +44,7 @@ import {
   tokensForLine
 } from "./lib/study";
 
-type View = "lyrics" | "words" | "progress" | "settings";
+type View = "lyrics" | "words" | "progress" | "account";
 
 const categoryLabels: Record<Category | "all", string> = {
   all: "全部",
@@ -53,6 +52,8 @@ const categoryLabels: Record<Category | "all", string> = {
   vocaloid: "术力口",
   band: "Band"
 };
+
+const jlptLevels: JLPTLevel[] = ["N1", "N2", "N3", "N4", "N5"];
 
 export default function App() {
   const [session, setSession] = useState<AuthSession | null>(() => getStoredSession());
@@ -110,7 +111,7 @@ export default function App() {
     { id: "lyrics", label: "歌词学习", icon: Music2 },
     { id: "words", label: "背单词", icon: BookOpen },
     { id: "progress", label: "进度", icon: Check },
-    { id: "settings", label: "设置", icon: Settings }
+    { id: "account", label: "账号", icon: CircleUserRound }
   ];
 
   return (
@@ -176,7 +177,7 @@ export default function App() {
             {view === "lyrics" && <LyricsLab progress={progress} setProgress={setProgress} />}
             {view === "words" && <VocabularyDrill progress={progress} setProgress={setProgress} />}
             {view === "progress" && <ProgressView progress={progress} />}
-            {view === "settings" && <SettingsView session={session} />}
+            {view === "account" && <AccountView session={session} />}
           </>
         )}
       </main>
@@ -188,7 +189,7 @@ function viewTitle(view: View): string {
   if (view === "lyrics") return "歌词学习";
   if (view === "words") return "背单词";
   if (view === "progress") return "学习进度";
-  return "设置";
+  return "账号";
 }
 
 function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void }) {
@@ -197,7 +198,6 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
   const [displayName, setDisplayName] = useState("");
   const [password, setPassword] = useState("");
   const [inviteCode, setInviteCode] = useState("");
-  const [apiInput, setApiInput] = useState(() => getApiBase());
   const [message, setMessage] = useState("");
   const [isBusy, setIsBusy] = useState(false);
 
@@ -205,7 +205,6 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
     event.preventDefault();
     setIsBusy(true);
     setMessage("");
-    setApiBase(apiInput);
 
     try {
       const next =
@@ -281,25 +280,14 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
               <input value={inviteCode} onChange={(event) => setInviteCode(event.target.value)} />
             </label>
           )}
-          <label>
-            API URL
-            <input
-              placeholder="https://your-api.example.com"
-              value={apiInput}
-              onChange={(event) => setApiInput(event.target.value)}
-            />
-          </label>
-
           <button className="primary-button" type="submit" disabled={isBusy}>
             <Check size={18} />
             {isBusy ? "处理中" : mode === "login" ? "进入学习" : "创建并进入"}
           </button>
           {message && <p className="form-message">{message}</p>}
-          {!apiInput && (
-            <p className="fine-print">
-              未配置 API 时是本地体验模式，可用 demo / demo1234。正式账号请部署 server 并设置 API URL。
-            </p>
-          )}
+          <p className="fine-print">
+            后端地址由部署环境自动配置。未接入后端时是本地体验模式，可用 demo / demo1234。
+          </p>
         </form>
       </section>
     </main>
@@ -487,7 +475,18 @@ function LineCard({
   return (
     <article className={learned ? "line-card learned" : "line-card"}>
       <div className="line-copy">
-        <strong>{line.japanese}</strong>
+        <div className="line-title-row">
+          <strong>{line.japanese}</strong>
+          <button
+            className="icon-button"
+            type="button"
+            aria-label="朗读日语句子"
+            title="朗读日语句子"
+            onClick={() => speakJapanese(line.japanese)}
+          >
+            <Volume2 size={17} />
+          </button>
+        </div>
         <span>{line.kana}</span>
         <span>{line.romaji}</span>
         <p>{line.zh}</p>
@@ -518,7 +517,18 @@ function TokenDetail({ token }: { token: ReturnType<typeof tokensForLine>[number
   return (
     <section className="token-detail">
       <p className="eyebrow">Word detail</p>
-      <h3>{token.surface}</h3>
+      <div className="word-title-row compact-title">
+        <h3>{token.surface}</h3>
+        <button
+          className="icon-button"
+          type="button"
+          aria-label="朗读这个词"
+          title="朗读这个词"
+          onClick={() => speakJapanese(token.surface)}
+        >
+          <Volume2 size={17} />
+        </button>
+      </div>
       <div className="reading-grid">
         <span>读音</span>
         <strong>{token.reading}</strong>
@@ -644,16 +654,37 @@ function VocabularyDrill({
   progress: ProgressState;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
+  const [selectedLevel, setSelectedLevel] = useState<JLPTLevel>("N1");
   const [currentIndex, setCurrentIndex] = useState(0);
   const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
-  const dueQuizWords = progress.learnedWords
-    .slice(progress.lastWordQuizMilestone, progress.lastWordQuizMilestone + 10)
-    .map((id) => vocabulary.find((word) => word.id === id))
+
+  const levelCounts = useMemo(
+    () =>
+      jlptLevels.reduce((counts, level) => {
+        counts[level] = vocabulary.filter((word) => (word.jlptLevel ?? "N3") === level).length;
+        return counts;
+      }, {} as Record<JLPTLevel, number>),
+    []
+  );
+  const levelWords = useMemo(
+    () => vocabulary.filter((word) => (word.jlptLevel ?? "N3") === selectedLevel),
+    [selectedLevel]
+  );
+  const levelWordIds = useMemo(() => new Set(levelWords.map((word) => word.id)), [levelWords]);
+  const learnedLevelIds = useMemo(
+    () => progress.learnedWords.filter((id) => levelWordIds.has(id)),
+    [levelWordIds, progress.learnedWords]
+  );
+  const quizMilestone = progress.wordQuizMilestones?.[selectedLevel] ?? 0;
+  const dueQuizWords = learnedLevelIds
+    .slice(quizMilestone, quizMilestone + 10)
+    .map((id) => levelWords.find((word) => word.id === id))
     .filter((word): word is StudyWord => Boolean(word));
   const needsQuiz = dueQuizWords.length >= 10;
-  const remaining = vocabulary.filter((word) => !learnedSet.has(word.id));
+  const remaining = levelWords.filter((word) => !learnedSet.has(word.id));
   const currentWord = remaining[currentIndex % Math.max(remaining.length, 1)];
-  const percent = progressPercent(progress.learnedWords.length, vocabulary.length);
+  const percent = progressPercent(learnedLevelIds.length, levelWords.length);
+  const quizGap = Math.max(0, 10 - (learnedLevelIds.length - quizMilestone));
 
   function markWord(word: StudyWord) {
     setProgress((current) => ({
@@ -665,97 +696,168 @@ function VocabularyDrill({
     setCurrentIndex((current) => current + 1);
   }
 
+  function chooseLevel(level: JLPTLevel) {
+    setSelectedLevel(level);
+    setCurrentIndex(0);
+  }
+
   if (needsQuiz) {
     return (
-      <WordQuiz
-        words={dueQuizWords}
-        setProgress={setProgress}
-        onDone={() =>
-          setProgress((current) => ({
-            ...current,
-            lastWordQuizMilestone: current.lastWordQuizMilestone + dueQuizWords.length
-          }))
-        }
-      />
+      <div className="word-stage-shell">
+        <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
+        <WordQuiz
+          words={dueQuizWords}
+          setProgress={setProgress}
+          level={selectedLevel}
+          onDone={() =>
+            setProgress((current) => ({
+              ...current,
+              wordQuizMilestones: {
+                ...(current.wordQuizMilestones ?? {}),
+                [selectedLevel]: quizMilestone + dueQuizWords.length
+              },
+              lastWordQuizMilestone: current.lastWordQuizMilestone + dueQuizWords.length
+            }))
+          }
+        />
+      </div>
     );
   }
 
   if (!currentWord) {
     return (
-      <section className="empty-state">
-        <h3>这组词已经背完。</h3>
-        <p>可以继续去歌词学习区，或等下一次内容更新。</p>
-      </section>
+      <div className="word-stage-shell">
+        <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
+        <section className="empty-state">
+          <h3>{selectedLevel} 这组词已经背完。</h3>
+          <p>可以切换到其他级别，继续去歌词学习区，或等下一次内容更新。</p>
+        </section>
+      </div>
     );
   }
 
   return (
-    <div className="vocab-layout">
-      <section className="word-stage">
-        <div className="progress-strip">
-          <span>{progress.learnedWords.length} / {vocabulary.length}</span>
-          <div>
-            <span style={{ width: `${percent}%` }} />
-          </div>
-          <strong>{percent}%</strong>
-        </div>
-
-        <article className="word-card">
-          <p className="eyebrow">{currentWord.partOfSpeech}</p>
-          <h3>{currentWord.japanese}</h3>
-          <p className="reading-large">{currentWord.kana} / {currentWord.romaji}</p>
-          <div className="meaning-grid">
-            <div>
-              <span>中文</span>
-              <strong>{currentWord.zh}</strong>
-            </div>
-            <div>
-              <span>English</span>
-              <strong>{currentWord.en}</strong>
-            </div>
-          </div>
-          <p>{currentWord.introZh}</p>
-          <p className="english-note">{currentWord.introEn}</p>
-          <div className="example-block wide">
-            <strong>{currentWord.exampleJp}</strong>
-            <span>{currentWord.exampleZh}</span>
-            <span>{currentWord.exampleEn}</span>
-          </div>
-          <div className="word-actions">
-            <button className="secondary-button" type="button" onClick={() => setCurrentIndex((value) => value + 1)}>
-              <RefreshCcw size={17} />
-              先放一放
-            </button>
-            <button className="primary-button" type="button" onClick={() => markWord(currentWord)}>
-              <Check size={18} />
-              记住了
-            </button>
-          </div>
-        </article>
-      </section>
-
-      <aside className="queue-panel">
-        <p className="eyebrow">Next quiz</p>
-        <h3>每 10 个词拼写测试</h3>
-        <p>当前批次还差 {10 - (progress.learnedWords.length - progress.lastWordQuizMilestone)} 个词进入测试。</p>
-        <div className="mini-word-list">
-          {vocabulary.slice(0, 18).map((word) => (
-            <span key={word.id} className={learnedSet.has(word.id) ? "done" : ""}>
-              {word.japanese}
+    <div className="word-stage-shell">
+      <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
+      <div className="vocab-layout">
+        <section className="word-stage">
+          <div className="progress-strip">
+            <span>
+              {selectedLevel} {learnedLevelIds.length} / {levelWords.length}
             </span>
-          ))}
-        </div>
-      </aside>
+            <div>
+              <span style={{ width: `${percent}%` }} />
+            </div>
+            <strong>{percent}%</strong>
+          </div>
+
+          <article className="word-card">
+            <div className="word-card-meta">
+              <p className="eyebrow">{currentWord.partOfSpeech}</p>
+              <span className="level-badge">{currentWord.jlptLevel ?? selectedLevel}</span>
+            </div>
+            <div className="word-title-row">
+              <h3>{currentWord.japanese}</h3>
+              <button
+                className="icon-button"
+                type="button"
+                aria-label="朗读这个单词"
+                title="朗读这个单词"
+                onClick={() => speakJapanese(currentWord.japanese)}
+              >
+                <Volume2 size={18} />
+              </button>
+            </div>
+            <p className="reading-large">
+              {currentWord.kana} / {currentWord.romaji}
+            </p>
+            <div className="meaning-grid">
+              <div>
+                <span>中文</span>
+                <strong>{currentWord.zh}</strong>
+              </div>
+              <div>
+                <span>English</span>
+                <strong>{currentWord.en}</strong>
+              </div>
+            </div>
+            <p>{currentWord.introZh}</p>
+            <p className="english-note">{currentWord.introEn}</p>
+            <div className="example-block wide">
+              <strong>{currentWord.exampleJp}</strong>
+              <span>{currentWord.exampleZh}</span>
+              <span>{currentWord.exampleEn}</span>
+            </div>
+            <div className="word-actions">
+              <button className="secondary-button" type="button" onClick={() => setCurrentIndex((value) => value + 1)}>
+                <RefreshCcw size={17} />
+                先放一放
+              </button>
+              <button className="primary-button" type="button" onClick={() => markWord(currentWord)}>
+                <Check size={18} />
+                记住了
+              </button>
+            </div>
+          </article>
+        </section>
+
+        <aside className="queue-panel">
+          <p className="eyebrow">Next quiz</p>
+          <h3>{selectedLevel} 每 10 个词拼写测试</h3>
+          <p>当前批次还差 {quizGap} 个词进入测试。</p>
+          <div className="mini-word-list">
+            {levelWords.slice(0, 18).map((word) => (
+              <span key={word.id} className={learnedSet.has(word.id) ? "done" : ""}>
+                {word.japanese}
+              </span>
+            ))}
+          </div>
+        </aside>
+      </div>
     </div>
+  );
+}
+
+function LevelToolbar({
+  selectedLevel,
+  counts,
+  onSelect
+}: {
+  selectedLevel: JLPTLevel;
+  counts: Record<JLPTLevel, number>;
+  onSelect: (level: JLPTLevel) => void;
+}) {
+  return (
+    <section className="level-toolbar" aria-label="JLPT difficulty">
+      <div>
+        <p className="eyebrow">Difficulty</p>
+        <h3>JLPT 难度</h3>
+      </div>
+      <div className="segmented level-tabs">
+        {jlptLevels.map((level) => (
+          <button
+            key={level}
+            type="button"
+            className={selectedLevel === level ? "active" : ""}
+            onClick={() => onSelect(level)}
+          >
+            <strong>{level}</strong>
+            <small>{counts[level]} 词</small>
+          </button>
+        ))}
+      </div>
+    </section>
   );
 }
 
 function WordQuiz({
   words,
+  level,
   onDone,
   setProgress
 }: {
   words: StudyWord[];
+  level: JLPTLevel;
   onDone: () => void;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
@@ -767,7 +869,7 @@ function WordQuiz({
   if (!word) {
     return (
       <section className="quiz-panel centered">
-        <h3>10 词拼写测试完成。</h3>
+        <h3>{level} 10 词拼写测试完成。</h3>
         <button className="primary-button" type="button" onClick={onDone}>
           <Check size={18} />
           回到背单词
@@ -794,7 +896,7 @@ function WordQuiz({
 
   return (
     <section className="quiz-panel centered">
-      <p className="eyebrow">Vocabulary spelling test</p>
+      <p className="eyebrow">{level} Vocabulary spelling test</p>
       <h3>
         {index + 1} / {words.length}
       </h3>
@@ -819,17 +921,23 @@ function WordQuiz({
       {status === "correct" && (
         <div className="correct-row">
           <span>{word.japanese} / {word.kana}</span>
-          <button
-            className="secondary-button"
-            type="button"
-            onClick={() => {
-              setIndex((current) => current + 1);
-              setInput("");
-              setStatus("idle");
-            }}
-          >
-            下一个
-          </button>
+          <div className="quiz-actions">
+            <button className="secondary-button" type="button" onClick={() => speakJapanese(word.japanese)}>
+              <Volume2 size={17} />
+              朗读
+            </button>
+            <button
+              className="secondary-button"
+              type="button"
+              onClick={() => {
+                setIndex((current) => current + 1);
+                setInput("");
+                setStatus("idle");
+              }}
+            >
+              下一个
+            </button>
+          </div>
         </div>
       )}
     </section>
@@ -911,42 +1019,9 @@ function Stat({ label, value, percent }: { label: string; value: string; percent
   );
 }
 
-function SettingsView({ session }: { session: AuthSession }) {
-  const [apiInput, setApiInputState] = useState(() => getApiBase());
-  const [saved, setSaved] = useState(false);
-
+function AccountView({ session }: { session: AuthSession }) {
   return (
     <div className="settings-view">
-      <section className="settings-panel">
-        <div className="section-title">
-          <Languages size={18} />
-          <h3>连接设置</h3>
-        </div>
-        <label>
-          API URL
-          <input
-            value={apiInput}
-            placeholder="https://your-api.example.com"
-            onChange={(event) => {
-              setApiInputState(event.target.value);
-              setSaved(false);
-            }}
-          />
-        </label>
-        <button
-          className="primary-button"
-          type="button"
-          onClick={() => {
-            setApiBase(apiInput);
-            setSaved(true);
-          }}
-        >
-          <Check size={18} />
-          保存 API URL
-        </button>
-        {saved && <p className="correct-text">已保存。重新登录后会使用新的 API。</p>}
-      </section>
-
       <section className="settings-panel">
         <div className="section-title">
           <CircleUserRound size={18} />
@@ -955,6 +1030,17 @@ function SettingsView({ session }: { session: AuthSession }) {
         <p>{session.displayName}</p>
         <p className="fine-print">
           当前模式：{session.mode === "api" ? "MongoDB API 同步" : "本地体验模式"}。MongoDB 连接串只放在后端环境变量里，不会进入前端 bundle。
+        </p>
+      </section>
+
+      <section className="settings-panel">
+        <div className="section-title">
+          <Volume2 size={18} />
+          <h3>学习环境</h3>
+        </div>
+        <p>后端地址由部署环境自动配置，学习者不需要填写任何地址。</p>
+        <p className="fine-print">
+          日语朗读使用浏览器内置语音。若某台设备没有日语语音包，按钮会保持可用但实际发声取决于系统支持。
         </p>
       </section>
     </div>
