@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "node --watch index.js",
+    "build": "node --check index.js && node --check scripts/create-user.js",
     "start": "node index.js",
     "create-user": "node scripts/create-user.js"
   },

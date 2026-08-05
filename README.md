@@ -87,7 +87,7 @@ Use these values if you fill the form manually:
 | Branch | `main` |
 | Root Directory | `server` |
 | Runtime / Language | Node |
-| Build Command | `npm install` |
+| Build Command | `npm install && npm run build` |
 | Start Command | `npm start` |
 | Instance Type | Free is fine for personal use |
 | Health Check Path | `/api/health` |
