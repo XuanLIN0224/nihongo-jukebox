@@ -29,9 +29,18 @@ export const tokenById = new Map<string, TokenInfo>(
 export const wordById = new Map<string, StudyWord>(vocabulary.map((word) => [word.id, word]));
 
 export function tokensForLine(line: StudyLine): TokenInfo[] {
-  return line.tokenIds
-    .map((id) => tokenById.get(id))
-    .filter((token): token is TokenInfo => Boolean(token));
+  if (line.tokenIds.length > 0) {
+    return line.tokenIds
+      .map((id) => tokenById.get(id))
+      .filter((token): token is TokenInfo => Boolean(token));
+  }
+
+  return (
+    analyzeJapaneseText(line.japanese)[0]?.tokens.map((token, index) => ({
+      ...token,
+      id: `${line.id}-${token.id}-${index}`
+    })) ?? []
+  );
 }
 
 export function normalizeJapanese(value: string): string {

@@ -9,7 +9,6 @@ const {
   MONGODB_URI,
   MONGODB_DB = "nihongo_jukebox",
   JWT_SECRET,
-  INVITE_CODE,
   CORS_ORIGIN = "http://localhost:5173",
   PORT = 8787,
   HOST = "0.0.0.0"
@@ -122,16 +121,12 @@ app.post("/api/auth/register", asyncHandler(async (req, res) => {
   const username = cleanUsername(req.body.username);
   const password = String(req.body.password || "");
   const displayName = String(req.body.displayName || username).trim();
-  const inviteCode = String(req.body.inviteCode || "").trim();
 
   if (!username || username.length < 2) {
     return res.status(400).json({ message: "Username is too short." });
   }
   if (password.length < 6) {
     return res.status(400).json({ message: "Password must be at least 6 characters." });
-  }
-  if (INVITE_CODE && inviteCode !== INVITE_CODE) {
-    return res.status(403).json({ message: "Invite code is wrong." });
   }
 
   const db = await getDb();

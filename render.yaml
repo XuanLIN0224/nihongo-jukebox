@@ -17,7 +17,5 @@ services:
         value: nihongo_jukebox
       - key: JWT_SECRET
         generateValue: true
-      - key: INVITE_CODE
-        sync: false
       - key: CORS_ORIGIN
         value: https://xuanlin0224.github.io,http://localhost:5173

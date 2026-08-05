@@ -129,8 +129,7 @@ export async function login(username: string, password: string): Promise<AuthSes
 export async function register(
   username: string,
   password: string,
-  displayName: string,
-  inviteCode: string
+  displayName: string
 ): Promise<AuthSession> {
   const apiBase = getApiBase();
   if (apiBase) {
@@ -138,7 +137,7 @@ export async function register(
       "/api/auth/register",
       {
         method: "POST",
-        body: JSON.stringify({ username, password, displayName, inviteCode })
+        body: JSON.stringify({ username, password, displayName })
       }
     );
     return {

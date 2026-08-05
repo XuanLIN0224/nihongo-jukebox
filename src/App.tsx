@@ -47,10 +47,9 @@ import {
 type View = "lyrics" | "words" | "progress" | "account";
 
 const categoryLabels: Record<Category | "all", string> = {
-  all: "全部",
-  jpop: "J-pop",
-  vocaloid: "术力口",
-  band: "Band"
+  all: "全部歌手",
+  "fujii-kaze": "藤井風",
+  "togenashi-togeari": "トゲナシトゲアリ"
 };
 
 const jlptLevels: JLPTLevel[] = ["N1", "N2", "N3", "N4", "N5"];
@@ -197,7 +196,6 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
   const [username, setUsername] = useState("");
   const [displayName, setDisplayName] = useState("");
   const [password, setPassword] = useState("");
-  const [inviteCode, setInviteCode] = useState("");
   const [message, setMessage] = useState("");
   const [isBusy, setIsBusy] = useState(false);
 
@@ -210,7 +208,7 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
       const next =
         mode === "login"
           ? await login(username.trim(), password)
-          : await register(username.trim(), password, displayName.trim(), inviteCode.trim());
+          : await register(username.trim(), password, displayName.trim());
       onSession(next);
     } catch (error) {
       setMessage(error instanceof Error ? error.message : "登录失败。");
@@ -274,12 +272,6 @@ function LoginScreen({ onSession }: { onSession: (session: AuthSession) => void 
               required
             />
           </label>
-          {mode === "register" && (
-            <label>
-              邀请码
-              <input value={inviteCode} onChange={(event) => setInviteCode(event.target.value)} />
-            </label>
-          )}
           <button className="primary-button" type="submit" disabled={isBusy}>
             <Check size={18} />
             {isBusy ? "处理中" : mode === "login" ? "进入学习" : "创建并进入"}
@@ -311,6 +303,12 @@ function LyricsLab({
     () => songPacks.filter((song) => category === "all" || song.category === category),
     [category]
   );
+  useEffect(() => {
+    if (songs.some((song) => song.id === selectedId)) return;
+    setSelectedId(songs[0]?.id ?? "");
+    setSelectedTokenId(null);
+    setQuizOpen(false);
+  }, [selectedId, songs]);
   const selected = songPacks.find((song) => song.id === selectedId) ?? songPacks[0];
   const selectedToken = selectedTokenId
     ? selected.lines.flatMap(tokensForLine).find((token) => token.id === selectedTokenId)
@@ -487,10 +485,10 @@ function LineCard({
             <Volume2 size={17} />
           </button>
         </div>
-        <span>{line.kana}</span>
-        <span>{line.romaji}</span>
-        <p>{line.zh}</p>
-        <p>{line.en}</p>
+        {line.kana && <span>{line.kana}</span>}
+        {line.romaji && <span>{line.romaji}</span>}
+        {line.zh && <p>{line.zh}</p>}
+        {line.en && <p>{line.en}</p>}
       </div>
       <div className="token-row">
         {tokens.map((token, index) => (
@@ -574,7 +572,7 @@ function LineQuiz({
   if (finished) {
     return (
       <section className="quiz-panel">
-        <h3>这首歌的练习句完成了。</h3>
+        <h3>这首歌的歌词练习完成了。</h3>
         <p>进度会用稳定 ID 保存，以后内容更新也不会覆盖你已经完成的记录。</p>
         <button className="primary-button" type="button" onClick={() => onSongDone(song)}>
           <Check size={18} />
@@ -618,7 +616,7 @@ function LineQuiz({
         </button>
       </div>
       <p className="quiz-prompt">{line.zh}</p>
-      <p className="quiz-prompt en">{line.en}</p>
+      {line.en && <p className="quiz-prompt en">{line.en}</p>}
       <form onSubmit={submit} className="quiz-form">
         <input
           autoFocus

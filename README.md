@@ -6,23 +6,21 @@
 
 - Login and register UI
 - MongoDB-backed API for username/password login, bcrypt password hashing, JWT sessions, and progress sync
-- 50+ song study catalog for Fujii Kaze, Vaundy, Kenshi Yonezu, Togenashi Togeari, popular J-pop, and Vocaloid tracks
+- Singer-grouped lyric catalog imported from the provided Fujii Kaze and Togenashi Togeari DOCX files
 - Lyric-study flow with word-by-word analysis, readings, Chinese/English meanings, examples, and line spelling tests
 - Paste analyzer for lyrics you have permission to study
 - 3,000+ word JLPT vocabulary bank with N1-N5 selection, N1 as the default, JLPT labels, examples, Chinese/English hints, and spelling tests every 10 words
 - Japanese text-to-speech buttons using the browser Web Speech API, with no user-facing API key or connection setting
 - GitHub Actions workflow for GitHub Pages
 
-## Copyright note
+## Lyrics note
 
-The repository does not include full copyrighted lyrics. The built-in song packs use original study lines that match the vocabulary themes of the songs. For real lyrics, paste text that you have permission to use into the analyzer.
+The built-in song packs are imported from local DOCX files provided by the site owner and are grouped by singer. Confirm you have permission before publishing full lyrics in a public repository or public GitHub Pages site.
 
 Useful public metadata sources:
 
 - JLPT Vocabulary API: https://jlpt-vocab-api.vercel.app/
 - Official JLPT level summary: https://www.jlpt.jp/sp/cn/about/levelsummary.html
-- VocaDB public API: https://wiki.vocadb.net/docs/public-api
-- VocaDB API and embeds: https://wiki.vocadb.net/docs/api-and-embeds
 - Web Speech API SpeechSynthesis: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 - MongoDB Node.js driver connection docs: https://www.mongodb.com/docs/drivers/node/current/connect/connection-targets/
 - GitHub Pages HTTPS docs: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
@@ -63,7 +61,6 @@ Set these environment variables in production:
 MONGODB_URI=mongodb+srv://<db_username>:<db_password>@useraccountcluster.5ibcfva.mongodb.net/?appName=UserAccountCluster
 MONGODB_DB=nihongo_jukebox
 JWT_SECRET=<long-random-secret>
-INVITE_CODE=<code-for-friends>
 CORS_ORIGIN=https://<github-username>.github.io
 PORT=8787
 ```
@@ -102,10 +99,9 @@ Environment variables:
 | `MONGODB_URI` | Your MongoDB Atlas connection string, with the real username and password |
 | `MONGODB_DB` | `nihongo_jukebox` |
 | `JWT_SECRET` | A long random string |
-| `INVITE_CODE` | A private invite code for creating friend accounts, or leave unset to allow open registration |
 | `CORS_ORIGIN` | `https://xuanlin0224.github.io,http://localhost:5173` |
 
-The root `render.yaml` also defines the same service as a Render Blueprint. If you use the Blueprint flow, Render will still ask you to fill secret values for `MONGODB_URI` and `INVITE_CODE`.
+The root `render.yaml` also defines the same service as a Render Blueprint. If you use the Blueprint flow, Render will still ask you to fill the secret value for `MONGODB_URI`.
 
 After Render deploys, open:
 
