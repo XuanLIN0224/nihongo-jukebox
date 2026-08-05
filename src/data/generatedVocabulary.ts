@@ -7,7 +7,7 @@ import rawVocabulary from "./generatedVocabulary.json";
 export const generatedVocabularySource = {
   name: "JLPT Vocabulary API",
   url: "https://jlpt-vocab-api.vercel.app/",
-  generatedAt: "2026-08-05T15:05:25.362Z",
+  generatedAt: "2026-08-05T15:15:43.677Z",
   count: 3100
 };
 
