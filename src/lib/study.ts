@@ -19,7 +19,9 @@ const wordTokens: TokenInfo[] = vocabulary.map((word) => ({
   exampleZh: word.exampleZh,
   exampleEn: word.exampleEn,
   forms: [word.japanese, word.kana, ...(word.forms ?? [])],
-  vocabularyId: word.id
+  vocabularyId: word.id,
+  readingOptions: word.readingOptions,
+  romajiOptions: word.romajiOptions
 }));
 
 export const tokenById = new Map<string, TokenInfo>(
@@ -28,11 +30,57 @@ export const tokenById = new Map<string, TokenInfo>(
 
 export const wordById = new Map<string, StudyWord>(vocabulary.map((word) => [word.id, word]));
 
+const readingsBySurface = vocabulary.reduce((map, word) => {
+  const readings = map.get(word.japanese) ?? new Set<string>();
+  readings.add(word.kana);
+  for (const reading of word.readingOptions ?? []) {
+    readings.add(reading);
+  }
+  map.set(word.japanese, readings);
+  return map;
+}, new Map<string, Set<string>>());
+
+const romajiBySurface = vocabulary.reduce((map, word) => {
+  const romaji = map.get(word.japanese) ?? new Set<string>();
+  romaji.add(word.romaji);
+  for (const item of word.romajiOptions ?? []) {
+    romaji.add(item);
+  }
+  map.set(word.japanese, romaji);
+  return map;
+}, new Map<string, Set<string>>());
+
+export function readingOptionsForSurface(surface: string, fallback: string): string[] {
+  const readings = readingsBySurface.get(surface);
+  return Array.from(readings ?? new Set([fallback])).filter(Boolean);
+}
+
+export function romajiOptionsForSurface(surface: string, fallback: string): string[] {
+  const romaji = romajiBySurface.get(surface);
+  return Array.from(romaji ?? new Set([fallback])).filter(Boolean);
+}
+
 export function tokensForLine(line: StudyLine): TokenInfo[] {
   if (line.tokenIds.length > 0) {
     return line.tokenIds
-      .map((id) => tokenById.get(id))
-      .filter((token): token is TokenInfo => Boolean(token));
+      .map((id, index): TokenInfo | null => {
+        const token = tokenById.get(id);
+        if (!token) return null;
+        const surface = line.tokenSurfaces?.[index] ?? token.surface;
+        const reading = line.tokenReadings?.[index] ?? token.reading;
+        const romaji = line.tokenRomaji?.[index] ?? token.romaji;
+        return {
+          ...token,
+          id: `${line.id}-${token.id}-${index}`,
+          surface,
+          reading,
+          romaji,
+          ...(token.vocabularyId ? { vocabularyId: token.vocabularyId } : {}),
+          readingOptions: readingOptionsForSurface(surface, reading),
+          romajiOptions: romajiOptionsForSurface(surface, romaji)
+        };
+      })
+      .filter((token): token is TokenInfo => token !== null);
   }
 
   return (

@@ -408,6 +408,7 @@ textarea:focus {
 .study-heading,
 .section-title,
 .quiz-header,
+.quiz-prompt-row,
 .source-row,
 .word-actions,
 .line-title-row,
@@ -681,6 +682,10 @@ textarea:focus {
   line-height: 1.5;
 }
 
+.quiz-prompt-row {
+  align-items: flex-start;
+}
+
 .quiz-prompt.en {
   color: var(--muted);
   font-size: 16px;
@@ -715,6 +720,18 @@ textarea:focus {
 .word-stage {
   display: grid;
   gap: 14px;
+}
+
+.mode-toolbar {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.mode-toolbar .segmented button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
 }
 
 .level-toolbar {
@@ -844,6 +861,86 @@ textarea:focus {
   gap: 12px;
 }
 
+.library-view {
+  display: grid;
+  gap: 16px;
+}
+
+.library-tools {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) auto;
+  align-items: end;
+  gap: 14px;
+}
+
+.library-count {
+  display: grid;
+  min-width: 110px;
+  min-height: 42px;
+  align-content: center;
+  justify-items: end;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.library-count strong {
+  color: var(--ink);
+  font-size: 22px;
+  line-height: 1;
+}
+
+.word-library-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 14px;
+}
+
+.word-list-card {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.93);
+  box-shadow: 0 12px 32px rgba(38, 32, 23, 0.05);
+}
+
+.word-list-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  gap: 10px;
+}
+
+.word-list-head h3 {
+  margin: 0;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 32px;
+  line-height: 1.1;
+  overflow-wrap: anywhere;
+}
+
+.reading-line {
+  margin: 0;
+  color: var(--green);
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+
+.compact-meaning {
+  grid-template-columns: 1fr;
+}
+
+.compact-meaning strong {
+  overflow-wrap: anywhere;
+}
+
+.load-more-button {
+  justify-self: center;
+}
+
 .mini-word-list {
   display: flex;
   flex-wrap: wrap;
@@ -872,7 +969,7 @@ textarea:focus {
 
 .stat-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
 }
 
@@ -951,7 +1048,7 @@ textarea:focus {
   }
 
   .nav-list {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
   .nav-item {
@@ -969,6 +1066,8 @@ textarea:focus {
   .lyrics-layout,
   .vocab-layout,
   .progress-columns,
+  .stat-grid,
+  .library-tools,
   .settings-view,
   .login-panel {
     grid-template-columns: 1fr;

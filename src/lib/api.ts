@@ -4,6 +4,7 @@ export interface ProgressState {
   learnedSongLines: string[];
   completedSongs: string[];
   learnedWords: string[];
+  savedWords: string[];
   lastWordQuizMilestone: number;
   wordQuizMilestones: Partial<Record<JLPTLevel, number>>;
   mistakes: Record<string, number>;
@@ -32,6 +33,7 @@ export const emptyProgress = (): ProgressState => ({
   learnedSongLines: [],
   completedSongs: [],
   learnedWords: [],
+  savedWords: [],
   lastWordQuizMilestone: 0,
   wordQuizMilestones: {},
   mistakes: {},

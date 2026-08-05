@@ -21,6 +21,8 @@ Useful public metadata sources:
 
 - JLPT Vocabulary API: https://jlpt-vocab-api.vercel.app/
 - Official JLPT level summary: https://www.jlpt.jp/sp/cn/about/levelsummary.html
+- UtaTime Global lyric reference: https://www.utatime.com/global/
+- UtaTen lyric reference: https://utaten.com/
 - Web Speech API SpeechSynthesis: https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 - MongoDB Node.js driver connection docs: https://www.mongodb.com/docs/drivers/node/current/connect/connection-targets/
 - GitHub Pages HTTPS docs: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https

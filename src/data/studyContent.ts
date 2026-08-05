@@ -1,5 +1,6 @@
 import { artistSongPacks } from "./artistLyrics";
 import { generatedVocabulary } from "./generatedVocabulary";
+import { lyricVocabulary } from "./lyricVocabulary";
 
 export type Category = "fujii-kaze" | "togenashi-togeari";
 export type JLPTLevel = "N1" | "N2" | "N3" | "N4" | "N5";
@@ -22,6 +23,8 @@ export interface StudyWord {
   jlptLevel?: JLPTLevel;
   source?: string;
   forms?: string[];
+  readingOptions?: string[];
+  romajiOptions?: string[];
 }
 
 export interface TokenInfo {
@@ -38,6 +41,8 @@ export interface TokenInfo {
   exampleEn: string;
   forms?: string[];
   vocabularyId?: string;
+  readingOptions?: string[];
+  romajiOptions?: string[];
 }
 
 export interface StudyLine {
@@ -48,6 +53,9 @@ export interface StudyLine {
   zh: string;
   en: string;
   tokenIds: string[];
+  tokenSurfaces?: string[];
+  tokenReadings?: string[];
+  tokenRomaji?: string[];
 }
 
 export interface SourceLink {
@@ -72,7 +80,7 @@ export interface SongPack {
   lines: StudyLine[];
 }
 
-export const contentVersion = "2026.08.05.3";
+export const contentVersion = "2026.08.05.4";
 
 export const curatedVocabulary: StudyWord[] = [
   {
@@ -1473,19 +1481,11 @@ function levelFromTags(word: StudyWord): JLPTLevel {
   return tag ? (`N${tag.slice(-1)}` as JLPTLevel) : "N3";
 }
 
-const seenVocabulary = new Set<string>();
-
-export const vocabulary: StudyWord[] = [...curatedVocabulary, ...generatedVocabulary]
+export const vocabulary: StudyWord[] = [...curatedVocabulary, ...generatedVocabulary, ...lyricVocabulary]
   .map((word) => ({
     ...word,
     jlptLevel: word.jlptLevel ?? levelFromTags(word)
-  }))
-  .filter((word) => {
-    const key = `${word.japanese}|${word.kana}`;
-    if (seenVocabulary.has(key)) return false;
-    seenVocabulary.add(key);
-    return true;
-  });
+  }));
 
 export const grammarTokens: TokenInfo[] = [
   {

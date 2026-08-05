@@ -1,7 +1,11 @@
 import {
+  BookMarked,
   BookOpen,
+  BookmarkCheck,
+  BookmarkPlus,
   Check,
   CircleUserRound,
+  Library,
   LogOut,
   Music2,
   PenLine,
@@ -40,11 +44,14 @@ import {
   isLineAnswerCorrect,
   isWordAnswerCorrect,
   progressPercent,
+  readingOptionsForSurface,
+  romajiOptionsForSurface,
   shuffle,
-  tokensForLine
+  tokensForLine,
+  wordById
 } from "./lib/study";
 
-type View = "lyrics" | "words" | "progress" | "account";
+type View = "lyrics" | "words" | "saved" | "progress" | "account";
 
 const categoryLabels: Record<Category | "all", string> = {
   all: "全部歌手",
@@ -53,6 +60,25 @@ const categoryLabels: Record<Category | "all", string> = {
 };
 
 const jlptLevels: JLPTLevel[] = ["N1", "N2", "N3", "N4", "N5"];
+
+function toggleSavedWord(
+  wordId: string,
+  setProgress: Dispatch<SetStateAction<ProgressState>>
+): void {
+  setProgress((current) => {
+    const saved = current.savedWords ?? [];
+    return {
+      ...current,
+      savedWords: saved.includes(wordId)
+        ? saved.filter((id) => id !== wordId)
+        : [...saved, wordId]
+    };
+  });
+}
+
+function optionLabel(values: string[]): string {
+  return values.filter(Boolean).join(" / ");
+}
 
 export default function App() {
   const [session, setSession] = useState<AuthSession | null>(() => getStoredSession());
@@ -109,6 +135,7 @@ export default function App() {
   const navItems: { id: View; label: string; icon: typeof Music2 }[] = [
     { id: "lyrics", label: "歌词学习", icon: Music2 },
     { id: "words", label: "背单词", icon: BookOpen },
+    { id: "saved", label: "生词本", icon: BookMarked },
     { id: "progress", label: "进度", icon: Check },
     { id: "account", label: "账号", icon: CircleUserRound }
   ];
@@ -175,6 +202,7 @@ export default function App() {
           <>
             {view === "lyrics" && <LyricsLab progress={progress} setProgress={setProgress} />}
             {view === "words" && <VocabularyDrill progress={progress} setProgress={setProgress} />}
+            {view === "saved" && <SavedWordsView progress={progress} setProgress={setProgress} />}
             {view === "progress" && <ProgressView progress={progress} />}
             {view === "account" && <AccountView session={session} />}
           </>
@@ -187,6 +215,7 @@ export default function App() {
 function viewTitle(view: View): string {
   if (view === "lyrics") return "歌词学习";
   if (view === "words") return "背单词";
+  if (view === "saved") return "生词本";
   if (view === "progress") return "学习进度";
   return "账号";
 }
@@ -434,7 +463,18 @@ function LyricsLab({
           <div className="analyzed-lines">
             {analyzed.map((line) => (
               <div className="analyzed-line" key={line.id}>
-                <strong>{line.text}</strong>
+                <div className="line-title-row">
+                  <strong>{line.text}</strong>
+                  <button
+                    className="icon-button"
+                    type="button"
+                    aria-label="朗读这句日语"
+                    title="朗读这句日语"
+                    onClick={() => speakJapanese(line.text)}
+                  >
+                    <Volume2 size={17} />
+                  </button>
+                </div>
                 <div className="token-row">
                   {line.tokens.map((token, index) => (
                     <span className={token.pos === "unknown" ? "token-chip unknown" : "token-chip"} key={`${token.id}-${index}`}>
@@ -450,7 +490,9 @@ function LyricsLab({
       </section>
 
       <aside className="detail-column">
-        {selectedToken && <TokenDetail token={selectedToken} />}
+        {selectedToken && (
+          <TokenDetail token={selectedToken} progress={progress} setProgress={setProgress} />
+        )}
       </aside>
     </div>
   );
@@ -511,7 +553,24 @@ function LineCard({
   );
 }
 
-function TokenDetail({ token }: { token: ReturnType<typeof tokensForLine>[number] }) {
+function TokenDetail({
+  token,
+  progress,
+  setProgress
+}: {
+  token: ReturnType<typeof tokensForLine>[number];
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const vocabularyId = token.vocabularyId;
+  const saved = vocabularyId ? (progress.savedWords ?? []).includes(vocabularyId) : false;
+  const readings = token.readingOptions?.length
+    ? token.readingOptions
+    : readingOptionsForSurface(token.surface, token.reading);
+  const romaji = token.romajiOptions?.length
+    ? token.romajiOptions
+    : romajiOptionsForSurface(token.surface, token.romaji);
+
   return (
     <section className="token-detail">
       <p className="eyebrow">Word detail</p>
@@ -529,9 +588,9 @@ function TokenDetail({ token }: { token: ReturnType<typeof tokensForLine>[number
       </div>
       <div className="reading-grid">
         <span>读音</span>
-        <strong>{token.reading}</strong>
+        <strong>{optionLabel(readings)}</strong>
         <span>罗马音</span>
-        <strong>{token.romaji}</strong>
+        <strong>{optionLabel(romaji)}</strong>
         <span>词性</span>
         <strong>{token.pos}</strong>
       </div>
@@ -545,6 +604,12 @@ function TokenDetail({ token }: { token: ReturnType<typeof tokensForLine>[number
         <span>{token.exampleZh}</span>
         <span>{token.exampleEn}</span>
       </div>
+      {vocabularyId && (
+        <button className="secondary-button" type="button" onClick={() => toggleSavedWord(vocabularyId, setProgress)}>
+          {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+          {saved ? "已在生词本" : "加入生词本"}
+        </button>
+      )}
     </section>
   );
 }
@@ -615,7 +680,18 @@ function LineQuiz({
           <X size={17} />
         </button>
       </div>
-      <p className="quiz-prompt">{line.zh}</p>
+      <div className="quiz-prompt-row">
+        <p className="quiz-prompt">{line.zh}</p>
+        <button
+          className="icon-button"
+          type="button"
+          aria-label="朗读当前歌词"
+          title="朗读当前歌词"
+          onClick={() => speakJapanese(line.japanese)}
+        >
+          <Volume2 size={17} />
+        </button>
+      </div>
       {line.en && <p className="quiz-prompt en">{line.en}</p>}
       <form onSubmit={submit} className="quiz-form">
         <input
@@ -652,9 +728,11 @@ function VocabularyDrill({
   progress: ProgressState;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
+  const [mode, setMode] = useState<"study" | "library">("study");
   const [selectedLevel, setSelectedLevel] = useState<JLPTLevel>("N1");
   const [currentIndex, setCurrentIndex] = useState(0);
   const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
+  const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
 
   const levelCounts = useMemo(
     () =>
@@ -681,6 +759,7 @@ function VocabularyDrill({
   const needsQuiz = dueQuizWords.length >= 10;
   const remaining = levelWords.filter((word) => !learnedSet.has(word.id));
   const currentWord = remaining[currentIndex % Math.max(remaining.length, 1)];
+  const currentSaved = currentWord ? savedSet.has(currentWord.id) : false;
   const percent = progressPercent(learnedLevelIds.length, levelWords.length);
   const quizGap = Math.max(0, 10 - (learnedLevelIds.length - quizMilestone));
 
@@ -699,9 +778,19 @@ function VocabularyDrill({
     setCurrentIndex(0);
   }
 
+  if (mode === "library") {
+    return (
+      <div className="word-stage-shell">
+        <VocabularyModeToolbar mode={mode} onMode={setMode} />
+        <VocabularyLibrary progress={progress} setProgress={setProgress} />
+      </div>
+    );
+  }
+
   if (needsQuiz) {
     return (
       <div className="word-stage-shell">
+        <VocabularyModeToolbar mode={mode} onMode={setMode} />
         <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
         <WordQuiz
           words={dueQuizWords}
@@ -725,6 +814,7 @@ function VocabularyDrill({
   if (!currentWord) {
     return (
       <div className="word-stage-shell">
+        <VocabularyModeToolbar mode={mode} onMode={setMode} />
         <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
         <section className="empty-state">
           <h3>{selectedLevel} 这组词已经背完。</h3>
@@ -736,6 +826,7 @@ function VocabularyDrill({
 
   return (
     <div className="word-stage-shell">
+      <VocabularyModeToolbar mode={mode} onMode={setMode} />
       <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
       <div className="vocab-layout">
         <section className="word-stage">
@@ -767,7 +858,8 @@ function VocabularyDrill({
               </button>
             </div>
             <p className="reading-large">
-              {currentWord.kana} / {currentWord.romaji}
+              {optionLabel(currentWord.readingOptions ?? [currentWord.kana])} /{" "}
+              {optionLabel(currentWord.romajiOptions ?? [currentWord.romaji])}
             </p>
             <div className="meaning-grid">
               <div>
@@ -787,6 +879,10 @@ function VocabularyDrill({
               <span>{currentWord.exampleEn}</span>
             </div>
             <div className="word-actions">
+              <button className="secondary-button" type="button" onClick={() => toggleSavedWord(currentWord.id, setProgress)}>
+                {currentSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+                {currentSaved ? "已在生词本" : "加入生词本"}
+              </button>
               <button className="secondary-button" type="button" onClick={() => setCurrentIndex((value) => value + 1)}>
                 <RefreshCcw size={17} />
                 先放一放
@@ -942,6 +1038,250 @@ function WordQuiz({
   );
 }
 
+function VocabularyModeToolbar({
+  mode,
+  onMode
+}: {
+  mode: "study" | "library";
+  onMode: (mode: "study" | "library") => void;
+}) {
+  return (
+    <section className="mode-toolbar" aria-label="Vocabulary mode">
+      <div className="segmented compact">
+        <button
+          type="button"
+          className={mode === "study" ? "active" : ""}
+          onClick={() => onMode("study")}
+        >
+          <BookOpen size={16} />
+          背单词
+        </button>
+        <button
+          type="button"
+          className={mode === "library" ? "active" : ""}
+          onClick={() => onMode("library")}
+        >
+          <Library size={16} />
+          全词库
+        </button>
+      </div>
+    </section>
+  );
+}
+
+function VocabularyLibrary({
+  progress,
+  setProgress
+}: {
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [selectedLevel, setSelectedLevel] = useState<JLPTLevel>("N1");
+  const [query, setQuery] = useState("");
+  const [visibleCount, setVisibleCount] = useState(140);
+  const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
+  const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
+  const levelCounts = useMemo(
+    () =>
+      jlptLevels.reduce((counts, level) => {
+        counts[level] = vocabulary.filter((word) => (word.jlptLevel ?? "N3") === level).length;
+        return counts;
+      }, {} as Record<JLPTLevel, number>),
+    []
+  );
+
+  useEffect(() => {
+    setVisibleCount(140);
+  }, [selectedLevel, query]);
+
+  const words = useMemo(() => {
+    const normalizedQuery = query.trim().toLowerCase();
+    return vocabulary.filter((word) => {
+      if ((word.jlptLevel ?? "N3") !== selectedLevel) return false;
+      if (!normalizedQuery) return true;
+      const haystack = [
+        word.japanese,
+        word.kana,
+        word.romaji,
+        word.zh,
+        word.en,
+        word.partOfSpeech,
+        ...(word.readingOptions ?? []),
+        ...(word.romajiOptions ?? [])
+      ]
+        .join(" ")
+        .toLowerCase();
+      return haystack.includes(normalizedQuery);
+    });
+  }, [query, selectedLevel]);
+  const visibleWords = words.slice(0, visibleCount);
+
+  return (
+    <section className="library-view">
+      <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={setSelectedLevel} />
+      <div className="library-tools">
+        <label>
+          搜索
+          <input value={query} onChange={(event) => setQuery(event.target.value)} />
+        </label>
+        <div className="library-count">
+          <strong>{selectedLevel}</strong>
+          <span>{words.length} 词</span>
+        </div>
+      </div>
+      <div className="word-library-grid">
+        {visibleWords.map((word) => (
+          <WordListCard
+            key={word.id}
+            word={word}
+            saved={savedSet.has(word.id)}
+            learned={learnedSet.has(word.id)}
+            setProgress={setProgress}
+          />
+        ))}
+      </div>
+      {visibleCount < words.length && (
+        <button
+          className="secondary-button load-more-button"
+          type="button"
+          onClick={() => setVisibleCount((count) => count + 140)}
+        >
+          显示更多
+        </button>
+      )}
+    </section>
+  );
+}
+
+function SavedWordsView({
+  progress,
+  setProgress
+}: {
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [query, setQuery] = useState("");
+  const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
+  const savedWords = useMemo(
+    () =>
+      (progress.savedWords ?? [])
+        .map((id) => wordById.get(id))
+        .filter((word): word is StudyWord => Boolean(word)),
+    [progress.savedWords]
+  );
+  const filteredWords = useMemo(() => {
+    const normalizedQuery = query.trim().toLowerCase();
+    if (!normalizedQuery) return savedWords;
+    return savedWords.filter((word) =>
+      [
+        word.japanese,
+        word.kana,
+        word.romaji,
+        word.zh,
+        word.en,
+        word.partOfSpeech,
+        ...(word.readingOptions ?? []),
+        ...(word.romajiOptions ?? [])
+      ]
+        .join(" ")
+        .toLowerCase()
+        .includes(normalizedQuery)
+    );
+  }, [query, savedWords]);
+
+  return (
+    <section className="library-view">
+      <div className="library-tools">
+        <label>
+          搜索
+          <input value={query} onChange={(event) => setQuery(event.target.value)} />
+        </label>
+        <div className="library-count">
+          <strong>{filteredWords.length}</strong>
+          <span>生词</span>
+        </div>
+      </div>
+      {filteredWords.length ? (
+        <div className="word-library-grid">
+          {filteredWords.map((word) => (
+            <WordListCard
+              key={word.id}
+              word={word}
+              saved
+              learned={learnedSet.has(word.id)}
+              setProgress={setProgress}
+            />
+          ))}
+        </div>
+      ) : (
+        <section className="empty-state">
+          <h3>生词本是空的。</h3>
+          <p>还没有加入任何生词。</p>
+        </section>
+      )}
+    </section>
+  );
+}
+
+function WordListCard({
+  word,
+  saved,
+  learned,
+  setProgress
+}: {
+  word: StudyWord;
+  saved: boolean;
+  learned: boolean;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const readings = word.readingOptions ?? [word.kana];
+  const romaji = word.romajiOptions ?? [word.romaji];
+
+  return (
+    <article className="word-list-card">
+      <div className="word-list-head">
+        <div>
+          <p className="eyebrow">
+            {word.jlptLevel ?? "N3"} {learned ? "learned" : word.partOfSpeech}
+          </p>
+          <h3>{word.japanese}</h3>
+        </div>
+        <button
+          className="icon-button"
+          type="button"
+          aria-label="朗读这个单词"
+          title="朗读这个单词"
+          onClick={() => speakJapanese(word.japanese)}
+        >
+          <Volume2 size={17} />
+        </button>
+      </div>
+      <p className="reading-line">{optionLabel(readings)} / {optionLabel(romaji)}</p>
+      <div className="meaning-grid compact-meaning">
+        <div>
+          <span>中文</span>
+          <strong>{word.zh}</strong>
+        </div>
+        <div>
+          <span>English</span>
+          <strong>{word.en}</strong>
+        </div>
+      </div>
+      <p>{word.introZh}</p>
+      <p className="english-note">{word.introEn}</p>
+      <div className="example-block">
+        <strong>{word.exampleJp}</strong>
+        <span>{word.exampleZh}</span>
+        <span>{word.exampleEn}</span>
+      </div>
+      <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
+        {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+        {saved ? "移出生词本" : "加入生词本"}
+      </button>
+    </article>
+  );
+}
+
 function ProgressView({ progress }: { progress: ProgressState }) {
   const totalLines = songPacks.reduce((sum, song) => sum + song.lines.length, 0);
   const songPercent = progressPercent(progress.completedSongs.length, songPacks.length);
@@ -956,6 +1296,7 @@ function ProgressView({ progress }: { progress: ProgressState }) {
         <Stat label="歌曲完成" value={`${progress.completedSongs.length}/${songPacks.length}`} percent={songPercent} />
         <Stat label="歌词行" value={`${progress.learnedSongLines.length}/${totalLines}`} percent={linePercent} />
         <Stat label="单词" value={`${progress.learnedWords.length}/${vocabulary.length}`} percent={wordPercent} />
+        <Stat label="生词本" value={`${progress.savedWords?.length ?? 0}`} percent={progressPercent(progress.savedWords?.length ?? 0, vocabulary.length)} />
       </section>
 
       <section className="progress-columns">
