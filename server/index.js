@@ -11,7 +11,8 @@ const {
   JWT_SECRET,
   INVITE_CODE,
   CORS_ORIGIN = "http://localhost:5173",
-  PORT = 8787
+  PORT = 8787,
+  HOST = "0.0.0.0"
 } = process.env;
 
 if (!MONGODB_URI) {
@@ -25,14 +26,27 @@ if (!JWT_SECRET) {
 const app = express();
 const client = new MongoClient(MONGODB_URI);
 let dbPromise;
+const allowedOrigins = CORS_ORIGIN.split(",")
+  .map((origin) => origin.trim())
+  .filter(Boolean);
 
 app.use(
   cors({
-    origin: CORS_ORIGIN.split(",").map((origin) => origin.trim()),
+    origin(origin, callback) {
+      if (!origin || allowedOrigins.includes("*") || allowedOrigins.includes(origin)) {
+        callback(null, true);
+        return;
+      }
+      callback(new Error("Not allowed by CORS."));
+    },
     credentials: true
   })
 );
 app.use(express.json({ limit: "1mb" }));
+
+const asyncHandler = (handler) => (req, res, next) => {
+  Promise.resolve(handler(req, res, next)).catch(next);
+};
 
 function getDb() {
   if (!dbPromise) {
@@ -90,13 +104,21 @@ async function auth(req, res, next) {
   }
 }
 
-app.get("/api/health", async (_req, res) => {
+app.get("/", (_req, res) => {
+  res.json({
+    ok: true,
+    service: "Nihongo Jukebox API",
+    health: "/api/health"
+  });
+});
+
+app.get("/api/health", asyncHandler(async (_req, res) => {
   const db = await getDb();
   await db.command({ ping: 1 });
   res.json({ ok: true, db: MONGODB_DB });
-});
+}));
 
-app.post("/api/auth/register", async (req, res) => {
+app.post("/api/auth/register", asyncHandler(async (req, res) => {
   const username = cleanUsername(req.body.username);
   const password = String(req.body.password || "");
   const displayName = String(req.body.displayName || username).trim();
@@ -131,9 +153,9 @@ app.post("/api/auth/register", async (req, res) => {
     }
     throw error;
   }
-});
+}));
 
-app.post("/api/auth/login", async (req, res) => {
+app.post("/api/auth/login", asyncHandler(async (req, res) => {
   const username = cleanUsername(req.body.username);
   const password = String(req.body.password || "");
   const db = await getDb();
@@ -144,15 +166,15 @@ app.post("/api/auth/login", async (req, res) => {
   }
 
   res.json({ token: signToken(user), user: publicUser(user) });
-});
+}));
 
-app.get("/api/progress", auth, async (req, res) => {
+app.get("/api/progress", auth, asyncHandler(async (req, res) => {
   const db = await getDb();
   const row = await db.collection("progress").findOne({ userId: req.userId });
   res.json({ progress: row?.progress || null });
-});
+}));
 
-app.put("/api/progress", auth, async (req, res) => {
+app.put("/api/progress", auth, asyncHandler(async (req, res) => {
   const progress = req.body.progress || {};
   const db = await getDb();
   await db.collection("progress").updateOne(
@@ -170,13 +192,20 @@ app.put("/api/progress", auth, async (req, res) => {
     { upsert: true }
   );
   res.json({ ok: true });
+}));
+
+app.use((_req, res) => {
+  res.status(404).json({ message: "Not found." });
 });
 
 app.use((error, _req, res, _next) => {
   console.error(error);
+  if (error.message === "Not allowed by CORS.") {
+    return res.status(403).json({ message: "Not allowed by CORS." });
+  }
   res.status(500).json({ message: "Server error." });
 });
 
-app.listen(Number(PORT), () => {
-  console.log(`Nihongo Jukebox API listening on ${PORT}`);
+app.listen(Number(PORT), HOST, () => {
+  console.log(`Nihongo Jukebox API listening on ${HOST}:${PORT}`);
 });

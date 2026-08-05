@@ -77,6 +77,52 @@ npm run create-user -- linxuan your-password Linxuan
 
 Then set a GitHub repository variable named `VITE_API_BASE_URL` to the deployed backend URL. The app does not expose API connection settings to learners.
 
+## Deploy backend on Render
+
+Create a Render Web Service from this GitHub repository.
+
+Use these values if you fill the form manually:
+
+| Render field | Value |
+| --- | --- |
+| Service Type | Web Service |
+| Repository | `https://github.com/XuanLIN0224/nihongo-jukebox` |
+| Branch | `main` |
+| Root Directory | `server` |
+| Runtime / Language | Node |
+| Build Command | `npm install` |
+| Start Command | `npm start` |
+| Instance Type | Free is fine for personal use |
+| Health Check Path | `/api/health` |
+
+Environment variables:
+
+| Key | Value |
+| --- | --- |
+| `MONGODB_URI` | Your MongoDB Atlas connection string, with the real username and password |
+| `MONGODB_DB` | `nihongo_jukebox` |
+| `JWT_SECRET` | A long random string |
+| `INVITE_CODE` | A private invite code for creating friend accounts, or leave unset to allow open registration |
+| `CORS_ORIGIN` | `https://xuanlin0224.github.io,http://localhost:5173` |
+
+The root `render.yaml` also defines the same service as a Render Blueprint. If you use the Blueprint flow, Render will still ask you to fill secret values for `MONGODB_URI` and `INVITE_CODE`.
+
+After Render deploys, open:
+
+```text
+https://<your-render-service>.onrender.com/api/health
+```
+
+It should return JSON with `"ok": true`.
+
+Finally, connect GitHub Pages to the backend:
+
+1. In GitHub, open this repo's Settings.
+2. Go to Secrets and variables > Actions > Variables.
+3. Add or update `VITE_API_BASE_URL`.
+4. Set it to your Render URL, for example `https://nihongo-jukebox-api.onrender.com`.
+5. Rerun the GitHub Pages workflow or push a new commit so the frontend rebuilds with the backend URL.
+
 ## Security
 
 Do not commit `.env` files. If a MongoDB password has been shown in screenshots or chat, rotate that database user's password before deploying.
