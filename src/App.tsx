@@ -5,6 +5,7 @@ import {
   BookmarkPlus,
   Check,
   CircleUserRound,
+  Image as ImageIcon,
   Library,
   LogOut,
   Music2,
@@ -50,6 +51,11 @@ import {
   tokensForLine,
   wordById
 } from "./lib/study";
+import {
+  getWordVisualImages,
+  type VisualSubject,
+  type WordVisualImage
+} from "./lib/wordImages";
 
 type View = "lyrics" | "words" | "saved" | "progress" | "account";
 
@@ -78,6 +84,34 @@ function toggleSavedWord(
 
 function optionLabel(values: string[]): string {
   return values.filter(Boolean).join(" / ");
+}
+
+function visualSubjectFromWord(word: StudyWord): VisualSubject {
+  return {
+    id: word.id,
+    japanese: word.japanese,
+    kana: word.kana,
+    romaji: word.romaji,
+    zh: word.zh,
+    en: word.en,
+    partOfSpeech: word.partOfSpeech,
+    tags: word.tags,
+    source: word.source
+  };
+}
+
+function visualSubjectFromToken(token: ReturnType<typeof tokensForLine>[number]): VisualSubject {
+  return {
+    id: token.vocabularyId ?? token.surface,
+    japanese: token.surface,
+    kana: token.reading,
+    romaji: token.romaji,
+    zh: token.zh,
+    en: token.en,
+    partOfSpeech: token.pos,
+    tags: token.vocabularyId ? wordById.get(token.vocabularyId)?.tags : undefined,
+    source: token.vocabularyId ? wordById.get(token.vocabularyId)?.source : undefined
+  };
 }
 
 export default function App() {
@@ -553,6 +587,96 @@ function LineCard({
   );
 }
 
+function WordImageStrip({
+  subject,
+  limit = 3,
+  compact = false
+}: {
+  subject: VisualSubject;
+  limit?: number;
+  compact?: boolean;
+}) {
+  const [node, setNode] = useState<HTMLDivElement | null>(null);
+  const [shouldLoad, setShouldLoad] = useState(false);
+  const [images, setImages] = useState<WordVisualImage[]>([]);
+  const [failedUrls, setFailedUrls] = useState<Set<string>>(() => new Set());
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  useEffect(() => {
+    if (!node || shouldLoad) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setShouldLoad(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: "260px" }
+    );
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [node, shouldLoad]);
+
+  useEffect(() => {
+    if (!shouldLoad) return;
+    let alive = true;
+    setImages([]);
+    setFailedUrls(new Set());
+    setIsLoaded(false);
+    getWordVisualImages(subject, limit).then((nextImages) => {
+      if (alive) {
+        setImages(nextImages);
+        setIsLoaded(true);
+      }
+    });
+    return () => {
+      alive = false;
+    };
+  }, [limit, shouldLoad, subject.id, subject.japanese, subject.en, subject.zh]);
+
+  const visibleImages = images.filter((image) => !failedUrls.has(image.thumbUrl)).slice(0, limit);
+
+  return (
+    <div
+      ref={setNode}
+      className={`word-visual-strip ${compact ? "compact" : ""}`}
+      aria-label={`${subject.japanese} visual examples`}
+    >
+      {visibleImages.length > 0 ? (
+        visibleImages.map((image) => (
+          <a
+            key={image.id}
+            className="word-visual-tile"
+            href={image.pageUrl}
+            target="_blank"
+            rel="noreferrer"
+            title={`${image.title} · ${image.source}`}
+          >
+            <img
+              src={image.thumbUrl}
+              alt={`${subject.japanese}: ${image.title}`}
+              loading="lazy"
+              onError={() =>
+                setFailedUrls((current) => {
+                  const next = new Set(current);
+                  next.add(image.thumbUrl);
+                  return next;
+                })
+              }
+            />
+            <span>{image.source}{image.license ? ` · ${image.license}` : ""}</span>
+          </a>
+        ))
+      ) : (
+        <div className="word-visual-placeholder">
+          <ImageIcon size={compact ? 16 : 22} />
+          <span>{!shouldLoad ? "视觉图" : !isLoaded ? "图片匹配中" : "暂无匹配图"}</span>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function TokenDetail({
   token,
   progress,
@@ -594,6 +718,7 @@ function TokenDetail({
         <span>词性</span>
         <strong>{token.pos}</strong>
       </div>
+      <WordImageStrip subject={visualSubjectFromToken(token)} limit={3} />
       <div className="meaning-block">
         <span>中文释义</span>
         <p>{token.zh}</p>
@@ -863,6 +988,7 @@ function VocabularyDrill({
               {optionLabel(currentWord.readingOptions ?? [currentWord.kana])} /{" "}
               {optionLabel(currentWord.romajiOptions ?? [currentWord.romaji])}
             </p>
+            <WordImageStrip subject={visualSubjectFromWord(currentWord)} limit={3} />
             <div className="meaning-grid">
               <div>
                 <span>中文</span>
@@ -1259,6 +1385,7 @@ function WordListCard({
         </button>
       </div>
       <p className="reading-line">{optionLabel(readings)} / {optionLabel(romaji)}</p>
+      <WordImageStrip subject={visualSubjectFromWord(word)} limit={1} compact />
       <div className="meaning-grid compact-meaning">
         <div>
           <span>中文</span>
