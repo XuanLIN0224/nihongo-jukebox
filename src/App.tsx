@@ -90,8 +90,14 @@ function optionLabel(values: string[]): string {
   return values.filter(Boolean).join(" / ");
 }
 
-function exampleReadingFor(key?: string): ExampleReading | undefined {
-  return key ? exampleReadings[key] : undefined;
+function exampleReadingFor(
+  key?: string,
+  fallback?: Pick<ExampleReading, "kana" | "romaji">
+): ExampleReading | undefined {
+  const reading = key ? exampleReadings[key] : undefined;
+  if (reading?.kana || reading?.romaji) return reading;
+  if (fallback?.kana || fallback?.romaji) return fallback;
+  return undefined;
 }
 
 function visualSubjectFromWord(word: StudyWord): VisualSubject {
@@ -712,8 +718,22 @@ function ExampleBlock({
           <Volume2 size={17} />
         </button>
       </div>
-      {reading?.kana && <span className="example-reading kana">{reading.kana}</span>}
-      {reading?.romaji && <span className="example-reading romaji">{reading.romaji}</span>}
+      {(reading?.kana || reading?.romaji) && (
+        <div className="example-reading-box" aria-label="例句读音">
+          {reading?.kana && (
+            <>
+              <span>读音</span>
+              <p className="example-reading kana">{reading.kana}</p>
+            </>
+          )}
+          {reading?.romaji && (
+            <>
+              <span>Romaji</span>
+              <p className="example-reading romaji">{reading.romaji}</p>
+            </>
+          )}
+        </div>
+      )}
       <span>{zh}</span>
       <span>{en}</span>
     </div>
@@ -1047,7 +1067,10 @@ function VocabularyDrill({
             <p className="english-note">{currentWord.introEn}</p>
             <ExampleBlock
               japanese={currentWord.exampleJp}
-              reading={exampleReadingFor(currentWord.id)}
+              reading={exampleReadingFor(currentWord.id, {
+                kana: currentWord.kana,
+                romaji: currentWord.romaji
+              })}
               zh={currentWord.exampleZh}
               en={currentWord.exampleEn}
               wide
@@ -1446,7 +1469,10 @@ function WordListCard({
       <p className="english-note">{word.introEn}</p>
       <ExampleBlock
         japanese={word.exampleJp}
-        reading={exampleReadingFor(word.id)}
+        reading={exampleReadingFor(word.id, {
+          kana: word.kana,
+          romaji: word.romaji
+        })}
         zh={word.exampleZh}
         en={word.exampleEn}
       />

@@ -656,10 +656,30 @@ textarea:focus {
   height: 34px;
 }
 
+.example-reading-box {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: baseline;
+  gap: 4px 10px;
+  margin: 2px 0 4px;
+  padding: 9px 10px;
+  border-left: 3px solid var(--green);
+  background: rgba(50, 97, 79, 0.06);
+}
+
+.example-reading-box span {
+  color: var(--green);
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
 .example-block .example-reading {
   color: var(--green);
   font-size: 13px;
   font-weight: 800;
+  margin: 0;
   overflow-wrap: anywhere;
 }
 
