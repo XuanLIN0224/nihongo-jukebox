@@ -104,12404 +104,12404 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "jiyuu na koe de utau"
   },
   "jlpt-n1-あざ笑う-986": {
-    "kana": "あざわらう を おぼえる",
-    "romaji": "azawarau o oboeru"
+    "kana": "しっぱい し て も もういちど あざわらう",
+    "romaji": "shippai shi te mo mouichido azawarau"
   },
   "jlpt-n1-お休み-668": {
-    "kana": "お やすみ を おぼえる",
-    "romaji": "o yasumi o oboeru"
+    "kana": "じゅぎょう で お やすみ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de o yasumi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-お使い-177": {
-    "kana": "お つかい を おぼえる",
-    "romaji": "o tsukai o oboeru"
+    "kana": "かいぎ で お つかい について はなしあっ た",
+    "romaji": "kaigi de o tsukai nitsuite hanashia ta"
   },
   "jlpt-n1-お供-772": {
-    "kana": "おとも を おぼえる",
-    "romaji": "otomo o oboeru"
+    "kana": "じゅぎょう で おとも を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de otomo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-お先に-1089": {
-    "kana": "おさきに を おぼえる",
-    "romaji": "osakini o oboeru"
+    "kana": "かいぎ で おさきに について はなしあっ た",
+    "romaji": "kaigi de osakini nitsuite hanashia ta"
   },
   "jlpt-n1-お大事に-562": {
-    "kana": "お だいじ に を おぼえる",
-    "romaji": "o daiji ni o oboeru"
+    "kana": "かいぎ で お だいじ に について はなしあっ た",
+    "romaji": "kaigi de o daiji ni nitsuite hanashia ta"
   },
   "jlpt-n1-お祖母さん-771": {
-    "kana": "おばあさん を おぼえる",
-    "romaji": "obaasan o oboeru"
+    "kana": "この もんだい に わ おばあさん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa obaasan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-お祖父さん-900": {
-    "kana": "おじいさん を おぼえる",
-    "romaji": "ojiisan o oboeru"
+    "kana": "この もんだい に わ おじいさん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ojiisan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-お菜-176": {
-    "kana": "おさい を おぼえる",
-    "romaji": "osai o oboeru"
+    "kana": "おさい え まっすぐ すすん だ",
+    "romaji": "osai e massugu susun da"
   },
   "jlpt-n1-お蔭-155": {
-    "kana": "おかげ を おぼえる",
-    "romaji": "okage o oboeru"
+    "kana": "じゅぎょう で おかげ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de okage o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-お蔭様で-394": {
-    "kana": "おかげさま で を おぼえる",
-    "romaji": "okagesama de o oboeru"
+    "kana": "かいぎ で おかげさま で について はなしあっ た",
+    "romaji": "kaigi de okagesama de nitsuite hanashia ta"
   },
   "jlpt-n1-お邪魔します-744": {
-    "kana": "お じゃま し ます を おぼえる",
-    "romaji": "o jama shi masu o oboeru"
+    "kana": "しっぱい し て も もういちど お じゃま し ます",
+    "romaji": "shippai shi te mo mouichido o jama shi masu"
   },
   "jlpt-n1-くっ付ける-397": {
-    "kana": "くっ つける を おぼえる",
-    "romaji": "ku tsukeru o oboeru"
+    "kana": "しっぱい し て も もういちど くっ つける",
+    "romaji": "shippai shi te mo mouichido ku tsukeru"
   },
   "jlpt-n1-ヶ月-440": {
-    "kana": "かげつ を おぼえる",
-    "romaji": "kagetsu o oboeru"
+    "kana": "じゅぎょう で かげつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kagetsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-この頃-84": {
-    "kana": "この ころ を おぼえる",
-    "romaji": "kono koro o oboeru"
+    "kana": "じゅぎょう で この ころ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kono koro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-ご無沙汰-918": {
-    "kana": "ごぶさた を おぼえる",
-    "romaji": "gobusata o oboeru"
+    "kana": "この もんだい に わ ごぶさた が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gobusata ga fukaku kankei shi te iru"
   },
   "jlpt-n1-ご馳走-48": {
-    "kana": "ごちそう を おぼえる",
-    "romaji": "gochisou o oboeru"
+    "kana": "じゅぎょう で ごちそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gochisou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-ご馳走さま-1157": {
-    "kana": "ごちそうさま を おぼえる",
-    "romaji": "gochisousama o oboeru"
+    "kana": "その けいけん から ごちそう さま の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gochisou sama no taisetsu sa o shi ta"
   },
   "jlpt-n1-その外-1254": {
-    "kana": "その そと を おぼえる",
-    "romaji": "sono soto o oboeru"
+    "kana": "かいぎ で その そと について はなしあっ た",
+    "romaji": "kaigi de sono soto nitsuite hanashia ta"
   },
   "jlpt-n1-ぶら下げる-390": {
-    "kana": "ぶらさげる を おぼえる",
-    "romaji": "burasageru o oboeru"
+    "kana": "しっぱい し て も もういちど ぶらさげる",
+    "romaji": "shippai shi te mo mouichido burasageru"
   },
   "jlpt-n1-る-925": {
-    "kana": "る を おぼえる",
-    "romaji": "ru o oboeru"
+    "kana": "しずか な まち に へんか が る",
+    "romaji": "shizuka na machi ni henka ga ru"
   },
   "jlpt-n1-ローマ字-972": {
-    "kana": "ろうまじ を おぼえる",
-    "romaji": "roumaji o oboeru"
+    "kana": "その けいけん から ろうまじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara roumaji no taisetsu sa o shi ta"
   },
   "jlpt-n1-一々-175": {
-    "kana": "いちいち を おぼえる",
-    "romaji": "ichiichi o oboeru"
+    "kana": "こたえ わ いちいち です",
+    "romaji": "kotae wa ichiichi desu"
   },
   "jlpt-n1-一人-391": {
-    "kana": "いち にん を おぼえる",
-    "romaji": "ichi nin o oboeru"
+    "kana": "いち にん で えいが を み に いっ た",
+    "romaji": "ichi nin de eiga o mi ni i ta"
   },
   "jlpt-n1-一別-415": {
-    "kana": "いち べつ を おぼえる",
-    "romaji": "ichi betsu o oboeru"
+    "kana": "その けいけん から いち べつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ichi betsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-一向-1003": {
-    "kana": "いっこう を おぼえる",
-    "romaji": "ikkou o oboeru"
+    "kana": "この もんだい に わ いっこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ikkou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-一変-1192": {
-    "kana": "いっぺん を おぼえる",
-    "romaji": "ippen o oboeru"
+    "kana": "この もんだい に わ いっぺん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ippen ga fukaku kankei shi te iru"
   },
   "jlpt-n1-一寸-642": {
-    "kana": "いっすん を おぼえる",
-    "romaji": "issun o oboeru"
+    "kana": "その けいけん から いち すん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ichi sun no taisetsu sa o shi ta"
   },
   "jlpt-n1-一帯-1277": {
-    "kana": "いったい を おぼえる",
-    "romaji": "ittai o oboeru"
+    "kana": "その けいけん から いったい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ittai no taisetsu sa o shi ta"
   },
   "jlpt-n1-一心-1097": {
-    "kana": "いっしん を おぼえる",
-    "romaji": "isshin o oboeru"
+    "kana": "こたえ わ いっしん です",
+    "romaji": "kotae wa isshin desu"
   },
   "jlpt-n1-一息-354": {
-    "kana": "ひといき を おぼえる",
-    "romaji": "hitoiki o oboeru"
+    "kana": "じゅぎょう で ひといき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hitoiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-一日-488": {
-    "kana": "いち にち を おぼえる",
-    "romaji": "ichi nichi o oboeru"
+    "kana": "いち にち わ いえ で べんきょう し た",
+    "romaji": "ichi nichi wa ie de benkyou shi ta"
   },
   "jlpt-n1-一気-942": {
-    "kana": "いっき を おぼえる",
-    "romaji": "ikki o oboeru"
+    "kana": "しょくご に いっき を のん だ",
+    "romaji": "shokugo ni ikki o non da"
   },
   "jlpt-n1-一筋-18": {
-    "kana": "ひとすじ を おぼえる",
-    "romaji": "hitosuji o oboeru"
+    "kana": "その けいけん から ひとすじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hitosuji no taisetsu sa o shi ta"
   },
   "jlpt-n1-一言-490": {
-    "kana": "ひとこと を おぼえる",
-    "romaji": "hitokoto o oboeru"
+    "kana": "じゅぎょう で ひとこと を こえ に だし て よん だ",
+    "romaji": "jugyou de hitokoto o koe ni dashi te yon da"
   },
   "jlpt-n1-一面-790": {
-    "kana": "いち めん を おぼえる",
-    "romaji": "ichi men o oboeru"
+    "kana": "こたえ わ いち めん です",
+    "romaji": "kotae wa ichi men desu"
   },
   "jlpt-n1-丁々-266": {
-    "kana": "ちょうちょう を おぼえる",
-    "romaji": "chouchou o oboeru"
+    "kana": "その けいけん から ちょうちょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chouchou no taisetsu sa o shi ta"
   },
   "jlpt-n1-丁目-1120": {
-    "kana": "ひのと め を おぼえる",
-    "romaji": "hinoto me o oboeru"
+    "kana": "その けいけん から ひのと め の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hinoto me no taisetsu sa o shi ta"
   },
   "jlpt-n1-七日-505": {
-    "kana": "なな にち を おぼえる",
-    "romaji": "nana nichi o oboeru"
+    "kana": "こたえ わ なな にち です",
+    "romaji": "kotae wa nana nichi desu"
   },
   "jlpt-n1-万-378": {
-    "kana": "まん を おぼえる",
-    "romaji": "man o oboeru"
+    "kana": "かいぎ で まん について はなしあっ た",
+    "romaji": "kaigi de man nitsuite hanashia ta"
   },
   "jlpt-n1-万人-829": {
-    "kana": "まん にん を おぼえる",
-    "romaji": "man nin o oboeru"
+    "kana": "まん にん に みち を たずね た",
+    "romaji": "man nin ni michi o tazune ta"
   },
   "jlpt-n1-三日月-52": {
-    "kana": "みかづき を おぼえる",
-    "romaji": "mikazuki o oboeru"
+    "kana": "この もんだい に わ みかづき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mikazuki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-上司-951": {
-    "kana": "じょうし を おぼえる",
-    "romaji": "joushi o oboeru"
+    "kana": "かいぎ で じょうし について はなしあっ た",
+    "romaji": "kaigi de joushi nitsuite hanashia ta"
   },
   "jlpt-n1-上演-127": {
-    "kana": "じょうえん を おぼえる",
-    "romaji": "jouen o oboeru"
+    "kana": "じゅぎょう で じょうえん を こえ に だし て よん だ",
+    "romaji": "jugyou de jouen o koe ni dashi te yon da"
   },
   "jlpt-n1-下取り-780": {
-    "kana": "したどり を おぼえる",
-    "romaji": "shitadori o oboeru"
+    "kana": "その けいけん から したどり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shitadori no taisetsu sa o shi ta"
   },
   "jlpt-n1-下吏-317": {
-    "kana": "しも 吏 を おぼえる",
-    "romaji": "shimo 吏 o oboeru"
+    "kana": "その けいけん から しも 吏 の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shimo 吏 no taisetsu sa o shi ta"
   },
   "jlpt-n1-下番-694": {
-    "kana": "かばん を おぼえる",
-    "romaji": "kaban o oboeru"
+    "kana": "この もんだい に わ かばん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kaban ga fukaku kankei shi te iru"
   },
   "jlpt-n1-不可欠-459": {
-    "kana": "ふかけつ を おぼえる",
-    "romaji": "fukaketsu o oboeru"
+    "kana": "じゅぎょう で ふかけつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fukaketsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-不当-74": {
-    "kana": "ふとう を おぼえる",
-    "romaji": "futou o oboeru"
+    "kana": "その けいけん から ふとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara futou no taisetsu sa o shi ta"
   },
   "jlpt-n1-不意-280": {
-    "kana": "ふい を おぼえる",
-    "romaji": "fui o oboeru"
+    "kana": "じゅぎょう で ふい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fui o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-不振-363": {
-    "kana": "ふしん を おぼえる",
-    "romaji": "fushin o oboeru"
+    "kana": "この もんだい に わ ふしん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fushin ga fukaku kankei shi te iru"
   },
   "jlpt-n1-不明-896": {
-    "kana": "ふめい を おぼえる",
-    "romaji": "fumei o oboeru"
+    "kana": "じゅぎょう で ふめい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fumei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-不服-40": {
-    "kana": "ふふく を おぼえる",
-    "romaji": "fufuku o oboeru"
+    "kana": "かいぎ で ふふく について はなしあっ た",
+    "romaji": "kaigi de fufuku nitsuite hanashia ta"
   },
   "jlpt-n1-不良-122": {
-    "kana": "ふりょう を おぼえる",
-    "romaji": "furyou o oboeru"
+    "kana": "かいぎ で ふりょう について はなしあっ た",
+    "romaji": "kaigi de furyou nitsuite hanashia ta"
   },
   "jlpt-n1-不順-1281": {
-    "kana": "ふじゅん を おぼえる",
-    "romaji": "fujun o oboeru"
+    "kana": "かいぎ で ふじゅん について はなしあっ た",
+    "romaji": "kaigi de fujun nitsuite hanashia ta"
   },
   "jlpt-n1-与党-894": {
-    "kana": "よとう を おぼえる",
-    "romaji": "yotou o oboeru"
+    "kana": "その けいけん から よとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yotou no taisetsu sa o shi ta"
   },
   "jlpt-n1-且つ-709": {
-    "kana": "かつ を おぼえる",
-    "romaji": "katsu o oboeru"
+    "kana": "せんせい の まえ で おちつい て かつ",
+    "romaji": "sensei no mae de ochitsui te katsu"
   },
   "jlpt-n1-世論-1178": {
-    "kana": "せろん を おぼえる",
-    "romaji": "seron o oboeru"
+    "kana": "この もんだい に わ せろん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seron ga fukaku kankei shi te iru"
   },
   "jlpt-n1-丘陵-466": {
-    "kana": "きゅうりょう を おぼえる",
-    "romaji": "kyuuryou o oboeru"
+    "kana": "この もんだい に わ きゅうりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyuuryou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-並み-592": {
-    "kana": "なみ を おぼえる",
-    "romaji": "nami o oboeru"
+    "kana": "かいぎ で なみ について はなしあっ た",
+    "romaji": "kaigi de nami nitsuite hanashia ta"
   },
   "jlpt-n1-中和-906": {
-    "kana": "ちゅうわ を おぼえる",
-    "romaji": "chuuwa o oboeru"
+    "kana": "その けいけん から ちゅうわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chuuwa no taisetsu sa o shi ta"
   },
   "jlpt-n1-中断-957": {
-    "kana": "ちゅうだん を おぼえる",
-    "romaji": "chuudan o oboeru"
+    "kana": "かいぎ で ちゅうだん について はなしあっ た",
+    "romaji": "kaigi de chuudan nitsuite hanashia ta"
   },
   "jlpt-n1-中毒-869": {
-    "kana": "ちゅうどく を おぼえる",
-    "romaji": "chuudoku o oboeru"
+    "kana": "その けいけん から ちゅうどく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chuudoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-中継-792": {
-    "kana": "ちゅうけい を おぼえる",
-    "romaji": "chuukei o oboeru"
+    "kana": "その けいけん から ちゅうけい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chuukei no taisetsu sa o shi ta"
   },
   "jlpt-n1-丸っきり-1269": {
-    "kana": "まる っきり を おぼえる",
-    "romaji": "maru kkiri o oboeru"
+    "kana": "かいぎ で まる っきり について はなしあっ た",
+    "romaji": "kaigi de maru kkiri nitsuite hanashia ta"
   },
   "jlpt-n1-主人公-277": {
-    "kana": "しゅじんこう を おぼえる",
-    "romaji": "shujinkou o oboeru"
+    "kana": "この もんだい に わ しゅじんこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shujinkou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-主任-798": {
-    "kana": "しゅにん を おぼえる",
-    "romaji": "shunin o oboeru"
+    "kana": "しゅにん に みち を たずね た",
+    "romaji": "shunin ni michi o tazune ta"
   },
   "jlpt-n1-主導-352": {
-    "kana": "しゅどう を おぼえる",
-    "romaji": "shudou o oboeru"
+    "kana": "その けいけん から しゅどう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shudou no taisetsu sa o shi ta"
   },
   "jlpt-n1-主演-812": {
-    "kana": "しゅえん を おぼえる",
-    "romaji": "shuen o oboeru"
+    "kana": "この もんだい に わ しゅえん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shuen ga fukaku kankei shi te iru"
   },
   "jlpt-n1-主題-516": {
-    "kana": "しゅだい を おぼえる",
-    "romaji": "shudai o oboeru"
+    "kana": "かいぎ で しゅだい について はなしあっ た",
+    "romaji": "kaigi de shudai nitsuite hanashia ta"
   },
   "jlpt-n1-主食-921": {
-    "kana": "しゅしょく を おぼえる",
-    "romaji": "shushoku o oboeru"
+    "kana": "ひる に しゅしょく を すこし たべ た",
+    "romaji": "hiru ni shushoku o sukoshi tabe ta"
   },
   "jlpt-n1-久しい-575": {
-    "kana": "ひさしい を おぼえる",
-    "romaji": "hisashii o oboeru"
+    "kana": "この へや わ おもっ た より ひさしい",
+    "romaji": "kono heya wa omo ta yori hisashii"
   },
   "jlpt-n1-乗っ取る-850": {
-    "kana": "のっとる を おぼえる",
-    "romaji": "nottoru o oboeru"
+    "kana": "ひつよう な とき に すぐ のっとる",
+    "romaji": "hitsuyou na toki ni sugu nottoru"
   },
   "jlpt-n1-乗り換え-148": {
-    "kana": "のりかえ を おぼえる",
-    "romaji": "norikae o oboeru"
+    "kana": "この もんだい に わ のりかえ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa norikae ga fukaku kankei shi te iru"
   },
   "jlpt-n1-乳-650": {
-    "kana": "ちち を おぼえる",
-    "romaji": "chichi o oboeru"
+    "kana": "かいぎ で ちち について はなしあっ た",
+    "romaji": "kaigi de chichi nitsuite hanashia ta"
   },
   "jlpt-n1-乾-1136": {
-    "kana": "いぬい を おぼえる",
-    "romaji": "inui o oboeru"
+    "kana": "じゅぎょう で いぬい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de inui o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-予め-720": {
-    "kana": "あらかじめ を おぼえる",
-    "romaji": "arakajime o oboeru"
+    "kana": "この もんだい に わ あらかじめ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa arakajime ga fukaku kankei shi te iru"
   },
   "jlpt-n1-予想-1094": {
-    "kana": "よそう を おぼえる",
-    "romaji": "yosou o oboeru"
+    "kana": "じゅぎょう で よそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yosou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-予感-743": {
-    "kana": "よかん を おぼえる",
-    "romaji": "yokan o oboeru"
+    "kana": "かいぎ で よかん について はなしあっ た",
+    "romaji": "kaigi de yokan nitsuite hanashia ta"
   },
   "jlpt-n1-二人-1169": {
-    "kana": "に にん を おぼえる",
-    "romaji": "ni nin o oboeru"
+    "kana": "こたえ わ に にん です",
+    "romaji": "kotae wa ni nin desu"
   },
   "jlpt-n1-五月蝿い-171": {
-    "kana": "うるさい を おぼえる",
-    "romaji": "urusai o oboeru"
+    "kana": "じゅぎょう で うるさい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de urusai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-些事-1181": {
-    "kana": "さじ を おぼえる",
-    "romaji": "saji o oboeru"
+    "kana": "じゅぎょう で さじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de saji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-亜科-959": {
-    "kana": "あ か を おぼえる",
-    "romaji": "a ka o oboeru"
+    "kana": "この もんだい に わ あ か が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa a ka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-交わす-1011": {
-    "kana": "かわす を おぼえる",
-    "romaji": "kawasu o oboeru"
+    "kana": "ひつよう な とき に すぐ かわす",
+    "romaji": "hitsuyou na toki ni sugu kawasu"
   },
   "jlpt-n1-人-137": {
-    "kana": "ひと を おぼえる",
-    "romaji": "hito o oboeru"
+    "kana": "ひと に みち を たずね た",
+    "romaji": "hito ni michi o tazune ta"
   },
   "jlpt-n1-人情-479": {
-    "kana": "にんじょう を おぼえる",
-    "romaji": "ninjou o oboeru"
+    "kana": "この もんだい に わ にんじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ninjou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-人材-695": {
-    "kana": "じんざい を おぼえる",
-    "romaji": "jinzai o oboeru"
+    "kana": "じんざい に みち を たずね た",
+    "romaji": "jinzai ni michi o tazune ta"
   },
   "jlpt-n1-人柄-779": {
-    "kana": "ひとがら を おぼえる",
-    "romaji": "hitogara o oboeru"
+    "kana": "じゅぎょう で ひとがら を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hitogara o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-人質-90": {
-    "kana": "ひとじち を おぼえる",
-    "romaji": "hitojichi o oboeru"
+    "kana": "かいぎ で ひとじち について はなしあっ た",
+    "romaji": "kaigi de hitojichi nitsuite hanashia ta"
   },
   "jlpt-n1-今晩は-398": {
-    "kana": "こんばん わ を おぼえる",
-    "romaji": "konban wa o oboeru"
+    "kana": "こんばん わ に ともだち と あう",
+    "romaji": "konban wa ni tomodachi to au"
   },
   "jlpt-n1-今更-681": {
-    "kana": "いまさら を おぼえる",
-    "romaji": "imasara o oboeru"
+    "kana": "この もんだい に わ いまさら が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa imasara ga fukaku kankei shi te iru"
   },
   "jlpt-n1-介抱-726": {
-    "kana": "かいほう を おぼえる",
-    "romaji": "kaihou o oboeru"
+    "kana": "かいぎ で かいほう について はなしあっ た",
+    "romaji": "kaigi de kaihou nitsuite hanashia ta"
   },
   "jlpt-n1-介護-327": {
-    "kana": "かいご を おぼえる",
-    "romaji": "kaigo o oboeru"
+    "kana": "かいぎ で かいご について はなしあっ た",
+    "romaji": "kaigi de kaigo nitsuite hanashia ta"
   },
   "jlpt-n1-仏像-1252": {
-    "kana": "ぶつぞう を おぼえる",
-    "romaji": "butsuzou o oboeru"
+    "kana": "この もんだい に わ ぶつぞう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa butsuzou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-仕える-1167": {
-    "kana": "つかえる を おぼえる",
-    "romaji": "tsukaeru o oboeru"
+    "kana": "しっぱい し て も もういちど つかえる",
+    "romaji": "shippai shi te mo mouichido tsukaeru"
   },
   "jlpt-n1-仕上げ-69": {
-    "kana": "しあげ を おぼえる",
-    "romaji": "shiage o oboeru"
+    "kana": "その けいけん から しあげ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiage no taisetsu sa o shi ta"
   },
   "jlpt-n1-仕上げる-903": {
-    "kana": "しあげる を おぼえる",
-    "romaji": "shiageru o oboeru"
+    "kana": "かいぎ わ じかん どおり に しあげる",
+    "romaji": "kaigi wa jikan doori ni shiageru"
   },
   "jlpt-n1-仕付ける-928": {
-    "kana": "しつける を おぼえる",
-    "romaji": "shitsukeru o oboeru"
+    "kana": "しっぱい し て も もういちど しつける",
+    "romaji": "shippai shi te mo mouichido shitsukeru"
   },
   "jlpt-n1-仕入れる-252": {
-    "kana": "しいれる を おぼえる",
-    "romaji": "shiireru o oboeru"
+    "kana": "ひつよう な とき に すぐ しいれる",
+    "romaji": "hitsuyou na toki ni sugu shiireru"
   },
   "jlpt-n1-仕切る-814": {
-    "kana": "しきる を おぼえる",
-    "romaji": "shikiru o oboeru"
+    "kana": "しっぱい し て も もういちど しきる",
+    "romaji": "shippai shi te mo mouichido shikiru"
   },
   "jlpt-n1-仕掛ける-657": {
-    "kana": "しかける を おぼえる",
-    "romaji": "shikakeru o oboeru"
+    "kana": "しっぱい し て も もういちど しかける",
+    "romaji": "shippai shi te mo mouichido shikakeru"
   },
   "jlpt-n1-仕様-331": {
-    "kana": "しよう を おぼえる",
-    "romaji": "shiyou o oboeru"
+    "kana": "その けいけん から しよう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-仕立てる-512": {
-    "kana": "したてる を おぼえる",
-    "romaji": "shitateru o oboeru"
+    "kana": "しっぱい し て も もういちど したてる",
+    "romaji": "shippai shi te mo mouichido shitateru"
   },
   "jlpt-n1-仕舞う-913": {
-    "kana": "しまう を おぼえる",
-    "romaji": "shimau o oboeru"
+    "kana": "かいぎ わ じかん どおり に しまう",
+    "romaji": "kaigi wa jikan doori ni shimau"
   },
   "jlpt-n1-他方-486": {
-    "kana": "たほう を おぼえる",
-    "romaji": "tahou o oboeru"
+    "kana": "たほう え まっすぐ すすん だ",
+    "romaji": "tahou e massugu susun da"
   },
   "jlpt-n1-付録-437": {
-    "kana": "ふろく を おぼえる",
-    "romaji": "furoku o oboeru"
+    "kana": "その けいけん から ふろく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara furoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-代わる-884": {
-    "kana": "かわる を おぼえる",
-    "romaji": "kawaru o oboeru"
+    "kana": "ともだち に にもつ を かわる",
+    "romaji": "tomodachi ni nimotsu o kawaru"
   },
   "jlpt-n1-仲人-641": {
-    "kana": "なこうど を おぼえる",
-    "romaji": "nakoudo o oboeru"
+    "kana": "じゅぎょう で なこうど を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nakoudo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-件-764": {
-    "kana": "けん を おぼえる",
-    "romaji": "ken o oboeru"
+    "kana": "かいぎ で けん について はなしあっ た",
+    "romaji": "kaigi de ken nitsuite hanashia ta"
   },
   "jlpt-n1-任す-496": {
-    "kana": "まかす を おぼえる",
-    "romaji": "makasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て まかす",
+    "romaji": "sensei no mae de ochitsui te makasu"
   },
   "jlpt-n1-任務-59": {
-    "kana": "にんむ を おぼえる",
-    "romaji": "ninmu o oboeru"
+    "kana": "じゅぎょう で にんむ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ninmu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-任命-349": {
-    "kana": "にんめい を おぼえる",
-    "romaji": "ninmei o oboeru"
+    "kana": "その けいけん から にんめい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ninmei no taisetsu sa o shi ta"
   },
   "jlpt-n1-企画-1123": {
-    "kana": "きかく を おぼえる",
-    "romaji": "kikaku o oboeru"
+    "kana": "この もんだい に わ きかく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kikaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-伊井-200": {
-    "kana": "いい を おぼえる",
-    "romaji": "ii o oboeru"
+    "kana": "こたえ わ いい です",
+    "romaji": "kotae wa ii desu"
   },
   "jlpt-n1-会-611": {
-    "kana": "かい を おぼえる",
-    "romaji": "kai o oboeru"
+    "kana": "じゅぎょう で かい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-会見-606": {
-    "kana": "かいけん を おぼえる",
-    "romaji": "kaiken o oboeru"
+    "kana": "かいぎ で かいけん について はなしあっ た",
+    "romaji": "kaigi de kaiken nitsuite hanashia ta"
   },
   "jlpt-n1-伝来-35": {
-    "kana": "でんらい を おぼえる",
-    "romaji": "denrai o oboeru"
+    "kana": "その けいけん から でんらい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara denrai no taisetsu sa o shi ta"
   },
   "jlpt-n1-伝言-369": {
-    "kana": "でんごん を おぼえる",
-    "romaji": "dengon o oboeru"
+    "kana": "じゅぎょう で でんごん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dengon o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-似通う-604": {
-    "kana": "にかよう を おぼえる",
-    "romaji": "nikayou o oboeru"
+    "kana": "しっぱい し て も もういちど にかよう",
+    "romaji": "shippai shi te mo mouichido nikayou"
   },
   "jlpt-n1-住-1047": {
-    "kana": "じゅう を おぼえる",
-    "romaji": "juu o oboeru"
+    "kana": "その けいけん から じゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara juu no taisetsu sa o shi ta"
   },
   "jlpt-n1-体力-506": {
-    "kana": "たいりょく を おぼえる",
-    "romaji": "tairyoku o oboeru"
+    "kana": "その けいけん から たいりょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tairyoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-何々-186": {
-    "kana": "なに を おぼえる",
-    "romaji": "nani o oboeru"
+    "kana": "じゅぎょう で なに を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nani o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-何だか-947": {
-    "kana": "なんだか を おぼえる",
-    "romaji": "nandaka o oboeru"
+    "kana": "その けいけん から なんだか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nandaka no taisetsu sa o shi ta"
   },
   "jlpt-n1-何の-1149": {
-    "kana": "なに の を おぼえる",
-    "romaji": "nani no o oboeru"
+    "kana": "その けいけん から なに の の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nani no no taisetsu sa o shi ta"
   },
   "jlpt-n1-何処-138": {
-    "kana": "どこ を おぼえる",
-    "romaji": "doko o oboeru"
+    "kana": "じゅぎょう で どこ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de doko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-何処か-3": {
-    "kana": "どこ か を おぼえる",
-    "romaji": "doko ka o oboeru"
+    "kana": "かぎ を どこ か に おい た",
+    "romaji": "kagi o doko ka ni oi ta"
   },
   "jlpt-n1-何方-1045": {
-    "kana": "どなた を おぼえる",
-    "romaji": "donata o oboeru"
+    "kana": "その けいけん から どなた の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara donata no taisetsu sa o shi ta"
   },
   "jlpt-n1-何気ない-370": {
-    "kana": "なにげない を おぼえる",
-    "romaji": "nanigenai o oboeru"
+    "kana": "その けいけん から なにげない の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nanigenai no taisetsu sa o shi ta"
   },
   "jlpt-n1-余り-111": {
-    "kana": "あまり を おぼえる",
-    "romaji": "amari o oboeru"
+    "kana": "その けいけん から あまり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara amari no taisetsu sa o shi ta"
   },
   "jlpt-n1-余地-689": {
-    "kana": "よち を おぼえる",
-    "romaji": "yochi o oboeru"
+    "kana": "しゅうまつ に よち え いっ た",
+    "romaji": "shuumatsu ni yochi e i ta"
   },
   "jlpt-n1-余所見-844": {
-    "kana": "よそみ を おぼえる",
-    "romaji": "yosomi o oboeru"
+    "kana": "かいぎ で よそみ について はなしあっ た",
+    "romaji": "kaigi de yosomi nitsuite hanashia ta"
   },
   "jlpt-n1-余程-61": {
-    "kana": "よほど を おぼえる",
-    "romaji": "yohodo o oboeru"
+    "kana": "ひつよう な とき に すぐ よほど",
+    "romaji": "hitsuyou na toki ni sugu yohodo"
   },
   "jlpt-n1-余興-593": {
-    "kana": "よきょう を おぼえる",
-    "romaji": "yokyou o oboeru"
+    "kana": "よきょう え まっすぐ すすん だ",
+    "romaji": "yokyou e massugu susun da"
   },
   "jlpt-n1-作物-238": {
-    "kana": "さくもつ を おぼえる",
-    "romaji": "sakumotsu o oboeru"
+    "kana": "かいぎ で さくもつ について はなしあっ た",
+    "romaji": "kaigi de sakumotsu nitsuite hanashia ta"
   },
   "jlpt-n1-作用-849": {
-    "kana": "さよう を おぼえる",
-    "romaji": "sayou o oboeru"
+    "kana": "その けいけん から さよう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sayou no taisetsu sa o shi ta"
   },
   "jlpt-n1-佳句-802": {
-    "kana": "けい く を おぼえる",
-    "romaji": "kei ku o oboeru"
+    "kana": "けい く な ばしょ で しずか に やすん だ",
+    "romaji": "kei ku na basho de shizuka ni yasun da"
   },
   "jlpt-n1-使命-51": {
-    "kana": "しめい を おぼえる",
-    "romaji": "shimei o oboeru"
+    "kana": "じゅぎょう で しめい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shimei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-例-897": {
-    "kana": "れい を おぼえる",
-    "romaji": "rei o oboeru"
+    "kana": "この もんだい に わ れい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa rei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-供-431": {
-    "kana": "とも を おぼえる",
-    "romaji": "tomo o oboeru"
+    "kana": "この もんだい に わ きょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-便宜-364": {
-    "kana": "べんぎ を おぼえる",
-    "romaji": "bengi o oboeru"
+    "kana": "かいぎ で べんぎ について はなしあっ た",
+    "romaji": "kaigi de bengi nitsuite hanashia ta"
   },
   "jlpt-n1-俄か-910": {
-    "kana": "にわか か を おぼえる",
-    "romaji": "niwaka ka o oboeru"
+    "kana": "この もんだい に わ にわか か が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa niwaka ka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-保守-243": {
-    "kana": "ほしゅ を おぼえる",
-    "romaji": "hoshu o oboeru"
+    "kana": "じゅぎょう で ほしゅ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hoshu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-保管-27": {
-    "kana": "ほかん を おぼえる",
-    "romaji": "hokan o oboeru"
+    "kana": "じゅぎょう で ほかん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hokan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-保険-1206": {
-    "kana": "ほけん を おぼえる",
-    "romaji": "hoken o oboeru"
+    "kana": "かいぎ で ほけん について はなしあっ た",
+    "romaji": "kaigi de hoken nitsuite hanashia ta"
   },
   "jlpt-n1-信任-382": {
-    "kana": "しんにん を おぼえる",
-    "romaji": "shinnin o oboeru"
+    "kana": "かいぎ で しんにん について はなしあっ た",
+    "romaji": "kaigi de shinnin nitsuite hanashia ta"
   },
   "jlpt-n1-個々-526": {
-    "kana": "ここ を おぼえる",
-    "romaji": "koko o oboeru"
+    "kana": "じゅぎょう で ここ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-個性-596": {
-    "kana": "こせい を おぼえる",
-    "romaji": "kosei o oboeru"
+    "kana": "この もんだい に わ こせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kosei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-偏-782": {
-    "kana": "へん を おぼえる",
-    "romaji": "hen o oboeru"
+    "kana": "へん え まっすぐ すすん だ",
+    "romaji": "hen e massugu susun da"
   },
   "jlpt-n1-偏る-281": {
-    "kana": "かたよる を おぼえる",
-    "romaji": "katayoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かたよる",
+    "romaji": "sensei no mae de ochitsui te katayoru"
   },
   "jlpt-n1-偖-346": {
-    "kana": "偖 を おぼえる",
-    "romaji": "偖 o oboeru"
+    "kana": "その けいけん から 偖 の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 偖 no taisetsu sa o shi ta"
   },
   "jlpt-n1-健在-665": {
-    "kana": "けんざい を おぼえる",
-    "romaji": "kenzai o oboeru"
+    "kana": "その けいけん から けんざい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kenzai no taisetsu sa o shi ta"
   },
   "jlpt-n1-側-71": {
-    "kana": "がわ を おぼえる",
-    "romaji": "gawa o oboeru"
+    "kana": "がわ え まっすぐ すすん だ",
+    "romaji": "gawa e massugu susun da"
   },
   "jlpt-n1-傑-356": {
-    "kana": "すぐる を おぼえる",
-    "romaji": "suguru o oboeru"
+    "kana": "じゅぎょう で すぐる を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de suguru o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-備わる-445": {
-    "kana": "そなわる を おぼえる",
-    "romaji": "sonawaru o oboeru"
+    "kana": "しっぱい し て も もういちど そなわる",
+    "romaji": "shippai shi te mo mouichido sonawaru"
   },
   "jlpt-n1-催す-538": {
-    "kana": "もよおす を おぼえる",
-    "romaji": "moyoosu o oboeru"
+    "kana": "しっぱい し て も もういちど もよおす",
+    "romaji": "shippai shi te mo mouichido moyoosu"
   },
   "jlpt-n1-傷-1199": {
-    "kana": "きず を おぼえる",
-    "romaji": "kizu o oboeru"
+    "kana": "その けいけん から きず の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kizu no taisetsu sa o shi ta"
   },
   "jlpt-n1-像-462": {
-    "kana": "ぞう を おぼえる",
-    "romaji": "zou o oboeru"
+    "kana": "かいぎ で ぞう について はなしあっ た",
+    "romaji": "kaigi de zou nitsuite hanashia ta"
   },
   "jlpt-n1-僕-1000": {
-    "kana": "ぼく を おぼえる",
-    "romaji": "boku o oboeru"
+    "kana": "かいぎ で ぼく について はなしあっ た",
+    "romaji": "kaigi de boku nitsuite hanashia ta"
   },
   "jlpt-n1-優-632": {
-    "kana": "ゆう を おぼえる",
-    "romaji": "yuu o oboeru"
+    "kana": "かいぎ で ゆう について はなしあっ た",
+    "romaji": "kaigi de yuu nitsuite hanashia ta"
   },
   "jlpt-n1-優位-563": {
-    "kana": "ゆうい を おぼえる",
-    "romaji": "yuui o oboeru"
+    "kana": "じゅぎょう で ゆうい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuui o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-優越-39": {
-    "kana": "ゆうえつ を おぼえる",
-    "romaji": "yuuetsu o oboeru"
+    "kana": "この もんだい に わ ゆうえつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yuuetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-元年-941": {
-    "kana": "がんねん を おぼえる",
-    "romaji": "gannen o oboeru"
+    "kana": "がんねん に ともだち と あう",
+    "romaji": "gannen ni tomodachi to au"
   },
   "jlpt-n1-元来-561": {
-    "kana": "がんらい を おぼえる",
-    "romaji": "ganrai o oboeru"
+    "kana": "じゅぎょう で がんらい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ganrai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-元素-651": {
-    "kana": "げんそ を おぼえる",
-    "romaji": "genso o oboeru"
+    "kana": "かいぎ で げんそ について はなしあっ た",
+    "romaji": "kaigi de genso nitsuite hanashia ta"
   },
   "jlpt-n1-元首-708": {
-    "kana": "げんしゅ を おぼえる",
-    "romaji": "genshu o oboeru"
+    "kana": "この もんだい に わ げんしゅ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa genshu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-兆-80": {
-    "kana": "ちょう を おぼえる",
-    "romaji": "chou o oboeru"
+    "kana": "その けいけん から ちょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chou no taisetsu sa o shi ta"
   },
   "jlpt-n1-先だって-153": {
-    "kana": "せんだって を おぼえる",
-    "romaji": "sendatte o oboeru"
+    "kana": "この もんだい に わ せんだって が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sendatte ga fukaku kankei shi te iru"
   },
   "jlpt-n1-先に-151": {
-    "kana": "さき に を おぼえる",
-    "romaji": "saki ni o oboeru"
+    "kana": "その けいけん から さき に の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara saki ni no taisetsu sa o shi ta"
   },
   "jlpt-n1-先先月-45": {
-    "kana": "さき せんげつ を おぼえる",
-    "romaji": "saki sengetsu o oboeru"
+    "kana": "さき せんげつ わ いえ で べんきょう し た",
+    "romaji": "saki sengetsu wa ie de benkyou shi ta"
   },
   "jlpt-n1-先先週-661": {
-    "kana": "さきざき しゅう を おぼえる",
-    "romaji": "sakizaki shuu o oboeru"
+    "kana": "さきざき しゅう に ともだち と あう",
+    "romaji": "sakizaki shuu ni tomodachi to au"
   },
   "jlpt-n1-先天的-1084": {
-    "kana": "せんてんてき を おぼえる",
-    "romaji": "sententeki o oboeru"
+    "kana": "かいぎ で せんてんてき について はなしあっ た",
+    "romaji": "kaigi de sententeki nitsuite hanashia ta"
   },
   "jlpt-n1-先行-114": {
-    "kana": "せんこう を おぼえる",
-    "romaji": "senkou o oboeru"
+    "kana": "じゅぎょう で せんこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de senkou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-光沢-648": {
-    "kana": "こうたく を おぼえる",
-    "romaji": "koutaku o oboeru"
+    "kana": "この もんだい に わ こうたく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koutaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-免れる-218": {
-    "kana": "まぬかれる を おぼえる",
-    "romaji": "manukareru o oboeru"
+    "kana": "せんせい の まえ で おちつい て まぬかれる",
+    "romaji": "sensei no mae de ochitsui te manukareru"
   },
   "jlpt-n1-兎に角-786": {
-    "kana": "うさぎ に かく を おぼえる",
-    "romaji": "usagi ni kaku o oboeru"
+    "kana": "かいぎ で うさぎ に かく について はなしあっ た",
+    "romaji": "kaigi de usagi ni kaku nitsuite hanashia ta"
   },
   "jlpt-n1-兎角-125": {
-    "kana": "とかく を おぼえる",
-    "romaji": "tokaku o oboeru"
+    "kana": "じゅぎょう で とかく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tokaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-児-295": {
-    "kana": "こ を おぼえる",
-    "romaji": "ko o oboeru"
+    "kana": "こ に みち を たずね た",
+    "romaji": "ko ni michi o tazune ta"
   },
   "jlpt-n1-全快-766": {
-    "kana": "ぜんかい を おぼえる",
-    "romaji": "zenkai o oboeru"
+    "kana": "この もんだい に わ ぜんかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zenkai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-公-121": {
-    "kana": "おおやけ を おぼえる",
-    "romaji": "ooyake o oboeru"
+    "kana": "じゅぎょう で おおやけ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ooyake o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-公団-537": {
-    "kana": "こうだん を おぼえる",
-    "romaji": "koudan o oboeru"
+    "kana": "この もんだい に わ こうだん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koudan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-公然-416": {
-    "kana": "こうぜん を おぼえる",
-    "romaji": "kouzen o oboeru"
+    "kana": "その けいけん から こうぜん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kouzen no taisetsu sa o shi ta"
   },
   "jlpt-n1-共働き-1173": {
-    "kana": "ともばたらき を おぼえる",
-    "romaji": "tomobataraki o oboeru"
+    "kana": "かいぎ で ともばたらき について はなしあっ た",
+    "romaji": "kaigi de tomobataraki nitsuite hanashia ta"
   },
   "jlpt-n1-共和-579": {
-    "kana": "きょうわ を おぼえる",
-    "romaji": "kyouwa o oboeru"
+    "kana": "この もんだい に わ きょうわ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyouwa ga fukaku kankei shi te iru"
   },
   "jlpt-n1-共存-557": {
-    "kana": "きょうぞん を おぼえる",
-    "romaji": "kyouzon o oboeru"
+    "kana": "じゅぎょう で きょうぞん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyouzon o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-共学-1160": {
-    "kana": "きょうがく を おぼえる",
-    "romaji": "kyougaku o oboeru"
+    "kana": "その けいけん から きょうがく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyougaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-其れでも-1111": {
-    "kana": "其 れ でも を おぼえる",
-    "romaji": "其 re demo o oboeru"
+    "kana": "かいぎ で 其 れ でも について はなしあっ た",
+    "romaji": "kaigi de 其 re demo nitsuite hanashia ta"
   },
   "jlpt-n1-其処ら-855": {
-    "kana": "其 しょ ら を おぼえる",
-    "romaji": "其 sho ra o oboeru"
+    "kana": "その けいけん から 其 しょ ら の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 其 sho ra no taisetsu sa o shi ta"
   },
   "jlpt-n1-内部-688": {
-    "kana": "ないぶ を おぼえる",
-    "romaji": "naibu o oboeru"
+    "kana": "かいぎ で ないぶ について はなしあっ た",
+    "romaji": "kaigi de naibu nitsuite hanashia ta"
   },
   "jlpt-n1-内閣-42": {
-    "kana": "ないかく を おぼえる",
-    "romaji": "naikaku o oboeru"
+    "kana": "その けいけん から ないかく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara naikaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-円満-965": {
-    "kana": "えんまん を おぼえる",
-    "romaji": "enman o oboeru"
+    "kana": "かいぎ で えんまん について はなしあっ た",
+    "romaji": "kaigi de enman nitsuite hanashia ta"
   },
   "jlpt-n1-円滑-402": {
-    "kana": "えんかつ を おぼえる",
-    "romaji": "enkatsu o oboeru"
+    "kana": "この もんだい に わ えんかつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa enkatsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-再会-1070": {
-    "kana": "さいかい を おぼえる",
-    "romaji": "saikai o oboeru"
+    "kana": "この もんだい に わ さいかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saikai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-再現-323": {
-    "kana": "さいげん を おぼえる",
-    "romaji": "saigen o oboeru"
+    "kana": "じゅぎょう で さいげん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de saigen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-再生-794": {
-    "kana": "さいせい を おぼえる",
-    "romaji": "saisei o oboeru"
+    "kana": "この もんだい に わ さいせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saisei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-最善-210": {
-    "kana": "さいぜん を おぼえる",
-    "romaji": "saizen o oboeru"
+    "kana": "じゅぎょう で さいぜん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de saizen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-冷淡-419": {
-    "kana": "れいたん を おぼえる",
-    "romaji": "reitan o oboeru"
+    "kana": "その けいけん から れいたん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara reitan no taisetsu sa o shi ta"
   },
   "jlpt-n1-冷蔵-577": {
-    "kana": "れいぞう を おぼえる",
-    "romaji": "reizou o oboeru"
+    "kana": "その けいけん から れいぞう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara reizou no taisetsu sa o shi ta"
   },
   "jlpt-n1-凌ぐ-470": {
-    "kana": "しのぐ を おぼえる",
-    "romaji": "shinogu o oboeru"
+    "kana": "しっぱい し て も もういちど しのぐ",
+    "romaji": "shippai shi te mo mouichido shinogu"
   },
   "jlpt-n1-凡そ-436": {
-    "kana": "およそ を おぼえる",
-    "romaji": "oyoso o oboeru"
+    "kana": "この もんだい に わ およそ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oyoso ga fukaku kankei shi te iru"
   },
   "jlpt-n1-凡ゆる-1219": {
-    "kana": "凡 ゆる を おぼえる",
-    "romaji": "凡 yuru o oboeru"
+    "kana": "ひつよう な とき に すぐ 凡 ゆる",
+    "romaji": "hitsuyou na toki ni sugu 凡 yuru"
   },
   "jlpt-n1-処分-66": {
-    "kana": "しょぶん を おぼえる",
-    "romaji": "shobun o oboeru"
+    "kana": "その けいけん から しょぶん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shobun no taisetsu sa o shi ta"
   },
   "jlpt-n1-処罰-333": {
-    "kana": "しょばつ を おぼえる",
-    "romaji": "shobatsu o oboeru"
+    "kana": "その けいけん から しょばつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shobatsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-出くわす-509": {
-    "kana": "でくわす を おぼえる",
-    "romaji": "dekuwasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て でくわす",
+    "romaji": "sensei no mae de ochitsui te dekuwasu"
   },
   "jlpt-n1-出入り口-1275": {
-    "kana": "でいりぐち を おぼえる",
-    "romaji": "deiriguchi o oboeru"
+    "kana": "しゅうまつ に でいりぐち え いっ た",
+    "romaji": "shuumatsu ni deiriguchi e i ta"
   },
   "jlpt-n1-出動-730": {
-    "kana": "しゅつどう を おぼえる",
-    "romaji": "shutsudou o oboeru"
+    "kana": "この もんだい に わ しゅつどう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shutsudou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-出来物-1274": {
-    "kana": "できぶつ を おぼえる",
-    "romaji": "dekibutsu o oboeru"
+    "kana": "できぶつ に みち を たずね た",
+    "romaji": "dekibutsu ni michi o tazune ta"
   },
   "jlpt-n1-出演-223": {
-    "kana": "しゅつえん を おぼえる",
-    "romaji": "shutsuen o oboeru"
+    "kana": "じゅぎょう で しゅつえん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shutsuen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-出生-395": {
-    "kana": "しゅっしょう を おぼえる",
-    "romaji": "shusshou o oboeru"
+    "kana": "じゅぎょう で しゅっしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shusshou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-出産-739": {
-    "kana": "しゅっさん を おぼえる",
-    "romaji": "shussan o oboeru"
+    "kana": "しゅっさん に みち を たずね た",
+    "romaji": "shussan ni michi o tazune ta"
   },
   "jlpt-n1-出社-319": {
-    "kana": "しゅっしゃ を おぼえる",
-    "romaji": "shussha o oboeru"
+    "kana": "しゅうまつ に しゅっしゃ え いっ た",
+    "romaji": "shuumatsu ni shussha e i ta"
   },
   "jlpt-n1-出血-166": {
-    "kana": "しゅっけつ を おぼえる",
-    "romaji": "shukketsu o oboeru"
+    "kana": "かいぎ で しゅっけつ について はなしあっ た",
+    "romaji": "kaigi de shukketsu nitsuite hanashia ta"
   },
   "jlpt-n1-出題-875": {
-    "kana": "しゅつだい を おぼえる",
-    "romaji": "shutsudai o oboeru"
+    "kana": "じゅぎょう で しゅつだい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shutsudai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-分散-956": {
-    "kana": "ぶんさん を おぼえる",
-    "romaji": "bunsan o oboeru"
+    "kana": "その けいけん から ぶんさん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bunsan no taisetsu sa o shi ta"
   },
   "jlpt-n1-切っ掛け-232": {
-    "kana": "きっかけ を おぼえる",
-    "romaji": "kikkake o oboeru"
+    "kana": "この もんだい に わ きっかけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kikkake ga fukaku kankei shi te iru"
   },
   "jlpt-n1-切ない-357": {
-    "kana": "せつない を おぼえる",
-    "romaji": "setsunai o oboeru"
+    "kana": "じゅぎょう で せつない を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de setsunai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-切れ目-272": {
-    "kana": "きれめ を おぼえる",
-    "romaji": "kireme o oboeru"
+    "kana": "かいぎ で きれめ について はなしあっ た",
+    "romaji": "kaigi de kireme nitsuite hanashia ta"
   },
   "jlpt-n1-刑-32": {
-    "kana": "けい を おぼえる",
-    "romaji": "kei o oboeru"
+    "kana": "その けいけん から けい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kei no taisetsu sa o shi ta"
   },
   "jlpt-n1-初-282": {
-    "kana": "はつ を おぼえる",
-    "romaji": "hatsu o oboeru"
+    "kana": "その けいけん から はつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hatsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-判定-253": {
-    "kana": "はんてい を おぼえる",
-    "romaji": "hantei o oboeru"
+    "kana": "この もんだい に わ はんてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hantei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-判決-351": {
-    "kana": "はんけつ を おぼえる",
-    "romaji": "hanketsu o oboeru"
+    "kana": "かいぎ で はんけつ について はなしあっ た",
+    "romaji": "kaigi de hanketsu nitsuite hanashia ta"
   },
   "jlpt-n1-利根-1083": {
-    "kana": "りこん を おぼえる",
-    "romaji": "rikon o oboeru"
+    "kana": "かいぎ で りこん について はなしあっ た",
+    "romaji": "kaigi de rikon nitsuite hanashia ta"
   },
   "jlpt-n1-到底-905": {
-    "kana": "とうてい を おぼえる",
-    "romaji": "toutei o oboeru"
+    "kana": "とうてい あした わ あめ に なる",
+    "romaji": "toutei ashita wa ame ni naru"
   },
   "jlpt-n1-制-388": {
-    "kana": "せい を おぼえる",
-    "romaji": "sei o oboeru"
+    "kana": "かいぎ で せい について はなしあっ た",
+    "romaji": "kaigi de sei nitsuite hanashia ta"
   },
   "jlpt-n1-制する-1087": {
-    "kana": "せいする を おぼえる",
-    "romaji": "seisuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て せいする",
+    "romaji": "sensei no mae de ochitsui te seisuru"
   },
   "jlpt-n1-制定-332": {
-    "kana": "せいてい を おぼえる",
-    "romaji": "seitei o oboeru"
+    "kana": "その けいけん から せいてい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seitei no taisetsu sa o shi ta"
   },
   "jlpt-n1-剃る-227": {
-    "kana": "そる を おぼえる",
-    "romaji": "soru o oboeru"
+    "kana": "しっぱい し て も もういちど そる",
+    "romaji": "shippai shi te mo mouichido soru"
   },
   "jlpt-n1-前もって-899": {
-    "kana": "まえもって を おぼえる",
-    "romaji": "maemotte o oboeru"
+    "kana": "その けいけん から まえもって の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara maemotte no taisetsu sa o shi ta"
   },
   "jlpt-n1-前売り-581": {
-    "kana": "まえうり を おぼえる",
-    "romaji": "maeuri o oboeru"
+    "kana": "その けいけん から まえうり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara maeuri no taisetsu sa o shi ta"
   },
   "jlpt-n1-前提-254": {
-    "kana": "ぜんてい を おぼえる",
-    "romaji": "zentei o oboeru"
+    "kana": "この もんだい に わ ぜんてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zentei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-前置き-310": {
-    "kana": "まえおき を おぼえる",
-    "romaji": "maeoki o oboeru"
+    "kana": "この もんだい に わ まえおき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa maeoki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-剥がす-1080": {
-    "kana": "へがす を おぼえる",
-    "romaji": "hegasu o oboeru"
+    "kana": "しっぱい し て も もういちど へがす",
+    "romaji": "shippai shi te mo mouichido hegasu"
   },
   "jlpt-n1-剥げる-517": {
-    "kana": "はげる を おぼえる",
-    "romaji": "hageru o oboeru"
+    "kana": "じゅぎょう の あと えき え はげる",
+    "romaji": "jugyou no ato eki e hageru"
   },
   "jlpt-n1-割り算-1182": {
-    "kana": "わりざん を おぼえる",
-    "romaji": "warizan o oboeru"
+    "kana": "この もんだい に わ わりざん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa warizan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-割合に-544": {
-    "kana": "わりあい に を おぼえる",
-    "romaji": "wariai ni o oboeru"
+    "kana": "じゅぎょう で わりあい に を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de wariai ni o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-創刊-321": {
-    "kana": "そうかん を おぼえる",
-    "romaji": "soukan o oboeru"
+    "kana": "じゅぎょう で そうかん を こえ に だし て よん だ",
+    "romaji": "jugyou de soukan o koe ni dashi te yon da"
   },
   "jlpt-n1-創造-142": {
-    "kana": "そうぞう を おぼえる",
-    "romaji": "souzou o oboeru"
+    "kana": "じゅぎょう で そうぞう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de souzou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-加味-831": {
-    "kana": "かみ を おぼえる",
-    "romaji": "kami o oboeru"
+    "kana": "その けいけん から かみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kami no taisetsu sa o shi ta"
   },
   "jlpt-n1-加留多-314": {
-    "kana": "か とめ た を おぼえる",
-    "romaji": "ka tome ta o oboeru"
+    "kana": "かいぎ で か とめ た について はなしあっ た",
+    "romaji": "kaigi de ka tome ta nitsuite hanashia ta"
   },
   "jlpt-n1-助言-643": {
-    "kana": "じょげん を おぼえる",
-    "romaji": "jogen o oboeru"
+    "kana": "じゅぎょう で じょげん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jogen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-助詞-1112": {
-    "kana": "じょし を おぼえる",
-    "romaji": "joshi o oboeru"
+    "kana": "その けいけん から じょし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara joshi no taisetsu sa o shi ta"
   },
   "jlpt-n1-努めて-775": {
-    "kana": "つとめて を おぼえる",
-    "romaji": "tsutomete o oboeru"
+    "kana": "この もんだい に わ つとめ て が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsutome te ga fukaku kankei shi te iru"
   },
   "jlpt-n1-励ます-1106": {
-    "kana": "はげます を おぼえる",
-    "romaji": "hagemasu o oboeru"
+    "kana": "ひつよう な とき に すぐ はげます",
+    "romaji": "hitsuyou na toki ni sugu hagemasu"
   },
   "jlpt-n1-励む-1176": {
-    "kana": "はげむ を おぼえる",
-    "romaji": "hagemu o oboeru"
+    "kana": "しっぱい し て も もういちど はげむ",
+    "romaji": "shippai shi te mo mouichido hagemu"
   },
   "jlpt-n1-効率-132": {
-    "kana": "こうりつ を おぼえる",
-    "romaji": "kouritsu o oboeru"
+    "kana": "じゅぎょう で こうりつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kouritsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-動揺-1236": {
-    "kana": "どうよう を おぼえる",
-    "romaji": "douyou o oboeru"
+    "kana": "じゅぎょう で どうよう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de douyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-勘弁-759": {
-    "kana": "かんべん を おぼえる",
-    "romaji": "kanben o oboeru"
+    "kana": "じゅぎょう で かんべん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanben o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-勝利-1282": {
-    "kana": "しょうり を おぼえる",
-    "romaji": "shouri o oboeru"
+    "kana": "かいぎ で しょうり について はなしあっ た",
+    "romaji": "kaigi de shouri nitsuite hanashia ta"
   },
   "jlpt-n1-勤まる-308": {
-    "kana": "つとまる を おぼえる",
-    "romaji": "tsutomaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つとまる",
+    "romaji": "sensei no mae de ochitsui te tsutomaru"
   },
   "jlpt-n1-勤勉-1043": {
-    "kana": "きんべん を おぼえる",
-    "romaji": "kinben o oboeru"
+    "kana": "かいぎ で きんべん について はなしあっ た",
+    "romaji": "kaigi de kinben nitsuite hanashia ta"
   },
   "jlpt-n1-包む-769": {
-    "kana": "つつむ を おぼえる",
-    "romaji": "tsutsumu o oboeru"
+    "kana": "ひつよう な とき に すぐ つつむ",
+    "romaji": "hitsuyou na toki ni sugu tsutsumu"
   },
   "jlpt-n1-化石-1257": {
-    "kana": "かせき を おぼえる",
-    "romaji": "kaseki o oboeru"
+    "kana": "かいぎ で かせき について はなしあっ た",
+    "romaji": "kaigi de kaseki nitsuite hanashia ta"
   },
   "jlpt-n1-化繊-1081": {
-    "kana": "かせん を おぼえる",
-    "romaji": "kasen o oboeru"
+    "kana": "この もんだい に わ かせん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kasen ga fukaku kankei shi te iru"
   },
   "jlpt-n1-区-519": {
-    "kana": "く を おぼえる",
-    "romaji": "ku o oboeru"
+    "kana": "じゅぎょう で く を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-区々-879": {
-    "kana": "くく を おぼえる",
-    "romaji": "kuku o oboeru"
+    "kana": "この もんだい に わ くく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kuku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-区間-870": {
-    "kana": "くかん を おぼえる",
-    "romaji": "kukan o oboeru"
+    "kana": "かいぎ で くかん について はなしあっ た",
+    "romaji": "kaigi de kukan nitsuite hanashia ta"
   },
   "jlpt-n1-半端-856": {
-    "kana": "はんぱ を おぼえる",
-    "romaji": "hanpa o oboeru"
+    "kana": "その けいけん から はんぱ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hanpa no taisetsu sa o shi ta"
   },
   "jlpt-n1-協会-491": {
-    "kana": "きょうかい を おぼえる",
-    "romaji": "kyoukai o oboeru"
+    "kana": "その けいけん から きょうかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyoukai no taisetsu sa o shi ta"
   },
   "jlpt-n1-協定-467": {
-    "kana": "きょうてい を おぼえる",
-    "romaji": "kyoutei o oboeru"
+    "kana": "この もんだい に わ きょうてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyoutei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-協議-1200": {
-    "kana": "きょうぎ を おぼえる",
-    "romaji": "kyougi o oboeru"
+    "kana": "かいぎ で きょうぎ について はなしあっ た",
+    "romaji": "kaigi de kyougi nitsuite hanashia ta"
   },
   "jlpt-n1-単調-909": {
-    "kana": "たんちょう を おぼえる",
-    "romaji": "tanchou o oboeru"
+    "kana": "じゅぎょう で たんちょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tanchou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-卯-931": {
-    "kana": "う を おぼえる",
-    "romaji": "u o oboeru"
+    "kana": "う え まっすぐ すすん だ",
+    "romaji": "u e massugu susun da"
   },
   "jlpt-n1-印-1119": {
-    "kana": "しるし を おぼえる",
-    "romaji": "shirushi o oboeru"
+    "kana": "その けいけん から しるし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shirushi no taisetsu sa o shi ta"
   },
   "jlpt-n1-印鑑-87": {
-    "kana": "いんかん を おぼえる",
-    "romaji": "inkan o oboeru"
+    "kana": "その けいけん から いんかん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara inkan no taisetsu sa o shi ta"
   },
   "jlpt-n1-危ぶむ-738": {
-    "kana": "あやぶむ を おぼえる",
-    "romaji": "ayabumu o oboeru"
+    "kana": "しっぱい し て も もういちど あやぶむ",
+    "romaji": "shippai shi te mo mouichido ayabumu"
   },
   "jlpt-n1-即座に-179": {
-    "kana": "そくざ に を おぼえる",
-    "romaji": "sokuza ni o oboeru"
+    "kana": "かいぎ で そくざ に について はなしあっ た",
+    "romaji": "kaigi de sokuza ni nitsuite hanashia ta"
   },
   "jlpt-n1-原作-1244": {
-    "kana": "げんさく を おぼえる",
-    "romaji": "gensaku o oboeru"
+    "kana": "この もんだい に わ げんさく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gensaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-原典-541": {
-    "kana": "げんてん を おぼえる",
-    "romaji": "genten o oboeru"
+    "kana": "じゅぎょう で げんてん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de genten o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-原文-886": {
-    "kana": "げんぶん を おぼえる",
-    "romaji": "genbun o oboeru"
+    "kana": "じゅぎょう で げんぶん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de genbun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-原書-372": {
-    "kana": "げんしょ を おぼえる",
-    "romaji": "gensho o oboeru"
+    "kana": "じゅぎょう で げんしょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gensho o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-厭々-1215": {
-    "kana": "いや を おぼえる",
-    "romaji": "iya o oboeru"
+    "kana": "かいぎ で いや について はなしあっ た",
+    "romaji": "kaigi de iya nitsuite hanashia ta"
   },
   "jlpt-n1-参上-621": {
-    "kana": "さんじょう を おぼえる",
-    "romaji": "sanjou o oboeru"
+    "kana": "かいぎ で さんじょう について はなしあっ た",
+    "romaji": "kaigi de sanjou nitsuite hanashia ta"
   },
   "jlpt-n1-及び-907": {
-    "kana": "および を おぼえる",
-    "romaji": "oyobi o oboeru"
+    "kana": "かいぎ で および について はなしあっ た",
+    "romaji": "kaigi de oyobi nitsuite hanashia ta"
   },
   "jlpt-n1-反-574": {
-    "kana": "たん を おぼえる",
-    "romaji": "tan o oboeru"
+    "kana": "じゅぎょう で はん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de han o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-反射-683": {
-    "kana": "はんしゃ を おぼえる",
-    "romaji": "hansha o oboeru"
+    "kana": "この もんだい に わ はんしゃ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hansha ga fukaku kankei shi te iru"
   },
   "jlpt-n1-反感-515": {
-    "kana": "はんかん を おぼえる",
-    "romaji": "hankan o oboeru"
+    "kana": "この もんだい に わ はんかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hankan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-反響-503": {
-    "kana": "はんきょう を おぼえる",
-    "romaji": "hankyou o oboeru"
+    "kana": "かいぎ で はんきょう について はなしあっ た",
+    "romaji": "kaigi de hankyou nitsuite hanashia ta"
   },
   "jlpt-n1-収容-778": {
-    "kana": "しゅうよう を おぼえる",
-    "romaji": "shuuyou o oboeru"
+    "kana": "この もんだい に わ しゅうよう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shuuyou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-収支-654": {
-    "kana": "しゅうし を おぼえる",
-    "romaji": "shuushi o oboeru"
+    "kana": "その けいけん から しゅうし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shuushi no taisetsu sa o shi ta"
   },
   "jlpt-n1-取りあえず-857": {
-    "kana": "とりあえず を おぼえる",
-    "romaji": "toriaezu o oboeru"
+    "kana": "その けいけん から とりあえず の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara toriaezu no taisetsu sa o shi ta"
   },
   "jlpt-n1-取り巻く-139": {
-    "kana": "とりまく を おぼえる",
-    "romaji": "torimaku o oboeru"
+    "kana": "しっぱい し て も もういちど とりまく",
+    "romaji": "shippai shi te mo mouichido torimaku"
   },
   "jlpt-n1-取り引き-68": {
-    "kana": "とりひき を おぼえる",
-    "romaji": "torihiki o oboeru"
+    "kana": "じゅぎょう で とりひき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de torihiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-取り扱い-602": {
-    "kana": "とりあつかい を おぼえる",
-    "romaji": "toriatsukai o oboeru"
+    "kana": "じゅぎょう で とりあつかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de toriatsukai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-取り替え-1012": {
-    "kana": "とりかえ を おぼえる",
-    "romaji": "torikae o oboeru"
+    "kana": "かいぎ で とりかえ について はなしあっ た",
+    "romaji": "kaigi de torikae nitsuite hanashia ta"
   },
   "jlpt-n1-取り立てる-322": {
-    "kana": "とりたてる を おぼえる",
-    "romaji": "toritateru o oboeru"
+    "kana": "せんせい の まえ で おちつい て とりたてる",
+    "romaji": "sensei no mae de ochitsui te toritateru"
   },
   "jlpt-n1-取り組む-124": {
-    "kana": "とりくむ を おぼえる",
-    "romaji": "torikumu o oboeru"
+    "kana": "せんせい の まえ で おちつい て とりくむ",
+    "romaji": "sensei no mae de ochitsui te torikumu"
   },
   "jlpt-n1-取り締まる-82": {
-    "kana": "とりしまる を おぼえる",
-    "romaji": "torishimaru o oboeru"
+    "kana": "しっぱい し て も もういちど とりしまる",
+    "romaji": "shippai shi te mo mouichido torishimaru"
   },
   "jlpt-n1-取り調べる-659": {
-    "kana": "とりしらべる を おぼえる",
-    "romaji": "torishiraberu o oboeru"
+    "kana": "ひつよう な とき に すぐ とりしらべる",
+    "romaji": "hitsuyou na toki ni sugu torishiraberu"
   },
   "jlpt-n1-取材-983": {
-    "kana": "しゅざい を おぼえる",
-    "romaji": "shuzai o oboeru"
+    "kana": "じゅぎょう で しゅざい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuzai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-受け入れ-594": {
-    "kana": "うけいれ を おぼえる",
-    "romaji": "ukeire o oboeru"
+    "kana": "その けいけん から うけいれ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ukeire no taisetsu sa o shi ta"
   },
   "jlpt-n1-受け取り-801": {
-    "kana": "うけとり を おぼえる",
-    "romaji": "uketori o oboeru"
+    "kana": "その けいけん から うけとり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara uketori no taisetsu sa o shi ta"
   },
   "jlpt-n1-受け止める-815": {
-    "kana": "うけとめる を おぼえる",
-    "romaji": "uketomeru o oboeru"
+    "kana": "しっぱい し て も もういちど うけとめる",
+    "romaji": "shippai shi te mo mouichido uketomeru"
   },
   "jlpt-n1-叫び-180": {
-    "kana": "さけび を おぼえる",
-    "romaji": "sakebi o oboeru"
+    "kana": "かいぎ で さけび について はなしあっ た",
+    "romaji": "kaigi de sakebi nitsuite hanashia ta"
   },
   "jlpt-n1-可哀想-1074": {
-    "kana": "かわいそう を おぼえる",
-    "romaji": "kawaisou o oboeru"
+    "kana": "この もんだい に わ かわいそう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kawaisou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-可愛い-893": {
-    "kana": "かわいい を おぼえる",
-    "romaji": "kawaii o oboeru"
+    "kana": "その けいけん から かわいい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kawaii no taisetsu sa o shi ta"
   },
   "jlpt-n1-可愛がる-83": {
-    "kana": "かわい がる を おぼえる",
-    "romaji": "kawai garu o oboeru"
+    "kana": "しっぱい し て も もういちど かわいがる",
+    "romaji": "shippai shi te mo mouichido kawaigaru"
   },
   "jlpt-n1-台無し-834": {
-    "kana": "だいなし を おぼえる",
-    "romaji": "dainashi o oboeru"
+    "kana": "じゅぎょう で だいなし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dainashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-叶える-555": {
-    "kana": "かなえる を おぼえる",
-    "romaji": "kanaeru o oboeru"
+    "kana": "しっぱい し て も もういちど かなえる",
+    "romaji": "shippai shi te mo mouichido kanaeru"
   },
   "jlpt-n1-号-408": {
-    "kana": "ごう を おぼえる",
-    "romaji": "gou o oboeru"
+    "kana": "こたえ わ ごう です",
+    "romaji": "kotae wa gou desu"
   },
   "jlpt-n1-司る-813": {
-    "kana": "つかさどる を おぼえる",
-    "romaji": "tsukasadoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つかさどる",
+    "romaji": "sensei no mae de ochitsui te tsukasadoru"
   },
   "jlpt-n1-合わせ-1225": {
-    "kana": "あわせ を おぼえる",
-    "romaji": "awase o oboeru"
+    "kana": "その けいけん から あわせ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara awase no taisetsu sa o shi ta"
   },
   "jlpt-n1-同-1046": {
-    "kana": "どう を おぼえる",
-    "romaji": "dou o oboeru"
+    "kana": "かいぎ で どう について はなしあっ た",
+    "romaji": "kaigi de dou nitsuite hanashia ta"
   },
   "jlpt-n1-同封-969": {
-    "kana": "どうふう を おぼえる",
-    "romaji": "doufuu o oboeru"
+    "kana": "じゅぎょう で どうふう を こえ に だし て よん だ",
+    "romaji": "jugyou de doufuu o koe ni dashi te yon da"
   },
   "jlpt-n1-同情-1067": {
-    "kana": "どうじょう を おぼえる",
-    "romaji": "doujou o oboeru"
+    "kana": "その かんがえ に わ つよく どうじょう し た",
+    "romaji": "sono kangae ni wa tsuyoku doujou shi ta"
   },
   "jlpt-n1-同感-1": {
-    "kana": "どうかん を おぼえる",
-    "romaji": "doukan o oboeru"
+    "kana": "かれ の いけん に どうかん だ",
+    "romaji": "kare no iken ni doukan da"
   },
   "jlpt-n1-同等-914": {
-    "kana": "どうとう を おぼえる",
-    "romaji": "doutou o oboeru"
+    "kana": "じゅぎょう で どうとう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de doutou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-同級-1027": {
-    "kana": "どうきゅう を おぼえる",
-    "romaji": "doukyuu o oboeru"
+    "kana": "この もんだい に わ どうきゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa doukyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-名付ける-107": {
-    "kana": "なづける を おぼえる",
-    "romaji": "nazukeru o oboeru"
+    "kana": "しっぱい し て も もういちど なづける",
+    "romaji": "shippai shi te mo mouichido nazukeru"
   },
   "jlpt-n1-名簿-1172": {
-    "kana": "めいぼ を おぼえる",
-    "romaji": "meibo o oboeru"
+    "kana": "その けいけん から めいぼ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara meibo no taisetsu sa o shi ta"
   },
   "jlpt-n1-名誉-79": {
-    "kana": "めいよ を おぼえる",
-    "romaji": "meiyo o oboeru"
+    "kana": "かいぎ で めいよ について はなしあっ た",
+    "romaji": "kaigi de meiyo nitsuite hanashia ta"
   },
   "jlpt-n1-名高い-309": {
-    "kana": "なだかい を おぼえる",
-    "romaji": "nadakai o oboeru"
+    "kana": "なだかい な ばしょ で しずか に やすん だ",
+    "romaji": "nadakai na basho de shizuka ni yasun da"
   },
   "jlpt-n1-向き-271": {
-    "kana": "むき を おぼえる",
-    "romaji": "muki o oboeru"
+    "kana": "むき え まっすぐ すすん だ",
+    "romaji": "muki e massugu susun da"
   },
   "jlpt-n1-向上-58": {
-    "kana": "こうじょう を おぼえる",
-    "romaji": "koujou o oboeru"
+    "kana": "この もんだい に わ こうじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koujou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-君主-646": {
-    "kana": "くんしゅ を おぼえる",
-    "romaji": "kunshu o oboeru"
+    "kana": "その けいけん から くんしゅ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kunshu no taisetsu sa o shi ta"
   },
   "jlpt-n1-吟味-889": {
-    "kana": "ぎんみ を おぼえる",
-    "romaji": "ginmi o oboeru"
+    "kana": "この もんだい に わ ぎんみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ginmi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-含嗽-336": {
-    "kana": "がんそう を おぼえる",
-    "romaji": "gansou o oboeru"
+    "kana": "じゅぎょう で がんそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gansou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-呆れる-817": {
-    "kana": "あきれる を おぼえる",
-    "romaji": "akireru o oboeru"
+    "kana": "せんせい の まえ で おちつい て あきれる",
+    "romaji": "sensei no mae de ochitsui te akireru"
   },
   "jlpt-n1-呆然-762": {
-    "kana": "ぼうぜん を おぼえる",
-    "romaji": "bouzen o oboeru"
+    "kana": "かいぎ で ぼうぜん について はなしあっ た",
+    "romaji": "kaigi de bouzen nitsuite hanashia ta"
   },
   "jlpt-n1-呉れる-531": {
-    "kana": "くれる を おぼえる",
-    "romaji": "kureru o oboeru"
+    "kana": "ともだち に にもつ を くれる",
+    "romaji": "tomodachi ni nimotsu o kureru"
   },
   "jlpt-n1-告白-949": {
-    "kana": "こくはく を おぼえる",
-    "romaji": "kokuhaku o oboeru"
+    "kana": "じゅぎょう で こくはく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kokuhaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-周-468": {
-    "kana": "しゅう を おぼえる",
-    "romaji": "shuu o oboeru"
+    "kana": "かいぎ で しゅう について はなしあっ た",
+    "romaji": "kaigi de shuu nitsuite hanashia ta"
   },
   "jlpt-n1-周期-514": {
-    "kana": "しゅうき を おぼえる",
-    "romaji": "shuuki o oboeru"
+    "kana": "その けいけん から しゅうき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shuuki no taisetsu sa o shi ta"
   },
   "jlpt-n1-味覚-195": {
-    "kana": "みかく を おぼえる",
-    "romaji": "mikaku o oboeru"
+    "kana": "じゅぎょう で みかく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mikaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-和-808": {
-    "kana": "わ を おぼえる",
-    "romaji": "wa o oboeru"
+    "kana": "その けいけん から わ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara wa no taisetsu sa o shi ta"
   },
   "jlpt-n1-和文-821": {
-    "kana": "わぶん を おぼえる",
-    "romaji": "wabun o oboeru"
+    "kana": "じゅぎょう で わぶん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de wabun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-和風-485": {
-    "kana": "わふう を おぼえる",
-    "romaji": "wafuu o oboeru"
+    "kana": "かいぎ で わふう について はなしあっ た",
+    "romaji": "kaigi de wafuu nitsuite hanashia ta"
   },
   "jlpt-n1-員-324": {
-    "kana": "いん を おぼえる",
-    "romaji": "in o oboeru"
+    "kana": "この もんだい に わ いん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa in ga fukaku kankei shi te iru"
   },
   "jlpt-n1-唱える-1158": {
-    "kana": "となえる を おぼえる",
-    "romaji": "tonaeru o oboeru"
+    "kana": "ひつよう な とき に すぐ となえる",
+    "romaji": "hitsuyou na toki ni sugu tonaeru"
   },
   "jlpt-n1-商-976": {
-    "kana": "しょう を おぼえる",
-    "romaji": "shou o oboeru"
+    "kana": "この もんだい に わ しょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-問い合わせる-898": {
-    "kana": "といあわせる を おぼえる",
-    "romaji": "toiawaseru o oboeru"
+    "kana": "しっぱい し て も もういちど といあわせる",
+    "romaji": "shippai shi te mo mouichido toiawaseru"
   },
   "jlpt-n1-問う-247": {
-    "kana": "とう を おぼえる",
-    "romaji": "tou o oboeru"
+    "kana": "かいぎ で りゆう を はっきり とう",
+    "romaji": "kaigi de riyuu o hakkiri tou"
   },
   "jlpt-n1-問屋-566": {
-    "kana": "とんや を おぼえる",
-    "romaji": "ton'ya o oboeru"
+    "kana": "その けいけん から とんや の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ton'ya no taisetsu sa o shi ta"
   },
   "jlpt-n1-善し悪し-400": {
-    "kana": "よしあし を おぼえる",
-    "romaji": "yoshiashi o oboeru"
+    "kana": "かいぎ で よしあし について はなしあっ た",
+    "romaji": "kaigi de yoshiashi nitsuite hanashia ta"
   },
   "jlpt-n1-喋る-494": {
-    "kana": "しゃべる を おぼえる",
-    "romaji": "shaberu o oboeru"
+    "kana": "ひつよう な とき に すぐ しゃべる",
+    "romaji": "hitsuyou na toki ni sugu shaberu"
   },
   "jlpt-n1-喜劇-713": {
-    "kana": "きげき を おぼえる",
-    "romaji": "kigeki o oboeru"
+    "kana": "かいぎ で きげき について はなしあっ た",
+    "romaji": "kaigi de kigeki nitsuite hanashia ta"
   },
   "jlpt-n1-喧しい-85": {
-    "kana": "やかましい を おぼえる",
-    "romaji": "yakamashii o oboeru"
+    "kana": "この もんだい に わ やかましい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yakamashii ga fukaku kankei shi te iru"
   },
   "jlpt-n1-喫茶-753": {
-    "kana": "きっさ を おぼえる",
-    "romaji": "kissa o oboeru"
+    "kana": "しょくご に きっさ を のん だ",
+    "romaji": "shokugo ni kissa o non da"
   },
   "jlpt-n1-営む-1184": {
-    "kana": "いとなむ を おぼえる",
-    "romaji": "itonamu o oboeru"
+    "kana": "ともだち に にもつ を いとなむ",
+    "romaji": "tomodachi ni nimotsu o itonamu"
   },
   "jlpt-n1-嗚呼-700": {
-    "kana": "ああ を おぼえる",
-    "romaji": "aa o oboeru"
+    "kana": "かいぎ で ああ について はなしあっ た",
+    "romaji": "kaigi de aa nitsuite hanashia ta"
   },
   "jlpt-n1-嗜好-24": {
-    "kana": "しこう を おぼえる",
-    "romaji": "shikou o oboeru"
+    "kana": "じゅぎょう で しこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shikou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-嘗める-622": {
-    "kana": "なめる を おぼえる",
-    "romaji": "nameru o oboeru"
+    "kana": "せんせい の まえ で おちつい て なめる",
+    "romaji": "sensei no mae de ochitsui te nameru"
   },
   "jlpt-n1-嘘つき-938": {
-    "kana": "うそつき を おぼえる",
-    "romaji": "usotsuki o oboeru"
+    "kana": "うそつき この みせ に くる",
+    "romaji": "usotsuki kono mise ni kuru"
   },
   "jlpt-n1-嘴-890": {
-    "kana": "くちばし を おぼえる",
-    "romaji": "kuchibashi o oboeru"
+    "kana": "かいぎ で くちばし について はなしあっ た",
+    "romaji": "kaigi de kuchibashi nitsuite hanashia ta"
   },
   "jlpt-n1-噴出-1049": {
-    "kana": "ふんしゅつ を おぼえる",
-    "romaji": "funshutsu o oboeru"
+    "kana": "かいぎ で ふんしゅつ について はなしあっ た",
+    "romaji": "kaigi de funshutsu nitsuite hanashia ta"
   },
   "jlpt-n1-嚏-940": {
-    "kana": "嚏 を おぼえる",
-    "romaji": "嚏 o oboeru"
+    "kana": "その けいけん から 嚏 の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 嚏 no taisetsu sa o shi ta"
   },
   "jlpt-n1-回路-1195": {
-    "kana": "かいろ を おぼえる",
-    "romaji": "kairo o oboeru"
+    "kana": "その けいけん から かいろ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kairo no taisetsu sa o shi ta"
   },
   "jlpt-n1-団扇-1118": {
-    "kana": "うちわ を おぼえる",
-    "romaji": "uchiwa o oboeru"
+    "kana": "じゅぎょう で うちわ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de uchiwa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-団結-1037": {
-    "kana": "だんけつ を おぼえる",
-    "romaji": "danketsu o oboeru"
+    "kana": "かいぎ で だんけつ について はなしあっ た",
+    "romaji": "kaigi de danketsu nitsuite hanashia ta"
   },
   "jlpt-n1-図る-1177": {
-    "kana": "はかる を おぼえる",
-    "romaji": "hakaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て はかる",
+    "romaji": "sensei no mae de ochitsui te hakaru"
   },
   "jlpt-n1-国定-385": {
-    "kana": "こくてい を おぼえる",
-    "romaji": "kokutei o oboeru"
+    "kana": "じゅぎょう で こくてい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kokutei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-国産-734": {
-    "kana": "こくさん を おぼえる",
-    "romaji": "kokusan o oboeru"
+    "kana": "じゅぎょう で こくさん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kokusan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-圏-1256": {
-    "kana": "けん を おぼえる",
-    "romaji": "ken o oboeru"
+    "kana": "じゅぎょう で けん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-園-929": {
-    "kana": "えん を おぼえる",
-    "romaji": "en o oboeru"
+    "kana": "えん に みち を たずね た",
+    "romaji": "en ni michi o tazune ta"
   },
   "jlpt-n1-土手-1224": {
-    "kana": "どて を おぼえる",
-    "romaji": "dote o oboeru"
+    "kana": "じゅぎょう で どて を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dote o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-土木-134": {
-    "kana": "どぼく を おぼえる",
-    "romaji": "doboku o oboeru"
+    "kana": "その けいけん から どぼく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara doboku no taisetsu sa o shi ta"
   },
   "jlpt-n1-圧力-1147": {
-    "kana": "あつりょく を おぼえる",
-    "romaji": "atsuryoku o oboeru"
+    "kana": "この もんだい に わ あつりょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa atsuryoku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-圧迫-1079": {
-    "kana": "あっぱく を おぼえる",
-    "romaji": "appaku o oboeru"
+    "kana": "かいぎ で あっぱく について はなしあっ た",
+    "romaji": "kaigi de appaku nitsuite hanashia ta"
   },
   "jlpt-n1-在庫-1068": {
-    "kana": "ざいこ を おぼえる",
-    "romaji": "zaiko o oboeru"
+    "kana": "この もんだい に わ ざいこ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zaiko ga fukaku kankei shi te iru"
   },
   "jlpt-n1-地元-964": {
-    "kana": "じもと を おぼえる",
-    "romaji": "jimoto o oboeru"
+    "kana": "この もんだい に わ じもと が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jimoto ga fukaku kankei shi te iru"
   },
   "jlpt-n1-坊ちゃん-1034": {
-    "kana": "ぼっちゃん を おぼえる",
-    "romaji": "botchan o oboeru"
+    "kana": "じゅぎょう で ぼっちゃん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de botchan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-垢-44": {
-    "kana": "あか を おぼえる",
-    "romaji": "aka o oboeru"
+    "kana": "その けいけん から あか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara aka no taisetsu sa o shi ta"
   },
   "jlpt-n1-城下-211": {
-    "kana": "じょうか を おぼえる",
-    "romaji": "jouka o oboeru"
+    "kana": "かいぎ で じょうか について はなしあっ た",
+    "romaji": "kaigi de jouka nitsuite hanashia ta"
   },
   "jlpt-n1-埋め込む-472": {
-    "kana": "うめこむ を おぼえる",
-    "romaji": "umekomu o oboeru"
+    "kana": "せんせい の まえ で おちつい て うめこむ",
+    "romaji": "sensei no mae de ochitsui te umekomu"
   },
   "jlpt-n1-執着-404": {
-    "kana": "しゅうちゃく を おぼえる",
-    "romaji": "shuuchaku o oboeru"
+    "kana": "その けいけん から しゅうちゃく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shuuchaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-基-961": {
-    "kana": "もと を おぼえる",
-    "romaji": "moto o oboeru"
+    "kana": "じゅぎょう で もと を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de moto o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-堪える-379": {
-    "kana": "こたえる を おぼえる",
-    "romaji": "kotaeru o oboeru"
+    "kana": "ひつよう な とき に すぐ こたえる",
+    "romaji": "hitsuyou na toki ni sugu kotaeru"
   },
   "jlpt-n1-報酬-164": {
-    "kana": "ほうしゅう を おぼえる",
-    "romaji": "houshuu o oboeru"
+    "kana": "じゅぎょう で ほうしゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de houshuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-填まる-313": {
-    "kana": "はま まる を おぼえる",
-    "romaji": "hama maru o oboeru"
+    "kana": "せんせい の まえ で おちつい て はま まる",
+    "romaji": "sensei no mae de ochitsui te hama maru"
   },
   "jlpt-n1-増強-1156": {
-    "kana": "ぞうきょう を おぼえる",
-    "romaji": "zoukyou o oboeru"
+    "kana": "その けいけん から ぞうきょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara zoukyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-増進-1175": {
-    "kana": "ぞうしん を おぼえる",
-    "romaji": "zoushin o oboeru"
+    "kana": "じゅぎょう で ぞうしん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zoushin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-壷-285": {
-    "kana": "つぼ を おぼえる",
-    "romaji": "tsubo o oboeru"
+    "kana": "じゅぎょう で つぼ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tsubo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-変動-246": {
-    "kana": "へんどう を おぼえる",
-    "romaji": "hendou o oboeru"
+    "kana": "じゅぎょう で へんどう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hendou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-変遷-288": {
-    "kana": "へんせん を おぼえる",
-    "romaji": "hensen o oboeru"
+    "kana": "かいぎ で へんせん について はなしあっ た",
+    "romaji": "kaigi de hensen nitsuite hanashia ta"
   },
   "jlpt-n1-変革-135": {
-    "kana": "へんかく を おぼえる",
-    "romaji": "henkaku o oboeru"
+    "kana": "じゅぎょう で へんかく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de henkaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-夕暮れ-828": {
-    "kana": "ゆうぐれ を おぼえる",
-    "romaji": "yuugure o oboeru"
+    "kana": "ゆうぐれ に ともだち と あう",
+    "romaji": "yuugure ni tomodachi to au"
   },
   "jlpt-n1-外相-1075": {
-    "kana": "がいしょう を おぼえる",
-    "romaji": "gaishou o oboeru"
+    "kana": "その けいけん から がいしょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gaishou no taisetsu sa o shi ta"
   },
   "jlpt-n1-多様-421": {
-    "kana": "たよう を おぼえる",
-    "romaji": "tayou o oboeru"
+    "kana": "この もんだい に わ たよう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tayou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-夜中-108": {
-    "kana": "やちゅう を おぼえる",
-    "romaji": "yachuu o oboeru"
+    "kana": "やちゅう に ともだち と あう",
+    "romaji": "yachuu ni tomodachi to au"
   },
   "jlpt-n1-夜行-1189": {
-    "kana": "やこう を おぼえる",
-    "romaji": "yakou o oboeru"
+    "kana": "やこう に ともだち と あう",
+    "romaji": "yakou ni tomodachi to au"
   },
   "jlpt-n1-大事-702": {
-    "kana": "だいじ を おぼえる",
-    "romaji": "daiji o oboeru"
+    "kana": "だいじ な ばしょ で しずか に やすん だ",
+    "romaji": "daiji na basho de shizuka ni yasun da"
   },
   "jlpt-n1-大幅-863": {
-    "kana": "おおはば を おぼえる",
-    "romaji": "oohaba o oboeru"
+    "kana": "この もんだい に わ おおはば が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oohaba ga fukaku kankei shi te iru"
   },
   "jlpt-n1-大方-585": {
-    "kana": "おおかた を おぼえる",
-    "romaji": "ookata o oboeru"
+    "kana": "おおかた あした わ あめ に なる",
+    "romaji": "ookata ashita wa ame ni naru"
   },
   "jlpt-n1-大水-88": {
-    "kana": "おおみず を おぼえる",
-    "romaji": "oomizu o oboeru"
+    "kana": "じゅぎょう で おおみず を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de oomizu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-大筋-136": {
-    "kana": "おおすじ を おぼえる",
-    "romaji": "oosuji o oboeru"
+    "kana": "この もんだい に わ おおすじ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oosuji ga fukaku kankei shi te iru"
   },
   "jlpt-n1-大胆-106": {
-    "kana": "だいたん を おぼえる",
-    "romaji": "daitan o oboeru"
+    "kana": "この もんだい に わ だいたん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa daitan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-大衆-192": {
-    "kana": "たいしゅう を おぼえる",
-    "romaji": "taishuu o oboeru"
+    "kana": "この もんだい に わ たいしゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa taishuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-大部-235": {
-    "kana": "たいぶ を おぼえる",
-    "romaji": "taibu o oboeru"
+    "kana": "じゅぎょう で たいぶ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taibu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-大金-597": {
-    "kana": "たいきん を おぼえる",
-    "romaji": "taikin o oboeru"
+    "kana": "その けいけん から たいきん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara taikin no taisetsu sa o shi ta"
   },
   "jlpt-n1-天-991": {
-    "kana": "てん を おぼえる",
-    "romaji": "ten o oboeru"
+    "kana": "じゅぎょう で てん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ten o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-天地-837": {
-    "kana": "てんち を おぼえる",
-    "romaji": "tenchi o oboeru"
+    "kana": "この もんだい に わ てんち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tenchi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-天才-330": {
-    "kana": "てんさい を おぼえる",
-    "romaji": "tensai o oboeru"
+    "kana": "この もんだい に わ てんさい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tensai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-失調-990": {
-    "kana": "しっちょう を おぼえる",
-    "romaji": "shitchou o oboeru"
+    "kana": "じゅぎょう で しっちょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shitchou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-奇数-1266": {
-    "kana": "きすう を おぼえる",
-    "romaji": "kisuu o oboeru"
+    "kana": "こたえ わ きすう です",
+    "romaji": "kotae wa kisuu desu"
   },
   "jlpt-n1-奇麗-737": {
-    "kana": "きれい を おぼえる",
-    "romaji": "kirei o oboeru"
+    "kana": "この もんだい わ すこし きれい",
+    "romaji": "kono mondai wa sukoshi kirei"
   },
   "jlpt-n1-契る-355": {
-    "kana": "ちぎる を おぼえる",
-    "romaji": "chigiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ちぎる",
+    "romaji": "sensei no mae de ochitsui te chigiru"
   },
   "jlpt-n1-奨励-225": {
-    "kana": "しょうれい を おぼえる",
-    "romaji": "shourei o oboeru"
+    "kana": "この もんだい に わ しょうれい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shourei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-奮闘-320": {
-    "kana": "ふんとう を おぼえる",
-    "romaji": "funtou o oboeru"
+    "kana": "この もんだい に わ ふんとう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa funtou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-女史-429": {
-    "kana": "じょし を おぼえる",
-    "romaji": "joshi o oboeru"
+    "kana": "じゅぎょう で じょし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de joshi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-好意-1208": {
-    "kana": "こうい を おぼえる",
-    "romaji": "koui o oboeru"
+    "kana": "この もんだい に わ こうい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koui ga fukaku kankei shi te iru"
   },
   "jlpt-n1-好況-89": {
-    "kana": "こうきょう を おぼえる",
-    "romaji": "koukyou o oboeru"
+    "kana": "きょう わ くうき が とても こうきょう",
+    "romaji": "kyou wa kuuki ga totemo koukyou"
   },
   "jlpt-n1-如何して-846": {
-    "kana": "いか し て を おぼえる",
-    "romaji": "ika shi te o oboeru"
+    "kana": "この もんだい に わ いか し て が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ika shi te ga fukaku kankei shi te iru"
   },
   "jlpt-n1-如何に-746": {
-    "kana": "いかに を おぼえる",
-    "romaji": "ikani o oboeru"
+    "kana": "じゅぎょう で いかに を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ikani o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-如何にも-101": {
-    "kana": "いかにも を おぼえる",
-    "romaji": "ikanimo o oboeru"
+    "kana": "この もんだい に わ いかにも が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ikanimo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-妥結-1130": {
-    "kana": "だけつ を おぼえる",
-    "romaji": "daketsu o oboeru"
+    "kana": "かれ の いけん に だけつ だ",
+    "romaji": "kare no iken ni daketsu da"
   },
   "jlpt-n1-妬む-194": {
-    "kana": "ねたむ を おぼえる",
-    "romaji": "netamu o oboeru"
+    "kana": "しっぱい し て も もういちど ねたむ",
+    "romaji": "shippai shi te mo mouichido netamu"
   },
   "jlpt-n1-始末-347": {
-    "kana": "しまつ を おぼえる",
-    "romaji": "shimatsu o oboeru"
+    "kana": "その けいけん から しまつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shimatsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-始発-805": {
-    "kana": "しはつ を おぼえる",
-    "romaji": "shihatsu o oboeru"
+    "kana": "じゅぎょう で しはつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shihatsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-婉曲-704": {
-    "kana": "えんきょく を おぼえる",
-    "romaji": "enkyoku o oboeru"
+    "kana": "じゅぎょう で えんきょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de enkyoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-嫉妬-729": {
-    "kana": "しっと を おぼえる",
-    "romaji": "shitto o oboeru"
+    "kana": "この もんだい に わ しっと が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shitto ga fukaku kankei shi te iru"
   },
   "jlpt-n1-嬢-406": {
-    "kana": "じょう を おぼえる",
-    "romaji": "jou o oboeru"
+    "kana": "じょう に みち を たずね た",
+    "romaji": "jou ni michi o tazune ta"
   },
   "jlpt-n1-字-727": {
-    "kana": "じ を おぼえる",
-    "romaji": "ji o oboeru"
+    "kana": "じ で ともだち を まっ た",
+    "romaji": "ji de tomodachi o ma ta"
   },
   "jlpt-n1-字体-631": {
-    "kana": "じたい を おぼえる",
-    "romaji": "jitai o oboeru"
+    "kana": "この もんだい に わ じたい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jitai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-季刊-1060": {
-    "kana": "きかん を おぼえる",
-    "romaji": "kikan o oboeru"
+    "kana": "じゅぎょう で きかん を こえ に だし て よん だ",
+    "romaji": "jugyou de kikan o koe ni dashi te yon da"
   },
   "jlpt-n1-孤独-1064": {
-    "kana": "こどく を おぼえる",
-    "romaji": "kodoku o oboeru"
+    "kana": "その けいけん から こどく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kodoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-守備-358": {
-    "kana": "しゅび を おぼえる",
-    "romaji": "shubi o oboeru"
+    "kana": "その けいけん から しゅび の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shubi no taisetsu sa o shi ta"
   },
   "jlpt-n1-安っぽい-933": {
-    "kana": "やすっぽい を おぼえる",
-    "romaji": "yasuppoi o oboeru"
+    "kana": "じゅぎょう で やすっぽい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yasuppoi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-安静-963": {
-    "kana": "あんせい を おぼえる",
-    "romaji": "ansei o oboeru"
+    "kana": "その けいけん から あんせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ansei no taisetsu sa o shi ta"
   },
   "jlpt-n1-定まる-1014": {
-    "kana": "さだまる を おぼえる",
-    "romaji": "sadamaru o oboeru"
+    "kana": "しずか な まち に へんか が さだまる",
+    "romaji": "shizuka na machi ni henka ga sadamaru"
   },
   "jlpt-n1-定める-1126": {
-    "kana": "さだめる を おぼえる",
-    "romaji": "sadameru o oboeru"
+    "kana": "こたえ を だす まえ に よく さだめる",
+    "romaji": "kotae o dasu mae ni yoku sadameru"
   },
   "jlpt-n1-宛-783": {
-    "kana": "あて を おぼえる",
-    "romaji": "ate o oboeru"
+    "kana": "この もんだい に わ あて が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ate ga fukaku kankei shi te iru"
   },
   "jlpt-n1-宝器-209": {
-    "kana": "たから き を おぼえる",
-    "romaji": "takara ki o oboeru"
+    "kana": "じゅぎょう で たから き を こえ に だし て よん だ",
+    "romaji": "jugyou de takara ki o koe ni dashi te yon da"
   },
   "jlpt-n1-実業家-305": {
-    "kana": "じつぎょう か を おぼえる",
-    "romaji": "jitsugyou ka o oboeru"
+    "kana": "この もんだい に わ じつぎょう か が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jitsugyou ka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-実質-231": {
-    "kana": "じっしつ を おぼえる",
-    "romaji": "jisshitsu o oboeru"
+    "kana": "この もんだい に わ じっしつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jisshitsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-害する-1077": {
-    "kana": "がいする を おぼえる",
-    "romaji": "gaisuru o oboeru"
+    "kana": "ひつよう な とき に すぐ がいする",
+    "romaji": "hitsuyou na toki ni sugu gaisuru"
   },
   "jlpt-n1-家主-599": {
-    "kana": "やぬし を おぼえる",
-    "romaji": "yanushi o oboeru"
+    "kana": "この もんだい に わ やぬし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yanushi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-家畜-728": {
-    "kana": "かちく を おぼえる",
-    "romaji": "kachiku o oboeru"
+    "kana": "かいぎ で かちく について はなしあっ た",
+    "romaji": "kaigi de kachiku nitsuite hanashia ta"
   },
   "jlpt-n1-家計-237": {
-    "kana": "かけい を おぼえる",
-    "romaji": "kakei o oboeru"
+    "kana": "この もんだい に わ かけい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kakei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-容易い-1258": {
-    "kana": "たやすい を おぼえる",
-    "romaji": "tayasui o oboeru"
+    "kana": "この もんだい わ すこし たやすい",
+    "romaji": "kono mondai wa sukoshi tayasui"
   },
   "jlpt-n1-宿命-1278": {
-    "kana": "しゅくめい を おぼえる",
-    "romaji": "shukumei o oboeru"
+    "kana": "じゅぎょう で しゅくめい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shukumei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-寄こす-758": {
-    "kana": "よこす を おぼえる",
-    "romaji": "yokosu o oboeru"
+    "kana": "ともだち に にもつ を よこす",
+    "romaji": "tomodachi ni nimotsu o yokosu"
   },
   "jlpt-n1-密接-438": {
-    "kana": "みっせつ を おぼえる",
-    "romaji": "missetsu o oboeru"
+    "kana": "その けいけん から みっせつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara missetsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-密集-818": {
-    "kana": "みっしゅう を おぼえる",
-    "romaji": "misshuu o oboeru"
+    "kana": "その けいけん から みっしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara misshuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-富豪-669": {
-    "kana": "ふごう を おぼえる",
-    "romaji": "fugou o oboeru"
+    "kana": "ふごう に みち を たずね た",
+    "romaji": "fugou ni michi o tazune ta"
   },
   "jlpt-n1-寝かせる-824": {
-    "kana": "ねかせる を おぼえる",
-    "romaji": "nekaseru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ねかせる",
+    "romaji": "sensei no mae de ochitsui te nekaseru"
   },
   "jlpt-n1-察する-120": {
-    "kana": "さっ する を おぼえる",
-    "romaji": "sa suru o oboeru"
+    "kana": "ひつよう な とき に すぐ さっする",
+    "romaji": "hitsuyou na toki ni sugu sassuru"
   },
   "jlpt-n1-審査-126": {
-    "kana": "しんさ を おぼえる",
-    "romaji": "shinsa o oboeru"
+    "kana": "その けいけん から しんさ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinsa no taisetsu sa o shi ta"
   },
   "jlpt-n1-審議-980": {
-    "kana": "しんぎ を おぼえる",
-    "romaji": "shingi o oboeru"
+    "kana": "じゅぎょう で しんぎ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shingi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-対して-1104": {
-    "kana": "たいし て を おぼえる",
-    "romaji": "taishi te o oboeru"
+    "kana": "その けいけん から たいし て の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara taishi te no taisetsu sa o shi ta"
   },
   "jlpt-n1-対比-756": {
-    "kana": "たいひ を おぼえる",
-    "romaji": "taihi o oboeru"
+    "kana": "かいぎ で たいひ について はなしあっ た",
+    "romaji": "kaigi de taihi nitsuite hanashia ta"
   },
   "jlpt-n1-対等-691": {
-    "kana": "たいとう を おぼえる",
-    "romaji": "taitou o oboeru"
+    "kana": "その けいけん から たいとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara taitou no taisetsu sa o shi ta"
   },
   "jlpt-n1-専修-161": {
-    "kana": "せんしゅう を おぼえる",
-    "romaji": "senshuu o oboeru"
+    "kana": "かいぎ で せんしゅう について はなしあっ た",
+    "romaji": "kaigi de senshuu nitsuite hanashia ta"
   },
   "jlpt-n1-専用-864": {
-    "kana": "せんよう を おぼえる",
-    "romaji": "sen'you o oboeru"
+    "kana": "かいぎ で せんよう について はなしあっ た",
+    "romaji": "kaigi de sen'you nitsuite hanashia ta"
   },
   "jlpt-n1-導く-822": {
-    "kana": "みちびく を おぼえる",
-    "romaji": "michibiku o oboeru"
+    "kana": "せんせい の まえ で おちつい て みちびく",
+    "romaji": "sensei no mae de ochitsui te michibiku"
   },
   "jlpt-n1-尚-871": {
-    "kana": "なお を おぼえる",
-    "romaji": "nao o oboeru"
+    "kana": "かいぎ で なお について はなしあっ た",
+    "romaji": "kaigi de nao nitsuite hanashia ta"
   },
   "jlpt-n1-尻尾-634": {
-    "kana": "しっぽ を おぼえる",
-    "romaji": "shippo o oboeru"
+    "kana": "じゅぎょう で しっぽ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shippo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-尽くす-1242": {
-    "kana": "つくす を おぼえる",
-    "romaji": "tsukusu o oboeru"
+    "kana": "せんせい の まえ で おちつい て つくす",
+    "romaji": "sensei no mae de ochitsui te tsukusu"
   },
   "jlpt-n1-尾-1128": {
-    "kana": "お を おぼえる",
-    "romaji": "o o oboeru"
+    "kana": "その けいけん から お の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara o no taisetsu sa o shi ta"
   },
   "jlpt-n1-尿-497": {
-    "kana": "にょう を おぼえる",
-    "romaji": "nyou o oboeru"
+    "kana": "その けいけん から にょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-局限-627": {
-    "kana": "きょくげん を おぼえる",
-    "romaji": "kyokugen o oboeru"
+    "kana": "じゅぎょう で きょくげん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyokugen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-屈折-234": {
-    "kana": "くっせつ を おぼえる",
-    "romaji": "kussetsu o oboeru"
+    "kana": "この もんだい に わ くっせつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kussetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-届け-684": {
-    "kana": "とどけ を おぼえる",
-    "romaji": "todoke o oboeru"
+    "kana": "かいぎ で とどけ について はなしあっ た",
+    "romaji": "kaigi de todoke nitsuite hanashia ta"
   },
   "jlpt-n1-屡-693": {
-    "kana": "しばしば を おぼえる",
-    "romaji": "shibashiba o oboeru"
+    "kana": "しばしば この みせ に くる",
+    "romaji": "shibashiba kono mise ni kuru"
   },
   "jlpt-n1-山腹-446": {
-    "kana": "さんぷく を おぼえる",
-    "romaji": "sanpuku o oboeru"
+    "kana": "じゅぎょう で さんぷく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sanpuku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-岩石-1135": {
-    "kana": "がんせき を おぼえる",
-    "romaji": "ganseki o oboeru"
+    "kana": "じゅぎょう で がんせき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ganseki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-崇拝-498": {
-    "kana": "すうはい を おぼえる",
-    "romaji": "suuhai o oboeru"
+    "kana": "この もんだい に わ すうはい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa suuhai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-嵩張る-524": {
-    "kana": "かさばる を おぼえる",
-    "romaji": "kasabaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かさばる",
+    "romaji": "sensei no mae de ochitsui te kasabaru"
   },
   "jlpt-n1-工作-953": {
-    "kana": "こうさく を おぼえる",
-    "romaji": "kousaku o oboeru"
+    "kana": "じゅぎょう で こうさく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kousaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-左様なら-1187": {
-    "kana": "さよう なら を おぼえる",
-    "romaji": "sayou nara o oboeru"
+    "kana": "じゅぎょう で さよう なら を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sayou nara o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-巧み-803": {
-    "kana": "たくみ を おぼえる",
-    "romaji": "takumi o oboeru"
+    "kana": "この もんだい に わ たくみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa takumi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-巧妙-158": {
-    "kana": "こうみょう を おぼえる",
-    "romaji": "koumyou o oboeru"
+    "kana": "この へや わ おもっ た より こうみょう",
+    "romaji": "kono heya wa omo ta yori koumyou"
   },
   "jlpt-n1-差し支える-732": {
-    "kana": "さしつかえる を おぼえる",
-    "romaji": "sashitsukaeru o oboeru"
+    "kana": "しっぱい し て も もういちど さしつかえる",
+    "romaji": "shippai shi te mo mouichido sashitsukaeru"
   },
   "jlpt-n1-巻-1150": {
-    "kana": "まき を おぼえる",
-    "romaji": "maki o oboeru"
+    "kana": "かいぎ で まき について はなしあっ た",
+    "romaji": "kaigi de maki nitsuite hanashia ta"
   },
   "jlpt-n1-布巾-99": {
-    "kana": "ふきん を おぼえる",
-    "romaji": "fukin o oboeru"
+    "kana": "しょくご に ふきん を のん だ",
+    "romaji": "shokugo ni fukin o non da"
   },
   "jlpt-n1-帳-1196": {
-    "kana": "とばり を おぼえる",
-    "romaji": "tobari o oboeru"
+    "kana": "じゅぎょう で とばり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tobari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-幕-430": {
-    "kana": "まく を おぼえる",
-    "romaji": "maku o oboeru"
+    "kana": "その けいけん から まく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara maku no taisetsu sa o shi ta"
   },
   "jlpt-n1-平たい-1058": {
-    "kana": "ひらたい を おぼえる",
-    "romaji": "hiratai o oboeru"
+    "kana": "かいぎ で ひらたい について はなしあっ た",
+    "romaji": "kaigi de hiratai nitsuite hanashia ta"
   },
   "jlpt-n1-平常-1121": {
-    "kana": "へいじょう を おぼえる",
-    "romaji": "heijou o oboeru"
+    "kana": "その けいけん から へいじょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara heijou no taisetsu sa o shi ta"
   },
   "jlpt-n1-年生-181": {
-    "kana": "とし せい を おぼえる",
-    "romaji": "toshi sei o oboeru"
+    "kana": "とし せい わ いえ で べんきょう し た",
+    "romaji": "toshi sei wa ie de benkyou shi ta"
   },
   "jlpt-n1-年頃-1033": {
-    "kana": "としごろ を おぼえる",
-    "romaji": "toshigoro o oboeru"
+    "kana": "この もんだい に わ としごろ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa toshigoro ga fukaku kankei shi te iru"
   },
   "jlpt-n1-幹-1013": {
-    "kana": "みき を おぼえる",
-    "romaji": "miki o oboeru"
+    "kana": "みき が まど の そと に みえる",
+    "romaji": "miki ga mado no soto ni mieru"
   },
   "jlpt-n1-幹部-755": {
-    "kana": "かんぶ を おぼえる",
-    "romaji": "kanbu o oboeru"
+    "kana": "この もんだい に わ かんぶ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanbu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-幽霊-716": {
-    "kana": "ゆうれい を おぼえる",
-    "romaji": "yuurei o oboeru"
+    "kana": "その けいけん から ゆうれい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yuurei no taisetsu sa o shi ta"
   },
   "jlpt-n1-広まる-578": {
-    "kana": "ひろまる を おぼえる",
-    "romaji": "hiromaru o oboeru"
+    "kana": "しっぱい し て も もういちど ひろまる",
+    "romaji": "shippai shi te mo mouichido hiromaru"
   },
   "jlpt-n1-店-31": {
-    "kana": "みせ を おぼえる",
-    "romaji": "mise o oboeru"
+    "kana": "かいぎ で みせ について はなしあっ た",
+    "romaji": "kaigi de mise nitsuite hanashia ta"
   },
   "jlpt-n1-度忘れ-75": {
-    "kana": "どわすれ を おぼえる",
-    "romaji": "dowasure o oboeru"
+    "kana": "じゅぎょう で どわすれ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dowasure o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-庶務-1165": {
-    "kana": "しょむ を おぼえる",
-    "romaji": "shomu o oboeru"
+    "kana": "じゅぎょう で しょむ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shomu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-庶民-328": {
-    "kana": "しょみん を おぼえる",
-    "romaji": "shomin o oboeru"
+    "kana": "じゅぎょう で しょみん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shomin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-廃れる-558": {
-    "kana": "すたれる を おぼえる",
-    "romaji": "sutareru o oboeru"
+    "kana": "じゅぎょう の あと えき え すたれる",
+    "romaji": "jugyou no ato eki e sutareru"
   },
   "jlpt-n1-廃棄-1211": {
-    "kana": "はいき を おぼえる",
-    "romaji": "haiki o oboeru"
+    "kana": "じゅぎょう で はいき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-廃止-1133": {
-    "kana": "はいし を おぼえる",
-    "romaji": "haishi o oboeru"
+    "kana": "その けいけん から はいし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara haishi no taisetsu sa o shi ta"
   },
   "jlpt-n1-延いては-1235": {
-    "kana": "のべ い て わ を おぼえる",
-    "romaji": "nobe i te wa o oboeru"
+    "kana": "じゅぎょう で のべ い て わ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nobe i te wa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-弁論-974": {
-    "kana": "べんろん を おぼえる",
-    "romaji": "benron o oboeru"
+    "kana": "この もんだい に わ べんろん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa benron ga fukaku kankei shi te iru"
   },
   "jlpt-n1-弁護-569": {
-    "kana": "べんご を おぼえる",
-    "romaji": "bengo o oboeru"
+    "kana": "じゅぎょう で べんご を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bengo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-弓-624": {
-    "kana": "ゆみ を おぼえる",
-    "romaji": "yumi o oboeru"
+    "kana": "かいぎ で ゆみ について はなしあっ た",
+    "romaji": "kaigi de yumi nitsuite hanashia ta"
   },
   "jlpt-n1-引き上げる-776": {
-    "kana": "ひきあげる を おぼえる",
-    "romaji": "hikiageru o oboeru"
+    "kana": "あぶない と おもっ たら すぐ ひきあげる",
+    "romaji": "abunai to omo tara sugu hikiageru"
   },
   "jlpt-n1-引き下げる-676": {
-    "kana": "ひきさげる を おぼえる",
-    "romaji": "hikisageru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に ひきさげる",
+    "romaji": "dougu o tsuka te teinei ni hikisageru"
   },
   "jlpt-n1-引き受ける-325": {
-    "kana": "ひきうける を おぼえる",
-    "romaji": "hikiukeru o oboeru"
+    "kana": "ひつよう な とき に すぐ ひきうける",
+    "romaji": "hitsuyou na toki ni sugu hikiukeru"
   },
   "jlpt-n1-弛み-255": {
-    "kana": "ゆるみ を おぼえる",
-    "romaji": "yurumi o oboeru"
+    "kana": "かいぎ で ゆるみ について はなしあっ た",
+    "romaji": "kaigi de yurumi nitsuite hanashia ta"
   },
   "jlpt-n1-弛む-1166": {
-    "kana": "たるむ を おぼえる",
-    "romaji": "tarumu o oboeru"
+    "kana": "せんせい の まえ で おちつい て たるむ",
+    "romaji": "sensei no mae de ochitsui te tarumu"
   },
   "jlpt-n1-弟-1179": {
-    "kana": "おとうと を おぼえる",
-    "romaji": "otouto o oboeru"
+    "kana": "おとうと に みち を たずね た",
+    "romaji": "otouto ni michi o tazune ta"
   },
   "jlpt-n1-弱まる-876": {
-    "kana": "よわまる を おぼえる",
-    "romaji": "yowamaru o oboeru"
+    "kana": "ひつよう な とき に すぐ よわまる",
+    "romaji": "hitsuyou na toki ni sugu yowamaru"
   },
   "jlpt-n1-強烈-1170": {
-    "kana": "きょうれつ を おぼえる",
-    "romaji": "kyouretsu o oboeru"
+    "kana": "この もんだい に わ きょうれつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyouretsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-強請る-832": {
-    "kana": "ねだる を おぼえる",
-    "romaji": "nedaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ねだる",
+    "romaji": "sensei no mae de ochitsui te nedaru"
   },
   "jlpt-n1-弾く-461": {
-    "kana": "ひく を おぼえる",
-    "romaji": "hiku o oboeru"
+    "kana": "ひつよう な とき に すぐ ひく",
+    "romaji": "hitsuyou na toki ni sugu hiku"
   },
   "jlpt-n1-当たり-361": {
-    "kana": "あたり を おぼえる",
-    "romaji": "atari o oboeru"
+    "kana": "じゅぎょう で あたり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de atari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-当て-1220": {
-    "kana": "あて を おぼえる",
-    "romaji": "ate o oboeru"
+    "kana": "つくえ の うえ に あて を おい た",
+    "romaji": "tsukue no ue ni ate o oi ta"
   },
   "jlpt-n1-当てはまる-1272": {
-    "kana": "あてはまる を おぼえる",
-    "romaji": "atehamaru o oboeru"
+    "kana": "しっぱい し て も もういちど あてはまる",
+    "romaji": "shippai shi te mo mouichido atehamaru"
   },
   "jlpt-n1-役職-444": {
-    "kana": "やくしょく を おぼえる",
-    "romaji": "yakushoku o oboeru"
+    "kana": "その けいけん から やくしょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yakushoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-彼の-12": {
-    "kana": "かれ の を おぼえる",
-    "romaji": "kare no o oboeru"
+    "kana": "じゅぎょう で かれ の を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kare no o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-彼方-1198": {
-    "kana": "かなた を おぼえる",
-    "romaji": "kanata o oboeru"
+    "kana": "その けいけん から かなた の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kanata no taisetsu sa o shi ta"
   },
   "jlpt-n1-彼方此方-9": {
-    "kana": "かなた 此 かた を おぼえる",
-    "romaji": "kanata 此 kata o oboeru"
+    "kana": "かいぎ で かなた 此 かた について はなしあっ た",
+    "romaji": "kaigi de kanata 此 kata nitsuite hanashia ta"
   },
   "jlpt-n1-彼此-710": {
-    "kana": "ひし を おぼえる",
-    "romaji": "hishi o oboeru"
+    "kana": "こたえ わ ひし です",
+    "romaji": "kotae wa hishi desu"
   },
   "jlpt-n1-待ち合わせ-868": {
-    "kana": "まちあわせ を おぼえる",
-    "romaji": "machiawase o oboeru"
+    "kana": "その けいけん から まちあわせ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara machiawase no taisetsu sa o shi ta"
   },
   "jlpt-n1-待ち望む-576": {
-    "kana": "まちのぞむ を おぼえる",
-    "romaji": "machinozomu o oboeru"
+    "kana": "まど の そと を じっと まちのぞむ",
+    "romaji": "mado no soto o jitto machinozomu"
   },
   "jlpt-n1-待ち遠しい-835": {
-    "kana": "まちどおしい を おぼえる",
-    "romaji": "machidooshii o oboeru"
+    "kana": "この もんだい に わ まちどおしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa machidooshii ga fukaku kankei shi te iru"
   },
   "jlpt-n1-待望-480": {
-    "kana": "たいぼう を おぼえる",
-    "romaji": "taibou o oboeru"
+    "kana": "じゅぎょう で たいぼう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taibou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-待遇-250": {
-    "kana": "たいぐう を おぼえる",
-    "romaji": "taiguu o oboeru"
+    "kana": "じゅぎょう で たいぐう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taiguu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-後悔-22": {
-    "kana": "こうかい を おぼえる",
-    "romaji": "koukai o oboeru"
+    "kana": "かいぎ で こうかい について はなしあっ た",
+    "romaji": "kaigi de koukai nitsuite hanashia ta"
   },
   "jlpt-n1-徒歩-34": {
-    "kana": "とほ を おぼえる",
-    "romaji": "toho o oboeru"
+    "kana": "その けいけん から とほ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara toho no taisetsu sa o shi ta"
   },
   "jlpt-n1-従来-532": {
-    "kana": "じゅうらい を おぼえる",
-    "romaji": "juurai o oboeru"
+    "kana": "じゅうらい え まっすぐ すすん だ",
+    "romaji": "juurai e massugu susun da"
   },
   "jlpt-n1-得点-274": {
-    "kana": "とくてん を おぼえる",
-    "romaji": "tokuten o oboeru"
+    "kana": "かいぎ で とくてん について はなしあっ た",
+    "romaji": "kaigi de tokuten nitsuite hanashia ta"
   },
   "jlpt-n1-御-283": {
-    "kana": "お を おぼえる",
-    "romaji": "o o oboeru"
+    "kana": "かいぎ で お について はなしあっ た",
+    "romaji": "kaigi de o nitsuite hanashia ta"
   },
   "jlpt-n1-御負け-791": {
-    "kana": "ご まけ を おぼえる",
-    "romaji": "go make o oboeru"
+    "kana": "かいぎ で ご まけ について はなしあっ た",
+    "romaji": "kaigi de go make nitsuite hanashia ta"
   },
   "jlpt-n1-微か-610": {
-    "kana": "かすか を おぼえる",
-    "romaji": "kasuka o oboeru"
+    "kana": "この もんだい に わ かすか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kasuka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-徹する-335": {
-    "kana": "てっ する を おぼえる",
-    "romaji": "te suru o oboeru"
+    "kana": "ひつよう な とき に すぐ てっする",
+    "romaji": "hitsuyou na toki ni sugu tessuru"
   },
   "jlpt-n1-心中-679": {
-    "kana": "しんじゅう を おぼえる",
-    "romaji": "shinjuu o oboeru"
+    "kana": "その けいけん から しんじゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinjuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-心掛け-63": {
-    "kana": "こころがけ を おぼえる",
-    "romaji": "kokorogake o oboeru"
+    "kana": "その けいけん から こころがけ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kokorogake no taisetsu sa o shi ta"
   },
   "jlpt-n1-心掛ける-937": {
-    "kana": "こころがける を おぼえる",
-    "romaji": "kokorogakeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て こころがける",
+    "romaji": "sensei no mae de ochitsui te kokorogakeru"
   },
   "jlpt-n1-心細い-926": {
-    "kana": "こころぼそい を おぼえる",
-    "romaji": "kokorobosoi o oboeru"
+    "kana": "その けいけん から こころぼそい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kokorobosoi no taisetsu sa o shi ta"
   },
   "jlpt-n1-志-750": {
-    "kana": "こころざし を おぼえる",
-    "romaji": "kokorozashi o oboeru"
+    "kana": "この もんだい に わ こころざし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kokorozashi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-志す-672": {
-    "kana": "こころざす を おぼえる",
-    "romaji": "kokorozasu o oboeru"
+    "kana": "しっぱい し て も もういちど こころざす",
+    "romaji": "shippai shi te mo mouichido kokorozasu"
   },
   "jlpt-n1-志望-190": {
-    "kana": "しぼう を おぼえる",
-    "romaji": "shibou o oboeru"
+    "kana": "その けいけん から しぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shibou no taisetsu sa o shi ta"
   },
   "jlpt-n1-忠告-56": {
-    "kana": "ちゅうこく を おぼえる",
-    "romaji": "chuukoku o oboeru"
+    "kana": "かいぎ で ちゅうこく について はなしあっ た",
+    "romaji": "kaigi de chuukoku nitsuite hanashia ta"
   },
   "jlpt-n1-忽ち-1247": {
-    "kana": "たちまち を おぼえる",
-    "romaji": "tachimachi o oboeru"
+    "kana": "かいぎ で たちまち について はなしあっ た",
+    "romaji": "kaigi de tachimachi nitsuite hanashia ta"
   },
   "jlpt-n1-怒り-1090": {
-    "kana": "いかり を おぼえる",
-    "romaji": "ikari o oboeru"
+    "kana": "じゅぎょう で いかり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ikari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-怒る-1039": {
-    "kana": "おこる を おぼえる",
-    "romaji": "okoru o oboeru"
+    "kana": "しっぱい し て も もういちど おこる",
+    "romaji": "shippai shi te mo mouichido okoru"
   },
   "jlpt-n1-思考-1114": {
-    "kana": "しこう を おぼえる",
-    "romaji": "shikou o oboeru"
+    "kana": "その けいけん から しこう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shikou no taisetsu sa o shi ta"
   },
   "jlpt-n1-怠い-1161": {
-    "kana": "おこた い を おぼえる",
-    "romaji": "okota i o oboeru"
+    "kana": "じゅぎょう で おこた い を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de okota i o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-怠慢-46": {
-    "kana": "たいまん を おぼえる",
-    "romaji": "taiman o oboeru"
+    "kana": "この もんだい に わ たいまん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa taiman ga fukaku kankei shi te iru"
   },
   "jlpt-n1-急かす-443": {
-    "kana": "きゅう かす を おぼえる",
-    "romaji": "kyuu kasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て せかす",
+    "romaji": "sensei no mae de ochitsui te sekasu"
   },
   "jlpt-n1-恋愛-1174": {
-    "kana": "れんあい を おぼえる",
-    "romaji": "ren'ai o oboeru"
+    "kana": "じゅぎょう で れんあい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ren'ai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-恐れ-1059": {
-    "kana": "おそれ を おぼえる",
-    "romaji": "osore o oboeru"
+    "kana": "じゅぎょう で おそれ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de osore o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-恥-307": {
-    "kana": "はじ を おぼえる",
-    "romaji": "haji o oboeru"
+    "kana": "じゅぎょう で はじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-恥じらう-605": {
-    "kana": "はじらう を おぼえる",
-    "romaji": "hajirau o oboeru"
+    "kana": "せんせい の まえ で おちつい て はじらう",
+    "romaji": "sensei no mae de ochitsui te hajirau"
   },
   "jlpt-n1-悪-816": {
-    "kana": "あく を おぼえる",
-    "romaji": "aku o oboeru"
+    "kana": "その けいけん から あく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara aku no taisetsu sa o shi ta"
   },
   "jlpt-n1-悪化-1262": {
-    "kana": "あっか を おぼえる",
-    "romaji": "akka o oboeru"
+    "kana": "その けいけん から あっか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara akka no taisetsu sa o shi ta"
   },
   "jlpt-n1-悪戯-1228": {
-    "kana": "あくぎ を おぼえる",
-    "romaji": "akugi o oboeru"
+    "kana": "じゅぎょう で いたずら を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de itazura o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-悪日-507": {
-    "kana": "あくび を おぼえる",
-    "romaji": "akubi o oboeru"
+    "kana": "あくび わ いえ で べんきょう し た",
+    "romaji": "akubi wa ie de benkyou shi ta"
   },
   "jlpt-n1-悲鳴-1065": {
-    "kana": "ひめい を おぼえる",
-    "romaji": "himei o oboeru"
+    "kana": "この もんだい に わ ひめい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa himei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-情熱-841": {
-    "kana": "じょうねつ を おぼえる",
-    "romaji": "jounetsu o oboeru"
+    "kana": "その けいけん から じょうねつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jounetsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-意向-167": {
-    "kana": "いこう を おぼえる",
-    "romaji": "ikou o oboeru"
+    "kana": "この もんだい に わ いこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ikou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-意図-221": {
-    "kana": "いと を おぼえる",
-    "romaji": "ito o oboeru"
+    "kana": "この もんだい に わ いと が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ito ga fukaku kankei shi te iru"
   },
   "jlpt-n1-意地-53": {
-    "kana": "いじ を おぼえる",
-    "romaji": "iji o oboeru"
+    "kana": "じゅぎょう で いじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de iji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-意気込む-1031": {
-    "kana": "いきごむ を おぼえる",
-    "romaji": "ikigomu o oboeru"
+    "kana": "せんせい の まえ で おちつい て いきごむ",
+    "romaji": "sensei no mae de ochitsui te ikigomu"
   },
   "jlpt-n1-愚か-359": {
-    "kana": "おろか を おぼえる",
-    "romaji": "oroka o oboeru"
+    "kana": "その けいけん から おろか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara oroka no taisetsu sa o shi ta"
   },
   "jlpt-n1-愛憎-212": {
-    "kana": "あいぞう を おぼえる",
-    "romaji": "aizou o oboeru"
+    "kana": "この もんだい に わ あいぞう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa aizou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-感染-373": {
-    "kana": "かんせん を おぼえる",
-    "romaji": "kansen o oboeru"
+    "kana": "じゅぎょう で かんせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kansen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-感触-1056": {
-    "kana": "かんしょく を おぼえる",
-    "romaji": "kanshoku o oboeru"
+    "kana": "じゅぎょう で かんしょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanshoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-態々-1204": {
-    "kana": "たい を おぼえる",
-    "romaji": "tai o oboeru"
+    "kana": "じゅぎょう で たい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-慌ただしい-484": {
-    "kana": "あわただしい を おぼえる",
-    "romaji": "awatadashii o oboeru"
+    "kana": "その けいけん から あわただしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara awatadashii no taisetsu sa o shi ta"
   },
   "jlpt-n1-慣らす-878": {
-    "kana": "ならす を おぼえる",
-    "romaji": "narasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て ならす",
+    "romaji": "sensei no mae de ochitsui te narasu"
   },
   "jlpt-n1-慣れ-975": {
-    "kana": "なれ を おぼえる",
-    "romaji": "nare o oboeru"
+    "kana": "かいぎ で なれ について はなしあっ た",
+    "romaji": "kaigi de nare nitsuite hanashia ta"
   },
   "jlpt-n1-慣例-1127": {
-    "kana": "かんれい を おぼえる",
-    "romaji": "kanrei o oboeru"
+    "kana": "じゅぎょう で かんれい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanrei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-慣習-1138": {
-    "kana": "かんしゅう を おぼえる",
-    "romaji": "kanshuu o oboeru"
+    "kana": "その けいけん から かんしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kanshuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-慣行-442": {
-    "kana": "かんこう を おぼえる",
-    "romaji": "kankou o oboeru"
+    "kana": "じゅぎょう で かんこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kankou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-憂鬱-426": {
-    "kana": "ゆううつ を おぼえる",
-    "romaji": "yuuutsu o oboeru"
+    "kana": "この もんだい に わ ゆううつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yuuutsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-憎しみ-456": {
-    "kana": "にくしみ を おぼえる",
-    "romaji": "nikushimi o oboeru"
+    "kana": "この もんだい に わ にくしみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nikushimi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-憤慨-275": {
-    "kana": "ふんがい を おぼえる",
-    "romaji": "fungai o oboeru"
+    "kana": "その けいけん から ふんがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara fungai no taisetsu sa o shi ta"
   },
   "jlpt-n1-懐く-133": {
-    "kana": "いだく を おぼえる",
-    "romaji": "idaku o oboeru"
+    "kana": "しずか な まち に へんか が いだく",
+    "romaji": "shizuka na machi ni henka ga idaku"
   },
   "jlpt-n1-成り立つ-1145": {
-    "kana": "なりたつ を おぼえる",
-    "romaji": "naritatsu o oboeru"
+    "kana": "ひつよう な とき に すぐ なりたつ",
+    "romaji": "hitsuyou na toki ni sugu naritatsu"
   },
   "jlpt-n1-成るべく-919": {
-    "kana": "なる べく を おぼえる",
-    "romaji": "naru beku o oboeru"
+    "kana": "しっぱい し て も もういちど なる べく",
+    "romaji": "shippai shi te mo mouichido naru beku"
   },
   "jlpt-n1-成熟-60": {
-    "kana": "せいじゅく を おぼえる",
-    "romaji": "seijuku o oboeru"
+    "kana": "かいぎ で せいじゅく について はなしあっ た",
+    "romaji": "kaigi de seijuku nitsuite hanashia ta"
   },
   "jlpt-n1-我がまま-760": {
-    "kana": "わがまま を おぼえる",
-    "romaji": "wagamama o oboeru"
+    "kana": "じゅぎょう で わがまま を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de wagamama o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-戦-362": {
-    "kana": "せん を おぼえる",
-    "romaji": "sen o oboeru"
+    "kana": "かいぎ で せん について はなしあっ た",
+    "romaji": "kaigi de sen nitsuite hanashia ta"
   },
   "jlpt-n1-戦術-1190": {
-    "kana": "せんじゅつ を おぼえる",
-    "romaji": "senjutsu o oboeru"
+    "kana": "じゅぎょう で せんじゅつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de senjutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-戸-149": {
-    "kana": "と を おぼえる",
-    "romaji": "to o oboeru"
+    "kana": "かいぎ で と について はなしあっ た",
+    "romaji": "kaigi de to nitsuite hanashia ta"
   },
   "jlpt-n1-所々-452": {
-    "kana": "ところどころ を おぼえる",
-    "romaji": "tokorodokoro o oboeru"
+    "kana": "かいぎ で ところどころ について はなしあっ た",
+    "romaji": "kaigi de tokorodokoro nitsuite hanashia ta"
   },
   "jlpt-n1-手分け-178": {
-    "kana": "てわけ を おぼえる",
-    "romaji": "tewake o oboeru"
+    "kana": "かいぎ で てわけ について はなしあっ た",
+    "romaji": "kaigi de tewake nitsuite hanashia ta"
   },
   "jlpt-n1-手当て-301": {
-    "kana": "てあて を おぼえる",
-    "romaji": "teate o oboeru"
+    "kana": "その けいけん から てあて の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara teate no taisetsu sa o shi ta"
   },
   "jlpt-n1-手数-366": {
-    "kana": "てすう を おぼえる",
-    "romaji": "tesuu o oboeru"
+    "kana": "こたえ わ てすう です",
+    "romaji": "kotae wa tesuu desu"
   },
   "jlpt-n1-手本-156": {
-    "kana": "てほん を おぼえる",
-    "romaji": "tehon o oboeru"
+    "kana": "その けいけん から てほん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tehon no taisetsu sa o shi ta"
   },
   "jlpt-n1-手軽-763": {
-    "kana": "てがる を おぼえる",
-    "romaji": "tegaru o oboeru"
+    "kana": "かいぎ で てがる について はなしあっ た",
+    "romaji": "kaigi de tegaru nitsuite hanashia ta"
   },
   "jlpt-n1-手近-838": {
-    "kana": "てぢか を おぼえる",
-    "romaji": "tejika o oboeru"
+    "kana": "じゅぎょう で てぢか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tejika o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-手遅れ-260": {
-    "kana": "ておくれ を おぼえる",
-    "romaji": "teokure o oboeru"
+    "kana": "かいぎ で ておくれ について はなしあっ た",
+    "romaji": "kaigi de teokure nitsuite hanashia ta"
   },
   "jlpt-n1-打ち合わせる-374": {
-    "kana": "うちあわ せる を おぼえる",
-    "romaji": "uchiawa seru o oboeru"
+    "kana": "ひつよう な とき に すぐ うちあわ せる",
+    "romaji": "hitsuyou na toki ni sugu uchiawa seru"
   },
   "jlpt-n1-打開-249": {
-    "kana": "だかい を おぼえる",
-    "romaji": "dakai o oboeru"
+    "kana": "じゅぎょう で だかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dakai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-承諾-1205": {
-    "kana": "しょうだく を おぼえる",
-    "romaji": "shoudaku o oboeru"
+    "kana": "その けいけん から しょうだく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shoudaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-技-540": {
-    "kana": "わざ を おぼえる",
-    "romaji": "waza o oboeru"
+    "kana": "この もんだい に わ わざ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa waza ga fukaku kankei shi te iru"
   },
   "jlpt-n1-把握-1270": {
-    "kana": "はあく を おぼえる",
-    "romaji": "haaku o oboeru"
+    "kana": "じゅぎょう で はあく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-抑制-1194": {
-    "kana": "よくせい を おぼえる",
-    "romaji": "yokusei o oboeru"
+    "kana": "かいぎ で よくせい について はなしあっ た",
+    "romaji": "kaigi de yokusei nitsuite hanashia ta"
   },
   "jlpt-n1-抑圧-409": {
-    "kana": "よくあつ を おぼえる",
-    "romaji": "yokuatsu o oboeru"
+    "kana": "その けいけん から よくあつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yokuatsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-投げ出す-239": {
-    "kana": "なげだす を おぼえる",
-    "romaji": "nagedasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て なげだす",
+    "romaji": "sensei no mae de ochitsui te nagedasu"
   },
   "jlpt-n1-投入-119": {
-    "kana": "とうにゅう を おぼえる",
-    "romaji": "tounyuu o oboeru"
+    "kana": "かいぎ で とうにゅう について はなしあっ た",
+    "romaji": "kaigi de tounyuu nitsuite hanashia ta"
   },
   "jlpt-n1-抗議-36": {
-    "kana": "こうぎ を おぼえる",
-    "romaji": "kougi o oboeru"
+    "kana": "その けいけん から こうぎ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kougi no taisetsu sa o shi ta"
   },
   "jlpt-n1-折り返す-353": {
-    "kana": "おりかえす を おぼえる",
-    "romaji": "orikaesu o oboeru"
+    "kana": "しっぱい し て も もういちど おりかえす",
+    "romaji": "shippai shi te mo mouichido orikaesu"
   },
   "jlpt-n1-折衷-533": {
-    "kana": "せっちゅう を おぼえる",
-    "romaji": "setchuu o oboeru"
+    "kana": "その けいけん から せっちゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara setchuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-押し寄せる-793": {
-    "kana": "おしよせる を おぼえる",
-    "romaji": "oshiyoseru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に おしよせる",
+    "romaji": "dougu o tsuka te teinei ni oshiyoseru"
   },
   "jlpt-n1-拐う-264": {
-    "kana": "さらう を おぼえる",
-    "romaji": "sarau o oboeru"
+    "kana": "ともだち に にもつ を さらう",
+    "romaji": "tomodachi ni nimotsu o sarau"
   },
   "jlpt-n1-持ち切り-206": {
-    "kana": "もちきり を おぼえる",
-    "romaji": "mochikiri o oboeru"
+    "kana": "この もんだい に わ もちきり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mochikiri ga fukaku kankei shi te iru"
   },
   "jlpt-n1-持て成す-677": {
-    "kana": "もてなす を おぼえる",
-    "romaji": "motenasu o oboeru"
+    "kana": "ひつよう な とき に すぐ もてなす",
+    "romaji": "hitsuyou na toki ni sugu motenasu"
   },
   "jlpt-n1-持続-293": {
-    "kana": "じぞく を おぼえる",
-    "romaji": "jizoku o oboeru"
+    "kana": "この もんだい に わ じぞく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jizoku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-指差す-1237": {
-    "kana": "ゆび さす を おぼえる",
-    "romaji": "yubi sasu o oboeru"
+    "kana": "しっぱい し て も もういちど ゆび さす",
+    "romaji": "shippai shi te mo mouichido yubi sasu"
   },
   "jlpt-n1-挑む-188": {
-    "kana": "いどむ を おぼえる",
-    "romaji": "idomu o oboeru"
+    "kana": "せんせい の まえ で おちつい て いどむ",
+    "romaji": "sensei no mae de ochitsui te idomu"
   },
   "jlpt-n1-挑戦-1249": {
-    "kana": "ちょうせん を おぼえる",
-    "romaji": "chousen o oboeru"
+    "kana": "その けいけん から ちょうせん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chousen no taisetsu sa o shi ta"
   },
   "jlpt-n1-振興-560": {
-    "kana": "しんこう を おぼえる",
-    "romaji": "shinkou o oboeru"
+    "kana": "その けいけん から しんこう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinkou no taisetsu sa o shi ta"
   },
   "jlpt-n1-捕吏-591": {
-    "kana": "ほり を おぼえる",
-    "romaji": "hori o oboeru"
+    "kana": "かいぎ で ほり について はなしあっ た",
+    "romaji": "kaigi de hori nitsuite hanashia ta"
   },
   "jlpt-n1-捕鯨-934": {
-    "kana": "ほげい を おぼえる",
-    "romaji": "hogei o oboeru"
+    "kana": "じゅぎょう で ほげい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hogei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-捗る-130": {
-    "kana": "はかどる を おぼえる",
-    "romaji": "hakadoru o oboeru"
+    "kana": "ひつよう な とき に すぐ はかどる",
+    "romaji": "hitsuyou na toki ni sugu hakadoru"
   },
   "jlpt-n1-捜索-671": {
-    "kana": "そうさく を おぼえる",
-    "romaji": "sousaku o oboeru"
+    "kana": "じゅぎょう で そうさく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sousaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-据える-482": {
-    "kana": "すえる を おぼえる",
-    "romaji": "sueru o oboeru"
+    "kana": "ひつよう な とき に すぐ すえる",
+    "romaji": "hitsuyou na toki ni sugu sueru"
   },
   "jlpt-n1-据え付ける-996": {
-    "kana": "すえつける を おぼえる",
-    "romaji": "suetsukeru o oboeru"
+    "kana": "ひつよう な とき に すぐ すえつける",
+    "romaji": "hitsuyou na toki ni sugu suetsukeru"
   },
   "jlpt-n1-排除-172": {
-    "kana": "はいじょ を おぼえる",
-    "romaji": "haijo o oboeru"
+    "kana": "じゅぎょう で はいじょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haijo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-採択-554": {
-    "kana": "さいたく を おぼえる",
-    "romaji": "saitaku o oboeru"
+    "kana": "じゅぎょう で さいたく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de saitaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-採掘-943": {
-    "kana": "さいくつ を おぼえる",
-    "romaji": "saikutsu o oboeru"
+    "kana": "この もんだい に わ さいくつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saikutsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-採決-954": {
-    "kana": "さいけつ を おぼえる",
-    "romaji": "saiketsu o oboeru"
+    "kana": "かいぎ で さいけつ について はなしあっ た",
+    "romaji": "kaigi de saiketsu nitsuite hanashia ta"
   },
   "jlpt-n1-接ぐ-1108": {
-    "kana": "つぐ を おぼえる",
-    "romaji": "tsugu o oboeru"
+    "kana": "ひつよう な とき に すぐ つぐ",
+    "romaji": "hitsuyou na toki ni sugu tsugu"
   },
   "jlpt-n1-控室-292": {
-    "kana": "ひかえしつ を おぼえる",
-    "romaji": "hikaeshitsu o oboeru"
+    "kana": "しゅうまつ に ひかえしつ え いっ た",
+    "romaji": "shuumatsu ni hikaeshitsu e i ta"
   },
   "jlpt-n1-推測-1010": {
-    "kana": "すいそく を おぼえる",
-    "romaji": "suisoku o oboeru"
+    "kana": "じゅぎょう で すいそく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de suisoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-措置-269": {
-    "kana": "そち を おぼえる",
-    "romaji": "sochi o oboeru"
+    "kana": "かいぎ で そち について はなしあっ た",
+    "romaji": "kaigi de sochi nitsuite hanashia ta"
   },
   "jlpt-n1-掲載-91": {
-    "kana": "けいさい を おぼえる",
-    "romaji": "keisai o oboeru"
+    "kana": "じゅぎょう で けいさい を こえ に だし て よん だ",
+    "romaji": "jugyou de keisai o koe ni dashi te yon da"
   },
   "jlpt-n1-提示-861": {
-    "kana": "ていじ を おぼえる",
-    "romaji": "teiji o oboeru"
+    "kana": "この もんだい に わ ていじ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa teiji ga fukaku kankei shi te iru"
   },
   "jlpt-n1-揶揄う-637": {
-    "kana": "やゆ う を おぼえる",
-    "romaji": "yayu u o oboeru"
+    "kana": "せんせい の まえ で おちつい て やゆ う",
+    "romaji": "sensei no mae de ochitsui te yayu u"
   },
   "jlpt-n1-揺さぶる-102": {
-    "kana": "ゆさぶる を おぼえる",
-    "romaji": "yusaburu o oboeru"
+    "kana": "せんせい の まえ で おちつい て ゆさぶる",
+    "romaji": "sensei no mae de ochitsui te yusaburu"
   },
   "jlpt-n1-損なう-1110": {
-    "kana": "そこなう を おぼえる",
-    "romaji": "sokonau o oboeru"
+    "kana": "せんせい の まえ で おちつい て そこなう",
+    "romaji": "sensei no mae de ochitsui te sokonau"
   },
   "jlpt-n1-操る-992": {
-    "kana": "あやつる を おぼえる",
-    "romaji": "ayatsuru o oboeru"
+    "kana": "ひつよう な とき に すぐ あやつる",
+    "romaji": "hitsuyou na toki ni sugu ayatsuru"
   },
   "jlpt-n1-擦る-1015": {
-    "kana": "こする を おぼえる",
-    "romaji": "kosuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て こする",
+    "romaji": "sensei no mae de ochitsui te kosuru"
   },
   "jlpt-n1-改悪-492": {
-    "kana": "かいあく を おぼえる",
-    "romaji": "kaiaku o oboeru"
+    "kana": "かいぎ で かいあく について はなしあっ た",
+    "romaji": "kaigi de kaiaku nitsuite hanashia ta"
   },
   "jlpt-n1-改良-904": {
-    "kana": "かいりょう を おぼえる",
-    "romaji": "kairyou o oboeru"
+    "kana": "かいぎ で かいりょう について はなしあっ た",
+    "romaji": "kaigi de kairyou nitsuite hanashia ta"
   },
   "jlpt-n1-放り出す-182": {
-    "kana": "ほうりだす を おぼえる",
-    "romaji": "houridasu o oboeru"
+    "kana": "ひつよう な とき に すぐ ほうりだす",
+    "romaji": "hitsuyou na toki ni sugu houridasu"
   },
   "jlpt-n1-放射能-740": {
-    "kana": "ほうしゃのう を おぼえる",
-    "romaji": "houshanou o oboeru"
+    "kana": "かいぎ で ほうしゃのう について はなしあっ た",
+    "romaji": "kaigi de houshanou nitsuite hanashia ta"
   },
   "jlpt-n1-放棄-564": {
-    "kana": "ほうき を おぼえる",
-    "romaji": "houki o oboeru"
+    "kana": "その けいけん から ほうき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara houki no taisetsu sa o shi ta"
   },
   "jlpt-n1-故-1146": {
-    "kana": "ゆえ を おぼえる",
-    "romaji": "yue o oboeru"
+    "kana": "じゅぎょう で ゆえ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yue o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-故人-439": {
-    "kana": "こじん を おぼえる",
-    "romaji": "kojin o oboeru"
+    "kana": "その けいけん から こじん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kojin no taisetsu sa o shi ta"
   },
   "jlpt-n1-敏感-413": {
-    "kana": "びんかん を おぼえる",
-    "romaji": "binkan o oboeru"
+    "kana": "この もんだい に わ びんかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa binkan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-教材-435": {
-    "kana": "きょうざい を おぼえる",
-    "romaji": "kyouzai o oboeru"
+    "kana": "その けいけん から きょうざい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyouzai no taisetsu sa o shi ta"
   },
   "jlpt-n1-教科-690": {
-    "kana": "きょうか を おぼえる",
-    "romaji": "kyouka o oboeru"
+    "kana": "じゅぎょう で きょうか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyouka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-教習-1213": {
-    "kana": "きょうしゅう を おぼえる",
-    "romaji": "kyoushuu o oboeru"
+    "kana": "その けいけん から きょうしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyoushuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-教職-1216": {
-    "kana": "きょうしょく を おぼえる",
-    "romaji": "kyoushoku o oboeru"
+    "kana": "かいぎ で きょうしょく について はなしあっ た",
+    "romaji": "kaigi de kyoushoku nitsuite hanashia ta"
   },
   "jlpt-n1-数詞-1210": {
-    "kana": "すうし を おぼえる",
-    "romaji": "suushi o oboeru"
+    "kana": "その けいけん から すうし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara suushi no taisetsu sa o shi ta"
   },
   "jlpt-n1-文化財-1253": {
-    "kana": "ぶんかざい を おぼえる",
-    "romaji": "bunkazai o oboeru"
+    "kana": "その けいけん から ぶんかざい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bunkazai no taisetsu sa o shi ta"
   },
   "jlpt-n1-文書-495": {
-    "kana": "ぶんしょ を おぼえる",
-    "romaji": "bunsho o oboeru"
+    "kana": "この もんだい に わ ぶんしょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bunsho ga fukaku kankei shi te iru"
   },
   "jlpt-n1-斑-386": {
-    "kana": "むら を おぼえる",
-    "romaji": "mura o oboeru"
+    "kana": "その けいけん から むら の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mura no taisetsu sa o shi ta"
   },
   "jlpt-n1-料-290": {
-    "kana": "りょう を おぼえる",
-    "romaji": "ryou o oboeru"
+    "kana": "じゅぎょう で りょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ryou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-断言-962": {
-    "kana": "だんげん を おぼえる",
-    "romaji": "dangen o oboeru"
+    "kana": "その けいけん から だんげん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dangen no taisetsu sa o shi ta"
   },
   "jlpt-n1-施設-279": {
-    "kana": "しせつ を おぼえる",
-    "romaji": "shisetsu o oboeru"
+    "kana": "じゅぎょう で しせつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shisetsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-旅客-995": {
-    "kana": "りょかく を おぼえる",
-    "romaji": "ryokaku o oboeru"
+    "kana": "かいぎ で りょかく について はなしあっ た",
+    "romaji": "kaigi de ryokaku nitsuite hanashia ta"
   },
   "jlpt-n1-日当-548": {
-    "kana": "にっとう を おぼえる",
-    "romaji": "nittou o oboeru"
+    "kana": "その けいけん から にっとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nittou no taisetsu sa o shi ta"
   },
   "jlpt-n1-日頃-1259": {
-    "kana": "ひごろ を おぼえる",
-    "romaji": "higoro o oboeru"
+    "kana": "じゅぎょう で ひごろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de higoro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-旧事-414": {
-    "kana": "きゅう こと を おぼえる",
-    "romaji": "kyuu koto o oboeru"
+    "kana": "かいぎ で きゅう こと について はなしあっ た",
+    "romaji": "kaigi de kyuu koto nitsuite hanashia ta"
   },
   "jlpt-n1-旧知-1116": {
-    "kana": "きゅうち を おぼえる",
-    "romaji": "kyuuchi o oboeru"
+    "kana": "きゅうち に みち を たずね た",
+    "romaji": "kyuuchi ni michi o tazune ta"
   },
   "jlpt-n1-早める-4": {
-    "kana": "はやめる を おぼえる",
-    "romaji": "hayameru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし はやめる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi hayameru"
   },
   "jlpt-n1-明かす-1221": {
-    "kana": "あかす を おぼえる",
-    "romaji": "akasu o oboeru"
+    "kana": "しっぱい し て も もういちど あかす",
+    "romaji": "shippai shi te mo mouichido akasu"
   },
   "jlpt-n1-明るい-795": {
-    "kana": "あかるい を おぼえる",
-    "romaji": "akarui o oboeru"
+    "kana": "この もんだい わ すこし あかるい",
+    "romaji": "kono mondai wa sukoshi akarui"
   },
   "jlpt-n1-明朗-1113": {
-    "kana": "めいろう を おぼえる",
-    "romaji": "meirou o oboeru"
+    "kana": "かいぎ で めいろう について はなしあっ た",
+    "romaji": "kaigi de meirou nitsuite hanashia ta"
   },
   "jlpt-n1-明白-270": {
-    "kana": "めいはく を おぼえる",
-    "romaji": "meihaku o oboeru"
+    "kana": "その けいけん から めいはく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara meihaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-明瞭-116": {
-    "kana": "めいりょう を おぼえる",
-    "romaji": "meiryou o oboeru"
+    "kana": "この もんだい に わ めいりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa meiryou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-映写-987": {
-    "kana": "えいしゃ を おぼえる",
-    "romaji": "eisha o oboeru"
+    "kana": "じゅぎょう で えいしゃ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de eisha o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-是正-1078": {
-    "kana": "ぜせい を おぼえる",
-    "romaji": "zesei o oboeru"
+    "kana": "この もんだい に わ ぜせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zesei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-時刻表-1001": {
-    "kana": "じこく ひょう を おぼえる",
-    "romaji": "jikoku hyou o oboeru"
+    "kana": "その けいけん から じこく ひょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jikoku hyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-時差-244": {
-    "kana": "じさ を おぼえる",
-    "romaji": "jisa o oboeru"
+    "kana": "かいぎ で じさ について はなしあっ た",
+    "romaji": "kaigi de jisa nitsuite hanashia ta"
   },
   "jlpt-n1-普遍-674": {
-    "kana": "ふへん を おぼえる",
-    "romaji": "fuhen o oboeru"
+    "kana": "かいぎ で ふへん について はなしあっ た",
+    "romaji": "kaigi de fuhen nitsuite hanashia ta"
   },
   "jlpt-n1-晴天-799": {
-    "kana": "せいてん を おぼえる",
-    "romaji": "seiten o oboeru"
+    "kana": "せいてん の おと で あさ に きづい た",
+    "romaji": "seiten no oto de asa ni kizui ta"
   },
   "jlpt-n1-暇-224": {
-    "kana": "ひま を おぼえる",
-    "romaji": "hima o oboeru"
+    "kana": "その けいけん から ひま の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hima no taisetsu sa o shi ta"
   },
   "jlpt-n1-暗殺-707": {
-    "kana": "あんさつ を おぼえる",
-    "romaji": "ansatsu o oboeru"
+    "kana": "かいぎ で あんさつ について はなしあっ た",
+    "romaji": "kaigi de ansatsu nitsuite hanashia ta"
   },
   "jlpt-n1-暗算-872": {
-    "kana": "あんざん を おぼえる",
-    "romaji": "anzan o oboeru"
+    "kana": "じゅぎょう で あんざん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de anzan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-暫く-1183": {
-    "kana": "しばらく を おぼえる",
-    "romaji": "shibaraku o oboeru"
+    "kana": "しっぱい し て も もういちど しばらく",
+    "romaji": "shippai shi te mo mouichido shibaraku"
   },
   "jlpt-n1-暴力-936": {
-    "kana": "ぼうりょく を おぼえる",
-    "romaji": "bouryoku o oboeru"
+    "kana": "その けいけん から ぼうりょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bouryoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-暴動-208": {
-    "kana": "ぼうどう を おぼえる",
-    "romaji": "boudou o oboeru"
+    "kana": "かいぎ で ぼうどう について はなしあっ た",
+    "romaji": "kaigi de boudou nitsuite hanashia ta"
   },
   "jlpt-n1-暴露-867": {
-    "kana": "ばくろ を おぼえる",
-    "romaji": "bakuro o oboeru"
+    "kana": "じゅぎょう で ばくろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bakuro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-曖昧-198": {
-    "kana": "あいまい を おぼえる",
-    "romaji": "aimai o oboeru"
+    "kana": "かいぎ で あいまい について はなしあっ た",
+    "romaji": "kaigi de aimai nitsuite hanashia ta"
   },
   "jlpt-n1-曲-552": {
-    "kana": "きょく を おぼえる",
-    "romaji": "kyoku o oboeru"
+    "kana": "この もんだい に わ きょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyoku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-書き取り-655": {
-    "kana": "かきとり を おぼえる",
-    "romaji": "kakitori o oboeru"
+    "kana": "その けいけん から かきとり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kakitori no taisetsu sa o shi ta"
   },
   "jlpt-n1-書き取る-614": {
-    "kana": "かきとる を おぼえる",
-    "romaji": "kakitoru o oboeru"
+    "kana": "のうと に なまえ を かきとる",
+    "romaji": "nouto ni namae o kakitoru"
   },
   "jlpt-n1-月日-1004": {
-    "kana": "つきひ を おぼえる",
-    "romaji": "tsukihi o oboeru"
+    "kana": "この もんだい に わ つきひ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsukihi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-月賦-587": {
-    "kana": "げっぷ を おぼえる",
-    "romaji": "geppu o oboeru"
+    "kana": "じゅぎょう で げっぷ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de geppu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-有りのまま-653": {
-    "kana": "あり の まま を おぼえる",
-    "romaji": "ari no mama o oboeru"
+    "kana": "かいぎ で あり の まま について はなしあっ た",
+    "romaji": "kaigi de ari no mama nitsuite hanashia ta"
   },
   "jlpt-n1-有力-115": {
-    "kana": "ゆうりょく を おぼえる",
-    "romaji": "yuuryoku o oboeru"
+    "kana": "じゅぎょう で ゆうりょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuuryoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-有様-1214": {
-    "kana": "ありさま を おぼえる",
-    "romaji": "arisama o oboeru"
+    "kana": "かいぎ で ありさま について はなしあっ た",
+    "romaji": "kaigi de arisama nitsuite hanashia ta"
   },
   "jlpt-n1-有機-1085": {
-    "kana": "ゆうき を おぼえる",
-    "romaji": "yuuki o oboeru"
+    "kana": "その けいけん から ゆうき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yuuki no taisetsu sa o shi ta"
   },
   "jlpt-n1-朝寝坊-146": {
-    "kana": "あさねぼう を おぼえる",
-    "romaji": "asanebou o oboeru"
+    "kana": "その けいけん から あさねぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara asanebou no taisetsu sa o shi ta"
   },
   "jlpt-n1-未-623": {
-    "kana": "ひつじ を おぼえる",
-    "romaji": "hitsuji o oboeru"
+    "kana": "ひつじ え まっすぐ すすん だ",
+    "romaji": "hitsuji e massugu susun da"
   },
   "jlpt-n1-未だ-1017": {
-    "kana": "いまだ を おぼえる",
-    "romaji": "imada o oboeru"
+    "kana": "この もんだい に わ いまだ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa imada ga fukaku kankei shi te iru"
   },
   "jlpt-n1-未婚-405": {
-    "kana": "みこん を おぼえる",
-    "romaji": "mikon o oboeru"
+    "kana": "この もんだい に わ みこん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mikon ga fukaku kankei shi te iru"
   },
   "jlpt-n1-未知-922": {
-    "kana": "みち を おぼえる",
-    "romaji": "michi o oboeru"
+    "kana": "その けいけん から みち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara michi no taisetsu sa o shi ta"
   },
   "jlpt-n1-未練-927": {
-    "kana": "みれん を おぼえる",
-    "romaji": "miren o oboeru"
+    "kana": "その けいけん から みれん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara miren no taisetsu sa o shi ta"
   },
   "jlpt-n1-末-1091": {
-    "kana": "すえ を おぼえる",
-    "romaji": "sue o oboeru"
+    "kana": "すえ え まっすぐ すすん だ",
+    "romaji": "sue e massugu susun da"
   },
   "jlpt-n1-本の-546": {
-    "kana": "ほん の を おぼえる",
-    "romaji": "hon no o oboeru"
+    "kana": "その けいけん から ほん の の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hon no no taisetsu sa o shi ta"
   },
   "jlpt-n1-本体-162": {
-    "kana": "ほんたい を おぼえる",
-    "romaji": "hontai o oboeru"
+    "kana": "かいぎ で ほんたい について はなしあっ た",
+    "romaji": "kaigi de hontai nitsuite hanashia ta"
   },
   "jlpt-n1-本名-78": {
-    "kana": "ほんみょう を おぼえる",
-    "romaji": "honmyou o oboeru"
+    "kana": "この もんだい に わ ほんみょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa honmyou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-本格-297": {
-    "kana": "ほんかく を おぼえる",
-    "romaji": "honkaku o oboeru"
+    "kana": "その けいけん から ほんかく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara honkaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-本気-199": {
-    "kana": "ほんき を おぼえる",
-    "romaji": "honki o oboeru"
+    "kana": "じゅぎょう で ほんき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de honki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-束縛-261": {
-    "kana": "そくばく を おぼえる",
-    "romaji": "sokubaku o oboeru"
+    "kana": "じゅぎょう で そくばく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sokubaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-条約-1062": {
-    "kana": "じょうやく を おぼえる",
-    "romaji": "jouyaku o oboeru"
+    "kana": "かいぎ で じょうやく について はなしあっ た",
+    "romaji": "kaigi de jouyaku nitsuite hanashia ta"
   },
   "jlpt-n1-杯-1283": {
-    "kana": "はい を おぼえる",
-    "romaji": "hai o oboeru"
+    "kana": "じゅぎょう で はい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-東-1140": {
-    "kana": "ひがし を おぼえる",
-    "romaji": "higashi o oboeru"
+    "kana": "ひがし え まっすぐ すすん だ",
+    "romaji": "higashi e massugu susun da"
   },
   "jlpt-n1-枚-1019": {
-    "kana": "まい を おぼえる",
-    "romaji": "mai o oboeru"
+    "kana": "この もんだい に わ まい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-果て-14": {
-    "kana": "はて を おぼえる",
-    "romaji": "hate o oboeru"
+    "kana": "その けいけん から はて の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hate no taisetsu sa o shi ta"
   },
   "jlpt-n1-果ない-580": {
-    "kana": "はて ない を おぼえる",
-    "romaji": "hate nai o oboeru"
+    "kana": "この へや わ おもっ た より はて ない",
+    "romaji": "kono heya wa omo ta yori hate nai"
   },
   "jlpt-n1-染める-29": {
-    "kana": "そめる を おぼえる",
-    "romaji": "someru o oboeru"
+    "kana": "せんせい の まえ で おちつい て そめる",
+    "romaji": "sensei no mae de ochitsui te someru"
   },
   "jlpt-n1-柔軟-1239": {
-    "kana": "じゅうなん を おぼえる",
-    "romaji": "juunan o oboeru"
+    "kana": "かいぎ で じゅうなん について はなしあっ た",
+    "romaji": "kaigi de juunan nitsuite hanashia ta"
   },
   "jlpt-n1-核-1265": {
-    "kana": "かく を おぼえる",
-    "romaji": "kaku o oboeru"
+    "kana": "この もんだい に わ かく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-根本-338": {
-    "kana": "こんぽん を おぼえる",
-    "romaji": "konpon o oboeru"
+    "kana": "この もんだい に わ こんぽん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa konpon ga fukaku kankei shi te iru"
   },
   "jlpt-n1-根気-1115": {
-    "kana": "こんき を おぼえる",
-    "romaji": "konki o oboeru"
+    "kana": "じゅぎょう で こんき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de konki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-格-318": {
-    "kana": "かく を おぼえる",
-    "romaji": "kaku o oboeru"
+    "kana": "その けいけん から かく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-栽培-299": {
-    "kana": "さいばい を おぼえる",
-    "romaji": "saibai o oboeru"
+    "kana": "かいぎ で さいばい について はなしあっ た",
+    "romaji": "kaigi de saibai nitsuite hanashia ta"
   },
   "jlpt-n1-案じる-1153": {
-    "kana": "あんじる を おぼえる",
-    "romaji": "anjiru o oboeru"
+    "kana": "しっぱい し て も もういちど あんじる",
+    "romaji": "shippai shi te mo mouichido anjiru"
   },
   "jlpt-n1-梅干-147": {
-    "kana": "うめぼし を おぼえる",
-    "romaji": "umeboshi o oboeru"
+    "kana": "かいぎ で うめぼし について はなしあっ た",
+    "romaji": "kaigi de umeboshi nitsuite hanashia ta"
   },
   "jlpt-n1-梢-508": {
-    "kana": "こずえ を おぼえる",
-    "romaji": "kozue o oboeru"
+    "kana": "かいぎ で こずえ について はなしあっ た",
+    "romaji": "kaigi de kozue nitsuite hanashia ta"
   },
   "jlpt-n1-梯子-381": {
-    "kana": "はしご を おぼえる",
-    "romaji": "hashigo o oboeru"
+    "kana": "その けいけん から はしご の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hashigo no taisetsu sa o shi ta"
   },
   "jlpt-n1-棄権-932": {
-    "kana": "きけん を おぼえる",
-    "romaji": "kiken o oboeru"
+    "kana": "かいぎ で きけん について はなしあっ た",
+    "romaji": "kaigi de kiken nitsuite hanashia ta"
   },
   "jlpt-n1-植わる-204": {
-    "kana": "うわる を おぼえる",
-    "romaji": "uwaru o oboeru"
+    "kana": "ひつよう な とき に すぐ うわる",
+    "romaji": "hitsuyou na toki ni sugu uwaru"
   },
   "jlpt-n1-業績-521": {
-    "kana": "ぎょうせき を おぼえる",
-    "romaji": "gyouseki o oboeru"
+    "kana": "この もんだい に わ ぎょうせき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gyouseki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-業者-20": {
-    "kana": "ぎょうしゃ を おぼえる",
-    "romaji": "gyousha o oboeru"
+    "kana": "かいぎ で ぎょうしゃ について はなしあっ た",
+    "romaji": "kaigi de gyousha nitsuite hanashia ta"
   },
   "jlpt-n1-極めて-1098": {
-    "kana": "きわめて を おぼえる",
-    "romaji": "kiwamete o oboeru"
+    "kana": "その けいけん から きわめて の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kiwamete no taisetsu sa o shi ta"
   },
   "jlpt-n1-極端-1232": {
-    "kana": "きょくたん を おぼえる",
-    "romaji": "kyokutan o oboeru"
+    "kana": "この もんだい に わ きょくたん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyokutan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-楽しむ-800": {
-    "kana": "たのしむ を おぼえる",
-    "romaji": "tanoshimu o oboeru"
+    "kana": "せんせい の まえ で おちつい て たのしむ",
+    "romaji": "sensei no mae de ochitsui te tanoshimu"
   },
   "jlpt-n1-楽譜-474": {
-    "kana": "がくふ を おぼえる",
-    "romaji": "gakufu o oboeru"
+    "kana": "じゅぎょう で がくふ を こえ に だし て よん だ",
+    "romaji": "jugyou de gakufu o koe ni dashi te yon da"
   },
   "jlpt-n1-概念-1276": {
-    "kana": "がいねん を おぼえる",
-    "romaji": "gainen o oboeru"
+    "kana": "じゅぎょう で がいねん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gainen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-様相-989": {
-    "kana": "ようそう を おぼえる",
-    "romaji": "yousou o oboeru"
+    "kana": "この もんだい に わ ようそう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yousou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-模倣-312": {
-    "kana": "もほう を おぼえる",
-    "romaji": "mohou o oboeru"
+    "kana": "かいぎ で もほう について はなしあっ た",
+    "romaji": "kaigi de mohou nitsuite hanashia ta"
   },
   "jlpt-n1-模範-110": {
-    "kana": "もはん を おぼえる",
-    "romaji": "mohan o oboeru"
+    "kana": "かいぎ で もはん について はなしあっ た",
+    "romaji": "kaigi de mohan nitsuite hanashia ta"
   },
   "jlpt-n1-権-765": {
-    "kana": "けん を おぼえる",
-    "romaji": "ken o oboeru"
+    "kana": "その けいけん から けん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ken no taisetsu sa o shi ta"
   },
   "jlpt-n1-権力-1231": {
-    "kana": "けんりょく を おぼえる",
-    "romaji": "kenryoku o oboeru"
+    "kana": "じゅぎょう で けんりょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kenryoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-横綱-118": {
-    "kana": "よこづな を おぼえる",
-    "romaji": "yokozuna o oboeru"
+    "kana": "じゅぎょう で よこづな を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yokozuna o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-樹木-853": {
-    "kana": "じゅもく を おぼえる",
-    "romaji": "jumoku o oboeru"
+    "kana": "じゅぎょう で じゅもく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jumoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-橋渡し-670": {
-    "kana": "はしわたし を おぼえる",
-    "romaji": "hashiwatashi o oboeru"
+    "kana": "じゅぎょう で はしわたし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hashiwatashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-檻-1141": {
-    "kana": "おり を おぼえる",
-    "romaji": "ori o oboeru"
+    "kana": "その けいけん から おり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ori no taisetsu sa o shi ta"
   },
   "jlpt-n1-欠乏-967": {
-    "kana": "けつぼう を おぼえる",
-    "romaji": "ketsubou o oboeru"
+    "kana": "じゅぎょう で けつぼう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ketsubou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-次-1151": {
-    "kana": "つぎ を おぼえる",
-    "romaji": "tsugi o oboeru"
+    "kana": "その けいけん から つぎ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tsugi no taisetsu sa o shi ta"
   },
   "jlpt-n1-次いで-887": {
-    "kana": "ついで を おぼえる",
-    "romaji": "tsuide o oboeru"
+    "kana": "この もんだい に わ ついで が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsuide ga fukaku kankei shi te iru"
   },
   "jlpt-n1-正常-81": {
-    "kana": "せいじょう を おぼえる",
-    "romaji": "seijou o oboeru"
+    "kana": "この もんだい に わ せいじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seijou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-正当-43": {
-    "kana": "せいとう を おぼえる",
-    "romaji": "seitou o oboeru"
+    "kana": "その けいけん から せいとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seitou no taisetsu sa o shi ta"
   },
   "jlpt-n1-正解-460": {
-    "kana": "せいかい を おぼえる",
-    "romaji": "seikai o oboeru"
+    "kana": "その けいけん から せいかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seikai no taisetsu sa o shi ta"
   },
   "jlpt-n1-此の-420": {
-    "kana": "此 の を おぼえる",
-    "romaji": "此 no o oboeru"
+    "kana": "この もんだい に わ 此 の が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa 此 no ga fukaku kankei shi te iru"
   },
   "jlpt-n1-此れ-241": {
-    "kana": "此 れ を おぼえる",
-    "romaji": "此 re o oboeru"
+    "kana": "その けいけん から 此 れ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 此 re no taisetsu sa o shi ta"
   },
   "jlpt-n1-武力-1132": {
-    "kana": "ぶりょく を おぼえる",
-    "romaji": "buryoku o oboeru"
+    "kana": "その けいけん から ぶりょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara buryoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-武装-1267": {
-    "kana": "ぶそう を おぼえる",
-    "romaji": "busou o oboeru"
+    "kana": "かいぎ で ぶそう について はなしあっ た",
+    "romaji": "kaigi de busou nitsuite hanashia ta"
   },
   "jlpt-n1-歩-628": {
-    "kana": "ふ を おぼえる",
-    "romaji": "fu o oboeru"
+    "kana": "かいぎ で ふ について はなしあっ た",
+    "romaji": "kaigi de fu nitsuite hanashia ta"
   },
   "jlpt-n1-歩む-383": {
-    "kana": "あゆむ を おぼえる",
-    "romaji": "ayumu o oboeru"
+    "kana": "あさ の こうえん を ゆっくり あゆむ",
+    "romaji": "asa no kouen o yukkuri ayumu"
   },
   "jlpt-n1-歯科-1053": {
-    "kana": "しか を おぼえる",
-    "romaji": "shika o oboeru"
+    "kana": "かいぎ で しか について はなしあっ た",
+    "romaji": "kaigi de shika nitsuite hanashia ta"
   },
   "jlpt-n1-残酷-1163": {
-    "kana": "ざんこく を おぼえる",
-    "romaji": "zankoku o oboeru"
+    "kana": "その けいけん から ざんこく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara zankoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-残高-1109": {
-    "kana": "ざんだか を おぼえる",
-    "romaji": "zandaka o oboeru"
+    "kana": "ざんだか で ともだち を まっ た",
+    "romaji": "zandaka de tomodachi o ma ta"
   },
   "jlpt-n1-殴る-478": {
-    "kana": "なぐる を おぼえる",
-    "romaji": "naguru o oboeru"
+    "kana": "せんせい の まえ で おちつい て なぐる",
+    "romaji": "sensei no mae de ochitsui te naguru"
   },
   "jlpt-n1-殺人-939": {
-    "kana": "さつじん を おぼえる",
-    "romaji": "satsujin o oboeru"
+    "kana": "その けいけん から さつじん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara satsujin no taisetsu sa o shi ta"
   },
   "jlpt-n1-毎-1103": {
-    "kana": "ごと を おぼえる",
-    "romaji": "goto o oboeru"
+    "kana": "かいぎ で ごと について はなしあっ た",
+    "romaji": "kaigi de goto nitsuite hanashia ta"
   },
   "jlpt-n1-毟る-289": {
-    "kana": "むしる を おぼえる",
-    "romaji": "mushiru o oboeru"
+    "kana": "ひつよう な とき に すぐ むしる",
+    "romaji": "hitsuyou na toki ni sugu mushiru"
   },
   "jlpt-n1-民俗-543": {
-    "kana": "みんぞく を おぼえる",
-    "romaji": "minzoku o oboeru"
+    "kana": "みんぞく に みち を たずね た",
+    "romaji": "minzoku ni michi o tazune ta"
   },
   "jlpt-n1-民族-977": {
-    "kana": "みんぞく を おぼえる",
-    "romaji": "minzoku o oboeru"
+    "kana": "みんぞく に みち を たずね た",
+    "romaji": "minzoku ni michi o tazune ta"
   },
   "jlpt-n1-気品-1042": {
-    "kana": "きひん を おぼえる",
-    "romaji": "kihin o oboeru"
+    "kana": "かいぎ で きひん について はなしあっ た",
+    "romaji": "kaigi de kihin nitsuite hanashia ta"
   },
   "jlpt-n1-気流-341": {
-    "kana": "きりゅう を おぼえる",
-    "romaji": "kiryuu o oboeru"
+    "kana": "じゅぎょう で きりゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kiryuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-気立て-499": {
-    "kana": "きだて を おぼえる",
-    "romaji": "kidate o oboeru"
+    "kana": "じゅぎょう で きだて を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kidate o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-気軽-529": {
-    "kana": "きがる を おぼえる",
-    "romaji": "kigaru o oboeru"
+    "kana": "じゅぎょう で きがる を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kigaru o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-気風-968": {
-    "kana": "きふう を おぼえる",
-    "romaji": "kifuu o oboeru"
+    "kana": "この もんだい に わ きふう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kifuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-水気-719": {
-    "kana": "みずけ を おぼえる",
-    "romaji": "mizuke o oboeru"
+    "kana": "その けいけん から みずけ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mizuke no taisetsu sa o shi ta"
   },
   "jlpt-n1-水田-843": {
-    "kana": "すいでん を おぼえる",
-    "romaji": "suiden o oboeru"
+    "kana": "しょくご に すいでん を のん だ",
+    "romaji": "shokugo ni suiden o non da"
   },
   "jlpt-n1-決まり悪い-412": {
-    "kana": "きまり わるい を おぼえる",
-    "romaji": "kimari warui o oboeru"
+    "kana": "かいぎ で きまり わるい について はなしあっ た",
+    "romaji": "kaigi de kimari warui nitsuite hanashia ta"
   },
   "jlpt-n1-決勝-1241": {
-    "kana": "けっしょう を おぼえる",
-    "romaji": "kesshou o oboeru"
+    "kana": "かいぎ で けっしょう について はなしあっ た",
+    "romaji": "kaigi de kesshou nitsuite hanashia ta"
   },
   "jlpt-n1-決断-1218": {
-    "kana": "けつだん を おぼえる",
-    "romaji": "ketsudan o oboeru"
+    "kana": "かいぎ で けつだん について はなしあっ た",
+    "romaji": "kaigi de ketsudan nitsuite hanashia ta"
   },
   "jlpt-n1-決算-588": {
-    "kana": "けっさん を おぼえる",
-    "romaji": "kessan o oboeru"
+    "kana": "かいぎ で けっさん について はなしあっ た",
+    "romaji": "kaigi de kessan nitsuite hanashia ta"
   },
   "jlpt-n1-決行-268": {
-    "kana": "けっこう を おぼえる",
-    "romaji": "kekkou o oboeru"
+    "kana": "かいぎ で けっこう について はなしあっ た",
+    "romaji": "kaigi de kekkou nitsuite hanashia ta"
   },
   "jlpt-n1-汽船-609": {
-    "kana": "きせん を おぼえる",
-    "romaji": "kisen o oboeru"
+    "kana": "その けいけん から きせん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kisen no taisetsu sa o shi ta"
   },
   "jlpt-n1-沈殿-345": {
-    "kana": "ちんでん を おぼえる",
-    "romaji": "chinden o oboeru"
+    "kana": "じゅぎょう で ちんでん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chinden o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-沈黙-344": {
-    "kana": "ちんもく を おぼえる",
-    "romaji": "chinmoku o oboeru"
+    "kana": "その けいけん から ちんもく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chinmoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-没収-842": {
-    "kana": "ぼっしゅう を おぼえる",
-    "romaji": "bosshuu o oboeru"
+    "kana": "じゅぎょう で ぼっしゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bosshuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-没落-123": {
-    "kana": "ぼつらく を おぼえる",
-    "romaji": "botsuraku o oboeru"
+    "kana": "その けいけん から ぼつらく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara botsuraku no taisetsu sa o shi ta"
   },
   "jlpt-n1-沸騰-339": {
-    "kana": "ふっとう を おぼえる",
-    "romaji": "futtou o oboeru"
+    "kana": "かいぎ で ふっとう について はなしあっ た",
+    "romaji": "kaigi de futtou nitsuite hanashia ta"
   },
   "jlpt-n1-油絵-457": {
-    "kana": "あぶらえ を おぼえる",
-    "romaji": "aburae o oboeru"
+    "kana": "かいぎ で あぶらえ について はなしあっ た",
+    "romaji": "kaigi de aburae nitsuite hanashia ta"
   },
   "jlpt-n1-治安-881": {
-    "kana": "ちあん を おぼえる",
-    "romaji": "chian o oboeru"
+    "kana": "その けいけん から ちあん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chian no taisetsu sa o shi ta"
   },
   "jlpt-n1-治療-971": {
-    "kana": "ちりょう を おぼえる",
-    "romaji": "chiryou o oboeru"
+    "kana": "この もんだい に わ ちりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chiryou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-沿い-982": {
-    "kana": "ぞい を おぼえる",
-    "romaji": "zoi o oboeru"
+    "kana": "この もんだい に わ ぞい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zoi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-沿う-97": {
-    "kana": "そう を おぼえる",
-    "romaji": "sou o oboeru"
+    "kana": "あさ の こうえん を ゆっくり そう",
+    "romaji": "asa no kouen o yukkuri sou"
   },
   "jlpt-n1-沿線-797": {
-    "kana": "えんせん を おぼえる",
-    "romaji": "ensen o oboeru"
+    "kana": "この もんだい に わ えんせん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ensen ga fukaku kankei shi te iru"
   },
   "jlpt-n1-洋風-525": {
-    "kana": "ようふう を おぼえる",
-    "romaji": "youfuu o oboeru"
+    "kana": "この もんだい に わ ようふう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa youfuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-活ける-251": {
-    "kana": "いける を おぼえる",
-    "romaji": "ikeru o oboeru"
+    "kana": "しっぱい し て も もういちど いける",
+    "romaji": "shippai shi te mo mouichido ikeru"
   },
   "jlpt-n1-活発-1092": {
-    "kana": "かっぱつ を おぼえる",
-    "romaji": "kappatsu o oboeru"
+    "kana": "かいぎ で かっぱつ について はなしあっ た",
+    "romaji": "kaigi de kappatsu nitsuite hanashia ta"
   },
   "jlpt-n1-流-751": {
-    "kana": "りゅう を おぼえる",
-    "romaji": "ryuu o oboeru"
+    "kana": "かいぎ で りゅう について はなしあっ た",
+    "romaji": "kaigi de ryuu nitsuite hanashia ta"
   },
   "jlpt-n1-浴室-278": {
-    "kana": "よくしつ を おぼえる",
-    "romaji": "yokushitsu o oboeru"
+    "kana": "かいぎ で よくしつ について はなしあっ た",
+    "romaji": "kaigi de yokushitsu nitsuite hanashia ta"
   },
   "jlpt-n1-海路-636": {
-    "kana": "かいろ を おぼえる",
-    "romaji": "kairo o oboeru"
+    "kana": "かいろ の おと で あさ に きづい た",
+    "romaji": "kairo no oto de asa ni kizui ta"
   },
   "jlpt-n1-消去-984": {
-    "kana": "しょうきょ を おぼえる",
-    "romaji": "shoukyo o oboeru"
+    "kana": "かいぎ で しょうきょ について はなしあっ た",
+    "romaji": "kaigi de shoukyo nitsuite hanashia ta"
   },
   "jlpt-n1-消息-1052": {
-    "kana": "しょうそく を おぼえる",
-    "romaji": "shousoku o oboeru"
+    "kana": "その けいけん から しょうそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shousoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-液-1035": {
-    "kana": "えき を おぼえる",
-    "romaji": "eki o oboeru"
+    "kana": "じゅぎょう で えき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de eki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-涸れる-365": {
-    "kana": "かれる を おぼえる",
-    "romaji": "kareru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かれる",
+    "romaji": "sensei no mae de ochitsui te kareru"
   },
   "jlpt-n1-深める-465": {
-    "kana": "ふかめる を おぼえる",
-    "romaji": "fukameru o oboeru"
+    "kana": "しっぱい し て も もういちど ふかめる",
+    "romaji": "shippai shi te mo mouichido fukameru"
   },
   "jlpt-n1-混む-1099": {
-    "kana": "こむ を おぼえる",
-    "romaji": "komu o oboeru"
+    "kana": "しっぱい し て も もういちど こむ",
+    "romaji": "shippai shi te mo mouichido komu"
   },
   "jlpt-n1-清々しい-703": {
-    "kana": "すがすがしい を おぼえる",
-    "romaji": "sugasugashii o oboeru"
+    "kana": "その けいけん から すがすがしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sugasugashii no taisetsu sa o shi ta"
   },
   "jlpt-n1-減少-607": {
-    "kana": "げんしょう を おぼえる",
-    "romaji": "genshou o oboeru"
+    "kana": "じゅぎょう で げんしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de genshou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-減点-572": {
-    "kana": "げんてん を おぼえる",
-    "romaji": "genten o oboeru"
+    "kana": "じゅぎょう で げんてん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de genten o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-渦-559": {
-    "kana": "うず を おぼえる",
-    "romaji": "uzu o oboeru"
+    "kana": "その けいけん から うず の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara uzu no taisetsu sa o shi ta"
   },
   "jlpt-n1-満たす-1032": {
-    "kana": "みたす を おぼえる",
-    "romaji": "mitasu o oboeru"
+    "kana": "ひつよう な とき に すぐ みたす",
+    "romaji": "hitsuyou na toki ni sugu mitasu"
   },
   "jlpt-n1-満場-998": {
-    "kana": "まんじょう を おぼえる",
-    "romaji": "manjou o oboeru"
+    "kana": "かいぎ で まんじょう について はなしあっ た",
+    "romaji": "kaigi de manjou nitsuite hanashia ta"
   },
   "jlpt-n1-満月-73": {
-    "kana": "まんげつ を おぼえる",
-    "romaji": "mangetsu o oboeru"
+    "kana": "この もんだい に わ まんげつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mangetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-滞納-13": {
-    "kana": "たいのう を おぼえる",
-    "romaji": "tainou o oboeru"
+    "kana": "じゅぎょう で たいのう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tainou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-溜まり-202": {
-    "kana": "たまり を おぼえる",
-    "romaji": "tamari o oboeru"
+    "kana": "かいぎ で たまり について はなしあっ た",
+    "romaji": "kaigi de tamari nitsuite hanashia ta"
   },
   "jlpt-n1-溝-518": {
-    "kana": "みぞ を おぼえる",
-    "romaji": "mizo o oboeru"
+    "kana": "その けいけん から みぞ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mizo no taisetsu sa o shi ta"
   },
   "jlpt-n1-溢れる-874": {
-    "kana": "あふれる を おぼえる",
-    "romaji": "afureru o oboeru"
+    "kana": "しっぱい し て も もういちど あふれる",
+    "romaji": "shippai shi te mo mouichido afureru"
   },
   "jlpt-n1-滅ぼす-511": {
-    "kana": "ほろぼす を おぼえる",
-    "romaji": "horobosu o oboeru"
+    "kana": "しっぱい し て も もういちど ほろぼす",
+    "romaji": "shippai shi te mo mouichido horobosu"
   },
   "jlpt-n1-滅亡-396": {
-    "kana": "めつぼう を おぼえる",
-    "romaji": "metsubou o oboeru"
+    "kana": "じゅぎょう で めつぼう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de metsubou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-漁村-1029": {
-    "kana": "ぎょそん を おぼえる",
-    "romaji": "gyoson o oboeru"
+    "kana": "ぎょそん で ともだち を まっ た",
+    "romaji": "gyoson de tomodachi o ma ta"
   },
   "jlpt-n1-漏らす-220": {
-    "kana": "もらす を おぼえる",
-    "romaji": "morasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て もらす",
+    "romaji": "sensei no mae de ochitsui te morasu"
   },
   "jlpt-n1-漏れる-866": {
-    "kana": "もれる を おぼえる",
-    "romaji": "moreru o oboeru"
+    "kana": "せんせい の まえ で おちつい て もれる",
+    "romaji": "sensei no mae de ochitsui te moreru"
   },
   "jlpt-n1-演じる-304": {
-    "kana": "えんじる を おぼえる",
-    "romaji": "enjiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て えんじる",
+    "romaji": "sensei no mae de ochitsui te enjiru"
   },
   "jlpt-n1-潤う-1073": {
-    "kana": "うるおう を おぼえる",
-    "romaji": "uruou o oboeru"
+    "kana": "ひつよう な とき に すぐ うるおう",
+    "romaji": "hitsuyou na toki ni sugu uruou"
   },
   "jlpt-n1-濯ぐ-343": {
-    "kana": "すすぐ を おぼえる",
-    "romaji": "susugu o oboeru"
+    "kana": "しっぱい し て も もういちど すすぐ",
+    "romaji": "shippai shi te mo mouichido susugu"
   },
   "jlpt-n1-火傷-973": {
-    "kana": "かしょう を おぼえる",
-    "romaji": "kashou o oboeru"
+    "kana": "かいぎ で かしょう について はなしあっ た",
+    "romaji": "kaigi de kashou nitsuite hanashia ta"
   },
   "jlpt-n1-灰-1072": {
-    "kana": "はい を おぼえる",
-    "romaji": "hai o oboeru"
+    "kana": "じゅぎょう で はい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-灰皿-311": {
-    "kana": "はいざら を おぼえる",
-    "romaji": "haizara o oboeru"
+    "kana": "この もんだい に わ はいざら が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa haizara ga fukaku kankei shi te iru"
   },
   "jlpt-n1-災害-652": {
-    "kana": "さいがい を おぼえる",
-    "romaji": "saigai o oboeru"
+    "kana": "その けいけん から さいがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara saigai no taisetsu sa o shi ta"
   },
   "jlpt-n1-炭素-399": {
-    "kana": "たんそ を おぼえる",
-    "romaji": "tanso o oboeru"
+    "kana": "じゅぎょう で たんそ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tanso o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-為さる-298": {
-    "kana": "なさる を おぼえる",
-    "romaji": "nasaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て なさる",
+    "romaji": "sensei no mae de ochitsui te nasaru"
   },
   "jlpt-n1-焚火-1164": {
-    "kana": "たきび を おぼえる",
-    "romaji": "takibi o oboeru"
+    "kana": "この もんだい に わ たきび が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa takibi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-無口-47": {
-    "kana": "むくち を おぼえる",
-    "romaji": "mukuchi o oboeru"
+    "kana": "この もんだい に わ むくち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mukuchi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-無念-1234": {
-    "kana": "むねん を おぼえる",
-    "romaji": "munen o oboeru"
+    "kana": "その けいけん から むねん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara munen no taisetsu sa o shi ta"
   },
   "jlpt-n1-無断-222": {
-    "kana": "むだん を おぼえる",
-    "romaji": "mudan o oboeru"
+    "kana": "じゅぎょう で むだん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mudan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-無能-644": {
-    "kana": "むのう を おぼえる",
-    "romaji": "munou o oboeru"
+    "kana": "その けいけん から むのう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara munou no taisetsu sa o shi ta"
   },
   "jlpt-n1-無言-159": {
-    "kana": "むごん を おぼえる",
-    "romaji": "mugon o oboeru"
+    "kana": "じゅぎょう で むごん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mugon o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-無論-1088": {
-    "kana": "むろん を おぼえる",
-    "romaji": "muron o oboeru"
+    "kana": "じゅぎょう で むろん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de muron o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-無邪気-1233": {
-    "kana": "むじゃき を おぼえる",
-    "romaji": "mujaki o oboeru"
+    "kana": "この もんだい に わ むじゃき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mujaki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-無闇に-1209": {
-    "kana": "むやみ に を おぼえる",
-    "romaji": "muyami ni o oboeru"
+    "kana": "その けいけん から むやみ に の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara muyami ni no taisetsu sa o shi ta"
   },
   "jlpt-n1-無難-1246": {
-    "kana": "ぶなん を おぼえる",
-    "romaji": "bunan o oboeru"
+    "kana": "じゅぎょう で ぶなん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bunan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-然も-1263": {
-    "kana": "しか も を おぼえる",
-    "romaji": "shika mo o oboeru"
+    "kana": "この もんだい に わ しか も が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shika mo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-煌々と-1071": {
-    "kana": "こうこう と を おぼえる",
-    "romaji": "koukou to o oboeru"
+    "kana": "じゅぎょう で こうこう と を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koukou to o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-煌びやか-201": {
-    "kana": "煌 びやかを おぼえる",
-    "romaji": "煌 biyakawo oboeru"
+    "kana": "その けいけん から 煌 びやかの たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 煌 biyakano taisetsu sa o shi ta"
   },
   "jlpt-n1-煙たい-1005": {
-    "kana": "けむたい を おぼえる",
-    "romaji": "kemutai o oboeru"
+    "kana": "かいぎ で けむたい について はなしあっ た",
+    "romaji": "kaigi de kemutai nitsuite hanashia ta"
   },
   "jlpt-n1-照り返す-463": {
-    "kana": "てりかえす を おぼえる",
-    "romaji": "terikaesu o oboeru"
+    "kana": "しっぱい し て も もういちど てりかえす",
+    "romaji": "shippai shi te mo mouichido terikaesu"
   },
   "jlpt-n1-照合-862": {
-    "kana": "しょうごう を おぼえる",
-    "romaji": "shougou o oboeru"
+    "kana": "その けいけん から しょうごう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shougou no taisetsu sa o shi ta"
   },
   "jlpt-n1-照明-570": {
-    "kana": "しょうめい を おぼえる",
-    "romaji": "shoumei o oboeru"
+    "kana": "この もんだい に わ しょうめい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shoumei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-煽てる-1036": {
-    "kana": "おだてる を おぼえる",
-    "romaji": "odateru o oboeru"
+    "kana": "しっぱい し て も もういちど おだてる",
+    "romaji": "shippai shi te mo mouichido odateru"
   },
   "jlpt-n1-蒸留-568": {
-    "kana": "じょうりゅう を おぼえる",
-    "romaji": "jouryuu o oboeru"
+    "kana": "その けいけん から じょうりゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jouryuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-熱湯-528": {
-    "kana": "ねっとう を おぼえる",
-    "romaji": "nettou o oboeru"
+    "kana": "しょくご に ねっとう を のん だ",
+    "romaji": "shokugo ni nettou o non da"
   },
   "jlpt-n1-父母-723": {
-    "kana": "ちちはは を おぼえる",
-    "romaji": "chichihaha o oboeru"
+    "kana": "ちちはは に みち を たずね た",
+    "romaji": "chichihaha ni michi o tazune ta"
   },
   "jlpt-n1-爽やか-502": {
-    "kana": "さわやか を おぼえる",
-    "romaji": "sawayaka o oboeru"
+    "kana": "その けいけん から さわやか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sawayaka no taisetsu sa o shi ta"
   },
   "jlpt-n1-片付け-981": {
-    "kana": "かたづけ を おぼえる",
-    "romaji": "katazuke o oboeru"
+    "kana": "かたづけ え まっすぐ すすん だ",
+    "romaji": "katazuke e massugu susun da"
   },
   "jlpt-n1-版画-1197": {
-    "kana": "はんが を おぼえる",
-    "romaji": "hanga o oboeru"
+    "kana": "かいぎ で はんが について はなしあっ た",
+    "romaji": "kaigi de hanga nitsuite hanashia ta"
   },
   "jlpt-n1-物資-985": {
-    "kana": "ぶっし を おぼえる",
-    "romaji": "busshi o oboeru"
+    "kana": "その けいけん から ぶっし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara busshi no taisetsu sa o shi ta"
   },
   "jlpt-n1-状-994": {
-    "kana": "じょう を おぼえる",
-    "romaji": "jou o oboeru"
+    "kana": "その けいけん から じょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jou no taisetsu sa o shi ta"
   },
   "jlpt-n1-独創-77": {
-    "kana": "どくそう を おぼえる",
-    "romaji": "dokusou o oboeru"
+    "kana": "かいぎ で どくそう について はなしあっ た",
+    "romaji": "kaigi de dokusou nitsuite hanashia ta"
   },
   "jlpt-n1-独占-988": {
-    "kana": "どくせん を おぼえる",
-    "romaji": "dokusen o oboeru"
+    "kana": "じゅぎょう で どくせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dokusen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-独自-600": {
-    "kana": "どくじ を おぼえる",
-    "romaji": "dokuji o oboeru"
+    "kana": "かいぎ で どくじ について はなしあっ た",
+    "romaji": "kaigi de dokuji nitsuite hanashia ta"
   },
   "jlpt-n1-独裁-722": {
-    "kana": "どくさい を おぼえる",
-    "romaji": "dokusai o oboeru"
+    "kana": "この もんだい に わ どくさい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dokusai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-獣-1137": {
-    "kana": "しし を おぼえる",
-    "romaji": "shishi o oboeru"
+    "kana": "この もんだい に わ しし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shishi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-獲物-276": {
-    "kana": "えもの を おぼえる",
-    "romaji": "emono o oboeru"
+    "kana": "じゅぎょう で えもの を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de emono o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-率直-698": {
-    "kana": "そっちょく を おぼえる",
-    "romaji": "sotchoku o oboeru"
+    "kana": "じゅぎょう で そっちょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sotchoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-班-26": {
-    "kana": "はん を おぼえる",
-    "romaji": "han o oboeru"
+    "kana": "その けいけん から はん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara han no taisetsu sa o shi ta"
   },
   "jlpt-n1-現われる-193": {
-    "kana": "あらわれる を おぼえる",
-    "romaji": "arawareru o oboeru"
+    "kana": "しずか な まち に へんか が あらわれる",
+    "romaji": "shizuka na machi ni henka ga arawareru"
   },
   "jlpt-n1-理屈-1028": {
-    "kana": "りくつ を おぼえる",
-    "romaji": "rikutsu o oboeru"
+    "kana": "かいぎ で りくつ について はなしあっ た",
+    "romaji": "kaigi de rikutsu nitsuite hanashia ta"
   },
   "jlpt-n1-瓶-1030": {
-    "kana": "びん を おぼえる",
-    "romaji": "bin o oboeru"
+    "kana": "かいぎ で びん について はなしあっ た",
+    "romaji": "kaigi de bin nitsuite hanashia ta"
   },
   "jlpt-n1-甘口-724": {
-    "kana": "あまくち を おぼえる",
-    "romaji": "amakuchi o oboeru"
+    "kana": "ひる に あまくち を すこし たべ た",
+    "romaji": "hiru ni amakuchi o sukoshi tabe ta"
   },
   "jlpt-n1-甚だ-717": {
-    "kana": "はなはだ を おぼえる",
-    "romaji": "hanahada o oboeru"
+    "kana": "かいぎ で はなはだ について はなしあっ た",
+    "romaji": "kaigi de hanahada nitsuite hanashia ta"
   },
   "jlpt-n1-生-685": {
-    "kana": "なま を おぼえる",
-    "romaji": "nama o oboeru"
+    "kana": "この もんだい に わ なま が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nama ga fukaku kankei shi te iru"
   },
   "jlpt-n1-生やす-978": {
-    "kana": "はやす を おぼえる",
-    "romaji": "hayasu o oboeru"
+    "kana": "しっぱい し て も もういちど はやす",
+    "romaji": "shippai shi te mo mouichido hayasu"
   },
   "jlpt-n1-生温い-619": {
-    "kana": "なまぬるい を おぼえる",
-    "romaji": "namanurui o oboeru"
+    "kana": "この もんだい に わ なまぬるい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa namanurui ga fukaku kankei shi te iru"
   },
   "jlpt-n1-生計-418": {
-    "kana": "せいけい を おぼえる",
-    "romaji": "seikei o oboeru"
+    "kana": "かいぎ で せいけい について はなしあっ た",
+    "romaji": "kaigi de seikei nitsuite hanashia ta"
   },
   "jlpt-n1-生身-615": {
-    "kana": "なまみ を おぼえる",
-    "romaji": "namami o oboeru"
+    "kana": "その けいけん から なまみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara namami no taisetsu sa o shi ta"
   },
   "jlpt-n1-産む-286": {
-    "kana": "うむ を おぼえる",
-    "romaji": "umu o oboeru"
+    "kana": "ともだち に にもつ を うむ",
+    "romaji": "tomodachi ni nimotsu o umu"
   },
   "jlpt-n1-産休-678": {
-    "kana": "さんきゅう を おぼえる",
-    "romaji": "sankyuu o oboeru"
+    "kana": "かいぎ で さんきゅう について はなしあっ た",
+    "romaji": "kaigi de sankyuu nitsuite hanashia ta"
   },
   "jlpt-n1-産出-885": {
-    "kana": "さんしゅつ を おぼえる",
-    "romaji": "sanshutsu o oboeru"
+    "kana": "かいぎ で さんしゅつ について はなしあっ た",
+    "romaji": "kaigi de sanshutsu nitsuite hanashia ta"
   },
   "jlpt-n1-産婦人科-217": {
-    "kana": "さんふじんか を おぼえる",
-    "romaji": "sanfujinka o oboeru"
+    "kana": "かいぎ で さんふじんか について はなしあっ た",
+    "romaji": "kaigi de sanfujinka nitsuite hanashia ta"
   },
   "jlpt-n1-用件-770": {
-    "kana": "ようけん を おぼえる",
-    "romaji": "youken o oboeru"
+    "kana": "その けいけん から ようけん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara youken no taisetsu sa o shi ta"
   },
   "jlpt-n1-甲-752": {
-    "kana": "かぶと を おぼえる",
-    "romaji": "kabuto o oboeru"
+    "kana": "その けいけん から かぶと の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kabuto no taisetsu sa o shi ta"
   },
   "jlpt-n1-申し込み-1180": {
-    "kana": "もうしこみ を おぼえる",
-    "romaji": "moushikomi o oboeru"
+    "kana": "その けいけん から もうしこみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara moushikomi no taisetsu sa o shi ta"
   },
   "jlpt-n1-画期-917": {
-    "kana": "が き を おぼえる",
-    "romaji": "ga ki o oboeru"
+    "kana": "この もんだい に わ が き が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ga ki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-畏まりました-638": {
-    "kana": "かしこまり まし た を おぼえる",
-    "romaji": "kashikomari mashi ta o oboeru"
+    "kana": "かいぎ で かしこまり まし た について はなしあっ た",
+    "romaji": "kaigi de kashikomari mashi ta nitsuite hanashia ta"
   },
   "jlpt-n1-畜産-1082": {
-    "kana": "ちくさん を おぼえる",
-    "romaji": "chikusan o oboeru"
+    "kana": "じゅぎょう で ちくさん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chikusan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-略奪-880": {
-    "kana": "りゃくだつ を おぼえる",
-    "romaji": "ryakudatsu o oboeru"
+    "kana": "かいぎ で りゃくだつ について はなしあっ た",
+    "romaji": "kaigi de ryakudatsu nitsuite hanashia ta"
   },
   "jlpt-n1-異性-523": {
-    "kana": "いせい を おぼえる",
-    "romaji": "isei o oboeru"
+    "kana": "その けいけん から いせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara isei no taisetsu sa o shi ta"
   },
   "jlpt-n1-異議-95": {
-    "kana": "いぎ を おぼえる",
-    "romaji": "igi o oboeru"
+    "kana": "かいぎ で いぎ について はなしあっ た",
+    "romaji": "kaigi de igi nitsuite hanashia ta"
   },
   "jlpt-n1-疎か-93": {
-    "kana": "おろか を おぼえる",
-    "romaji": "oroka o oboeru"
+    "kana": "じゅぎょう で おろか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de oroka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-疑惑-774": {
-    "kana": "ぎわく を おぼえる",
-    "romaji": "giwaku o oboeru"
+    "kana": "その けいけん から ぎわく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara giwaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-疲労-1245": {
-    "kana": "ひろう を おぼえる",
-    "romaji": "hirou o oboeru"
+    "kana": "じゅぎょう で ひろう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hirou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-痛切-589": {
-    "kana": "つうせつ を おぼえる",
-    "romaji": "tsuusetsu o oboeru"
+    "kana": "じゅぎょう で つうせつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tsuusetsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-痛感-757": {
-    "kana": "つうかん を おぼえる",
-    "romaji": "tsuukan o oboeru"
+    "kana": "この もんだい に わ つうかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsuukan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-癌-883": {
-    "kana": "がん を おぼえる",
-    "romaji": "gan o oboeru"
+    "kana": "その けいけん から がん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gan no taisetsu sa o shi ta"
   },
   "jlpt-n1-発作-434": {
-    "kana": "ほっさ を おぼえる",
-    "romaji": "hossa o oboeru"
+    "kana": "かいぎ で ほっさ について はなしあっ た",
+    "romaji": "kaigi de hossa nitsuite hanashia ta"
   },
   "jlpt-n1-発掘-810": {
-    "kana": "はっくつ を おぼえる",
-    "romaji": "hakkutsu o oboeru"
+    "kana": "じゅぎょう で はっくつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hakkutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-発病-403": {
-    "kana": "はつびょう を おぼえる",
-    "romaji": "hatsubyou o oboeru"
+    "kana": "その けいけん から はつびょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hatsubyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-発芽-620": {
-    "kana": "はつが を おぼえる",
-    "romaji": "hatsuga o oboeru"
+    "kana": "その けいけん から はつが の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hatsuga no taisetsu sa o shi ta"
   },
   "jlpt-n1-発足-999": {
-    "kana": "ほっそく を おぼえる",
-    "romaji": "hossoku o oboeru"
+    "kana": "じゅぎょう で ほっそく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hossoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-登校-131": {
-    "kana": "とうこう を おぼえる",
-    "romaji": "toukou o oboeru"
+    "kana": "とうこう で ともだち を まっ た",
+    "romaji": "toukou de tomodachi o ma ta"
   },
   "jlpt-n1-百科事典-960": {
-    "kana": "ひゃっか じてん を おぼえる",
-    "romaji": "hyakka jiten o oboeru"
+    "kana": "かいぎ で ひゃっか じてん について はなしあっ た",
+    "romaji": "kaigi de hyakka jiten nitsuite hanashia ta"
   },
   "jlpt-n1-皺-453": {
-    "kana": "しわ を おぼえる",
-    "romaji": "shiwa o oboeru"
+    "kana": "かいぎ で しわ について はなしあっ た",
+    "romaji": "kaigi de shiwa nitsuite hanashia ta"
   },
   "jlpt-n1-盗み-539": {
-    "kana": "ぬすみ を おぼえる",
-    "romaji": "nusumi o oboeru"
+    "kana": "その けいけん から ぬすみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nusumi no taisetsu sa o shi ta"
   },
   "jlpt-n1-盛り上がる-826": {
-    "kana": "もりあがる を おぼえる",
-    "romaji": "moriagaru o oboeru"
+    "kana": "しっぱい し て も もういちど もりあがる",
+    "romaji": "shippai shi te mo mouichido moriagaru"
   },
   "jlpt-n1-盛る-773": {
-    "kana": "もる を おぼえる",
-    "romaji": "moru o oboeru"
+    "kana": "しっぱい し て も もういちど もる",
+    "romaji": "shippai shi te mo mouichido moru"
   },
   "jlpt-n1-盛大-819": {
-    "kana": "せいだい を おぼえる",
-    "romaji": "seidai o oboeru"
+    "kana": "この もんだい に わ せいだい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seidai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-目方-613": {
-    "kana": "めかた を おぼえる",
-    "romaji": "mekata o oboeru"
+    "kana": "じゅぎょう で めかた を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mekata o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-目盛-840": {
-    "kana": "めもり を おぼえる",
-    "romaji": "memori o oboeru"
+    "kana": "その けいけん から めもり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara memori no taisetsu sa o shi ta"
   },
   "jlpt-n1-目眩-768": {
-    "kana": "めまい を おぼえる",
-    "romaji": "memai o oboeru"
+    "kana": "じゅぎょう で めまい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de memai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-目録-1144": {
-    "kana": "もくろく を おぼえる",
-    "romaji": "mokuroku o oboeru"
+    "kana": "じゅぎょう で もくろく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mokuroku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-盲点-697": {
-    "kana": "もうてん を おぼえる",
-    "romaji": "mouten o oboeru"
+    "kana": "この もんだい に わ もうてん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mouten ga fukaku kankei shi te iru"
   },
   "jlpt-n1-直ぐ-603": {
-    "kana": "すぐ を おぼえる",
-    "romaji": "sugu o oboeru"
+    "kana": "しっぱい し て も もういちど すぐ",
+    "romaji": "shippai shi te mo mouichido sugu"
   },
   "jlpt-n1-直感-761": {
-    "kana": "ちょっかん を おぼえる",
-    "romaji": "chokkan o oboeru"
+    "kana": "かいぎ で ちょっかん について はなしあっ た",
+    "romaji": "kaigi de chokkan nitsuite hanashia ta"
   },
   "jlpt-n1-相-1093": {
-    "kana": "そう を おぼえる",
-    "romaji": "sou o oboeru"
+    "kana": "かいぎ で そう について はなしあっ た",
+    "romaji": "kaigi de sou nitsuite hanashia ta"
   },
   "jlpt-n1-相対-284": {
-    "kana": "そうたい を おぼえる",
-    "romaji": "soutai o oboeru"
+    "kana": "この もんだい に わ そうたい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa soutai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-相応しい-839": {
-    "kana": "ふさわしい を おぼえる",
-    "romaji": "fusawashii o oboeru"
+    "kana": "その けいけん から ふさわしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara fusawashii no taisetsu sa o shi ta"
   },
   "jlpt-n1-看護-877": {
-    "kana": "かんご を おぼえる",
-    "romaji": "kango o oboeru"
+    "kana": "じゅぎょう で かんご を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kango o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-真ん中-98": {
-    "kana": "まんなか を おぼえる",
-    "romaji": "mannaka o oboeru"
+    "kana": "この もんだい に わ まんなか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mannaka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-真上-449": {
-    "kana": "まうえ を おぼえる",
-    "romaji": "maue o oboeru"
+    "kana": "かいぎ で まうえ について はなしあっ た",
+    "romaji": "kaigi de maue nitsuite hanashia ta"
   },
   "jlpt-n1-眼鏡-664": {
-    "kana": "めがね を おぼえる",
-    "romaji": "megane o oboeru"
+    "kana": "この もんだい に わ めがね が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa megane ga fukaku kankei shi te iru"
   },
   "jlpt-n1-着-553": {
-    "kana": "ちゃく を おぼえる",
-    "romaji": "chaku o oboeru"
+    "kana": "じゅぎょう で ちゃく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-着手-1041": {
-    "kana": "ちゃくしゅ を おぼえる",
-    "romaji": "chakushu o oboeru"
+    "kana": "この もんだい に わ ちゃくしゅ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chakushu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-着色-348": {
-    "kana": "ちゃくしょく を おぼえる",
-    "romaji": "chakushoku o oboeru"
+    "kana": "この もんだい に わ ちゃくしょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chakushoku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-瞑る-72": {
-    "kana": "つむる を おぼえる",
-    "romaji": "tsumuru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に つむる",
+    "romaji": "dougu o tsuka te teinei ni tsumuru"
   },
   "jlpt-n1-瞬き-1129": {
-    "kana": "まばたき を おぼえる",
-    "romaji": "mabataki o oboeru"
+    "kana": "じゅぎょう で まばたき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mabataki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-矢っ張り-915": {
-    "kana": "や っ はり を おぼえる",
-    "romaji": "ya  hari o oboeru"
+    "kana": "その けいけん から や っ はり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ya  hari no taisetsu sa o shi ta"
   },
   "jlpt-n1-知的-979": {
-    "kana": "ちてき を おぼえる",
-    "romaji": "chiteki o oboeru"
+    "kana": "その けいけん から ちてき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chiteki no taisetsu sa o shi ta"
   },
   "jlpt-n1-砂利-721": {
-    "kana": "じゃり を おぼえる",
-    "romaji": "jari o oboeru"
+    "kana": "かいぎ で じゃり について はなしあっ た",
+    "romaji": "kaigi de jari nitsuite hanashia ta"
   },
   "jlpt-n1-破裂-682": {
-    "kana": "はれつ を おぼえる",
-    "romaji": "haretsu o oboeru"
+    "kana": "その けいけん から はれつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara haretsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-碌な-380": {
-    "kana": "ろく な を おぼえる",
-    "romaji": "roku na o oboeru"
+    "kana": "かいぎ で ろく な について はなしあっ た",
+    "romaji": "kaigi de roku na nitsuite hanashia ta"
   },
   "jlpt-n1-磁器-287": {
-    "kana": "じき を おぼえる",
-    "romaji": "jiki o oboeru"
+    "kana": "じゅぎょう で じき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-磁気-7": {
-    "kana": "じき を おぼえる",
-    "romaji": "jiki o oboeru"
+    "kana": "かいぎ で じき について はなしあっ た",
+    "romaji": "kaigi de jiki nitsuite hanashia ta"
   },
   "jlpt-n1-確保-1227": {
-    "kana": "かくほ を おぼえる",
-    "romaji": "kakuho o oboeru"
+    "kana": "その けいけん から かくほ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kakuho no taisetsu sa o shi ta"
   },
   "jlpt-n1-確信-140": {
-    "kana": "かくしん を おぼえる",
-    "romaji": "kakushin o oboeru"
+    "kana": "じゅぎょう で かくしん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kakushin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-確立-1124": {
-    "kana": "かくりつ を おぼえる",
-    "romaji": "kakuritsu o oboeru"
+    "kana": "その けいけん から かくりつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kakuritsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-社-550": {
-    "kana": "しゃ を おぼえる",
-    "romaji": "sha o oboeru"
+    "kana": "その けいけん から しゃ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sha no taisetsu sa o shi ta"
   },
   "jlpt-n1-社交-1279": {
-    "kana": "しゃこう を おぼえる",
-    "romaji": "shakou o oboeru"
+    "kana": "この もんだい に わ しゃこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shakou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-神殿-945": {
-    "kana": "しんでん を おぼえる",
-    "romaji": "shinden o oboeru"
+    "kana": "その けいけん から しんでん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinden no taisetsu sa o shi ta"
   },
   "jlpt-n1-神秘-340": {
-    "kana": "しんぴ を おぼえる",
-    "romaji": "shinpi o oboeru"
+    "kana": "その けいけん から しんぴ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinpi no taisetsu sa o shi ta"
   },
   "jlpt-n1-神聖-825": {
-    "kana": "しんせい を おぼえる",
-    "romaji": "shinsei o oboeru"
+    "kana": "かいぎ で しんせい について はなしあっ た",
+    "romaji": "kaigi de shinsei nitsuite hanashia ta"
   },
   "jlpt-n1-視察-233": {
-    "kana": "しさつ を おぼえる",
-    "romaji": "shisatsu o oboeru"
+    "kana": "かいぎ で しさつ について はなしあっ た",
+    "romaji": "kaigi de shisatsu nitsuite hanashia ta"
   },
   "jlpt-n1-視点-10": {
-    "kana": "してん を おぼえる",
-    "romaji": "shiten o oboeru"
+    "kana": "その けいけん から してん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiten no taisetsu sa o shi ta"
   },
   "jlpt-n1-視野-1171": {
-    "kana": "しや を おぼえる",
-    "romaji": "shiya o oboeru"
+    "kana": "その けいけん から しや の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiya no taisetsu sa o shi ta"
   },
   "jlpt-n1-禁じる-1139": {
-    "kana": "きんじる を おぼえる",
-    "romaji": "kinjiru o oboeru"
+    "kana": "しっぱい し て も もういちど きんじる",
+    "romaji": "shippai shi te mo mouichido kinjiru"
   },
   "jlpt-n1-禁ずる-1280": {
-    "kana": "きんずる を おぼえる",
-    "romaji": "kinzuru o oboeru"
+    "kana": "ひつよう な とき に すぐ きんずる",
+    "romaji": "hitsuyou na toki ni sugu kinzuru"
   },
   "jlpt-n1-禅-809": {
-    "kana": "ぜん を おぼえる",
-    "romaji": "zen o oboeru"
+    "kana": "かいぎ で ぜん について はなしあっ た",
+    "romaji": "kaigi de zen nitsuite hanashia ta"
   },
   "jlpt-n1-福-157": {
-    "kana": "ふく を おぼえる",
-    "romaji": "fuku o oboeru"
+    "kana": "じゅぎょう で ふく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fuku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-科-1222": {
-    "kana": "か を おぼえる",
-    "romaji": "ka o oboeru"
+    "kana": "かいぎ で か について はなしあっ た",
+    "romaji": "kaigi de ka nitsuite hanashia ta"
   },
   "jlpt-n1-秘書-1057": {
-    "kana": "ひしょ を おぼえる",
-    "romaji": "hisho o oboeru"
+    "kana": "この もんだい に わ ひしょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hisho ga fukaku kankei shi te iru"
   },
   "jlpt-n1-移民-160": {
-    "kana": "いみん を おぼえる",
-    "romaji": "imin o oboeru"
+    "kana": "その けいけん から いみん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara imin no taisetsu sa o shi ta"
   },
   "jlpt-n1-種-629": {
-    "kana": "たね を おぼえる",
-    "romaji": "tane o oboeru"
+    "kana": "この もんだい に はしゅ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni hashu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-種々-410": {
-    "kana": "しゅじゅ を おぼえる",
-    "romaji": "shuju o oboeru"
+    "kana": "かいぎ で しゅじゅ について はなしあっ た",
+    "romaji": "kaigi de shuju nitsuite hanashia ta"
   },
   "jlpt-n1-稲光-551": {
-    "kana": "いなびかり を おぼえる",
-    "romaji": "inabikari o oboeru"
+    "kana": "じゅぎょう で いなびかり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de inabikari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-穂-117": {
-    "kana": "ほ を おぼえる",
-    "romaji": "ho o oboeru"
+    "kana": "この もんだい に わ ほ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ho ga fukaku kankei shi te iru"
   },
   "jlpt-n1-究極-196": {
-    "kana": "きゅうきょく を おぼえる",
-    "romaji": "kyuukyoku o oboeru"
+    "kana": "この もんだい に わ きゅうきょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyuukyoku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-空腹-950": {
-    "kana": "くうふく を おぼえる",
-    "romaji": "kuufuku o oboeru"
+    "kana": "かいぎ で くうふく について はなしあっ た",
+    "romaji": "kaigi de kuufuku nitsuite hanashia ta"
   },
   "jlpt-n1-突く-447": {
-    "kana": "つく を おぼえる",
-    "romaji": "tsuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て つく",
+    "romaji": "sensei no mae de ochitsui te tsuku"
   },
   "jlpt-n1-突っ張る-1191": {
-    "kana": "つっぱる を おぼえる",
-    "romaji": "tsupparu o oboeru"
+    "kana": "しっぱい し て も もういちど つっぱる",
+    "romaji": "shippai shi te mo mouichido tsupparu"
   },
   "jlpt-n1-窒息-423": {
-    "kana": "ちっそく を おぼえる",
-    "romaji": "chissoku o oboeru"
+    "kana": "かいぎ で ちっそく について はなしあっ た",
+    "romaji": "kaigi de chissoku nitsuite hanashia ta"
   },
   "jlpt-n1-窮乏-1117": {
-    "kana": "きゅうぼう を おぼえる",
-    "romaji": "kyuubou o oboeru"
+    "kana": "その けいけん から きゅうぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyuubou no taisetsu sa o shi ta"
   },
   "jlpt-n1-窮屈-1107": {
-    "kana": "きゅうくつ を おぼえる",
-    "romaji": "kyuukutsu o oboeru"
+    "kana": "かいぎ で きゅうくつ について はなしあっ た",
+    "romaji": "kaigi de kyuukutsu nitsuite hanashia ta"
   },
   "jlpt-n1-立方-522": {
-    "kana": "りっぽう を おぼえる",
-    "romaji": "rippou o oboeru"
+    "kana": "かいぎ で りっぽう について はなしあっ た",
+    "romaji": "kaigi de rippou nitsuite hanashia ta"
   },
   "jlpt-n1-竿-530": {
-    "kana": "さお を おぼえる",
-    "romaji": "sao o oboeru"
+    "kana": "この もんだい に わ さお が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sao ga fukaku kankei shi te iru"
   },
   "jlpt-n1-第-219": {
-    "kana": "だい を おぼえる",
-    "romaji": "dai o oboeru"
+    "kana": "この もんだい に わ だい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-第一-1100": {
-    "kana": "だい いち を おぼえる",
-    "romaji": "dai ichi o oboeru"
+    "kana": "この もんだい に わ だい いち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dai ichi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-等-393": {
-    "kana": "ひとし を おぼえる",
-    "romaji": "hitoshi o oboeru"
+    "kana": "この へや わ おもっ たより とう",
+    "romaji": "kono heya wa omo tayori tou"
   },
   "jlpt-n1-箇所-189": {
-    "kana": "かしょ を おぼえる",
-    "romaji": "kasho o oboeru"
+    "kana": "じゅぎょう で かしょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kasho o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-箇条書き-183": {
-    "kana": "かじょう がき を おぼえる",
-    "romaji": "kajou gaki o oboeru"
+    "kana": "かいぎ で かじょう がき について はなしあっ た",
+    "romaji": "kaigi de kajou gaki nitsuite hanashia ta"
   },
   "jlpt-n1-箇箇-242": {
-    "kana": "ここ を おぼえる",
-    "romaji": "koko o oboeru"
+    "kana": "かいぎ で ここ について はなしあっ た",
+    "romaji": "kaigi de koko nitsuite hanashia ta"
   },
   "jlpt-n1-管-245": {
-    "kana": "かん を おぼえる",
-    "romaji": "kan o oboeru"
+    "kana": "じゅぎょう で かん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-箪笥-65": {
-    "kana": "たんす を おぼえる",
-    "romaji": "tansu o oboeru"
+    "kana": "この もんだい に わ たんす が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tansu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-築く-1185": {
-    "kana": "きずく を おぼえる",
-    "romaji": "kizuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て きずく",
+    "romaji": "sensei no mae de ochitsui te kizuku"
   },
   "jlpt-n1-篭る-1223": {
-    "kana": "こもる を おぼえる",
-    "romaji": "komoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て こもる",
+    "romaji": "sensei no mae de ochitsui te komoru"
   },
   "jlpt-n1-簡易-626": {
-    "kana": "かんい を おぼえる",
-    "romaji": "kan'i o oboeru"
+    "kana": "この もんだい に わ かんい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kan'i ga fukaku kankei shi te iru"
   },
   "jlpt-n1-粉々-1122": {
-    "kana": "こなごな を おぼえる",
-    "romaji": "konagona o oboeru"
+    "kana": "じゅぎょう で こなごな を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de konagona o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-粗筋-417": {
-    "kana": "あらすじ を おぼえる",
-    "romaji": "arasuji o oboeru"
+    "kana": "その けいけん から あらすじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara arasuji no taisetsu sa o shi ta"
   },
   "jlpt-n1-粥-112": {
-    "kana": "かゆ を おぼえる",
-    "romaji": "kayu o oboeru"
+    "kana": "ひる に かゆ を すこし たべ た",
+    "romaji": "hiru ni kayu o sukoshi tabe ta"
   },
   "jlpt-n1-精巧-1201": {
-    "kana": "せいこう を おぼえる",
-    "romaji": "seikou o oboeru"
+    "kana": "その けいけん から せいこう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seikou no taisetsu sa o shi ta"
   },
   "jlpt-n1-納まる-455": {
-    "kana": "おさまる を おぼえる",
-    "romaji": "osamaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て おさまる",
+    "romaji": "sensei no mae de ochitsui te osamaru"
   },
   "jlpt-n1-素敵-1125": {
-    "kana": "すてき を おぼえる",
-    "romaji": "suteki o oboeru"
+    "kana": "この へや わ おもっ た より すてき",
+    "romaji": "kono heya wa omo ta yori suteki"
   },
   "jlpt-n1-素材-411": {
-    "kana": "そざい を おぼえる",
-    "romaji": "sozai o oboeru"
+    "kana": "この もんだい に わ そざい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sozai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-紡績-807": {
-    "kana": "ぼうせき を おぼえる",
-    "romaji": "bouseki o oboeru"
+    "kana": "じゅぎょう で ぼうせき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bouseki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-細工-630": {
-    "kana": "ざいく を おぼえる",
-    "romaji": "zaiku o oboeru"
+    "kana": "かいぎ で ざいく について はなしあっ た",
+    "romaji": "kaigi de zaiku nitsuite hanashia ta"
   },
   "jlpt-n1-細胞-302": {
-    "kana": "さいぼう を おぼえる",
-    "romaji": "saibou o oboeru"
+    "kana": "その けいけん から さいぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara saibou no taisetsu sa o shi ta"
   },
   "jlpt-n1-紳士-633": {
-    "kana": "しんし を おぼえる",
-    "romaji": "shinshi o oboeru"
+    "kana": "じゅぎょう で しんし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shinshi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-終始-836": {
-    "kana": "しゅうし を おぼえる",
-    "romaji": "shuushi o oboeru"
+    "kana": "じゅぎょう で しゅうし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuushi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-組み合わせ-618": {
-    "kana": "くみあわせ を おぼえる",
-    "romaji": "kumiawase o oboeru"
+    "kana": "かいぎ で くみあわせ について はなしあっ た",
+    "romaji": "kaigi de kumiawase nitsuite hanashia ta"
   },
   "jlpt-n1-経歴-571": {
-    "kana": "けいれき を おぼえる",
-    "romaji": "keireki o oboeru"
+    "kana": "この もんだい に わ けいれき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa keireki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-経費-1095": {
-    "kana": "けいひ を おぼえる",
-    "romaji": "keihi o oboeru"
+    "kana": "その けいけん から けいひ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara keihi no taisetsu sa o shi ta"
   },
   "jlpt-n1-経過-187": {
-    "kana": "けいか を おぼえる",
-    "romaji": "keika o oboeru"
+    "kana": "その けいけん から けいか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara keika no taisetsu sa o shi ta"
   },
   "jlpt-n1-結び付く-811": {
-    "kana": "むすびつく を おぼえる",
-    "romaji": "musubitsuku o oboeru"
+    "kana": "しっぱい し て も もういちど むすびつく",
+    "romaji": "shippai shi te mo mouichido musubitsuku"
   },
   "jlpt-n1-結合-1240": {
-    "kana": "けつごう を おぼえる",
-    "romaji": "ketsugou o oboeru"
+    "kana": "かいぎ で けつごう について はなしあっ た",
+    "romaji": "kaigi de ketsugou nitsuite hanashia ta"
   },
   "jlpt-n1-結成-1063": {
-    "kana": "けっせい を おぼえる",
-    "romaji": "kessei o oboeru"
+    "kana": "その けいけん から けっせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kessei no taisetsu sa o shi ta"
   },
   "jlpt-n1-結束-213": {
-    "kana": "けっそく を おぼえる",
-    "romaji": "kessoku o oboeru"
+    "kana": "その けいけん から けっそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kessoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-結核-788": {
-    "kana": "けっかく を おぼえる",
-    "romaji": "kekkaku o oboeru"
+    "kana": "この もんだい に わ けっかく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kekkaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-絡む-367": {
-    "kana": "からむ を おぼえる",
-    "romaji": "karamu o oboeru"
+    "kana": "ひつよう な とき に すぐ からむ",
+    "romaji": "hitsuyou na toki ni sugu karamu"
   },
   "jlpt-n1-絨毯-104": {
-    "kana": "じゅうたん を おぼえる",
-    "romaji": "juutan o oboeru"
+    "kana": "その けいけん から じゅうたん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara juutan no taisetsu sa o shi ta"
   },
   "jlpt-n1-統制-1024": {
-    "kana": "とうせい を おぼえる",
-    "romaji": "tousei o oboeru"
+    "kana": "この もんだい に わ とうせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tousei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-継ぎ目-216": {
-    "kana": "つぎめ を おぼえる",
-    "romaji": "tsugime o oboeru"
+    "kana": "この もんだい に わ つぎめ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsugime ga fukaku kankei shi te iru"
   },
   "jlpt-n1-継ぐ-248": {
-    "kana": "つぐ を おぼえる",
-    "romaji": "tsugu o oboeru"
+    "kana": "ひつよう な とき に すぐ つぐ",
+    "romaji": "hitsuyou na toki ni sugu tsugu"
   },
   "jlpt-n1-綴じる-1021": {
-    "kana": "とじる を おぼえる",
-    "romaji": "tojiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て とじる",
+    "romaji": "sensei no mae de ochitsui te tojiru"
   },
   "jlpt-n1-総-144": {
-    "kana": "そう を おぼえる",
-    "romaji": "sou o oboeru"
+    "kana": "じゅぎょう で そう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-総会-993": {
-    "kana": "そうかい を おぼえる",
-    "romaji": "soukai o oboeru"
+    "kana": "この もんだい に わ そうかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa soukai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-緩やか-595": {
-    "kana": "ゆるやか を おぼえる",
-    "romaji": "yuruyaka o oboeru"
+    "kana": "その けいけん から ゆるやか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yuruyaka no taisetsu sa o shi ta"
   },
   "jlpt-n1-緩和-165": {
-    "kana": "かんわ を おぼえる",
-    "romaji": "kanwa o oboeru"
+    "kana": "かいぎ で かんわ について はなしあっ た",
+    "romaji": "kaigi de kanwa nitsuite hanashia ta"
   },
   "jlpt-n1-練る-145": {
-    "kana": "ねる を おぼえる",
-    "romaji": "neru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ねる",
+    "romaji": "sensei no mae de ochitsui te neru"
   },
   "jlpt-n1-縁-547": {
-    "kana": "えん を おぼえる",
-    "romaji": "en o oboeru"
+    "kana": "その けいけん から えん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara en no taisetsu sa o shi ta"
   },
   "jlpt-n1-縁談-473": {
-    "kana": "えんだん を おぼえる",
-    "romaji": "endan o oboeru"
+    "kana": "その けいけん から えんだん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara endan no taisetsu sa o shi ta"
   },
   "jlpt-n1-織-384": {
-    "kana": "お を おぼえる",
-    "romaji": "o o oboeru"
+    "kana": "かいぎ で お について はなしあっ た",
+    "romaji": "kaigi de o nitsuite hanashia ta"
   },
   "jlpt-n1-織物-1271": {
-    "kana": "おりもの を おぼえる",
-    "romaji": "orimono o oboeru"
+    "kana": "この もんだい に わ おりもの が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa orimono ga fukaku kankei shi te iru"
   },
   "jlpt-n1-繕う-823": {
-    "kana": "つくろう を おぼえる",
-    "romaji": "tsukurou o oboeru"
+    "kana": "ひつよう な とき に すぐ つくろう",
+    "romaji": "hitsuyou na toki ni sugu tsukurou"
   },
   "jlpt-n1-纏め-62": {
-    "kana": "まとい め を おぼえる",
-    "romaji": "matoi me o oboeru"
+    "kana": "その けいけん から まとめ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara matome no taisetsu sa o shi ta"
   },
   "jlpt-n1-罵る-1142": {
-    "kana": "ののしる を おぼえる",
-    "romaji": "nonoshiru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり ののしる",
+    "romaji": "kaigi de riyuu o hakkiri nonoshiru"
   },
   "jlpt-n1-美-501": {
-    "kana": "び を おぼえる",
-    "romaji": "bi o oboeru"
+    "kana": "かいぎ で び について はなしあっ た",
+    "romaji": "kaigi de bi nitsuite hanashia ta"
   },
   "jlpt-n1-群-796": {
-    "kana": "ぐん を おぼえる",
-    "romaji": "gun o oboeru"
+    "kana": "かいぎ で ぐん について はなしあっ た",
+    "romaji": "kaigi de gun nitsuite hanashia ta"
   },
   "jlpt-n1-群がる-902": {
-    "kana": "むらがる を おぼえる",
-    "romaji": "muragaru o oboeru"
+    "kana": "しっぱい し て も もういちど むらがる",
+    "romaji": "shippai shi te mo mouichido muragaru"
   },
   "jlpt-n1-義理-617": {
-    "kana": "ぎり を おぼえる",
-    "romaji": "giri o oboeru"
+    "kana": "この もんだい に わ ぎり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa giri ga fukaku kankei shi te iru"
   },
   "jlpt-n1-考古学-673": {
-    "kana": "こうこがく を おぼえる",
-    "romaji": "koukogaku o oboeru"
+    "kana": "その けいけん から こうこがく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koukogaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-而も-806": {
-    "kana": "而 も を おぼえる",
-    "romaji": "而 mo o oboeru"
+    "kana": "かいぎ で 而 も について はなしあっ た",
+    "romaji": "kaigi de 而 mo nitsuite hanashia ta"
   },
   "jlpt-n1-耐える-712": {
-    "kana": "たえる を おぼえる",
-    "romaji": "taeru o oboeru"
+    "kana": "しっぱい し て も もういちど たえる",
+    "romaji": "shippai shi te mo mouichido taeru"
   },
   "jlpt-n1-耕作-1229": {
-    "kana": "こうさく を おぼえる",
-    "romaji": "kousaku o oboeru"
+    "kana": "じゅぎょう で こうさく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kousaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-聖書-952": {
-    "kana": "せいしょ を おぼえる",
-    "romaji": "seisho o oboeru"
+    "kana": "この もんだい に わ せいしょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seisho ga fukaku kankei shi te iru"
   },
   "jlpt-n1-聴覚-1105": {
-    "kana": "ちょうかく を おぼえる",
-    "romaji": "choukaku o oboeru"
+    "kana": "この もんだい に わ ちょうかく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa choukaku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-職員-1086": {
-    "kana": "しょくいん を おぼえる",
-    "romaji": "shokuin o oboeru"
+    "kana": "この もんだい に わ しょくいん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shokuin ga fukaku kankei shi te iru"
   },
   "jlpt-n1-肉体-590": {
-    "kana": "にくたい を おぼえる",
-    "romaji": "nikutai o oboeru"
+    "kana": "にくたい が すこし いたい",
+    "romaji": "nikutai ga sukoshi itai"
   },
   "jlpt-n1-肉親-451": {
-    "kana": "にくしん を おぼえる",
-    "romaji": "nikushin o oboeru"
+    "kana": "この もんだい に わ にくしん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nikushin ga fukaku kankei shi te iru"
   },
   "jlpt-n1-肥料-667": {
-    "kana": "ひりょう を おぼえる",
-    "romaji": "hiryou o oboeru"
+    "kana": "じゅぎょう で ひりょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hiryou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-育ち-163": {
-    "kana": "そだち を おぼえる",
-    "romaji": "sodachi o oboeru"
+    "kana": "かいぎ で そだち について はなしあっ た",
+    "romaji": "kaigi de sodachi nitsuite hanashia ta"
   },
   "jlpt-n1-背く-258": {
-    "kana": "そむく を おぼえる",
-    "romaji": "somuku o oboeru"
+    "kana": "あさ の こうえん を ゆっくり そむく",
+    "romaji": "asa no kouen o yukkuri somuku"
   },
   "jlpt-n1-背景-565": {
-    "kana": "はいけい を おぼえる",
-    "romaji": "haikei o oboeru"
+    "kana": "かいぎ で はいけい について はなしあっ た",
+    "romaji": "kaigi de haikei nitsuite hanashia ta"
   },
   "jlpt-n1-背負う-105": {
-    "kana": "せおう を おぼえる",
-    "romaji": "seou o oboeru"
+    "kana": "せんせい の まえ で おちつい て せおう",
+    "romaji": "sensei no mae de ochitsui te seou"
   },
   "jlpt-n1-胴-858": {
-    "kana": "どう を おぼえる",
-    "romaji": "dou o oboeru"
+    "kana": "その けいけん から どう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dou no taisetsu sa o shi ta"
   },
   "jlpt-n1-脂肪-1250": {
-    "kana": "しぼう を おぼえる",
-    "romaji": "shibou o oboeru"
+    "kana": "じゅぎょう で しぼう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shibou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-脅かす-360": {
-    "kana": "おびやかす を おぼえる",
-    "romaji": "obiyakasu o oboeru"
+    "kana": "ひつよう な とき に すぐ おびやかす",
+    "romaji": "hitsuyou na toki ni sugu obiyakasu"
   },
   "jlpt-n1-脅迫-787": {
-    "kana": "きょうはく を おぼえる",
-    "romaji": "kyouhaku o oboeru"
+    "kana": "その けいけん から きょうはく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyouhaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-脈-57": {
-    "kana": "みゃく を おぼえる",
-    "romaji": "myaku o oboeru"
+    "kana": "その けいけん から みゃく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara myaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-脚本-427": {
-    "kana": "きゃくほん を おぼえる",
-    "romaji": "kyakuhon o oboeru"
+    "kana": "じゅぎょう で きゃくほん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyakuhon o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-脱する-545": {
-    "kana": "だっする を おぼえる",
-    "romaji": "dassuru o oboeru"
+    "kana": "しっぱい し て も もういちど だっする",
+    "romaji": "shippai shi te mo mouichido dassuru"
   },
   "jlpt-n1-脱出-625": {
-    "kana": "だっしゅつ を おぼえる",
-    "romaji": "dasshutsu o oboeru"
+    "kana": "その けいけん から だっしゅつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dasshutsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-脱退-686": {
-    "kana": "だったい を おぼえる",
-    "romaji": "dattai o oboeru"
+    "kana": "この もんだい に わ だったい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dattai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-腕前-1188": {
-    "kana": "うでまえ を おぼえる",
-    "romaji": "udemae o oboeru"
+    "kana": "この もんだい に わ うでまえ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa udemae ga fukaku kankei shi te iru"
   },
   "jlpt-n1-腸-745": {
-    "kana": "ちょう を おぼえる",
-    "romaji": "chou o oboeru"
+    "kana": "かいぎ で ちょう について はなしあっ た",
+    "romaji": "kaigi de chou nitsuite hanashia ta"
   },
   "jlpt-n1-膜-152": {
-    "kana": "まく を おぼえる",
-    "romaji": "maku o oboeru"
+    "kana": "その けいけん から まく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara maku no taisetsu sa o shi ta"
   },
   "jlpt-n1-膨脹-476": {
-    "kana": "ぼうちょう を おぼえる",
-    "romaji": "bouchou o oboeru"
+    "kana": "かいぎ で ぼうちょう について はなしあっ た",
+    "romaji": "kaigi de bouchou nitsuite hanashia ta"
   },
   "jlpt-n1-膳-143": {
-    "kana": "ぜん を おぼえる",
-    "romaji": "zen o oboeru"
+    "kana": "その けいけん から ぜん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara zen no taisetsu sa o shi ta"
   },
   "jlpt-n1-臍-970": {
-    "kana": "ほぞ を おぼえる",
-    "romaji": "hozo o oboeru"
+    "kana": "その けいけん から ほぞ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hozo no taisetsu sa o shi ta"
   },
   "jlpt-n1-自ずから-1016": {
-    "kana": "おのずから を おぼえる",
-    "romaji": "onozukara o oboeru"
+    "kana": "その けいけん から おのずから の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara onozukara no taisetsu sa o shi ta"
   },
   "jlpt-n1-自信-267": {
-    "kana": "じしん を おぼえる",
-    "romaji": "jishin o oboeru"
+    "kana": "かいぎ で じしん について はなしあっ た",
+    "romaji": "kaigi de jishin nitsuite hanashia ta"
   },
   "jlpt-n1-自在-169": {
-    "kana": "じざい を おぼえる",
-    "romaji": "jizai o oboeru"
+    "kana": "この もんだい に わ じざい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jizai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-自惚れ-37": {
-    "kana": "うぬぼれ を おぼえる",
-    "romaji": "unubore o oboeru"
+    "kana": "この もんだい に わ うぬぼれ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa unubore ga fukaku kankei shi te iru"
   },
   "jlpt-n1-自覚-882": {
-    "kana": "じかく を おぼえる",
-    "romaji": "jikaku o oboeru"
+    "kana": "かいぎ で じかく について はなしあっ た",
+    "romaji": "kaigi de jikaku nitsuite hanashia ta"
   },
   "jlpt-n1-自転-1251": {
-    "kana": "じてん を おぼえる",
-    "romaji": "jiten o oboeru"
+    "kana": "その けいけん から じてん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jiten no taisetsu sa o shi ta"
   },
   "jlpt-n1-至って-432": {
-    "kana": "いたって を おぼえる",
-    "romaji": "itatte o oboeru"
+    "kana": "じゅぎょう で いたって を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de itatte o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-興じる-6": {
-    "kana": "きょうじる を おぼえる",
-    "romaji": "kyoujiru o oboeru"
+    "kana": "しっぱい し て も もういちど きょうじる",
+    "romaji": "shippai shi te mo mouichido kyoujiru"
   },
   "jlpt-n1-興奮-368": {
-    "kana": "こうふん を おぼえる",
-    "romaji": "koufun o oboeru"
+    "kana": "じゅぎょう で こうふん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koufun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-興業-920": {
-    "kana": "こうぎょう を おぼえる",
-    "romaji": "kougyou o oboeru"
+    "kana": "その けいけん から こうぎょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kougyou no taisetsu sa o shi ta"
   },
   "jlpt-n1-舞う-228": {
-    "kana": "まう を おぼえる",
-    "romaji": "mau o oboeru"
+    "kana": "せんせい の まえ で おちつい て まう",
+    "romaji": "sensei no mae de ochitsui te mau"
   },
   "jlpt-n1-航海-1007": {
-    "kana": "こうかい を おぼえる",
-    "romaji": "koukai o oboeru"
+    "kana": "じゅぎょう で こうかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koukai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-良い-296": {
-    "kana": "よい を おぼえる",
-    "romaji": "yoi o oboeru"
+    "kana": "この へや わ おもっ た より よい",
+    "romaji": "kono heya wa omo ta yori yoi"
   },
   "jlpt-n1-良識-428": {
-    "kana": "りょうしき を おぼえる",
-    "romaji": "ryoushiki o oboeru"
+    "kana": "この もんだい に わ りょうしき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ryoushiki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-色々-1230": {
-    "kana": "いろいろ を おぼえる",
-    "romaji": "iroiro o oboeru"
+    "kana": "その けいけん から いろいろ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara iroiro no taisetsu sa o shi ta"
   },
   "jlpt-n1-色彩-935": {
-    "kana": "しきさい を おぼえる",
-    "romaji": "shikisai o oboeru"
+    "kana": "かいぎ で しきさい について はなしあっ た",
+    "romaji": "kaigi de shikisai nitsuite hanashia ta"
   },
   "jlpt-n1-花壇-471": {
-    "kana": "かだん を おぼえる",
-    "romaji": "kadan o oboeru"
+    "kana": "かだん の おと で あさ に きづい た",
+    "romaji": "kadan no oto de asa ni kizui ta"
   },
   "jlpt-n1-苗-705": {
-    "kana": "なえ を おぼえる",
-    "romaji": "nae o oboeru"
+    "kana": "ひる に なえ を すこし たべ た",
+    "romaji": "hiru ni nae o sukoshi tabe ta"
   },
   "jlpt-n1-苛々-375": {
-    "kana": "苛 を おぼえる",
-    "romaji": "苛 o oboeru"
+    "kana": "かいぎ で 苛 について はなしあっ た",
+    "romaji": "kaigi de 苛 nitsuite hanashia ta"
   },
   "jlpt-n1-苛める-489": {
-    "kana": "いじめる を おぼえる",
-    "romaji": "ijimeru o oboeru"
+    "kana": "ひつよう な とき に すぐ いじめる",
+    "romaji": "hitsuyou na toki ni sugu ijimeru"
   },
   "jlpt-n1-若し-458": {
-    "kana": "わかし を おぼえる",
-    "romaji": "wakashi o oboeru"
+    "kana": "かいぎ で わかし について はなしあっ た",
+    "romaji": "kaigi de wakashi nitsuite hanashia ta"
   },
   "jlpt-n1-若しかして-8": {
-    "kana": "わか しかして を おぼえる",
-    "romaji": "waka shikashite o oboeru"
+    "kana": "わか しかして あした わ あめ に なる",
+    "romaji": "waka shikashite ashita wa ame ni naru"
   },
   "jlpt-n1-若しかすると-1069": {
-    "kana": "わかし か すると を おぼえる",
-    "romaji": "wakashi ka suruto o oboeru"
+    "kana": "もし かする と あした わ あめ に なる",
+    "romaji": "moshi kasuru to ashita wa ame ni naru"
   },
   "jlpt-n1-若しくは-616": {
-    "kana": "もしくは を おぼえる",
-    "romaji": "moshikuha o oboeru"
+    "kana": "この もんだい に わ もしくは が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moshikuha ga fukaku kankei shi te iru"
   },
   "jlpt-n1-若しも-113": {
-    "kana": "もしも を おぼえる",
-    "romaji": "moshimo o oboeru"
+    "kana": "この もんだい に わ もしも が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moshimo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-若干-214": {
-    "kana": "じゃっかん を おぼえる",
-    "romaji": "jakkan o oboeru"
+    "kana": "その けいけん から じゃっかん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jakkan no taisetsu sa o shi ta"
   },
   "jlpt-n1-英雄-608": {
-    "kana": "えいゆう を おぼえる",
-    "romaji": "eiyuu o oboeru"
+    "kana": "この もんだい に わ えいゆう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa eiyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-茶の間-827": {
-    "kana": "ちゃのま を おぼえる",
-    "romaji": "chanoma o oboeru"
+    "kana": "ちゃのま で ともだち を まっ た",
+    "romaji": "chanoma de tomodachi o ma ta"
   },
   "jlpt-n1-草臥れる-714": {
-    "kana": "くたびれる を おぼえる",
-    "romaji": "kutabireru o oboeru"
+    "kana": "しっぱい し て も もういちど くたびれる",
+    "romaji": "shippai shi te mo mouichido kutabireru"
   },
   "jlpt-n1-荒っぽい-582": {
-    "kana": "あらっぽい を おぼえる",
-    "romaji": "arappoi o oboeru"
+    "kana": "この もんだい に わ あらっぽい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa arappoi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-荒らす-888": {
-    "kana": "あらす を おぼえる",
-    "romaji": "arasu o oboeru"
+    "kana": "しっぱい し て も もういちど あらす",
+    "romaji": "shippai shi te mo mouichido arasu"
   },
   "jlpt-n1-華やか-230": {
-    "kana": "はなやか を おぼえる",
-    "romaji": "hanayaka o oboeru"
+    "kana": "じゅぎょう で はなやか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hanayaka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-華美-520": {
-    "kana": "かび を おぼえる",
-    "romaji": "kabi o oboeru"
+    "kana": "その けいけん から かび の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kabi no taisetsu sa o shi ta"
   },
   "jlpt-n1-著書-1243": {
-    "kana": "ちょしょ を おぼえる",
-    "romaji": "chosho o oboeru"
+    "kana": "その けいけん から ちょしょ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chosho no taisetsu sa o shi ta"
   },
   "jlpt-n1-落ち着き-19": {
-    "kana": "おちつき を おぼえる",
-    "romaji": "ochitsuki o oboeru"
+    "kana": "その けいけん から おちつき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ochitsuki no taisetsu sa o shi ta"
   },
   "jlpt-n1-落ち葉-1006": {
-    "kana": "おちば を おぼえる",
-    "romaji": "ochiba o oboeru"
+    "kana": "この もんだい に わ おちば が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ochiba ga fukaku kankei shi te iru"
   },
   "jlpt-n1-落ち込む-291": {
-    "kana": "おちこむ を おぼえる",
-    "romaji": "ochikomu o oboeru"
+    "kana": "しずか な まち に へんか が おちこむ",
+    "romaji": "shizuka na machi ni henka ga ochikomu"
   },
   "jlpt-n1-葦-534": {
-    "kana": "あし を おぼえる",
-    "romaji": "ashi o oboeru"
+    "kana": "かいぎ で あし について はなしあっ た",
+    "romaji": "kaigi de ashi nitsuite hanashia ta"
   },
   "jlpt-n1-葬る-86": {
-    "kana": "ほうむる を おぼえる",
-    "romaji": "houmuru o oboeru"
+    "kana": "ひつよう な とき に すぐ ほうむる",
+    "romaji": "hitsuyou na toki ni sugu houmuru"
   },
   "jlpt-n1-蓄積-1002": {
-    "kana": "ちくせき を おぼえる",
-    "romaji": "chikuseki o oboeru"
+    "kana": "かいぎ で ちくせき について はなしあっ た",
+    "romaji": "kaigi de chikuseki nitsuite hanashia ta"
   },
   "jlpt-n1-蕾-401": {
-    "kana": "つぼみ を おぼえる",
-    "romaji": "tsubomi o oboeru"
+    "kana": "かいぎ で つぼみ について はなしあっ た",
+    "romaji": "kaigi de tsubomi nitsuite hanashia ta"
   },
   "jlpt-n1-薄弱-536": {
-    "kana": "はくじゃく を おぼえる",
-    "romaji": "hakujaku o oboeru"
+    "kana": "かいぎ で はくじゃく について はなしあっ た",
+    "romaji": "kaigi de hakujaku nitsuite hanashia ta"
   },
   "jlpt-n1-藻掻く-316": {
-    "kana": "も かく を おぼえる",
-    "romaji": "mo kaku o oboeru"
+    "kana": "しっぱい し て も もういちど も かく",
+    "romaji": "shippai shi te mo mouichido mo kaku"
   },
   "jlpt-n1-蛋白質-21": {
-    "kana": "たんぱく しつ を おぼえる",
-    "romaji": "tanpaku shitsu o oboeru"
+    "kana": "かいぎ で たんぱく しつ について はなしあっ た",
+    "romaji": "kaigi de tanpaku shitsu nitsuite hanashia ta"
   },
   "jlpt-n1-蜂蜜-586": {
-    "kana": "はちみつ を おぼえる",
-    "romaji": "hachimitsu o oboeru"
+    "kana": "かいぎ で はちみつ について はなしあっ た",
+    "romaji": "kaigi de hachimitsu nitsuite hanashia ta"
   },
   "jlpt-n1-蝶-262": {
-    "kana": "ちょう を おぼえる",
-    "romaji": "chou o oboeru"
+    "kana": "かいぎ で ちょう について はなしあっ た",
+    "romaji": "kaigi de chou nitsuite hanashia ta"
   },
   "jlpt-n1-血管-1261": {
-    "kana": "けっかん を おぼえる",
-    "romaji": "kekkan o oboeru"
+    "kana": "この もんだい に わ けっかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kekkan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-衆議院-350": {
-    "kana": "しゅうぎいん を おぼえる",
-    "romaji": "shuugiin o oboeru"
+    "kana": "しゅうまつ に しゅうぎいん え いっ た",
+    "romaji": "shuumatsu ni shuugiin e i ta"
   },
   "jlpt-n1-行き違い-76": {
-    "kana": "いきちがい を おぼえる",
-    "romaji": "ikichigai o oboeru"
+    "kana": "その けいけん から いき ちがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara iki chigai no taisetsu sa o shi ta"
   },
   "jlpt-n1-行員-387": {
-    "kana": "こういん を おぼえる",
-    "romaji": "kouin o oboeru"
+    "kana": "しゅうまつ に こういん え いっ た",
+    "romaji": "shuumatsu ni kouin e i ta"
   },
   "jlpt-n1-行政-612": {
-    "kana": "ぎょうせい を おぼえる",
-    "romaji": "gyousei o oboeru"
+    "kana": "その けいけん から ぎょうせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gyousei no taisetsu sa o shi ta"
   },
   "jlpt-n1-行進-701": {
-    "kana": "こうしん を おぼえる",
-    "romaji": "koushin o oboeru"
+    "kana": "その けいけん から こうしん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koushin no taisetsu sa o shi ta"
   },
   "jlpt-n1-衝撃-658": {
-    "kana": "しょうげき を おぼえる",
-    "romaji": "shougeki o oboeru"
+    "kana": "じゅぎょう で しょうげき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shougeki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-補強-1066": {
-    "kana": "ほきょう を おぼえる",
-    "romaji": "hokyou o oboeru"
+    "kana": "かいぎ で ほきょう について はなしあっ た",
+    "romaji": "kaigi de hokyou nitsuite hanashia ta"
   },
   "jlpt-n1-補給-477": {
-    "kana": "ほきゅう を おぼえる",
-    "romaji": "hokyuu o oboeru"
+    "kana": "その けいけん から ほきゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hokyuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-裸足-892": {
-    "kana": "はだし を おぼえる",
-    "romaji": "hadashi o oboeru"
+    "kana": "じゅぎょう で はだし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hadashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-製-847": {
-    "kana": "せい を おぼえる",
-    "romaji": "sei o oboeru"
+    "kana": "かいぎ で せい について はなしあっ た",
+    "romaji": "kaigi de sei nitsuite hanashia ta"
   },
   "jlpt-n1-製鉄-583": {
-    "kana": "せいてつ を おぼえる",
-    "romaji": "seitetsu o oboeru"
+    "kana": "かいぎ で せいてつ について はなしあっ た",
+    "romaji": "kaigi de seitetsu nitsuite hanashia ta"
   },
   "jlpt-n1-複合-860": {
-    "kana": "ふくごう を おぼえる",
-    "romaji": "fukugou o oboeru"
+    "kana": "じゅぎょう で ふくごう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fukugou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-褒美-833": {
-    "kana": "ほうび を おぼえる",
-    "romaji": "houbi o oboeru"
+    "kana": "かいぎ で ほうび について はなしあっ た",
+    "romaji": "kaigi de houbi nitsuite hanashia ta"
   },
   "jlpt-n1-襲撃-1023": {
-    "kana": "しゅうげき を おぼえる",
-    "romaji": "shuugeki o oboeru"
+    "kana": "じゅぎょう で しゅうげき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuugeki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-要因-948": {
-    "kana": "よういん を おぼえる",
-    "romaji": "youin o oboeru"
+    "kana": "じゅぎょう で よういん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de youin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-要望-748": {
-    "kana": "ようぼう を おぼえる",
-    "romaji": "youbou o oboeru"
+    "kana": "かいぎ で ようぼう について はなしあっ た",
+    "romaji": "kaigi de youbou nitsuite hanashia ta"
   },
   "jlpt-n1-覆す-924": {
-    "kana": "くつがえす を おぼえる",
-    "romaji": "kutsugaesu o oboeru"
+    "kana": "ひつよう な とき に すぐ くつがえす",
+    "romaji": "hitsuyou na toki ni sugu kutsugaesu"
   },
   "jlpt-n1-覆面-1193": {
-    "kana": "ふくめん を おぼえる",
-    "romaji": "fukumen o oboeru"
+    "kana": "じゅぎょう で ふくめん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fukumen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-見すぼらしい-1159": {
-    "kana": "み す ぼ らしい を おぼえる",
-    "romaji": "mi su bo rashii o oboeru"
+    "kana": "かいぎ で み す ぼ らしい について はなしあっ た",
+    "romaji": "kaigi de mi su bo rashii nitsuite hanashia ta"
   },
   "jlpt-n1-見せびらかす-736": {
-    "kana": "みせびらかす を おぼえる",
-    "romaji": "misebirakasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て みせびらかす",
+    "romaji": "sensei no mae de ochitsui te misebirakasu"
   },
   "jlpt-n1-見方-94": {
-    "kana": "みかた を おぼえる",
-    "romaji": "mikata o oboeru"
+    "kana": "かいぎ で みかた について はなしあっ た",
+    "romaji": "kaigi de mikata nitsuite hanashia ta"
   },
   "jlpt-n1-見晴らし-535": {
-    "kana": "みはらし を おぼえる",
-    "romaji": "miharashi o oboeru"
+    "kana": "かいぎ で みはらし について はなしあっ た",
+    "romaji": "kaigi de miharashi nitsuite hanashia ta"
   },
   "jlpt-n1-見積り-930": {
-    "kana": "みつもり を おぼえる",
-    "romaji": "mitsumori o oboeru"
+    "kana": "じゅぎょう で みつもり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mitsumori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-見落とす-448": {
-    "kana": "みおとす を おぼえる",
-    "romaji": "miotosu o oboeru"
+    "kana": "しっぱい し て も もういちど みおとす",
+    "romaji": "shippai shi te mo mouichido miotosu"
   },
   "jlpt-n1-規模-92": {
-    "kana": "きぼ を おぼえる",
-    "romaji": "kibo o oboeru"
+    "kana": "その けいけん から きぼ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kibo no taisetsu sa o shi ta"
   },
   "jlpt-n1-観点-1203": {
-    "kana": "かんてん を おぼえる",
-    "romaji": "kanten o oboeru"
+    "kana": "この もんだい に わ かんてん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanten ga fukaku kankei shi te iru"
   },
   "jlpt-n1-観衆-487": {
-    "kana": "かんしゅう を おぼえる",
-    "romaji": "kanshuu o oboeru"
+    "kana": "その けいけん から かんしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kanshuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-観覧-908": {
-    "kana": "かんらん を おぼえる",
-    "romaji": "kanran o oboeru"
+    "kana": "じゅぎょう で かんらん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanran o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-角-635": {
-    "kana": "かく を おぼえる",
-    "romaji": "kaku o oboeru"
+    "kana": "かいぎ で かく について はなしあっ た",
+    "romaji": "kaigi de kaku nitsuite hanashia ta"
   },
   "jlpt-n1-訂正-859": {
-    "kana": "ていせい を おぼえる",
-    "romaji": "teisei o oboeru"
+    "kana": "その けいけん から ていせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara teisei no taisetsu sa o shi ta"
   },
   "jlpt-n1-討論-777": {
-    "kana": "とうろん を おぼえる",
-    "romaji": "touron o oboeru"
+    "kana": "その けいけん から とうろん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara touron no taisetsu sa o shi ta"
   },
   "jlpt-n1-討議-639": {
-    "kana": "とうぎ を おぼえる",
-    "romaji": "tougi o oboeru"
+    "kana": "かいぎ で とうぎ について はなしあっ た",
+    "romaji": "kaigi de tougi nitsuite hanashia ta"
   },
   "jlpt-n1-記名-1268": {
-    "kana": "きめい を おぼえる",
-    "romaji": "kimei o oboeru"
+    "kana": "じゅぎょう で きめい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kimei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-記載-1217": {
-    "kana": "きさい を おぼえる",
-    "romaji": "kisai o oboeru"
+    "kana": "じゅぎょう で きさい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kisai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-訪れる-549": {
-    "kana": "おとずれる を おぼえる",
-    "romaji": "otozureru o oboeru"
+    "kana": "ひつよう な とき に すぐ おとずれる",
+    "romaji": "hitsuyou na toki ni sugu otozureru"
   },
   "jlpt-n1-設定-103": {
-    "kana": "せってい を おぼえる",
-    "romaji": "settei o oboeru"
+    "kana": "その けいけん から せってい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara settei no taisetsu sa o shi ta"
   },
   "jlpt-n1-訴え-493": {
-    "kana": "うったえ を おぼえる",
-    "romaji": "uttae o oboeru"
+    "kana": "かいぎ で うったえ について はなしあっ た",
+    "romaji": "kaigi de uttae nitsuite hanashia ta"
   },
   "jlpt-n1-診療-25": {
-    "kana": "しんりょう を おぼえる",
-    "romaji": "shinryou o oboeru"
+    "kana": "この もんだい に わ しんりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shinryou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-証-584": {
-    "kana": "あかし を おぼえる",
-    "romaji": "akashi o oboeru"
+    "kana": "かいぎ で あかし について はなしあっ た",
+    "romaji": "kaigi de akashi nitsuite hanashia ta"
   },
   "jlpt-n1-詐欺-240": {
-    "kana": "さぎ を おぼえる",
-    "romaji": "sagi o oboeru"
+    "kana": "この もんだい に わ さぎ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sagi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-試みる-848": {
-    "kana": "こころみる を おぼえる",
-    "romaji": "kokoromiru o oboeru"
+    "kana": "しっぱい し て も もういちど こころみる",
+    "romaji": "shippai shi te mo mouichido kokoromiru"
   },
   "jlpt-n1-詫び-1076": {
-    "kana": "わび を おぼえる",
-    "romaji": "wabi o oboeru"
+    "kana": "かいぎ で わび について はなしあっ た",
+    "romaji": "kaigi de wabi nitsuite hanashia ta"
   },
   "jlpt-n1-詰る-1131": {
-    "kana": "つまる を おぼえる",
-    "romaji": "tsumaru o oboeru"
+    "kana": "しっぱい し て も もういちど つまる",
+    "romaji": "shippai shi te mo mouichido tsumaru"
   },
   "jlpt-n1-誘惑-257": {
-    "kana": "ゆうわく を おぼえる",
-    "romaji": "yuuwaku o oboeru"
+    "kana": "その けいけん から ゆうわく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yuuwaku no taisetsu sa o shi ta"
   },
   "jlpt-n1-誤る-481": {
-    "kana": "あやまる を おぼえる",
-    "romaji": "ayamaru o oboeru"
+    "kana": "しっぱい し て も もういちど あやまる",
+    "romaji": "shippai shi te mo mouichido ayamaru"
   },
   "jlpt-n1-誤魔化す-197": {
-    "kana": "ごまかす を おぼえる",
-    "romaji": "gomakasu o oboeru"
+    "kana": "しっぱい し て も もういちど ごまかす",
+    "romaji": "shippai shi te mo mouichido gomakasu"
   },
   "jlpt-n1-読み上げる-1264": {
-    "kana": "よみあげる を おぼえる",
-    "romaji": "yomiageru o oboeru"
+    "kana": "あさ の でんしゃ で しんぶん を よみあげる",
+    "romaji": "asa no densha de shinbun o yomiageru"
   },
   "jlpt-n1-読者-1260": {
-    "kana": "どくしゃ を おぼえる",
-    "romaji": "dokusha o oboeru"
+    "kana": "その けいけん から どくしゃ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dokusha no taisetsu sa o shi ta"
   },
   "jlpt-n1-誰-1051": {
-    "kana": "だれ を おぼえる",
-    "romaji": "dare o oboeru"
+    "kana": "だれ に みち を たずね た",
+    "romaji": "dare ni michi o tazune ta"
   },
   "jlpt-n1-課外-649": {
-    "kana": "かがい を おぼえる",
-    "romaji": "kagai o oboeru"
+    "kana": "じゅぎょう で かがい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kagai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-調べ-699": {
-    "kana": "しらべ を おぼえる",
-    "romaji": "shirabe o oboeru"
+    "kana": "その けいけん から しらべ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shirabe no taisetsu sa o shi ta"
   },
   "jlpt-n1-調停-731": {
-    "kana": "ちょうてい を おぼえる",
-    "romaji": "choutei o oboeru"
+    "kana": "この もんだい に わ ちょうてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa choutei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-諄い-342": {
-    "kana": "諄 い を おぼえる",
-    "romaji": "諄 i o oboeru"
+    "kana": "かいぎ で 諄 い について はなしあっ た",
+    "romaji": "kaigi de 諄 i nitsuite hanashia ta"
   },
   "jlpt-n1-論理-1009": {
-    "kana": "ろんり を おぼえる",
-    "romaji": "ronri o oboeru"
+    "kana": "その けいけん から ろんり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ronri no taisetsu sa o shi ta"
   },
   "jlpt-n1-論議-660": {
-    "kana": "ろんぎ を おぼえる",
-    "romaji": "rongi o oboeru"
+    "kana": "じゅぎょう で ろんぎ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de rongi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-諦め-645": {
-    "kana": "あきらめ を おぼえる",
-    "romaji": "akirame o oboeru"
+    "kana": "その けいけん から あきらめ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara akirame no taisetsu sa o shi ta"
   },
   "jlpt-n1-諮る-273": {
-    "kana": "はかる を おぼえる",
-    "romaji": "hakaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て はかる",
+    "romaji": "sensei no mae de ochitsui te hakaru"
   },
   "jlpt-n1-諸君-168": {
-    "kana": "しょくん を おぼえる",
-    "romaji": "shokun o oboeru"
+    "kana": "その けいけん から しょくん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shokun no taisetsu sa o shi ta"
   },
   "jlpt-n1-講習-656": {
-    "kana": "こうしゅう を おぼえる",
-    "romaji": "koushuu o oboeru"
+    "kana": "じゅぎょう で こうしゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koushuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-謝絶-203": {
-    "kana": "しゃぜつ を おぼえる",
-    "romaji": "shazetsu o oboeru"
+    "kana": "その けいけん から しゃぜつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shazetsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-議案-303": {
-    "kana": "ぎあん を おぼえる",
-    "romaji": "gian o oboeru"
+    "kana": "この もんだい に わ ぎあん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gian ga fukaku kankei shi te iru"
   },
   "jlpt-n1-負う-16": {
-    "kana": "おう を おぼえる",
-    "romaji": "ou o oboeru"
+    "kana": "しっぱい し て も もういちど おう",
+    "romaji": "shippai shi te mo mouichido ou"
   },
   "jlpt-n1-負かす-500": {
-    "kana": "まかす を おぼえる",
-    "romaji": "makasu o oboeru"
+    "kana": "ひつよう な とき に すぐ まかす",
+    "romaji": "hitsuyou na toki ni sugu makasu"
   },
   "jlpt-n1-負傷-173": {
-    "kana": "ふしょう を おぼえる",
-    "romaji": "fushou o oboeru"
+    "kana": "じゅぎょう で ふしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fushou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-負担-191": {
-    "kana": "ふたん を おぼえる",
-    "romaji": "futan o oboeru"
+    "kana": "この もんだい に わ ふたん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa futan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-財-450": {
-    "kana": "ざい を おぼえる",
-    "romaji": "zai o oboeru"
+    "kana": "かいぎ で ざい について はなしあっ た",
+    "romaji": "kaigi de zai nitsuite hanashia ta"
   },
   "jlpt-n1-貨幣-715": {
-    "kana": "かへい を おぼえる",
-    "romaji": "kahei o oboeru"
+    "kana": "かいぎ で かへい について はなしあっ た",
+    "romaji": "kaigi de kahei nitsuite hanashia ta"
   },
   "jlpt-n1-貫禄-294": {
-    "kana": "かんろく を おぼえる",
-    "romaji": "kanroku o oboeru"
+    "kana": "この もんだい に わ かんろく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanroku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-貴女-170": {
-    "kana": "きじょ を おぼえる",
-    "romaji": "kijo o oboeru"
+    "kana": "この もんだい に わ きじょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kijo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-費やす-891": {
-    "kana": "ついやす を おぼえる",
-    "romaji": "tsuiyasu o oboeru"
+    "kana": "しっぱい し て も もういちど ついやす",
+    "romaji": "shippai shi te mo mouichido tsuiyasu"
   },
   "jlpt-n1-賃金-1020": {
-    "kana": "ちんぎん を おぼえる",
-    "romaji": "chingin o oboeru"
+    "kana": "かいぎ で ちんぎん について はなしあっ た",
+    "romaji": "kaigi de chingin nitsuite hanashia ta"
   },
   "jlpt-n1-賄う-946": {
-    "kana": "まかなう を おぼえる",
-    "romaji": "makanau o oboeru"
+    "kana": "ともだち に にもつ を まかなう",
+    "romaji": "tomodachi ni nimotsu o makanau"
   },
   "jlpt-n1-資産-1162": {
-    "kana": "しさん を おぼえる",
-    "romaji": "shisan o oboeru"
+    "kana": "その けいけん から しさん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shisan no taisetsu sa o shi ta"
   },
   "jlpt-n1-質疑-1044": {
-    "kana": "しつぎ を おぼえる",
-    "romaji": "shitsugi o oboeru"
+    "kana": "かいぎ で しつぎ について はなしあっ た",
+    "romaji": "kaigi de shitsugi nitsuite hanashia ta"
   },
   "jlpt-n1-質素-845": {
-    "kana": "しっそ を おぼえる",
-    "romaji": "shisso o oboeru"
+    "kana": "かいぎ で しっそ について はなしあっ た",
+    "romaji": "kaigi de shisso nitsuite hanashia ta"
   },
   "jlpt-n1-賭け-5": {
-    "kana": "かけ を おぼえる",
-    "romaji": "kake o oboeru"
+    "kana": "その かけ に わ おおきな りすく が ある",
+    "romaji": "sono kake ni wa ookina risuku ga aru"
   },
   "jlpt-n1-賭ける-573": {
-    "kana": "かける を おぼえる",
-    "romaji": "kakeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かける",
+    "romaji": "sensei no mae de ochitsui te kakeru"
   },
   "jlpt-n1-購読-23": {
-    "kana": "こうどく を おぼえる",
-    "romaji": "koudoku o oboeru"
+    "kana": "じゅぎょう で こうどく を こえ に だし て よん だ",
+    "romaji": "jugyou de koudoku o koe ni dashi te yon da"
   },
   "jlpt-n1-赤ちゃん-475": {
-    "kana": "あかちゃん を おぼえる",
-    "romaji": "akachan o oboeru"
+    "kana": "かいぎ で あかちゃん について はなしあっ た",
+    "romaji": "kaigi de akachan nitsuite hanashia ta"
   },
   "jlpt-n1-赤字-911": {
-    "kana": "あかじ を おぼえる",
-    "romaji": "akaji o oboeru"
+    "kana": "かいぎ で あかじ について はなしあっ た",
+    "romaji": "kaigi de akaji nitsuite hanashia ta"
   },
   "jlpt-n1-起こす-944": {
-    "kana": "おこす を おぼえる",
-    "romaji": "okosu o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし おこす",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi okosu"
   },
   "jlpt-n1-起源-873": {
-    "kana": "きげん を おぼえる",
-    "romaji": "kigen o oboeru"
+    "kana": "かいぎ で きげん について はなしあっ た",
+    "romaji": "kaigi de kigen nitsuite hanashia ta"
   },
   "jlpt-n1-起点-598": {
-    "kana": "きてん を おぼえる",
-    "romaji": "kiten o oboeru"
+    "kana": "じゅぎょう で きてん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kiten o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-趣旨-371": {
-    "kana": "しゅし を おぼえる",
-    "romaji": "shushi o oboeru"
+    "kana": "しゅし を かばん に いれ た",
+    "romaji": "shushi o kaban ni ire ta"
   },
   "jlpt-n1-跡継ぎ-256": {
-    "kana": "あとつぎ を おぼえる",
-    "romaji": "atotsugi o oboeru"
+    "kana": "かいぎ で あとつぎ について はなしあっ た",
+    "romaji": "kaigi de atotsugi nitsuite hanashia ta"
   },
   "jlpt-n1-踵-1025": {
-    "kana": "かかと を おぼえる",
-    "romaji": "kakato o oboeru"
+    "kana": "つくえ の うえ に かかと を おい た",
+    "romaji": "tsukue no ue ni kakato o oi ta"
   },
   "jlpt-n1-身なり-1248": {
-    "kana": "みなり を おぼえる",
-    "romaji": "minari o oboeru"
+    "kana": "この もんだい に わ みなり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa minari ga fukaku kankei shi te iru"
   },
   "jlpt-n1-軋む-1040": {
-    "kana": "きしむ を おぼえる",
-    "romaji": "kishimu o oboeru"
+    "kana": "せんせい の まえ で おちつい て きしむ",
+    "romaji": "sensei no mae de ochitsui te kishimu"
   },
   "jlpt-n1-軍備-1102": {
-    "kana": "ぐんび を おぼえる",
-    "romaji": "gunbi o oboeru"
+    "kana": "その けいけん から ぐんび の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gunbi no taisetsu sa o shi ta"
   },
   "jlpt-n1-軍服-141": {
-    "kana": "ぐんぷく を おぼえる",
-    "romaji": "gunpuku o oboeru"
+    "kana": "この もんだい に わ ぐんぷく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gunpuku ga fukaku kankei shi te iru"
   },
   "jlpt-n1-軍艦-306": {
-    "kana": "ぐんかん を おぼえる",
-    "romaji": "gunkan o oboeru"
+    "kana": "かいぎ で ぐんかん について はなしあっ た",
+    "romaji": "kaigi de gunkan nitsuite hanashia ta"
   },
   "jlpt-n1-転任-1061": {
-    "kana": "てんにん を おぼえる",
-    "romaji": "tennin o oboeru"
+    "kana": "この もんだい に わ てんにん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tennin ga fukaku kankei shi te iru"
   },
   "jlpt-n1-転勤-1255": {
-    "kana": "てんきん を おぼえる",
-    "romaji": "tenkin o oboeru"
+    "kana": "かいぎ で てんきん について はなしあっ た",
+    "romaji": "kaigi de tenkin nitsuite hanashia ta"
   },
   "jlpt-n1-転居-469": {
-    "kana": "てんきょ を おぼえる",
-    "romaji": "tenkyo o oboeru"
+    "kana": "かいぎ で てんきょ について はなしあっ た",
+    "romaji": "kaigi de tenkyo nitsuite hanashia ta"
   },
   "jlpt-n1-転落-852": {
-    "kana": "てんらく を おぼえる",
-    "romaji": "tenraku o oboeru"
+    "kana": "じゅぎょう で てんらく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tenraku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-軸-1143": {
-    "kana": "じく を おぼえる",
-    "romaji": "jiku o oboeru"
+    "kana": "かいぎ で じく について はなしあっ た",
+    "romaji": "kaigi de jiku nitsuite hanashia ta"
   },
   "jlpt-n1-軽蔑-865": {
-    "kana": "けいべつ を おぼえる",
-    "romaji": "keibetsu o oboeru"
+    "kana": "その けいけん から けいべつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara keibetsu no taisetsu sa o shi ta"
   },
   "jlpt-n1-辛うじて-109": {
-    "kana": "かろうじて を おぼえる",
-    "romaji": "karoujite o oboeru"
+    "kana": "その けいけん から かろうじて の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara karoujite no taisetsu sa o shi ta"
   },
   "jlpt-n1-辞職-96": {
-    "kana": "じしょく を おぼえる",
-    "romaji": "jishoku o oboeru"
+    "kana": "その けいけん から じしょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jishoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-辞退-997": {
-    "kana": "じたい を おぼえる",
-    "romaji": "jitai o oboeru"
+    "kana": "じゅぎょう で じたい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jitai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-辟易-1202": {
-    "kana": "へきえき を おぼえる",
-    "romaji": "hekieki o oboeru"
+    "kana": "この もんだい に わ へきえき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hekieki ga fukaku kankei shi te iru"
   },
   "jlpt-n1-農耕-207": {
-    "kana": "のうこう を おぼえる",
-    "romaji": "noukou o oboeru"
+    "kana": "この もんだい に わ のうこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa noukou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-迅速-912": {
-    "kana": "じんそく を おぼえる",
-    "romaji": "jinsoku o oboeru"
+    "kana": "その けいけん から じんそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jinsoku no taisetsu sa o shi ta"
   },
   "jlpt-n1-近々-1022": {
-    "kana": "ちかぢか を おぼえる",
-    "romaji": "chikajika o oboeru"
+    "kana": "じゅぎょう で ちかぢか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chikajika o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-返答-315": {
-    "kana": "へんとう を おぼえる",
-    "romaji": "hentou o oboeru"
+    "kana": "その けいけん から へんとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hentou no taisetsu sa o shi ta"
   },
   "jlpt-n1-返還-1026": {
-    "kana": "へんかん を おぼえる",
-    "romaji": "henkan o oboeru"
+    "kana": "その けいけん から へんかん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara henkan no taisetsu sa o shi ta"
   },
   "jlpt-n1-追及-767": {
-    "kana": "ついきゅう を おぼえる",
-    "romaji": "tsuikyuu o oboeru"
+    "kana": "この もんだい に わ ついきゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsuikyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n1-退く-1054": {
-    "kana": "しりぞく を おぼえる",
-    "romaji": "shirizoku o oboeru"
+    "kana": "あぶない と おもっ たら すぐ しりぞく",
+    "romaji": "abunai to omo tara sugu shirizoku"
   },
   "jlpt-n1-退学-851": {
-    "kana": "たいがく を おぼえる",
-    "romaji": "taigaku o oboeru"
+    "kana": "しゅうまつ に たいがく え いっ た",
+    "romaji": "shuumatsu ni taigaku e i ta"
   },
   "jlpt-n1-退職-675": {
-    "kana": "たいしょく を おぼえる",
-    "romaji": "taishoku o oboeru"
+    "kana": "たいしょく で ともだち を まっ た",
+    "romaji": "taishoku de tomodachi o ma ta"
   },
   "jlpt-n1-逃す-1050": {
-    "kana": "のがす を おぼえる",
-    "romaji": "nogasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て のがす",
+    "romaji": "sensei no mae de ochitsui te nogasu"
   },
   "jlpt-n1-逃走-854": {
-    "kana": "とうそう を おぼえる",
-    "romaji": "tousou o oboeru"
+    "kana": "かいぎ で とうそう について はなしあっ た",
+    "romaji": "kaigi de tousou nitsuite hanashia ta"
   },
   "jlpt-n1-逆立ち-1154": {
-    "kana": "さかだち を おぼえる",
-    "romaji": "sakadachi o oboeru"
+    "kana": "この もんだい に わ さかだち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sakadachi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-途上-30": {
-    "kana": "とじょう を おぼえる",
-    "romaji": "tojou o oboeru"
+    "kana": "じゅぎょう で とじょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tojou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-通常-1008": {
-    "kana": "つうじょう を おぼえる",
-    "romaji": "tsuujou o oboeru"
+    "kana": "この もんだい に わ つうじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsuujou ga fukaku kankei shi te iru"
   },
   "jlpt-n1-造り-55": {
-    "kana": "つくり を おぼえる",
-    "romaji": "tsukuri o oboeru"
+    "kana": "つくり え まっすぐ すすん だ",
+    "romaji": "tsukuri e massugu susun da"
   },
   "jlpt-n1-造る-687": {
-    "kana": "つくる を おぼえる",
-    "romaji": "tsukuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つくる",
+    "romaji": "sensei no mae de ochitsui te tsukuru"
   },
   "jlpt-n1-連ねる-820": {
-    "kana": "つらねる を おぼえる",
-    "romaji": "tsuraneru o oboeru"
+    "kana": "しっぱい し て も もういちど つらねる",
+    "romaji": "shippai shi te mo mouichido tsuraneru"
   },
   "jlpt-n1-連中-527": {
-    "kana": "れんちゅう を おぼえる",
-    "romaji": "renchuu o oboeru"
+    "kana": "その けいけん から れんちゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara renchuu no taisetsu sa o shi ta"
   },
   "jlpt-n1-連帯-647": {
-    "kana": "れんたい を おぼえる",
-    "romaji": "rentai o oboeru"
+    "kana": "この もんだい に わ れんたい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa rentai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-連邦-955": {
-    "kana": "れんぽう を おぼえる",
-    "romaji": "renpou o oboeru"
+    "kana": "じゅぎょう で れんぽう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de renpou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-進み-1207": {
-    "kana": "すすみ を おぼえる",
-    "romaji": "susumi o oboeru"
+    "kana": "この もんだい に わ すすみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa susumi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-進展-504": {
-    "kana": "しんてん を おぼえる",
-    "romaji": "shinten o oboeru"
+    "kana": "じゅぎょう で しんてん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shinten o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-進度-706": {
-    "kana": "しんど を おぼえる",
-    "romaji": "shindo o oboeru"
+    "kana": "この もんだい に わ しんど が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shindo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-逸らす-804": {
-    "kana": "そらす を おぼえる",
-    "romaji": "sorasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て そらす",
+    "romaji": "sensei no mae de ochitsui te sorasu"
   },
   "jlpt-n1-遅くとも-542": {
-    "kana": "おそくとも を おぼえる",
-    "romaji": "osokutomo o oboeru"
+    "kana": "じゅぎょう で おそくとも を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de osokutomo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-遅れ-174": {
-    "kana": "おくれ を おぼえる",
-    "romaji": "okure o oboeru"
+    "kana": "この もんだい に わ おくれ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa okure ga fukaku kankei shi te iru"
   },
   "jlpt-n1-遊牧-640": {
-    "kana": "ゆうぼく を おぼえる",
-    "romaji": "yuuboku o oboeru"
+    "kana": "その けいけん から ゆうぼく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yuuboku no taisetsu sa o shi ta"
   },
   "jlpt-n1-運命-1238": {
-    "kana": "うんめい を おぼえる",
-    "romaji": "unmei o oboeru"
+    "kana": "その けいけん から うんめい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara unmei no taisetsu sa o shi ta"
   },
   "jlpt-n1-運営-229": {
-    "kana": "うんえい を おぼえる",
-    "romaji": "un'ei o oboeru"
+    "kana": "その けいけん から うんえい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara un'ei no taisetsu sa o shi ta"
   },
   "jlpt-n1-運搬-1284": {
-    "kana": "うんぱん を おぼえる",
-    "romaji": "unpan o oboeru"
+    "kana": "その けいけん から うんぱん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara unpan no taisetsu sa o shi ta"
   },
   "jlpt-n1-過労-742": {
-    "kana": "かろう を おぼえる",
-    "romaji": "karou o oboeru"
+    "kana": "その けいけん から かろう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara karou no taisetsu sa o shi ta"
   },
   "jlpt-n1-違える-128": {
-    "kana": "ちがえる を おぼえる",
-    "romaji": "chigaeru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし ちがえる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi chigaeru"
   },
   "jlpt-n1-遠ざかる-215": {
-    "kana": "とおざかる を おぼえる",
-    "romaji": "toozakaru o oboeru"
+    "kana": "じゅぎょう の あと えき え とおざかる",
+    "romaji": "jugyou no ato eki e toozakaru"
   },
   "jlpt-n1-遣り通す-422": {
-    "kana": "やり とおす を おぼえる",
-    "romaji": "yari toosu o oboeru"
+    "kana": "ともだち に にもつ を やり とおす",
+    "romaji": "tomodachi ni nimotsu o yari toosu"
   },
   "jlpt-n1-適性-1226": {
-    "kana": "てきせい を おぼえる",
-    "romaji": "tekisei o oboeru"
+    "kana": "この もんだい に わ てきせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tekisei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-遭難-259": {
-    "kana": "そうなん を おぼえる",
-    "romaji": "sounan o oboeru"
+    "kana": "この もんだい に わ そうなん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sounan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-還元-901": {
-    "kana": "かんげん を おぼえる",
-    "romaji": "kangen o oboeru"
+    "kana": "じゅぎょう で かんげん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kangen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-還暦-666": {
-    "kana": "かんれき を おぼえる",
-    "romaji": "kanreki o oboeru"
+    "kana": "じゅぎょう で かんれき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanreki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-部-334": {
-    "kana": "ぶ を おぼえる",
-    "romaji": "bu o oboeru"
+    "kana": "その けいけん から ぶ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bu no taisetsu sa o shi ta"
   },
   "jlpt-n1-部下-226": {
-    "kana": "ぶか を おぼえる",
-    "romaji": "buka o oboeru"
+    "kana": "ぶか に みち を たずね た",
+    "romaji": "buka ni michi o tazune ta"
   },
   "jlpt-n1-部門-510": {
-    "kana": "ぶもん を おぼえる",
-    "romaji": "bumon o oboeru"
+    "kana": "この もんだい に わ ぶもん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bumon ga fukaku kankei shi te iru"
   },
   "jlpt-n1-配分-433": {
-    "kana": "はいぶん を おぼえる",
-    "romaji": "haibun o oboeru"
+    "kana": "この もんだい に わ はいぶん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa haibun ga fukaku kankei shi te iru"
   },
   "jlpt-n1-配列-28": {
-    "kana": "はいれつ を おぼえる",
-    "romaji": "hairetsu o oboeru"
+    "kana": "かいぎ で はいれつ について はなしあっ た",
+    "romaji": "kaigi de hairetsu nitsuite hanashia ta"
   },
   "jlpt-n1-配給-300": {
-    "kana": "はいきゅう を おぼえる",
-    "romaji": "haikyuu o oboeru"
+    "kana": "ひる に はいきゅう を すこし たべ た",
+    "romaji": "hiru ni haikyuu o sukoshi tabe ta"
   },
   "jlpt-n1-酪農-784": {
-    "kana": "らくのう を おぼえる",
-    "romaji": "rakunou o oboeru"
+    "kana": "かいぎ で らくのう について はなしあっ た",
+    "romaji": "kaigi de rakunou nitsuite hanashia ta"
   },
   "jlpt-n1-酷い-265": {
-    "kana": "ひどい を おぼえる",
-    "romaji": "hidoi o oboeru"
+    "kana": "この へや わ おもっ た より ひどい",
+    "romaji": "kono heya wa omo ta yori hidoi"
   },
   "jlpt-n1-重んじる-129": {
-    "kana": "おもんじる を おぼえる",
-    "romaji": "omonjiru o oboeru"
+    "kana": "しっぱい し て も もういちど おもんじる",
+    "romaji": "shippai shi te mo mouichido omonjiru"
   },
   "jlpt-n1-重んずる-781": {
-    "kana": "おもんずる を おぼえる",
-    "romaji": "omonzuru o oboeru"
+    "kana": "しっぱい し て も もういちど おもんずる",
+    "romaji": "shippai shi te mo mouichido omonzuru"
   },
   "jlpt-n1-重複-663": {
-    "kana": "じゅうふく を おぼえる",
-    "romaji": "juufuku o oboeru"
+    "kana": "その けいけん から じゅうふく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara juufuku no taisetsu sa o shi ta"
   },
   "jlpt-n1-野党-33": {
-    "kana": "やとう を おぼえる",
-    "romaji": "yatou o oboeru"
+    "kana": "その けいけん から やとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yatou no taisetsu sa o shi ta"
   },
   "jlpt-n1-鈍感-680": {
-    "kana": "どんかん を おぼえる",
-    "romaji": "donkan o oboeru"
+    "kana": "この もんだい に わ どんかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa donkan ga fukaku kankei shi te iru"
   },
   "jlpt-n1-鉄棒-830": {
-    "kana": "てつぼう を おぼえる",
-    "romaji": "tetsubou o oboeru"
+    "kana": "かいぎ で てつぼう について はなしあっ た",
+    "romaji": "kaigi de tetsubou nitsuite hanashia ta"
   },
   "jlpt-n1-鉛-337": {
-    "kana": "なまり を おぼえる",
-    "romaji": "namari o oboeru"
+    "kana": "この もんだい に わ なまり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa namari ga fukaku kankei shi te iru"
   },
   "jlpt-n1-鉱山-185": {
-    "kana": "こうざん を おぼえる",
-    "romaji": "kouzan o oboeru"
+    "kana": "その けいけん から こうざん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kouzan no taisetsu sa o shi ta"
   },
   "jlpt-n1-銅-789": {
-    "kana": "どう を おぼえる",
-    "romaji": "dou o oboeru"
+    "kana": "じゅぎょう で どう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-鋸-785": {
-    "kana": "のこ を おぼえる",
-    "romaji": "noko o oboeru"
+    "kana": "じゅぎょう で のこ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de noko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-錯覚-377": {
-    "kana": "さっかく を おぼえる",
-    "romaji": "sakkaku o oboeru"
+    "kana": "かいぎ で さっかく について はなしあっ た",
+    "romaji": "kaigi de sakkaku nitsuite hanashia ta"
   },
   "jlpt-n1-鍛える-1168": {
-    "kana": "きたえる を おぼえる",
-    "romaji": "kitaeru o oboeru"
+    "kana": "しっぱい し て も もういちど きたえる",
+    "romaji": "shippai shi te mo mouichido kitaeru"
   },
   "jlpt-n1-長-326": {
-    "kana": "ちょう を おぼえる",
-    "romaji": "chou o oboeru"
+    "kana": "じゅぎょう で ちょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-長官-513": {
-    "kana": "ちょうかん を おぼえる",
-    "romaji": "choukan o oboeru"
+    "kana": "かいぎ で ちょうかん について はなしあっ た",
+    "romaji": "kaigi de choukan nitsuite hanashia ta"
   },
   "jlpt-n1-長閑-15": {
-    "kana": "のどか を おぼえる",
-    "romaji": "nodoka o oboeru"
+    "kana": "この もんだい わ すこし のどか",
+    "romaji": "kono mondai wa sukoshi nodoka"
   },
   "jlpt-n1-閉口-100": {
-    "kana": "へいこう を おぼえる",
-    "romaji": "heikou o oboeru"
+    "kana": "へいこう が すこし いたい",
+    "romaji": "heikou ga sukoshi itai"
   },
   "jlpt-n1-開催-41": {
-    "kana": "かいさい を おぼえる",
-    "romaji": "kaisai o oboeru"
+    "kana": "この もんだい に わ かいさい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kaisai ga fukaku kankei shi te iru"
   },
   "jlpt-n1-開拓-184": {
-    "kana": "かいたく を おぼえる",
-    "romaji": "kaitaku o oboeru"
+    "kana": "じゅぎょう で かいたく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kaitaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-開発-11": {
-    "kana": "かいはつ を おぼえる",
-    "romaji": "kaihatsu o oboeru"
+    "kana": "じゅぎょう で かいはつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kaihatsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-間柄-966": {
-    "kana": "あいだがら を おぼえる",
-    "romaji": "aidagara o oboeru"
+    "kana": "じゅぎょう で あいだがら を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de aidagara o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-関与-916": {
-    "kana": "かんよ を おぼえる",
-    "romaji": "kan'yo o oboeru"
+    "kana": "この もんだい に わ かんよ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kan'yo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-関税-454": {
-    "kana": "かんぜい を おぼえる",
-    "romaji": "kanzei o oboeru"
+    "kana": "この もんだい に わ かんぜい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanzei ga fukaku kankei shi te iru"
   },
   "jlpt-n1-閲覧-49": {
-    "kana": "えつらん を おぼえる",
-    "romaji": "etsuran o oboeru"
+    "kana": "じゅぎょう で えつらん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de etsuran o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-防火-1152": {
-    "kana": "ぼうか を おぼえる",
-    "romaji": "bouka o oboeru"
+    "kana": "この もんだい に わ ぼうか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bouka ga fukaku kankei shi te iru"
   },
   "jlpt-n1-阻む-50": {
-    "kana": "はばむ を おぼえる",
-    "romaji": "habamu o oboeru"
+    "kana": "ひつよう な とき に すぐ はばむ",
+    "romaji": "hitsuyou na toki ni sugu habamu"
   },
   "jlpt-n1-降水-895": {
-    "kana": "こうすい を おぼえる",
-    "romaji": "kousui o oboeru"
+    "kana": "じゅぎょう で こうすい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kousui o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-陳列-601": {
-    "kana": "ちんれつ を おぼえる",
-    "romaji": "chinretsu o oboeru"
+    "kana": "じゅぎょう で ちんれつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chinretsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-隔週-1155": {
-    "kana": "かくしゅう を おぼえる",
-    "romaji": "kakushuu o oboeru"
+    "kana": "かくしゅう わ いえ で べんきょう し た",
+    "romaji": "kakushuu wa ie de benkyou shi ta"
   },
   "jlpt-n1-際-389": {
-    "kana": "きわ を おぼえる",
-    "romaji": "kiwa o oboeru"
+    "kana": "じゅぎょう で さい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-障る-754": {
-    "kana": "さわる を おぼえる",
-    "romaji": "sawaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て さわる",
+    "romaji": "sensei no mae de ochitsui te sawaru"
   },
   "jlpt-n1-雅致-741": {
-    "kana": "がち を おぼえる",
-    "romaji": "gachi o oboeru"
+    "kana": "その けいけん から がち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gachi no taisetsu sa o shi ta"
   },
   "jlpt-n1-雑-205": {
-    "kana": "ざつ を おぼえる",
-    "romaji": "zatsu o oboeru"
+    "kana": "かいぎ で ざつ について はなしあっ た",
+    "romaji": "kaigi de zatsu nitsuite hanashia ta"
   },
   "jlpt-n1-雑談-64": {
-    "kana": "ざつだん を おぼえる",
-    "romaji": "zatsudan o oboeru"
+    "kana": "かいぎ で ざつだん について はなしあっ た",
+    "romaji": "kaigi de zatsudan nitsuite hanashia ta"
   },
   "jlpt-n1-雑貨-733": {
-    "kana": "ざっか を おぼえる",
-    "romaji": "zakka o oboeru"
+    "kana": "じゅぎょう で ざっか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zakka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-難い-376": {
-    "kana": "かたい を おぼえる",
-    "romaji": "katai o oboeru"
+    "kana": "この へや わ おもっ た より かたい",
+    "romaji": "kono heya wa omo ta yori katai"
   },
   "jlpt-n1-雪崩-923": {
-    "kana": "なだれ を おぼえる",
-    "romaji": "nadare o oboeru"
+    "kana": "その けいけん から なだれ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nadare no taisetsu sa o shi ta"
   },
   "jlpt-n1-雫-1055": {
-    "kana": "しずく を おぼえる",
-    "romaji": "shizuku o oboeru"
+    "kana": "しょくご に しずく を のん だ",
+    "romaji": "shokugo ni shizuku o non da"
   },
   "jlpt-n1-零す-424": {
-    "kana": "こぼす を おぼえる",
-    "romaji": "kobosu o oboeru"
+    "kana": "ひつよう な とき に すぐ こぼす",
+    "romaji": "hitsuyou na toki ni sugu kobosu"
   },
   "jlpt-n1-雷-1134": {
-    "kana": "かみなり を おぼえる",
-    "romaji": "kaminari o oboeru"
+    "kana": "その けいけん から かみなり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaminari no taisetsu sa o shi ta"
   },
   "jlpt-n1-霞む-1018": {
-    "kana": "かすむ を おぼえる",
-    "romaji": "kasumu o oboeru"
+    "kana": "ひつよう な とき に すぐ かすむ",
+    "romaji": "hitsuyou na toki ni sugu kasumu"
   },
   "jlpt-n1-静止-236": {
-    "kana": "せいし を おぼえる",
-    "romaji": "seishi o oboeru"
+    "kana": "この もんだい に わ せいし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seishi ga fukaku kankei shi te iru"
   },
   "jlpt-n1-非-464": {
-    "kana": "ひ を おぼえる",
-    "romaji": "hi o oboeru"
+    "kana": "じゅぎょう で ひ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-面-1038": {
-    "kana": "めん を おぼえる",
-    "romaji": "men o oboeru"
+    "kana": "めん が すこし いたい",
+    "romaji": "men ga sukoshi itai"
   },
   "jlpt-n1-面する-329": {
-    "kana": "めんする を おぼえる",
-    "romaji": "mensuru o oboeru"
+    "kana": "しっぱい し て も もういちど めんする",
+    "romaji": "shippai shi te mo mouichido mensuru"
   },
   "jlpt-n1-面皰-392": {
-    "kana": "にきび を おぼえる",
-    "romaji": "nikibi o oboeru"
+    "kana": "じゅぎょう で にきび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nikibi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-鞠-1101": {
-    "kana": "まり を おぼえる",
-    "romaji": "mari o oboeru"
+    "kana": "じゅぎょう で まり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-音-54": {
-    "kana": "おと を おぼえる",
-    "romaji": "oto o oboeru"
+    "kana": "じゅぎょう で おと を こえ に だし て よん だ",
+    "romaji": "jugyou de oto o koe ni dashi te yon da"
   },
   "jlpt-n1-頂-725": {
-    "kana": "いただき を おぼえる",
-    "romaji": "itadaki o oboeru"
+    "kana": "いただき え まっすぐ すすん だ",
+    "romaji": "itadaki e massugu susun da"
   },
   "jlpt-n1-頑丈-407": {
-    "kana": "がんじょう を おぼえる",
-    "romaji": "ganjou o oboeru"
+    "kana": "かいぎ で がんじょう について はなしあっ た",
+    "romaji": "kaigi de ganjou nitsuite hanashia ta"
   },
   "jlpt-n1-領土-556": {
-    "kana": "りょうど を おぼえる",
-    "romaji": "ryoudo o oboeru"
+    "kana": "じゅぎょう で りょうど を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ryoudo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-領域-1212": {
-    "kana": "りょういき を おぼえる",
-    "romaji": "ryouiki o oboeru"
+    "kana": "その けいけん から りょういき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ryouiki no taisetsu sa o shi ta"
   },
   "jlpt-n1-頻りに-263": {
-    "kana": "しきりに を おぼえる",
-    "romaji": "shikirini o oboeru"
+    "kana": "かいぎ で しきりに について はなしあっ た",
+    "romaji": "kaigi de shikirini nitsuite hanashia ta"
   },
   "jlpt-n1-頻繁-1186": {
-    "kana": "ひんぱん を おぼえる",
-    "romaji": "hinpan o oboeru"
+    "kana": "かいぎ で ひんぱん について はなしあっ た",
+    "romaji": "kaigi de hinpan nitsuite hanashia ta"
   },
   "jlpt-n1-顧みる-1096": {
-    "kana": "かえりみる を おぼえる",
-    "romaji": "kaerimiru o oboeru"
+    "kana": "まど の そと を じっと かえりみる",
+    "romaji": "mado no soto o jitto kaerimiru"
   },
   "jlpt-n1-風土-150": {
-    "kana": "ふうど を おぼえる",
-    "romaji": "fuudo o oboeru"
+    "kana": "この もんだい に わ ふうど が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fuudo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-風習-67": {
-    "kana": "ふうしゅう を おぼえる",
-    "romaji": "fuushuu o oboeru"
+    "kana": "かいぎ で ふうしゅう について はなしあっ た",
+    "romaji": "kaigi de fuushuu nitsuite hanashia ta"
   },
   "jlpt-n1-風車-2": {
-    "kana": "かざぐるま を おぼえる",
-    "romaji": "kazaguruma o oboeru"
+    "kana": "こうえん の かざぐるま が かぜ で ゆっくり まわる",
+    "romaji": "kouen no kazaguruma ga kaze de yukkuri mawaru"
   },
   "jlpt-n1-食い違う-735": {
-    "kana": "くいちがう を おぼえる",
-    "romaji": "kuichigau o oboeru"
+    "kana": "せんせい の まえ で おちつい て くいちがう",
+    "romaji": "sensei no mae de ochitsui te kuichigau"
   },
   "jlpt-n1-飼育-958": {
-    "kana": "しいく を おぼえる",
-    "romaji": "shiiku o oboeru"
+    "kana": "その けいけん から しいく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiiku no taisetsu sa o shi ta"
   },
   "jlpt-n1-養う-718": {
-    "kana": "やしなう を おぼえる",
-    "romaji": "yashinau o oboeru"
+    "kana": "ひつよう な とき に すぐ やしなう",
+    "romaji": "hitsuyou na toki ni sugu yashinau"
   },
   "jlpt-n1-養護-1273": {
-    "kana": "ようご を おぼえる",
-    "romaji": "yougo o oboeru"
+    "kana": "この もんだい に わ ようご が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yougo ga fukaku kankei shi te iru"
   },
   "jlpt-n1-饂飩-425": {
-    "kana": "うどん を おぼえる",
-    "romaji": "udon o oboeru"
+    "kana": "その けいけん から うどん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara udon no taisetsu sa o shi ta"
   },
   "jlpt-n1-首脳-17": {
-    "kana": "しゅのう を おぼえる",
-    "romaji": "shunou o oboeru"
+    "kana": "かいぎ で しゅのう について はなしあっ た",
+    "romaji": "kaigi de shunou nitsuite hanashia ta"
   },
   "jlpt-n1-馬鹿馬鹿しい-154": {
-    "kana": "ばかばかしい を おぼえる",
-    "romaji": "bakabakashii o oboeru"
+    "kana": "この もんだい に わ ばかばかしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bakabakashii ga fukaku kankei shi te iru"
   },
   "jlpt-n1-馴れ馴れしい-711": {
-    "kana": "なれなれしい を おぼえる",
-    "romaji": "narenareshii o oboeru"
+    "kana": "この もんだい に わ なれなれしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa narenareshii ga fukaku kankei shi te iru"
   },
   "jlpt-n1-駄作-1148": {
-    "kana": "ださく を おぼえる",
-    "romaji": "dasaku o oboeru"
+    "kana": "かいぎ で ださく について はなしあっ た",
+    "romaji": "kaigi de dasaku nitsuite hanashia ta"
   },
   "jlpt-n1-駆けっこ-747": {
-    "kana": "かけっ こ を おぼえる",
-    "romaji": "kake ko o oboeru"
+    "kana": "かけっ こ が すこし いたい",
+    "romaji": "kake ko ga sukoshi itai"
   },
   "jlpt-n1-驚き-692": {
-    "kana": "おどろき を おぼえる",
-    "romaji": "odoroki o oboeru"
+    "kana": "その けいけん から おどろき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara odoroki no taisetsu sa o shi ta"
   },
   "jlpt-n1-骨董品-567": {
-    "kana": "こっとう ひん を おぼえる",
-    "romaji": "kottou hin o oboeru"
+    "kana": "かいぎ で こっとう ひん について はなしあっ た",
+    "romaji": "kaigi de kottou hin nitsuite hanashia ta"
   },
   "jlpt-n1-高原-483": {
-    "kana": "こうげん を おぼえる",
-    "romaji": "kougen o oboeru"
+    "kana": "この もんだい に わ こうげん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kougen ga fukaku kankei shi te iru"
   },
   "jlpt-n1-魂-441": {
-    "kana": "たましい を おぼえる",
-    "romaji": "tamashii o oboeru"
+    "kana": "じゅぎょう で たましい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tamashii o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-鳥居-749": {
-    "kana": "とりい を おぼえる",
-    "romaji": "torii o oboeru"
+    "kana": "この もんだい に わ とりい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa torii ga fukaku kankei shi te iru"
   },
   "jlpt-n1-麻-696": {
-    "kana": "あさ を おぼえる",
-    "romaji": "asa o oboeru"
+    "kana": "その けいけん から あさ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara asa no taisetsu sa o shi ta"
   },
   "jlpt-n1-麻酔-1048": {
-    "kana": "ますい を おぼえる",
-    "romaji": "masui o oboeru"
+    "kana": "この もんだい に わ ますい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa masui ga fukaku kankei shi te iru"
   },
   "jlpt-n1-黄色-662": {
-    "kana": "きいろ を おぼえる",
-    "romaji": "kiiro o oboeru"
+    "kana": "この もんだい に わ きいろ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kiiro ga fukaku kankei shi te iru"
   },
   "jlpt-n1-黴菌-70": {
-    "kana": "ばいきん を おぼえる",
-    "romaji": "baikin o oboeru"
+    "kana": "じゅぎょう で ばいきん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de baikin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n1-齎らす-38": {
-    "kana": "齎 ら す を おぼえる",
-    "romaji": "齎 ra su o oboeru"
+    "kana": "ともだち に にもつ を 齎 ら す",
+    "romaji": "tomodachi ni nimotsu o 齎 ra su"
   },
   "jlpt-n2-お代わり-1317": {
-    "kana": "お かわり を おぼえる",
-    "romaji": "o kawari o oboeru"
+    "kana": "その けいけん から お かわり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara o kawari no taisetsu sa o shi ta"
   },
   "jlpt-n2-お帰り-1923": {
-    "kana": "お かえり を おぼえる",
-    "romaji": "o kaeri o oboeru"
+    "kana": "じゅぎょう で お かえり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de o kaeri o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-しいんと-1441": {
-    "kana": "しいんと を おぼえる",
-    "romaji": "shiinto o oboeru"
+    "kana": "しいんと な ばしょ で しずか に やすん だ",
+    "romaji": "shiinto na basho de shizuka ni yasun da"
   },
   "jlpt-n2-だいいち-1889": {
-    "kana": "だいいち を おぼえる",
-    "romaji": "daiichi o oboeru"
+    "kana": "じゅぎょう で だいいち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de daiichi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-ミリ-1641": {
-    "kana": "みり を おぼえる",
-    "romaji": "miri o oboeru"
+    "kana": "かいぎ で みり について はなしあっ た",
+    "romaji": "kaigi de miri nitsuite hanashia ta"
   },
   "jlpt-n2-一定-1790": {
-    "kana": "いってい を おぼえる",
-    "romaji": "ittei o oboeru"
+    "kana": "かいぎ で いってい について はなしあっ た",
+    "romaji": "kaigi de ittei nitsuite hanashia ta"
   },
   "jlpt-n2-一斉-1811": {
-    "kana": "いっせい を おぼえる",
-    "romaji": "issei o oboeru"
+    "kana": "その けいけん から いっせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara issei no taisetsu sa o shi ta"
   },
   "jlpt-n2-一昨年-1751": {
-    "kana": "いっさくねん を おぼえる",
-    "romaji": "issakunen o oboeru"
+    "kana": "いっさくねん に ともだち と あう",
+    "romaji": "issakunen ni tomodachi to au"
   },
   "jlpt-n2-一昨日-1542": {
-    "kana": "おととい を おぼえる",
-    "romaji": "ototoi o oboeru"
+    "kana": "おととい に ともだち と あう",
+    "romaji": "ototoi ni tomodachi to au"
   },
   "jlpt-n2-一通り-1557": {
-    "kana": "いち とおり を おぼえる",
-    "romaji": "ichi toori o oboeru"
+    "kana": "じゅぎょう で いち とおり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ichi toori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-三日月-1366": {
-    "kana": "みかづき を おぼえる",
-    "romaji": "mikazuki o oboeru"
+    "kana": "かいぎ で みかづき について はなしあっ た",
+    "romaji": "kaigi de mikazuki nitsuite hanashia ta"
   },
   "jlpt-n2-上る-1843": {
-    "kana": "のぼる を おぼえる",
-    "romaji": "noboru o oboeru"
+    "kana": "じゅぎょう の あと えき え のぼる",
+    "romaji": "jugyou no ato eki e noboru"
   },
   "jlpt-n2-上旬-1810": {
-    "kana": "じょうじゅん を おぼえる",
-    "romaji": "joujun o oboeru"
+    "kana": "じょうじゅん わ いえ で べんきょう し た",
+    "romaji": "joujun wa ie de benkyou shi ta"
   },
   "jlpt-n2-上級-1842": {
-    "kana": "じょうきゅう を おぼえる",
-    "romaji": "joukyuu o oboeru"
+    "kana": "この もんだい に わ じょうきゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa joukyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-下品-1532": {
-    "kana": "げひん を おぼえる",
-    "romaji": "gehin o oboeru"
+    "kana": "かいぎ で げひん について はなしあっ た",
+    "romaji": "kaigi de gehin nitsuite hanashia ta"
   },
   "jlpt-n2-下旬-1863": {
-    "kana": "げじゅん を おぼえる",
-    "romaji": "gejun o oboeru"
+    "kana": "げじゅん わ いえ で べんきょう し た",
+    "romaji": "gejun wa ie de benkyou shi ta"
   },
   "jlpt-n2-下町-1907": {
-    "kana": "したまち を おぼえる",
-    "romaji": "shitamachi o oboeru"
+    "kana": "じゅぎょう で したまち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shitamachi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-下車-1463": {
-    "kana": "げしゃ を おぼえる",
-    "romaji": "gesha o oboeru"
+    "kana": "この もんだい に わ げしゃ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gesha ga fukaku kankei shi te iru"
   },
   "jlpt-n2-下降-1932": {
-    "kana": "かこう を おぼえる",
-    "romaji": "kakou o oboeru"
+    "kana": "じゅぎょう で かこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kakou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-不規則-1832": {
-    "kana": "ふきそく を おぼえる",
-    "romaji": "fukisoku o oboeru"
+    "kana": "かいぎ で ふきそく について はなしあっ た",
+    "romaji": "kaigi de fukisoku nitsuite hanashia ta"
   },
   "jlpt-n2-両側-1892": {
-    "kana": "りょうがわ を おぼえる",
-    "romaji": "ryougawa o oboeru"
+    "kana": "じゅぎょう で りょうがわ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ryougawa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-並木-1382": {
-    "kana": "なみき を おぼえる",
-    "romaji": "namiki o oboeru"
+    "kana": "なみき が まど の そと に みえる",
+    "romaji": "namiki ga mado no soto ni mieru"
   },
   "jlpt-n2-並行-1543": {
-    "kana": "へいこう を おぼえる",
-    "romaji": "heikou o oboeru"
+    "kana": "へいこう え まっすぐ すすん だ",
+    "romaji": "heikou e massugu susun da"
   },
   "jlpt-n2-中世-1290": {
-    "kana": "ちゅうせい を おぼえる",
-    "romaji": "chuusei o oboeru"
+    "kana": "かいぎ で ちゅうせい について はなしあっ た",
+    "romaji": "kaigi de chuusei nitsuite hanashia ta"
   },
   "jlpt-n2-中味-1507": {
-    "kana": "なかみ を おぼえる",
-    "romaji": "nakami o oboeru"
+    "kana": "その けいけん から なかみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nakami no taisetsu sa o shi ta"
   },
   "jlpt-n2-中性-1312": {
-    "kana": "ちゅうせい を おぼえる",
-    "romaji": "chuusei o oboeru"
+    "kana": "じゅぎょう で ちゅうせい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chuusei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-中旬-1447": {
-    "kana": "ちゅうじゅん を おぼえる",
-    "romaji": "chuujun o oboeru"
+    "kana": "ちゅうじゅん わ いえ で べんきょう し た",
+    "romaji": "chuujun wa ie de benkyou shi ta"
   },
   "jlpt-n2-主役-1598": {
-    "kana": "しゅやく を おぼえる",
-    "romaji": "shuyaku o oboeru"
+    "kana": "じゅぎょう で しゅやく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuyaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-丼-1678": {
-    "kana": "どんぶり を おぼえる",
-    "romaji": "donburi o oboeru"
+    "kana": "ひる に どんぶり を すこし たべ た",
+    "romaji": "hiru ni donburi o sukoshi tabe ta"
   },
   "jlpt-n2-乱暴-1830": {
-    "kana": "らんぼう を おぼえる",
-    "romaji": "ranbou o oboeru"
+    "kana": "この もんだい に わ らんぼう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ranbou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-乾燥-1574": {
-    "kana": "かんそう を おぼえる",
-    "romaji": "kansou o oboeru"
+    "kana": "じゅぎょう で かんそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kansou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-乾電池-1399": {
-    "kana": "かんでんち を おぼえる",
-    "romaji": "kandenchi o oboeru"
+    "kana": "その けいけん から かんでんち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kandenchi no taisetsu sa o shi ta"
   },
   "jlpt-n2-争う-1757": {
-    "kana": "あらそう を おぼえる",
-    "romaji": "arasou o oboeru"
+    "kana": "せんせい の まえ で おちつい て あらそう",
+    "romaji": "sensei no mae de ochitsui te arasou"
   },
   "jlpt-n2-亡くす-1483": {
-    "kana": "なくす を おぼえる",
-    "romaji": "nakusu o oboeru"
+    "kana": "しっぱい し て も もういちど なくす",
+    "romaji": "shippai shi te mo mouichido nakusu"
   },
   "jlpt-n2-交じる-1797": {
-    "kana": "まじる を おぼえる",
-    "romaji": "majiru o oboeru"
+    "kana": "ひつよう な とき に すぐ まじる",
+    "romaji": "hitsuyou na toki ni sugu majiru"
   },
   "jlpt-n2-交ぜる-1481": {
-    "kana": "まぜる を おぼえる",
-    "romaji": "mazeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て まぜる",
+    "romaji": "sensei no mae de ochitsui te mazeru"
   },
   "jlpt-n2-交差-1437": {
-    "kana": "こうさ を おぼえる",
-    "romaji": "kousa o oboeru"
+    "kana": "かいぎ で こうさ について はなしあっ た",
+    "romaji": "kaigi de kousa nitsuite hanashia ta"
   },
   "jlpt-n2-人命-1404": {
-    "kana": "じんめい を おぼえる",
-    "romaji": "jinmei o oboeru"
+    "kana": "その けいけん から じんめい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jinmei no taisetsu sa o shi ta"
   },
   "jlpt-n2-人差指-1451": {
-    "kana": "ひとさしゆび を おぼえる",
-    "romaji": "hitosashiyubi o oboeru"
+    "kana": "その けいけん から ひとさしゆび の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hitosashiyubi no taisetsu sa o shi ta"
   },
   "jlpt-n2-人文科学-1840": {
-    "kana": "じんぶん かがく を おぼえる",
-    "romaji": "jinbun kagaku o oboeru"
+    "kana": "じゅぎょう で じんぶん かがく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jinbun kagaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-人通り-1878": {
-    "kana": "ひとどおり を おぼえる",
-    "romaji": "hitodoori o oboeru"
+    "kana": "この もんだい に わ ひとどおり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hitodoori ga fukaku kankei shi te iru"
   },
   "jlpt-n2-人造-1806": {
-    "kana": "じんぞう を おぼえる",
-    "romaji": "jinzou o oboeru"
+    "kana": "じんぞう に みち を たずね た",
+    "romaji": "jinzou ni michi o tazune ta"
   },
   "jlpt-n2-付合う-1896": {
-    "kana": "つきあう を おぼえる",
-    "romaji": "tsukiau o oboeru"
+    "kana": "せんせい の まえ で おちつい て つきあう",
+    "romaji": "sensei no mae de ochitsui te tsukiau"
   },
   "jlpt-n2-代名詞-1758": {
-    "kana": "だいめいし を おぼえる",
-    "romaji": "daimeishi o oboeru"
+    "kana": "その けいけん から だいめいし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara daimeishi no taisetsu sa o shi ta"
   },
   "jlpt-n2-仮定-1362": {
-    "kana": "かてい を おぼえる",
-    "romaji": "katei o oboeru"
+    "kana": "この もんだい に わ かてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa katei ga fukaku kankei shi te iru"
   },
   "jlpt-n2-仲良し-1500": {
-    "kana": "なかよし を おぼえる",
-    "romaji": "nakayoshi o oboeru"
+    "kana": "なかよし に みち を たずね た",
+    "romaji": "nakayoshi ni michi o tazune ta"
   },
   "jlpt-n2-休業-1304": {
-    "kana": "きゅうぎょう を おぼえる",
-    "romaji": "kyuugyou o oboeru"
+    "kana": "じゅぎょう で きゅうぎょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyuugyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-休講-1331": {
-    "kana": "きゅうこう を おぼえる",
-    "romaji": "kyuukou o oboeru"
+    "kana": "じゅぎょう で きゅうこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyuukou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-休養-1778": {
-    "kana": "きゅうよう を おぼえる",
-    "romaji": "kyuuyou o oboeru"
+    "kana": "この もんだい に わ きゅうよう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyuuyou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-会館-1704": {
-    "kana": "かいかん を おぼえる",
-    "romaji": "kaikan o oboeru"
+    "kana": "じゅぎょう で かいかん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kaikan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-住居-1498": {
-    "kana": "じゅうきょ を おぼえる",
-    "romaji": "juukyo o oboeru"
+    "kana": "じゅうきょ で ともだち を まっ た",
+    "romaji": "juukyo de tomodachi o ma ta"
   },
   "jlpt-n2-余る-1858": {
-    "kana": "あまる を おぼえる",
-    "romaji": "amaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て あまる",
+    "romaji": "sensei no mae de ochitsui te amaru"
   },
   "jlpt-n2-余計-1340": {
-    "kana": "よけい を おぼえる",
-    "romaji": "yokei o oboeru"
+    "kana": "かいぎ で よけい について はなしあっ た",
+    "romaji": "kaigi de yokei nitsuite hanashia ta"
   },
   "jlpt-n2-作る-造る-1632": {
-    "kana": "つくる / つくる を おぼえる",
-    "romaji": "tsukuru / tsukuru o oboeru"
+    "kana": "しっぱい し て も もういちど つくる / つくる",
+    "romaji": "shippai shi te mo mouichido tsukuru / tsukuru"
   },
   "jlpt-n2-作者-1712": {
-    "kana": "さくしゃ を おぼえる",
-    "romaji": "sakusha o oboeru"
+    "kana": "この もんだい に わ さくしゃ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sakusha ga fukaku kankei shi te iru"
   },
   "jlpt-n2-例える-1650": {
-    "kana": "たとえる を おぼえる",
-    "romaji": "tatoeru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり たとえる",
+    "romaji": "kaigi de riyuu o hakkiri tatoeru"
   },
   "jlpt-n2-侵入-1553": {
-    "kana": "しんにゅう を おぼえる",
-    "romaji": "shinnyuu o oboeru"
+    "kana": "かいぎ で しんにゅう について はなしあっ た",
+    "romaji": "kaigi de shinnyuu nitsuite hanashia ta"
   },
   "jlpt-n2-便所-1781": {
-    "kana": "べんじょ を おぼえる",
-    "romaji": "benjo o oboeru"
+    "kana": "しゅうまつ に べんじょ え いっ た",
+    "romaji": "shuumatsu ni benjo e i ta"
   },
   "jlpt-n2-便箋-1880": {
-    "kana": "びんせん を おぼえる",
-    "romaji": "binsen o oboeru"
+    "kana": "この もんだい に わ びんせん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa binsen ga fukaku kankei shi te iru"
   },
   "jlpt-n2-係わる-1517": {
-    "kana": "かかわる を おぼえる",
-    "romaji": "kakawaru o oboeru"
+    "kana": "ひつよう な とき に すぐ かかわる",
+    "romaji": "hitsuyou na toki ni sugu kakawaru"
   },
   "jlpt-n2-俄-1544": {
-    "kana": "にわか を おぼえる",
-    "romaji": "niwaka o oboeru"
+    "kana": "かいぎ で にわか について はなしあっ た",
+    "romaji": "kaigi de niwaka nitsuite hanashia ta"
   },
   "jlpt-n2-修繕-1888": {
-    "kana": "しゅうぜん を おぼえる",
-    "romaji": "shuuzen o oboeru"
+    "kana": "じゅぎょう で しゅうぜん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuuzen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-個所-1631": {
-    "kana": "かしょ を おぼえる",
-    "romaji": "kasho o oboeru"
+    "kana": "かしょ で ともだち を まっ た",
+    "romaji": "kasho de tomodachi o ma ta"
   },
   "jlpt-n2-傑作-1461": {
-    "kana": "けっさく を おぼえる",
-    "romaji": "kessaku o oboeru"
+    "kana": "じゅぎょう で けっさく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kessaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-催し-1564": {
-    "kana": "もよおし を おぼえる",
-    "romaji": "moyooshi o oboeru"
+    "kana": "この もんだい に わ もよおし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moyooshi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-催促-1326": {
-    "kana": "さいそく を おぼえる",
-    "romaji": "saisoku o oboeru"
+    "kana": "その けいけん から さいそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara saisoku no taisetsu sa o shi ta"
   },
   "jlpt-n2-傾く-1759": {
-    "kana": "かたむく を おぼえる",
-    "romaji": "katamuku o oboeru"
+    "kana": "ひつよう な とき に すぐ かたむく",
+    "romaji": "hitsuyou na toki ni sugu katamuku"
   },
   "jlpt-n2-儀式-1664": {
-    "kana": "ぎしき を おぼえる",
-    "romaji": "gishiki o oboeru"
+    "kana": "じゅぎょう で ぎしき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gishiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-儲ける-1716": {
-    "kana": "もうける を おぼえる",
-    "romaji": "moukeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て もうける",
+    "romaji": "sensei no mae de ochitsui te moukeru"
   },
   "jlpt-n2-先程-1604": {
-    "kana": "さきほど を おぼえる",
-    "romaji": "sakihodo o oboeru"
+    "kana": "その けいけん から さきほど の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sakihodo no taisetsu sa o shi ta"
   },
   "jlpt-n2-先端-1311": {
-    "kana": "せんたん を おぼえる",
-    "romaji": "sentan o oboeru"
+    "kana": "その けいけん から せんたん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sentan no taisetsu sa o shi ta"
   },
   "jlpt-n2-先頭-1523": {
-    "kana": "せんとう を おぼえる",
-    "romaji": "sentou o oboeru"
+    "kana": "その けいけん から せんとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sentou no taisetsu sa o shi ta"
   },
   "jlpt-n2-免税-1449": {
-    "kana": "めんぜい を おぼえる",
-    "romaji": "menzei o oboeru"
+    "kana": "その けいけん から めんぜい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara menzei no taisetsu sa o shi ta"
   },
   "jlpt-n2-全般-1804": {
-    "kana": "ぜんぱん を おぼえる",
-    "romaji": "zenpan o oboeru"
+    "kana": "かいぎ で ぜんぱん について はなしあっ た",
+    "romaji": "kaigi de zenpan nitsuite hanashia ta"
   },
   "jlpt-n2-全集-1769": {
-    "kana": "ぜんしゅう を おぼえる",
-    "romaji": "zenshuu o oboeru"
+    "kana": "かいぎ で ぜんしゅう について はなしあっ た",
+    "romaji": "kaigi de zenshuu nitsuite hanashia ta"
   },
   "jlpt-n2-公式-1434": {
-    "kana": "こうしき を おぼえる",
-    "romaji": "koushiki o oboeru"
+    "kana": "その けいけん から こうしき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koushiki no taisetsu sa o shi ta"
   },
   "jlpt-n2-公正-1423": {
-    "kana": "こうせい を おぼえる",
-    "romaji": "kousei o oboeru"
+    "kana": "じゅぎょう で こうせい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kousei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-公衆-1444": {
-    "kana": "こうしゅう を おぼえる",
-    "romaji": "koushuu o oboeru"
+    "kana": "その けいけん から こうしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koushuu no taisetsu sa o shi ta"
   },
   "jlpt-n2-内科-1779": {
-    "kana": "ないか を おぼえる",
-    "romaji": "naika o oboeru"
+    "kana": "しょくご に ないか を のん だ",
+    "romaji": "shokugo ni naika o non da"
   },
   "jlpt-n2-再来年-1549": {
-    "kana": "さらいねん を おぼえる",
-    "romaji": "sarainen o oboeru"
+    "kana": "さらいねん に ともだち と あう",
+    "romaji": "sarainen ni tomodachi to au"
   },
   "jlpt-n2-写る-1914": {
-    "kana": "うつる を おぼえる",
-    "romaji": "utsuru o oboeru"
+    "kana": "しっぱい し て も もういちど うつる",
+    "romaji": "shippai shi te mo mouichido utsuru"
   },
   "jlpt-n2-冠-1627": {
-    "kana": "かんむり を おぼえる",
-    "romaji": "kanmuri o oboeru"
+    "kana": "この もんだい に わ かんむり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanmuri ga fukaku kankei shi te iru"
   },
   "jlpt-n2-冷ます-1458": {
-    "kana": "さます を おぼえる",
-    "romaji": "samasu o oboeru"
+    "kana": "しっぱい し て も もういちど さます",
+    "romaji": "shippai shi te mo mouichido samasu"
   },
   "jlpt-n2-出勤-1930": {
-    "kana": "しゅっきん を おぼえる",
-    "romaji": "shukkin o oboeru"
+    "kana": "じゅぎょう で しゅっきん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shukkin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-出合い-1818": {
-    "kana": "であい を おぼえる",
-    "romaji": "deai o oboeru"
+    "kana": "この もんだい に わ であい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa deai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-出来上がる-1886": {
-    "kana": "できあがる を おぼえる",
-    "romaji": "dekiagaru o oboeru"
+    "kana": "しっぱい し て も もういちど できあがる",
+    "romaji": "shippai shi te mo mouichido dekiagaru"
   },
   "jlpt-n2-出迎え-1852": {
-    "kana": "でむかえ を おぼえる",
-    "romaji": "demukae o oboeru"
+    "kana": "その けいけん から でむかえ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara demukae no taisetsu sa o shi ta"
   },
   "jlpt-n2-分数-1692": {
-    "kana": "ぶんすう を おぼえる",
-    "romaji": "bunsuu o oboeru"
+    "kana": "じゅぎょう で ぶんすう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bunsuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-分量-1644": {
-    "kana": "ぶんりょう を おぼえる",
-    "romaji": "bunryou o oboeru"
+    "kana": "この もんだい に わ ぶんりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bunryou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-列島-1819": {
-    "kana": "れっとう を おぼえる",
-    "romaji": "rettou o oboeru"
+    "kana": "この もんだい に わ れっとう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa rettou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-初旬-1884": {
-    "kana": "しょじゅん を おぼえる",
-    "romaji": "shojun o oboeru"
+    "kana": "しょじゅん わ いえ で べんきょう し た",
+    "romaji": "shojun wa ie de benkyou shi ta"
   },
   "jlpt-n2-判子-1739": {
-    "kana": "はんこ を おぼえる",
-    "romaji": "hanko o oboeru"
+    "kana": "かいぎ で はんこ について はなしあっ た",
+    "romaji": "kaigi de hanko nitsuite hanashia ta"
   },
   "jlpt-n2-別々-1537": {
-    "kana": "べつべつ を おぼえる",
-    "romaji": "betsubetsu o oboeru"
+    "kana": "その けいけん から べつべつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara betsubetsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-利害-1568": {
-    "kana": "りがい を おぼえる",
-    "romaji": "rigai o oboeru"
+    "kana": "この もんだい に わ りがい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa rigai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-制作-1329": {
-    "kana": "せいさく を おぼえる",
-    "romaji": "seisaku o oboeru"
+    "kana": "じゅぎょう で せいさく を こえ に だし て よん だ",
+    "romaji": "jugyou de seisaku o koe ni dashi te yon da"
   },
   "jlpt-n2-刷る-1405": {
-    "kana": "する を おぼえる",
-    "romaji": "suru o oboeru"
+    "kana": "ひつよう な とき に すぐ する",
+    "romaji": "hitsuyou na toki ni sugu suru"
   },
   "jlpt-n2-刺さる-1518": {
-    "kana": "とげ さる を おぼえる",
-    "romaji": "toge saru o oboeru"
+    "kana": "しっぱい し て も もういちど ささる",
+    "romaji": "shippai shi te mo mouichido sasaru"
   },
   "jlpt-n2-刺す-1705": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "ひつよう な とき に すぐ さす",
+    "romaji": "hitsuyou na toki ni sugu sasu"
   },
   "jlpt-n2-刻む-1721": {
-    "kana": "きざむ を おぼえる",
-    "romaji": "kizamu o oboeru"
+    "kana": "ひつよう な とき に すぐ きざむ",
+    "romaji": "hitsuyou na toki ni sugu kizamu"
   },
   "jlpt-n2-削る-1850": {
-    "kana": "けずる を おぼえる",
-    "romaji": "kezuru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に けずる",
+    "romaji": "dougu o tsuka te teinei ni kezuru"
   },
   "jlpt-n2-剥く-1465": {
-    "kana": "むく を おぼえる",
-    "romaji": "muku o oboeru"
+    "kana": "しっぱい し て も もういちど むく",
+    "romaji": "shippai shi te mo mouichido muku"
   },
   "jlpt-n2-副詞-1561": {
-    "kana": "ふくし を おぼえる",
-    "romaji": "fukushi o oboeru"
+    "kana": "かいぎ で ふくし について はなしあっ た",
+    "romaji": "kaigi de fukushi nitsuite hanashia ta"
   },
   "jlpt-n2-割引-1796": {
-    "kana": "わりびき を おぼえる",
-    "romaji": "waribiki o oboeru"
+    "kana": "じゅぎょう で わりびき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de waribiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-助かる-1374": {
-    "kana": "たすかる を おぼえる",
-    "romaji": "tasukaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て たすかる",
+    "romaji": "sensei no mae de ochitsui te tasukaru"
   },
   "jlpt-n2-効力-1589": {
-    "kana": "こうりょく を おぼえる",
-    "romaji": "kouryoku o oboeru"
+    "kana": "かいぎ で こうりょく について はなしあっ た",
+    "romaji": "kaigi de kouryoku nitsuite hanashia ta"
   },
   "jlpt-n2-勘違い-1793": {
-    "kana": "かんちがい を おぼえる",
-    "romaji": "kanchigai o oboeru"
+    "kana": "この もんだい わ すこし かんちがい",
+    "romaji": "kono mondai wa sukoshi kanchigai"
   },
   "jlpt-n2-勝敗-1495": {
-    "kana": "しょうはい を おぼえる",
-    "romaji": "shouhai o oboeru"
+    "kana": "かいぎ で しょうはい について はなしあっ た",
+    "romaji": "kaigi de shouhai nitsuite hanashia ta"
   },
   "jlpt-n2-募集-1743": {
-    "kana": "ぼしゅう を おぼえる",
-    "romaji": "boshuu o oboeru"
+    "kana": "かいぎ で ぼしゅう について はなしあっ た",
+    "romaji": "kaigi de boshuu nitsuite hanashia ta"
   },
   "jlpt-n2-匂う-1789": {
-    "kana": "におう を おぼえる",
-    "romaji": "niou o oboeru"
+    "kana": "せんせい の まえ で おちつい て におう",
+    "romaji": "sensei no mae de ochitsui te niou"
   },
   "jlpt-n2-包帯-1833": {
-    "kana": "ほうたい を おぼえる",
-    "romaji": "houtai o oboeru"
+    "kana": "その けいけん から ほうたい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara houtai no taisetsu sa o shi ta"
   },
   "jlpt-n2-区分-1937": {
-    "kana": "くぶん を おぼえる",
-    "romaji": "kubun o oboeru"
+    "kana": "その けいけん から くぶん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kubun no taisetsu sa o shi ta"
   },
   "jlpt-n2-区切る-1794": {
-    "kana": "くぎる を おぼえる",
-    "romaji": "kugiru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に くぎる",
+    "romaji": "dougu o tsuka te teinei ni kugiru"
   },
   "jlpt-n2-卑怯-1559": {
-    "kana": "ひきょう を おぼえる",
-    "romaji": "hikyou o oboeru"
+    "kana": "かいぎ で ひきょう について はなしあっ た",
+    "romaji": "kaigi de hikyou nitsuite hanashia ta"
   },
   "jlpt-n2-卒直-1926": {
-    "kana": "そつ じか を おぼえる",
-    "romaji": "sotsu jika o oboeru"
+    "kana": "じゅぎょう で そつ じか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sotsu jika o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-南北-1401": {
-    "kana": "なんぼく を おぼえる",
-    "romaji": "nanboku o oboeru"
+    "kana": "なんぼく え まっすぐ すすん だ",
+    "romaji": "nanboku e massugu susun da"
   },
   "jlpt-n2-南米-1521": {
-    "kana": "なんべい を おぼえる",
-    "romaji": "nanbei o oboeru"
+    "kana": "なんべい え まっすぐ すすん だ",
+    "romaji": "nanbei e massugu susun da"
   },
   "jlpt-n2-占う-1740": {
-    "kana": "うらなう を おぼえる",
-    "romaji": "uranau o oboeru"
+    "kana": "せんせい の まえ で おちつい て うらなう",
+    "romaji": "sensei no mae de ochitsui te uranau"
   },
   "jlpt-n2-危うい-1323": {
-    "kana": "あやうい を おぼえる",
-    "romaji": "ayaui o oboeru"
+    "kana": "その けいけん から あやうい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ayaui no taisetsu sa o shi ta"
   },
   "jlpt-n2-卸す-1318": {
-    "kana": "おろす を おぼえる",
-    "romaji": "orosu o oboeru"
+    "kana": "ともだち に にもつ を おろす",
+    "romaji": "tomodachi ni nimotsu o orosu"
   },
   "jlpt-n2-原始-1496": {
-    "kana": "げんし を おぼえる",
-    "romaji": "genshi o oboeru"
+    "kana": "じゅぎょう で げんし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de genshi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-原産-1623": {
-    "kana": "げんさん を おぼえる",
-    "romaji": "gensan o oboeru"
+    "kana": "しゅうまつ に げんさん え いっ た",
+    "romaji": "shuumatsu ni gensan e i ta"
   },
   "jlpt-n2-又は-1742": {
-    "kana": "または を おぼえる",
-    "romaji": "mataha o oboeru"
+    "kana": "じゅぎょう で または を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mataha o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-反る-1406": {
-    "kana": "そる を おぼえる",
-    "romaji": "soru o oboeru"
+    "kana": "ひつよう な とき に すぐ そる",
+    "romaji": "hitsuyou na toki ni sugu soru"
   },
   "jlpt-n2-反省-1395": {
-    "kana": "はんせい を おぼえる",
-    "romaji": "hansei o oboeru"
+    "kana": "かいぎ で はんせい について はなしあっ た",
+    "romaji": "kaigi de hansei nitsuite hanashia ta"
   },
   "jlpt-n2-叔母さん-1414": {
-    "kana": "おばさん を おぼえる",
-    "romaji": "obasan o oboeru"
+    "kana": "かいぎ で おばさん について はなしあっ た",
+    "romaji": "kaigi de obasan nitsuite hanashia ta"
   },
   "jlpt-n2-取り入れる-1764": {
-    "kana": "とりいれる を おぼえる",
-    "romaji": "toriireru o oboeru"
+    "kana": "ともだち に にもつ を とりいれる",
+    "romaji": "tomodachi ni nimotsu o toriireru"
   },
   "jlpt-n2-取り出す-1846": {
-    "kana": "とりだす を おぼえる",
-    "romaji": "toridasu o oboeru"
+    "kana": "ともだち に にもつ を とりだす",
+    "romaji": "tomodachi ni nimotsu o toridasu"
   },
   "jlpt-n2-取り消す-1795": {
-    "kana": "とりけす を おぼえる",
-    "romaji": "torikesu o oboeru"
+    "kana": "せんせい の まえ で おちつい て とりけす",
+    "romaji": "sensei no mae de ochitsui te torikesu"
   },
   "jlpt-n2-受話器-1508": {
-    "kana": "じゅわき を おぼえる",
-    "romaji": "juwaki o oboeru"
+    "kana": "この もんだい に わ じゅわき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa juwaki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-受験-1925": {
-    "kana": "じゅけん を おぼえる",
-    "romaji": "juken o oboeru"
+    "kana": "じゅぎょう で じゅけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de juken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-口紅-1883": {
-    "kana": "くちべに を おぼえる",
-    "romaji": "kuchibeni o oboeru"
+    "kana": "かいぎ で くちべに について はなしあっ た",
+    "romaji": "kaigi de kuchibeni nitsuite hanashia ta"
   },
   "jlpt-n2-只-1546": {
-    "kana": "ただ を おぼえる",
-    "romaji": "tada o oboeru"
+    "kana": "かいぎ で ただ について はなしあっ た",
+    "romaji": "kaigi de tada nitsuite hanashia ta"
   },
   "jlpt-n2-可決-1682": {
-    "kana": "かけつ を おぼえる",
-    "romaji": "kaketsu o oboeru"
+    "kana": "かいぎ で かけつ について はなしあっ た",
+    "romaji": "kaigi de kaketsu nitsuite hanashia ta"
   },
   "jlpt-n2-司会-1894": {
-    "kana": "しかい を おぼえる",
-    "romaji": "shikai o oboeru"
+    "kana": "この もんだい に わ しかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shikai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-各自-1679": {
-    "kana": "かくじ を おぼえる",
-    "romaji": "kakuji o oboeru"
+    "kana": "この もんだい に わ かくじ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kakuji ga fukaku kankei shi te iru"
   },
   "jlpt-n2-合理-1663": {
-    "kana": "ごうり を おぼえる",
-    "romaji": "gouri o oboeru"
+    "kana": "じゅぎょう で ごうり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gouri o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-吊る-1470": {
-    "kana": "つる を おぼえる",
-    "romaji": "tsuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つる",
+    "romaji": "sensei no mae de ochitsui te tsuru"
   },
   "jlpt-n2-同格-1400": {
-    "kana": "どうかく を おぼえる",
-    "romaji": "doukaku o oboeru"
+    "kana": "かいぎ で どうかく について はなしあっ た",
+    "romaji": "kaigi de doukaku nitsuite hanashia ta"
   },
   "jlpt-n2-名作-1848": {
-    "kana": "めいさく を おぼえる",
-    "romaji": "meisaku o oboeru"
+    "kana": "かいぎ で めいさく について はなしあっ た",
+    "romaji": "kaigi de meisaku nitsuite hanashia ta"
   },
   "jlpt-n2-名物-1708": {
-    "kana": "めいぶつ を おぼえる",
-    "romaji": "meibutsu o oboeru"
+    "kana": "めいぶつ な しりょう を さき に かくにん し た",
+    "romaji": "meibutsu na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n2-向う-1675": {
-    "kana": "むこう を おぼえる",
-    "romaji": "mukou o oboeru"
+    "kana": "じゅぎょう の あと えき え むかう",
+    "romaji": "jugyou no ato eki e mukau"
   },
   "jlpt-n2-吹雪-1450": {
-    "kana": "ふぶき を おぼえる",
-    "romaji": "fubuki o oboeru"
+    "kana": "ふぶき が まど の そと に みえる",
+    "romaji": "fubuki ga mado no soto ni mieru"
   },
   "jlpt-n2-呑気-1429": {
-    "kana": "のんき を おぼえる",
-    "romaji": "nonki o oboeru"
+    "kana": "この もんだい に わ のんき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nonki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-周辺-1622": {
-    "kana": "しゅうへん を おぼえる",
-    "romaji": "shuuhen o oboeru"
+    "kana": "かいぎ で しゅうへん について はなしあっ た",
+    "romaji": "kaigi de shuuhen nitsuite hanashia ta"
   },
   "jlpt-n2-味わう-1357": {
-    "kana": "あじわう を おぼえる",
-    "romaji": "ajiwau o oboeru"
+    "kana": "ひつよう な とき に すぐ あじわう",
+    "romaji": "hitsuyou na toki ni sugu ajiwau"
   },
   "jlpt-n2-呼び掛ける-1306": {
-    "kana": "よびかける を おぼえる",
-    "romaji": "yobikakeru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり よびかける",
+    "romaji": "kaigi de riyuu o hakkiri yobikakeru"
   },
   "jlpt-n2-命ずる-1654": {
-    "kana": "めいずる を おぼえる",
-    "romaji": "meizuru o oboeru"
+    "kana": "ひつよう な とき に すぐ めいずる",
+    "romaji": "hitsuyou na toki ni sugu meizuru"
   },
   "jlpt-n2-和英-1467": {
-    "kana": "かずひで を おぼえる",
-    "romaji": "kazuhide o oboeru"
+    "kana": "その けいけん から かずひで の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kazuhide no taisetsu sa o shi ta"
   },
   "jlpt-n2-唇-1837": {
-    "kana": "くちびる を おぼえる",
-    "romaji": "kuchibiru o oboeru"
+    "kana": "その けいけん から くちびる の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kuchibiru no taisetsu sa o shi ta"
   },
   "jlpt-n2-問い合わせ-1625": {
-    "kana": "といあわせ を おぼえる",
-    "romaji": "toiawase o oboeru"
+    "kana": "その けいけん から といあわせ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara toiawase no taisetsu sa o shi ta"
   },
   "jlpt-n2-器械-1749": {
-    "kana": "きかい を おぼえる",
-    "romaji": "kikai o oboeru"
+    "kana": "その けいけん から きかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kikai no taisetsu sa o shi ta"
   },
   "jlpt-n2-四つ角-1784": {
-    "kana": "よつかど を おぼえる",
-    "romaji": "yotsukado o oboeru"
+    "kana": "こたえ わ よつかど です",
+    "romaji": "kotae wa yotsukado desu"
   },
   "jlpt-n2-四季-1347": {
-    "kana": "しき を おぼえる",
-    "romaji": "shiki o oboeru"
+    "kana": "こたえ わ しき です",
+    "romaji": "kotae wa shiki desu"
   },
   "jlpt-n2-四捨五入-1619": {
-    "kana": "ししゃごにゅう を おぼえる",
-    "romaji": "shishagonyuu o oboeru"
+    "kana": "ししゃごにゅう え まっすぐ すすん だ",
+    "romaji": "shishagonyuu e massugu susun da"
   },
   "jlpt-n2-回数券-1499": {
-    "kana": "かいすう けん を おぼえる",
-    "romaji": "kaisuu ken o oboeru"
+    "kana": "じゅぎょう で かいすう けん を こえ に だし て よん だ",
+    "romaji": "jugyou de kaisuu ken o koe ni dashi te yon da"
   },
   "jlpt-n2-因る-1826": {
-    "kana": "よる を おぼえる",
-    "romaji": "yoru o oboeru"
+    "kana": "じゅぎょう の あと えき え よる",
+    "romaji": "jugyou no ato eki e yoru"
   },
   "jlpt-n2-団地-1922": {
-    "kana": "だんち を おぼえる",
-    "romaji": "danchi o oboeru"
+    "kana": "その けいけん から だんち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara danchi no taisetsu sa o shi ta"
   },
   "jlpt-n2-固まる-1620": {
-    "kana": "かたまる を おぼえる",
-    "romaji": "katamaru o oboeru"
+    "kana": "しずか な まち に へんか が かたまる",
+    "romaji": "shizuka na machi ni henka ga katamaru"
   },
   "jlpt-n2-国王-1733": {
-    "kana": "こくおう を おぼえる",
-    "romaji": "kokuou o oboeru"
+    "kana": "この もんだい に わ こくおう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kokuou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-国籍-1711": {
-    "kana": "こくせき を おぼえる",
-    "romaji": "kokuseki o oboeru"
+    "kana": "その けいけん から こくせき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kokuseki no taisetsu sa o shi ta"
   },
   "jlpt-n2-地点-1597": {
-    "kana": "ちてん を おぼえる",
-    "romaji": "chiten o oboeru"
+    "kana": "じゅぎょう で ちてん を こえ に だし て よん だ",
+    "romaji": "jugyou de chiten o koe ni dashi te yon da"
   },
   "jlpt-n2-地盤-1448": {
-    "kana": "じばん を おぼえる",
-    "romaji": "jiban o oboeru"
+    "kana": "この もんだい に わ じばん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jiban ga fukaku kankei shi te iru"
   },
   "jlpt-n2-地質-1425": {
-    "kana": "ちしつ を おぼえる",
-    "romaji": "chishitsu o oboeru"
+    "kana": "この もんだい に わ ちしつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chishitsu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-坊や-1873": {
-    "kana": "ぼうや を おぼえる",
-    "romaji": "bouya o oboeru"
+    "kana": "ぼうや に みち を たずね た",
+    "romaji": "bouya ni michi o tazune ta"
   },
   "jlpt-n2-垣根-1587": {
-    "kana": "かきね を おぼえる",
-    "romaji": "kakine o oboeru"
+    "kana": "この もんだい に わ かきね が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kakine ga fukaku kankei shi te iru"
   },
   "jlpt-n2-執筆-1689": {
-    "kana": "しっぴつ を おぼえる",
-    "romaji": "shippitsu o oboeru"
+    "kana": "かいぎ で しっぴつ について はなしあっ た",
+    "romaji": "kaigi de shippitsu nitsuite hanashia ta"
   },
   "jlpt-n2-基準-1310": {
-    "kana": "きじゅん を おぼえる",
-    "romaji": "kijun o oboeru"
+    "kana": "その けいけん から きじゅん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kijun no taisetsu sa o shi ta"
   },
   "jlpt-n2-基盤-1319": {
-    "kana": "きばん を おぼえる",
-    "romaji": "kiban o oboeru"
+    "kana": "この もんだい に わ きばん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kiban ga fukaku kankei shi te iru"
   },
   "jlpt-n2-堅い-1376": {
-    "kana": "かたい を おぼえる",
-    "romaji": "katai o oboeru"
+    "kana": "この もんだい わ すこし かたい",
+    "romaji": "kono mondai wa sukoshi katai"
   },
   "jlpt-n2-塊-1368": {
-    "kana": "かたまり を おぼえる",
-    "romaji": "katamari o oboeru"
+    "kana": "その けいけん から かたまり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara katamari no taisetsu sa o shi ta"
   },
   "jlpt-n2-塞がる-1510": {
-    "kana": "ふさがる を おぼえる",
-    "romaji": "fusagaru o oboeru"
+    "kana": "ひつよう な とき に すぐ ふさがる",
+    "romaji": "hitsuyou na toki ni sugu fusagaru"
   },
   "jlpt-n2-塵芥-1615": {
-    "kana": "ごみ を おぼえる",
-    "romaji": "gomi o oboeru"
+    "kana": "この もんだい に わ ごみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gomi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-増やす-1629": {
-    "kana": "ふやす を おぼえる",
-    "romaji": "fuyasu o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし ふやす",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi fuyasu"
   },
   "jlpt-n2-増大-1766": {
-    "kana": "ぞうだい を おぼえる",
-    "romaji": "zoudai o oboeru"
+    "kana": "じゅぎょう で ぞうだい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zoudai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-売行き-1297": {
-    "kana": "うれゆき を おぼえる",
-    "romaji": "ureyuki o oboeru"
+    "kana": "この もんだい に わ うれゆき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ureyuki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-夕日-1488": {
-    "kana": "ゆうひ を おぼえる",
-    "romaji": "yuuhi o oboeru"
+    "kana": "ゆうひ わ いえ で べんきょう し た",
+    "romaji": "yuuhi wa ie de benkyou shi ta"
   },
   "jlpt-n2-外れる-1460": {
-    "kana": "はずれる を おぼえる",
-    "romaji": "hazureru o oboeru"
+    "kana": "ひつよう な とき に すぐ はずれる",
+    "romaji": "hitsuyou na toki ni sugu hazureru"
   },
   "jlpt-n2-夜行-1579": {
-    "kana": "やこう を おぼえる",
-    "romaji": "yakou o oboeru"
+    "kana": "やこう わ いえ で べんきょう し た",
+    "romaji": "yakou wa ie de benkyou shi ta"
   },
   "jlpt-n2-大して-1363": {
-    "kana": "たいして を おぼえる",
-    "romaji": "taishite o oboeru"
+    "kana": "じゅぎょう で たいして を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taishite o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-大分-1735": {
-    "kana": "おおいた を おぼえる",
-    "romaji": "ooita o oboeru"
+    "kana": "かいぎ で おおいた について はなしあっ た",
+    "romaji": "kaigi de ooita nitsuite hanashia ta"
   },
   "jlpt-n2-大学院-1696": {
-    "kana": "だいがくいん を おぼえる",
-    "romaji": "daigakuin o oboeru"
+    "kana": "しゅうまつ に だいがくいん え いっ た",
+    "romaji": "shuumatsu ni daigakuin e i ta"
   },
   "jlpt-n2-大小-1343": {
-    "kana": "だいしょう を おぼえる",
-    "romaji": "daishou o oboeru"
+    "kana": "じゅぎょう で だいしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de daishou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-大層-1411": {
-    "kana": "たいそう を おぼえる",
-    "romaji": "taisou o oboeru"
+    "kana": "じゅぎょう で たいそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taisou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-大工-1927": {
-    "kana": "だいく を おぼえる",
-    "romaji": "daiku o oboeru"
+    "kana": "その けいけん から だいく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara daiku no taisetsu sa o shi ta"
   },
   "jlpt-n2-大通り-1341": {
-    "kana": "おおどおり を おぼえる",
-    "romaji": "oodoori o oboeru"
+    "kana": "かいぎ で おおどおり について はなしあっ た",
+    "romaji": "kaigi de oodoori nitsuite hanashia ta"
   },
   "jlpt-n2-太鼓-1380": {
-    "kana": "たいこ を おぼえる",
-    "romaji": "taiko o oboeru"
+    "kana": "かいぎ で たいこ について はなしあっ た",
+    "romaji": "kaigi de taiko nitsuite hanashia ta"
   },
   "jlpt-n2-失恋-1657": {
-    "kana": "しつれん を おぼえる",
-    "romaji": "shitsuren o oboeru"
+    "kana": "しつれん が すこし いたい",
+    "romaji": "shitsuren ga sukoshi itai"
   },
   "jlpt-n2-女の人-1339": {
-    "kana": "おんな の ひと を おぼえる",
-    "romaji": "onna no hito o oboeru"
+    "kana": "おんな の ひと に みち を たずね た",
+    "romaji": "onna no hito ni michi o tazune ta"
   },
   "jlpt-n2-女房-1725": {
-    "kana": "にょうぼう を おぼえる",
-    "romaji": "nyoubou o oboeru"
+    "kana": "じゅぎょう で にょうぼう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nyoubou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-妥当-1344": {
-    "kana": "だとう を おぼえる",
-    "romaji": "datou o oboeru"
+    "kana": "だとう え まっすぐ すすん だ",
+    "romaji": "datou e massugu susun da"
   },
   "jlpt-n2-妨げる-1670": {
-    "kana": "さまたげる を おぼえる",
-    "romaji": "samatageru o oboeru"
+    "kana": "せんせい の まえ で おちつい て さまたげる",
+    "romaji": "sensei no mae de ochitsui te samatageru"
   },
   "jlpt-n2-姓-1940": {
-    "kana": "せい を おぼえる",
-    "romaji": "sei o oboeru"
+    "kana": "せい に みち を たずね た",
+    "romaji": "sei ni michi o tazune ta"
   },
   "jlpt-n2-姿勢-1509": {
-    "kana": "しせい を おぼえる",
-    "romaji": "shisei o oboeru"
+    "kana": "じゅぎょう で しせい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shisei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-嫌がる-1613": {
-    "kana": "いや がる を おぼえる",
-    "romaji": "iya garu o oboeru"
+    "kana": "せんせい の まえ で おちつい て いやがる",
+    "romaji": "sensei no mae de ochitsui te iyagaru"
   },
   "jlpt-n2-子孫-1576": {
-    "kana": "しそん を おぼえる",
-    "romaji": "shison o oboeru"
+    "kana": "その けいけん から しそん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shison no taisetsu sa o shi ta"
   },
   "jlpt-n2-学会-1353": {
-    "kana": "がっかい を おぼえる",
-    "romaji": "gakkai o oboeru"
+    "kana": "この もんだい に わ がっかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gakkai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-学年-1361": {
-    "kana": "がくねん を おぼえる",
-    "romaji": "gakunen o oboeru"
+    "kana": "がくねん わ いえ で べんきょう し た",
+    "romaji": "gakunen wa ie de benkyou shi ta"
   },
   "jlpt-n2-学級-1328": {
-    "kana": "がっきゅう を おぼえる",
-    "romaji": "gakkyuu o oboeru"
+    "kana": "がっきゅう で ともだち を まっ た",
+    "romaji": "gakkyuu de tomodachi o ma ta"
   },
   "jlpt-n2-学部-1493": {
-    "kana": "がくぶ を おぼえる",
-    "romaji": "gakubu o oboeru"
+    "kana": "がくぶ で ともだち を まっ た",
+    "romaji": "gakubu de tomodachi o ma ta"
   },
   "jlpt-n2-定休日-1727": {
-    "kana": "ていきゅう び を おぼえる",
-    "romaji": "teikyuu bi o oboeru"
+    "kana": "その けいけん から ていきゅう び の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara teikyuu bi no taisetsu sa o shi ta"
   },
   "jlpt-n2-定価-1763": {
-    "kana": "ていか を おぼえる",
-    "romaji": "teika o oboeru"
+    "kana": "その けいけん から ていか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara teika no taisetsu sa o shi ta"
   },
   "jlpt-n2-定員-1385": {
-    "kana": "ていいん を おぼえる",
-    "romaji": "teiin o oboeru"
+    "kana": "こたえ わ ていいん です",
+    "romaji": "kotae wa teiin desu"
   },
   "jlpt-n2-定期券-1445": {
-    "kana": "ていき けん を おぼえる",
-    "romaji": "teiki ken o oboeru"
+    "kana": "じゅぎょう で ていき けん を こえ に だし て よん だ",
+    "romaji": "jugyou de teiki ken o koe ni dashi te yon da"
   },
   "jlpt-n2-実力-1522": {
-    "kana": "じつりょく を おぼえる",
-    "romaji": "jitsuryoku o oboeru"
+    "kana": "じゅぎょう で じつりょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jitsuryoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-実用-1616": {
-    "kana": "じつよう を おぼえる",
-    "romaji": "jitsuyou o oboeru"
+    "kana": "かいぎ で じつよう について はなしあっ た",
+    "romaji": "kaigi de jitsuyou nitsuite hanashia ta"
   },
   "jlpt-n2-実績-1412": {
-    "kana": "じっせき を おぼえる",
-    "romaji": "jisseki o oboeru"
+    "kana": "じゅぎょう で じっせき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jisseki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-実習-1731": {
-    "kana": "じっしゅう を おぼえる",
-    "romaji": "jisshuu o oboeru"
+    "kana": "この もんだい に わ じっしゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jisshuu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-家主-1904": {
-    "kana": "やぬし を おぼえる",
-    "romaji": "yanushi o oboeru"
+    "kana": "その けいけん から やぬし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yanushi no taisetsu sa o shi ta"
   },
   "jlpt-n2-容積-1649": {
-    "kana": "ようせき を おぼえる",
-    "romaji": "youseki o oboeru"
+    "kana": "その けいけん から ようせき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara youseki no taisetsu sa o shi ta"
   },
   "jlpt-n2-寮-1391": {
-    "kana": "りょう を おぼえる",
-    "romaji": "ryou o oboeru"
+    "kana": "かいぎ で りょう について はなしあっ た",
+    "romaji": "kaigi de ryou nitsuite hanashia ta"
   },
   "jlpt-n2-寸法-1529": {
-    "kana": "すんぽう を おぼえる",
-    "romaji": "sunpou o oboeru"
+    "kana": "じゅぎょう で すんぽう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sunpou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-対照-1352": {
-    "kana": "たいしょう を おぼえる",
-    "romaji": "taishou o oboeru"
+    "kana": "じゅぎょう で たいしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taishou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-対策-1823": {
-    "kana": "たいさく を おぼえる",
-    "romaji": "taisaku o oboeru"
+    "kana": "じゅぎょう で たいさく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taisaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-射す-1729": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て さす",
+    "romaji": "sensei no mae de ochitsui te sasu"
   },
   "jlpt-n2-小学生-1301": {
-    "kana": "しょうがくせい を おぼえる",
-    "romaji": "shougakusei o oboeru"
+    "kana": "しょうがくせい に みち を たずね た",
+    "romaji": "shougakusei ni michi o tazune ta"
   },
   "jlpt-n2-小指-1408": {
-    "kana": "こゆび を おぼえる",
-    "romaji": "koyubi o oboeru"
+    "kana": "じゅぎょう で こゆび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koyubi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-尖る-1566": {
-    "kana": "とがる を おぼえる",
-    "romaji": "togaru o oboeru"
+    "kana": "まど の そと を じっと とがる",
+    "romaji": "mado no soto o jitto togaru"
   },
   "jlpt-n2-就任-1824": {
-    "kana": "しゅうにん を おぼえる",
-    "romaji": "shuunin o oboeru"
+    "kana": "しゅうにん で ともだち を まっ た",
+    "romaji": "shuunin de tomodachi o ma ta"
   },
   "jlpt-n2-山林-1333": {
-    "kana": "さんりん を おぼえる",
-    "romaji": "sanrin o oboeru"
+    "kana": "さんりん が まど の そと に みえる",
+    "romaji": "sanrin ga mado no soto ni mieru"
   },
   "jlpt-n2-崩す-1891": {
-    "kana": "くずす を おぼえる",
-    "romaji": "kuzusu o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に くずす",
+    "romaji": "dougu o tsuka te teinei ni kuzusu"
   },
   "jlpt-n2-工事-1583": {
-    "kana": "こうじ を おぼえる",
-    "romaji": "kouji o oboeru"
+    "kana": "その けいけん から こうじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kouji no taisetsu sa o shi ta"
   },
   "jlpt-n2-差し引き-1572": {
-    "kana": "さしひき を おぼえる",
-    "romaji": "sashihiki o oboeru"
+    "kana": "かいぎ で さしひき について はなしあっ た",
+    "romaji": "kaigi de sashihiki nitsuite hanashia ta"
   },
   "jlpt-n2-巻く-1531": {
-    "kana": "まく を おぼえる",
-    "romaji": "maku o oboeru"
+    "kana": "しっぱい し て も もういちど まく",
+    "romaji": "shippai shi te mo mouichido maku"
   },
   "jlpt-n2-干す-1403": {
-    "kana": "ほす を おぼえる",
-    "romaji": "hosu o oboeru"
+    "kana": "うんどう の あと すい を ほす",
+    "romaji": "undou no ato sui o hosu"
   },
   "jlpt-n2-平仮名-1515": {
-    "kana": "ひらがな を おぼえる",
-    "romaji": "hiragana o oboeru"
+    "kana": "この もんだい に わ ひらがな が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hiragana ga fukaku kankei shi te iru"
   },
   "jlpt-n2-平気-1327": {
-    "kana": "へいき を おぼえる",
-    "romaji": "heiki o oboeru"
+    "kana": "じゅぎょう で へいき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de heiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-年度-1857": {
-    "kana": "ねんど を おぼえる",
-    "romaji": "nendo o oboeru"
+    "kana": "ねんど に ともだち と あう",
+    "romaji": "nendo ni tomodachi to au"
   },
   "jlpt-n2-幼稚園-1581": {
-    "kana": "ようちえん を おぼえる",
-    "romaji": "youchien o oboeru"
+    "kana": "この もんだい に わ ようちえん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa youchien ga fukaku kankei shi te iru"
   },
   "jlpt-n2-幾分-1668": {
-    "kana": "いくぶん を おぼえる",
-    "romaji": "ikubun o oboeru"
+    "kana": "かいぎ で いくぶん について はなしあっ た",
+    "romaji": "kaigi de ikubun nitsuite hanashia ta"
   },
   "jlpt-n2-広々-1903": {
-    "kana": "ひろびろ を おぼえる",
-    "romaji": "hirobiro o oboeru"
+    "kana": "じゅぎょう で ひろびろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hirobiro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-広さ-1364": {
-    "kana": "ひろ さ を おぼえる",
-    "romaji": "hiro sa o oboeru"
+    "kana": "その けいけん から ひろ さ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hiro sa no taisetsu sa o shi ta"
   },
   "jlpt-n2-広める-1792": {
-    "kana": "ひろめる を おぼえる",
-    "romaji": "hiromeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ひろめる",
+    "romaji": "sensei no mae de ochitsui te hiromeru"
   },
   "jlpt-n2-広場-1912": {
-    "kana": "ひろば を おぼえる",
-    "romaji": "hiroba o oboeru"
+    "kana": "かいぎ で ひろば について はなしあっ た",
+    "romaji": "kaigi de hiroba nitsuite hanashia ta"
   },
   "jlpt-n2-庖丁-1900": {
-    "kana": "ほうちょう を おぼえる",
-    "romaji": "houchou o oboeru"
+    "kana": "その けいけん から ほうちょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara houchou no taisetsu sa o shi ta"
   },
   "jlpt-n2-延ばす-1676": {
-    "kana": "のばす を おぼえる",
-    "romaji": "nobasu o oboeru"
+    "kana": "じゅぎょう の あと えき え のばす",
+    "romaji": "jugyou no ato eki e nobasu"
   },
   "jlpt-n2-引っ繰り返す-1791": {
-    "kana": "ひっくりかえす を おぼえる",
-    "romaji": "hikkurikaesu o oboeru"
+    "kana": "しっぱい し て も もういちど ひっくりかえす",
+    "romaji": "shippai shi te mo mouichido hikkurikaesu"
   },
   "jlpt-n2-引力-1585": {
-    "kana": "いんりょく を おぼえる",
-    "romaji": "inryoku o oboeru"
+    "kana": "その けいけん から いんりょく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara inryoku no taisetsu sa o shi ta"
   },
   "jlpt-n2-引受る-1717": {
-    "kana": "ひきうけ る を おぼえる",
-    "romaji": "hikiuke ru o oboeru"
+    "kana": "ともだち に にもつ を ひきうけ る",
+    "romaji": "tomodachi ni nimotsu o hikiuke ru"
   },
   "jlpt-n2-引算-1502": {
-    "kana": "ひきざん を おぼえる",
-    "romaji": "hikizan o oboeru"
+    "kana": "その けいけん から ひきざん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hikizan no taisetsu sa o shi ta"
   },
   "jlpt-n2-弱点-1468": {
-    "kana": "じゃくてん を おぼえる",
-    "romaji": "jakuten o oboeru"
+    "kana": "この もんだい に わ じゃくてん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jakuten ga fukaku kankei shi te iru"
   },
   "jlpt-n2-強引-1492": {
-    "kana": "ごういん を おぼえる",
-    "romaji": "gouin o oboeru"
+    "kana": "この もんだい に わ ごういん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gouin ga fukaku kankei shi te iru"
   },
   "jlpt-n2-当番-1524": {
-    "kana": "とうばん を おぼえる",
-    "romaji": "touban o oboeru"
+    "kana": "その けいけん から とうばん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara touban no taisetsu sa o shi ta"
   },
   "jlpt-n2-彫刻-1477": {
-    "kana": "ちょうこく を おぼえる",
-    "romaji": "choukoku o oboeru"
+    "kana": "かいぎ で ちょうこく について はなしあっ た",
+    "romaji": "kaigi de choukoku nitsuite hanashia ta"
   },
   "jlpt-n2-役所-1822": {
-    "kana": "やくしょ を おぼえる",
-    "romaji": "yakusho o oboeru"
+    "kana": "やくしょ で ともだち を まっ た",
+    "romaji": "yakusho de tomodachi o ma ta"
   },
   "jlpt-n2-待ち合わせる-1571": {
-    "kana": "まちあわせる を おぼえる",
-    "romaji": "machiawaseru o oboeru"
+    "kana": "せんせい の まえ で おちつい て まちあわせる",
+    "romaji": "sensei no mae de ochitsui te machiawaseru"
   },
   "jlpt-n2-従姉妹-1355": {
-    "kana": "いとこ を おぼえる",
-    "romaji": "itoko o oboeru"
+    "kana": "じゅぎょう で いとこ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de itoko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-御中-1293": {
-    "kana": "おんちゅう を おぼえる",
-    "romaji": "onchuu o oboeru"
+    "kana": "おんちゅう で ともだち を まっ た",
+    "romaji": "onchuu de tomodachi o ma ta"
   },
   "jlpt-n2-御無沙汰-1592": {
-    "kana": "ごぶさた を おぼえる",
-    "romaji": "gobusata o oboeru"
+    "kana": "この もんだい に わ ごぶさた が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gobusata ga fukaku kankei shi te iru"
   },
   "jlpt-n2-心当たり-1673": {
-    "kana": "こころあたり を おぼえる",
-    "romaji": "kokoroatari o oboeru"
+    "kana": "じゅぎょう で こころあたり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kokoroatari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-心得る-1638": {
-    "kana": "こころえる を おぼえる",
-    "romaji": "kokoroeru o oboeru"
+    "kana": "しっぱい し て も もういちど こころえる",
+    "romaji": "shippai shi te mo mouichido kokoroeru"
   },
   "jlpt-n2-心身-1677": {
-    "kana": "しんしん を おぼえる",
-    "romaji": "shinshin o oboeru"
+    "kana": "しんしん が すこし いたい",
+    "romaji": "shinshin ga sukoshi itai"
   },
   "jlpt-n2-必需品-1336": {
-    "kana": "ひつじゅ ひん を おぼえる",
-    "romaji": "hitsuju hin o oboeru"
+    "kana": "ひつじゅ ひん な しりょう を さき に かくにん し た",
+    "romaji": "hitsuju hin na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n2-応ずる-1901": {
-    "kana": "おうずる を おぼえる",
-    "romaji": "ouzuru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり おうずる",
+    "romaji": "kaigi de riyuu o hakkiri ouzuru"
   },
   "jlpt-n2-応接-1494": {
-    "kana": "おうせつ を おぼえる",
-    "romaji": "ousetsu o oboeru"
+    "kana": "この もんだい に わ おうせつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ousetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-怠る-1397": {
-    "kana": "おこたる を おぼえる",
-    "romaji": "okotaru o oboeru"
+    "kana": "ひつよう な とき に すぐ おこたる",
+    "romaji": "hitsuyou na toki ni sugu okotaru"
   },
   "jlpt-n2-性能-1660": {
-    "kana": "せいのう を おぼえる",
-    "romaji": "seinou o oboeru"
+    "kana": "かいぎ で せいのう について はなしあっ た",
+    "romaji": "kaigi de seinou nitsuite hanashia ta"
   },
   "jlpt-n2-怪しい-1658": {
-    "kana": "あやしい を おぼえる",
-    "romaji": "ayashii o oboeru"
+    "kana": "かいぎ で あやしい について はなしあっ た",
+    "romaji": "kaigi de ayashii nitsuite hanashia ta"
   },
   "jlpt-n2-恐縮-1715": {
-    "kana": "きょうしゅく を おぼえる",
-    "romaji": "kyoushuku o oboeru"
+    "kana": "じゅぎょう で きょうしゅく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyoushuku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-恨む-1442": {
-    "kana": "うらむ を おぼえる",
-    "romaji": "uramu o oboeru"
+    "kana": "しっぱい し て も もういちど うらむ",
+    "romaji": "shippai shi te mo mouichido uramu"
   },
   "jlpt-n2-悔やむ-1617": {
-    "kana": "くやむ を おぼえる",
-    "romaji": "kuyamu o oboeru"
+    "kana": "しっぱい し て も もういちど くやむ",
+    "romaji": "shippai shi te mo mouichido kuyamu"
   },
   "jlpt-n2-悠々-1719": {
-    "kana": "ゆうゆう を おぼえる",
-    "romaji": "yuuyuu o oboeru"
+    "kana": "ゆうゆう な しりょう を さき に かくにん し た",
+    "romaji": "yuuyuu na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n2-意地悪-1519": {
-    "kana": "いじわる を おぼえる",
-    "romaji": "ijiwaru o oboeru"
+    "kana": "じゅぎょう で いじわる を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ijiwaru o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-意義-1307": {
-    "kana": "いぎ を おぼえる",
-    "romaji": "igi o oboeru"
+    "kana": "かいぎ で いぎ について はなしあっ た",
+    "romaji": "kaigi de igi nitsuite hanashia ta"
   },
   "jlpt-n2-感ずる-1728": {
-    "kana": "かんずる を おぼえる",
-    "romaji": "kanzuru o oboeru"
+    "kana": "ひつよう な とき に すぐ かんずる",
+    "romaji": "hitsuyou na toki ni sugu kanzuru"
   },
   "jlpt-n2-感想-1864": {
-    "kana": "かんそう を おぼえる",
-    "romaji": "kansou o oboeru"
+    "kana": "じゅぎょう で かんそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kansou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-感激-1656": {
-    "kana": "かんげき を おぼえる",
-    "romaji": "kangeki o oboeru"
+    "kana": "その けいけん から かんげき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kangeki no taisetsu sa o shi ta"
   },
   "jlpt-n2-慰める-1526": {
-    "kana": "なぐさめる を おぼえる",
-    "romaji": "nagusameru o oboeru"
+    "kana": "ひつよう な とき に すぐ なぐさめる",
+    "romaji": "hitsuyou na toki ni sugu nagusameru"
   },
   "jlpt-n2-慶び-1939": {
-    "kana": "よろこび を おぼえる",
-    "romaji": "yorokobi o oboeru"
+    "kana": "この もんだい に わ よろこび が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yorokobi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-憎む-1478": {
-    "kana": "にくむ を おぼえる",
-    "romaji": "nikumu o oboeru"
+    "kana": "しっぱい し て も もういちど にくむ",
+    "romaji": "shippai shi te mo mouichido nikumu"
   },
   "jlpt-n2-憎らしい-1379": {
-    "kana": "にくらしい を おぼえる",
-    "romaji": "nikurashii o oboeru"
+    "kana": "じゅぎょう で にくらしい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nikurashii o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-成分-1287": {
-    "kana": "せいぶん を おぼえる",
-    "romaji": "seibun o oboeru"
+    "kana": "じゅぎょう で せいぶん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seibun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-戸棚-1798": {
-    "kana": "とだな を おぼえる",
-    "romaji": "todana o oboeru"
+    "kana": "かいぎ で とだな について はなしあっ た",
+    "romaji": "kaigi de todana nitsuite hanashia ta"
   },
   "jlpt-n2-所々-1602": {
-    "kana": "ところどころ を おぼえる",
-    "romaji": "tokorodokoro o oboeru"
+    "kana": "その けいけん から ところどころ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tokorodokoro no taisetsu sa o shi ta"
   },
   "jlpt-n2-扇ぐ-1417": {
-    "kana": "あおぐ を おぼえる",
-    "romaji": "aogu o oboeru"
+    "kana": "しっぱい し て も もういちど あおぐ",
+    "romaji": "shippai shi te mo mouichido aogu"
   },
   "jlpt-n2-手入れ-1302": {
-    "kana": "ていれ を おぼえる",
-    "romaji": "teire o oboeru"
+    "kana": "かいぎ で ていれ について はなしあっ た",
+    "romaji": "kaigi de teire nitsuite hanashia ta"
   },
   "jlpt-n2-手首-1600": {
-    "kana": "てくび を おぼえる",
-    "romaji": "tekubi o oboeru"
+    "kana": "この もんだい に わ てくび が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tekubi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-打合せ-1872": {
-    "kana": "うちあわせ を おぼえる",
-    "romaji": "uchiawase o oboeru"
+    "kana": "じゅぎょう で うちあわせ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de uchiawase o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-払い戻す-1669": {
-    "kana": "はらいもどす を おぼえる",
-    "romaji": "haraimodosu o oboeru"
+    "kana": "ともだち に にもつ を はらいもどす",
+    "romaji": "tomodachi ni nimotsu o haraimodosu"
   },
   "jlpt-n2-払い込む-1915": {
-    "kana": "はらいこむ を おぼえる",
-    "romaji": "haraikomu o oboeru"
+    "kana": "ともだち に にもつ を はらいこむ",
+    "romaji": "tomodachi ni nimotsu o haraikomu"
   },
   "jlpt-n2-承る-1777": {
-    "kana": "うけたまわる を おぼえる",
-    "romaji": "uketamawaru o oboeru"
+    "kana": "しずか な へや で おと を うけたまわる",
+    "romaji": "shizuka na heya de oto o uketamawaru"
   },
   "jlpt-n2-投書-1861": {
-    "kana": "とうしょ を おぼえる",
-    "romaji": "tousho o oboeru"
+    "kana": "じゅぎょう で とうしょ を こえ に だし て よん だ",
+    "romaji": "jugyou de tousho o koe ni dashi te yon da"
   },
   "jlpt-n2-折角-1377": {
-    "kana": "せっかく を おぼえる",
-    "romaji": "sekkaku o oboeru"
+    "kana": "その けいけん から せっかく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sekkaku no taisetsu sa o shi ta"
   },
   "jlpt-n2-押える-1662": {
-    "kana": "おさえる を おぼえる",
-    "romaji": "osaeru o oboeru"
+    "kana": "かいぎ わ じかん どおり に おさえる",
+    "romaji": "kaigi wa jikan doori ni osaeru"
   },
   "jlpt-n2-拝む-1699": {
-    "kana": "おがむ を おぼえる",
-    "romaji": "ogamu o oboeru"
+    "kana": "せんせい の まえ で おちつい て おがむ",
+    "romaji": "sensei no mae de ochitsui te ogamu"
   },
   "jlpt-n2-拝見-1435": {
-    "kana": "はいけん を おぼえる",
-    "romaji": "haiken o oboeru"
+    "kana": "じゅぎょう で はいけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haiken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-拡充-1659": {
-    "kana": "かくじゅう を おぼえる",
-    "romaji": "kakujuu o oboeru"
+    "kana": "この もんだい に わ かくじゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kakujuu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-括弧-1454": {
-    "kana": "かっこ を おぼえる",
-    "romaji": "kakko o oboeru"
+    "kana": "かいぎ で かっこ について はなしあっ た",
+    "romaji": "kaigi de kakko nitsuite hanashia ta"
   },
   "jlpt-n2-持参-1482": {
-    "kana": "じさん を おぼえる",
-    "romaji": "jisan o oboeru"
+    "kana": "かいぎ で じさん について はなしあっ た",
+    "romaji": "kaigi de jisan nitsuite hanashia ta"
   },
   "jlpt-n2-指定-1738": {
-    "kana": "してい を おぼえる",
-    "romaji": "shitei o oboeru"
+    "kana": "かいぎ で してい について はなしあっ た",
+    "romaji": "kaigi de shitei nitsuite hanashia ta"
   },
   "jlpt-n2-挟まる-1776": {
-    "kana": "はさまる を おぼえる",
-    "romaji": "hasamaru o oboeru"
+    "kana": "ひつよう な とき に すぐ はさまる",
+    "romaji": "hitsuyou na toki ni sugu hasamaru"
   },
   "jlpt-n2-振り仮名-1486": {
-    "kana": "ふり かめい を おぼえる",
-    "romaji": "furi kamei o oboeru"
+    "kana": "ふり かめい を かばん に いれ た",
+    "romaji": "furi kamei o kaban ni ire ta"
   },
   "jlpt-n2-挿す-1906": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "しっぱい し て も もういちど さす",
+    "romaji": "shippai shi te mo mouichido sasu"
   },
   "jlpt-n2-捕える-1709": {
-    "kana": "とらえる を おぼえる",
-    "romaji": "toraeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て とらえる",
+    "romaji": "sensei no mae de ochitsui te toraeru"
   },
   "jlpt-n2-捜す-1688": {
-    "kana": "さがす を おぼえる",
-    "romaji": "sagasu o oboeru"
+    "kana": "まど の そと を じっと さがす",
+    "romaji": "mado no soto o jitto sagasu"
   },
   "jlpt-n2-掃く-1527": {
-    "kana": "はく を おぼえる",
-    "romaji": "haku o oboeru"
+    "kana": "ひつよう な とき に すぐ はく",
+    "romaji": "hitsuyou na toki ni sugu haku"
   },
   "jlpt-n2-採る-1387": {
-    "kana": "とる を おぼえる",
-    "romaji": "toru o oboeru"
+    "kana": "ひつよう な とき に すぐ とる",
+    "romaji": "hitsuyou na toki ni sugu toru"
   },
   "jlpt-n2-採点-1750": {
-    "kana": "さいてん を おぼえる",
-    "romaji": "saiten o oboeru"
+    "kana": "この もんだい に わ さいてん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saiten ga fukaku kankei shi te iru"
   },
   "jlpt-n2-探る-1753": {
-    "kana": "さぐる を おぼえる",
-    "romaji": "saguru o oboeru"
+    "kana": "まど の そと を じっと さぐる",
+    "romaji": "mado no soto o jitto saguru"
   },
   "jlpt-n2-接近-1882": {
-    "kana": "せっきん を おぼえる",
-    "romaji": "sekkin o oboeru"
+    "kana": "じゅぎょう で せっきん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sekkin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-擦る-1538": {
-    "kana": "こする を おぼえる",
-    "romaji": "kosuru o oboeru"
+    "kana": "じゅぎょう で せんせい の まえ で おちつい て こする",
+    "romaji": "jugyou de sensei no mae de ochitsui te kosuru"
   },
   "jlpt-n2-改めて-1710": {
-    "kana": "あらためて を おぼえる",
-    "romaji": "aratamete o oboeru"
+    "kana": "かいぎ で あらためて について はなしあっ た",
+    "romaji": "kaigi de aratamete nitsuite hanashia ta"
   },
   "jlpt-n2-改める-1535": {
-    "kana": "あらためる を おぼえる",
-    "romaji": "aratameru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし あらためる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi aratameru"
   },
   "jlpt-n2-改正-1734": {
-    "kana": "かいせい を おぼえる",
-    "romaji": "kaisei o oboeru"
+    "kana": "その けいけん から かいせい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaisei no taisetsu sa o shi ta"
   },
   "jlpt-n2-改造-1342": {
-    "kana": "かいぞう を おぼえる",
-    "romaji": "kaizou o oboeru"
+    "kana": "かいぎ で かいぞう について はなしあっ た",
+    "romaji": "kaigi de kaizou nitsuite hanashia ta"
   },
   "jlpt-n2-攻める-1786": {
-    "kana": "せめる を おぼえる",
-    "romaji": "semeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て せめる",
+    "romaji": "sensei no mae de ochitsui te semeru"
   },
   "jlpt-n2-政党-1612": {
-    "kana": "せいとう を おぼえる",
-    "romaji": "seitou o oboeru"
+    "kana": "この もんだい に わ せいとう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seitou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-教わる-1693": {
-    "kana": "おそわる を おぼえる",
-    "romaji": "osowaru o oboeru"
+    "kana": "しっぱい し て も もういちど おそわる",
+    "romaji": "shippai shi te mo mouichido osowaru"
   },
   "jlpt-n2-散らかる-1838": {
-    "kana": "ちらかる を おぼえる",
-    "romaji": "chirakaru o oboeru"
+    "kana": "ひつよう な とき に すぐ ちらかる",
+    "romaji": "hitsuyou na toki ni sugu chirakaru"
   },
   "jlpt-n2-整備-1345": {
-    "kana": "せいび を おぼえる",
-    "romaji": "seibi o oboeru"
+    "kana": "この もんだい に わ せいび が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seibi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-整数-1469": {
-    "kana": "せいすう を おぼえる",
-    "romaji": "seisuu o oboeru"
+    "kana": "その けいけん から せいすう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seisuu no taisetsu sa o shi ta"
   },
   "jlpt-n2-敷く-1874": {
-    "kana": "しく を おぼえる",
-    "romaji": "shiku o oboeru"
+    "kana": "せんせい の まえ で おちつい て しく",
+    "romaji": "sensei no mae de ochitsui te shiku"
   },
   "jlpt-n2-敷地-1511": {
-    "kana": "しきち を おぼえる",
-    "romaji": "shikichi o oboeru"
+    "kana": "かいぎ で しきち について はなしあっ た",
+    "romaji": "kaigi de shikichi nitsuite hanashia ta"
   },
   "jlpt-n2-文体-1466": {
-    "kana": "ぶんたい を おぼえる",
-    "romaji": "buntai o oboeru"
+    "kana": "その けいけん から ぶんたい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara buntai no taisetsu sa o shi ta"
   },
   "jlpt-n2-文献-1303": {
-    "kana": "ぶんけん を おぼえる",
-    "romaji": "bunken o oboeru"
+    "kana": "じゅぎょう で ぶんけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bunken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-斬る-1875": {
-    "kana": "きる を おぼえる",
-    "romaji": "kiru o oboeru"
+    "kana": "ひつよう な とき に すぐ きる",
+    "romaji": "hitsuyou na toki ni sugu kiru"
   },
   "jlpt-n2-断水-1782": {
-    "kana": "だんすい を おぼえる",
-    "romaji": "dansui o oboeru"
+    "kana": "しょくご に だんすい を のん だ",
+    "romaji": "shokugo ni dansui o non da"
   },
   "jlpt-n2-新幹線-1396": {
-    "kana": "しんかんせん を おぼえる",
-    "romaji": "shinkansen o oboeru"
+    "kana": "じゅぎょう で しんかんせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shinkansen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-方程式-1534": {
-    "kana": "ほうていしき を おぼえる",
-    "romaji": "houteishiki o oboeru"
+    "kana": "この もんだい に わ ほうていしき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa houteishiki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-日時-1691": {
-    "kana": "にちじ を おぼえる",
-    "romaji": "nichiji o oboeru"
+    "kana": "その けいけん から にちじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nichiji no taisetsu sa o shi ta"
   },
   "jlpt-n2-明け方-1910": {
-    "kana": "あけがた を おぼえる",
-    "romaji": "akegata o oboeru"
+    "kana": "この もんだい に わ あけがた が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa akegata ga fukaku kankei shi te iru"
   },
   "jlpt-n2-昼寝-1702": {
-    "kana": "ひるね を おぼえる",
-    "romaji": "hirune o oboeru"
+    "kana": "しゅうまつ に ひるね え いっ た",
+    "romaji": "shuumatsu ni hirune e i ta"
   },
   "jlpt-n2-時速-1680": {
-    "kana": "じそく を おぼえる",
-    "romaji": "jisoku o oboeru"
+    "kana": "かいぎ で じそく について はなしあっ た",
+    "romaji": "kaigi de jisoku nitsuite hanashia ta"
   },
   "jlpt-n2-時間割-1402": {
-    "kana": "じかんわり を おぼえる",
-    "romaji": "jikanwari o oboeru"
+    "kana": "かいぎ で じかんわり について はなしあっ た",
+    "romaji": "kaigi de jikanwari nitsuite hanashia ta"
   },
   "jlpt-n2-暖まる-1870": {
-    "kana": "あたたまる を おぼえる",
-    "romaji": "atatamaru o oboeru"
+    "kana": "ひつよう な とき に すぐ あたたまる",
+    "romaji": "hitsuyou na toki ni sugu atatamaru"
   },
   "jlpt-n2-暖める-1462": {
-    "kana": "あたためる を おぼえる",
-    "romaji": "atatameru o oboeru"
+    "kana": "しっぱい し て も もういちど あたためる",
+    "romaji": "shippai shi te mo mouichido atatameru"
   },
   "jlpt-n2-曲線-1346": {
-    "kana": "きょくせん を おぼえる",
-    "romaji": "kyokusen o oboeru"
+    "kana": "その けいけん から きょくせん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyokusen no taisetsu sa o shi ta"
   },
   "jlpt-n2-更ける-1866": {
-    "kana": "ふける を おぼえる",
-    "romaji": "fukeru o oboeru"
+    "kana": "しっぱい し て も もういちど ふける",
+    "romaji": "shippai shi te mo mouichido fukeru"
   },
   "jlpt-n2-書取-1839": {
-    "kana": "かきとり を おぼえる",
-    "romaji": "kakitori o oboeru"
+    "kana": "じゅぎょう で かきとり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kakitori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-書留-1392": {
-    "kana": "かきとめ を おぼえる",
-    "romaji": "kakitome o oboeru"
+    "kana": "かきとめ え まっすぐ すすん だ",
+    "romaji": "kakitome e massugu susun da"
   },
   "jlpt-n2-書籍-1314": {
-    "kana": "しょせき を おぼえる",
-    "romaji": "shoseki o oboeru"
+    "kana": "じゅぎょう で しょせき を こえ に だし て よん だ",
+    "romaji": "jugyou de shoseki o koe ni dashi te yon da"
   },
   "jlpt-n2-書道-1703": {
-    "kana": "しょどう を おぼえる",
-    "romaji": "shodou o oboeru"
+    "kana": "かいぎ で しょどう について はなしあっ た",
+    "romaji": "kaigi de shodou nitsuite hanashia ta"
   },
   "jlpt-n2-木材-1354": {
-    "kana": "もくざい を おぼえる",
-    "romaji": "mokuzai o oboeru"
+    "kana": "この もんだい に わ もくざい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mokuzai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-杉-1767": {
-    "kana": "すぎ を おぼえる",
-    "romaji": "sugi o oboeru"
+    "kana": "この もんだい に わ すぎ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sugi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-来日-1436": {
-    "kana": "らいにち を おぼえる",
-    "romaji": "rainichi o oboeru"
+    "kana": "かいぎ で らいにち について はなしあっ た",
+    "romaji": "kaigi de rainichi nitsuite hanashia ta"
   },
   "jlpt-n2-東洋-1472": {
-    "kana": "とうよう を おぼえる",
-    "romaji": "touyou o oboeru"
+    "kana": "かいぎ で とうよう について はなしあっ た",
+    "romaji": "kaigi de touyou nitsuite hanashia ta"
   },
   "jlpt-n2-架空-1295": {
-    "kana": "かくう を おぼえる",
-    "romaji": "kakuu o oboeru"
+    "kana": "この もんだい に わ かくう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kakuu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-栓-1849": {
-    "kana": "せん を おぼえる",
-    "romaji": "sen o oboeru"
+    "kana": "この もんだい に わ せん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sen ga fukaku kankei shi te iru"
   },
   "jlpt-n2-校庭-1358": {
-    "kana": "こうてい を おぼえる",
-    "romaji": "koutei o oboeru"
+    "kana": "かいぎ で こうてい について はなしあっ た",
+    "romaji": "kaigi de koutei nitsuite hanashia ta"
   },
   "jlpt-n2-校舎-1905": {
-    "kana": "こうしゃ を おぼえる",
-    "romaji": "kousha o oboeru"
+    "kana": "こうしゃ で ともだち を まっ た",
+    "romaji": "kousha de tomodachi o ma ta"
   },
   "jlpt-n2-桁-1652": {
-    "kana": "けた を おぼえる",
-    "romaji": "keta o oboeru"
+    "kana": "この もんだい に わ けた が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa keta ga fukaku kankei shi te iru"
   },
   "jlpt-n2-案外-1916": {
-    "kana": "あんがい を おぼえる",
-    "romaji": "angai o oboeru"
+    "kana": "その けいけん から あんがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara angai no taisetsu sa o shi ta"
   },
   "jlpt-n2-梯子-1415": {
-    "kana": "はしご を おぼえる",
-    "romaji": "hashigo o oboeru"
+    "kana": "てすと で わ その けいけん から はしご の たいせつ さ を しっ た",
+    "romaji": "tesuto de wa sono keiken kara hashigo no taisetsu sa o shi ta"
   },
   "jlpt-n2-植木-1533": {
-    "kana": "うえき を おぼえる",
-    "romaji": "ueki o oboeru"
+    "kana": "しゅうまつ に うえき え いっ た",
+    "romaji": "shuumatsu ni ueki e i ta"
   },
   "jlpt-n2-楽器-1755": {
-    "kana": "がっき を おぼえる",
-    "romaji": "gakki o oboeru"
+    "kana": "その けいけん から がっき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gakki no taisetsu sa o shi ta"
   },
   "jlpt-n2-構造-1745": {
-    "kana": "こうぞう を おぼえる",
-    "romaji": "kouzou o oboeru"
+    "kana": "かいぎ で こうぞう について はなしあっ た",
+    "romaji": "kaigi de kouzou nitsuite hanashia ta"
   },
   "jlpt-n2-機関車-1349": {
-    "kana": "きかん しゃ を おぼえる",
-    "romaji": "kikan sha o oboeru"
+    "kana": "その けいけん から きかん しゃ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kikan sha no taisetsu sa o shi ta"
   },
   "jlpt-n2-櫛-1785": {
-    "kana": "くし を おぼえる",
-    "romaji": "kushi o oboeru"
+    "kana": "この もんだい に わ くし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kushi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-欄-1446": {
-    "kana": "らん を おぼえる",
-    "romaji": "ran o oboeru"
+    "kana": "じゅぎょう で らん を こえ に だし て よん だ",
+    "romaji": "jugyou de ran o koe ni dashi te yon da"
   },
   "jlpt-n2-欧米-1695": {
-    "kana": "おうべい を おぼえる",
-    "romaji": "oubei o oboeru"
+    "kana": "おうべい え まっすぐ すすん だ",
+    "romaji": "oubei e massugu susun da"
   },
   "jlpt-n2-欲張り-1868": {
-    "kana": "よくばり を おぼえる",
-    "romaji": "yokubari o oboeru"
+    "kana": "その けいけん から よくばり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yokubari no taisetsu sa o shi ta"
   },
   "jlpt-n2-歌謡-1430": {
-    "kana": "かよう を おぼえる",
-    "romaji": "kayou o oboeru"
+    "kana": "じゅぎょう で かよう を こえ に だし て よん だ",
+    "romaji": "jugyou de kayou o koe ni dashi te yon da"
   },
   "jlpt-n2-歯磨き-1665": {
-    "kana": "はみがき を おぼえる",
-    "romaji": "hamigaki o oboeru"
+    "kana": "かいぎ で はみがき について はなしあっ た",
+    "romaji": "kaigi de hamigaki nitsuite hanashia ta"
   },
   "jlpt-n2-死体-1726": {
-    "kana": "したい を おぼえる",
-    "romaji": "shitai o oboeru"
+    "kana": "その けいけん から したい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shitai no taisetsu sa o shi ta"
   },
   "jlpt-n2-残らず-1928": {
-    "kana": "のこら ず を おぼえる",
-    "romaji": "nokora zu o oboeru"
+    "kana": "じゅぎょう で のこら ず を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nokora zu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-殖える-1309": {
-    "kana": "ふえる を おぼえる",
-    "romaji": "fueru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし ふえる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi fueru"
   },
   "jlpt-n2-段階-1536": {
-    "kana": "だんかい を おぼえる",
-    "romaji": "dankai o oboeru"
+    "kana": "その けいけん から だんかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dankai no taisetsu sa o shi ta"
   },
   "jlpt-n2-殻-1359": {
-    "kana": "から を おぼえる",
-    "romaji": "kara o oboeru"
+    "kana": "この もんだい に わ から が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kara ga fukaku kankei shi te iru"
   },
   "jlpt-n2-比較的-1313": {
-    "kana": "ひかくてき を おぼえる",
-    "romaji": "hikakuteki o oboeru"
+    "kana": "この もんだい に わ ひかくてき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hikakuteki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-毛皮-1920": {
-    "kana": "けがわ を おぼえる",
-    "romaji": "kegawa o oboeru"
+    "kana": "その けいけん から けがわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kegawa no taisetsu sa o shi ta"
   },
   "jlpt-n2-毛糸-1288": {
-    "kana": "けいと を おぼえる",
-    "romaji": "keito o oboeru"
+    "kana": "じゅぎょう で けいと を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keito o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-民謡-1298": {
-    "kana": "みんよう を おぼえる",
-    "romaji": "min'you o oboeru"
+    "kana": "じゅぎょう で みんよう を こえ に だし て よん だ",
+    "romaji": "jugyou de min'you o koe ni dashi te yon da"
   },
   "jlpt-n2-民間-1919": {
-    "kana": "みんかん を おぼえる",
-    "romaji": "minkan o oboeru"
+    "kana": "じゅぎょう で みんかん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de minkan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-気を付ける-1933": {
-    "kana": "き を つける を おぼえる",
-    "romaji": "ki o tsukeru o oboeru"
+    "kana": "ともだち に にもつ を き を つける",
+    "romaji": "tomodachi ni nimotsu o ki o tsukeru"
   },
   "jlpt-n2-気圧-1865": {
-    "kana": "きあつ を おぼえる",
-    "romaji": "kiatsu o oboeru"
+    "kana": "かいぎ で きあつ について はなしあっ た",
+    "romaji": "kaigi de kiatsu nitsuite hanashia ta"
   },
   "jlpt-n2-水平-1322": {
-    "kana": "すいへい を おぼえる",
-    "romaji": "suihei o oboeru"
+    "kana": "しょくご に すいへい を のん だ",
+    "romaji": "shokugo ni suihei o non da"
   },
   "jlpt-n2-水滴-1389": {
-    "kana": "すいてき を おぼえる",
-    "romaji": "suiteki o oboeru"
+    "kana": "しょくご に すいてき を のん だ",
+    "romaji": "shokugo ni suiteki o non da"
   },
   "jlpt-n2-水蒸気-1860": {
-    "kana": "すいじょうき を おぼえる",
-    "romaji": "suijouki o oboeru"
+    "kana": "しょくご に すいじょうき を のん だ",
+    "romaji": "shokugo ni suijouki o non da"
   },
   "jlpt-n2-水筒-1805": {
-    "kana": "すいとう を おぼえる",
-    "romaji": "suitou o oboeru"
+    "kana": "しょくご に すいとう を のん だ",
+    "romaji": "shokugo ni suitou o non da"
   },
   "jlpt-n2-水素-1642": {
-    "kana": "すいそ を おぼえる",
-    "romaji": "suiso o oboeru"
+    "kana": "かいぎ で すいそ について はなしあっ た",
+    "romaji": "kaigi de suiso nitsuite hanashia ta"
   },
   "jlpt-n2-汁-1827": {
-    "kana": "しる を おぼえる",
-    "romaji": "shiru o oboeru"
+    "kana": "かいぎ で しる について はなしあっ た",
+    "romaji": "kaigi de shiru nitsuite hanashia ta"
   },
   "jlpt-n2-汚す-1388": {
-    "kana": "けがす を おぼえる",
-    "romaji": "kegasu o oboeru"
+    "kana": "しっぱい し て も もういちど けがす",
+    "romaji": "shippai shi te mo mouichido kegasu"
   },
   "jlpt-n2-治める-1610": {
-    "kana": "おさめる を おぼえる",
-    "romaji": "osameru o oboeru"
+    "kana": "せんせい の まえ で おちつい て おさめる",
+    "romaji": "sensei no mae de ochitsui te osameru"
   },
   "jlpt-n2-泊める-1611": {
-    "kana": "とめる を おぼえる",
-    "romaji": "tomeru o oboeru"
+    "kana": "ともだち に にもつ を とめる",
+    "romaji": "tomodachi ni nimotsu o tomeru"
   },
   "jlpt-n2-注す-1490": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "うんどう の あと すい を さす",
+    "romaji": "undou no ato sui o sasu"
   },
   "jlpt-n2-洒落-1893": {
-    "kana": "しゃれ を おぼえる",
-    "romaji": "share o oboeru"
+    "kana": "この もんだい に わ しゃれ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa share ga fukaku kankei shi te iru"
   },
   "jlpt-n2-派手-1936": {
-    "kana": "はで を おぼえる",
-    "romaji": "hade o oboeru"
+    "kana": "じゅぎょう で はで を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hade o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-浮ぶ-1591": {
-    "kana": "うかぶ を おぼえる",
-    "romaji": "ukabu o oboeru"
+    "kana": "じゅぎょう の あと えき え うかぶ",
+    "romaji": "jugyou no ato eki e ukabu"
   },
   "jlpt-n2-海洋-1384": {
-    "kana": "かいよう を おぼえる",
-    "romaji": "kaiyou o oboeru"
+    "kana": "かいぎ で かいよう について はなしあっ た",
+    "romaji": "kaigi de kaiyou nitsuite hanashia ta"
   },
   "jlpt-n2-消耗-1809": {
-    "kana": "しょうもう を おぼえる",
-    "romaji": "shoumou o oboeru"
+    "kana": "その けいけん から しょうもう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shoumou no taisetsu sa o shi ta"
   },
   "jlpt-n2-混ざる-1618": {
-    "kana": "まざる を おぼえる",
-    "romaji": "mazaru o oboeru"
+    "kana": "ひつよう な とき に すぐ まざる",
+    "romaji": "hitsuyou na toki ni sugu mazaru"
   },
   "jlpt-n2-混合-1386": {
-    "kana": "こんごう を おぼえる",
-    "romaji": "kongou o oboeru"
+    "kana": "かいぎ で こんごう について はなしあっ た",
+    "romaji": "kaigi de kongou nitsuite hanashia ta"
   },
   "jlpt-n2-清い-1409": {
-    "kana": "きよい を おぼえる",
-    "romaji": "kiyoi o oboeru"
+    "kana": "この もんだい に わ きよい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kiyoi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-清掃-1772": {
-    "kana": "せいそう を おぼえる",
-    "romaji": "seisou o oboeru"
+    "kana": "じゅぎょう で せいそう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seisou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-清書-1855": {
-    "kana": "せいしょ を おぼえる",
-    "romaji": "seisho o oboeru"
+    "kana": "この もんだい に わ せいしょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seisho ga fukaku kankei shi te iru"
   },
   "jlpt-n2-渇く-1744": {
-    "kana": "かわく を おぼえる",
-    "romaji": "kawaku o oboeru"
+    "kana": "せんせい の まえ で おちつい て かわく",
+    "romaji": "sensei no mae de ochitsui te kawaku"
   },
   "jlpt-n2-温室-1706": {
-    "kana": "おんしつ を おぼえる",
-    "romaji": "onshitsu o oboeru"
+    "kana": "じゅぎょう で おんしつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de onshitsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-測定-1420": {
-    "kana": "そくてい を おぼえる",
-    "romaji": "sokutei o oboeru"
+    "kana": "この もんだい に わ そくてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sokutei ga fukaku kankei shi te iru"
   },
   "jlpt-n2-測量-1931": {
-    "kana": "そくりょう を おぼえる",
-    "romaji": "sokuryou o oboeru"
+    "kana": "じゅぎょう で そくりょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sokuryou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-湧く-1584": {
-    "kana": "わく を おぼえる",
-    "romaji": "waku o oboeru"
+    "kana": "せんせい の まえ で おちつい て わく",
+    "romaji": "sensei no mae de ochitsui te waku"
   },
   "jlpt-n2-湯飲み-1747": {
-    "kana": "ゆのみ を おぼえる",
-    "romaji": "yunomi o oboeru"
+    "kana": "その けいけん から ゆのみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yunomi no taisetsu sa o shi ta"
   },
   "jlpt-n2-湿度-1637": {
-    "kana": "しつど を おぼえる",
-    "romaji": "shitsudo o oboeru"
+    "kana": "その けいけん から しつど の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shitsudo no taisetsu sa o shi ta"
   },
   "jlpt-n2-湿気-1938": {
-    "kana": "しっけ を おぼえる",
-    "romaji": "shikke o oboeru"
+    "kana": "じゅぎょう で しっけ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shikke o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-満員-1578": {
-    "kana": "まんいん を おぼえる",
-    "romaji": "man'in o oboeru"
+    "kana": "まんいん で ともだち を まっ た",
+    "romaji": "man'in de tomodachi o ma ta"
   },
   "jlpt-n2-溶かす-1741": {
-    "kana": "とかす を おぼえる",
-    "romaji": "tokasu o oboeru"
+    "kana": "ひつよう な とき に すぐ とかす",
+    "romaji": "hitsuyou na toki ni sugu tokasu"
   },
   "jlpt-n2-溶く-1474": {
-    "kana": "とく を おぼえる",
-    "romaji": "toku o oboeru"
+    "kana": "せんせい の まえ で おちつい て とく",
+    "romaji": "sensei no mae de ochitsui te toku"
   },
   "jlpt-n2-滝-1736": {
-    "kana": "たき を おぼえる",
-    "romaji": "taki o oboeru"
+    "kana": "その けいけん から たき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara taki no taisetsu sa o shi ta"
   },
   "jlpt-n2-漁師-1694": {
-    "kana": "りょうし を おぼえる",
-    "romaji": "ryoushi o oboeru"
+    "kana": "この もんだい に わ りょうし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ryoushi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-漸く-1841": {
-    "kana": "ようやく を おぼえる",
-    "romaji": "youyaku o oboeru"
+    "kana": "ひつよう な とき に すぐ ようやく",
+    "romaji": "hitsuyou na toki ni sugu youyaku"
   },
   "jlpt-n2-潜る-1541": {
-    "kana": "もぐる を おぼえる",
-    "romaji": "moguru o oboeru"
+    "kana": "じゅぎょう の あと えき え もぐる",
+    "romaji": "jugyou no ato eki e moguru"
   },
   "jlpt-n2-潰れる-1516": {
-    "kana": "つぶれる を おぼえる",
-    "romaji": "tsubureru o oboeru"
+    "kana": "じゅぎょう の あと えき え つぶれる",
+    "romaji": "jugyou no ato eki e tsubureru"
   },
   "jlpt-n2-濁る-1433": {
-    "kana": "にごる を おぼえる",
-    "romaji": "nigoru o oboeru"
+    "kana": "しずか な まち に へんか が にごる",
+    "romaji": "shizuka na machi ni henka ga nigoru"
   },
   "jlpt-n2-濡らす-1762": {
-    "kana": "ぬらす を おぼえる",
-    "romaji": "nurasu o oboeru"
+    "kana": "ひつよう な とき に すぐ ぬらす",
+    "romaji": "hitsuyou na toki ni sugu nurasu"
   },
   "jlpt-n2-火口-1899": {
-    "kana": "かこう を おぼえる",
-    "romaji": "kakou o oboeru"
+    "kana": "かいぎ で かこう について はなしあっ た",
+    "romaji": "kaigi de kakou nitsuite hanashia ta"
   },
   "jlpt-n2-灯台-1540": {
-    "kana": "とうだい を おぼえる",
-    "romaji": "toudai o oboeru"
+    "kana": "かいぎ で とうだい について はなしあっ た",
+    "romaji": "kaigi de toudai nitsuite hanashia ta"
   },
   "jlpt-n2-灯油-1802": {
-    "kana": "とうゆ を おぼえる",
-    "romaji": "touyu o oboeru"
+    "kana": "かいぎ で とうゆ について はなしあっ た",
+    "romaji": "kaigi de touyu nitsuite hanashia ta"
   },
   "jlpt-n2-灰色-1799": {
-    "kana": "はいいろ を おぼえる",
-    "romaji": "haiiro o oboeru"
+    "kana": "かいぎ で はいいろ について はなしあっ た",
+    "romaji": "kaigi de haiiro nitsuite hanashia ta"
   },
   "jlpt-n2-炊事-1626": {
-    "kana": "すいじ を おぼえる",
-    "romaji": "suiji o oboeru"
+    "kana": "その けいけん から すいじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara suiji no taisetsu sa o shi ta"
   },
   "jlpt-n2-点く-1681": {
-    "kana": "つく を おぼえる",
-    "romaji": "tsuku o oboeru"
+    "kana": "ひつよう な とき に すぐ つく",
+    "romaji": "hitsuyou na toki ni sugu tsuku"
   },
   "jlpt-n2-点ける-1432": {
-    "kana": "てん ける を おぼえる",
-    "romaji": "ten keru o oboeru"
+    "kana": "せんせい の まえ で おちつい て てん ける",
+    "romaji": "sensei no mae de ochitsui te ten keru"
   },
   "jlpt-n2-点数-1723": {
-    "kana": "てんすう を おぼえる",
-    "romaji": "tensuu o oboeru"
+    "kana": "この もんだい に わ てんすう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tensuu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-焚く-1505": {
-    "kana": "たく を おぼえる",
-    "romaji": "taku o oboeru"
+    "kana": "せんせい の まえ で おちつい て たく",
+    "romaji": "sensei no mae de ochitsui te taku"
   },
   "jlpt-n2-無地-1456": {
-    "kana": "むじ を おぼえる",
-    "romaji": "muji o oboeru"
+    "kana": "その けいけん から むじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara muji no taisetsu sa o shi ta"
   },
   "jlpt-n2-無数-1567": {
-    "kana": "むすう を おぼえる",
-    "romaji": "musuu o oboeru"
+    "kana": "こたえ わ むすう です",
+    "romaji": "kotae wa musuu desu"
   },
   "jlpt-n2-無限-1590": {
-    "kana": "むげん を おぼえる",
-    "romaji": "mugen o oboeru"
+    "kana": "この もんだい に わ むげん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mugen ga fukaku kankei shi te iru"
   },
   "jlpt-n2-焦がす-1551": {
-    "kana": "こがす を おぼえる",
-    "romaji": "kogasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て こがす",
+    "romaji": "sensei no mae de ochitsui te kogasu"
   },
   "jlpt-n2-焦げる-1653": {
-    "kana": "こげる を おぼえる",
-    "romaji": "kogeru o oboeru"
+    "kana": "ひつよう な とき に すぐ こげる",
+    "romaji": "hitsuyou na toki ni sugu kogeru"
   },
   "jlpt-n2-焦点-1752": {
-    "kana": "しょうてん を おぼえる",
-    "romaji": "shouten o oboeru"
+    "kana": "かいぎ で しょうてん について はなしあっ た",
+    "romaji": "kaigi de shouten nitsuite hanashia ta"
   },
   "jlpt-n2-煮る-1780": {
-    "kana": "にる を おぼえる",
-    "romaji": "niru o oboeru"
+    "kana": "ひつよう な とき に すぐ にる",
+    "romaji": "hitsuyou na toki ni sugu niru"
   },
   "jlpt-n2-煙い-1746": {
-    "kana": "けむい を おぼえる",
-    "romaji": "kemui o oboeru"
+    "kana": "この もんだい に わ けむい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kemui ga fukaku kankei shi te iru"
   },
   "jlpt-n2-煙突-1844": {
-    "kana": "えんとつ を おぼえる",
-    "romaji": "entotsu o oboeru"
+    "kana": "この もんだい に わ えんとつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa entotsu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-照らす-1718": {
-    "kana": "てらす を おぼえる",
-    "romaji": "terasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て てらす",
+    "romaji": "sensei no mae de ochitsui te terasu"
   },
   "jlpt-n2-蒸し暑い-1308": {
-    "kana": "むしあつい を おぼえる",
-    "romaji": "mushiatsui o oboeru"
+    "kana": "この もんだい に わ むしあつい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mushiatsui ga fukaku kankei shi te iru"
   },
   "jlpt-n2-熟語-1424": {
-    "kana": "じゅくご を おぼえる",
-    "romaji": "jukugo o oboeru"
+    "kana": "その けいけん から じゅくご の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jukugo no taisetsu sa o shi ta"
   },
   "jlpt-n2-熱する-1624": {
-    "kana": "ねつ する を おぼえる",
-    "romaji": "netsu suru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ねつ する",
+    "romaji": "sensei no mae de ochitsui te netsu suru"
   },
   "jlpt-n2-片付く-1911": {
-    "kana": "かたづく を おぼえる",
-    "romaji": "katazuku o oboeru"
+    "kana": "ひつよう な とき に すぐ かたづく",
+    "romaji": "hitsuyou na toki ni sugu katazuku"
   },
   "jlpt-n2-片仮名-1774": {
-    "kana": "かたかな を おぼえる",
-    "romaji": "katakana o oboeru"
+    "kana": "その けいけん から かたかな の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara katakana no taisetsu sa o shi ta"
   },
   "jlpt-n2-片道-1473": {
-    "kana": "かたみち を おぼえる",
-    "romaji": "katamichi o oboeru"
+    "kana": "こたえ わ かたみち です",
+    "romaji": "kotae wa katamichi desu"
   },
   "jlpt-n2-牧畜-1765": {
-    "kana": "ぼくちく を おぼえる",
-    "romaji": "bokuchiku o oboeru"
+    "kana": "その けいけん から ぼくちく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bokuchiku no taisetsu sa o shi ta"
   },
   "jlpt-n2-物置-1800": {
-    "kana": "ものおき を おぼえる",
-    "romaji": "monooki o oboeru"
+    "kana": "ものおき で ともだち を まっ た",
+    "romaji": "monooki de tomodachi o ma ta"
   },
   "jlpt-n2-物語る-1601": {
-    "kana": "ものがたる を おぼえる",
-    "romaji": "monogataru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり ものがたる",
+    "romaji": "kaigi de riyuu o hakkiri monogataru"
   },
   "jlpt-n2-物騒-1879": {
-    "kana": "ぶっそう を おぼえる",
-    "romaji": "bussou o oboeru"
+    "kana": "その けいけん から ぶっそう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bussou no taisetsu sa o shi ta"
   },
   "jlpt-n2-特売-1330": {
-    "kana": "とくばい を おぼえる",
-    "romaji": "tokubai o oboeru"
+    "kana": "かいぎ で とくばい について はなしあっ た",
+    "romaji": "kaigi de tokubai nitsuite hanashia ta"
   },
   "jlpt-n2-特長-1582": {
-    "kana": "とくちょう を おぼえる",
-    "romaji": "tokuchou o oboeru"
+    "kana": "じゅぎょう で とくちょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tokuchou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-狡い-1902": {
-    "kana": "ずるい を おぼえる",
-    "romaji": "zurui o oboeru"
+    "kana": "じゅぎょう で ずるい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zurui o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-独り言-1558": {
-    "kana": "ひとりごと を おぼえる",
-    "romaji": "hitorigoto o oboeru"
+    "kana": "かいぎ で ひとりごと について はなしあっ た",
+    "romaji": "kaigi de hitorigoto nitsuite hanashia ta"
   },
   "jlpt-n2-王女-1550": {
-    "kana": "おうじょ を おぼえる",
-    "romaji": "oujo o oboeru"
+    "kana": "この もんだい に わ おうじょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oujo ga fukaku kankei shi te iru"
   },
   "jlpt-n2-現に-1586": {
-    "kana": "げんに を おぼえる",
-    "romaji": "genni o oboeru"
+    "kana": "この もんだい に わ げんに が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa genni ga fukaku kankei shi te iru"
   },
   "jlpt-n2-琴-1316": {
-    "kana": "きん を おぼえる",
-    "romaji": "kin o oboeru"
+    "kana": "じゅぎょう で きん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-瓶詰-1770": {
-    "kana": "びんづめ を おぼえる",
-    "romaji": "binzume o oboeru"
+    "kana": "その けいけん から びんづめ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara binzume no taisetsu sa o shi ta"
   },
   "jlpt-n2-甚だしい-1651": {
-    "kana": "はなはだしい を おぼえる",
-    "romaji": "hanahadashii o oboeru"
+    "kana": "この もんだい に わ はなはだしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hanahadashii ga fukaku kankei shi te iru"
   },
   "jlpt-n2-生き生き-1530": {
-    "kana": "いきいき を おぼえる",
-    "romaji": "ikiiki o oboeru"
+    "kana": "じゅぎょう で いきいき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ikiiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-生る-1554": {
-    "kana": "なる を おぼえる",
-    "romaji": "naru o oboeru"
+    "kana": "しっぱい し て も もういちど なる",
+    "romaji": "shippai shi te mo mouichido naru"
   },
   "jlpt-n2-生年月日-1773": {
-    "kana": "せいねんがっぴ を おぼえる",
-    "romaji": "seinengappi o oboeru"
+    "kana": "この もんだい に わ せいねんがっぴ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seinengappi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-生意気-1375": {
-    "kana": "なまいき を おぼえる",
-    "romaji": "namaiki o oboeru"
+    "kana": "その けいけん から なまいき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara namaiki no taisetsu sa o shi ta"
   },
   "jlpt-n2-産地-1440": {
-    "kana": "さんち を おぼえる",
-    "romaji": "sanchi o oboeru"
+    "kana": "この もんだい に わ さんち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sanchi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-用途-1836": {
-    "kana": "ようと を おぼえる",
-    "romaji": "youto o oboeru"
+    "kana": "じゅぎょう で ようと を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de youto o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-田ぼ-1687": {
-    "kana": "た ぼ を おぼえる",
-    "romaji": "ta bo o oboeru"
+    "kana": "その けいけん から た ぼ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ta bo no taisetsu sa o shi ta"
   },
   "jlpt-n2-田植え-1671": {
-    "kana": "たうえ を おぼえる",
-    "romaji": "taue o oboeru"
+    "kana": "ひる に たうえ を すこし たべ た",
+    "romaji": "hiru ni taue o sukoshi tabe ta"
   },
   "jlpt-n2-申し訳ない-1646": {
-    "kana": "もうしわけ ない を おぼえる",
-    "romaji": "moushiwake nai o oboeru"
+    "kana": "じゅぎょう で もうしわけ ない を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de moushiwake nai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-留守番-1350": {
-    "kana": "るすばん を おぼえる",
-    "romaji": "rusuban o oboeru"
+    "kana": "るすばん で ともだち を まっ た",
+    "romaji": "rusuban de tomodachi o ma ta"
   },
   "jlpt-n2-略す-1575": {
-    "kana": "りゃくす を おぼえる",
-    "romaji": "ryakusu o oboeru"
+    "kana": "しっぱい し て も もういちど りゃくす",
+    "romaji": "shippai shi te mo mouichido ryakusu"
   },
   "jlpt-n2-畳む-1431": {
-    "kana": "たたむ を おぼえる",
-    "romaji": "tatamu o oboeru"
+    "kana": "せんせい の まえ で おちつい て たたむ",
+    "romaji": "sensei no mae de ochitsui te tatamu"
   },
   "jlpt-n2-発つ-1299": {
-    "kana": "たつ を おぼえる",
-    "romaji": "tatsu o oboeru"
+    "kana": "せんせい の まえ で おちつい て たつ",
+    "romaji": "sensei no mae de ochitsui te tatsu"
   },
   "jlpt-n2-発売-1934": {
-    "kana": "はつばい を おぼえる",
-    "romaji": "hatsubai o oboeru"
+    "kana": "かいぎ で はつばい について はなしあっ た",
+    "romaji": "kaigi de hatsubai nitsuite hanashia ta"
   },
   "jlpt-n2-発揮-1556": {
-    "kana": "はっき を おぼえる",
-    "romaji": "hakki o oboeru"
+    "kana": "じゅぎょう で はっき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hakki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-盆地-1748": {
-    "kana": "ぼんち を おぼえる",
-    "romaji": "bonchi o oboeru"
+    "kana": "その けいけん から ぼんち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bonchi no taisetsu sa o shi ta"
   },
   "jlpt-n2-盗難-1372": {
-    "kana": "とうなん を おぼえる",
-    "romaji": "tounan o oboeru"
+    "kana": "じゅぎょう で とうなん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tounan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-目上-1286": {
-    "kana": "めうえ を おぼえる",
-    "romaji": "meue o oboeru"
+    "kana": "かいぎ で めうえ について はなしあっ た",
+    "romaji": "kaigi de meue nitsuite hanashia ta"
   },
   "jlpt-n2-目安-1294": {
-    "kana": "めやす を おぼえる",
-    "romaji": "meyasu o oboeru"
+    "kana": "かいぎ で めやす について はなしあっ た",
+    "romaji": "kaigi de meyasu nitsuite hanashia ta"
   },
   "jlpt-n2-目次-1808": {
-    "kana": "もくじ を おぼえる",
-    "romaji": "mokuji o oboeru"
+    "kana": "じゅぎょう で もくじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mokuji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-直前-1614": {
-    "kana": "ちょくぜん を おぼえる",
-    "romaji": "chokuzen o oboeru"
+    "kana": "じゅぎょう で ちょくぜん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chokuzen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-直線-1828": {
-    "kana": "ちょくせん を おぼえる",
-    "romaji": "chokusen o oboeru"
+    "kana": "じゅぎょう で ちょくせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chokusen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-直角-1859": {
-    "kana": "ちょっかく を おぼえる",
-    "romaji": "chokkaku o oboeru"
+    "kana": "ちょっかく え まっすぐ すすん だ",
+    "romaji": "chokkaku e massugu susun da"
   },
   "jlpt-n2-相違-1869": {
-    "kana": "そうい を おぼえる",
-    "romaji": "soui o oboeru"
+    "kana": "かいぎ で そうい について はなしあっ た",
+    "romaji": "kaigi de soui nitsuite hanashia ta"
   },
   "jlpt-n2-省略-1713": {
-    "kana": "しょうりゃく を おぼえる",
-    "romaji": "shouryaku o oboeru"
+    "kana": "その けいけん から しょうりゃく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shouryaku no taisetsu sa o shi ta"
   },
   "jlpt-n2-看板-1539": {
-    "kana": "かんばん を おぼえる",
-    "romaji": "kanban o oboeru"
+    "kana": "その けいけん から かんばん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kanban no taisetsu sa o shi ta"
   },
   "jlpt-n2-看病-1630": {
-    "kana": "かんびょう を おぼえる",
-    "romaji": "kanbyou o oboeru"
+    "kana": "この もんだい に わ かんびょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanbyou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-真っ先-1560": {
-    "kana": "まっさき を おぼえる",
-    "romaji": "massaki o oboeru"
+    "kana": "この もんだい に わ まっさき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa massaki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-真っ暗-1300": {
-    "kana": "まっくら を おぼえる",
-    "romaji": "makkura o oboeru"
+    "kana": "その けいけん から まっくら の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara makkura no taisetsu sa o shi ta"
   },
   "jlpt-n2-真っ青-1661": {
-    "kana": "まっさお を おぼえる",
-    "romaji": "massao o oboeru"
+    "kana": "その けいけん から まっさお の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara massao no taisetsu sa o shi ta"
   },
   "jlpt-n2-真っ黒-1321": {
-    "kana": "まっくろ を おぼえる",
-    "romaji": "makkuro o oboeru"
+    "kana": "この もんだい に わ まっくろ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa makkuro ga fukaku kankei shi te iru"
   },
   "jlpt-n2-着々-1324": {
-    "kana": "ちゃくちゃく を おぼえる",
-    "romaji": "chakuchaku o oboeru"
+    "kana": "じゅぎょう で ちゃくちゃく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chakuchaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-瞳-1686": {
-    "kana": "ひとみ を おぼえる",
-    "romaji": "hitomi o oboeru"
+    "kana": "ひとみ が すこし いたい",
+    "romaji": "hitomi ga sukoshi itai"
   },
   "jlpt-n2-矛盾-1475": {
-    "kana": "むじゅん を おぼえる",
-    "romaji": "mujun o oboeru"
+    "kana": "じゅぎょう で むじゅん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mujun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-矢印-1292": {
-    "kana": "やじるし を おぼえる",
-    "romaji": "yajirushi o oboeru"
+    "kana": "その けいけん から やじるし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yajirushi no taisetsu sa o shi ta"
   },
   "jlpt-n2-知人-1697": {
-    "kana": "ちじん を おぼえる",
-    "romaji": "chijin o oboeru"
+    "kana": "ちじん に みち を たずね た",
+    "romaji": "chijin ni michi o tazune ta"
   },
   "jlpt-n2-知合い-1426": {
-    "kana": "しりあい を おぼえる",
-    "romaji": "shiriai o oboeru"
+    "kana": "じゅぎょう で しりあい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shiriai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-短所-1768": {
-    "kana": "たんしょ を おぼえる",
-    "romaji": "tansho o oboeru"
+    "kana": "じゅぎょう で たんしょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tansho o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-石鹸-1825": {
-    "kana": "せっけん を おぼえる",
-    "romaji": "sekken o oboeru"
+    "kana": "じゅぎょう で せっけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sekken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-砕ける-1563": {
-    "kana": "くだける を おぼえる",
-    "romaji": "kudakeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て くだける",
+    "romaji": "sensei no mae de ochitsui te kudakeru"
   },
   "jlpt-n2-破れる-1847": {
-    "kana": "われる を おぼえる",
-    "romaji": "wareru o oboeru"
+    "kana": "しっぱい し て も もういちど われる",
+    "romaji": "shippai shi te mo mouichido wareru"
   },
   "jlpt-n2-碁-1360": {
-    "kana": "ご を おぼえる",
-    "romaji": "go o oboeru"
+    "kana": "じゅぎょう で ご を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de go o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-碗-1628": {
-    "kana": "わん を おぼえる",
-    "romaji": "wan o oboeru"
+    "kana": "じゅぎょう で わん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de wan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-磁石-1621": {
-    "kana": "じしゃく を おぼえる",
-    "romaji": "jishaku o oboeru"
+    "kana": "かいぎ で じしゃく について はなしあっ た",
+    "romaji": "kaigi de jishaku nitsuite hanashia ta"
   },
   "jlpt-n2-祝日-1565": {
-    "kana": "しゅくじつ を おぼえる",
-    "romaji": "shukujitsu o oboeru"
+    "kana": "その けいけん から しゅくじつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shukujitsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-祭る-1756": {
-    "kana": "まつる を おぼえる",
-    "romaji": "matsuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て まつる",
+    "romaji": "sensei no mae de ochitsui te matsuru"
   },
   "jlpt-n2-祭日-1648": {
-    "kana": "さいじつ を おぼえる",
-    "romaji": "saijitsu o oboeru"
+    "kana": "さいじつ わ いえ で べんきょう し た",
+    "romaji": "saijitsu wa ie de benkyou shi ta"
   },
   "jlpt-n2-私鉄-1418": {
-    "kana": "してつ を おぼえる",
-    "romaji": "shitetsu o oboeru"
+    "kana": "その けいけん から してつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shitetsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-秤-1545": {
-    "kana": "はかり を おぼえる",
-    "romaji": "hakari o oboeru"
+    "kana": "この もんだい に わ はかり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hakari ga fukaku kankei shi te iru"
   },
   "jlpt-n2-稀-1438": {
-    "kana": "まれ を おぼえる",
-    "romaji": "mare o oboeru"
+    "kana": "じゅぎょう で まれ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mare o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-税関-1594": {
-    "kana": "ぜいかん を おぼえる",
-    "romaji": "zeikan o oboeru"
+    "kana": "ぜいかん で ともだち を まっ た",
+    "romaji": "zeikan de tomodachi o ma ta"
   },
   "jlpt-n2-稽古-1732": {
-    "kana": "けいこ を おぼえる",
-    "romaji": "keiko o oboeru"
+    "kana": "その けいけん から けいこ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara keiko no taisetsu sa o shi ta"
   },
   "jlpt-n2-突き当たる-1608": {
-    "kana": "つきあたる を おぼえる",
-    "romaji": "tsukiataru o oboeru"
+    "kana": "あさ の こうえん を ゆっくり つきあたる",
+    "romaji": "asa no kouen o yukkuri tsukiataru"
   },
   "jlpt-n2-競馬-1476": {
-    "kana": "けいば を おぼえる",
-    "romaji": "keiba o oboeru"
+    "kana": "じゅぎょう で けいば を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keiba o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-筆記-1898": {
-    "kana": "ひっき を おぼえる",
-    "romaji": "hikki o oboeru"
+    "kana": "この もんだい に わ ひっき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hikki ga fukaku kankei shi te iru"
   },
   "jlpt-n2-等分-1672": {
-    "kana": "とうぶん を おぼえる",
-    "romaji": "toubun o oboeru"
+    "kana": "この もんだい に わ とうぶん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa toubun ga fukaku kankei shi te iru"
   },
   "jlpt-n2-箒-1737": {
-    "kana": "ほうき を おぼえる",
-    "romaji": "houki o oboeru"
+    "kana": "その けいけん から ほうき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara houki no taisetsu sa o shi ta"
   },
   "jlpt-n2-箸-1640": {
-    "kana": "はし を おぼえる",
-    "romaji": "hashi o oboeru"
+    "kana": "じゅぎょう で はし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-粒-1334": {
-    "kana": "つぶ を おぼえる",
-    "romaji": "tsubu o oboeru"
+    "kana": "じゅぎょう で つぶ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tsubu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-納める-1398": {
-    "kana": "おさめる を おぼえる",
-    "romaji": "osameru o oboeru"
+    "kana": "ともだち に にもつ を おさめる",
+    "romaji": "tomodachi ni nimotsu o osameru"
   },
   "jlpt-n2-紙幣-1369": {
-    "kana": "しへい を おぼえる",
-    "romaji": "shihei o oboeru"
+    "kana": "この もんだい に わ しへい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shihei ga fukaku kankei shi te iru"
   },
   "jlpt-n2-素質-1724": {
-    "kana": "そしつ を おぼえる",
-    "romaji": "soshitsu o oboeru"
+    "kana": "かいぎ で そしつ について はなしあっ た",
+    "romaji": "kaigi de soshitsu nitsuite hanashia ta"
   },
   "jlpt-n2-紫-1633": {
-    "kana": "むらさき を おぼえる",
-    "romaji": "murasaki o oboeru"
+    "kana": "その けいけん から むらさき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara murasaki no taisetsu sa o shi ta"
   },
   "jlpt-n2-紺-1635": {
-    "kana": "こん を おぼえる",
-    "romaji": "kon o oboeru"
+    "kana": "この もんだい に わ こん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kon ga fukaku kankei shi te iru"
   },
   "jlpt-n2-終了-1365": {
-    "kana": "しゅうりょう を おぼえる",
-    "romaji": "shuuryou o oboeru"
+    "kana": "かいぎ で しゅうりょう について はなしあっ た",
+    "romaji": "kaigi de shuuryou nitsuite hanashia ta"
   },
   "jlpt-n2-終点-1569": {
-    "kana": "しゅうてん を おぼえる",
-    "romaji": "shuuten o oboeru"
+    "kana": "かいぎ で しゅうてん について はなしあっ た",
+    "romaji": "kaigi de shuuten nitsuite hanashia ta"
   },
   "jlpt-n2-統一-1506": {
-    "kana": "とういつ を おぼえる",
-    "romaji": "touitsu o oboeru"
+    "kana": "じゅぎょう で とういつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de touitsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-統計-1684": {
-    "kana": "とうけい を おぼえる",
-    "romaji": "toukei o oboeru"
+    "kana": "その けいけん から とうけい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara toukei no taisetsu sa o shi ta"
   },
   "jlpt-n2-絵の具-1491": {
-    "kana": "えのぐ を おぼえる",
-    "romaji": "enogu o oboeru"
+    "kana": "その けいけん から えのぐ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara enogu no taisetsu sa o shi ta"
   },
   "jlpt-n2-絶えず-1605": {
-    "kana": "たえず を おぼえる",
-    "romaji": "taezu o oboeru"
+    "kana": "じゅぎょう で たえず を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taezu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-続々-1485": {
-    "kana": "ぞくぞく を おぼえる",
-    "romaji": "zokuzoku o oboeru"
+    "kana": "こたえ わ ぞくぞく です",
+    "romaji": "kotae wa zokuzoku desu"
   },
   "jlpt-n2-綱-1428": {
-    "kana": "つな を おぼえる",
-    "romaji": "tsuna o oboeru"
+    "kana": "その けいけん から つな の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tsuna no taisetsu sa o shi ta"
   },
   "jlpt-n2-線路-1479": {
-    "kana": "せんろ を おぼえる",
-    "romaji": "senro o oboeru"
+    "kana": "かいぎ で せんろ について はなしあっ た",
+    "romaji": "kaigi de senro nitsuite hanashia ta"
   },
   "jlpt-n2-緩い-1593": {
-    "kana": "ゆるい を おぼえる",
-    "romaji": "yurui o oboeru"
+    "kana": "この もんだい わ すこし ゆるい",
+    "romaji": "kono mondai wa sukoshi yurui"
   },
   "jlpt-n2-縛る-1698": {
-    "kana": "しばる を おぼえる",
-    "romaji": "shibaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て しばる",
+    "romaji": "sensei no mae de ochitsui te shibaru"
   },
   "jlpt-n2-縞-1935": {
-    "kana": "しま を おぼえる",
-    "romaji": "shima o oboeru"
+    "kana": "その けいけん から しま の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shima no taisetsu sa o shi ta"
   },
   "jlpt-n2-縫う-1634": {
-    "kana": "ぬう を おぼえる",
-    "romaji": "nuu o oboeru"
+    "kana": "ひつよう な とき に すぐ ぬう",
+    "romaji": "hitsuyou na toki ni sugu nuu"
   },
   "jlpt-n2-縮れる-1821": {
-    "kana": "ちぢれる を おぼえる",
-    "romaji": "chijireru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ちぢれる",
+    "romaji": "sensei no mae de ochitsui te chijireru"
   },
   "jlpt-n2-美容-1351": {
-    "kana": "びよう を おぼえる",
-    "romaji": "biyou o oboeru"
+    "kana": "じゅぎょう で びよう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de biyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-習字-1528": {
-    "kana": "しゅうじ を おぼえる",
-    "romaji": "shuuji o oboeru"
+    "kana": "その けいけん から しゅうじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shuuji no taisetsu sa o shi ta"
   },
   "jlpt-n2-耕す-1383": {
-    "kana": "たがやす を おぼえる",
-    "romaji": "tagayasu o oboeru"
+    "kana": "ひつよう な とき に すぐ たがやす",
+    "romaji": "hitsuyou na toki ni sugu tagayasu"
   },
   "jlpt-n2-耕地-1700": {
-    "kana": "こうち を おぼえる",
-    "romaji": "kouchi o oboeru"
+    "kana": "この もんだい に わ こうち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kouchi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-肘-1457": {
-    "kana": "ひじ を おぼえる",
-    "romaji": "hiji o oboeru"
+    "kana": "じゅぎょう で ひじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hiji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-肯定-1513": {
-    "kana": "こうてい を おぼえる",
-    "romaji": "koutei o oboeru"
+    "kana": "この もんだい に わ こうてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koutei ga fukaku kankei shi te iru"
   },
   "jlpt-n2-脱線-1787": {
-    "kana": "だっせん を おぼえる",
-    "romaji": "dassen o oboeru"
+    "kana": "かいぎ で だっせん について はなしあっ た",
+    "romaji": "kaigi de dassen nitsuite hanashia ta"
   },
   "jlpt-n2-臨時-1674": {
-    "kana": "りんじ を おぼえる",
-    "romaji": "rinji o oboeru"
+    "kana": "かいぎ で りんじ について はなしあっ た",
+    "romaji": "kaigi de rinji nitsuite hanashia ta"
   },
   "jlpt-n2-自然科学-1722": {
-    "kana": "しぜん かがく を おぼえる",
-    "romaji": "shizen kagaku o oboeru"
+    "kana": "じゅぎょう で しぜん かがく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shizen kagaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-自習-1720": {
-    "kana": "じしゅう を おぼえる",
-    "romaji": "jishuu o oboeru"
+    "kana": "その けいけん から じしゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jishuu no taisetsu sa o shi ta"
   },
   "jlpt-n2-艶-1885": {
-    "kana": "つや を おぼえる",
-    "romaji": "tsuya o oboeru"
+    "kana": "かいぎ で つや について はなしあっ た",
+    "romaji": "kaigi de tsuya nitsuite hanashia ta"
   },
   "jlpt-n2-芯-1315": {
-    "kana": "しん を おぼえる",
-    "romaji": "shin o oboeru"
+    "kana": "しん が すこし いたい",
+    "romaji": "shin ga sukoshi itai"
   },
   "jlpt-n2-花嫁-1393": {
-    "kana": "はなよめ を おぼえる",
-    "romaji": "hanayome o oboeru"
+    "kana": "じゅぎょう で はなよめ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hanayome o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-苦心-1666": {
-    "kana": "くしん を おぼえる",
-    "romaji": "kushin o oboeru"
+    "kana": "じゅぎょう で くしん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kushin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-苦情-1588": {
-    "kana": "くじょう を おぼえる",
-    "romaji": "kujou o oboeru"
+    "kana": "かいぎ で くじょう について はなしあっ た",
+    "romaji": "kaigi de kujou nitsuite hanashia ta"
   },
   "jlpt-n2-英和-1421": {
-    "kana": "えいわ を おぼえる",
-    "romaji": "eiwa o oboeru"
+    "kana": "じゅぎょう で えいわ を こえ に だし て よん だ",
+    "romaji": "jugyou de eiwa o koe ni dashi te yon da"
   },
   "jlpt-n2-茂る-1760": {
-    "kana": "しげる を おぼえる",
-    "romaji": "shigeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て しげる",
+    "romaji": "sensei no mae de ochitsui te shigeru"
   },
   "jlpt-n2-著す-1453": {
-    "kana": "あらわす を おぼえる",
-    "romaji": "arawasu o oboeru"
+    "kana": "のうと に なまえ を あらわす",
+    "romaji": "nouto ni namae o arawasu"
   },
   "jlpt-n2-落し物-1714": {
-    "kana": "おとしもの を おぼえる",
-    "romaji": "otoshimono o oboeru"
+    "kana": "じゅぎょう で おとしもの を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de otoshimono o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-葬式-1683": {
-    "kana": "そうしき を おぼえる",
-    "romaji": "soushiki o oboeru"
+    "kana": "かいぎ で そうしき について はなしあっ た",
+    "romaji": "kaigi de soushiki nitsuite hanashia ta"
   },
   "jlpt-n2-蓄える-1410": {
-    "kana": "たくわえる を おぼえる",
-    "romaji": "takuwaeru o oboeru"
+    "kana": "しっぱい し て も もういちど たくわえる",
+    "romaji": "shippai shi te mo mouichido takuwaeru"
   },
   "jlpt-n2-蕎麦-1348": {
-    "kana": "そば を おぼえる",
-    "romaji": "soba o oboeru"
+    "kana": "この もんだい に わ そば が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa soba ga fukaku kankei shi te iru"
   },
   "jlpt-n2-蘇る-1370": {
-    "kana": "よみがえる を おぼえる",
-    "romaji": "yomigaeru o oboeru"
+    "kana": "しっぱい し て も もういちど よみがえる",
+    "romaji": "shippai shi te mo mouichido yomigaeru"
   },
   "jlpt-n2-蚊-1924": {
-    "kana": "か を おぼえる",
-    "romaji": "ka o oboeru"
+    "kana": "じゅぎょう で か を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-蛇口-1606": {
-    "kana": "じゃぐち を おぼえる",
-    "romaji": "jaguchi o oboeru"
+    "kana": "その けいけん から じゃぐち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jaguchi no taisetsu sa o shi ta"
   },
   "jlpt-n2-蝋燭-1771": {
-    "kana": "ろうそく を おぼえる",
-    "romaji": "rousoku o oboeru"
+    "kana": "その けいけん から ろうそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara rousoku no taisetsu sa o shi ta"
   },
   "jlpt-n2-血圧-1820": {
-    "kana": "けつあつ を おぼえる",
-    "romaji": "ketsuatsu o oboeru"
+    "kana": "その けいけん から けつあつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ketsuatsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-行事-1455": {
-    "kana": "ぎょうじ を おぼえる",
-    "romaji": "gyouji o oboeru"
+    "kana": "かいぎ で ぎょうじ について はなしあっ た",
+    "romaji": "kaigi de gyouji nitsuite hanashia ta"
   },
   "jlpt-n2-裁縫-1761": {
-    "kana": "さいほう を おぼえる",
-    "romaji": "saihou o oboeru"
+    "kana": "じゅぎょう で さいほう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de saihou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-裂く-1807": {
-    "kana": "さく を おぼえる",
-    "romaji": "saku o oboeru"
+    "kana": "せんせい の まえ で おちつい て さく",
+    "romaji": "sensei no mae de ochitsui te saku"
   },
   "jlpt-n2-補う-1547": {
-    "kana": "おぎなう を おぼえる",
-    "romaji": "oginau o oboeru"
+    "kana": "しっぱい し て も もういちど おぎなう",
+    "romaji": "shippai shi te mo mouichido oginau"
   },
   "jlpt-n2-西暦-1775": {
-    "kana": "せいれき を おぼえる",
-    "romaji": "seireki o oboeru"
+    "kana": "じゅぎょう で せいれき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seireki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-要旨-1890": {
-    "kana": "ようし を おぼえる",
-    "romaji": "youshi o oboeru"
+    "kana": "その けいけん から ようし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara youshi no taisetsu sa o shi ta"
   },
   "jlpt-n2-見慣れる-1577": {
-    "kana": "みなれる を おぼえる",
-    "romaji": "minareru o oboeru"
+    "kana": "しずか な まち に へんか が みなれる",
+    "romaji": "shizuka na machi ni henka ga minareru"
   },
   "jlpt-n2-親指-1580": {
-    "kana": "おやゆび を おぼえる",
-    "romaji": "oyayubi o oboeru"
+    "kana": "じゅぎょう で おやゆび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de oyayubi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-親類-1685": {
-    "kana": "しんるい を おぼえる",
-    "romaji": "shinrui o oboeru"
+    "kana": "かいぎ で しんるい について はなしあっ た",
+    "romaji": "kaigi de shinrui nitsuite hanashia ta"
   },
   "jlpt-n2-観測-1816": {
-    "kana": "かんそく を おぼえる",
-    "romaji": "kansoku o oboeru"
+    "kana": "この もんだい に わ かんそく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kansoku ga fukaku kankei shi te iru"
   },
   "jlpt-n2-解放-1814": {
-    "kana": "かいほう を おぼえる",
-    "romaji": "kaihou o oboeru"
+    "kana": "この もんだい に わ かいほう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kaihou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-解答-1929": {
-    "kana": "かいとう を おぼえる",
-    "romaji": "kaitou o oboeru"
+    "kana": "その けいけん から かいとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaitou no taisetsu sa o shi ta"
   },
   "jlpt-n2-言い付ける-1707": {
-    "kana": "いいつける を おぼえる",
-    "romaji": "iitsukeru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり いいつける",
+    "romaji": "kaigi de riyuu o hakkiri iitsukeru"
   },
   "jlpt-n2-記号-1325": {
-    "kana": "きごう を おぼえる",
-    "romaji": "kigou o oboeru"
+    "kana": "その けいけん から きごう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kigou no taisetsu sa o shi ta"
   },
   "jlpt-n2-診る-1639": {
-    "kana": "みる を おぼえる",
-    "romaji": "miru o oboeru"
+    "kana": "せんせい の まえ で おちつい て みる",
+    "romaji": "sensei no mae de ochitsui te miru"
   },
   "jlpt-n2-診断-1862": {
-    "kana": "しんだん を おぼえる",
-    "romaji": "shindan o oboeru"
+    "kana": "じゅぎょう で しんだん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shindan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-詰まる-1296": {
-    "kana": "つまる を おぼえる",
-    "romaji": "tsumaru o oboeru"
+    "kana": "ひつよう な とき に すぐ つまる",
+    "romaji": "hitsuyou na toki ni sugu tsumaru"
   },
   "jlpt-n2-誓う-1599": {
-    "kana": "ちかう を おぼえる",
-    "romaji": "chikau o oboeru"
+    "kana": "ともだち に にもつ を ちかう",
+    "romaji": "tomodachi ni nimotsu o chikau"
   },
   "jlpt-n2-調味料-1381": {
-    "kana": "ちょうみ りょう を おぼえる",
-    "romaji": "choumi ryou o oboeru"
+    "kana": "その けいけん から ちょうみ りょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara choumi ryou no taisetsu sa o shi ta"
   },
   "jlpt-n2-論ずる-1356": {
-    "kana": "ろんずる を おぼえる",
-    "romaji": "ronzuru o oboeru"
+    "kana": "しっぱい し て も もういちど ろんずる",
+    "romaji": "shippai shi te mo mouichido ronzuru"
   },
   "jlpt-n2-謙虚-1378": {
-    "kana": "けんきょ を おぼえる",
-    "romaji": "kenkyo o oboeru"
+    "kana": "その けいけん から けんきょ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kenkyo no taisetsu sa o shi ta"
   },
   "jlpt-n2-講師-1373": {
-    "kana": "こうし を おぼえる",
-    "romaji": "koushi o oboeru"
+    "kana": "じゅぎょう で こうし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koushi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-警備-1853": {
-    "kana": "けいび を おぼえる",
-    "romaji": "keibi o oboeru"
+    "kana": "じゅぎょう で けいび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keibi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-貝-1876": {
-    "kana": "かい を おぼえる",
-    "romaji": "kai o oboeru"
+    "kana": "その けいけん から かい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kai no taisetsu sa o shi ta"
   },
   "jlpt-n2-貯蔵-1812": {
-    "kana": "ちょぞう を おぼえる",
-    "romaji": "chozou o oboeru"
+    "kana": "かいぎ で ちょぞう について はなしあっ た",
+    "romaji": "kaigi de chozou nitsuite hanashia ta"
   },
   "jlpt-n2-貸し出し-1484": {
-    "kana": "かしだし を おぼえる",
-    "romaji": "kashidashi o oboeru"
+    "kana": "かいぎ で かしだし について はなしあっ た",
+    "romaji": "kaigi de kashidashi nitsuite hanashia ta"
   },
   "jlpt-n2-賞金-1573": {
-    "kana": "しょうきん を おぼえる",
-    "romaji": "shoukin o oboeru"
+    "kana": "この もんだい に わ しょうきん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shoukin ga fukaku kankei shi te iru"
   },
   "jlpt-n2-赤道-1607": {
-    "kana": "せきどう を おぼえる",
-    "romaji": "sekidou o oboeru"
+    "kana": "かいぎ で せきどう について はなしあっ た",
+    "romaji": "kaigi de sekidou nitsuite hanashia ta"
   },
   "jlpt-n2-超す-1829": {
-    "kana": "ちょう す を おぼえる",
-    "romaji": "chou su o oboeru"
+    "kana": "せんせい の まえ で おちつい て こす",
+    "romaji": "sensei no mae de ochitsui te kosu"
   },
   "jlpt-n2-跳ぶ-1471": {
-    "kana": "とぶ を おぼえる",
-    "romaji": "tobu o oboeru"
+    "kana": "あさ の こうえん を ゆっくり とぶ",
+    "romaji": "asa no kouen o yukkuri tobu"
   },
   "jlpt-n2-踏切-1595": {
-    "kana": "ふみきり を おぼえる",
-    "romaji": "fumikiri o oboeru"
+    "kana": "じゅぎょう で ふみきり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fumikiri o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-車輪-1835": {
-    "kana": "しゃりん を おぼえる",
-    "romaji": "sharin o oboeru"
+    "kana": "しゃりん を かばん に いれ た",
+    "romaji": "sharin o kaban ni ire ta"
   },
   "jlpt-n2-軟らかい-1305": {
-    "kana": "やわらかい を おぼえる",
-    "romaji": "yawarakai o oboeru"
+    "kana": "この もんだい に わ やわらかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yawarakai ga fukaku kankei shi te iru"
   },
   "jlpt-n2-転がす-1407": {
-    "kana": "ころがす を おぼえる",
-    "romaji": "korogasu o oboeru"
+    "kana": "ひつよう な とき に すぐ ころがす",
+    "romaji": "hitsuyou na toki ni sugu korogasu"
   },
   "jlpt-n2-転がる-1754": {
-    "kana": "ころがる を おぼえる",
-    "romaji": "korogaru o oboeru"
+    "kana": "ひつよう な とき に すぐ ころがる",
+    "romaji": "hitsuyou na toki ni sugu korogaru"
   },
   "jlpt-n2-農薬-1337": {
-    "kana": "のうやく を おぼえる",
-    "romaji": "nouyaku o oboeru"
+    "kana": "かいぎ で のうやく について はなしあっ た",
+    "romaji": "kaigi de nouyaku nitsuite hanashia ta"
   },
   "jlpt-n2-近付ける-1427": {
-    "kana": "ちかづける を おぼえる",
-    "romaji": "chikazukeru o oboeru"
+    "kana": "じゅぎょう の あと えき え ちかづける",
+    "romaji": "jugyou no ato eki e chikazukeru"
   },
   "jlpt-n2-迫る-1552": {
-    "kana": "せまる を おぼえる",
-    "romaji": "semaru o oboeru"
+    "kana": "ひつよう な とき に すぐ せまる",
+    "romaji": "hitsuyou na toki ni sugu semaru"
   },
   "jlpt-n2-述語-1817": {
-    "kana": "じゅつご を おぼえる",
-    "romaji": "jutsugo o oboeru"
+    "kana": "この もんだい に わ じゅつご が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jutsugo ga fukaku kankei shi te iru"
   },
   "jlpt-n2-迷信-1788": {
-    "kana": "めいしん を おぼえる",
-    "romaji": "meishin o oboeru"
+    "kana": "じゅぎょう で めいしん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de meishin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-追加-1439": {
-    "kana": "ついか を おぼえる",
-    "romaji": "tsuika o oboeru"
+    "kana": "かいぎ で ついか について はなしあっ た",
+    "romaji": "kaigi de tsuika nitsuite hanashia ta"
   },
   "jlpt-n2-退く-1480": {
-    "kana": "しりぞく を おぼえる",
-    "romaji": "shirizoku o oboeru"
+    "kana": "てすと で わ あぶない と おもっ たら すぐ しりぞく",
+    "romaji": "tesuto de wa abunai to omo tara sugu shirizoku"
   },
   "jlpt-n2-退院-1831": {
-    "kana": "たいいん を おぼえる",
-    "romaji": "taiin o oboeru"
+    "kana": "たいいん で ともだち を まっ た",
+    "romaji": "taiin de tomodachi o ma ta"
   },
   "jlpt-n2-送料-1655": {
-    "kana": "そうりょう を おぼえる",
-    "romaji": "souryou o oboeru"
+    "kana": "じゅぎょう で そうりょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de souryou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-逃がす-1443": {
-    "kana": "にがす を おぼえる",
-    "romaji": "nigasu o oboeru"
+    "kana": "ひつよう な とき に すぐ にがす",
+    "romaji": "hitsuyou na toki ni sugu nigasu"
   },
   "jlpt-n2-逆さ-1730": {
-    "kana": "さかさ を おぼえる",
-    "romaji": "sakasa o oboeru"
+    "kana": "さかさ え まっすぐ すすん だ",
+    "romaji": "sakasa e massugu susun da"
   },
   "jlpt-n2-透き通る-1570": {
-    "kana": "すきとおる を おぼえる",
-    "romaji": "sukitooru o oboeru"
+    "kana": "じゅぎょう の あと えき え すきとおる",
+    "romaji": "jugyou no ato eki e sukitooru"
   },
   "jlpt-n2-通訳-1881": {
-    "kana": "つうやく を おぼえる",
-    "romaji": "tsuuyaku o oboeru"
+    "kana": "その けいけん から つうやく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tsuuyaku no taisetsu sa o shi ta"
   },
   "jlpt-n2-通路-1504": {
-    "kana": "つうろ を おぼえる",
-    "romaji": "tsuuro o oboeru"
+    "kana": "その けいけん から つうろ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tsuuro no taisetsu sa o shi ta"
   },
   "jlpt-n2-速力-1416": {
-    "kana": "そくりょく を おぼえる",
-    "romaji": "sokuryoku o oboeru"
+    "kana": "この もんだい に わ そくりょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sokuryoku ga fukaku kankei shi te iru"
   },
   "jlpt-n2-速達-1335": {
-    "kana": "そくたつ を おぼえる",
-    "romaji": "sokutatsu o oboeru"
+    "kana": "この もんだい に わ そくたつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sokutatsu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-造船-1512": {
-    "kana": "ぞうせん を おぼえる",
-    "romaji": "zousen o oboeru"
+    "kana": "じゅぎょう で ぞうせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zousen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-逸れる-1908": {
-    "kana": "それる を おぼえる",
-    "romaji": "soreru o oboeru"
+    "kana": "じゅぎょう の あと えき え それる",
+    "romaji": "jugyou no ato eki e soreru"
   },
   "jlpt-n2-過失-1913": {
-    "kana": "かしつ を おぼえる",
-    "romaji": "kashitsu o oboeru"
+    "kana": "その けいけん から かしつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kashitsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-過程-1520": {
-    "kana": "かてい を おぼえる",
-    "romaji": "katei o oboeru"
+    "kana": "この もんだい に わ かてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa katei ga fukaku kankei shi te iru"
   },
   "jlpt-n2-道順-1371": {
-    "kana": "みちじゅん を おぼえる",
-    "romaji": "michijun o oboeru"
+    "kana": "かいぎ で みちじゅん について はなしあっ た",
+    "romaji": "kaigi de michijun nitsuite hanashia ta"
   },
   "jlpt-n2-遠足-1690": {
-    "kana": "えんそく を おぼえる",
-    "romaji": "ensoku o oboeru"
+    "kana": "その けいけん から えんそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ensoku no taisetsu sa o shi ta"
   },
   "jlpt-n2-遭う-1854": {
-    "kana": "あう を おぼえる",
-    "romaji": "au o oboeru"
+    "kana": "せんせい の まえ で おちつい て あう",
+    "romaji": "sensei no mae de ochitsui te au"
   },
   "jlpt-n2-郡-1548": {
-    "kana": "ぐん を おぼえる",
-    "romaji": "gun o oboeru"
+    "kana": "しゅうまつ に ぐん え いっ た",
+    "romaji": "shuumatsu ni gun e i ta"
   },
   "jlpt-n2-部首-1918": {
-    "kana": "ぶしゅ を おぼえる",
-    "romaji": "bushu o oboeru"
+    "kana": "じゅぎょう で ぶしゅ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bushu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-都心-1555": {
-    "kana": "としん を おぼえる",
-    "romaji": "toshin o oboeru"
+    "kana": "としん で ともだち を まっ た",
+    "romaji": "toshin de tomodachi o ma ta"
   },
   "jlpt-n2-酌む-1289": {
-    "kana": "くむ を おぼえる",
-    "romaji": "kumu o oboeru"
+    "kana": "しっぱい し て も もういちど くむ",
+    "romaji": "shippai shi te mo mouichido kumu"
   },
   "jlpt-n2-醜い-1464": {
-    "kana": "みにくい を おぼえる",
-    "romaji": "minikui o oboeru"
+    "kana": "かいぎ で みにくい について はなしあっ た",
+    "romaji": "kaigi de minikui nitsuite hanashia ta"
   },
   "jlpt-n2-醤油-1667": {
-    "kana": "しょうゆ を おぼえる",
-    "romaji": "shouyu o oboeru"
+    "kana": "かいぎ で しょうゆ について はなしあっ た",
+    "romaji": "kaigi de shouyu nitsuite hanashia ta"
   },
   "jlpt-n2-重ねる-1813": {
-    "kana": "かさねる を おぼえる",
-    "romaji": "kasaneru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かさねる",
+    "romaji": "sensei no mae de ochitsui te kasaneru"
   },
   "jlpt-n2-重量-1801": {
-    "kana": "じゅうりょう を おぼえる",
-    "romaji": "juuryou o oboeru"
+    "kana": "じゅぎょう で じゅうりょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de juuryou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-釜-1877": {
-    "kana": "かま を おぼえる",
-    "romaji": "kama o oboeru"
+    "kana": "その けいけん から かま の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kama no taisetsu sa o shi ta"
   },
   "jlpt-n2-針金-1562": {
-    "kana": "はりがね を おぼえる",
-    "romaji": "harigane o oboeru"
+    "kana": "かいぎ で はりがね について はなしあっ た",
+    "romaji": "kaigi de harigane nitsuite hanashia ta"
   },
   "jlpt-n2-鉄橋-1603": {
-    "kana": "てっきょう を おぼえる",
-    "romaji": "tekkyou o oboeru"
+    "kana": "この もんだい に わ てっきょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tekkyou ga fukaku kankei shi te iru"
   },
   "jlpt-n2-鉄砲-1390": {
-    "kana": "てっぽう を おぼえる",
-    "romaji": "teppou o oboeru"
+    "kana": "かいぎ で てっぽう について はなしあっ た",
+    "romaji": "kaigi de teppou nitsuite hanashia ta"
   },
   "jlpt-n2-鉱物-1332": {
-    "kana": "こうぶつ を おぼえる",
-    "romaji": "koubutsu o oboeru"
+    "kana": "その けいけん から こうぶつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koubutsu no taisetsu sa o shi ta"
   },
   "jlpt-n2-銘々-1856": {
-    "kana": "めいめい を おぼえる",
-    "romaji": "meimei o oboeru"
+    "kana": "かいぎ で めいめい について はなしあっ た",
+    "romaji": "kaigi de meimei nitsuite hanashia ta"
   },
   "jlpt-n2-錆-1394": {
-    "kana": "さび を おぼえる",
-    "romaji": "sabi o oboeru"
+    "kana": "その けいけん から さび の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sabi no taisetsu sa o shi ta"
   },
   "jlpt-n2-錆びる-1803": {
-    "kana": "さびる を おぼえる",
-    "romaji": "sabiru o oboeru"
+    "kana": "しずか な まち に へんか が さびる",
+    "romaji": "shizuka na machi ni henka ga sabiru"
   },
   "jlpt-n2-長引く-1636": {
-    "kana": "ながびく を おぼえる",
-    "romaji": "nagabiku o oboeru"
+    "kana": "せんせい の まえ で おちつい て ながびく",
+    "romaji": "sensei no mae de ochitsui te nagabiku"
   },
   "jlpt-n2-長所-1909": {
-    "kana": "ちょうしょ を おぼえる",
-    "romaji": "chousho o oboeru"
+    "kana": "じゅぎょう で ちょうしょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chousho o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-閉会-1514": {
-    "kana": "へいかい を おぼえる",
-    "romaji": "heikai o oboeru"
+    "kana": "その けいけん から へいかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara heikai no taisetsu sa o shi ta"
   },
   "jlpt-n2-附属-1845": {
-    "kana": "ふぞく を おぼえる",
-    "romaji": "fuzoku o oboeru"
+    "kana": "じゅぎょう で ふぞく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fuzoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-限度-1783": {
-    "kana": "げんど を おぼえる",
-    "romaji": "gendo o oboeru"
+    "kana": "かいぎ で げんど について はなしあっ た",
+    "romaji": "kaigi de gendo nitsuite hanashia ta"
   },
   "jlpt-n2-陽射-1647": {
-    "kana": "ひ しゃ を おぼえる",
-    "romaji": "hi sha o oboeru"
+    "kana": "ひ しゃ が まど の そと に みえる",
+    "romaji": "hi sha ga mado no soto ni mieru"
   },
   "jlpt-n2-随筆-1851": {
-    "kana": "ずいひつ を おぼえる",
-    "romaji": "zuihitsu o oboeru"
+    "kana": "この もんだい に わ ずいひつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa zuihitsu ga fukaku kankei shi te iru"
   },
   "jlpt-n2-隔てる-1921": {
-    "kana": "へだてる を おぼえる",
-    "romaji": "hedateru o oboeru"
+    "kana": "しっぱい し て も もういちど へだてる",
+    "romaji": "shippai shi te mo mouichido hedateru"
   },
   "jlpt-n2-障子-1452": {
-    "kana": "しょうじ を おぼえる",
-    "romaji": "shouji o oboeru"
+    "kana": "しょうじ を かばん に いれ た",
+    "romaji": "shouji o kaban ni ire ta"
   },
   "jlpt-n2-集合-1459": {
-    "kana": "しゅうごう を おぼえる",
-    "romaji": "shuugou o oboeru"
+    "kana": "じゅぎょう で しゅうごう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuugou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-雑巾-1867": {
-    "kana": "ぞうきん を おぼえる",
-    "romaji": "zoukin o oboeru"
+    "kana": "しゅうまつ に ぞうきん え いっ た",
+    "romaji": "shuumatsu ni zoukin e i ta"
   },
   "jlpt-n2-雨戸-1291": {
-    "kana": "あまど を おぼえる",
-    "romaji": "amado o oboeru"
+    "kana": "つくえ の うえ に あまど を おい た",
+    "romaji": "tsukue no ue ni amado o oi ta"
   },
   "jlpt-n2-零点-1871": {
-    "kana": "れい てん を おぼえる",
-    "romaji": "rei ten o oboeru"
+    "kana": "こたえ わ れい てん です",
+    "romaji": "kotae wa rei ten desu"
   },
   "jlpt-n2-電柱-1413": {
-    "kana": "でんちゅう を おぼえる",
-    "romaji": "denchuu o oboeru"
+    "kana": "かいぎ で でんちゅう について はなしあっ た",
+    "romaji": "kaigi de denchuu nitsuite hanashia ta"
   },
   "jlpt-n2-電波-1917": {
-    "kana": "でんぱ を おぼえる",
-    "romaji": "denpa o oboeru"
+    "kana": "その けいけん から でんぱ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara denpa no taisetsu sa o shi ta"
   },
   "jlpt-n2-青白い-1419": {
-    "kana": "あおじろい を おぼえる",
-    "romaji": "aojiroi o oboeru"
+    "kana": "この もんだい に わ あおじろい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa aojiroi ga fukaku kankei shi te iru"
   },
   "jlpt-n2-静まる-1815": {
-    "kana": "しずまる を おぼえる",
-    "romaji": "shizumaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て しずまる",
+    "romaji": "sensei no mae de ochitsui te shizumaru"
   },
   "jlpt-n2-面接-1422": {
-    "kana": "めんせつ を おぼえる",
-    "romaji": "mensetsu o oboeru"
+    "kana": "じゅぎょう で めんせつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mensetsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-響き-1609": {
-    "kana": "ひびき を おぼえる",
-    "romaji": "hibiki o oboeru"
+    "kana": "じゅぎょう で ひびき を こえ に だし て よん だ",
+    "romaji": "jugyou de hibiki o koe ni dashi te yon da"
   },
   "jlpt-n2-響く-1320": {
-    "kana": "ひびく を おぼえる",
-    "romaji": "hibiku o oboeru"
+    "kana": "ひつよう な とき に すぐ ひびく",
+    "romaji": "hitsuyou na toki ni sugu hibiku"
   },
   "jlpt-n2-頂点-1897": {
-    "kana": "ちょうてん を おぼえる",
-    "romaji": "chouten o oboeru"
+    "kana": "ちょうてん え まっすぐ すすん だ",
+    "romaji": "chouten e massugu susun da"
   },
   "jlpt-n2-項目-1895": {
-    "kana": "こうもく を おぼえる",
-    "romaji": "koumoku o oboeru"
+    "kana": "かいぎ で こうもく について はなしあっ た",
+    "romaji": "kaigi de koumoku nitsuite hanashia ta"
   },
   "jlpt-n2-順々-1487": {
-    "kana": "じゅんじゅん を おぼえる",
-    "romaji": "junjun o oboeru"
+    "kana": "じゅぎょう で じゅんじゅん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de junjun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-順序-1596": {
-    "kana": "じゅんじょ を おぼえる",
-    "romaji": "junjo o oboeru"
+    "kana": "この もんだい に わ じゅんじょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa junjo ga fukaku kankei shi te iru"
   },
   "jlpt-n2-預かる-1834": {
-    "kana": "あずかる を おぼえる",
-    "romaji": "azukaru o oboeru"
+    "kana": "ともだち に にもつ を あずかる",
+    "romaji": "tomodachi ni nimotsu o azukaru"
   },
   "jlpt-n2-頼もしい-1489": {
-    "kana": "たのもしい を おぼえる",
-    "romaji": "tanomoshii o oboeru"
+    "kana": "この もんだい に わ たのもしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tanomoshii ga fukaku kankei shi te iru"
   },
   "jlpt-n2-題名-1285": {
-    "kana": "だいめい を おぼえる",
-    "romaji": "daimei o oboeru"
+    "kana": "その けいけん から だいめい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara daimei no taisetsu sa o shi ta"
   },
   "jlpt-n2-飾り-1367": {
-    "kana": "かざり を おぼえる",
-    "romaji": "kazari o oboeru"
+    "kana": "じゅぎょう で かざり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kazari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-餅-1887": {
-    "kana": "もち を おぼえる",
-    "romaji": "mochi o oboeru"
+    "kana": "ひる に もち を すこし たべ た",
+    "romaji": "hiru ni mochi o sukoshi tabe ta"
   },
   "jlpt-n2-養分-1701": {
-    "kana": "ようぶん を おぼえる",
-    "romaji": "youbun o oboeru"
+    "kana": "この もんだい に わ ようぶん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa youbun ga fukaku kankei shi te iru"
   },
   "jlpt-n2-香水-1645": {
-    "kana": "こうすい を おぼえる",
-    "romaji": "kousui o oboeru"
+    "kana": "この もんだい に わ こうすい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kousui ga fukaku kankei shi te iru"
   },
   "jlpt-n2-高度-1501": {
-    "kana": "こうど を おぼえる",
-    "romaji": "koudo o oboeru"
+    "kana": "その けいけん から こうど の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koudo no taisetsu sa o shi ta"
   },
   "jlpt-n2-高等-1503": {
-    "kana": "こうとう を おぼえる",
-    "romaji": "koutou o oboeru"
+    "kana": "じゅぎょう で こうとう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koutou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-高級-1525": {
-    "kana": "こうきゅう を おぼえる",
-    "romaji": "koukyuu o oboeru"
+    "kana": "かいぎ で こうきゅう について はなしあっ た",
+    "romaji": "kaigi de koukyuu nitsuite hanashia ta"
   },
   "jlpt-n2-髭-1643": {
-    "kana": "ひげ を おぼえる",
-    "romaji": "hige o oboeru"
+    "kana": "じゅぎょう で ひげ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hige o gutai teki ni setsumei shi ta"
   },
   "jlpt-n2-鳴らす-1338": {
-    "kana": "ならす を おぼえる",
-    "romaji": "narasu o oboeru"
+    "kana": "しっぱい し て も もういちど ならす",
+    "romaji": "shippai shi te mo mouichido narasu"
   },
   "jlpt-n2-墨-1497": {
-    "kana": "すみ を おぼえる",
-    "romaji": "sumi o oboeru"
+    "kana": "この もんだい に わ すみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sumi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-いえ-2009": {
-    "kana": "いえ を おぼえる",
-    "romaji": "ie o oboeru"
+    "kana": "その けいけん から いえ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ie no taisetsu sa o shi ta"
   },
   "jlpt-n3-お昼-2013": {
-    "kana": "おひる を おぼえる",
-    "romaji": "ohiru o oboeru"
+    "kana": "ひる に おひる を すこし たべ た",
+    "romaji": "hiru ni ohiru o sukoshi tabe ta"
   },
   "jlpt-n3-ここ-2031": {
-    "kana": "ここ を おぼえる",
-    "romaji": "koko o oboeru"
+    "kana": "じゅぎょう で ここ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-この-2143": {
-    "kana": "この を おぼえる",
-    "romaji": "kono o oboeru"
+    "kana": "その けいけん から この の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kono no taisetsu sa o shi ta"
   },
   "jlpt-n3-ジェット機-2280": {
-    "kana": "じぇっとき を おぼえる",
-    "romaji": "jettoki o oboeru"
+    "kana": "じゅぎょう で じぇっとき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jettoki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-すると-2488": {
-    "kana": "すると を おぼえる",
-    "romaji": "suruto o oboeru"
+    "kana": "じゅぎょう で する と を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de suru to o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-そう-2071": {
-    "kana": "そう を おぼえる",
-    "romaji": "sou o oboeru"
+    "kana": "せんせい の まえ で おちつい て そう",
+    "romaji": "sensei no mae de ochitsui te sou"
   },
   "jlpt-n3-だから-2149": {
-    "kana": "だから を おぼえる",
-    "romaji": "dakara o oboeru"
+    "kana": "じゅぎょう で だから を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dakara o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-できる-2539": {
-    "kana": "できる を おぼえる",
-    "romaji": "dekiru o oboeru"
+    "kana": "しっぱい し て も もういちど できる",
+    "romaji": "shippai shi te mo mouichido dekiru"
   },
   "jlpt-n3-どれ-2203": {
-    "kana": "どれ を おぼえる",
-    "romaji": "dore o oboeru"
+    "kana": "こたえ わ どれ です",
+    "romaji": "kotae wa dore desu"
   },
   "jlpt-n3-ね-2028": {
-    "kana": "ね を おぼえる",
-    "romaji": "ne o oboeru"
+    "kana": "かいぎ で ね について はなしあっ た",
+    "romaji": "kaigi de ne nitsuite hanashia ta"
   },
   "jlpt-n3-一家-1966": {
-    "kana": "いっか を おぼえる",
-    "romaji": "ikka o oboeru"
+    "kana": "いっか に みち を たずね た",
+    "romaji": "ikka ni michi o tazune ta"
   },
   "jlpt-n3-一時-2027": {
-    "kana": "いちじ を おぼえる",
-    "romaji": "ichiji o oboeru"
+    "kana": "この もんだい に わ いちじ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ichiji ga fukaku kankei shi te iru"
   },
   "jlpt-n3-一番-2374": {
-    "kana": "いちばん を おぼえる",
-    "romaji": "ichiban o oboeru"
+    "kana": "こたえ わ いちばん です",
+    "romaji": "kotae wa ichiban desu"
   },
   "jlpt-n3-一般-2381": {
-    "kana": "いっぱん を おぼえる",
-    "romaji": "ippan o oboeru"
+    "kana": "じゅぎょう で いっぱん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ippan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-万一-2138": {
-    "kana": "まんいち を おぼえる",
-    "romaji": "man'ichi o oboeru"
+    "kana": "その けいけん から まん いち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara man ichi no taisetsu sa o shi ta"
   },
   "jlpt-n3-下-2082": {
-    "kana": "した を おぼえる",
-    "romaji": "shita o oboeru"
+    "kana": "かいぎ で した について はなしあっ た",
+    "romaji": "kaigi de shita nitsuite hanashia ta"
   },
   "jlpt-n3-不平-2191": {
-    "kana": "ふへい を おぼえる",
-    "romaji": "fuhei o oboeru"
+    "kana": "じゅぎょう で ふへい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fuhei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-不幸-2415": {
-    "kana": "ふこう を おぼえる",
-    "romaji": "fukou o oboeru"
+    "kana": "かいぎ で ふこう について はなしあっ た",
+    "romaji": "kaigi de fukou nitsuite hanashia ta"
   },
   "jlpt-n3-不満-2246": {
-    "kana": "ふまん を おぼえる",
-    "romaji": "fuman o oboeru"
+    "kana": "かいぎ で ふまん について はなしあっ た",
+    "romaji": "kaigi de fuman nitsuite hanashia ta"
   },
   "jlpt-n3-世紀-2277": {
-    "kana": "せいき を おぼえる",
-    "romaji": "seiki o oboeru"
+    "kana": "じゅぎょう で せいき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-丘-2273": {
-    "kana": "おか を おぼえる",
-    "romaji": "oka o oboeru"
+    "kana": "その けいけん から おか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara oka no taisetsu sa o shi ta"
   },
   "jlpt-n3-両替-1983": {
-    "kana": "りょうがえ を おぼえる",
-    "romaji": "ryougae o oboeru"
+    "kana": "この もんだい に わ りょうがえ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ryougae ga fukaku kankei shi te iru"
   },
   "jlpt-n3-中央-1958": {
-    "kana": "ちゅうおう を おぼえる",
-    "romaji": "chuuou o oboeru"
+    "kana": "その けいけん から ちゅうおう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chuuou no taisetsu sa o shi ta"
   },
   "jlpt-n3-中学-2524": {
-    "kana": "ちゅうがく を おぼえる",
-    "romaji": "chuugaku o oboeru"
+    "kana": "ちゅうがく で ともだち を まっ た",
+    "romaji": "chuugaku de tomodachi o ma ta"
   },
   "jlpt-n3-乗客-2003": {
-    "kana": "じょうきゃく を おぼえる",
-    "romaji": "joukyaku o oboeru"
+    "kana": "じゅぎょう で じょうきゃく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de joukyaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-九-2393": {
-    "kana": "きゅう を おぼえる",
-    "romaji": "kyuu o oboeru"
+    "kana": "こたえ わ きゅう です",
+    "romaji": "kotae wa kyuu desu"
   },
   "jlpt-n3-予報-2512": {
-    "kana": "よほう を おぼえる",
-    "romaji": "yohou o oboeru"
+    "kana": "じゅぎょう で よほう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yohou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-予算-2154": {
-    "kana": "よさん を おぼえる",
-    "romaji": "yosan o oboeru"
+    "kana": "その けいけん から よさん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yosan no taisetsu sa o shi ta"
   },
   "jlpt-n3-事情-2026": {
-    "kana": "じじょう を おぼえる",
-    "romaji": "jijou o oboeru"
+    "kana": "じゅぎょう で じじょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jijou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-二十-2342": {
-    "kana": "に じゅう を おぼえる",
-    "romaji": "ni juu o oboeru"
+    "kana": "に じゅう に ともだち と あう",
+    "romaji": "ni juu ni tomodachi to au"
   },
   "jlpt-n3-人工-2063": {
-    "kana": "じんこう を おぼえる",
-    "romaji": "jinkou o oboeru"
+    "kana": "かいぎ で じんこう について はなしあっ た",
+    "romaji": "kaigi de jinkou nitsuite hanashia ta"
   },
   "jlpt-n3-人気-2016": {
-    "kana": "にんき を おぼえる",
-    "romaji": "ninki o oboeru"
+    "kana": "この もんだい に わ にんき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ninki ga fukaku kankei shi te iru"
   },
   "jlpt-n3-人種-2494": {
-    "kana": "じんしゅ を おぼえる",
-    "romaji": "jinshu o oboeru"
+    "kana": "じんしゅ に みち を たずね た",
+    "romaji": "jinshu ni michi o tazune ta"
   },
   "jlpt-n3-人込み-2506": {
-    "kana": "ひとごみ を おぼえる",
-    "romaji": "hitogomi o oboeru"
+    "kana": "ひとごみ に みち を たずね た",
+    "romaji": "hitogomi ni michi o tazune ta"
   },
   "jlpt-n3-人類-2404": {
-    "kana": "じんるい を おぼえる",
-    "romaji": "jinrui o oboeru"
+    "kana": "この もんだい に わ じんるい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jinrui ga fukaku kankei shi te iru"
   },
   "jlpt-n3-今日-2160": {
-    "kana": "きょう を おぼえる",
-    "romaji": "kyou o oboeru"
+    "kana": "きょう に ともだち と あう",
+    "romaji": "kyou ni tomodachi to au"
   },
   "jlpt-n3-付き合い-2298": {
-    "kana": "つきあい を おぼえる",
-    "romaji": "tsukiai o oboeru"
+    "kana": "かいぎ で つきあい について はなしあっ た",
+    "romaji": "kaigi de tsukiai nitsuite hanashia ta"
   },
   "jlpt-n3-代理-2235": {
-    "kana": "だいり を おぼえる",
-    "romaji": "dairi o oboeru"
+    "kana": "かいぎ で だいり について はなしあっ た",
+    "romaji": "kaigi de dairi nitsuite hanashia ta"
   },
   "jlpt-n3-以前-2080": {
-    "kana": "いぜん を おぼえる",
-    "romaji": "izen o oboeru"
+    "kana": "じゅぎょう で いぜん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de izen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-仲-2507": {
-    "kana": "なか を おぼえる",
-    "romaji": "naka o oboeru"
+    "kana": "かいぎ で なか について はなしあっ た",
+    "romaji": "kaigi de naka nitsuite hanashia ta"
   },
   "jlpt-n3-仲間-2427": {
-    "kana": "なかま を おぼえる",
-    "romaji": "nakama o oboeru"
+    "kana": "しゅうまつ に なかま え いっ た",
+    "romaji": "shuumatsu ni nakama e i ta"
   },
   "jlpt-n3-任せる-2057": {
-    "kana": "まかせる を おぼえる",
-    "romaji": "makaseru o oboeru"
+    "kana": "じゅぎょう の あと えき え まかせる",
+    "romaji": "jugyou no ato eki e makaseru"
   },
   "jlpt-n3-会計-2464": {
-    "kana": "かいけい を おぼえる",
-    "romaji": "kaikei o oboeru"
+    "kana": "かいぎ で かいけい について はなしあっ た",
+    "romaji": "kaigi de kaikei nitsuite hanashia ta"
   },
   "jlpt-n3-伸びる-1984": {
-    "kana": "のびる を おぼえる",
-    "romaji": "nobiru o oboeru"
+    "kana": "しっぱい し て も もういちど のびる",
+    "romaji": "shippai shi te mo mouichido nobiru"
   },
   "jlpt-n3-伺う-1986": {
-    "kana": "うかがう を おぼえる",
-    "romaji": "ukagau o oboeru"
+    "kana": "かいぎ で りゆう を はっきり うかがう",
+    "romaji": "kaigi de riyuu o hakkiri ukagau"
   },
   "jlpt-n3-体温-2221": {
-    "kana": "たいおん を おぼえる",
-    "romaji": "taion o oboeru"
+    "kana": "たいおん が すこし いたい",
+    "romaji": "taion ga sukoshi itai"
   },
   "jlpt-n3-何-2531": {
-    "kana": "なに を おぼえる",
-    "romaji": "nani o oboeru"
+    "kana": "かいぎ で なに について はなしあっ た",
+    "romaji": "kaigi de nani nitsuite hanashia ta"
   },
   "jlpt-n3-何か-1975": {
-    "kana": "なに か を おぼえる",
-    "romaji": "nani ka o oboeru"
+    "kana": "その けいけん から なに か の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nani ka no taisetsu sa o shi ta"
   },
   "jlpt-n3-何とか-2359": {
-    "kana": "なんとか を おぼえる",
-    "romaji": "nantoka o oboeru"
+    "kana": "こたえ わ なんとか です",
+    "romaji": "kotae wa nantoka desu"
   },
   "jlpt-n3-余り-2128": {
-    "kana": "あまり を おぼえる",
-    "romaji": "amari o oboeru"
+    "kana": "かいぎ で あまり について はなしあっ た",
+    "romaji": "kaigi de amari nitsuite hanashia ta"
   },
   "jlpt-n3-価格-2335": {
-    "kana": "かかく を おぼえる",
-    "romaji": "kakaku o oboeru"
+    "kana": "その けいけん から かかく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kakaku no taisetsu sa o shi ta"
   },
   "jlpt-n3-便-1951": {
-    "kana": "びん を おぼえる",
-    "romaji": "bin o oboeru"
+    "kana": "その けいけん から びん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bin no taisetsu sa o shi ta"
   },
   "jlpt-n3-便り-2431": {
-    "kana": "たより を おぼえる",
-    "romaji": "tayori o oboeru"
+    "kana": "じゅぎょう で たより を こえ に だし て よん だ",
+    "romaji": "jugyou de tayori o koe ni dashi te yon da"
   },
   "jlpt-n3-保証-2327": {
-    "kana": "ほしょう を おぼえる",
-    "romaji": "hoshou o oboeru"
+    "kana": "その けいけん から ほしょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hoshou no taisetsu sa o shi ta"
   },
   "jlpt-n3-信頼-2386": {
-    "kana": "しんらい を おぼえる",
-    "romaji": "shinrai o oboeru"
+    "kana": "じゅぎょう で しんらい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shinrai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-修正-1963": {
-    "kana": "しゅうせい を おぼえる",
-    "romaji": "shuusei o oboeru"
+    "kana": "この もんだい に わ しゅうせい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shuusei ga fukaku kankei shi te iru"
   },
   "jlpt-n3-俳優-2065": {
-    "kana": "はいゆう を おぼえる",
-    "romaji": "haiyuu o oboeru"
+    "kana": "その けいけん から はいゆう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara haiyuu no taisetsu sa o shi ta"
   },
   "jlpt-n3-値-2278": {
-    "kana": "ね を おぼえる",
-    "romaji": "ne o oboeru"
+    "kana": "この もんだい に わ ね が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ne ga fukaku kankei shi te iru"
   },
   "jlpt-n3-値段-2019": {
-    "kana": "ねだん を おぼえる",
-    "romaji": "nedan o oboeru"
+    "kana": "かいぎ で ねだん について はなしあっ た",
+    "romaji": "kaigi de nedan nitsuite hanashia ta"
   },
   "jlpt-n3-健康-2550": {
-    "kana": "けんこう を おぼえる",
-    "romaji": "kenkou o oboeru"
+    "kana": "じゅぎょう で けんこう を こえ に だし て よん だ",
+    "romaji": "jugyou de kenkou o koe ni dashi te yon da"
   },
   "jlpt-n3-偶々-2195": {
-    "kana": "偶 を おぼえる",
-    "romaji": "偶 o oboeru"
+    "kana": "その けいけん から 偶 の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara 偶 no taisetsu sa o shi ta"
   },
   "jlpt-n3-備える-1950": {
-    "kana": "そなえる を おぼえる",
-    "romaji": "sonaeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て そなえる",
+    "romaji": "sensei no mae de ochitsui te sonaeru"
   },
   "jlpt-n3-優勝-2377": {
-    "kana": "ゆうしょう を おぼえる",
-    "romaji": "yuushou o oboeru"
+    "kana": "じゅぎょう で ゆうしょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuushou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-優秀-2313": {
-    "kana": "ゆうしゅう を おぼえる",
-    "romaji": "yuushuu o oboeru"
+    "kana": "じゅぎょう で ゆうしゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuushuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-兎-2424": {
-    "kana": "うさぎ を おぼえる",
-    "romaji": "usagi o oboeru"
+    "kana": "じゅぎょう で うさぎ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de usagi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-入場-2166": {
-    "kana": "にゅうじょう を おぼえる",
-    "romaji": "nyuujou o oboeru"
+    "kana": "しゅうまつ に にゅうじょう え いっ た",
+    "romaji": "shuumatsu ni nyuujou e i ta"
   },
   "jlpt-n3-入院-2346": {
-    "kana": "にゅういん を おぼえる",
-    "romaji": "nyuuin o oboeru"
+    "kana": "この もんだい に わ にゅういん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nyuuin ga fukaku kankei shi te iru"
   },
   "jlpt-n3-全く-1957": {
-    "kana": "まったく を おぼえる",
-    "romaji": "mattaku o oboeru"
+    "kana": "ひつよう な とき に すぐ まったく",
+    "romaji": "hitsuyou na toki ni sugu mattaku"
   },
   "jlpt-n3-全て-2190": {
-    "kana": "すべて を おぼえる",
-    "romaji": "subete o oboeru"
+    "kana": "かいぎ で すべて について はなしあっ た",
+    "romaji": "kaigi de subete nitsuite hanashia ta"
   },
   "jlpt-n3-全体-2402": {
-    "kana": "ぜんたい を おぼえる",
-    "romaji": "zentai o oboeru"
+    "kana": "かいぎ で ぜんたい について はなしあっ た",
+    "romaji": "kaigi de zentai nitsuite hanashia ta"
   },
   "jlpt-n3-全員-2176": {
-    "kana": "ぜんいん を おぼえる",
-    "romaji": "zen'in o oboeru"
+    "kana": "じゅぎょう で ぜんいん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zen'in o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-全国-2331": {
-    "kana": "ぜんこく を おぼえる",
-    "romaji": "zenkoku o oboeru"
+    "kana": "ぜんこく で ともだち を まっ た",
+    "romaji": "zenkoku de tomodachi o ma ta"
   },
   "jlpt-n3-具体-2407": {
-    "kana": "ぐたい を おぼえる",
-    "romaji": "gutai o oboeru"
+    "kana": "その けいけん から ぐたい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gutai no taisetsu sa o shi ta"
   },
   "jlpt-n3-内-2055": {
-    "kana": "うち を おぼえる",
-    "romaji": "uchi o oboeru"
+    "kana": "その けいけん から うち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara uchi no taisetsu sa o shi ta"
   },
   "jlpt-n3-再び-2137": {
-    "kana": "ふたたび を おぼえる",
-    "romaji": "futatabi o oboeru"
+    "kana": "かいぎ で ふたたび について はなしあっ た",
+    "romaji": "kaigi de futatabi nitsuite hanashia ta"
   },
   "jlpt-n3-冒険-2001": {
-    "kana": "ぼうけん を おぼえる",
-    "romaji": "bouken o oboeru"
+    "kana": "かいぎ で ぼうけん について はなしあっ た",
+    "romaji": "kaigi de bouken nitsuite hanashia ta"
   },
   "jlpt-n3-冗談-2451": {
-    "kana": "じょうだん を おぼえる",
-    "romaji": "joudan o oboeru"
+    "kana": "かいぎ で じょうだん について はなしあっ た",
+    "romaji": "kaigi de joudan nitsuite hanashia ta"
   },
   "jlpt-n3-処理-2317": {
-    "kana": "しょり を おぼえる",
-    "romaji": "shori o oboeru"
+    "kana": "じゅぎょう で しょり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-出会い-2237": {
-    "kana": "であい を おぼえる",
-    "romaji": "deai o oboeru"
+    "kana": "その けいけん から であい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara deai no taisetsu sa o shi ta"
   },
   "jlpt-n3-出会う-2259": {
-    "kana": "であう を おぼえる",
-    "romaji": "deau o oboeru"
+    "kana": "じゅぎょう の あと えき え であう",
+    "romaji": "jugyou no ato eki e deau"
   },
   "jlpt-n3-出来事-2269": {
-    "kana": "できごと を おぼえる",
-    "romaji": "dekigoto o oboeru"
+    "kana": "その けいけん から できごと の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara dekigoto no taisetsu sa o shi ta"
   },
   "jlpt-n3-出版-2146": {
-    "kana": "しゅっぱん を おぼえる",
-    "romaji": "shuppan o oboeru"
+    "kana": "じゅぎょう で しゅっぱん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shuppan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-分ける-2490": {
-    "kana": "わける を おぼえる",
-    "romaji": "wakeru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に わける",
+    "romaji": "dougu o tsuka te teinei ni wakeru"
   },
   "jlpt-n3-刈る-1972": {
-    "kana": "かる を おぼえる",
-    "romaji": "karu o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に かる",
+    "romaji": "dougu o tsuka te teinei ni karu"
   },
   "jlpt-n3-刑事-2250": {
-    "kana": "けいじ を おぼえる",
-    "romaji": "keiji o oboeru"
+    "kana": "かいぎ で けいじ について はなしあっ た",
+    "romaji": "kaigi de keiji nitsuite hanashia ta"
   },
   "jlpt-n3-利口-1976": {
-    "kana": "りこう を おぼえる",
-    "romaji": "rikou o oboeru"
+    "kana": "この もんだい に わ りこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa rikou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-制度-2161": {
-    "kana": "せいど を おぼえる",
-    "romaji": "seido o oboeru"
+    "kana": "じゅぎょう で せいど を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seido o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-券-2048": {
-    "kana": "けん を おぼえる",
-    "romaji": "ken o oboeru"
+    "kana": "じゅぎょう で けん を こえ に だし て よん だ",
+    "romaji": "jugyou de ken o koe ni dashi te yon da"
   },
   "jlpt-n3-刺激-2475": {
-    "kana": "しげき を おぼえる",
-    "romaji": "shigeki o oboeru"
+    "kana": "じゅぎょう で しげき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shigeki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-前進-2132": {
-    "kana": "ぜんしん を おぼえる",
-    "romaji": "zenshin o oboeru"
+    "kana": "かいぎ で ぜんしん について はなしあっ た",
+    "romaji": "kaigi de zenshin nitsuite hanashia ta"
   },
   "jlpt-n3-助手-2437": {
-    "kana": "じょしゅ を おぼえる",
-    "romaji": "joshu o oboeru"
+    "kana": "かいぎ で じょしゅ について はなしあっ た",
+    "romaji": "kaigi de joshu nitsuite hanashia ta"
   },
   "jlpt-n3-効く-1995": {
-    "kana": "きく を おぼえる",
-    "romaji": "kiku o oboeru"
+    "kana": "しっぱい し て も もういちど きく",
+    "romaji": "shippai shi te mo mouichido kiku"
   },
   "jlpt-n3-動かす-2251": {
-    "kana": "うごかす を おぼえる",
-    "romaji": "ugokasu o oboeru"
+    "kana": "ひつよう な とき に すぐ うごかす",
+    "romaji": "hitsuyou na toki ni sugu ugokasu"
   },
   "jlpt-n3-務め-2552": {
-    "kana": "つとめ を おぼえる",
-    "romaji": "tsutome o oboeru"
+    "kana": "この もんだい に わ つとめ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsutome ga fukaku kankei shi te iru"
   },
   "jlpt-n3-勝ち-2004": {
-    "kana": "かち を おぼえる",
-    "romaji": "kachi o oboeru"
+    "kana": "じゅぎょう で かち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kachi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-勢い-2326": {
-    "kana": "いきおい を おぼえる",
-    "romaji": "ikioi o oboeru"
+    "kana": "この もんだい に わ いきおい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ikioi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-勤め-2541": {
-    "kana": "つとめ を おぼえる",
-    "romaji": "tsutome o oboeru"
+    "kana": "この もんだい に わ つとめ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tsutome ga fukaku kankei shi te iru"
   },
   "jlpt-n3-勧める-2248": {
-    "kana": "すすめる を おぼえる",
-    "romaji": "susumeru o oboeru"
+    "kana": "しっぱい し て も もういちど すすめる",
+    "romaji": "shippai shi te mo mouichido susumeru"
   },
   "jlpt-n3-包み-2355": {
-    "kana": "つつみ を おぼえる",
-    "romaji": "tsutsumi o oboeru"
+    "kana": "かいぎ で つつみ について はなしあっ た",
+    "romaji": "kaigi de tsutsumi nitsuite hanashia ta"
   },
   "jlpt-n3-区別-2151": {
-    "kana": "くべつ を おぼえる",
-    "romaji": "kubetsu o oboeru"
+    "kana": "かいぎ で くべつ について はなしあっ た",
+    "romaji": "kaigi de kubetsu nitsuite hanashia ta"
   },
   "jlpt-n3-医師-2144": {
-    "kana": "いし を おぼえる",
-    "romaji": "ishi o oboeru"
+    "kana": "いし に みち を たずね た",
+    "romaji": "ishi ni michi o tazune ta"
   },
   "jlpt-n3-半ば-2423": {
-    "kana": "なかば を おぼえる",
-    "romaji": "nakaba o oboeru"
+    "kana": "その けいけん から なかば の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nakaba no taisetsu sa o shi ta"
   },
   "jlpt-n3-単に-2018": {
-    "kana": "たんに を おぼえる",
-    "romaji": "tanni o oboeru"
+    "kana": "この もんだい に わ たんに が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tanni ga fukaku kankei shi te iru"
   },
   "jlpt-n3-博物館-2152": {
-    "kana": "はくぶつかん を おぼえる",
-    "romaji": "hakubutsukan o oboeru"
+    "kana": "この もんだい に わ はくぶつかん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hakubutsukan ga fukaku kankei shi te iru"
   },
   "jlpt-n3-占める-2051": {
-    "kana": "しめる を おぼえる",
-    "romaji": "shimeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て しめる",
+    "romaji": "sensei no mae de ochitsui te shimeru"
   },
   "jlpt-n3-印刷-2484": {
-    "kana": "いんさつ を おぼえる",
-    "romaji": "insatsu o oboeru"
+    "kana": "じゅぎょう で いんさつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de insatsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-去る-1954": {
-    "kana": "さる を おぼえる",
-    "romaji": "saru o oboeru"
+    "kana": "じゅぎょう の あと えき え さる",
+    "romaji": "jugyou no ato eki e saru"
   },
   "jlpt-n3-取れる-2117": {
-    "kana": "とれる を おぼえる",
-    "romaji": "toreru o oboeru"
+    "kana": "じゅぎょう の あと えき え とれる",
+    "romaji": "jugyou no ato eki e toreru"
   },
   "jlpt-n3-叫ぶ-2439": {
-    "kana": "さけぶ を おぼえる",
-    "romaji": "sakebu o oboeru"
+    "kana": "せんせい の まえ で おちつい て さけぶ",
+    "romaji": "sensei no mae de ochitsui te sakebu"
   },
   "jlpt-n3-可能-2387": {
-    "kana": "かのう を おぼえる",
-    "romaji": "kanou o oboeru"
+    "kana": "この もんだい に わ かのう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-台-2227": {
-    "kana": "だい を おぼえる",
-    "romaji": "dai o oboeru"
+    "kana": "かいぎ で だい について はなしあっ た",
+    "romaji": "kaigi de dai nitsuite hanashia ta"
   },
   "jlpt-n3-合図-1941": {
-    "kana": "あいず を おぼえる",
-    "romaji": "aizu o oboeru"
+    "kana": "この もんだい に わ あいず が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa aizu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-合格-2079": {
-    "kana": "ごうかく を おぼえる",
-    "romaji": "goukaku o oboeru"
+    "kana": "かいぎ で ごうかく について はなしあっ た",
+    "romaji": "kaigi de goukaku nitsuite hanashia ta"
   },
   "jlpt-n3-合計-2441": {
-    "kana": "ごうけい を おぼえる",
-    "romaji": "goukei o oboeru"
+    "kana": "この もんだい に わ ごうけい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa goukei ga fukaku kankei shi te iru"
   },
   "jlpt-n3-同一-2228": {
-    "kana": "どういつ を おぼえる",
-    "romaji": "douitsu o oboeru"
+    "kana": "この もんだい に わ どういつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa douitsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-名-2486": {
-    "kana": "な を おぼえる",
-    "romaji": "na o oboeru"
+    "kana": "かいぎ で な について はなしあっ た",
+    "romaji": "kaigi de na nitsuite hanashia ta"
   },
   "jlpt-n3-向ける-2076": {
-    "kana": "むける を おぼえる",
-    "romaji": "mukeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て むける",
+    "romaji": "sensei no mae de ochitsui te mukeru"
   },
   "jlpt-n3-周囲-2002": {
-    "kana": "しゅうい を おぼえる",
-    "romaji": "shuui o oboeru"
+    "kana": "その けいけん から しゅうい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shuui no taisetsu sa o shi ta"
   },
   "jlpt-n3-味方-1977": {
-    "kana": "みかた を おぼえる",
-    "romaji": "mikata o oboeru"
+    "kana": "みかた に みち を たずね た",
+    "romaji": "mikata ni michi o tazune ta"
   },
   "jlpt-n3-哀れ-2252": {
-    "kana": "あわれ を おぼえる",
-    "romaji": "aware o oboeru"
+    "kana": "かいぎ で あわれ について はなしあっ た",
+    "romaji": "kaigi de aware nitsuite hanashia ta"
   },
   "jlpt-n3-唯-2229": {
-    "kana": "ただ を おぼえる",
-    "romaji": "tada o oboeru"
+    "kana": "この もんだい に わ ただ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tada ga fukaku kankei shi te iru"
   },
   "jlpt-n3-唯一-2167": {
-    "kana": "ゆいいつ を おぼえる",
-    "romaji": "yuiitsu o oboeru"
+    "kana": "かいぎ で ゆいいつ について はなしあっ た",
+    "romaji": "kaigi de yuiitsu nitsuite hanashia ta"
   },
   "jlpt-n3-喉-1961": {
-    "kana": "のど を おぼえる",
-    "romaji": "nodo o oboeru"
+    "kana": "かいぎ で のど について はなしあっ た",
+    "romaji": "kaigi de nodo nitsuite hanashia ta"
   },
   "jlpt-n3-喜び-2279": {
-    "kana": "よろこび を おぼえる",
-    "romaji": "yorokobi o oboeru"
+    "kana": "じゅぎょう で よろこび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yorokobi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-喧嘩-2170": {
-    "kana": "けんか を おぼえる",
-    "romaji": "kenka o oboeru"
+    "kana": "この もんだい に わ けんか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kenka ga fukaku kankei shi te iru"
   },
   "jlpt-n3-嘘-2111": {
-    "kana": "うそ を おぼえる",
-    "romaji": "uso o oboeru"
+    "kana": "その けいけん から うそ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara uso no taisetsu sa o shi ta"
   },
   "jlpt-n3-回す-1999": {
-    "kana": "まわす を おぼえる",
-    "romaji": "mawasu o oboeru"
+    "kana": "しっぱい し て も もういちど まわす",
+    "romaji": "shippai shi te mo mouichido mawasu"
   },
   "jlpt-n3-回り-2189": {
-    "kana": "まわり を おぼえる",
-    "romaji": "mawari o oboeru"
+    "kana": "じゅぎょう で まわり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mawari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-囲む-2363": {
-    "kana": "かこむ を おぼえる",
-    "romaji": "kakomu o oboeru"
+    "kana": "ひつよう な とき に すぐ かこむ",
+    "romaji": "hitsuyou na toki ni sugu kakomu"
   },
   "jlpt-n3-国境-1990": {
-    "kana": "こっきょう を おぼえる",
-    "romaji": "kokkyou o oboeru"
+    "kana": "この もんだい に わ こっきょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kokkyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-土-2271": {
-    "kana": "ど を おぼえる",
-    "romaji": "do o oboeru"
+    "kana": "かいぎ で ど について はなしあっ た",
+    "romaji": "kaigi de do nitsuite hanashia ta"
   },
   "jlpt-n3-土曜-2534": {
-    "kana": "どよう を おぼえる",
-    "romaji": "doyou o oboeru"
+    "kana": "どよう に ともだち と あう",
+    "romaji": "doyou ni tomodachi to au"
   },
   "jlpt-n3-地下-2103": {
-    "kana": "ちか を おぼえる",
-    "romaji": "chika o oboeru"
+    "kana": "この もんだい に わ ちか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chika ga fukaku kankei shi te iru"
   },
   "jlpt-n3-地区-2062": {
-    "kana": "ちく を おぼえる",
-    "romaji": "chiku o oboeru"
+    "kana": "かいぎ で ちく について はなしあっ た",
+    "romaji": "kaigi de chiku nitsuite hanashia ta"
   },
   "jlpt-n3-地平線-2142": {
-    "kana": "ちへいせん を おぼえる",
-    "romaji": "chiheisen o oboeru"
+    "kana": "じゅぎょう で ちへいせん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chiheisen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-地球-2010": {
-    "kana": "ちきゅう を おぼえる",
-    "romaji": "chikyuu o oboeru"
+    "kana": "じゅぎょう で ちきゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chikyuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-基-2258": {
-    "kana": "もと を おぼえる",
-    "romaji": "moto o oboeru"
+    "kana": "この もんだい に わ もと が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moto ga fukaku kankei shi te iru"
   },
   "jlpt-n3-基づく-2025": {
-    "kana": "もとづく を おぼえる",
-    "romaji": "motozuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て もとづく",
+    "romaji": "sensei no mae de ochitsui te motozuku"
   },
   "jlpt-n3-場-1974": {
-    "kana": "ば を おぼえる",
-    "romaji": "ba o oboeru"
+    "kana": "しゅうまつ に ば え いっ た",
+    "romaji": "shuumatsu ni ba e i ta"
   },
   "jlpt-n3-場面-2183": {
-    "kana": "ばめん を おぼえる",
-    "romaji": "bamen o oboeru"
+    "kana": "じゅぎょう で ばめん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bamen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-塵-2536": {
-    "kana": "ちり を おぼえる",
-    "romaji": "chiri o oboeru"
+    "kana": "この もんだい に わ ちり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chiri ga fukaku kankei shi te iru"
   },
   "jlpt-n3-境-2182": {
-    "kana": "さかい を おぼえる",
-    "romaji": "sakai o oboeru"
+    "kana": "じゅぎょう で さかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sakai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-墓-2052": {
-    "kana": "はか を おぼえる",
-    "romaji": "haka o oboeru"
+    "kana": "この もんだい に わ はか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa haka ga fukaku kankei shi te iru"
   },
   "jlpt-n3-売れる-1989": {
-    "kana": "うれる を おぼえる",
-    "romaji": "ureru o oboeru"
+    "kana": "ひつよう な とき に すぐ うれる",
+    "romaji": "hitsuyou na toki ni sugu ureru"
   },
   "jlpt-n3-夜中-2254": {
-    "kana": "やちゅう を おぼえる",
-    "romaji": "yachuu o oboeru"
+    "kana": "やちゅう わ いえ で べんきょう し た",
+    "romaji": "yachuu wa ie de benkyou shi ta"
   },
   "jlpt-n3-大した-2215": {
-    "kana": "たいした を おぼえる",
-    "romaji": "taishita o oboeru"
+    "kana": "たいした な しりょう を さき に かくにん し た",
+    "romaji": "taishita na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n3-大家-2044": {
-    "kana": "おおや を おぼえる",
-    "romaji": "ooya o oboeru"
+    "kana": "おおや に みち を たずね た",
+    "romaji": "ooya ni michi o tazune ta"
   },
   "jlpt-n3-大抵-2150": {
-    "kana": "たいてい を おぼえる",
-    "romaji": "taitei o oboeru"
+    "kana": "たいてい この みせ に くる",
+    "romaji": "taitei kono mise ni kuru"
   },
   "jlpt-n3-大統領-2367": {
-    "kana": "だいとうりょう を おぼえる",
-    "romaji": "daitouryou o oboeru"
+    "kana": "その けいけん から だいとうりょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara daitouryou no taisetsu sa o shi ta"
   },
   "jlpt-n3-夫婦-2371": {
-    "kana": "ふうふ を おぼえる",
-    "romaji": "fuufu o oboeru"
+    "kana": "この もんだい に わ ふうふ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fuufu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-契約-2178": {
-    "kana": "けいやく を おぼえる",
-    "romaji": "keiyaku o oboeru"
+    "kana": "その かんがえ に わ つよく けいやく し た",
+    "romaji": "sono kangae ni wa tsuyoku keiyaku shi ta"
   },
   "jlpt-n3-奥-2102": {
-    "kana": "おく を おぼえる",
-    "romaji": "oku o oboeru"
+    "kana": "その けいけん から おく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara oku no taisetsu sa o shi ta"
   },
   "jlpt-n3-姉妹-2243": {
-    "kana": "しまい を おぼえる",
-    "romaji": "shimai o oboeru"
+    "kana": "かいぎ で しまい について はなしあっ た",
+    "romaji": "kaigi de shimai nitsuite hanashia ta"
   },
   "jlpt-n3-嫁-2072": {
-    "kana": "よめ を おぼえる",
-    "romaji": "yome o oboeru"
+    "kana": "じゅぎょう で よめ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yome o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-存在-2362": {
-    "kana": "そんざい を おぼえる",
-    "romaji": "sonzai o oboeru"
+    "kana": "その けいけん から そんざい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sonzai no taisetsu sa o shi ta"
   },
   "jlpt-n3-学習-2245": {
-    "kana": "がくしゅう を おぼえる",
-    "romaji": "gakushuu o oboeru"
+    "kana": "この もんだい に わ がくしゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gakushuu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-学者-2300": {
-    "kana": "がくしゃ を おぼえる",
-    "romaji": "gakusha o oboeru"
+    "kana": "この もんだい に わ がくしゃ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gakusha ga fukaku kankei shi te iru"
   },
   "jlpt-n3-孫-2120": {
-    "kana": "まご を おぼえる",
-    "romaji": "mago o oboeru"
+    "kana": "その けいけん から まご の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mago no taisetsu sa o shi ta"
   },
   "jlpt-n3-宅-2350": {
-    "kana": "たく を おぼえる",
-    "romaji": "taku o oboeru"
+    "kana": "たく で ともだち を まっ た",
+    "romaji": "taku de tomodachi o ma ta"
   },
   "jlpt-n3-完全-2038": {
-    "kana": "かんぜん を おぼえる",
-    "romaji": "kanzen o oboeru"
+    "kana": "かいぎ で かんぜん について はなしあっ た",
+    "romaji": "kaigi de kanzen nitsuite hanashia ta"
   },
   "jlpt-n3-定期-2290": {
-    "kana": "ていき を おぼえる",
-    "romaji": "teiki o oboeru"
+    "kana": "この もんだい に わ ていき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa teiki ga fukaku kankei shi te iru"
   },
   "jlpt-n3-実は-2186": {
-    "kana": "じつは を おぼえる",
-    "romaji": "jitsuha o oboeru"
+    "kana": "その けいけん から じつは の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jitsuha no taisetsu sa o shi ta"
   },
   "jlpt-n3-実施-2390": {
-    "kana": "じっし を おぼえる",
-    "romaji": "jisshi o oboeru"
+    "kana": "かいぎ で じっし について はなしあっ た",
+    "romaji": "kaigi de jisshi nitsuite hanashia ta"
   },
   "jlpt-n3-実行-2543": {
-    "kana": "じっこう を おぼえる",
-    "romaji": "jikkou o oboeru"
+    "kana": "かいぎ で じっこう について はなしあっ た",
+    "romaji": "kaigi de jikkou nitsuite hanashia ta"
   },
   "jlpt-n3-実際-2526": {
-    "kana": "じっさい を おぼえる",
-    "romaji": "jissai o oboeru"
+    "kana": "その けいけん から じっさい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jissai no taisetsu sa o shi ta"
   },
   "jlpt-n3-実験-2033": {
-    "kana": "じっけん を おぼえる",
-    "romaji": "jikken o oboeru"
+    "kana": "じゅぎょう で じっけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jikken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-家事-2089": {
-    "kana": "かじ を おぼえる",
-    "romaji": "kaji o oboeru"
+    "kana": "じゅぎょう で かじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kaji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-家具-2039": {
-    "kana": "かぐ を おぼえる",
-    "romaji": "kagu o oboeru"
+    "kana": "じゅぎょう で かぐ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kagu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-家賃-2188": {
-    "kana": "やちん を おぼえる",
-    "romaji": "yachin o oboeru"
+    "kana": "かいぎ で やちん について はなしあっ た",
+    "romaji": "kaigi de yachin nitsuite hanashia ta"
   },
   "jlpt-n3-容易-2024": {
-    "kana": "ようい を おぼえる",
-    "romaji": "youi o oboeru"
+    "kana": "じゅぎょう で ようい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de youi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-宿-2546": {
-    "kana": "やど を おぼえる",
-    "romaji": "yado o oboeru"
+    "kana": "その けいけん から やど の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yado no taisetsu sa o shi ta"
   },
   "jlpt-n3-対する-2485": {
-    "kana": "たいする を おぼえる",
-    "romaji": "taisuru o oboeru"
+    "kana": "しっぱい し て も もういちど たいする",
+    "romaji": "shippai shi te mo mouichido taisuru"
   },
   "jlpt-n3-対象-2341": {
-    "kana": "たいしょう を おぼえる",
-    "romaji": "taishou o oboeru"
+    "kana": "つくえ の うえ に たいしょう を おい た",
+    "romaji": "tsukue no ue ni taishou o oi ta"
   },
   "jlpt-n3-尊敬-2035": {
-    "kana": "そんけい を おぼえる",
-    "romaji": "sonkei o oboeru"
+    "kana": "その けいけん から そんけい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sonkei no taisetsu sa o shi ta"
   },
   "jlpt-n3-小包-2274": {
-    "kana": "こづつみ を おぼえる",
-    "romaji": "kozutsumi o oboeru"
+    "kana": "かいぎ で こづつみ について はなしあっ た",
+    "romaji": "kaigi de kozutsumi nitsuite hanashia ta"
   },
   "jlpt-n3-小麦-2126": {
-    "kana": "こむぎ を おぼえる",
-    "romaji": "komugi o oboeru"
+    "kana": "じゅぎょう で こむぎ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de komugi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-少しも-2448": {
-    "kana": "すこしも を おぼえる",
-    "romaji": "sukoshimo o oboeru"
+    "kana": "こたえ わ すこし も です",
+    "romaji": "kotae wa sukoshi mo desu"
   },
   "jlpt-n3-少年-1968": {
-    "kana": "しょうねん を おぼえる",
-    "romaji": "shounen o oboeru"
+    "kana": "この もんだい に わ しょうねん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shounen ga fukaku kankei shi te iru"
   },
   "jlpt-n3-尤も-2122": {
-    "kana": "もっとも を おぼえる",
-    "romaji": "mottomo o oboeru"
+    "kana": "もっとも え まっすぐ すすん だ",
+    "romaji": "mottomo e massugu susun da"
   },
   "jlpt-n3-就く-2385": {
-    "kana": "つく を おぼえる",
-    "romaji": "tsuku o oboeru"
+    "kana": "ともだち に にもつ を つく",
+    "romaji": "tomodachi ni nimotsu o tsuku"
   },
   "jlpt-n3-尻-2164": {
-    "kana": "しり を おぼえる",
-    "romaji": "shiri o oboeru"
+    "kana": "しり え まっすぐ すすん だ",
+    "romaji": "shiri e massugu susun da"
   },
   "jlpt-n3-局-1978": {
-    "kana": "きょく を おぼえる",
-    "romaji": "kyoku o oboeru"
+    "kana": "この もんだい に わ きょく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyoku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-居る-2086": {
-    "kana": "いる を おぼえる",
-    "romaji": "iru o oboeru"
+    "kana": "しずか な まち に へんか が いる",
+    "romaji": "shizuka na machi ni henka ga iru"
   },
   "jlpt-n3-居間-2330": {
-    "kana": "いま を おぼえる",
-    "romaji": "ima o oboeru"
+    "kana": "しゅうまつ に いま え いっ た",
+    "romaji": "shuumatsu ni ima e i ta"
   },
   "jlpt-n3-岩-2129": {
-    "kana": "いわ を おぼえる",
-    "romaji": "iwa o oboeru"
+    "kana": "じゅぎょう で いわ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de iwa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-川-2236": {
-    "kana": "かわ を おぼえる",
-    "romaji": "kawa o oboeru"
+    "kana": "その けいけん から かわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kawa no taisetsu sa o shi ta"
   },
   "jlpt-n3-工場-2194": {
-    "kana": "こうじょう を おぼえる",
-    "romaji": "koujou o oboeru"
+    "kana": "その けいけん から こうじょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koujou no taisetsu sa o shi ta"
   },
   "jlpt-n3-巨大-2519": {
-    "kana": "きょだい を おぼえる",
-    "romaji": "kyodai o oboeru"
+    "kana": "かいぎ で きょだい について はなしあっ た",
+    "romaji": "kaigi de kyodai nitsuite hanashia ta"
   },
   "jlpt-n3-市場-2411": {
-    "kana": "しじょう を おぼえる",
-    "romaji": "shijou o oboeru"
+    "kana": "かいぎ で しじょう について はなしあっ た",
+    "romaji": "kaigi de shijou nitsuite hanashia ta"
   },
   "jlpt-n3-常に-2139": {
-    "kana": "つねに を おぼえる",
-    "romaji": "tsuneni o oboeru"
+    "kana": "その けいけん から つねに の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tsuneni no taisetsu sa o shi ta"
   },
   "jlpt-n3-幅-2323": {
-    "kana": "はば を おぼえる",
-    "romaji": "haba o oboeru"
+    "kana": "じゅぎょう で はば を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de haba o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-幕-1944": {
-    "kana": "まく を おぼえる",
-    "romaji": "maku o oboeru"
+    "kana": "かいぎ で まく について はなしあっ た",
+    "romaji": "kaigi de maku nitsuite hanashia ta"
   },
   "jlpt-n3-平和-1985": {
-    "kana": "へいわ を おぼえる",
-    "romaji": "heiwa o oboeru"
+    "kana": "かいぎ で へいわ について はなしあっ た",
+    "romaji": "kaigi de heiwa nitsuite hanashia ta"
   },
   "jlpt-n3-平均-1952": {
-    "kana": "へいきん を おぼえる",
-    "romaji": "heikin o oboeru"
+    "kana": "かいぎ で へいきん について はなしあっ た",
+    "romaji": "kaigi de heikin nitsuite hanashia ta"
   },
   "jlpt-n3-年中-2244": {
-    "kana": "ねんじゅう を おぼえる",
-    "romaji": "nenjuu o oboeru"
+    "kana": "ねんじゅう わ いえ で べんきょう し た",
+    "romaji": "nenjuu wa ie de benkyou shi ta"
   },
   "jlpt-n3-年代-2293": {
-    "kana": "ねんだい を おぼえる",
-    "romaji": "nendai o oboeru"
+    "kana": "この もんだい に わ ねんだい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nendai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-年齢-2391": {
-    "kana": "ねんれい を おぼえる",
-    "romaji": "nenrei o oboeru"
+    "kana": "じゅぎょう で ねんれい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nenrei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-幸い-2207": {
-    "kana": "さいわい を おぼえる",
-    "romaji": "saiwai o oboeru"
+    "kana": "この もんだい に わ さいわい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saiwai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-幸せ-2168": {
-    "kana": "しあわせ を おぼえる",
-    "romaji": "shiawase o oboeru"
+    "kana": "じゅぎょう で しあわせ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shiawase o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-幸福-2500": {
-    "kana": "こうふく を おぼえる",
-    "romaji": "koufuku o oboeru"
+    "kana": "かいぎ で こうふく について はなしあっ た",
+    "romaji": "kaigi de koufuku nitsuite hanashia ta"
   },
   "jlpt-n3-幸運-2460": {
-    "kana": "こううん を おぼえる",
-    "romaji": "kouun o oboeru"
+    "kana": "その けいけん から こううん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kouun no taisetsu sa o shi ta"
   },
   "jlpt-n3-幾ら-2304": {
-    "kana": "いくら を おぼえる",
-    "romaji": "ikura o oboeru"
+    "kana": "その けいけん から いくら の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ikura no taisetsu sa o shi ta"
   },
   "jlpt-n3-床-2361": {
-    "kana": "ゆか を おぼえる",
-    "romaji": "yuka o oboeru"
+    "kana": "この もんだい に わ ゆか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yuka ga fukaku kankei shi te iru"
   },
   "jlpt-n3-底-2156": {
-    "kana": "そこ を おぼえる",
-    "romaji": "soko o oboeru"
+    "kana": "そこ え まっすぐ すすん だ",
+    "romaji": "soko e massugu susun da"
   },
   "jlpt-n3-建築-2471": {
-    "kana": "けんちく を おぼえる",
-    "romaji": "kenchiku o oboeru"
+    "kana": "この もんだい に わ けんちく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kenchiku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-建設-2014": {
-    "kana": "けんせつ を おぼえる",
-    "romaji": "kensetsu o oboeru"
+    "kana": "この もんだい に わ けんせつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kensetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-弁当-1992": {
-    "kana": "べんとう を おぼえる",
-    "romaji": "bentou o oboeru"
+    "kana": "ひる に べんとう を すこし たべ た",
+    "romaji": "hiru ni bentou o sukoshi tabe ta"
   },
   "jlpt-n3-式-2453": {
-    "kana": "しき を おぼえる",
-    "romaji": "shiki o oboeru"
+    "kana": "この もんだい に わ しき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shiki ga fukaku kankei shi te iru"
   },
   "jlpt-n3-引っ張る-2360": {
-    "kana": "ひっぱる を おぼえる",
-    "romaji": "hipparu o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に ひっぱる",
+    "romaji": "dougu o tsuka te teinei ni hipparu"
   },
   "jlpt-n3-引用-2504": {
-    "kana": "いんよう を おぼえる",
-    "romaji": "in'you o oboeru"
+    "kana": "その けいけん から いんよう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara in'you no taisetsu sa o shi ta"
   },
   "jlpt-n3-張る-2533": {
-    "kana": "はる を おぼえる",
-    "romaji": "haru o oboeru"
+    "kana": "せんせい の まえ で おちつい て はる",
+    "romaji": "sensei no mae de ochitsui te haru"
   },
   "jlpt-n3-当時-2255": {
-    "kana": "とうじ を おぼえる",
-    "romaji": "touji o oboeru"
+    "kana": "かいぎ で とうじ について はなしあっ た",
+    "romaji": "kaigi de touji nitsuite hanashia ta"
   },
   "jlpt-n3-影響-2542": {
-    "kana": "えいきょう を おぼえる",
-    "romaji": "eikyou o oboeru"
+    "kana": "この もんだい に わ えいきょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa eikyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-役-2303": {
-    "kana": "やく を おぼえる",
-    "romaji": "yaku o oboeru"
+    "kana": "かいぎ で やく について はなしあっ た",
+    "romaji": "kaigi de yaku nitsuite hanashia ta"
   },
   "jlpt-n3-彼等-2218": {
-    "kana": "かれら を おぼえる",
-    "romaji": "karera o oboeru"
+    "kana": "かれら この みせ に くる",
+    "romaji": "karera kono mise ni kuru"
   },
   "jlpt-n3-後-2322": {
-    "kana": "ご を おぼえる",
-    "romaji": "go o oboeru"
+    "kana": "じゅぎょう で のち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nochi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-御-2316": {
-    "kana": "お を おぼえる",
-    "romaji": "o o oboeru"
+    "kana": "その けいけん から お の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara o no taisetsu sa o shi ta"
   },
   "jlpt-n3-微妙-2332": {
-    "kana": "びみょう を おぼえる",
-    "romaji": "bimyou o oboeru"
+    "kana": "その けいけん から びみょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bimyou no taisetsu sa o shi ta"
   },
   "jlpt-n3-徹夜-2334": {
-    "kana": "てつや を おぼえる",
-    "romaji": "tetsuya o oboeru"
+    "kana": "てつや わ いえ で べんきょう し た",
+    "romaji": "tetsuya wa ie de benkyou shi ta"
   },
   "jlpt-n3-徹底-2034": {
-    "kana": "てってい を おぼえる",
-    "romaji": "tettei o oboeru"
+    "kana": "この もんだい に わ てってい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tettei ga fukaku kankei shi te iru"
   },
   "jlpt-n3-心臓-2037": {
-    "kana": "しんぞう を おぼえる",
-    "romaji": "shinzou o oboeru"
+    "kana": "しんぞう が すこし いたい",
+    "romaji": "shinzou ga sukoshi itai"
   },
   "jlpt-n3-心配-2125": {
-    "kana": "しんぱい を おぼえる",
-    "romaji": "shinpai o oboeru"
+    "kana": "この もんだい に わ しんぱい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shinpai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-必死-2099": {
-    "kana": "ひっし を おぼえる",
-    "romaji": "hisshi o oboeru"
+    "kana": "じゅぎょう で ひっし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hisshi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-応じる-2349": {
-    "kana": "おうじる を おぼえる",
-    "romaji": "oujiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て おうじる",
+    "romaji": "sensei no mae de ochitsui te oujiru"
   },
   "jlpt-n3-思い出-2261": {
-    "kana": "おもいで を おぼえる",
-    "romaji": "omoide o oboeru"
+    "kana": "かいぎ で おもいで について はなしあっ た",
+    "romaji": "kaigi de omoide nitsuite hanashia ta"
   },
   "jlpt-n3-怠ける-2308": {
-    "kana": "なまける を おぼえる",
-    "romaji": "namakeru o oboeru"
+    "kana": "しっぱい し て も もういちど なまける",
+    "romaji": "shippai shi te mo mouichido namakeru"
   },
   "jlpt-n3-急激-2267": {
-    "kana": "きゅうげき を おぼえる",
-    "romaji": "kyuugeki o oboeru"
+    "kana": "この もんだい に わ きゅうげき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyuugeki ga fukaku kankei shi te iru"
   },
   "jlpt-n3-性-2302": {
-    "kana": "せい を おぼえる",
-    "romaji": "sei o oboeru"
+    "kana": "その けいけん から せい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sei no taisetsu sa o shi ta"
   },
   "jlpt-n3-恋人-1979": {
-    "kana": "こいびと を おぼえる",
-    "romaji": "koibito o oboeru"
+    "kana": "かいぎ で こいびと について はなしあっ た",
+    "romaji": "kaigi de koibito nitsuite hanashia ta"
   },
   "jlpt-n3-恐れる-2337": {
-    "kana": "おそれる を おぼえる",
-    "romaji": "osoreru o oboeru"
+    "kana": "せんせい の まえ で おちつい て おそれる",
+    "romaji": "sensei no mae de ochitsui te osoreru"
   },
   "jlpt-n3-恐ろしい-2158": {
-    "kana": "おそろしい を おぼえる",
-    "romaji": "osoroshii o oboeru"
+    "kana": "かいぎ で おそろしい について はなしあっ た",
+    "romaji": "kaigi de osoroshii nitsuite hanashia ta"
   },
   "jlpt-n3-息-2224": {
-    "kana": "いき を おぼえる",
-    "romaji": "iki o oboeru"
+    "kana": "じゅぎょう で いき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de iki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-患者-2318": {
-    "kana": "かんじゃ を おぼえる",
-    "romaji": "kanja o oboeru"
+    "kana": "じゅぎょう で かんじゃ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanja o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-悪口-2222": {
-    "kana": "わるぐち を おぼえる",
-    "romaji": "waruguchi o oboeru"
+    "kana": "かいぎ で わるぐち について はなしあっ た",
+    "romaji": "kaigi de waruguchi nitsuite hanashia ta"
   },
   "jlpt-n3-悲しむ-2417": {
-    "kana": "かなしむ を おぼえる",
-    "romaji": "kanashimu o oboeru"
+    "kana": "ひつよう な とき に すぐ かなしむ",
+    "romaji": "hitsuyou na toki ni sugu kanashimu"
   },
   "jlpt-n3-情報-2106": {
-    "kana": "じょうほう を おぼえる",
-    "romaji": "jouhou o oboeru"
+    "kana": "その けいけん から じょうほう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jouhou no taisetsu sa o shi ta"
   },
   "jlpt-n3-想像-1949": {
-    "kana": "そうぞう を おぼえる",
-    "romaji": "souzou o oboeru"
+    "kana": "この もんだい に わ そうぞう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa souzou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-意外-2238": {
-    "kana": "いがい を おぼえる",
-    "romaji": "igai o oboeru"
+    "kana": "かいぎ で いがい について はなしあっ た",
+    "romaji": "kaigi de igai nitsuite hanashia ta"
   },
   "jlpt-n3-意思-1956": {
-    "kana": "いし を おぼえる",
-    "romaji": "ishi o oboeru"
+    "kana": "じゅぎょう で いし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ishi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-愛-2240": {
-    "kana": "あい を おぼえる",
-    "romaji": "ai o oboeru"
+    "kana": "かいぎ で あい について はなしあっ た",
+    "romaji": "kaigi de ai nitsuite hanashia ta"
   },
   "jlpt-n3-愛する-2416": {
-    "kana": "あいする を おぼえる",
-    "romaji": "aisuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て あいする",
+    "romaji": "sensei no mae de ochitsui te aisuru"
   },
   "jlpt-n3-愛情-2499": {
-    "kana": "あいじょう を おぼえる",
-    "romaji": "aijou o oboeru"
+    "kana": "その けいけん から あいじょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara aijou no taisetsu sa o shi ta"
   },
   "jlpt-n3-感じ-2333": {
-    "kana": "かんじ を おぼえる",
-    "romaji": "kanji o oboeru"
+    "kana": "この もんだい に わ かんじ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanji ga fukaku kankei shi te iru"
   },
   "jlpt-n3-感心-2429": {
-    "kana": "かんしん を おぼえる",
-    "romaji": "kanshin o oboeru"
+    "kana": "その けいけん から かんしん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kanshin no taisetsu sa o shi ta"
   },
   "jlpt-n3-成る-2171": {
-    "kana": "なる を おぼえる",
-    "romaji": "naru o oboeru"
+    "kana": "しずか な まち に へんか が なる",
+    "romaji": "shizuka na machi ni henka ga naru"
   },
   "jlpt-n3-我慢-2155": {
-    "kana": "がまん を おぼえる",
-    "romaji": "gaman o oboeru"
+    "kana": "じゅぎょう で がまん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gaman o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-戦い-2351": {
-    "kana": "たたかい を おぼえる",
-    "romaji": "tatakai o oboeru"
+    "kana": "この もんだい に わ たたかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tatakai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-戻す-2478": {
-    "kana": "もどす を おぼえる",
-    "romaji": "modosu o oboeru"
+    "kana": "じゅぎょう の あと えき え もどす",
+    "romaji": "jugyou no ato eki e modosu"
   },
   "jlpt-n3-手間-1994": {
-    "kana": "てま を おぼえる",
-    "romaji": "tema o oboeru"
+    "kana": "かいぎ で てま について はなしあっ た",
+    "romaji": "kaigi de tema nitsuite hanashia ta"
   },
   "jlpt-n3-才能-2041": {
-    "kana": "さいのう を おぼえる",
-    "romaji": "sainou o oboeru"
+    "kana": "じゅぎょう で さいのう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sainou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-批判-1973": {
-    "kana": "ひはん を おぼえる",
-    "romaji": "hihan o oboeru"
+    "kana": "その けいけん から ひはん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hihan no taisetsu sa o shi ta"
   },
   "jlpt-n3-批評-1997": {
-    "kana": "ひひょう を おぼえる",
-    "romaji": "hihyou o oboeru"
+    "kana": "この もんだい に わ ひひょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hihyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-承認-2075": {
-    "kana": "しょうにん を おぼえる",
-    "romaji": "shounin o oboeru"
+    "kana": "その かんがえ に わ つよく しょうにん し た",
+    "romaji": "sono kangae ni wa tsuyoku shounin shi ta"
   },
   "jlpt-n3-技師-2147": {
-    "kana": "ぎし を おぼえる",
-    "romaji": "gishi o oboeru"
+    "kana": "この もんだい に わ ぎし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gishi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-抜く-2257": {
-    "kana": "ぬく を おぼえる",
-    "romaji": "nuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て ぬく",
+    "romaji": "sensei no mae de ochitsui te nuku"
   },
   "jlpt-n3-抱える-2482": {
-    "kana": "かかえる を おぼえる",
-    "romaji": "kakaeru o oboeru"
+    "kana": "ともだち に にもつ を かかえる",
+    "romaji": "tomodachi ni nimotsu o kakaeru"
   },
   "jlpt-n3-抵抗-2226": {
-    "kana": "ていこう を おぼえる",
-    "romaji": "teikou o oboeru"
+    "kana": "かいぎ で ていこう について はなしあっ た",
+    "romaji": "kaigi de teikou nitsuite hanashia ta"
   },
   "jlpt-n3-担当-2011": {
-    "kana": "たんとう を おぼえる",
-    "romaji": "tantou o oboeru"
+    "kana": "じゅぎょう で たんとう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tantou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-拍手-2419": {
-    "kana": "はくしゅ を おぼえる",
-    "romaji": "hakushu o oboeru"
+    "kana": "かいぎ で はくしゅ について はなしあっ た",
+    "romaji": "kaigi de hakushu nitsuite hanashia ta"
   },
   "jlpt-n3-招く-2209": {
-    "kana": "まねく を おぼえる",
-    "romaji": "maneku o oboeru"
+    "kana": "ひつよう な とき に すぐ まねく",
+    "romaji": "hitsuyou na toki ni sugu maneku"
   },
   "jlpt-n3-指す-2047": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て さす",
+    "romaji": "sensei no mae de ochitsui te sasu"
   },
   "jlpt-n3-振る-2461": {
-    "kana": "ふる を おぼえる",
-    "romaji": "furu o oboeru"
+    "kana": "ひつよう な とき に すぐ ふる",
+    "romaji": "hitsuyou na toki ni sugu furu"
   },
   "jlpt-n3-推薦-2312": {
-    "kana": "すいせん を おぼえる",
-    "romaji": "suisen o oboeru"
+    "kana": "その けいけん から すいせん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara suisen no taisetsu sa o shi ta"
   },
   "jlpt-n3-掲示-2474": {
-    "kana": "けいじ を おぼえる",
-    "romaji": "keiji o oboeru"
+    "kana": "かいぎ で けいじ について はなしあっ た",
+    "romaji": "kaigi de keiji nitsuite hanashia ta"
   },
   "jlpt-n3-換える-2234": {
-    "kana": "かえる を おぼえる",
-    "romaji": "kaeru o oboeru"
+    "kana": "ひつよう な とき に すぐ かえる",
+    "romaji": "hitsuyou na toki ni sugu kaeru"
   },
   "jlpt-n3-握る-2268": {
-    "kana": "にぎる を おぼえる",
-    "romaji": "nigiru o oboeru"
+    "kana": "しっぱい し て も もういちど にぎる",
+    "romaji": "shippai shi te mo mouichido nigiru"
   },
   "jlpt-n3-援助-2193": {
-    "kana": "えんじょ を おぼえる",
-    "romaji": "enjo o oboeru"
+    "kana": "かいぎ で えんじょ について はなしあっ た",
+    "romaji": "kaigi de enjo nitsuite hanashia ta"
   },
   "jlpt-n3-損-2456": {
-    "kana": "そん を おぼえる",
-    "romaji": "son o oboeru"
+    "kana": "じゅぎょう で そん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de son o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-撃つ-2547": {
-    "kana": "うつ を おぼえる",
-    "romaji": "utsu o oboeru"
+    "kana": "しっぱい し て も もういちど うつ",
+    "romaji": "shippai shi te mo mouichido utsu"
   },
   "jlpt-n3-支える-2389": {
-    "kana": "ささえる を おぼえる",
-    "romaji": "sasaeru o oboeru"
+    "kana": "ひつよう な とき に すぐ ささえる",
+    "romaji": "hitsuyou na toki ni sugu sasaeru"
   },
   "jlpt-n3-支払-2214": {
-    "kana": "しはらい を おぼえる",
-    "romaji": "shiharai o oboeru"
+    "kana": "じゅぎょう で しはらい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shiharai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-教師-2123": {
-    "kana": "きょうし を おぼえる",
-    "romaji": "kyoushi o oboeru"
+    "kana": "きょうし に みち を たずね た",
+    "romaji": "kyoushi ni michi o tazune ta"
   },
   "jlpt-n3-教授-2095": {
-    "kana": "きょうじゅ を おぼえる",
-    "romaji": "kyouju o oboeru"
+    "kana": "その けいけん から きょうじゅ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyouju no taisetsu sa o shi ta"
   },
   "jlpt-n3-教科書-2173": {
-    "kana": "きょうかしょ を おぼえる",
-    "romaji": "kyoukasho o oboeru"
+    "kana": "じゅぎょう で きょうかしょ を こえ に だし て よん だ",
+    "romaji": "jugyou de kyoukasho o koe ni dashi te yon da"
   },
   "jlpt-n3-敬意-2314": {
-    "kana": "けいい を おぼえる",
-    "romaji": "keii o oboeru"
+    "kana": "この もんだい に わ けいい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa keii ga fukaku kankei shi te iru"
   },
   "jlpt-n3-数える-2266": {
-    "kana": "かぞえる を おぼえる",
-    "romaji": "kazoeru o oboeru"
+    "kana": "ひつよう な とき に すぐ かぞえる",
+    "romaji": "hitsuyou na toki ni sugu kazoeru"
   },
   "jlpt-n3-文-2358": {
-    "kana": "ぶん を おぼえる",
-    "romaji": "bun o oboeru"
+    "kana": "じゅぎょう で ぶん を こえ に だし て よん だ",
+    "romaji": "jugyou de bun o koe ni dashi te yon da"
   },
   "jlpt-n3-文句-2104": {
-    "kana": "もんく を おぼえる",
-    "romaji": "monku o oboeru"
+    "kana": "この もんだい に わ もんく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa monku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-文字-2457": {
-    "kana": "もじ を おぼえる",
-    "romaji": "moji o oboeru"
+    "kana": "じゅぎょう で もじ を こえ に だし て よん だ",
+    "romaji": "jugyou de moji o koe ni dashi te yon da"
   },
   "jlpt-n3-文明-2029": {
-    "kana": "ぶんめい を おぼえる",
-    "romaji": "bunmei o oboeru"
+    "kana": "この もんだい に わ ぶんめい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bunmei ga fukaku kankei shi te iru"
   },
   "jlpt-n3-料金-2364": {
-    "kana": "りょうきん を おぼえる",
-    "romaji": "ryoukin o oboeru"
+    "kana": "その けいけん から りょうきん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ryoukin no taisetsu sa o shi ta"
   },
   "jlpt-n3-断る-2530": {
-    "kana": "ことわる を おぼえる",
-    "romaji": "kotowaru o oboeru"
+    "kana": "しっぱい し て も もういちど ことわる",
+    "romaji": "shippai shi te mo mouichido kotowaru"
   },
   "jlpt-n3-方-2060": {
-    "kana": "かた を おぼえる",
-    "romaji": "kata o oboeru"
+    "kana": "かた え まっすぐ すすん だ",
+    "romaji": "kata e massugu susun da"
   },
   "jlpt-n3-方法-2084": {
-    "kana": "ほうほう を おぼえる",
-    "romaji": "houhou o oboeru"
+    "kana": "かいぎ で ほうほう について はなしあっ た",
+    "romaji": "kaigi de houhou nitsuite hanashia ta"
   },
   "jlpt-n3-日中-2388": {
-    "kana": "にち ちゅう を おぼえる",
-    "romaji": "nichi chuu o oboeru"
+    "kana": "じゅぎょう で ひ ちゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hi chuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-日付-2112": {
-    "kana": "ひづけ を おぼえる",
-    "romaji": "hizuke o oboeru"
+    "kana": "その けいけん から ひづけ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hizuke no taisetsu sa o shi ta"
   },
   "jlpt-n3-日曜-2434": {
-    "kana": "にちよう を おぼえる",
-    "romaji": "nichiyou o oboeru"
+    "kana": "にちよう わ いえ で べんきょう し た",
+    "romaji": "nichiyou wa ie de benkyou shi ta"
   },
   "jlpt-n3-日本-2375": {
-    "kana": "にっぽん を おぼえる",
-    "romaji": "nippon o oboeru"
+    "kana": "その けいけん から にっぽん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nippon no taisetsu sa o shi ta"
   },
   "jlpt-n3-旧-2438": {
-    "kana": "きゅう を おぼえる",
-    "romaji": "kyuu o oboeru"
+    "kana": "その けいけん から きゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kyuu no taisetsu sa o shi ta"
   },
   "jlpt-n3-明かり-2447": {
-    "kana": "あかり を おぼえる",
-    "romaji": "akari o oboeru"
+    "kana": "あかり の おと で あさ に きづい た",
+    "romaji": "akari no oto de asa ni kizui ta"
   },
   "jlpt-n3-明らか-2260": {
-    "kana": "あきらか を おぼえる",
-    "romaji": "akiraka o oboeru"
+    "kana": "じゅぎょう で あきらか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de akiraka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-昨-2462": {
-    "kana": "さく を おぼえる",
-    "romaji": "saku o oboeru"
+    "kana": "さく わ いえ で べんきょう し た",
+    "romaji": "saku wa ie de benkyou shi ta"
   },
   "jlpt-n3-昼食-1991": {
-    "kana": "ちゅうしょく を おぼえる",
-    "romaji": "chuushoku o oboeru"
+    "kana": "ひる に ちゅうしょく を すこし たべ た",
+    "romaji": "hiru ni chuushoku o sukoshi tabe ta"
   },
   "jlpt-n3-時-2253": {
-    "kana": "とき を おぼえる",
-    "romaji": "toki o oboeru"
+    "kana": "じゅぎょう で とき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de toki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-暖かい-2247": {
-    "kana": "あたたかい を おぼえる",
-    "romaji": "atatakai o oboeru"
+    "kana": "きょう わ くうき が とても あたたかい",
+    "romaji": "kyou wa kuuki ga totemo atatakai"
   },
   "jlpt-n3-暮らし-2083": {
-    "kana": "くらし を おぼえる",
-    "romaji": "kurashi o oboeru"
+    "kana": "じゅぎょう で くらし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kurashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-暮らす-2219": {
-    "kana": "くらす を おぼえる",
-    "romaji": "kurasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て くらす",
+    "romaji": "sensei no mae de ochitsui te kurasu"
   },
   "jlpt-n3-曜日-2005": {
-    "kana": "ようび を おぼえる",
-    "romaji": "youbi o oboeru"
+    "kana": "ようび に ともだち と あう",
+    "romaji": "youbi ni tomodachi to au"
   },
   "jlpt-n3-更に-2008": {
-    "kana": "さらに を おぼえる",
-    "romaji": "sarani o oboeru"
+    "kana": "じゅぎょう で さらに を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sarani o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-書斎-2096": {
-    "kana": "しょさい を おぼえる",
-    "romaji": "shosai o oboeru"
+    "kana": "かいぎ で しょさい について はなしあっ た",
+    "romaji": "kaigi de shosai nitsuite hanashia ta"
   },
   "jlpt-n3-書物-2286": {
-    "kana": "しょもつ を おぼえる",
-    "romaji": "shomotsu o oboeru"
+    "kana": "この もんだい に わ しょもつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shomotsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-書類-2169": {
-    "kana": "しょるい を おぼえる",
-    "romaji": "shorui o oboeru"
+    "kana": "この もんだい に わ しょるい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shorui ga fukaku kankei shi te iru"
   },
   "jlpt-n3-月曜-2130": {
-    "kana": "げつよう を おぼえる",
-    "romaji": "getsuyou o oboeru"
+    "kana": "げつよう わ いえ で べんきょう し た",
+    "romaji": "getsuyou wa ie de benkyou shi ta"
   },
   "jlpt-n3-有利-2503": {
-    "kana": "ゆうり を おぼえる",
-    "romaji": "yuuri o oboeru"
+    "kana": "かいぎ で ゆうり について はなしあっ た",
+    "romaji": "kaigi de yuuri nitsuite hanashia ta"
   },
   "jlpt-n3-有効-2042": {
-    "kana": "ゆうこう を おぼえる",
-    "romaji": "yuukou o oboeru"
+    "kana": "じゅぎょう で ゆうこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuukou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-有能-2418": {
-    "kana": "ゆうのう を おぼえる",
-    "romaji": "yuunou o oboeru"
+    "kana": "この もんだい に わ ゆうのう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yuunou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-服装-2535": {
-    "kana": "ふくそう を おぼえる",
-    "romaji": "fukusou o oboeru"
+    "kana": "かいぎ で ふくそう について はなしあっ た",
+    "romaji": "kaigi de fukusou nitsuite hanashia ta"
   },
   "jlpt-n3-望み-2283": {
-    "kana": "のぞみ を おぼえる",
-    "romaji": "nozomi o oboeru"
+    "kana": "かいぎ で のぞみ について はなしあっ た",
+    "romaji": "kaigi de nozomi nitsuite hanashia ta"
   },
   "jlpt-n3-期待-2549": {
-    "kana": "きたい を おぼえる",
-    "romaji": "kitai o oboeru"
+    "kana": "かいぎ で きたい について はなしあっ た",
+    "romaji": "kaigi de kitai nitsuite hanashia ta"
   },
   "jlpt-n3-木曜-2284": {
-    "kana": "もくよう を おぼえる",
-    "romaji": "mokuyou o oboeru"
+    "kana": "もくよう に ともだち と あう",
+    "romaji": "mokuyou ni tomodachi to au"
   },
   "jlpt-n3-未来-2263": {
-    "kana": "みらい を おぼえる",
-    "romaji": "mirai o oboeru"
+    "kana": "かいぎ で みらい について はなしあっ た",
+    "romaji": "kaigi de mirai nitsuite hanashia ta"
   },
   "jlpt-n3-本当-2399": {
-    "kana": "ほんとう を おぼえる",
-    "romaji": "hontou o oboeru"
+    "kana": "この もんだい に わ ほんとう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hontou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-束-2406": {
-    "kana": "たば を おぼえる",
-    "romaji": "taba o oboeru"
+    "kana": "かいぎ で たば について はなしあっ た",
+    "romaji": "kaigi de taba nitsuite hanashia ta"
   },
   "jlpt-n3-来-2262": {
-    "kana": "き を おぼえる",
-    "romaji": "ki o oboeru"
+    "kana": "き に ともだち と あう",
+    "romaji": "ki ni tomodachi to au"
   },
   "jlpt-n3-板-2000": {
-    "kana": "いた を おぼえる",
-    "romaji": "ita o oboeru"
+    "kana": "じゅぎょう で いた を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ita o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-栄養-2163": {
-    "kana": "えいよう を おぼえる",
-    "romaji": "eiyou o oboeru"
+    "kana": "じゅぎょう で えいよう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de eiyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-根-2465": {
-    "kana": "ね を おぼえる",
-    "romaji": "ne o oboeru"
+    "kana": "この もんだい に わ ね が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ne ga fukaku kankei shi te iru"
   },
   "jlpt-n3-桜-2505": {
-    "kana": "さくら を おぼえる",
-    "romaji": "sakura o oboeru"
+    "kana": "さくら の おと で あさ に きづい た",
+    "romaji": "sakura no oto de asa ni kizui ta"
   },
   "jlpt-n3-梅雨-2281": {
-    "kana": "つゆ を おぼえる",
-    "romaji": "tsuyu o oboeru"
+    "kana": "つゆ の おと で あさ に きづい た",
+    "romaji": "tsuyu no oto de asa ni kizui ta"
   },
   "jlpt-n3-棒-2007": {
-    "kana": "ぼう を おぼえる",
-    "romaji": "bou o oboeru"
+    "kana": "その けいけん から ぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara bou no taisetsu sa o shi ta"
   },
   "jlpt-n3-植物-2299": {
-    "kana": "しょくぶつ を おぼえる",
-    "romaji": "shokubutsu o oboeru"
+    "kana": "じゅぎょう で しょくぶつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shokubutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-様々-2021": {
-    "kana": "さまざま を おぼえる",
-    "romaji": "samazama o oboeru"
+    "kana": "この もんだい に わ さまざま が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa samazama ga fukaku kankei shi te iru"
   },
   "jlpt-n3-模様-2527": {
-    "kana": "もよう を おぼえる",
-    "romaji": "moyou o oboeru"
+    "kana": "かいぎ で もよう について はなしあっ た",
+    "romaji": "kaigi de moyou nitsuite hanashia ta"
   },
   "jlpt-n3-機械-2443": {
-    "kana": "きかい を おぼえる",
-    "romaji": "kikai o oboeru"
+    "kana": "その けいけん から きかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kikai no taisetsu sa o shi ta"
   },
   "jlpt-n3-機関-2477": {
-    "kana": "きかん を おぼえる",
-    "romaji": "kikan o oboeru"
+    "kana": "かいぎ で きかん について はなしあっ た",
+    "romaji": "kaigi de kikan nitsuite hanashia ta"
   },
   "jlpt-n3-欠ける-2023": {
-    "kana": "かける を おぼえる",
-    "romaji": "kakeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かける",
+    "romaji": "sensei no mae de ochitsui te kakeru"
   },
   "jlpt-n3-欠点-2397": {
-    "kana": "けってん を おぼえる",
-    "romaji": "ketten o oboeru"
+    "kana": "その けいけん から けってん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ketten no taisetsu sa o shi ta"
   },
   "jlpt-n3-次々-2073": {
-    "kana": "つぎつぎ を おぼえる",
-    "romaji": "tsugitsugi o oboeru"
+    "kana": "こたえ わ つぎつぎ です",
+    "romaji": "kotae wa tsugitsugi desu"
   },
   "jlpt-n3-次第-2087": {
-    "kana": "しだい を おぼえる",
-    "romaji": "shidai o oboeru"
+    "kana": "かいぎ で しだい について はなしあっ た",
+    "romaji": "kaigi de shidai nitsuite hanashia ta"
   },
   "jlpt-n3-歌手-2066": {
-    "kana": "かしゅ を おぼえる",
-    "romaji": "kashu o oboeru"
+    "kana": "その けいけん から かしゅ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kashu no taisetsu sa o shi ta"
   },
   "jlpt-n3-歓迎-1959": {
-    "kana": "かんげい を おぼえる",
-    "romaji": "kangei o oboeru"
+    "kana": "じゅぎょう で かんげい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kangei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-正-2294": {
-    "kana": "せい を おぼえる",
-    "romaji": "sei o oboeru"
+    "kana": "かいぎ で せい について はなしあっ た",
+    "romaji": "kaigi de sei nitsuite hanashia ta"
   },
   "jlpt-n3-正午-2425": {
-    "kana": "しょうご を おぼえる",
-    "romaji": "shougo o oboeru"
+    "kana": "しょうご に ともだち と あう",
+    "romaji": "shougo ni tomodachi to au"
   },
   "jlpt-n3-正式-2452": {
-    "kana": "せいしき を おぼえる",
-    "romaji": "seishiki o oboeru"
+    "kana": "じゅぎょう で せいしき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seishiki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-正確-2369": {
-    "kana": "せいかく を おぼえる",
-    "romaji": "seikaku o oboeru"
+    "kana": "その けいけん から せいかく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seikaku no taisetsu sa o shi ta"
   },
   "jlpt-n3-武器-2343": {
-    "kana": "ぶき を おぼえる",
-    "romaji": "buki o oboeru"
+    "kana": "かいぎ で ぶき について はなしあっ た",
+    "romaji": "kaigi de buki nitsuite hanashia ta"
   },
   "jlpt-n3-歩道-1948": {
-    "kana": "ほどう を おぼえる",
-    "romaji": "hodou o oboeru"
+    "kana": "かいぎ で ほどう について はなしあっ た",
+    "romaji": "kaigi de hodou nitsuite hanashia ta"
   },
   "jlpt-n3-母親-2376": {
-    "kana": "ははおや を おぼえる",
-    "romaji": "hahaoya o oboeru"
+    "kana": "ははおや に みち を たずね た",
+    "romaji": "hahaoya ni michi o tazune ta"
   },
   "jlpt-n3-比較-2177": {
-    "kana": "ひかく を おぼえる",
-    "romaji": "hikaku o oboeru"
+    "kana": "この もんだい に わ ひかく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hikaku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-毛布-2513": {
-    "kana": "もうふ を おぼえる",
-    "romaji": "moufu o oboeru"
+    "kana": "この もんだい に わ もうふ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moufu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-気の毒-2054": {
-    "kana": "きのどく を おぼえる",
-    "romaji": "kinodoku o oboeru"
+    "kana": "この もんだい に わ きのどく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kinodoku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-気付く-2179": {
-    "kana": "きづく を おぼえる",
-    "romaji": "kizuku o oboeru"
+    "kana": "しずか な まち に へんか が きづく",
+    "romaji": "shizuka na machi ni henka ga kizuku"
   },
   "jlpt-n3-気候-2157": {
-    "kana": "きこう を おぼえる",
-    "romaji": "kikou o oboeru"
+    "kana": "じゅぎょう で きこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kikou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-気味-2301": {
-    "kana": "きみ を おぼえる",
-    "romaji": "kimi o oboeru"
+    "kana": "きみ な ばしょ で しずか に やすん だ",
+    "romaji": "kimi na basho de shizuka ni yasun da"
   },
   "jlpt-n3-気温-2185": {
-    "kana": "きおん を おぼえる",
-    "romaji": "kion o oboeru"
+    "kana": "その けいけん から きおん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kion no taisetsu sa o shi ta"
   },
   "jlpt-n3-永久-2196": {
-    "kana": "えいきゅう を おぼえる",
-    "romaji": "eikyuu o oboeru"
+    "kana": "この もんだい に わ えいきゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa eikyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-求める-2432": {
-    "kana": "もとめる を おぼえる",
-    "romaji": "motomeru o oboeru"
+    "kana": "しっぱい し て も もういちど もとめる",
+    "romaji": "shippai shi te mo mouichido motomeru"
   },
   "jlpt-n3-決心-2498": {
-    "kana": "けっしん を おぼえる",
-    "romaji": "kesshin o oboeru"
+    "kana": "かいぎ で けっしん について はなしあっ た",
+    "romaji": "kaigi de kesshin nitsuite hanashia ta"
   },
   "jlpt-n3-沈む-2523": {
-    "kana": "しずむ を おぼえる",
-    "romaji": "shizumu o oboeru"
+    "kana": "せんせい の まえ で おちつい て しずむ",
+    "romaji": "sensei no mae de ochitsui te shizumu"
   },
   "jlpt-n3-河-2537": {
-    "kana": "かわ を おぼえる",
-    "romaji": "kawa o oboeru"
+    "kana": "その けいけん から かわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kawa no taisetsu sa o shi ta"
   },
   "jlpt-n3-泉-2108": {
-    "kana": "いずみ を おぼえる",
-    "romaji": "izumi o oboeru"
+    "kana": "いずみ わ いえ で べんきょう し た",
+    "romaji": "izumi wa ie de benkyou shi ta"
   },
   "jlpt-n3-法-2414": {
-    "kana": "ほう を おぼえる",
-    "romaji": "hou o oboeru"
+    "kana": "この もんだい に わ ほう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-注ぐ-2463": {
-    "kana": "そそぐ を おぼえる",
-    "romaji": "sosogu o oboeru"
+    "kana": "ともだち に にもつ を そそぐ",
+    "romaji": "tomodachi ni nimotsu o sosogu"
   },
   "jlpt-n3-注文-2370": {
-    "kana": "ちゅうもん を おぼえる",
-    "romaji": "chuumon o oboeru"
+    "kana": "この もんだい に わ ちゅうもん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chuumon ga fukaku kankei shi te iru"
   },
   "jlpt-n3-注目-2059": {
-    "kana": "ちゅうもく を おぼえる",
-    "romaji": "chuumoku o oboeru"
+    "kana": "かいぎ で ちゅうもく について はなしあっ た",
+    "romaji": "kaigi de chuumoku nitsuite hanashia ta"
   },
   "jlpt-n3-泳ぎ-2107": {
-    "kana": "およぎ を おぼえる",
-    "romaji": "oyogi o oboeru"
+    "kana": "その けいけん から およぎ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara oyogi no taisetsu sa o shi ta"
   },
   "jlpt-n3-活動-1967": {
-    "kana": "かつどう を おぼえる",
-    "romaji": "katsudou o oboeru"
+    "kana": "じゅぎょう で かつどう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de katsudou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-流す-2232": {
-    "kana": "ながす を おぼえる",
-    "romaji": "nagasu o oboeru"
+    "kana": "ひつよう な とき に すぐ ながす",
+    "romaji": "hitsuyou na toki ni sugu nagasu"
   },
   "jlpt-n3-流れる-2092": {
-    "kana": "ながれる を おぼえる",
-    "romaji": "nagareru o oboeru"
+    "kana": "あさ の こうえん を ゆっくり ながれる",
+    "romaji": "asa no kouen o yukkuri nagareru"
   },
   "jlpt-n3-浴びる-1988": {
-    "kana": "あびる を おぼえる",
-    "romaji": "abiru o oboeru"
+    "kana": "しっぱい し て も もういちど あびる",
+    "romaji": "shippai shi te mo mouichido abiru"
   },
   "jlpt-n3-消防-2017": {
-    "kana": "しょうぼう を おぼえる",
-    "romaji": "shoubou o oboeru"
+    "kana": "その けいけん から しょうぼう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shoubou no taisetsu sa o shi ta"
   },
   "jlpt-n3-涙-2394": {
-    "kana": "なみだ を おぼえる",
-    "romaji": "namida o oboeru"
+    "kana": "じゅぎょう で なみだ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de namida o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-混雑-2127": {
-    "kana": "こんざつ を おぼえる",
-    "romaji": "konzatsu o oboeru"
+    "kana": "この もんだい に わ こんざつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa konzatsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-清潔-1942": {
-    "kana": "せいけつ を おぼえる",
-    "romaji": "seiketsu o oboeru"
+    "kana": "じゅぎょう で せいけつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seiketsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-済ませる-2211": {
-    "kana": "すませる を おぼえる",
-    "romaji": "sumaseru o oboeru"
+    "kana": "せんせい の まえ で おちつい て すませる",
+    "romaji": "sensei no mae de ochitsui te sumaseru"
   },
   "jlpt-n3-渋滞-2305": {
-    "kana": "じゅうたい を おぼえる",
-    "romaji": "juutai o oboeru"
+    "kana": "この もんだい に わ じゅうたい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa juutai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-温暖-2466": {
-    "kana": "おんだん を おぼえる",
-    "romaji": "ondan o oboeru"
+    "kana": "その けいけん から おんだん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ondan no taisetsu sa o shi ta"
   },
   "jlpt-n3-満足-2100": {
-    "kana": "まんぞく を おぼえる",
-    "romaji": "manzoku o oboeru"
+    "kana": "その けいけん から まんぞく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara manzoku no taisetsu sa o shi ta"
   },
   "jlpt-n3-滞在-2413": {
-    "kana": "たいざい を おぼえる",
-    "romaji": "taizai o oboeru"
+    "kana": "じゅぎょう で たいざい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de taizai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-演奏-2373": {
-    "kana": "えんそう を おぼえる",
-    "romaji": "ensou o oboeru"
+    "kana": "その けいけん から えんそう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ensou no taisetsu sa o shi ta"
   },
   "jlpt-n3-演技-2321": {
-    "kana": "えんぎ を おぼえる",
-    "romaji": "engi o oboeru"
+    "kana": "この もんだい に わ えんぎ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa engi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-演説-2134": {
-    "kana": "えんぜつ を おぼえる",
-    "romaji": "enzetsu o oboeru"
+    "kana": "この もんだい に わ えんぜつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa enzetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-激しい-2455": {
-    "kana": "はげしい を おぼえる",
-    "romaji": "hageshii o oboeru"
+    "kana": "その けいけん から はげしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hageshii no taisetsu sa o shi ta"
   },
   "jlpt-n3-濃い-2409": {
-    "kana": "こい を おぼえる",
-    "romaji": "koi o oboeru"
+    "kana": "この もんだい わ すこし こい",
+    "romaji": "kono mondai wa sukoshi koi"
   },
   "jlpt-n3-濠-2454": {
-    "kana": "ほり を おぼえる",
-    "romaji": "hori o oboeru"
+    "kana": "この もんだい に わ ほり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hori ga fukaku kankei shi te iru"
   },
   "jlpt-n3-火曜-2064": {
-    "kana": "かよう を おぼえる",
-    "romaji": "kayou o oboeru"
+    "kana": "かよう に ともだち と あう",
+    "romaji": "kayou ni tomodachi to au"
   },
   "jlpt-n3-火災-2200": {
-    "kana": "かさい を おぼえる",
-    "romaji": "kasai o oboeru"
+    "kana": "この もんだい に わ かさい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kasai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-無し-2307": {
-    "kana": "なし を おぼえる",
-    "romaji": "nashi o oboeru"
+    "kana": "かいぎ で なし について はなしあっ た",
+    "romaji": "kaigi de nashi nitsuite hanashia ta"
   },
   "jlpt-n3-無料-2306": {
-    "kana": "むりょう を おぼえる",
-    "romaji": "muryou o oboeru"
+    "kana": "この もんだい に わ むりょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa muryou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-無視-2421": {
-    "kana": "むし を おぼえる",
-    "romaji": "mushi o oboeru"
+    "kana": "その けいけん から むし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mushi no taisetsu sa o shi ta"
   },
   "jlpt-n3-煙-2472": {
-    "kana": "けむり を おぼえる",
-    "romaji": "kemuri o oboeru"
+    "kana": "その けいけん から けむり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kemuri no taisetsu sa o shi ta"
   },
   "jlpt-n3-熱帯-2338": {
-    "kana": "ねったい を おぼえる",
-    "romaji": "nettai o oboeru"
+    "kana": "この もんだい に わ ねったい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nettai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-黙る-2496": {
-    "kana": "だまる を おぼえる",
-    "romaji": "damaru o oboeru"
+    "kana": "ひつよう な とき に すぐ だまる",
+    "romaji": "hitsuyou na toki ni sugu damaru"
   },
   "jlpt-n3-燃える-2366": {
-    "kana": "もえる を おぼえる",
-    "romaji": "moeru o oboeru"
+    "kana": "ひつよう な とき に すぐ もえる",
+    "romaji": "hitsuyou na toki ni sugu moeru"
   },
   "jlpt-n3-牛-2162": {
-    "kana": "うし を おぼえる",
-    "romaji": "ushi o oboeru"
+    "kana": "この もんだい に わ うし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ushi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-物価-2521": {
-    "kana": "ぶっか を おぼえる",
-    "romaji": "bukka o oboeru"
+    "kana": "じゅぎょう で ぶっか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bukka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-物理-2094": {
-    "kana": "ぶつり を おぼえる",
-    "romaji": "butsuri o oboeru"
+    "kana": "この もんだい に わ ぶつり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa butsuri ga fukaku kankei shi te iru"
   },
   "jlpt-n3-物語-2113": {
-    "kana": "ものがたり を おぼえる",
-    "romaji": "monogatari o oboeru"
+    "kana": "じゅぎょう で ものがたり を こえ に だし て よん だ",
+    "romaji": "jugyou de monogatari o koe ni dashi te yon da"
   },
   "jlpt-n3-物質-2187": {
-    "kana": "ぶっしつ を おぼえる",
-    "romaji": "busshitsu o oboeru"
+    "kana": "じゅぎょう で ぶっしつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de busshitsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-特徴-2067": {
-    "kana": "とくちょう を おぼえる",
-    "romaji": "tokuchou o oboeru"
+    "kana": "その けいけん から とくちょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tokuchou no taisetsu sa o shi ta"
   },
   "jlpt-n3-状況-2241": {
-    "kana": "じょうきょう を おぼえる",
-    "romaji": "joukyou o oboeru"
+    "kana": "この もんだい に わ じょうきょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa joukyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-狂う-2141": {
-    "kana": "くるう を おぼえる",
-    "romaji": "kuruu o oboeru"
+    "kana": "じゅぎょう の あと えき え くるう",
+    "romaji": "jugyou no ato eki e kuruu"
   },
   "jlpt-n3-独り-2405": {
-    "kana": "ひとり を おぼえる",
-    "romaji": "hitori o oboeru"
+    "kana": "かいぎ で ひとり について はなしあっ た",
+    "romaji": "kaigi de hitori nitsuite hanashia ta"
   },
   "jlpt-n3-独特-2272": {
-    "kana": "どくとく を おぼえる",
-    "romaji": "dokutoku o oboeru"
+    "kana": "この もんだい に わ どくとく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dokutoku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-玉-2239": {
-    "kana": "たま を おぼえる",
-    "romaji": "tama o oboeru"
+    "kana": "この もんだい に わ たま が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tama ga fukaku kankei shi te iru"
   },
   "jlpt-n3-王-2210": {
-    "kana": "おう を おぼえる",
-    "romaji": "ou o oboeru"
+    "kana": "かいぎ で おう について はなしあっ た",
+    "romaji": "kaigi de ou nitsuite hanashia ta"
   },
   "jlpt-n3-現れ-2288": {
-    "kana": "あらわれ を おぼえる",
-    "romaji": "araware o oboeru"
+    "kana": "かいぎ で あらわれ について はなしあっ た",
+    "romaji": "kaigi de araware nitsuite hanashia ta"
   },
   "jlpt-n3-環境-2184": {
-    "kana": "かんきょう を おぼえる",
-    "romaji": "kankyou o oboeru"
+    "kana": "その けいけん から かんきょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kankyou no taisetsu sa o shi ta"
   },
   "jlpt-n3-生-2324": {
-    "kana": "なま を おぼえる",
-    "romaji": "nama o oboeru"
+    "kana": "かいわ の なか で この もんだい に わ なま が ふかく かんけい し て いる",
+    "romaji": "kaiwa no naka de kono mondai ni wa nama ga fukaku kankei shi te iru"
   },
   "jlpt-n3-生き物-2436": {
-    "kana": "いきもの を おぼえる",
-    "romaji": "ikimono o oboeru"
+    "kana": "いきもの を かばん に いれ た",
+    "romaji": "ikimono o kaban ni ire ta"
   },
   "jlpt-n3-生じる-2344": {
-    "kana": "しょうじる を おぼえる",
-    "romaji": "shoujiru o oboeru"
+    "kana": "しっぱい し て も もういちど しょうじる",
+    "romaji": "shippai shi te mo mouichido shoujiru"
   },
   "jlpt-n3-生地-2022": {
-    "kana": "きじ を おぼえる",
-    "romaji": "kiji o oboeru"
+    "kana": "じゅぎょう で きじ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kiji o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-生産-2085": {
-    "kana": "せいさん を おぼえる",
-    "romaji": "seisan o oboeru"
+    "kana": "じゅぎょう で せいさん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de seisan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-用いる-2328": {
-    "kana": "もちいる を おぼえる",
-    "romaji": "mochiiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て もちいる",
+    "romaji": "sensei no mae de ochitsui te mochiiru"
   },
   "jlpt-n3-用心-2365": {
-    "kana": "ようじん を おぼえる",
-    "romaji": "youjin o oboeru"
+    "kana": "かいぎ で ようじん について はなしあっ た",
+    "romaji": "kaigi de youjin nitsuite hanashia ta"
   },
   "jlpt-n3-田-2212": {
-    "kana": "た を おぼえる",
-    "romaji": "ta o oboeru"
+    "kana": "ひる に た を すこし たべ た",
+    "romaji": "hiru ni ta o sukoshi tabe ta"
   },
   "jlpt-n3-申し訳-2119": {
-    "kana": "もうしわけ を おぼえる",
-    "romaji": "moushiwake o oboeru"
+    "kana": "この もんだい に わ もうしわけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa moushiwake ga fukaku kankei shi te iru"
   },
   "jlpt-n3-留める-2078": {
-    "kana": "とめる を おぼえる",
-    "romaji": "tomeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て とめる",
+    "romaji": "sensei no mae de ochitsui te tomeru"
   },
   "jlpt-n3-発明-2199": {
-    "kana": "はつめい を おぼえる",
-    "romaji": "hatsumei o oboeru"
+    "kana": "かいぎ で はつめい について はなしあっ た",
+    "romaji": "kaigi de hatsumei nitsuite hanashia ta"
   },
   "jlpt-n3-発表-2540": {
-    "kana": "はっぴょう を おぼえる",
-    "romaji": "happyou o oboeru"
+    "kana": "この もんだい に わ はっぴょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa happyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-発見-2515": {
-    "kana": "はっけん を おぼえる",
-    "romaji": "hakken o oboeru"
+    "kana": "じゅぎょう で はっけん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hakken o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-皮-2412": {
-    "kana": "かわ を おぼえる",
-    "romaji": "kawa o oboeru"
+    "kana": "かいぎ で かわ について はなしあっ た",
+    "romaji": "kaigi de kawa nitsuite hanashia ta"
   },
   "jlpt-n3-盛り-2525": {
-    "kana": "もり を おぼえる",
-    "romaji": "mori o oboeru"
+    "kana": "その けいけん から もり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mori no taisetsu sa o shi ta"
   },
   "jlpt-n3-目的-2153": {
-    "kana": "もくてき を おぼえる",
-    "romaji": "mokuteki o oboeru"
+    "kana": "じゅぎょう で もくてき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mokuteki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-直-2012": {
-    "kana": "じか を おぼえる",
-    "romaji": "jika o oboeru"
+    "kana": "この もんだい に わ じか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa jika ga fukaku kankei shi te iru"
   },
   "jlpt-n3-直ちに-2529": {
-    "kana": "ただちに を おぼえる",
-    "romaji": "tadachini o oboeru"
+    "kana": "ただちに に みち を たずね た",
+    "romaji": "tadachini ni michi o tazune ta"
   },
   "jlpt-n3-相当-2175": {
-    "kana": "そうとう を おぼえる",
-    "romaji": "soutou o oboeru"
+    "kana": "その けいけん から そうとう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara soutou no taisetsu sa o shi ta"
   },
   "jlpt-n3-相手-2497": {
-    "kana": "あいて を おぼえる",
-    "romaji": "aite o oboeru"
+    "kana": "しゅうまつ に あいて え いっ た",
+    "romaji": "shuumatsu ni aite e i ta"
   },
   "jlpt-n3-相談-2435": {
-    "kana": "そうだん を おぼえる",
-    "romaji": "soudan o oboeru"
+    "kana": "じゅぎょう で そうだん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de soudan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-真っ赤-2220": {
-    "kana": "まっか を おぼえる",
-    "romaji": "makka o oboeru"
+    "kana": "まっか が すこし いたい",
+    "romaji": "makka ga sukoshi itai"
   },
   "jlpt-n3-真剣-2311": {
-    "kana": "しんけん を おぼえる",
-    "romaji": "shinken o oboeru"
+    "kana": "この もんだい に わ しんけん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shinken ga fukaku kankei shi te iru"
   },
   "jlpt-n3-知らせ-2473": {
-    "kana": "しらせ を おぼえる",
-    "romaji": "shirase o oboeru"
+    "kana": "その けいけん から しらせ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shirase no taisetsu sa o shi ta"
   },
   "jlpt-n3-石油-2479": {
-    "kana": "せきゆ を おぼえる",
-    "romaji": "sekiyu o oboeru"
+    "kana": "この もんだい に わ せきゆ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sekiyu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-砂漠-2213": {
-    "kana": "さばく を おぼえる",
-    "romaji": "sabaku o oboeru"
+    "kana": "この もんだい に わ さばく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sabaku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-破産-2483": {
-    "kana": "はさん を おぼえる",
-    "romaji": "hasan o oboeru"
+    "kana": "この もんだい に わ はさん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hasan ga fukaku kankei shi te iru"
   },
   "jlpt-n3-硬い-2292": {
-    "kana": "かたい を おぼえる",
-    "romaji": "katai o oboeru"
+    "kana": "きょう わ くうき が とても かたい",
+    "romaji": "kyou wa kuuki ga totemo katai"
   },
   "jlpt-n3-硬貨-2192": {
-    "kana": "こうか を おぼえる",
-    "romaji": "kouka o oboeru"
+    "kana": "この もんだい に わ こうか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kouka ga fukaku kankei shi te iru"
   },
   "jlpt-n3-確実-2468": {
-    "kana": "かくじつ を おぼえる",
-    "romaji": "kakujitsu o oboeru"
+    "kana": "その けいけん から かくじつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kakujitsu no taisetsu sa o shi ta"
   },
   "jlpt-n3-示す-2285": {
-    "kana": "しめす を おぼえる",
-    "romaji": "shimesu o oboeru"
+    "kana": "しっぱい し て も もういちど しめす",
+    "romaji": "shippai shi te mo mouichido shimesu"
   },
   "jlpt-n3-礼儀-1955": {
-    "kana": "れいぎ を おぼえる",
-    "romaji": "reigi o oboeru"
+    "kana": "その けいけん から れいぎ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara reigi no taisetsu sa o shi ta"
   },
   "jlpt-n3-神経-2352": {
-    "kana": "しんけい を おぼえる",
-    "romaji": "shinkei o oboeru"
+    "kana": "その けいけん から しんけい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shinkei no taisetsu sa o shi ta"
   },
   "jlpt-n3-禁止-2458": {
-    "kana": "きんし を おぼえる",
-    "romaji": "kinshi o oboeru"
+    "kana": "かいぎ で きんし について はなしあっ た",
+    "romaji": "kaigi de kinshi nitsuite hanashia ta"
   },
   "jlpt-n3-積もる-2401": {
-    "kana": "つもる を おぼえる",
-    "romaji": "tsumoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つもる",
+    "romaji": "sensei no mae de ochitsui te tsumoru"
   },
   "jlpt-n3-穴-2430": {
-    "kana": "あな を おぼえる",
-    "romaji": "ana o oboeru"
+    "kana": "この もんだい に わ あな が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ana ga fukaku kankei shi te iru"
   },
   "jlpt-n3-突然-2046": {
-    "kana": "とつぜん を おぼえる",
-    "romaji": "totsuzen o oboeru"
+    "kana": "その けいけん から とつぜん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara totsuzen no taisetsu sa o shi ta"
   },
   "jlpt-n3-立ち上がる-2422": {
-    "kana": "たちあがる を おぼえる",
-    "romaji": "tachiagaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て たちあがる",
+    "romaji": "sensei no mae de ochitsui te tachiagaru"
   },
   "jlpt-n3-立場-2420": {
-    "kana": "たちば を おぼえる",
-    "romaji": "tachiba o oboeru"
+    "kana": "その けいけん から たちば の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tachiba no taisetsu sa o shi ta"
   },
   "jlpt-n3-立派-2198": {
-    "kana": "りっぱ を おぼえる",
-    "romaji": "rippa o oboeru"
+    "kana": "かいぎ で りっぱ について はなしあっ た",
+    "romaji": "kaigi de rippa nitsuite hanashia ta"
   },
   "jlpt-n3-端-2380": {
-    "kana": "はじ を おぼえる",
-    "romaji": "haji o oboeru"
+    "kana": "その けいけん から はじ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara haji no taisetsu sa o shi ta"
   },
   "jlpt-n3-笑い-2043": {
-    "kana": "わらい を おぼえる",
-    "romaji": "warai o oboeru"
+    "kana": "この もんだい に わ わらい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa warai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-筋肉-2081": {
-    "kana": "きんにく を おぼえる",
-    "romaji": "kinniku o oboeru"
+    "kana": "じゅぎょう で きんにく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kinniku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-管-1998": {
-    "kana": "かん を おぼえる",
-    "romaji": "kan o oboeru"
+    "kana": "かいぎ で かん について はなしあっ た",
+    "romaji": "kaigi de kan nitsuite hanashia ta"
   },
   "jlpt-n3-籠-2297": {
-    "kana": "かご を おぼえる",
-    "romaji": "kago o oboeru"
+    "kana": "かいぎ で かご について はなしあっ た",
+    "romaji": "kaigi de kago nitsuite hanashia ta"
   },
   "jlpt-n3-精々-2148": {
-    "kana": "きよし を おぼえる",
-    "romaji": "kiyoshi o oboeru"
+    "kana": "この もんだい に わ せい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sei ga fukaku kankei shi te iru"
   },
   "jlpt-n3-約-2509": {
-    "kana": "やく を おぼえる",
-    "romaji": "yaku o oboeru"
+    "kana": "この もんだい に わ やく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yaku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-納得-2356": {
-    "kana": "なっとく を おぼえる",
-    "romaji": "nattoku o oboeru"
+    "kana": "じゅぎょう で なっとく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de nattoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-級-2428": {
-    "kana": "きゅう を おぼえる",
-    "romaji": "kyuu o oboeru"
+    "kana": "しゅうまつ に きゅう え いっ た",
+    "romaji": "shuumatsu ni kyuu e i ta"
   },
   "jlpt-n3-素-2544": {
-    "kana": "もと を おぼえる",
-    "romaji": "moto o oboeru"
+    "kana": "その けいけん から もと の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara moto no taisetsu sa o shi ta"
   },
   "jlpt-n3-素晴らしい-2516": {
-    "kana": "すばらしい を おぼえる",
-    "romaji": "subarashii o oboeru"
+    "kana": "この もんだい に わ すばらしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa subarashii ga fukaku kankei shi te iru"
   },
   "jlpt-n3-終える-2449": {
-    "kana": "おえる を おぼえる",
-    "romaji": "oeru o oboeru"
+    "kana": "かいぎ わ じかん どおり に おえる",
+    "romaji": "kaigi wa jikan doori ni oeru"
   },
   "jlpt-n3-組-2056": {
-    "kana": "くみ を おぼえる",
-    "romaji": "kumi o oboeru"
+    "kana": "この もんだい に わ くみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kumi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-経つ-2532": {
-    "kana": "たつ を おぼえる",
-    "romaji": "tatsu o oboeru"
+    "kana": "しっぱい し て も もういちど たつ",
+    "romaji": "shippai shi te mo mouichido tatsu"
   },
   "jlpt-n3-経由-1987": {
-    "kana": "けいゆ を おぼえる",
-    "romaji": "keiyu o oboeru"
+    "kana": "じゅぎょう で けいゆ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keiyu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-結ぶ-2049": {
-    "kana": "むすぶ を おぼえる",
-    "romaji": "musubu o oboeru"
+    "kana": "しっぱい し て も もういちど むすぶ",
+    "romaji": "shippai shi te mo mouichido musubu"
   },
   "jlpt-n3-結局-2090": {
-    "kana": "けっきょく を おぼえる",
-    "romaji": "kekkyoku o oboeru"
+    "kana": "じゅぎょう で けっきょく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kekkyoku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-結果-2115": {
-    "kana": "けっか を おぼえる",
-    "romaji": "kekka o oboeru"
+    "kana": "その けいけん から けっか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kekka no taisetsu sa o shi ta"
   },
   "jlpt-n3-結論-2270": {
-    "kana": "けつろん を おぼえる",
-    "romaji": "ketsuron o oboeru"
+    "kana": "この もんだい に わ けつろん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ketsuron ga fukaku kankei shi te iru"
   },
   "jlpt-n3-縁-2495": {
-    "kana": "えん を おぼえる",
-    "romaji": "en o oboeru"
+    "kana": "かいぎ で えん について はなしあっ た",
+    "romaji": "kaigi de en nitsuite hanashia ta"
   },
   "jlpt-n3-縄-2445": {
-    "kana": "なわ を おぼえる",
-    "romaji": "nawa o oboeru"
+    "kana": "その けいけん から なわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nawa no taisetsu sa o shi ta"
   },
   "jlpt-n3-縦-2379": {
-    "kana": "たて を おぼえる",
-    "romaji": "tate o oboeru"
+    "kana": "この もんだい に わ たて が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tate ga fukaku kankei shi te iru"
   },
   "jlpt-n3-繰り返す-2216": {
-    "kana": "くりかえす を おぼえる",
-    "romaji": "kurikaesu o oboeru"
+    "kana": "ひつよう な とき に すぐ くりかえす",
+    "romaji": "hitsuyou na toki ni sugu kurikaesu"
   },
   "jlpt-n3-美人-2511": {
-    "kana": "びじん を おぼえる",
-    "romaji": "bijin o oboeru"
+    "kana": "びじん な しりょう を さき に かくにん し た",
+    "romaji": "bijin na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n3-老い-2208": {
-    "kana": "おい を おぼえる",
-    "romaji": "oi o oboeru"
+    "kana": "きょう わ くうき が とても おい",
+    "romaji": "kyou wa kuuki ga totemo oi"
   },
   "jlpt-n3-肌-2121": {
-    "kana": "はだ を おぼえる",
-    "romaji": "hada o oboeru"
+    "kana": "じゅぎょう で はだ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hada o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-胸-2469": {
-    "kana": "むね を おぼえる",
-    "romaji": "mune o oboeru"
+    "kana": "その けいけん から むね の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara mune no taisetsu sa o shi ta"
   },
   "jlpt-n3-脇-2551": {
-    "kana": "わき を おぼえる",
-    "romaji": "waki o oboeru"
+    "kana": "わき え まっすぐ すすん だ",
+    "romaji": "waki e massugu susun da"
   },
   "jlpt-n3-腹-2287": {
-    "kana": "はら を おぼえる",
-    "romaji": "hara o oboeru"
+    "kana": "かいぎ で はら について はなしあっ た",
+    "romaji": "kaigi de hara nitsuite hanashia ta"
   },
   "jlpt-n3-膝-2345": {
-    "kana": "ひざ を おぼえる",
-    "romaji": "hiza o oboeru"
+    "kana": "かいぎ で ひざ について はなしあっ た",
+    "romaji": "kaigi de hiza nitsuite hanashia ta"
   },
   "jlpt-n3-自身-2340": {
-    "kana": "じしん を おぼえる",
-    "romaji": "jishin o oboeru"
+    "kana": "その けいけん から じしん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jishin no taisetsu sa o shi ta"
   },
   "jlpt-n3-舞台-2383": {
-    "kana": "ぶたい を おぼえる",
-    "romaji": "butai o oboeru"
+    "kana": "かいぎ で ぶたい について はなしあっ た",
+    "romaji": "kaigi de butai nitsuite hanashia ta"
   },
   "jlpt-n3-航空-2110": {
-    "kana": "こうくう を おぼえる",
-    "romaji": "koukuu o oboeru"
+    "kana": "じゅぎょう で こうくう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koukuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-芸術-2410": {
-    "kana": "げいじゅつ を おぼえる",
-    "romaji": "geijutsu o oboeru"
+    "kana": "じゅぎょう で げいじゅつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de geijutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-苦しい-2520": {
-    "kana": "くるしい を おぼえる",
-    "romaji": "kurushii o oboeru"
+    "kana": "きょう わ くうき が とても くるしい",
+    "romaji": "kyou wa kuuki ga totemo kurushii"
   },
   "jlpt-n3-茶-2459": {
-    "kana": "ちゃ を おぼえる",
-    "romaji": "cha o oboeru"
+    "kana": "しょくご に ちゃ を のん だ",
+    "romaji": "shokugo ni cha o non da"
   },
   "jlpt-n3-行動-2320": {
-    "kana": "こうどう を おぼえる",
-    "romaji": "koudou o oboeru"
+    "kana": "その けいけん から こうどう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koudou no taisetsu sa o shi ta"
   },
   "jlpt-n3-衣服-2315": {
-    "kana": "いふく を おぼえる",
-    "romaji": "ifuku o oboeru"
+    "kana": "つくえ の うえ に いふく を おい た",
+    "romaji": "tsukue no ue ni ifuku o oi ta"
   },
   "jlpt-n3-表-2295": {
-    "kana": "ひょう を おぼえる",
-    "romaji": "hyou o oboeru"
+    "kana": "じゅぎょう で ひょう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-表現-2276": {
-    "kana": "ひょうげん を おぼえる",
-    "romaji": "hyougen o oboeru"
+    "kana": "この もんだい に わ ひょうげん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hyougen ga fukaku kankei shi te iru"
   },
   "jlpt-n3-被る-2296": {
-    "kana": "こうむる を おぼえる",
-    "romaji": "koumuru o oboeru"
+    "kana": "せんせい の まえ で おちつい て こうむる",
+    "romaji": "sensei no mae de ochitsui te koumuru"
   },
   "jlpt-n3-裁判-2124": {
-    "kana": "さいばん を おぼえる",
-    "romaji": "saiban o oboeru"
+    "kana": "この もんだい に わ さいばん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa saiban ga fukaku kankei shi te iru"
   },
   "jlpt-n3-裏切る-2433": {
-    "kana": "うらぎる を おぼえる",
-    "romaji": "uragiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て うらぎる",
+    "romaji": "sensei no mae de ochitsui te uragiru"
   },
   "jlpt-n3-要するに-2032": {
-    "kana": "ようするに を おぼえる",
-    "romaji": "yousuruni o oboeru"
+    "kana": "じゅぎょう で ようするに を こえ に だし て よん だ",
+    "romaji": "jugyou de yousuruni o koe ni dashi te yon da"
   },
   "jlpt-n3-見事-2135": {
-    "kana": "みごと を おぼえる",
-    "romaji": "migoto o oboeru"
+    "kana": "みごと な しりょう を さき に かくにん し た",
+    "romaji": "migoto na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n3-見当-2487": {
-    "kana": "けんとう を おぼえる",
-    "romaji": "kentou o oboeru"
+    "kana": "じゅぎょう で けんとう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kentou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-見舞い-2518": {
-    "kana": "みまい を おぼえる",
-    "romaji": "mimai o oboeru"
+    "kana": "その かんがえ に わ つよく みまい し た",
+    "romaji": "sono kangae ni wa tsuyoku mimai shi ta"
   },
   "jlpt-n3-観光-2109": {
-    "kana": "かんこう を おぼえる",
-    "romaji": "kankou o oboeru"
+    "kana": "この もんだい に わ かんこう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kankou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-角-2398": {
-    "kana": "かく を おぼえる",
-    "romaji": "kaku o oboeru"
+    "kana": "じゅぎょう で かいぎ で かく について はなしあっ た",
+    "romaji": "jugyou de kaigi de kaku nitsuite hanashia ta"
   },
   "jlpt-n3-解く-2181": {
-    "kana": "とく を おぼえる",
-    "romaji": "toku o oboeru"
+    "kana": "しっぱい し て も もういちど とく",
+    "romaji": "shippai shi te mo mouichido toku"
   },
   "jlpt-n3-触れる-2528": {
-    "kana": "ふれる を おぼえる",
-    "romaji": "fureru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ふれる",
+    "romaji": "sensei no mae de ochitsui te fureru"
   },
   "jlpt-n3-言わば-2489": {
-    "kana": "いわば を おぼえる",
-    "romaji": "iwaba o oboeru"
+    "kana": "じゅぎょう で いわば を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de iwaba o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-計-2467": {
-    "kana": "けい を おぼえる",
-    "romaji": "kei o oboeru"
+    "kana": "かいぎ で けい について はなしあっ た",
+    "romaji": "kaigi de kei nitsuite hanashia ta"
   },
   "jlpt-n3-計画-2093": {
-    "kana": "けいかく を おぼえる",
-    "romaji": "keikaku o oboeru"
+    "kana": "じゅぎょう で けいかく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keikaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-記入-2396": {
-    "kana": "きにゅう を おぼえる",
-    "romaji": "kinyuu o oboeru"
+    "kana": "じゅぎょう で きにゅう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kinyuu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-記念-1964": {
-    "kana": "きねん を おぼえる",
-    "romaji": "kinen o oboeru"
+    "kana": "かいぎ で きねん について はなしあっ た",
+    "romaji": "kaigi de kinen nitsuite hanashia ta"
   },
   "jlpt-n3-記憶-2470": {
-    "kana": "きおく を おぼえる",
-    "romaji": "kioku o oboeru"
+    "kana": "その けいけん から きおく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kioku no taisetsu sa o shi ta"
   },
   "jlpt-n3-許す-2493": {
-    "kana": "ゆるす を おぼえる",
-    "romaji": "yurusu o oboeru"
+    "kana": "しっぱい し て も もういちど ゆるす",
+    "romaji": "shippai shi te mo mouichido yurusu"
   },
   "jlpt-n3-診察-2476": {
-    "kana": "しんさつ を おぼえる",
-    "romaji": "shinsatsu o oboeru"
+    "kana": "かいぎ で しんさつ について はなしあっ た",
+    "romaji": "kaigi de shinsatsu nitsuite hanashia ta"
   },
   "jlpt-n3-評判-2392": {
-    "kana": "ひょうばん を おぼえる",
-    "romaji": "hyouban o oboeru"
+    "kana": "その けいけん から ひょうばん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hyouban no taisetsu sa o shi ta"
   },
   "jlpt-n3-試し-2040": {
-    "kana": "ためし を おぼえる",
-    "romaji": "tameshi o oboeru"
+    "kana": "じゅぎょう で ためし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tameshi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-詩人-2442": {
-    "kana": "しじん を おぼえる",
-    "romaji": "shijin o oboeru"
+    "kana": "かいぎ で しじん について はなしあっ た",
+    "romaji": "kaigi de shijin nitsuite hanashia ta"
   },
   "jlpt-n3-誇り-2378": {
-    "kana": "ほこり を おぼえる",
-    "romaji": "hokori o oboeru"
+    "kana": "この もんだい に わ ほこり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hokori ga fukaku kankei shi te iru"
   },
   "jlpt-n3-語る-2522": {
-    "kana": "かたる を おぼえる",
-    "romaji": "kataru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり かたる",
+    "romaji": "kaigi de riyuu o hakkiri kataru"
   },
   "jlpt-n3-語学-2118": {
-    "kana": "ごがく を おぼえる",
-    "romaji": "gogaku o oboeru"
+    "kana": "じゅぎょう で ごがく を こえ に だし て よん だ",
+    "romaji": "jugyou de gogaku o koe ni dashi te yon da"
   },
   "jlpt-n3-誤り-2101": {
-    "kana": "あやまり を おぼえる",
-    "romaji": "ayamari o oboeru"
+    "kana": "じゅぎょう で あやまり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ayamari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-誤解-2233": {
-    "kana": "ごかい を おぼえる",
-    "romaji": "gokai o oboeru"
+    "kana": "この もんだい に わ ごかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gokai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-説-2174": {
-    "kana": "せつ を おぼえる",
-    "romaji": "setsu o oboeru"
+    "kana": "その けいけん から せつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara setsu no taisetsu sa o shi ta"
   },
   "jlpt-n3-論じる-2136": {
-    "kana": "ろんじる を おぼえる",
-    "romaji": "ronjiru o oboeru"
+    "kana": "ひつよう な とき に すぐ ろんじる",
+    "romaji": "hitsuyou na toki ni sugu ronjiru"
   },
   "jlpt-n3-論文-2508": {
-    "kana": "ろんぶん を おぼえる",
-    "romaji": "ronbun o oboeru"
+    "kana": "かいぎ で ろんぶん について はなしあっ た",
+    "romaji": "kaigi de ronbun nitsuite hanashia ta"
   },
   "jlpt-n3-諦める-2020": {
-    "kana": "あきらめる を おぼえる",
-    "romaji": "akirameru o oboeru"
+    "kana": "ともだち に にもつ を あきらめる",
+    "romaji": "tomodachi ni nimotsu o akirameru"
   },
   "jlpt-n3-諺-2204": {
-    "kana": "ことわざ を おぼえる",
-    "romaji": "kotowaza o oboeru"
+    "kana": "その けいけん から ことわざ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kotowaza no taisetsu sa o shi ta"
   },
   "jlpt-n3-議会-2538": {
-    "kana": "ぎかい を おぼえる",
-    "romaji": "gikai o oboeru"
+    "kana": "その けいけん から ぎかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara gikai no taisetsu sa o shi ta"
   },
   "jlpt-n3-豆-2077": {
-    "kana": "まめ を おぼえる",
-    "romaji": "mame o oboeru"
+    "kana": "かいぎ で まめ について はなしあっ た",
+    "romaji": "kaigi de mame nitsuite hanashia ta"
   },
   "jlpt-n3-豊富-2357": {
-    "kana": "ほうふ を おぼえる",
-    "romaji": "houfu o oboeru"
+    "kana": "じゅぎょう で ほうふ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de houfu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-象-2491": {
-    "kana": "ぞう を おぼえる",
-    "romaji": "zou o oboeru"
+    "kana": "じゅぎょう で ぞう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-豪華-2502": {
-    "kana": "ごうか を おぼえる",
-    "romaji": "gouka o oboeru"
+    "kana": "じゅぎょう で ごうか を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gouka o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-貧しい-2045": {
-    "kana": "まずしい を おぼえる",
-    "romaji": "mazushii o oboeru"
+    "kana": "この もんだい に わ まずしい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mazushii ga fukaku kankei shi te iru"
   },
   "jlpt-n3-責める-2205": {
-    "kana": "せめる を おぼえる",
-    "romaji": "semeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て せめる",
+    "romaji": "sensei no mae de ochitsui te semeru"
   },
   "jlpt-n3-責任-1982": {
-    "kana": "せきにん を おぼえる",
-    "romaji": "sekinin o oboeru"
+    "kana": "この もんだい に わ せきにん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa sekinin ga fukaku kankei shi te iru"
   },
   "jlpt-n3-貸し-2030": {
-    "kana": "かし を おぼえる",
-    "romaji": "kashi o oboeru"
+    "kana": "この もんだい に わ かし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kashi ga fukaku kankei shi te iru"
   },
   "jlpt-n3-費用-2382": {
-    "kana": "ひよう を おぼえる",
-    "romaji": "hiyou o oboeru"
+    "kana": "かいぎ で ひよう について はなしあっ た",
+    "romaji": "kaigi de hiyou nitsuite hanashia ta"
   },
   "jlpt-n3-資本-2133": {
-    "kana": "しほん を おぼえる",
-    "romaji": "shihon o oboeru"
+    "kana": "かいぎ で しほん について はなしあっ た",
+    "romaji": "kaigi de shihon nitsuite hanashia ta"
   },
   "jlpt-n3-賛成-2514": {
-    "kana": "さんせい を おぼえる",
-    "romaji": "sansei o oboeru"
+    "kana": "かれ の いけん に さんせい だ",
+    "romaji": "kare no iken ni sansei da"
   },
   "jlpt-n3-質-2202": {
-    "kana": "しつ を おぼえる",
-    "romaji": "shitsu o oboeru"
+    "kana": "しつ に みち を たずね た",
+    "romaji": "shitsu ni michi o tazune ta"
   },
   "jlpt-n3-跡-2165": {
-    "kana": "あと を おぼえる",
-    "romaji": "ato o oboeru"
+    "kana": "じゅぎょう で あと を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ato o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-身体-2145": {
-    "kana": "しんたい を おぼえる",
-    "romaji": "shintai o oboeru"
+    "kana": "しんたい が すこし いたい",
+    "romaji": "shintai ga sukoshi itai"
   },
   "jlpt-n3-身長-2091": {
-    "kana": "しんちょう を おぼえる",
-    "romaji": "shinchou o oboeru"
+    "kana": "しんちょう が すこし いたい",
+    "romaji": "shinchou ga sukoshi itai"
   },
   "jlpt-n3-軍隊-1980": {
-    "kana": "ぐんたい を おぼえる",
-    "romaji": "guntai o oboeru"
+    "kana": "この もんだい に わ ぐんたい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa guntai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-軒-2336": {
-    "kana": "のき を おぼえる",
-    "romaji": "noki o oboeru"
+    "kana": "じゅぎょう で のき を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de noki o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-輪-2517": {
-    "kana": "わ を おぼえる",
-    "romaji": "wa o oboeru"
+    "kana": "じゅぎょう で わ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de wa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-輸出-1960": {
-    "kana": "ゆしゅつ を おぼえる",
-    "romaji": "yushutsu o oboeru"
+    "kana": "じゅぎょう で ゆしゅつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yushutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-農民-2347": {
-    "kana": "のうみん を おぼえる",
-    "romaji": "noumin o oboeru"
+    "kana": "その けいけん から のうみん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara noumin no taisetsu sa o shi ta"
   },
   "jlpt-n3-辺り-2348": {
-    "kana": "あたり を おぼえる",
-    "romaji": "atari o oboeru"
+    "kana": "じゅぎょう で あたり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de atari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-迎え-2395": {
-    "kana": "むかえ を おぼえる",
-    "romaji": "mukae o oboeru"
+    "kana": "むかえ に みち を たずね た",
+    "romaji": "mukae ni michi o tazune ta"
   },
   "jlpt-n3-述べる-2131": {
-    "kana": "のべる を おぼえる",
-    "romaji": "noberu o oboeru"
+    "kana": "かいぎ で りゆう を はっきり のべる",
+    "romaji": "kaigi de riyuu o hakkiri noberu"
   },
   "jlpt-n3-迷子-2058": {
-    "kana": "まいご を おぼえる",
-    "romaji": "maigo o oboeru"
+    "kana": "まいご に みち を たずね た",
+    "romaji": "maigo ni michi o tazune ta"
   },
   "jlpt-n3-迷惑-2403": {
-    "kana": "めいわく を おぼえる",
-    "romaji": "meiwaku o oboeru"
+    "kana": "この もんだい に わ めいわく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa meiwaku ga fukaku kankei shi te iru"
   },
   "jlpt-n3-追う-2289": {
-    "kana": "おう を おぼえる",
-    "romaji": "ou o oboeru"
+    "kana": "あさ の こうえん を ゆっくり おう",
+    "romaji": "asa no kouen o yukkuri ou"
   },
   "jlpt-n3-逆らう-2036": {
-    "kana": "さからう を おぼえる",
-    "romaji": "sakarau o oboeru"
+    "kana": "じゅぎょう の あと えき え さからう",
+    "romaji": "jugyou no ato eki e sakarau"
   },
   "jlpt-n3-通す-2088": {
-    "kana": "とおす を おぼえる",
-    "romaji": "toosu o oboeru"
+    "kana": "かいぎ わ じかん どおり に とおす",
+    "romaji": "kaigi wa jikan doori ni toosu"
   },
   "jlpt-n3-通り過ぎる-2329": {
-    "kana": "とおりすぎる を おぼえる",
-    "romaji": "toorisugiru o oboeru"
+    "kana": "しっぱい し て も もういちど とおりすぎる",
+    "romaji": "shippai shi te mo mouichido toorisugiru"
   },
   "jlpt-n3-通学-2223": {
-    "kana": "つうがく を おぼえる",
-    "romaji": "tsuugaku o oboeru"
+    "kana": "しゅうまつ に つうがく え いっ た",
+    "romaji": "shuumatsu ni tsuugaku e i ta"
   },
   "jlpt-n3-連れ-2354": {
-    "kana": "つれ を おぼえる",
-    "romaji": "tsure o oboeru"
+    "kana": "しゅうまつ に つれ え いっ た",
+    "romaji": "shuumatsu ni tsure e i ta"
   },
   "jlpt-n3-逮捕-1996": {
-    "kana": "たいほ を おぼえる",
-    "romaji": "taiho o oboeru"
+    "kana": "この もんだい に わ たいほ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa taiho ga fukaku kankei shi te iru"
   },
   "jlpt-n3-週-1970": {
-    "kana": "しゅう を おぼえる",
-    "romaji": "shuu o oboeru"
+    "kana": "しゅう わ いえ で べんきょう し た",
+    "romaji": "shuu wa ie de benkyou shi ta"
   },
   "jlpt-n3-進歩-2069": {
-    "kana": "しんぽ を おぼえる",
-    "romaji": "shinpo o oboeru"
+    "kana": "かいぎ で しんぽ について はなしあっ た",
+    "romaji": "kaigi de shinpo nitsuite hanashia ta"
   },
   "jlpt-n3-遂に-2050": {
-    "kana": "ついに を おぼえる",
-    "romaji": "tsuini o oboeru"
+    "kana": "かいぎ で ついに について はなしあっ た",
+    "romaji": "kaigi de tsuini nitsuite hanashia ta"
   },
   "jlpt-n3-運-1981": {
-    "kana": "うん を おぼえる",
-    "romaji": "un o oboeru"
+    "kana": "この もんだい に わ うん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa un ga fukaku kankei shi te iru"
   },
   "jlpt-n3-過去-2325": {
-    "kana": "かこ を おぼえる",
-    "romaji": "kako o oboeru"
+    "kana": "この もんだい に わ かこ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kako ga fukaku kankei shi te iru"
   },
   "jlpt-n3-道路-2384": {
-    "kana": "どうろ を おぼえる",
-    "romaji": "douro o oboeru"
+    "kana": "じゅぎょう で どうろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de douro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-違い-1969": {
-    "kana": "ちがい を おぼえる",
-    "romaji": "chigai o oboeru"
+    "kana": "この もんだい に わ ちがい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chigai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-遠慮-2400": {
-    "kana": "えんりょ を おぼえる",
-    "romaji": "enryo o oboeru"
+    "kana": "この もんだい に わ えんりょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa enryo ga fukaku kankei shi te iru"
   },
   "jlpt-n3-適する-2368": {
-    "kana": "てき する を おぼえる",
-    "romaji": "teki suru o oboeru"
+    "kana": "せんせい の まえ で おちつい て てきする",
+    "romaji": "sensei no mae de ochitsui te tekisuru"
   },
   "jlpt-n3-適用-1971": {
-    "kana": "てきよう を おぼえる",
-    "romaji": "tekiyou o oboeru"
+    "kana": "じゅぎょう で てきよう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tekiyou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-選択-2053": {
-    "kana": "せんたく を おぼえる",
-    "romaji": "sentaku o oboeru"
+    "kana": "かいぎ で せんたく について はなしあっ た",
+    "romaji": "kaigi de sentaku nitsuite hanashia ta"
   },
   "jlpt-n3-避ける-2097": {
-    "kana": "さける を おぼえる",
-    "romaji": "sakeru o oboeru"
+    "kana": "ひつよう な とき に すぐ さける",
+    "romaji": "hitsuyou na toki ni sugu sakeru"
   },
   "jlpt-n3-邪魔-2264": {
-    "kana": "じゃま を おぼえる",
-    "romaji": "jama o oboeru"
+    "kana": "じゅぎょう で じゃま を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jama o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-郵便-2353": {
-    "kana": "ゆうびん を おぼえる",
-    "romaji": "yuubin o oboeru"
+    "kana": "じゅぎょう で ゆうびん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de yuubin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-都会-2291": {
-    "kana": "とかい を おぼえる",
-    "romaji": "tokai o oboeru"
+    "kana": "とかい で ともだち を まっ た",
+    "romaji": "tokai de tomodachi o ma ta"
   },
   "jlpt-n3-酸素-2201": {
-    "kana": "さんそ を おぼえる",
-    "romaji": "sanso o oboeru"
+    "kana": "じゅぎょう で さんそ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sanso o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-重要-2275": {
-    "kana": "じゅうよう を おぼえる",
-    "romaji": "juuyou o oboeru"
+    "kana": "じゅうよう な ばしょ で しずか に やすん だ",
+    "romaji": "juuyou na basho de shizuka ni yasun da"
   },
   "jlpt-n3-量-2501": {
-    "kana": "りょう を おぼえる",
-    "romaji": "ryou o oboeru"
+    "kana": "ひる に りょう を すこし たべ た",
+    "romaji": "hiru ni ryou o sukoshi tabe ta"
   },
   "jlpt-n3-金融-2446": {
-    "kana": "きんゆう を おぼえる",
-    "romaji": "kin'yuu o oboeru"
+    "kana": "かいぎ で きんゆう について はなしあっ た",
+    "romaji": "kaigi de kin'yuu nitsuite hanashia ta"
   },
   "jlpt-n3-金銭-2440": {
-    "kana": "きんせん を おぼえる",
-    "romaji": "kinsen o oboeru"
+    "kana": "かいぎ で きんせん について はなしあっ た",
+    "romaji": "kaigi de kinsen nitsuite hanashia ta"
   },
   "jlpt-n3-銀-2068": {
-    "kana": "ぎん を おぼえる",
-    "romaji": "gin o oboeru"
+    "kana": "この もんだい に わ ぎん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa gin ga fukaku kankei shi te iru"
   },
   "jlpt-n3-鍵-2180": {
-    "kana": "かぎ を おぼえる",
-    "romaji": "kagi o oboeru"
+    "kana": "かぎ を かばん に いれ た",
+    "romaji": "kagi o kaban ni ire ta"
   },
   "jlpt-n3-閉じる-2249": {
-    "kana": "とじる を おぼえる",
-    "romaji": "tojiru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に とじる",
+    "romaji": "dougu o tsuka te teinei ni tojiru"
   },
   "jlpt-n3-開始-2206": {
-    "kana": "かいし を おぼえる",
-    "romaji": "kaishi o oboeru"
+    "kana": "その けいけん から かいし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaishi no taisetsu sa o shi ta"
   },
   "jlpt-n3-間-1962": {
-    "kana": "ま を おぼえる",
-    "romaji": "ma o oboeru"
+    "kana": "ま で ともだち を まっ た",
+    "romaji": "ma de tomodachi o ma ta"
   },
   "jlpt-n3-関する-2426": {
-    "kana": "かんする を おぼえる",
-    "romaji": "kansuru o oboeru"
+    "kana": "しっぱい し て も もういちど かんする",
+    "romaji": "shippai shi te mo mouichido kansuru"
   },
   "jlpt-n3-関心-2006": {
-    "kana": "かんしん を おぼえる",
-    "romaji": "kanshin o oboeru"
+    "kana": "この もんだい に わ かんしん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kanshin ga fukaku kankei shi te iru"
   },
   "jlpt-n3-防ぐ-2510": {
-    "kana": "ふせぐ を おぼえる",
-    "romaji": "fusegu o oboeru"
+    "kana": "ひつよう な とき に すぐ ふせぐ",
+    "romaji": "hitsuyou na toki ni sugu fusegu"
   },
   "jlpt-n3-降ろす-2225": {
-    "kana": "おろす を おぼえる",
-    "romaji": "orosu o oboeru"
+    "kana": "ともだち に にもつ を おろす",
+    "romaji": "tomodachi ni nimotsu o orosu"
   },
   "jlpt-n3-限界-2444": {
-    "kana": "げんかい を おぼえる",
-    "romaji": "genkai o oboeru"
+    "kana": "この もんだい に わ げんかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa genkai ga fukaku kankei shi te iru"
   },
   "jlpt-n3-除く-1946": {
-    "kana": "のぞく を おぼえる",
-    "romaji": "nozoku o oboeru"
+    "kana": "しっぱい し て も もういちど のぞく",
+    "romaji": "shippai shi te mo mouichido nozoku"
   },
   "jlpt-n3-陸-2230": {
-    "kana": "りく を おぼえる",
-    "romaji": "riku o oboeru"
+    "kana": "こたえ わ りく です",
+    "romaji": "kotae wa riku desu"
   },
   "jlpt-n3-陽気-2492": {
-    "kana": "ようき を おぼえる",
-    "romaji": "youki o oboeru"
+    "kana": "ようき の おと で あさ に きづい た",
+    "romaji": "youki no oto de asa ni kizui ta"
   },
   "jlpt-n3-随分-2309": {
-    "kana": "ずいぶん を おぼえる",
-    "romaji": "zuibun o oboeru"
+    "kana": "かいぎ で ずいぶん について はなしあっ た",
+    "romaji": "kaigi de zuibun nitsuite hanashia ta"
   },
   "jlpt-n3-障害-2372": {
-    "kana": "しょうがい を おぼえる",
-    "romaji": "shougai o oboeru"
+    "kana": "その けいけん から しょうがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shougai no taisetsu sa o shi ta"
   },
   "jlpt-n3-隠れる-2339": {
-    "kana": "かくれる を おぼえる",
-    "romaji": "kakureru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かくれる",
+    "romaji": "sensei no mae de ochitsui te kakureru"
   },
   "jlpt-n3-離れる-2310": {
-    "kana": "はなれる を おぼえる",
-    "romaji": "hanareru o oboeru"
+    "kana": "じゅぎょう の あと えき え はなれる",
+    "romaji": "jugyou no ato eki e hanareru"
   },
   "jlpt-n3-雰囲気-2070": {
-    "kana": "ふんいき を おぼえる",
-    "romaji": "fun'iki o oboeru"
+    "kana": "この もんだい に わ ふんいき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fun'iki ga fukaku kankei shi te iru"
   },
   "jlpt-n3-需要-2197": {
-    "kana": "じゅよう を おぼえる",
-    "romaji": "juyou o oboeru"
+    "kana": "この もんだい に わ じゅよう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa juyou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-震える-1965": {
-    "kana": "ふるえる を おぼえる",
-    "romaji": "furueru o oboeru"
+    "kana": "せんせい の まえ で おちつい て ふるえる",
+    "romaji": "sensei no mae de ochitsui te furueru"
   },
   "jlpt-n3-青年-2231": {
-    "kana": "せいねん を おぼえる",
-    "romaji": "seinen o oboeru"
+    "kana": "せいねん に みち を たずね た",
+    "romaji": "seinen ni michi o tazune ta"
   },
   "jlpt-n3-面倒-2256": {
-    "kana": "めんどう を おぼえる",
-    "romaji": "mendou o oboeru"
+    "kana": "この もんだい に わ めんどう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mendou ga fukaku kankei shi te iru"
   },
   "jlpt-n3-革-1953": {
-    "kana": "かわ を おぼえる",
-    "romaji": "kawa o oboeru"
+    "kana": "じゅぎょう で かわ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kawa o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-頃-2450": {
-    "kana": "ころ を おぼえる",
-    "romaji": "koro o oboeru"
+    "kana": "じゅぎょう で ころ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de koro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-順-2074": {
-    "kana": "じゅん を おぼえる",
-    "romaji": "jun o oboeru"
+    "kana": "じゅぎょう で じゅん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jun o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-順調-2319": {
-    "kana": "じゅんちょう を おぼえる",
-    "romaji": "junchou o oboeru"
+    "kana": "じゅんちょう え まっすぐ すすん だ",
+    "romaji": "junchou e massugu susun da"
   },
   "jlpt-n3-預ける-2061": {
-    "kana": "あづける を おぼえる",
-    "romaji": "azukeru o oboeru"
+    "kana": "ともだち に にもつ を あづける",
+    "romaji": "tomodachi ni nimotsu o azukeru"
   },
   "jlpt-n3-頬-2015": {
-    "kana": "ほお を おぼえる",
-    "romaji": "hoo o oboeru"
+    "kana": "ほお が すこし いたい",
+    "romaji": "hoo ga sukoshi itai"
   },
   "jlpt-n3-頭痛-2217": {
-    "kana": "ずつう を おぼえる",
-    "romaji": "zutsuu o oboeru"
+    "kana": "かいぎ で ずつう について はなしあっ た",
+    "romaji": "kaigi de zutsuu nitsuite hanashia ta"
   },
   "jlpt-n3-額-2408": {
-    "kana": "がく を おぼえる",
-    "romaji": "gaku o oboeru"
+    "kana": "じゅぎょう で がく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-願い-1943": {
-    "kana": "ねがい を おぼえる",
-    "romaji": "negai o oboeru"
+    "kana": "その けいけん から ねがい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara negai no taisetsu sa o shi ta"
   },
   "jlpt-n3-風呂-2159": {
-    "kana": "ふろ を おぼえる",
-    "romaji": "furo o oboeru"
+    "kana": "その けいけん から ふろ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara furo no taisetsu sa o shi ta"
   },
   "jlpt-n3-風景-2242": {
-    "kana": "ふうけい を おぼえる",
-    "romaji": "fuukei o oboeru"
+    "kana": "じゅぎょう で ふうけい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de fuukei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-飛行-2098": {
-    "kana": "ひこう を おぼえる",
-    "romaji": "hikou o oboeru"
+    "kana": "じゅぎょう で ひこう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de hikou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-食卓-2105": {
-    "kana": "しょくたく を おぼえる",
-    "romaji": "shokutaku o oboeru"
+    "kana": "その けいけん から しょくたく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shokutaku no taisetsu sa o shi ta"
   },
   "jlpt-n3-食品-2114": {
-    "kana": "しょくひん を おぼえる",
-    "romaji": "shokuhin o oboeru"
+    "kana": "この もんだい に わ しょくひん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shokuhin ga fukaku kankei shi te iru"
   },
   "jlpt-n3-食欲-2481": {
-    "kana": "しょくよく を おぼえる",
-    "romaji": "shokuyoku o oboeru"
+    "kana": "ひる に しょくよく を すこし たべ た",
+    "romaji": "hiru ni shokuyoku o sukoshi tabe ta"
   },
   "jlpt-n3-食物-2548": {
-    "kana": "しょくもつ を おぼえる",
-    "romaji": "shokumotsu o oboeru"
+    "kana": "ひる に しょくもつ を すこし たべ た",
+    "romaji": "hiru ni shokumotsu o sukoshi tabe ta"
   },
   "jlpt-n3-飼う-2140": {
-    "kana": "かう を おぼえる",
-    "romaji": "kau o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし かう",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi kau"
   },
   "jlpt-n3-飽きる-1993": {
-    "kana": "あきる を おぼえる",
-    "romaji": "akiru o oboeru"
+    "kana": "しっぱい し て も もういちど あきる",
+    "romaji": "shippai shi te mo mouichido akiru"
   },
   "jlpt-n3-首相-2282": {
-    "kana": "しゅしょう を おぼえる",
-    "romaji": "shushou o oboeru"
+    "kana": "その けいけん から しゅしょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shushou no taisetsu sa o shi ta"
   },
   "jlpt-n3-香り-1947": {
-    "kana": "かおり を おぼえる",
-    "romaji": "kaori o oboeru"
+    "kana": "じゅぎょう で かおり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kaori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-馬-1945": {
-    "kana": "うま を おぼえる",
-    "romaji": "uma o oboeru"
+    "kana": "かいぎ で うま について はなしあっ た",
+    "romaji": "kaigi de uma nitsuite hanashia ta"
   },
   "jlpt-n3-駄目-2480": {
-    "kana": "だめ を おぼえる",
-    "romaji": "dame o oboeru"
+    "kana": "じゅぎょう で だめ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dame o gutai teki ni setsumei shi ta"
   },
   "jlpt-n3-騒ぎ-2116": {
-    "kana": "さわぎ を おぼえる",
-    "romaji": "sawagi o oboeru"
+    "kana": "かいぎ で さわぎ について はなしあっ た",
+    "romaji": "kaigi de sawagi nitsuite hanashia ta"
   },
   "jlpt-n3-骨折-2172": {
-    "kana": "こっせつ を おぼえる",
-    "romaji": "kossetsu o oboeru"
+    "kana": "この もんだい に わ こっせつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kossetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n3-髪の毛-2545": {
-    "kana": "かみのけ を おぼえる",
-    "romaji": "kaminoke o oboeru"
+    "kana": "この もんだい に わ かみのけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kaminoke ga fukaku kankei shi te iru"
   },
   "jlpt-n3-魚-2265": {
-    "kana": "さかな を おぼえる",
-    "romaji": "sakana o oboeru"
+    "kana": "かいぎ で さかな について はなしあっ た",
+    "romaji": "kaigi de sakana nitsuite hanashia ta"
   },
   "jlpt-n4-お-金持ち-2600": {
-    "kana": "お かねもち を おぼえる",
-    "romaji": "o kanemochi o oboeru"
+    "kana": "お かねもち に みち を たずね た",
+    "romaji": "o kanemochi ni michi o tazune ta"
   },
   "jlpt-n4-お土産-2687": {
-    "kana": "お みやげ を おぼえる",
-    "romaji": "o miyage o oboeru"
+    "kana": "かいぎ で お みやげ について はなしあっ た",
+    "romaji": "kaigi de o miyage nitsuite hanashia ta"
   },
   "jlpt-n4-お嬢さん-2558": {
-    "kana": "おじょうさん を おぼえる",
-    "romaji": "ojousan o oboeru"
+    "kana": "この もんだい に わ おじょうさん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ojousan ga fukaku kankei shi te iru"
   },
   "jlpt-n4-お宅-2718": {
-    "kana": "お たく を おぼえる",
-    "romaji": "o taku o oboeru"
+    "kana": "しゅうまつ に お たく え いっ た",
+    "romaji": "shuumatsu ni o taku e i ta"
   },
   "jlpt-n4-お礼-2644": {
-    "kana": "おれい を おぼえる",
-    "romaji": "orei o oboeru"
+    "kana": "じゅぎょう で おれい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de orei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-お祝い-2563": {
-    "kana": "おいわい を おぼえる",
-    "romaji": "oiwai o oboeru"
+    "kana": "じゅぎょう で おいわい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de oiwai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-お祭り-2689": {
-    "kana": "お まつり を おぼえる",
-    "romaji": "o matsuri o oboeru"
+    "kana": "その けいけん から お まつり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara o matsuri no taisetsu sa o shi ta"
   },
   "jlpt-n4-お見舞い-2691": {
-    "kana": "お みまい を おぼえる",
-    "romaji": "o mimai o oboeru"
+    "kana": "この もんだい に わ お みまい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa o mimai ga fukaku kankei shi te iru"
   },
   "jlpt-n4-さ来月-2661": {
-    "kana": "さ らいげつ を おぼえる",
-    "romaji": "sa raigetsu o oboeru"
+    "kana": "さ らいげつ に ともだち と あう",
+    "romaji": "sa raigetsu ni tomodachi to au"
   },
   "jlpt-n4-一度-2576": {
-    "kana": "いち ど を おぼえる",
-    "romaji": "ichi do o oboeru"
+    "kana": "この もんだい に わ いち ど が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ichi do ga fukaku kankei shi te iru"
   },
   "jlpt-n4-一生懸命-2564": {
-    "kana": "いっしょうけんめい を おぼえる",
-    "romaji": "isshoukenmei o oboeru"
+    "kana": "かいぎ で いっしょうけんめい について はなしあっ た",
+    "romaji": "kaigi de isshoukenmei nitsuite hanashia ta"
   },
   "jlpt-n4-丁寧-2584": {
-    "kana": "ていねい を おぼえる",
-    "romaji": "teinei o oboeru"
+    "kana": "この もんだい に わ ていねい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa teinei ga fukaku kankei shi te iru"
   },
   "jlpt-n4-上る-2699": {
-    "kana": "のぼる を おぼえる",
-    "romaji": "noboru o oboeru"
+    "kana": "ひつよう な とき に すぐ のぼる",
+    "romaji": "hitsuyou na toki ni sugu noboru"
   },
   "jlpt-n4-下宿-2624": {
-    "kana": "げしゅく を おぼえる",
-    "romaji": "geshuku o oboeru"
+    "kana": "この もんだい に わ げしゅく が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa geshuku ga fukaku kankei shi te iru"
   },
   "jlpt-n4-不便-2819": {
-    "kana": "ふべん を おぼえる",
-    "romaji": "fuben o oboeru"
+    "kana": "かいぎ で ふべん について はなしあっ た",
+    "romaji": "kaigi de fuben nitsuite hanashia ta"
   },
   "jlpt-n4-世界-2615": {
-    "kana": "せかい を おぼえる",
-    "romaji": "sekai o oboeru"
+    "kana": "かいぎ で せかい について はなしあっ た",
+    "romaji": "kaigi de sekai nitsuite hanashia ta"
   },
   "jlpt-n4-世話-2605": {
-    "kana": "せわ を おぼえる",
-    "romaji": "sewa o oboeru"
+    "kana": "まど の そと を じっと せわ",
+    "romaji": "mado no soto o jitto sewa"
   },
   "jlpt-n4-両方-2744": {
-    "kana": "りょうほう を おぼえる",
-    "romaji": "ryouhou o oboeru"
+    "kana": "その けいけん から りょうほう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ryouhou no taisetsu sa o shi ta"
   },
   "jlpt-n4-久しぶり-2800": {
-    "kana": "ひさしぶり を おぼえる",
-    "romaji": "hisashiburi o oboeru"
+    "kana": "その けいけん から ひさしぶり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hisashiburi no taisetsu sa o shi ta"
   },
   "jlpt-n4-乗り換える-2677": {
-    "kana": "のりかえる を おぼえる",
-    "romaji": "norikaeru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし のりかえる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi norikaeru"
   },
   "jlpt-n4-乾く-2630": {
-    "kana": "かわく を おぼえる",
-    "romaji": "kawaku o oboeru"
+    "kana": "ひつよう な とき に すぐ かわく",
+    "romaji": "hitsuyou na toki ni sugu kawaku"
   },
   "jlpt-n4-予定-2665": {
-    "kana": "よてい を おぼえる",
-    "romaji": "yotei o oboeru"
+    "kana": "この もんだい に わ よてい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yotei ga fukaku kankei shi te iru"
   },
   "jlpt-n4-事故-2749": {
-    "kana": "じこ を おぼえる",
-    "romaji": "jiko o oboeru"
+    "kana": "じゅぎょう で じこ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jiko o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-二階建て-2787": {
-    "kana": "に かい だて を おぼえる",
-    "romaji": "ni kai date o oboeru"
+    "kana": "こたえ わ に かい だて です",
+    "romaji": "kotae wa ni kai date desu"
   },
   "jlpt-n4-交通-2825": {
-    "kana": "こうつう を おぼえる",
-    "romaji": "koutsuu o oboeru"
+    "kana": "かいぎ で こうつう について はなしあっ た",
+    "romaji": "kaigi de koutsuu nitsuite hanashia ta"
   },
   "jlpt-n4-人口-2693": {
-    "kana": "じんこう を おぼえる",
-    "romaji": "jinkou o oboeru"
+    "kana": "その けいけん から じんこう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jinkou no taisetsu sa o shi ta"
   },
   "jlpt-n4-今夜-2791": {
-    "kana": "こんや を おぼえる",
-    "romaji": "kon'ya o oboeru"
+    "kana": "その けいけん から こんや の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kon'ya no taisetsu sa o shi ta"
   },
   "jlpt-n4-今度-2724": {
-    "kana": "こんど を おぼえる",
-    "romaji": "kondo o oboeru"
+    "kana": "じゅぎょう で こんど を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kondo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-仕方-2657": {
-    "kana": "しかた を おぼえる",
-    "romaji": "shikata o oboeru"
+    "kana": "じゅぎょう で しかた を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shikata o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-付く-2561": {
-    "kana": "つく を おぼえる",
-    "romaji": "tsuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て つく",
+    "romaji": "sensei no mae de ochitsui te tsuku"
   },
   "jlpt-n4-代わり-2603": {
-    "kana": "かわり を おぼえる",
-    "romaji": "kawari o oboeru"
+    "kana": "この もんだい に わ かわり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kawari ga fukaku kankei shi te iru"
   },
   "jlpt-n4-以上-2592": {
-    "kana": "いじょう を おぼえる",
-    "romaji": "ijou o oboeru"
+    "kana": "この もんだい に わ いじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ijou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-以下-2633": {
-    "kana": "いか を おぼえる",
-    "romaji": "ika o oboeru"
+    "kana": "この もんだい に わ いか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ika ga fukaku kankei shi te iru"
   },
   "jlpt-n4-会話-2606": {
-    "kana": "かいわ を おぼえる",
-    "romaji": "kaiwa o oboeru"
+    "kana": "その けいけん から かいわ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kaiwa no taisetsu sa o shi ta"
   },
   "jlpt-n4-会議室-2762": {
-    "kana": "かいぎ しつ を おぼえる",
-    "romaji": "kaigi shitsu o oboeru"
+    "kana": "かいぎ しつ で ともだち を まっ た",
+    "romaji": "kaigi shitsu de tomodachi o ma ta"
   },
   "jlpt-n4-似る-2747": {
-    "kana": "にる を おぼえる",
-    "romaji": "niru o oboeru"
+    "kana": "しっぱい し て も もういちど にる",
+    "romaji": "shippai shi te mo mouichido niru"
   },
   "jlpt-n4-住所-2655": {
-    "kana": "じゅうしょ を おぼえる",
-    "romaji": "juusho o oboeru"
+    "kana": "じゅぎょう で じゅうしょ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de juusho o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-例えば-2755": {
-    "kana": "たとえば を おぼえる",
-    "romaji": "tatoeba o oboeru"
+    "kana": "その けいけん から たとえば の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tatoeba no taisetsu sa o shi ta"
   },
   "jlpt-n4-倒れる-2823": {
-    "kana": "たおれる を おぼえる",
-    "romaji": "taoreru o oboeru"
+    "kana": "ひつよう な とき に すぐ たおれる",
+    "romaji": "hitsuyou na toki ni sugu taoreru"
   },
   "jlpt-n4-僕-2775": {
-    "kana": "ぼく を おぼえる",
-    "romaji": "boku o oboeru"
+    "kana": "てすと で わ かいぎ で ぼく について はなしあっ た",
+    "romaji": "tesuto de wa kaigi de boku nitsuite hanashia ta"
   },
   "jlpt-n4-優しい-2638": {
-    "kana": "やさしい を おぼえる",
-    "romaji": "yasashii o oboeru"
+    "kana": "その けいけん から やさしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yasashii no taisetsu sa o shi ta"
   },
   "jlpt-n4-光-2824": {
-    "kana": "ひかり を おぼえる",
-    "romaji": "hikari o oboeru"
+    "kana": "ひかり の おと で あさ に きづい た",
+    "romaji": "hikari no oto de asa ni kizui ta"
   },
   "jlpt-n4-入院-2736": {
-    "kana": "にゅういん を おぼえる",
-    "romaji": "nyuuin o oboeru"
+    "kana": "ひつよう な とき に すぐ にゅういん",
+    "romaji": "hitsuyou na toki ni sugu nyuuin"
   },
   "jlpt-n4-公務員-2647": {
-    "kana": "こうむいん を おぼえる",
-    "romaji": "koumuin o oboeru"
+    "kana": "その けいけん から こうむいん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara koumuin no taisetsu sa o shi ta"
   },
   "jlpt-n4-最初-2578": {
-    "kana": "さいしょ を おぼえる",
-    "romaji": "saisho o oboeru"
+    "kana": "かいぎ で さいしょ について はなしあっ た",
+    "romaji": "kaigi de saisho nitsuite hanashia ta"
   },
   "jlpt-n4-写す-2679": {
-    "kana": "うつす を おぼえる",
-    "romaji": "utsusu o oboeru"
+    "kana": "ひつよう な とき に すぐ うつす",
+    "romaji": "hitsuyou na toki ni sugu utsusu"
   },
   "jlpt-n4-冷える-2684": {
-    "kana": "ひえる を おぼえる",
-    "romaji": "hieru o oboeru"
+    "kana": "しっぱい し て も もういちど ひえる",
+    "romaji": "shippai shi te mo mouichido hieru"
   },
   "jlpt-n4-出席-2667": {
-    "kana": "しゅっせき を おぼえる",
-    "romaji": "shusseki o oboeru"
+    "kana": "せんせい の まえ で おちつい て しゅっせき",
+    "romaji": "sensei no mae de ochitsui te shusseki"
   },
   "jlpt-n4-割れる-2795": {
-    "kana": "われる を おぼえる",
-    "romaji": "wareru o oboeru"
+    "kana": "せんせい の まえ で おちつい て われる",
+    "romaji": "sensei no mae de ochitsui te wareru"
   },
   "jlpt-n4-割合-2802": {
-    "kana": "わりあい を おぼえる",
-    "romaji": "wariai o oboeru"
+    "kana": "その けいけん から わりあい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara wariai no taisetsu sa o shi ta"
   },
   "jlpt-n4-動く-2737": {
-    "kana": "うごく を おぼえる",
-    "romaji": "ugoku o oboeru"
+    "kana": "ひつよう な とき に すぐ うごく",
+    "romaji": "hitsuyou na toki ni sugu ugoku"
   },
   "jlpt-n4-厳しい-2637": {
-    "kana": "きびしい を おぼえる",
-    "romaji": "kibishii o oboeru"
+    "kana": "その けいけん から きびしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kibishii no taisetsu sa o shi ta"
   },
   "jlpt-n4-参る-2738": {
-    "kana": "まいる を おぼえる",
-    "romaji": "mairu o oboeru"
+    "kana": "じゅぎょう の あと えき え まいる",
+    "romaji": "jugyou no ato eki e mairu"
   },
   "jlpt-n4-取り替える-2768": {
-    "kana": "とりかえる を おぼえる",
-    "romaji": "torikaeru o oboeru"
+    "kana": "ひつよう な とき に すぐ とりかえる",
+    "romaji": "hitsuyou na toki ni sugu torikaeru"
   },
   "jlpt-n4-受ける-2557": {
-    "kana": "うける を おぼえる",
-    "romaji": "ukeru o oboeru"
+    "kana": "ともだち に にもつ を うける",
+    "romaji": "tomodachi ni nimotsu o ukeru"
   },
   "jlpt-n4-受付-2602": {
-    "kana": "うけつけ を おぼえる",
-    "romaji": "uketsuke o oboeru"
+    "kana": "この もんだい に わ うけつけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa uketsuke ga fukaku kankei shi te iru"
   },
   "jlpt-n4-召し上がる-2719": {
-    "kana": "めしあがる を おぼえる",
-    "romaji": "meshiagaru o oboeru"
+    "kana": "ひる に あたたかい ごはん を めしあがる",
+    "romaji": "hiru ni atatakai gohan o meshiagaru"
   },
   "jlpt-n4-合う-2617": {
-    "kana": "あう を おぼえる",
-    "romaji": "au o oboeru"
+    "kana": "しっぱい し て も もういちど あう",
+    "romaji": "shippai shi te mo mouichido au"
   },
   "jlpt-n4-向かう-2607": {
-    "kana": "むかう を おぼえる",
-    "romaji": "mukau o oboeru"
+    "kana": "しっぱい し て も もういちど むかう",
+    "romaji": "shippai shi te mo mouichido mukau"
   },
   "jlpt-n4-周り-2650": {
-    "kana": "まわり を おぼえる",
-    "romaji": "mawari o oboeru"
+    "kana": "この もんだい に わ まわり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mawari ga fukaku kankei shi te iru"
   },
   "jlpt-n4-味噌-2809": {
-    "kana": "みそ を おぼえる",
-    "romaji": "miso o oboeru"
+    "kana": "この もんだい に わ みそ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa miso ga fukaku kankei shi te iru"
   },
   "jlpt-n4-地理-2746": {
-    "kana": "ちり を おぼえる",
-    "romaji": "chiri o oboeru"
+    "kana": "その けいけん から ちり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chiri no taisetsu sa o shi ta"
   },
   "jlpt-n4-坂-2702": {
-    "kana": "さか を おぼえる",
-    "romaji": "saka o oboeru"
+    "kana": "かいぎ で さか について はなしあっ た",
+    "romaji": "kaigi de saka nitsuite hanashia ta"
   },
   "jlpt-n4-場合-2730": {
-    "kana": "ばあい を おぼえる",
-    "romaji": "baai o oboeru"
+    "kana": "じゅぎょう で ばあい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de baai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-増える-2608": {
-    "kana": "ふえる を おぼえる",
-    "romaji": "fueru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし ふえる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi fueru"
   },
   "jlpt-n4-壁-2668": {
-    "kana": "かべ を おぼえる",
-    "romaji": "kabe o oboeru"
+    "kana": "かいぎ で かべ について はなしあっ た",
+    "romaji": "kaigi de kabe nitsuite hanashia ta"
   },
   "jlpt-n4-壊れる-2725": {
-    "kana": "こわれる を おぼえる",
-    "romaji": "kowareru o oboeru"
+    "kana": "せんせい の まえ で おちつい て こわれる",
+    "romaji": "sensei no mae de ochitsui te kowareru"
   },
   "jlpt-n4-変-2613": {
-    "kana": "へん を おぼえる",
-    "romaji": "hen o oboeru"
+    "kana": "その けいけん から へん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hen no taisetsu sa o shi ta"
   },
   "jlpt-n4-変える-2580": {
-    "kana": "かえる を おぼえる",
-    "romaji": "kaeru o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし かえる",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi kaeru"
   },
   "jlpt-n4-大体-2646": {
-    "kana": "だいたい を おぼえる",
-    "romaji": "daitai o oboeru"
+    "kana": "その けいけん から だいたい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara daitai no taisetsu sa o shi ta"
   },
   "jlpt-n4-大分-2641": {
-    "kana": "おおいた を おぼえる",
-    "romaji": "ooita o oboeru"
+    "kana": "その けいけん から おおいた の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ooita no taisetsu sa o shi ta"
   },
   "jlpt-n4-大学生-2788": {
-    "kana": "だいがくせい を おぼえる",
-    "romaji": "daigakusei o oboeru"
+    "kana": "だいがくせい に みち を たずね た",
+    "romaji": "daigakusei ni michi o tazune ta"
   },
   "jlpt-n4-失敗-2622": {
-    "kana": "しっぱい を おぼえる",
-    "romaji": "shippai o oboeru"
+    "kana": "この もんだい に わ しっぱい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shippai ga fukaku kankei shi te iru"
   },
   "jlpt-n4-妻-2778": {
-    "kana": "つま を おぼえる",
-    "romaji": "tsuma o oboeru"
+    "kana": "じゅぎょう で つま を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tsuma o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-子-2721": {
-    "kana": "こ を おぼえる",
-    "romaji": "ko o oboeru"
+    "kana": "こ に みち を たずね た",
+    "romaji": "ko ni michi o tazune ta"
   },
   "jlpt-n4-字-2636": {
-    "kana": "じ を おぼえる",
-    "romaji": "ji o oboeru"
+    "kana": "この もんだい に わ じ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ji ga fukaku kankei shi te iru"
   },
   "jlpt-n4-季節-2610": {
-    "kana": "きせつ を おぼえる",
-    "romaji": "kisetsu o oboeru"
+    "kana": "この もんだい に わ きせつ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kisetsu ga fukaku kankei shi te iru"
   },
   "jlpt-n4-安全-2816": {
-    "kana": "あんぜん を おぼえる",
-    "romaji": "anzen o oboeru"
+    "kana": "その けいけん から あんぜん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara anzen no taisetsu sa o shi ta"
   },
   "jlpt-n4-家内-2783": {
-    "kana": "かない を おぼえる",
-    "romaji": "kanai o oboeru"
+    "kana": "かいぎ で かない について はなしあっ た",
+    "romaji": "kaigi de kanai nitsuite hanashia ta"
   },
   "jlpt-n4-寂しい-2751": {
-    "kana": "さびしい を おぼえる",
-    "romaji": "sabishii o oboeru"
+    "kana": "その けいけん から さびしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sabishii no taisetsu sa o shi ta"
   },
   "jlpt-n4-寄る-2635": {
-    "kana": "よる を おぼえる",
-    "romaji": "yoru o oboeru"
+    "kana": "しっぱい し て も もういちど よる",
+    "romaji": "shippai shi te mo mouichido yoru"
   },
   "jlpt-n4-寺-2797": {
-    "kana": "てら を おぼえる",
-    "romaji": "tera o oboeru"
+    "kana": "この もんだい に わ てら が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tera ga fukaku kankei shi te iru"
   },
   "jlpt-n4-小学校-2711": {
-    "kana": "しょうがっこう を おぼえる",
-    "romaji": "shougakkou o oboeru"
+    "kana": "しょうがっこう で ともだち を まっ た",
+    "romaji": "shougakkou de tomodachi o ma ta"
   },
   "jlpt-n4-小説-2705": {
-    "kana": "しょうせつ を おぼえる",
-    "romaji": "shousetsu o oboeru"
+    "kana": "その けいけん から しょうせつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shousetsu no taisetsu sa o shi ta"
   },
   "jlpt-n4-小鳥-2618": {
-    "kana": "ことり を おぼえる",
-    "romaji": "kotori o oboeru"
+    "kana": "じゅぎょう で ことり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kotori o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-届ける-2594": {
-    "kana": "とどける を おぼえる",
-    "romaji": "todokeru o oboeru"
+    "kana": "じゅぎょう の あと えき え とどける",
+    "romaji": "jugyou no ato eki e todokeru"
   },
   "jlpt-n4-屋上-2686": {
-    "kana": "おくじょう を おぼえる",
-    "romaji": "okujou o oboeru"
+    "kana": "その けいけん から おくじょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara okujou no taisetsu sa o shi ta"
   },
   "jlpt-n4-工場-2774": {
-    "kana": "こうじょう を おぼえる",
-    "romaji": "koujou o oboeru"
+    "kana": "この もんだい に わ こうじょう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koujou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-工業-2810": {
-    "kana": "こうぎょう を おぼえる",
-    "romaji": "kougyou o oboeru"
+    "kana": "その けいけん から こうぎょう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kougyou no taisetsu sa o shi ta"
   },
   "jlpt-n4-市-2735": {
-    "kana": "し を おぼえる",
-    "romaji": "shi o oboeru"
+    "kana": "し で ともだち を まっ た",
+    "romaji": "shi de tomodachi o ma ta"
   },
   "jlpt-n4-市民-2560": {
-    "kana": "しみん を おぼえる",
-    "romaji": "shimin o oboeru"
+    "kana": "かいぎ で しみん について はなしあっ た",
+    "romaji": "kaigi de shimin nitsuite hanashia ta"
   },
   "jlpt-n4-布団-2785": {
-    "kana": "ふとん を おぼえる",
-    "romaji": "futon o oboeru"
+    "kana": "その けいけん から ふとん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara futon no taisetsu sa o shi ta"
   },
   "jlpt-n4-建てる-2799": {
-    "kana": "たてる を おぼえる",
-    "romaji": "tateru o oboeru"
+    "kana": "ひつよう な とき に すぐ たてる",
+    "romaji": "hitsuyou na toki ni sugu tateru"
   },
   "jlpt-n4-引き出す-2793": {
-    "kana": "ひきだす を おぼえる",
-    "romaji": "hikidasu o oboeru"
+    "kana": "あぶない と おもっ たら すぐ ひきだす",
+    "romaji": "abunai to omo tara sugu hikidasu"
   },
   "jlpt-n4-役に立つ-2678": {
-    "kana": "やくにたつ を おぼえる",
-    "romaji": "yakunitatsu o oboeru"
+    "kana": "しっぱい し て も もういちど やくにたつ",
+    "romaji": "shippai shi te mo mouichido yakunitatsu"
   },
   "jlpt-n4-彼-2777": {
-    "kana": "かれ を おぼえる",
-    "romaji": "kare o oboeru"
+    "kana": "かいぎ で かれ について はなしあっ た",
+    "romaji": "kaigi de kare nitsuite hanashia ta"
   },
   "jlpt-n4-彼ら-2634": {
-    "kana": "かれら を おぼえる",
-    "romaji": "karera o oboeru"
+    "kana": "その けいけん から かれら の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara karera no taisetsu sa o shi ta"
   },
   "jlpt-n4-御主人-2756": {
-    "kana": "ご しゅじん を おぼえる",
-    "romaji": "go shujin o oboeru"
+    "kana": "じゅぎょう で ご しゅじん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de go shujin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-復習-2566": {
-    "kana": "ふくしゅう を おぼえる",
-    "romaji": "fukushuu o oboeru"
+    "kana": "この もんだい に わ ふくしゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fukushuu ga fukaku kankei shi te iru"
   },
   "jlpt-n4-怒る-2587": {
-    "kana": "おこる を おぼえる",
-    "romaji": "okoru o oboeru"
+    "kana": "ひつよう な とき に すぐ おこる",
+    "romaji": "hitsuyou na toki ni sugu okoru"
   },
   "jlpt-n4-怖い-2555": {
-    "kana": "こわい を おぼえる",
-    "romaji": "kowai o oboeru"
+    "kana": "その けいけん から こわい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kowai no taisetsu sa o shi ta"
   },
   "jlpt-n4-思い出す-2713": {
-    "kana": "おもいだす を おぼえる",
-    "romaji": "omoidasu o oboeru"
+    "kana": "あたらしい かんじ わ なん ど も かい て おもいだす",
+    "romaji": "atarashii kanji wa nan do mo kai te omoidasu"
   },
   "jlpt-n4-思う-2625": {
-    "kana": "おもう を おぼえる",
-    "romaji": "omou o oboeru"
+    "kana": "こたえ を だす まえ に よく おもう",
+    "romaji": "kotae o dasu mae ni yoku omou"
   },
   "jlpt-n4-急-2567": {
-    "kana": "きゅう を おぼえる",
-    "romaji": "kyuu o oboeru"
+    "kana": "この もんだい に わ きゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n4-恥ずかしい-2821": {
-    "kana": "はずかしい を おぼえる",
-    "romaji": "hazukashii o oboeru"
+    "kana": "その けいけん から はずかしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hazukashii no taisetsu sa o shi ta"
   },
   "jlpt-n4-悲しい-2720": {
-    "kana": "かなしい を おぼえる",
-    "romaji": "kanashii o oboeru"
+    "kana": "じゅぎょう で かなしい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kanashii o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-意見-2731": {
-    "kana": "いけん を おぼえる",
-    "romaji": "iken o oboeru"
+    "kana": "かいぎ で いけん について はなしあっ た",
+    "romaji": "kaigi de iken nitsuite hanashia ta"
   },
   "jlpt-n4-戦争-2765": {
-    "kana": "せんそう を おぼえる",
-    "romaji": "sensou o oboeru"
+    "kana": "その けいけん から せんそう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sensou no taisetsu sa o shi ta"
   },
   "jlpt-n4-手伝う-2574": {
-    "kana": "てつだう を おぼえる",
-    "romaji": "tetsudau o oboeru"
+    "kana": "せんせい の まえ で おちつい て てつだう",
+    "romaji": "sensei no mae de ochitsui te tetsudau"
   },
   "jlpt-n4-打つ-2822": {
-    "kana": "うつ を おぼえる",
-    "romaji": "utsu o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に うつ",
+    "romaji": "dougu o tsuka te teinei ni utsu"
   },
   "jlpt-n4-払う-2745": {
-    "kana": "はらう を おぼえる",
-    "romaji": "harau o oboeru"
+    "kana": "ともだち に にもつ を はらう",
+    "romaji": "tomodachi ni nimotsu o harau"
   },
   "jlpt-n4-技術-2703": {
-    "kana": "ぎじゅつ を おぼえる",
-    "romaji": "gijutsu o oboeru"
+    "kana": "じゅぎょう で ぎじゅつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de gijutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-投げる-2579": {
-    "kana": "なげる を おぼえる",
-    "romaji": "nageru o oboeru"
+    "kana": "せんせい の まえ で おちつい て なげる",
+    "romaji": "sensei no mae de ochitsui te nageru"
   },
   "jlpt-n4-折る-2723": {
-    "kana": "おる を おぼえる",
-    "romaji": "oru o oboeru"
+    "kana": "ひつよう な とき に すぐ おる",
+    "romaji": "hitsuyou na toki ni sugu oru"
   },
   "jlpt-n4-折れる-2575": {
-    "kana": "おれる を おぼえる",
-    "romaji": "oreru o oboeru"
+    "kana": "しっぱい し て も もういちど おれる",
+    "romaji": "shippai shi te mo mouichido oreru"
   },
   "jlpt-n4-押し入れ-2660": {
-    "kana": "おしいれ を おぼえる",
-    "romaji": "oshiire o oboeru"
+    "kana": "この もんだい に わ おしいれ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oshiire ga fukaku kankei shi te iru"
   },
   "jlpt-n4-招待-2776": {
-    "kana": "しょうたい を おぼえる",
-    "romaji": "shoutai o oboeru"
+    "kana": "しっぱい し て も もういちど しょうたい",
+    "romaji": "shippai shi te mo mouichido shoutai"
   },
   "jlpt-n4-指輪-2568": {
-    "kana": "ゆびわ を おぼえる",
-    "romaji": "yubiwa o oboeru"
+    "kana": "この もんだい に わ ゆびわ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yubiwa ga fukaku kankei shi te iru"
   },
   "jlpt-n4-捕まえる-2727": {
-    "kana": "つかまえる を おぼえる",
-    "romaji": "tsukamaeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て つかまえる",
+    "romaji": "sensei no mae de ochitsui te tsukamaeru"
   },
   "jlpt-n4-掛ける-2593": {
-    "kana": "かける を おぼえる",
-    "romaji": "kakeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て かける",
+    "romaji": "sensei no mae de ochitsui te kakeru"
   },
   "jlpt-n4-支度-2769": {
-    "kana": "したく を おぼえる",
-    "romaji": "shitaku o oboeru"
+    "kana": "しっぱい し て も もういちど したく",
+    "romaji": "shippai shi te mo mouichido shitaku"
   },
   "jlpt-n4-故障-2554": {
-    "kana": "こしょう を おぼえる",
-    "romaji": "koshou o oboeru"
+    "kana": "ひつよう な とき に すぐ こしょう",
+    "romaji": "hitsuyou na toki ni sugu koshou"
   },
   "jlpt-n4-文学-2598": {
-    "kana": "ぶんがく を おぼえる",
-    "romaji": "bungaku o oboeru"
+    "kana": "じゅぎょう で ぶんがく を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de bungaku o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-文法-2741": {
-    "kana": "ぶんぽう を おぼえる",
-    "romaji": "bunpou o oboeru"
+    "kana": "この もんだい に わ ぶんぽう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa bunpou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-日記-2643": {
-    "kana": "にっき を おぼえる",
-    "romaji": "nikki o oboeru"
+    "kana": "その けいけん から にっき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara nikki no taisetsu sa o shi ta"
   },
   "jlpt-n4-明日-2794": {
-    "kana": "あした を おぼえる",
-    "romaji": "ashita o oboeru"
+    "kana": "あした に ともだち と あう",
+    "romaji": "ashita ni tomodachi to au"
   },
   "jlpt-n4-星-2620": {
-    "kana": "ほし を おぼえる",
-    "romaji": "hoshi o oboeru"
+    "kana": "かいぎ で ほし について はなしあっ た",
+    "romaji": "kaigi de hoshi nitsuite hanashia ta"
   },
   "jlpt-n4-昼休み-2632": {
-    "kana": "ひるやすみ を おぼえる",
-    "romaji": "hiruyasumi o oboeru"
+    "kana": "かいぎ で ひるやすみ について はなしあっ た",
+    "romaji": "kaigi de hiruyasumi nitsuite hanashia ta"
   },
   "jlpt-n4-昼間-2581": {
-    "kana": "ひるま を おぼえる",
-    "romaji": "hiruma o oboeru"
+    "kana": "ひるま に ともだち と あう",
+    "romaji": "hiruma ni tomodachi to au"
   },
   "jlpt-n4-時代-2695": {
-    "kana": "じだい を おぼえる",
-    "romaji": "jidai o oboeru"
+    "kana": "かいぎ で じだい について はなしあっ た",
+    "romaji": "kaigi de jidai nitsuite hanashia ta"
   },
   "jlpt-n4-景色-2642": {
-    "kana": "けしき を おぼえる",
-    "romaji": "keshiki o oboeru"
+    "kana": "かいぎ で けしき について はなしあっ た",
+    "romaji": "kaigi de keshiki nitsuite hanashia ta"
   },
   "jlpt-n4-林-2710": {
-    "kana": "はやし を おぼえる",
-    "romaji": "hayashi o oboeru"
+    "kana": "この もんだい に わ はやし が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hayashi ga fukaku kankei shi te iru"
   },
   "jlpt-n4-枝-2786": {
-    "kana": "えだ を おぼえる",
-    "romaji": "eda o oboeru"
+    "kana": "この もんだい に わ えだ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa eda ga fukaku kankei shi te iru"
   },
   "jlpt-n4-案内-2817": {
-    "kana": "あんない を おぼえる",
-    "romaji": "annai o oboeru"
+    "kana": "しっぱい し て も もういちど あんない",
+    "romaji": "shippai shi te mo mouichido annai"
   },
   "jlpt-n4-棚-2818": {
-    "kana": "たな を おぼえる",
-    "romaji": "tana o oboeru"
+    "kana": "じゅぎょう で たな を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de tana o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-森-2734": {
-    "kana": "もり を おぼえる",
-    "romaji": "mori o oboeru"
+    "kana": "この もんだい に わ もり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mori ga fukaku kankei shi te iru"
   },
   "jlpt-n4-植える-2669": {
-    "kana": "うえる を おぼえる",
-    "romaji": "ueru o oboeru"
+    "kana": "しっぱい し て も もういちど うえる",
+    "romaji": "shippai shi te mo mouichido ueru"
   },
   "jlpt-n4-楽む-2789": {
-    "kana": "らく むを おぼえる",
-    "romaji": "raku muwo oboeru"
+    "kana": "しっぱい し て も もういちど らく む",
+    "romaji": "shippai shi te mo mouichido raku mu"
   },
   "jlpt-n4-機会-2626": {
-    "kana": "きかい を おぼえる",
-    "romaji": "kikai o oboeru"
+    "kana": "じゅぎょう で きかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kikai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-止む-2764": {
-    "kana": "やむ を おぼえる",
-    "romaji": "yamu o oboeru"
+    "kana": "かいぎ わ じかん どおり に やむ",
+    "romaji": "kaigi wa jikan doori ni yamu"
   },
   "jlpt-n4-歯医者-2662": {
-    "kana": "はいしゃ を おぼえる",
-    "romaji": "haisha o oboeru"
+    "kana": "この もんだい に わ はいしゃ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa haisha ga fukaku kankei shi te iru"
   },
   "jlpt-n4-歴史-2813": {
-    "kana": "れきし を おぼえる",
-    "romaji": "rekishi o oboeru"
+    "kana": "その けいけん から れきし の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara rekishi no taisetsu sa o shi ta"
   },
   "jlpt-n4-残る-2604": {
-    "kana": "のこる を おぼえる",
-    "romaji": "nokoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て のこる",
+    "romaji": "sensei no mae de ochitsui te nokoru"
   },
   "jlpt-n4-残念-2781": {
-    "kana": "ざんねん を おぼえる",
-    "romaji": "zannen o oboeru"
+    "kana": "じゅぎょう で ざんねん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de zannen o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-毛-2728": {
-    "kana": "け を おぼえる",
-    "romaji": "ke o oboeru"
+    "kana": "この もんだい に わ け が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ke ga fukaku kankei shi te iru"
   },
   "jlpt-n4-気分-2698": {
-    "kana": "きぶん を おぼえる",
-    "romaji": "kibun o oboeru"
+    "kana": "かいぎ で きぶん について はなしあっ た",
+    "romaji": "kaigi de kibun nitsuite hanashia ta"
   },
   "jlpt-n4-気持ち-2712": {
-    "kana": "きもち を おぼえる",
-    "romaji": "kimochi o oboeru"
+    "kana": "その けいけん から きもち の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kimochi no taisetsu sa o shi ta"
   },
   "jlpt-n4-水泳-2571": {
-    "kana": "すいえい を おぼえる",
-    "romaji": "suiei o oboeru"
+    "kana": "じゅぎょう で すいえい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de suiei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-汚れる-2651": {
-    "kana": "よごれる を おぼえる",
-    "romaji": "yogoreru o oboeru"
+    "kana": "しっぱい し て も もういちど よごれる",
+    "romaji": "shippai shi te mo mouichido yogoreru"
   },
   "jlpt-n4-決める-2792": {
-    "kana": "きめる を おぼえる",
-    "romaji": "kimeru o oboeru"
+    "kana": "こたえ を だす まえ に よく きめる",
+    "romaji": "kotae o dasu mae ni yoku kimeru"
   },
   "jlpt-n4-汽車-2623": {
-    "kana": "きしゃ を おぼえる",
-    "romaji": "kisha o oboeru"
+    "kana": "かいぎ で きしゃ について はなしあっ た",
+    "romaji": "kaigi de kisha nitsuite hanashia ta"
   },
   "jlpt-n4-沸く-2771": {
-    "kana": "わく を おぼえる",
-    "romaji": "waku o oboeru"
+    "kana": "ひつよう な とき に すぐ わく",
+    "romaji": "hitsuyou na toki ni sugu waku"
   },
   "jlpt-n4-泊まる-2700": {
-    "kana": "とまる を おぼえる",
-    "romaji": "tomaru o oboeru"
+    "kana": "しっぱい し て も もういちど とまる",
+    "romaji": "shippai shi te mo mouichido tomaru"
   },
   "jlpt-n4-法律-2671": {
-    "kana": "ほうりつ を おぼえる",
-    "romaji": "houritsu o oboeru"
+    "kana": "かいぎ で ほうりつ について はなしあっ た",
+    "romaji": "kaigi de houritsu nitsuite hanashia ta"
   },
   "jlpt-n4-泥棒-2688": {
-    "kana": "どろぼう を おぼえる",
-    "romaji": "dorobou o oboeru"
+    "kana": "かいぎ で どろぼう について はなしあっ た",
+    "romaji": "kaigi de dorobou nitsuite hanashia ta"
   },
   "jlpt-n4-注射-2640": {
-    "kana": "ちゅうしゃ を おぼえる",
-    "romaji": "chuusha o oboeru"
+    "kana": "かいぎ で ちゅうしゃ について はなしあっ た",
+    "romaji": "kaigi de chuusha nitsuite hanashia ta"
   },
   "jlpt-n4-注意-2656": {
-    "kana": "ちゅうい を おぼえる",
-    "romaji": "chuui o oboeru"
+    "kana": "この もんだい に わ ちゅうい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa chuui ga fukaku kankei shi te iru"
   },
   "jlpt-n4-浅い-2690": {
-    "kana": "あさい を おぼえる",
-    "romaji": "asai o oboeru"
+    "kana": "じゅぎょう で あさい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de asai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-海岸-2590": {
-    "kana": "かいがん を おぼえる",
-    "romaji": "kaigan o oboeru"
+    "kana": "かいぎ で かいがん について はなしあっ た",
+    "romaji": "kaigi de kaigan nitsuite hanashia ta"
   },
   "jlpt-n4-消しゴム-2772": {
-    "kana": "けしごむ を おぼえる",
-    "romaji": "keshigomu o oboeru"
+    "kana": "かいぎ で けしごむ について はなしあっ た",
+    "romaji": "kaigi de keshigomu nitsuite hanashia ta"
   },
   "jlpt-n4-深い-2709": {
-    "kana": "ふかい を おぼえる",
-    "romaji": "fukai o oboeru"
+    "kana": "この もんだい に わ ふかい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa fukai ga fukaku kankei shi te iru"
   },
   "jlpt-n4-済む-2565": {
-    "kana": "すむ を おぼえる",
-    "romaji": "sumu o oboeru"
+    "kana": "かいぎ わ じかん どおり に すむ",
+    "romaji": "kaigi wa jikan doori ni sumu"
   },
   "jlpt-n4-港-2673": {
-    "kana": "みなと を おぼえる",
-    "romaji": "minato o oboeru"
+    "kana": "かいぎ で みなと について はなしあっ た",
+    "romaji": "kaigi de minato nitsuite hanashia ta"
   },
   "jlpt-n4-漫画-2814": {
-    "kana": "まんが を おぼえる",
-    "romaji": "manga o oboeru"
+    "kana": "かいぎ で まんが について はなしあっ た",
+    "romaji": "kaigi de manga nitsuite hanashia ta"
   },
   "jlpt-n4-火事-2666": {
-    "kana": "かじ を おぼえる",
-    "romaji": "kaji o oboeru"
+    "kana": "かいぎ で かじ について はなしあっ た",
+    "romaji": "kaigi de kaji nitsuite hanashia ta"
   },
   "jlpt-n4-点-2664": {
-    "kana": "てん を おぼえる",
-    "romaji": "ten o oboeru"
+    "kana": "かいぎ で てん について はなしあっ た",
+    "romaji": "kaigi de ten nitsuite hanashia ta"
   },
   "jlpt-n4-為-2704": {
-    "kana": "ため を おぼえる",
-    "romaji": "tame o oboeru"
+    "kana": "この もんだい に わ ため が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tame ga fukaku kankei shi te iru"
   },
   "jlpt-n4-無理-2658": {
-    "kana": "むり を おぼえる",
-    "romaji": "muri o oboeru"
+    "kana": "かいぎ で むり について はなしあっ た",
+    "romaji": "kaigi de muri nitsuite hanashia ta"
   },
   "jlpt-n4-特に-2629": {
-    "kana": "とくに を おぼえる",
-    "romaji": "tokuni o oboeru"
+    "kana": "その けいけん から とくに の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tokuni no taisetsu sa o shi ta"
   },
   "jlpt-n4-特急-2696": {
-    "kana": "とっきゅう を おぼえる",
-    "romaji": "tokkyuu o oboeru"
+    "kana": "その けいけん から とっきゅう の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara tokkyuu no taisetsu sa o shi ta"
   },
   "jlpt-n4-理由-2680": {
-    "kana": "りゆう を おぼえる",
-    "romaji": "riyuu o oboeru"
+    "kana": "かいぎ で りゆう について はなしあっ た",
+    "romaji": "kaigi de riyuu nitsuite hanashia ta"
   },
   "jlpt-n4-生きる-2599": {
-    "kana": "いきる を おぼえる",
-    "romaji": "ikiru o oboeru"
+    "kana": "せんせい の まえ で おちつい て いきる",
+    "romaji": "sensei no mae de ochitsui te ikiru"
   },
   "jlpt-n4-生産-2670": {
-    "kana": "せいさん を おぼえる",
-    "romaji": "seisan o oboeru"
+    "kana": "しっぱい し て も もういちど せいさん",
+    "romaji": "shippai shi te mo mouichido seisan"
   },
   "jlpt-n4-用-2588": {
-    "kana": "よう を おぼえる",
-    "romaji": "you o oboeru"
+    "kana": "じゅぎょう で よう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de you o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-田舎-2796": {
-    "kana": "いなか を おぼえる",
-    "romaji": "inaka o oboeru"
+    "kana": "その けいけん から いなか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara inaka no taisetsu sa o shi ta"
   },
   "jlpt-n4-申し上げる-2683": {
-    "kana": "もうしあげる を おぼえる",
-    "romaji": "moushiageru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり もうしあげる",
+    "romaji": "kaigi de riyuu o hakkiri moushiageru"
   },
   "jlpt-n4-申す-2621": {
-    "kana": "もうす を おぼえる",
-    "romaji": "mousu o oboeru"
+    "kana": "かいぎ で りゆう を はっきり もうす",
+    "romaji": "kaigi de riyuu o hakkiri mousu"
   },
   "jlpt-n4-男性-2801": {
-    "kana": "だんせい を おぼえる",
-    "romaji": "dansei o oboeru"
+    "kana": "じゅぎょう で だんせい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de dansei o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-留守-2714": {
-    "kana": "るす を おぼえる",
-    "romaji": "rusu o oboeru"
+    "kana": "その けいけん から るす の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara rusu no taisetsu sa o shi ta"
   },
   "jlpt-n4-番組-2726": {
-    "kana": "ばんぐみ を おぼえる",
-    "romaji": "bangumi o oboeru"
+    "kana": "かいぎ で ばんぐみ について はなしあっ た",
+    "romaji": "kaigi de bangumi nitsuite hanashia ta"
   },
   "jlpt-n4-痩せる-2685": {
-    "kana": "やせる を おぼえる",
-    "romaji": "yaseru o oboeru"
+    "kana": "しずか な まち に へんか が やせる",
+    "romaji": "shizuka na machi ni henka ga yaseru"
   },
   "jlpt-n4-発音-2573": {
-    "kana": "はつおん を おぼえる",
-    "romaji": "hatsuon o oboeru"
+    "kana": "かいぎ で はつおん について はなしあっ た",
+    "romaji": "kaigi de hatsuon nitsuite hanashia ta"
   },
   "jlpt-n4-皆-2627": {
-    "kana": "みな を おぼえる",
-    "romaji": "mina o oboeru"
+    "kana": "かいぎ で みな について はなしあっ た",
+    "romaji": "kaigi de mina nitsuite hanashia ta"
   },
   "jlpt-n4-盗む-2701": {
-    "kana": "ぬすむ を おぼえる",
-    "romaji": "nusumu o oboeru"
+    "kana": "ひつよう な とき に すぐ ぬすむ",
+    "romaji": "hitsuyou na toki ni sugu nusumu"
   },
   "jlpt-n4-盛ん-2767": {
-    "kana": "さかん を おぼえる",
-    "romaji": "sakan o oboeru"
+    "kana": "じゅぎょう で さかん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sakan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-直す-2614": {
-    "kana": "なおす を おぼえる",
-    "romaji": "naosu o oboeru"
+    "kana": "しっぱい し て も もういちど なおす",
+    "romaji": "shippai shi te mo mouichido naosu"
   },
   "jlpt-n4-直る-2570": {
-    "kana": "なおる を おぼえる",
-    "romaji": "naoru o oboeru"
+    "kana": "せんせい の まえ で おちつい て なおる",
+    "romaji": "sensei no mae de ochitsui te naoru"
   },
   "jlpt-n4-相談-2803": {
-    "kana": "そうだん を おぼえる",
-    "romaji": "soudan o oboeru"
+    "kana": "せんせい の まえ で おちつい て そうだん",
+    "romaji": "sensei no mae de ochitsui te soudan"
   },
   "jlpt-n4-看護婦-2761": {
-    "kana": "かんご ふ を おぼえる",
-    "romaji": "kango fu o oboeru"
+    "kana": "じゅぎょう で かんご ふ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kango fu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-真中-2572": {
-    "kana": "まんなか を おぼえる",
-    "romaji": "mannaka o oboeru"
+    "kana": "この もんだい に わ まんなか が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa mannaka ga fukaku kankei shi te iru"
   },
   "jlpt-n4-眠る-2753": {
-    "kana": "ねむる を おぼえる",
-    "romaji": "nemuru o oboeru"
+    "kana": "しっぱい し て も もういちど ねむる",
+    "romaji": "shippai shi te mo mouichido nemuru"
   },
   "jlpt-n4-着物-2733": {
-    "kana": "きもの を おぼえる",
-    "romaji": "kimono o oboeru"
+    "kana": "じゅぎょう で きもの を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kimono o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-知らせる-2663": {
-    "kana": "しらせる を おぼえる",
-    "romaji": "shiraseru o oboeru"
+    "kana": "せんせい の まえ で おちつい て しらせる",
+    "romaji": "sensei no mae de ochitsui te shiraseru"
   },
   "jlpt-n4-石-2779": {
-    "kana": "いし を おぼえる",
-    "romaji": "ishi o oboeru"
+    "kana": "じゅぎょう で いし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ishi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-砂-2653": {
-    "kana": "すな を おぼえる",
-    "romaji": "suna o oboeru"
+    "kana": "かいぎ で すな について はなしあっ た",
+    "romaji": "kaigi de suna nitsuite hanashia ta"
   },
   "jlpt-n4-研究-2758": {
-    "kana": "けんきゅう を おぼえる",
-    "romaji": "kenkyuu o oboeru"
+    "kana": "この もんだい に わ けんきゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kenkyuu ga fukaku kankei shi te iru"
   },
   "jlpt-n4-研究室-2597": {
-    "kana": "けんきゅう しつ を おぼえる",
-    "romaji": "kenkyuu shitsu o oboeru"
+    "kana": "けんきゅう しつ で ともだち を まっ た",
+    "romaji": "kenkyuu shitsu de tomodachi o ma ta"
   },
   "jlpt-n4-社会-2770": {
-    "kana": "しゃかい を おぼえる",
-    "romaji": "shakai o oboeru"
+    "kana": "その けいけん から しゃかい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shakai no taisetsu sa o shi ta"
   },
   "jlpt-n4-社長-2805": {
-    "kana": "しゃちょう を おぼえる",
-    "romaji": "shachou o oboeru"
+    "kana": "しゃちょう で ともだち を まっ た",
+    "romaji": "shachou de tomodachi o ma ta"
   },
   "jlpt-n4-祖母-2612": {
-    "kana": "そぼ を おぼえる",
-    "romaji": "sobo o oboeru"
+    "kana": "その けいけん から そぼ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara sobo no taisetsu sa o shi ta"
   },
   "jlpt-n4-祖父-2596": {
-    "kana": "そふ を おぼえる",
-    "romaji": "sofu o oboeru"
+    "kana": "じゅぎょう で そふ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de sofu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-神社-2582": {
-    "kana": "じんじゃ を おぼえる",
-    "romaji": "jinja o oboeru"
+    "kana": "かいぎ で じんじゃ について はなしあっ た",
+    "romaji": "kaigi de jinja nitsuite hanashia ta"
   },
   "jlpt-n4-空気-2649": {
-    "kana": "くうき を おぼえる",
-    "romaji": "kuuki o oboeru"
+    "kana": "その けいけん から くうき の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kuuki no taisetsu sa o shi ta"
   },
   "jlpt-n4-立てる-2812": {
-    "kana": "たてる を おぼえる",
-    "romaji": "tateru o oboeru"
+    "kana": "ひつよう な とき に すぐ たてる",
+    "romaji": "hitsuyou na toki ni sugu tateru"
   },
   "jlpt-n4-笑う-2654": {
-    "kana": "わらう を おぼえる",
-    "romaji": "warau o oboeru"
+    "kana": "せんせい の まえ で おちつい て わらう",
+    "romaji": "sensei no mae de ochitsui te warau"
   },
   "jlpt-n4-簡単-2780": {
-    "kana": "かんたん を おぼえる",
-    "romaji": "kantan o oboeru"
+    "kana": "じゅぎょう で かんたん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kantan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-約束-2652": {
-    "kana": "やくそく を おぼえる",
-    "romaji": "yakusoku o oboeru"
+    "kana": "その けいけん から やくそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara yakusoku no taisetsu sa o shi ta"
   },
   "jlpt-n4-紹介-2609": {
-    "kana": "しょうかい を おぼえる",
-    "romaji": "shoukai o oboeru"
+    "kana": "じゅぎょう で しょうかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de shoukai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-終わり-2811": {
-    "kana": "おわり を おぼえる",
-    "romaji": "owari o oboeru"
+    "kana": "じゅぎょう で おわり を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de owari o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-経済-2591": {
-    "kana": "けいざい を おぼえる",
-    "romaji": "keizai o oboeru"
+    "kana": "じゅぎょう で けいざい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de keizai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-経験-2806": {
-    "kana": "けいけん を おぼえる",
-    "romaji": "keiken o oboeru"
+    "kana": "しっぱい し て も もういちど けいけん",
+    "romaji": "shippai shi te mo mouichido keiken"
   },
   "jlpt-n4-絹-2586": {
-    "kana": "きぬ を おぼえる",
-    "romaji": "kinu o oboeru"
+    "kana": "じゅぎょう で きぬ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kinu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-続く-2601": {
-    "kana": "つづく を おぼえる",
-    "romaji": "tsuzuku o oboeru"
+    "kana": "しっぱい し て も もういちど つづく",
+    "romaji": "shippai shi te mo mouichido tsuzuku"
   },
   "jlpt-n4-続ける-2715": {
-    "kana": "つづける を おぼえる",
-    "romaji": "tsuzukeru o oboeru"
+    "kana": "かいぎ わ じかん どおり に つづける",
+    "romaji": "kaigi wa jikan doori ni tsuzukeru"
   },
   "jlpt-n4-美しい-2569": {
-    "kana": "うつくしい を おぼえる",
-    "romaji": "utsukushii o oboeru"
+    "kana": "うつくしい な しりょう を さき に かくにん し た",
+    "romaji": "utsukushii na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n4-聞こえる-2759": {
-    "kana": "きこえる を おぼえる",
-    "romaji": "kikoeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て きこえる",
+    "romaji": "sensei no mae de ochitsui te kikoeru"
   },
   "jlpt-n4-腕-2697": {
-    "kana": "うで を おぼえる",
-    "romaji": "ude o oboeru"
+    "kana": "うで が すこし いたい",
+    "romaji": "ude ga sukoshi itai"
   },
   "jlpt-n4-致す-2589": {
-    "kana": "いたす を おぼえる",
-    "romaji": "itasu o oboeru"
+    "kana": "しっぱい し て も もういちど いたす",
+    "romaji": "shippai shi te mo mouichido itasu"
   },
   "jlpt-n4-興味-2694": {
-    "kana": "きょうみ を おぼえる",
-    "romaji": "kyoumi o oboeru"
+    "kana": "じゅぎょう で きょうみ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kyoumi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-花見-2639": {
-    "kana": "はなみ を おぼえる",
-    "romaji": "hanami o oboeru"
+    "kana": "その けいけん から はなみ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hanami no taisetsu sa o shi ta"
   },
   "jlpt-n4-苦い-2628": {
-    "kana": "にがい を おぼえる",
-    "romaji": "nigai o oboeru"
+    "kana": "この もんだい に わ にがい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nigai ga fukaku kankei shi te iru"
   },
   "jlpt-n4-草-2716": {
-    "kana": "くさ を おぼえる",
-    "romaji": "kusa o oboeru"
+    "kana": "かいぎ で くさ について はなしあっ た",
+    "romaji": "kaigi de kusa nitsuite hanashia ta"
   },
   "jlpt-n4-落る-2729": {
-    "kana": "落 る を おぼえる",
-    "romaji": "落 ru o oboeru"
+    "kana": "しずか な まち に へんか が 落 る",
+    "romaji": "shizuka na machi ni henka ga 落 ru"
   },
   "jlpt-n4-葉-2631": {
-    "kana": "は を おぼえる",
-    "romaji": "ha o oboeru"
+    "kana": "じゅぎょう で は を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ha o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-虫-2611": {
-    "kana": "むし を おぼえる",
-    "romaji": "mushi o oboeru"
+    "kana": "じゅぎょう で むし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mushi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-血-2782": {
-    "kana": "ち を おぼえる",
-    "romaji": "chi o oboeru"
+    "kana": "じゅぎょう で ち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-表-2742": {
-    "kana": "ひょう を おぼえる",
-    "romaji": "hyou o oboeru"
+    "kana": "ひょう え まっすぐ すすん だ",
+    "romaji": "hyou e massugu susun da"
   },
   "jlpt-n4-複雑-2752": {
-    "kana": "ふくざつ を おぼえる",
-    "romaji": "fukuzatsu o oboeru"
+    "kana": "その けいけん から ふくざつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara fukuzatsu no taisetsu sa o shi ta"
   },
   "jlpt-n4-西洋-2743": {
-    "kana": "せいよう を おぼえる",
-    "romaji": "seiyou o oboeru"
+    "kana": "この もんだい に わ せいよう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa seiyou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-見える-2682": {
-    "kana": "みえる を おぼえる",
-    "romaji": "mieru o oboeru"
+    "kana": "せんせい の まえ で おちつい て みえる",
+    "romaji": "sensei no mae de ochitsui te mieru"
   },
   "jlpt-n4-見つかる-2672": {
-    "kana": "みつかる を おぼえる",
-    "romaji": "mitsukaru o oboeru"
+    "kana": "しっぱい し て も もういちど みつかる",
+    "romaji": "shippai shi te mo mouichido mitsukaru"
   },
   "jlpt-n4-見つける-2675": {
-    "kana": "みつける を おぼえる",
-    "romaji": "mitsukeru o oboeru"
+    "kana": "しっぱい し て も もういちど みつける",
+    "romaji": "shippai shi te mo mouichido mitsukeru"
   },
   "jlpt-n4-規則-2585": {
-    "kana": "きそく を おぼえる",
-    "romaji": "kisoku o oboeru"
+    "kana": "その けいけん から きそく の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara kisoku no taisetsu sa o shi ta"
   },
   "jlpt-n4-親-2815": {
-    "kana": "おや を おぼえる",
-    "romaji": "oya o oboeru"
+    "kana": "この もんだい に わ おや が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa oya ga fukaku kankei shi te iru"
   },
   "jlpt-n4-触る-2659": {
-    "kana": "さわる を おぼえる",
-    "romaji": "sawaru o oboeru"
+    "kana": "しっぱい し て も もういちど さわる",
+    "romaji": "shippai shi te mo mouichido sawaru"
   },
   "jlpt-n4-訪ねる-2562": {
-    "kana": "たずねる を おぼえる",
-    "romaji": "tazuneru o oboeru"
+    "kana": "しっぱい し て も もういちど たずねる",
+    "romaji": "shippai shi te mo mouichido tazuneru"
   },
   "jlpt-n4-訳-2807": {
-    "kana": "わけ を おぼえる",
-    "romaji": "wake o oboeru"
+    "kana": "この もんだい に わ わけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa wake ga fukaku kankei shi te iru"
   },
   "jlpt-n4-試合-2763": {
-    "kana": "しあい を おぼえる",
-    "romaji": "shiai o oboeru"
+    "kana": "その けいけん から しあい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiai no taisetsu sa o shi ta"
   },
   "jlpt-n4-試験-2784": {
-    "kana": "しけん を おぼえる",
-    "romaji": "shiken o oboeru"
+    "kana": "その けいけん から しけん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shiken no taisetsu sa o shi ta"
   },
   "jlpt-n4-調べる-2706": {
-    "kana": "しらべる を おぼえる",
-    "romaji": "shiraberu o oboeru"
+    "kana": "せんせい の まえ で おちつい て しらべる",
+    "romaji": "sensei no mae de ochitsui te shiraberu"
   },
   "jlpt-n4-講堂-2739": {
-    "kana": "こうどう を おぼえる",
-    "romaji": "koudou o oboeru"
+    "kana": "この もんだい に わ こうどう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa koudou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-警察-2648": {
-    "kana": "けいさつ を おぼえる",
-    "romaji": "keisatsu o oboeru"
+    "kana": "かいぎ で けいさつ について はなしあっ た",
+    "romaji": "kaigi de keisatsu nitsuite hanashia ta"
   },
   "jlpt-n4-赤ん坊-2750": {
-    "kana": "あかんぼう を おぼえる",
-    "romaji": "akanbou o oboeru"
+    "kana": "この もんだい に わ あかんぼう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa akanbou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-起す-2757": {
-    "kana": "おこす を おぼえる",
-    "romaji": "okosu o oboeru"
+    "kana": "せんせい の まえ で おちつい て おこす",
+    "romaji": "sensei no mae de ochitsui te okosu"
   },
   "jlpt-n4-趣味-2707": {
-    "kana": "しゅみ を おぼえる",
-    "romaji": "shumi o oboeru"
+    "kana": "この もんだい に わ しゅみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa shumi ga fukaku kankei shi te iru"
   },
   "jlpt-n4-足す-2804": {
-    "kana": "たす を おぼえる",
-    "romaji": "tasu o oboeru"
+    "kana": "ひつよう な とき に すぐ たす",
+    "romaji": "hitsuyou na toki ni sugu tasu"
   },
   "jlpt-n4-足りる-2808": {
-    "kana": "たりる を おぼえる",
-    "romaji": "tariru o oboeru"
+    "kana": "せんせい の まえ で おちつい て たりる",
+    "romaji": "sensei no mae de ochitsui te tariru"
   },
   "jlpt-n4-踊る-2748": {
-    "kana": "おどる を おぼえる",
-    "romaji": "odoru o oboeru"
+    "kana": "しっぱい し て も もういちど おどる",
+    "romaji": "shippai shi te mo mouichido odoru"
   },
   "jlpt-n4-輸入-2692": {
-    "kana": "ゆにゅう を おぼえる",
-    "romaji": "yunyuu o oboeru"
+    "kana": "ひつよう な とき に すぐ ゆにゅう",
+    "romaji": "hitsuyou na toki ni sugu yunyuu"
   },
   "jlpt-n4-辞典-2676": {
-    "kana": "じてん を おぼえる",
-    "romaji": "jiten o oboeru"
+    "kana": "じゅぎょう で じてん を こえ に だし て よん だ",
+    "romaji": "jugyou de jiten o koe ni dashi te yon da"
   },
   "jlpt-n4-近所-2754": {
-    "kana": "きんじょ を おぼえる",
-    "romaji": "kinjo o oboeru"
+    "kana": "かいぎ で きんじょ について はなしあっ た",
+    "romaji": "kaigi de kinjo nitsuite hanashia ta"
   },
   "jlpt-n4-途中-2717": {
-    "kana": "とちゅう を おぼえる",
-    "romaji": "tochuu o oboeru"
+    "kana": "この もんだい に わ とちゅう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tochuu ga fukaku kankei shi te iru"
   },
   "jlpt-n4-通る-2732": {
-    "kana": "とおる を おぼえる",
-    "romaji": "tooru o oboeru"
+    "kana": "じゅぎょう の あと えき え とおる",
+    "romaji": "jugyou no ato eki e tooru"
   },
   "jlpt-n4-連れる-2674": {
-    "kana": "つれる を おぼえる",
-    "romaji": "tsureru o oboeru"
+    "kana": "しっぱい し て も もういちど つれる",
+    "romaji": "shippai shi te mo mouichido tsureru"
   },
   "jlpt-n4-運ぶ-2556": {
-    "kana": "はこぶ を おぼえる",
-    "romaji": "hakobu o oboeru"
+    "kana": "ひつよう な とき に すぐ はこぶ",
+    "romaji": "hitsuyou na toki ni sugu hakobu"
   },
   "jlpt-n4-運動-2681": {
-    "kana": "うんどう を おぼえる",
-    "romaji": "undou o oboeru"
+    "kana": "ひつよう な とき に すぐ うんどう",
+    "romaji": "hitsuyou na toki ni sugu undou"
   },
   "jlpt-n4-運転-2722": {
-    "kana": "うんてん を おぼえる",
-    "romaji": "unten o oboeru"
+    "kana": "ひつよう な とき に すぐ うんてん",
+    "romaji": "hitsuyou na toki ni sugu unten"
   },
   "jlpt-n4-運転手-2708": {
-    "kana": "うんてん しゅ を おぼえる",
-    "romaji": "unten shu o oboeru"
+    "kana": "かいぎ で うんてん しゅ について はなしあっ た",
+    "romaji": "kaigi de unten shu nitsuite hanashia ta"
   },
   "jlpt-n4-遠く-2790": {
-    "kana": "とおく を おぼえる",
-    "romaji": "tooku o oboeru"
+    "kana": "しっぱい し て も もういちど とおく",
+    "romaji": "shippai shi te mo mouichido tooku"
   },
   "jlpt-n4-遠慮-2773": {
-    "kana": "えんりょ を おぼえる",
-    "romaji": "enryo o oboeru"
+    "kana": "せんせい の まえ で おちつい て えんりょ",
+    "romaji": "sensei no mae de ochitsui te enryo"
   },
   "jlpt-n4-適当-2595": {
-    "kana": "てきとう を おぼえる",
-    "romaji": "tekitou o oboeru"
+    "kana": "この もんだい に わ てきとう が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa tekitou ga fukaku kankei shi te iru"
   },
   "jlpt-n4-釣る-2798": {
-    "kana": "つる を おぼえる",
-    "romaji": "tsuru o oboeru"
+    "kana": "ひつよう な とき に すぐ つる",
+    "romaji": "hitsuyou na toki ni sugu tsuru"
   },
   "jlpt-n4-間-2820": {
-    "kana": "ま を おぼえる",
-    "romaji": "ma o oboeru"
+    "kana": "かいぎ で ま について はなしあっ た",
+    "romaji": "kaigi de ma nitsuite hanashia ta"
   },
   "jlpt-n4-間違える-2760": {
-    "kana": "まちがえる を おぼえる",
-    "romaji": "machigaeru o oboeru"
+    "kana": "せんせい の まえ で おちつい て まちがえる",
+    "romaji": "sensei no mae de ochitsui te machigaeru"
   },
   "jlpt-n4-降り出す-2766": {
-    "kana": "ふりだす を おぼえる",
-    "romaji": "furidasu o oboeru"
+    "kana": "かいぎ わ じかん どおり に ふりだす",
+    "romaji": "kaigi wa jikan doori ni furidasu"
   },
   "jlpt-n4-集る-2645": {
-    "kana": "たかる を おぼえる",
-    "romaji": "takaru o oboeru"
+    "kana": "せんせい の まえ で おちつい て たかる",
+    "romaji": "sensei no mae de ochitsui te takaru"
   },
   "jlpt-n4-雲-2553": {
-    "kana": "くも を おぼえる",
-    "romaji": "kumo o oboeru"
+    "kana": "くも が まど の そと に みえる",
+    "romaji": "kumo ga mado no soto ni mieru"
   },
   "jlpt-n4-電報-2619": {
-    "kana": "でんぽう を おぼえる",
-    "romaji": "denpou o oboeru"
+    "kana": "じゅぎょう で でんぽう を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de denpou o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-非常に-2740": {
-    "kana": "ひじょう に を おぼえる",
-    "romaji": "hijou ni o oboeru"
+    "kana": "かいぎ で ひじょう に について はなしあっ た",
+    "romaji": "kaigi de hijou ni nitsuite hanashia ta"
   },
   "jlpt-n4-食事-2616": {
-    "kana": "しょくじ を おぼえる",
-    "romaji": "shokuji o oboeru"
+    "kana": "せんせい の まえ で おちつい て しょくじ",
+    "romaji": "sensei no mae de ochitsui te shokuji"
   },
   "jlpt-n4-食料品-2583": {
-    "kana": "しょくりょう ひん を おぼえる",
-    "romaji": "shokuryou hin o oboeru"
+    "kana": "かいぎ で しょくりょう ひん について はなしあっ た",
+    "romaji": "kaigi de shokuryou hin nitsuite hanashia ta"
   },
   "jlpt-n4-首-2559": {
-    "kana": "くび を おぼえる",
-    "romaji": "kubi o oboeru"
+    "kana": "じゅぎょう で くび を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kubi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n4-高等学校-2577": {
-    "kana": "こうとう がっこう を おぼえる",
-    "romaji": "koutou gakkou o oboeru"
+    "kana": "しゅうまつ に こうとう がっこう え いっ た",
+    "romaji": "shuumatsu ni koutou gakkou e i ta"
   },
   "jlpt-n5-お手洗い-3015": {
-    "kana": "お てあらい を おぼえる",
-    "romaji": "o tearai o oboeru"
+    "kana": "じゅぎょう で お てあらい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de o tearai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-お父さん-2936": {
-    "kana": "おとうさん を おぼえる",
-    "romaji": "otousan o oboeru"
+    "kana": "おとうさん に みち を たずね た",
+    "romaji": "otousan ni michi o tazune ta"
   },
   "jlpt-n5-お皿-2883": {
-    "kana": "お さら を おぼえる",
-    "romaji": "o sara o oboeru"
+    "kana": "お さら を かばん に いれ た",
+    "romaji": "o sara o kaban ni ire ta"
   },
   "jlpt-n5-お茶-2828": {
-    "kana": "おちゃ を おぼえる",
-    "romaji": "ocha o oboeru"
+    "kana": "しょくご に おちゃ を のん だ",
+    "romaji": "shokugo ni ocha o non da"
   },
   "jlpt-n5-お菓子-3036": {
-    "kana": "おかし を おぼえる",
-    "romaji": "okashi o oboeru"
+    "kana": "かいぎ で おかし について はなしあっ た",
+    "romaji": "kaigi de okashi nitsuite hanashia ta"
   },
   "jlpt-n5-お酒-3038": {
-    "kana": "お さけ を おぼえる",
-    "romaji": "o sake o oboeru"
+    "kana": "ひる に お さけ を すこし たべ た",
+    "romaji": "hiru ni o sake o sukoshi tabe ta"
   },
   "jlpt-n5-お風呂-2885": {
-    "kana": "お ふろ を おぼえる",
-    "romaji": "o furo o oboeru"
+    "kana": "じゅぎょう で お ふろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de o furo o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-さ来年-2974": {
-    "kana": "さ らいねん を おぼえる",
-    "romaji": "sa rainen o oboeru"
+    "kana": "さ らいねん わ いえ で べんきょう し た",
+    "romaji": "sa rainen wa ie de benkyou shi ta"
   },
   "jlpt-n5-とり肉-3099": {
-    "kana": "とり にく を おぼえる",
-    "romaji": "tori niku o oboeru"
+    "kana": "ひる にとり にく を すこし たべ た",
+    "romaji": "hiru nitori niku o sukoshi tabe ta"
   },
   "jlpt-n5-一つ-2946": {
-    "kana": "ひとつ を おぼえる",
-    "romaji": "hitotsu o oboeru"
+    "kana": "しっぱい し て も もういちど ひとつ",
+    "romaji": "shippai shi te mo mouichido hitotsu"
   },
   "jlpt-n5-一人-3075": {
-    "kana": "いち にん を おぼえる",
-    "romaji": "ichi nin o oboeru"
+    "kana": "てすと で わ いち にん で えいが を み に いっ た",
+    "romaji": "tesuto de wa ichi nin de eiga o mi ni i ta"
   },
   "jlpt-n5-一日-2961": {
-    "kana": "いち にち を おぼえる",
-    "romaji": "ichi nichi o oboeru"
+    "kana": "きのう いち にち わ いえ で べんきょう し た",
+    "romaji": "kinou ichi nichi wa ie de benkyou shi ta"
   },
   "jlpt-n5-一昨年-3002": {
-    "kana": "いっさくねん を おぼえる",
-    "romaji": "issakunen o oboeru"
+    "kana": "いっさくねん わ いえ で べんきょう し た",
+    "romaji": "issakunen wa ie de benkyou shi ta"
   },
   "jlpt-n5-一昨日-3054": {
-    "kana": "おととい を おぼえる",
-    "romaji": "ototoi o oboeru"
+    "kana": "おととい わ いえ で べんきょう し た",
+    "romaji": "ototoi wa ie de benkyou shi ta"
   },
   "jlpt-n5-一月-2843": {
-    "kana": "いちがつ を おぼえる",
-    "romaji": "ichigatsu o oboeru"
+    "kana": "いちがつ わ いえ で べんきょう し た",
+    "romaji": "ichigatsu wa ie de benkyou shi ta"
   },
   "jlpt-n5-一緒-2994": {
-    "kana": "いっしょ を おぼえる",
-    "romaji": "issho o oboeru"
+    "kana": "この もんだい に わ いっしょ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa issho ga fukaku kankei shi te iru"
   },
   "jlpt-n5-七-2999": {
-    "kana": "なな を おぼえる",
-    "romaji": "nana o oboeru"
+    "kana": "こたえ わ なな です",
+    "romaji": "kotae wa nana desu"
   },
   "jlpt-n5-七つ-2858": {
-    "kana": "ななつ を おぼえる",
-    "romaji": "nanatsu o oboeru"
+    "kana": "ひつよう な とき に すぐ ななつ",
+    "romaji": "hitsuyou na toki ni sugu nanatsu"
   },
   "jlpt-n5-万年筆-2926": {
-    "kana": "まんねんひつ を おぼえる",
-    "romaji": "mannenhitsu o oboeru"
+    "kana": "まんねんひつ を かばん に いれ た",
+    "romaji": "mannenhitsu o kaban ni ire ta"
   },
   "jlpt-n5-三つ-3081": {
-    "kana": "みっつ を おぼえる",
-    "romaji": "mittsu o oboeru"
+    "kana": "しっぱい し て も もういちど みっつ",
+    "romaji": "shippai shi te mo mouichido mittsu"
   },
   "jlpt-n5-上-3065": {
-    "kana": "うえ を おぼえる",
-    "romaji": "ue o oboeru"
+    "kana": "うえ え まっすぐ すすん だ",
+    "romaji": "ue e massugu susun da"
   },
   "jlpt-n5-上げる-2964": {
-    "kana": "あげる を おぼえる",
-    "romaji": "ageru o oboeru"
+    "kana": "ともだち に にもつ を あげる",
+    "romaji": "tomodachi ni nimotsu o ageru"
   },
   "jlpt-n5-上手-3077": {
-    "kana": "じょうず を おぼえる",
-    "romaji": "jouzu o oboeru"
+    "kana": "じょうず な ばしょ で しずか に やすん だ",
+    "romaji": "jouzu na basho de shizuka ni yasun da"
   },
   "jlpt-n5-上着-3008": {
-    "kana": "うわぎ を おぼえる",
-    "romaji": "uwagi o oboeru"
+    "kana": "その けいけん から うわぎ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara uwagi no taisetsu sa o shi ta"
   },
   "jlpt-n5-下-3088": {
-    "kana": "した を おぼえる",
-    "romaji": "shita o oboeru"
+    "kana": "じゅぎょう で かいぎ で した について はなしあっ た",
+    "romaji": "jugyou de kaigi de shita nitsuite hanashia ta"
   },
   "jlpt-n5-下手-2904": {
-    "kana": "へた を おぼえる",
-    "romaji": "heta o oboeru"
+    "kana": "へた な ばしょ で しずか に やすん だ",
+    "romaji": "heta na basho de shizuka ni yasun da"
   },
   "jlpt-n5-両親-2933": {
-    "kana": "りょうしん を おぼえる",
-    "romaji": "ryoushin o oboeru"
+    "kana": "この もんだい に わ りょうしん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ryoushin ga fukaku kankei shi te iru"
   },
   "jlpt-n5-並ぶ-2838": {
-    "kana": "ならぶ を おぼえる",
-    "romaji": "narabu o oboeru"
+    "kana": "ひつよう な とき に すぐ ならぶ",
+    "romaji": "hitsuyou na toki ni sugu narabu"
   },
   "jlpt-n5-中-2855": {
-    "kana": "なか を おぼえる",
-    "romaji": "naka o oboeru"
+    "kana": "かいぎ で なか について はなしあっ た",
+    "romaji": "kaigi de naka nitsuite hanashia ta"
   },
   "jlpt-n5-乗る-3095": {
-    "kana": "のる を おぼえる",
-    "romaji": "noru o oboeru"
+    "kana": "あさ の こうえん を ゆっくり のる",
+    "romaji": "asa no kouen o yukkuri noru"
   },
   "jlpt-n5-九-2847": {
-    "kana": "きゅう を おぼえる",
-    "romaji": "kyuu o oboeru"
+    "kana": "てすと で わ こたえ わ きゅう です",
+    "romaji": "tesuto de wa kotae wa kyuu desu"
   },
   "jlpt-n5-二つ-3089": {
-    "kana": "ふたつ を おぼえる",
-    "romaji": "futatsu o oboeru"
+    "kana": "しっぱい し て も もういちど ふたつ",
+    "romaji": "shippai shi te mo mouichido futatsu"
   },
   "jlpt-n5-二十日-3056": {
-    "kana": "に じゅう にち を おぼえる",
-    "romaji": "ni juu nichi o oboeru"
+    "kana": "じゅぎょう で に じゅう にち を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ni juu nichi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-二日-3044": {
-    "kana": "に にち を おぼえる",
-    "romaji": "ni nichi o oboeru"
+    "kana": "に にち に ともだち と あう",
+    "romaji": "ni nichi ni tomodachi to au"
   },
   "jlpt-n5-五-3066": {
-    "kana": "ご を おぼえる",
-    "romaji": "go o oboeru"
+    "kana": "こたえ わ ご です",
+    "romaji": "kotae wa go desu"
   },
   "jlpt-n5-五つ-2914": {
-    "kana": "いつつ を おぼえる",
-    "romaji": "itsutsu o oboeru"
+    "kana": "せんせい の まえ で おちつい て いつつ",
+    "romaji": "sensei no mae de ochitsui te itsutsu"
   },
   "jlpt-n5-五日-3019": {
-    "kana": "ご にち を おぼえる",
-    "romaji": "go nichi o oboeru"
+    "kana": "ご にち に ともだち と あう",
+    "romaji": "go nichi ni tomodachi to au"
   },
   "jlpt-n5-人-2937": {
-    "kana": "ひと を おぼえる",
-    "romaji": "hito o oboeru"
+    "kana": "きょう ひと に みち を たずね た",
+    "romaji": "kyou hito ni michi o tazune ta"
   },
   "jlpt-n5-今年-2907": {
-    "kana": "ことし を おぼえる",
-    "romaji": "kotoshi o oboeru"
+    "kana": "ことし に ともだち と あう",
+    "romaji": "kotoshi ni tomodachi to au"
   },
   "jlpt-n5-今日-3001": {
-    "kana": "きょう を おぼえる",
-    "romaji": "kyou o oboeru"
+    "kana": "きょう わ いえ で べんきょう し た",
+    "romaji": "kyou wa ie de benkyou shi ta"
   },
   "jlpt-n5-今晩-3030": {
-    "kana": "こんばん を おぼえる",
-    "romaji": "konban o oboeru"
+    "kana": "こんばん わ いえ で べんきょう し た",
+    "romaji": "konban wa ie de benkyou shi ta"
   },
   "jlpt-n5-今朝-2991": {
-    "kana": "けさ を おぼえる",
-    "romaji": "kesa o oboeru"
+    "kana": "けさ わ いえ で べんきょう し た",
+    "romaji": "kesa wa ie de benkyou shi ta"
   },
   "jlpt-n5-今週-3069": {
-    "kana": "こんしゅう を おぼえる",
-    "romaji": "konshuu o oboeru"
+    "kana": "こんしゅう に ともだち と あう",
+    "romaji": "konshuu ni tomodachi to au"
   },
   "jlpt-n5-仕事-2981": {
-    "kana": "しごと を おぼえる",
-    "romaji": "shigoto o oboeru"
+    "kana": "その けいけん から しごと の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shigoto no taisetsu sa o shi ta"
   },
   "jlpt-n5-休み-2939": {
-    "kana": "やすみ を おぼえる",
-    "romaji": "yasumi o oboeru"
+    "kana": "この もんだい に わ やすみ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yasumi ga fukaku kankei shi te iru"
   },
   "jlpt-n5-会う-3017": {
-    "kana": "あう を おぼえる",
-    "romaji": "au o oboeru"
+    "kana": "しっぱい し て も もういちど あう",
+    "romaji": "shippai shi te mo mouichido au"
   },
   "jlpt-n5-会社-2921": {
-    "kana": "かいしゃ を おぼえる",
-    "romaji": "kaisha o oboeru"
+    "kana": "しゅうまつ に かいしゃ え いっ た",
+    "romaji": "shuumatsu ni kaisha e i ta"
   },
   "jlpt-n5-低い-2960": {
-    "kana": "ひくい を おぼえる",
-    "romaji": "hikui o oboeru"
+    "kana": "この へや わ おもっ た より ひくい",
+    "romaji": "kono heya wa omo ta yori hikui"
   },
   "jlpt-n5-住む-3012": {
-    "kana": "すむ を おぼえる",
-    "romaji": "sumu o oboeru"
+    "kana": "せんせい の まえ で おちつい て すむ",
+    "romaji": "sensei no mae de ochitsui te sumu"
   },
   "jlpt-n5-体-3043": {
-    "kana": "からだ を おぼえる",
-    "romaji": "karada o oboeru"
+    "kana": "からだ が すこし いたい",
+    "romaji": "karada ga sukoshi itai"
   },
   "jlpt-n5-何-2874": {
-    "kana": "なに を おぼえる",
-    "romaji": "nani o oboeru"
+    "kana": "この もんだい に わ なに が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa nani ga fukaku kankei shi te iru"
   },
   "jlpt-n5-作る-2916": {
-    "kana": "つくる を おぼえる",
-    "romaji": "tsukuru o oboeru"
+    "kana": "ひつよう な とき に すぐ つくる",
+    "romaji": "hitsuyou na toki ni sugu tsukuru"
   },
   "jlpt-n5-作文-2850": {
-    "kana": "さくぶん を おぼえる",
-    "romaji": "sakubun o oboeru"
+    "kana": "かいぎ で さくぶん について はなしあっ た",
+    "romaji": "kaigi de sakubun nitsuite hanashia ta"
   },
   "jlpt-n5-便利-2851": {
-    "kana": "べんり を おぼえる",
-    "romaji": "benri o oboeru"
+    "kana": "この もんだい に わ べんり が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa benri ga fukaku kankei shi te iru"
   },
   "jlpt-n5-借りる-3005": {
-    "kana": "かりる を おぼえる",
-    "romaji": "kariru o oboeru"
+    "kana": "ともだち に にもつ を かりる",
+    "romaji": "tomodachi ni nimotsu o kariru"
   },
   "jlpt-n5-傘-2892": {
-    "kana": "かさ を おぼえる",
-    "romaji": "kasa o oboeru"
+    "kana": "つくえ の うえ に かさ を おい た",
+    "romaji": "tsukue no ue ni kasa o oi ta"
   },
   "jlpt-n5-元気-2996": {
-    "kana": "げんき を おぼえる",
-    "romaji": "genki o oboeru"
+    "kana": "げんき な しりょう を さき に かくにん し た",
+    "romaji": "genki na shiryou o saki ni kakunin shi ta"
   },
   "jlpt-n5-先週-3032": {
-    "kana": "せんしゅう を おぼえる",
-    "romaji": "senshuu o oboeru"
+    "kana": "せんしゅう に ともだち と あう",
+    "romaji": "senshuu ni tomodachi to au"
   },
   "jlpt-n5-入る-2977": {
-    "kana": "はいる を おぼえる",
-    "romaji": "hairu o oboeru"
+    "kana": "じゅぎょう の あと えき え はいる",
+    "romaji": "jugyou no ato eki e hairu"
   },
   "jlpt-n5-八-3052": {
-    "kana": "はち を おぼえる",
-    "romaji": "hachi o oboeru"
+    "kana": "こたえ わ はち です",
+    "romaji": "kotae wa hachi desu"
   },
   "jlpt-n5-八百屋-3092": {
-    "kana": "やおや を おぼえる",
-    "romaji": "yaoya o oboeru"
+    "kana": "かいぎ で やおや について はなしあっ た",
+    "romaji": "kaigi de yaoya nitsuite hanashia ta"
   },
   "jlpt-n5-公園-3004": {
-    "kana": "こうえん を おぼえる",
-    "romaji": "kouen o oboeru"
+    "kana": "こうえん で ともだち を まっ た",
+    "romaji": "kouen de tomodachi o ma ta"
   },
   "jlpt-n5-六-2906": {
-    "kana": "ろく を おぼえる",
-    "romaji": "roku o oboeru"
+    "kana": "こたえ わ ろく です",
+    "romaji": "kotae wa roku desu"
   },
   "jlpt-n5-六日-2861": {
-    "kana": "ろく にち を おぼえる",
-    "romaji": "roku nichi o oboeru"
+    "kana": "ろく にち に ともだち と あう",
+    "romaji": "roku nichi ni tomodachi to au"
   },
   "jlpt-n5-写真-3016": {
-    "kana": "しゃしん を おぼえる",
-    "romaji": "shashin o oboeru"
+    "kana": "その けいけん から しゃしん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara shashin no taisetsu sa o shi ta"
   },
   "jlpt-n5-冬-3047": {
-    "kana": "ふゆ を おぼえる",
-    "romaji": "fuyu o oboeru"
+    "kana": "ふゆ わ いえ で べんきょう し た",
+    "romaji": "fuyu wa ie de benkyou shi ta"
   },
   "jlpt-n5-冷蔵庫-2866": {
-    "kana": "れいぞうこ を おぼえる",
-    "romaji": "reizouko o oboeru"
+    "kana": "れいぞうこ を かばん に いれ た",
+    "romaji": "reizouko o kaban ni ire ta"
   },
   "jlpt-n5-出す-2966": {
-    "kana": "だす を おぼえる",
-    "romaji": "dasu o oboeru"
+    "kana": "せんせい の まえ で おちつい て だす",
+    "romaji": "sensei no mae de ochitsui te dasu"
   },
   "jlpt-n5-分かる-2870": {
-    "kana": "わかる を おぼえる",
-    "romaji": "wakaru o oboeru"
+    "kana": "ひつよう な とき に すぐ わかる",
+    "romaji": "hitsuyou na toki ni sugu wakaru"
   },
   "jlpt-n5-切符-3041": {
-    "kana": "きっぷ を おぼえる",
-    "romaji": "kippu o oboeru"
+    "kana": "じゅぎょう で きっぷ を こえ に だし て よん だ",
+    "romaji": "jugyou de kippu o koe ni dashi te yon da"
   },
   "jlpt-n5-初めて-2908": {
-    "kana": "はじめて を おぼえる",
-    "romaji": "hajimete o oboeru"
+    "kana": "その けいけん から はじめて の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hajimete no taisetsu sa o shi ta"
   },
   "jlpt-n5-動物-3040": {
-    "kana": "どうぶつ を おぼえる",
-    "romaji": "doubutsu o oboeru"
+    "kana": "じゅぎょう で どうぶつ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de doubutsu o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-勤める-2894": {
-    "kana": "つとめる を おぼえる",
-    "romaji": "tsutomeru o oboeru"
+    "kana": "ひつよう な とき に すぐ つとめる",
+    "romaji": "hitsuyou na toki ni sugu tsutomeru"
   },
   "jlpt-n5-医者-2998": {
-    "kana": "いしゃ を おぼえる",
-    "romaji": "isha o oboeru"
+    "kana": "いしゃ に みち を たずね た",
+    "romaji": "isha ni michi o tazune ta"
   },
   "jlpt-n5-十-2854": {
-    "kana": "じゅう を おぼえる",
-    "romaji": "juu o oboeru"
+    "kana": "こたえ わ じゅう です",
+    "romaji": "kotae wa juu desu"
   },
   "jlpt-n5-十日-3067": {
-    "kana": "じゅう にち を おぼえる",
-    "romaji": "juu nichi o oboeru"
+    "kana": "じゅう にち に ともだち と あう",
+    "romaji": "juu nichi ni tomodachi to au"
   },
   "jlpt-n5-千-3097": {
-    "kana": "せん を おぼえる",
-    "romaji": "sen o oboeru"
+    "kana": "こたえ わ せん です",
+    "romaji": "kotae wa sen desu"
   },
   "jlpt-n5-午後-3059": {
-    "kana": "ごご を おぼえる",
-    "romaji": "gogo o oboeru"
+    "kana": "ごご に ともだち と あう",
+    "romaji": "gogo ni tomodachi to au"
   },
   "jlpt-n5-南-3018": {
-    "kana": "みなみ を おぼえる",
-    "romaji": "minami o oboeru"
+    "kana": "みなみ え まっすぐ すすん だ",
+    "romaji": "minami e massugu susun da"
   },
   "jlpt-n5-危ない-2869": {
-    "kana": "あぶない を おぼえる",
-    "romaji": "abunai o oboeru"
+    "kana": "じゅぎょう で あぶない を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de abunai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-卵-2959": {
-    "kana": "たまご を おぼえる",
-    "romaji": "tamago o oboeru"
+    "kana": "ひる に たまご を すこし たべ た",
+    "romaji": "hiru ni tamago o sukoshi tabe ta"
   },
   "jlpt-n5-厚い-2875": {
-    "kana": "あつい を おぼえる",
-    "romaji": "atsui o oboeru"
+    "kana": "きょう わ くうき が とても あつい",
+    "romaji": "kyou wa kuuki ga totemo atsui"
   },
   "jlpt-n5-去年-3093": {
-    "kana": "きょねん を おぼえる",
-    "romaji": "kyonen o oboeru"
+    "kana": "きょねん に ともだち と あう",
+    "romaji": "kyonen ni tomodachi to au"
   },
   "jlpt-n5-取る-2846": {
-    "kana": "とる を おぼえる",
-    "romaji": "toru o oboeru"
+    "kana": "ともだち に にもつ を とる",
+    "romaji": "tomodachi ni nimotsu o toru"
   },
   "jlpt-n5-口-3006": {
-    "kana": "くち を おぼえる",
-    "romaji": "kuchi o oboeru"
+    "kana": "くち が すこし いたい",
+    "romaji": "kuchi ga sukoshi itai"
   },
   "jlpt-n5-台所-2830": {
-    "kana": "だいどころ を おぼえる",
-    "romaji": "daidokoro o oboeru"
+    "kana": "じゅぎょう で だいどころ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de daidokoro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-右-2852": {
-    "kana": "みぎ を おぼえる",
-    "romaji": "migi o oboeru"
+    "kana": "みぎ え まっすぐ すすん だ",
+    "romaji": "migi e massugu susun da"
   },
   "jlpt-n5-向こう-3076": {
-    "kana": "むこう を おぼえる",
-    "romaji": "mukou o oboeru"
+    "kana": "せんせい の まえ で おちつい て むこ う",
+    "romaji": "sensei no mae de ochitsui te muko u"
   },
   "jlpt-n5-吸う-3082": {
-    "kana": "すう を おぼえる",
-    "romaji": "suu o oboeru"
+    "kana": "しっぱい し て も もういちど すう",
+    "romaji": "shippai shi te mo mouichido suu"
   },
   "jlpt-n5-吹く-3049": {
-    "kana": "ふく を おぼえる",
-    "romaji": "fuku o oboeru"
+    "kana": "せんせい の まえ で おちつい て ふく",
+    "romaji": "sensei no mae de ochitsui te fuku"
   },
   "jlpt-n5-呼ぶ-3042": {
-    "kana": "よぶ を おぼえる",
-    "romaji": "yobu o oboeru"
+    "kana": "かいぎ で りゆう を はっきり よぶ",
+    "romaji": "kaigi de riyuu o hakkiri yobu"
   },
   "jlpt-n5-咲く-2969": {
-    "kana": "さく を おぼえる",
-    "romaji": "saku o oboeru"
+    "kana": "しっぱい し て も もういちど さく",
+    "romaji": "shippai shi te mo mouichido saku"
   },
   "jlpt-n5-問題-2827": {
-    "kana": "もんだい を おぼえる",
-    "romaji": "mondai o oboeru"
+    "kana": "じゅぎょう で もんだい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de mondai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-四-2976": {
-    "kana": "よん を おぼえる",
-    "romaji": "yon o oboeru"
+    "kana": "こたえ わ よん です",
+    "romaji": "kotae wa yon desu"
   },
   "jlpt-n5-困る-2942": {
-    "kana": "こまる を おぼえる",
-    "romaji": "komaru o oboeru"
+    "kana": "しっぱい し て も もういちど こまる",
+    "romaji": "shippai shi te mo mouichido komaru"
   },
   "jlpt-n5-国-2990": {
-    "kana": "くに を おぼえる",
-    "romaji": "kuni o oboeru"
+    "kana": "くに で ともだち を まっ た",
+    "romaji": "kuni de tomodachi o ma ta"
   },
   "jlpt-n5-地下鉄-2923": {
-    "kana": "ちかてつ を おぼえる",
-    "romaji": "chikatetsu o oboeru"
+    "kana": "その けいけん から ちかてつ の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara chikatetsu no taisetsu sa o shi ta"
   },
   "jlpt-n5-地図-3091": {
-    "kana": "ちず を おぼえる",
-    "romaji": "chizu o oboeru"
+    "kana": "じゅぎょう で ちず を こえ に だし て よん だ",
+    "romaji": "jugyou de chizu o koe ni dashi te yon da"
   },
   "jlpt-n5-塩-3031": {
-    "kana": "しお を おぼえる",
-    "romaji": "shio o oboeru"
+    "kana": "ひる に しお を すこし たべ た",
+    "romaji": "hiru ni shio o sukoshi tabe ta"
   },
   "jlpt-n5-声-2930": {
-    "kana": "こえ を おぼえる",
-    "romaji": "koe o oboeru"
+    "kana": "こえ が すこし いたい",
+    "romaji": "koe ga sukoshi itai"
   },
   "jlpt-n5-売る-2836": {
-    "kana": "うる を おぼえる",
-    "romaji": "uru o oboeru"
+    "kana": "ともだち に にもつ を うる",
+    "romaji": "tomodachi ni nimotsu o uru"
   },
   "jlpt-n5-夏-3029": {
-    "kana": "なつ を おぼえる",
-    "romaji": "natsu o oboeru"
+    "kana": "なつ わ いえ で べんきょう し た",
+    "romaji": "natsu wa ie de benkyou shi ta"
   },
   "jlpt-n5-夕方-2928": {
-    "kana": "ゆうがた を おぼえる",
-    "romaji": "yuugata o oboeru"
+    "kana": "ゆうがた わ いえ で べんきょう し た",
+    "romaji": "yuugata wa ie de benkyou shi ta"
   },
   "jlpt-n5-夕飯-2993": {
-    "kana": "ゆうはん を おぼえる",
-    "romaji": "yuuhan o oboeru"
+    "kana": "ひる に ゆうはん を すこし たべ た",
+    "romaji": "hiru ni yuuhan o sukoshi tabe ta"
   },
   "jlpt-n5-外国-2979": {
-    "kana": "がいこく を おぼえる",
-    "romaji": "gaikoku o oboeru"
+    "kana": "しゅうまつ に がいこく え いっ た",
+    "romaji": "shuumatsu ni gaikoku e i ta"
   },
   "jlpt-n5-多い-3039": {
-    "kana": "おおい を おぼえる",
-    "romaji": "ooi o oboeru"
+    "kana": "その けいけん から おおい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ooi no taisetsu sa o shi ta"
   },
   "jlpt-n5-大きな-2900": {
-    "kana": "おおきな を おぼえる",
-    "romaji": "ookina o oboeru"
+    "kana": "じゅぎょう で おおきな を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de ookina o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-大人-3045": {
-    "kana": "おとな を おぼえる",
-    "romaji": "otona o oboeru"
+    "kana": "おとな に みち を たずね た",
+    "romaji": "otona ni michi o tazune ta"
   },
   "jlpt-n5-大使館-3063": {
-    "kana": "たいしかん を おぼえる",
-    "romaji": "taishikan o oboeru"
+    "kana": "しゅうまつ に たいしかん え いっ た",
+    "romaji": "shuumatsu ni taishikan e i ta"
   },
   "jlpt-n5-大切-3084": {
-    "kana": "たいせつ を おぼえる",
-    "romaji": "taisetsu o oboeru"
+    "kana": "たいせつ な ばしょ で しずか に やすん だ",
+    "romaji": "taisetsu na basho de shizuka ni yasun da"
   },
   "jlpt-n5-大好き-3027": {
-    "kana": "だいすき を おぼえる",
-    "romaji": "daisuki o oboeru"
+    "kana": "しっぱい し て も もういちど だいすき",
+    "romaji": "shippai shi te mo mouichido daisuki"
   },
   "jlpt-n5-大学-2919": {
-    "kana": "だいがく を おぼえる",
-    "romaji": "daigaku o oboeru"
+    "kana": "だいがく で ともだち を まっ た",
+    "romaji": "daigaku de tomodachi o ma ta"
   },
   "jlpt-n5-天気-2997": {
-    "kana": "てんき を おぼえる",
-    "romaji": "tenki o oboeru"
+    "kana": "てんき が まど の そと に みえる",
+    "romaji": "tenki ga mado no soto ni mieru"
   },
   "jlpt-n5-奥さん-2849": {
-    "kana": "おくさん を おぼえる",
-    "romaji": "okusan o oboeru"
+    "kana": "この もんだい に わ おくさん が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa okusan ga fukaku kankei shi te iru"
   },
   "jlpt-n5-好き-2934": {
-    "kana": "すき を おぼえる",
-    "romaji": "suki o oboeru"
+    "kana": "すき な ばしょ で しずか に やすん だ",
+    "romaji": "suki na basho de shizuka ni yasun da"
   },
   "jlpt-n5-妹-3028": {
-    "kana": "いもうと を おぼえる",
-    "romaji": "imouto o oboeru"
+    "kana": "いもうと に みち を たずね た",
+    "romaji": "imouto ni michi o tazune ta"
   },
   "jlpt-n5-始まる-2941": {
-    "kana": "はじまる を おぼえる",
-    "romaji": "hajimaru o oboeru"
+    "kana": "かいぎ わ じかん どおり に はじまる",
+    "romaji": "kaigi wa jikan doori ni hajimaru"
   },
   "jlpt-n5-学校-2975": {
-    "kana": "がっこう を おぼえる",
-    "romaji": "gakkou o oboeru"
+    "kana": "しゅうまつ に がっこう え いっ た",
+    "romaji": "shuumatsu ni gakkou e i ta"
   },
   "jlpt-n5-学生-3085": {
-    "kana": "がくせい を おぼえる",
-    "romaji": "gakusei o oboeru"
+    "kana": "がくせい に みち を たずね た",
+    "romaji": "gakusei ni michi o tazune ta"
   },
   "jlpt-n5-安い-2895": {
-    "kana": "やすい を おぼえる",
-    "romaji": "yasui o oboeru"
+    "kana": "この もんだい に わ やすい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa yasui ga fukaku kankei shi te iru"
   },
   "jlpt-n5-家-2842": {
-    "kana": "いえ を おぼえる",
-    "romaji": "ie o oboeru"
+    "kana": "しゅうまつ に いえ え いっ た",
+    "romaji": "shuumatsu ni ie e i ta"
   },
   "jlpt-n5-家族-2903": {
-    "kana": "かぞく を おぼえる",
-    "romaji": "kazoku o oboeru"
+    "kana": "かぞく に みち を たずね た",
+    "romaji": "kazoku ni michi o tazune ta"
   },
   "jlpt-n5-寒い-2853": {
-    "kana": "さむい を おぼえる",
-    "romaji": "samui o oboeru"
+    "kana": "この へや わ おもっ た より さむい",
+    "romaji": "kono heya wa omo ta yori samui"
   },
   "jlpt-n5-小さい-3068": {
-    "kana": "ちいさい を おぼえる",
-    "romaji": "chiisai o oboeru"
+    "kana": "この もんだい わ すこし ちいさい",
+    "romaji": "kono mondai wa sukoshi chiisai"
   },
   "jlpt-n5-小さな-2962": {
-    "kana": "ちいさな を おぼえる",
-    "romaji": "chiisana o oboeru"
+    "kana": "かいぎ で ちいさな について はなしあっ た",
+    "romaji": "kaigi de chiisana nitsuite hanashia ta"
   },
   "jlpt-n5-少し-2918": {
-    "kana": "すこし を おぼえる",
-    "romaji": "sukoshi o oboeru"
+    "kana": "かいぎ で すこし について はなしあっ た",
+    "romaji": "kaigi de sukoshi nitsuite hanashia ta"
   },
   "jlpt-n5-山-2970": {
-    "kana": "やま を おぼえる",
-    "romaji": "yama o oboeru"
+    "kana": "やま の おと で あさ に きづい た",
+    "romaji": "yama no oto de asa ni kizui ta"
   },
   "jlpt-n5-差す-2897": {
-    "kana": "さす を おぼえる",
-    "romaji": "sasu o oboeru"
+    "kana": "ひつよう に おうじ て よてい を すこし さす",
+    "romaji": "hitsuyou ni ouji te yotei o sukoshi sasu"
   },
   "jlpt-n5-帰る-2958": {
-    "kana": "かえる を おぼえる",
-    "romaji": "kaeru o oboeru"
+    "kana": "じゅぎょう の あと えき え かえる",
+    "romaji": "jugyou no ato eki e kaeru"
   },
   "jlpt-n5-年-2863": {
-    "kana": "とし を おぼえる",
-    "romaji": "toshi o oboeru"
+    "kana": "とし に ともだち と あう",
+    "romaji": "toshi ni tomodachi to au"
   },
   "jlpt-n5-広い-3073": {
-    "kana": "ひろい を おぼえる",
-    "romaji": "hiroi o oboeru"
+    "kana": "この へや わ おもっ た より ひろい",
+    "romaji": "kono heya wa omo ta yori hiroi"
   },
   "jlpt-n5-座る-2862": {
-    "kana": "すわる を おぼえる",
-    "romaji": "suwaru o oboeru"
+    "kana": "ひつよう な とき に すぐ すわる",
+    "romaji": "hitsuyou na toki ni sugu suwaru"
   },
   "jlpt-n5-庭-2899": {
-    "kana": "にわ を おぼえる",
-    "romaji": "niwa o oboeru"
+    "kana": "しゅうまつ に にわ え いっ た",
+    "romaji": "shuumatsu ni niwa e i ta"
   },
   "jlpt-n5-廊下-2887": {
-    "kana": "ろうか を おぼえる",
-    "romaji": "rouka o oboeru"
+    "kana": "その けいけん から ろうか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara rouka no taisetsu sa o shi ta"
   },
   "jlpt-n5-建物-2915": {
-    "kana": "たてもの を おぼえる",
-    "romaji": "tatemono o oboeru"
+    "kana": "かいぎ で たてもの について はなしあっ た",
+    "romaji": "kaigi de tatemono nitsuite hanashia ta"
   },
   "jlpt-n5-引く-2833": {
-    "kana": "ひく を おぼえる",
-    "romaji": "hiku o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に ひく",
+    "romaji": "dougu o tsuka te teinei ni hiku"
   },
   "jlpt-n5-弟-3096": {
-    "kana": "おとうと を おぼえる",
-    "romaji": "otouto o oboeru"
+    "kana": "きのう おとうと に みち を たずね た",
+    "romaji": "kinou otouto ni michi o tazune ta"
   },
   "jlpt-n5-忘れる-3014": {
-    "kana": "わすれる を おぼえる",
-    "romaji": "wasureru o oboeru"
+    "kana": "たいせつ な やくそく を わすれる",
+    "romaji": "taisetsu na yakusoku o wasureru"
   },
   "jlpt-n5-悪い-3010": {
-    "kana": "わるい を おぼえる",
-    "romaji": "warui o oboeru"
+    "kana": "きょう わ くうき が とても わるい",
+    "romaji": "kyou wa kuuki ga totemo warui"
   },
   "jlpt-n5-戸-3000": {
-    "kana": "と を おぼえる",
-    "romaji": "to o oboeru"
+    "kana": "つくえ の うえ に と を おい た",
+    "romaji": "tsukue no ue ni to o oi ta"
   },
   "jlpt-n5-所-3048": {
-    "kana": "ところ を おぼえる",
-    "romaji": "tokoro o oboeru"
+    "kana": "しゅうまつ に ところ え いっ た",
+    "romaji": "shuumatsu ni tokoro e i ta"
   },
   "jlpt-n5-手紙-2889": {
-    "kana": "てがみ を おぼえる",
-    "romaji": "tegami o oboeru"
+    "kana": "じゅぎょう で てがみ を こえ に だし て よん だ",
+    "romaji": "jugyou de tegami o koe ni dashi te yon da"
   },
   "jlpt-n5-押す-2835": {
-    "kana": "おす を おぼえる",
-    "romaji": "osu o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に おす",
+    "romaji": "dougu o tsuka te teinei ni osu"
   },
   "jlpt-n5-持つ-3007": {
-    "kana": "もつ を おぼえる",
-    "romaji": "motsu o oboeru"
+    "kana": "せんせい の まえ で おちつい て もつ",
+    "romaji": "sensei no mae de ochitsui te motsu"
   },
   "jlpt-n5-掃除-2944": {
-    "kana": "そうじ を おぼえる",
-    "romaji": "souji o oboeru"
+    "kana": "しっぱい し て も もういちど そうじ",
+    "romaji": "shippai shi te mo mouichido souji"
   },
   "jlpt-n5-授業-2971": {
-    "kana": "じゅぎょう を おぼえる",
-    "romaji": "jugyou o oboeru"
+    "kana": "かいぎ で じゅぎょう について はなしあっ た",
+    "romaji": "kaigi de jugyou nitsuite hanashia ta"
   },
   "jlpt-n5-撮る-2931": {
-    "kana": "とる を おぼえる",
-    "romaji": "toru o oboeru"
+    "kana": "ともだち に にもつ を とる",
+    "romaji": "tomodachi ni nimotsu o toru"
   },
   "jlpt-n5-教える-2950": {
-    "kana": "おしえる を おぼえる",
-    "romaji": "oshieru o oboeru"
+    "kana": "かいぎ で りゆう を はっきり おしえる",
+    "romaji": "kaigi de riyuu o hakkiri oshieru"
   },
   "jlpt-n5-文章-3003": {
-    "kana": "ぶんしょう を おぼえる",
-    "romaji": "bunshou o oboeru"
+    "kana": "じゅぎょう で ぶんしょう を こえ に だし て よん だ",
+    "romaji": "jugyou de bunshou o koe ni dashi te yon da"
   },
   "jlpt-n5-料理-2905": {
-    "kana": "りょうり を おぼえる",
-    "romaji": "ryouri o oboeru"
+    "kana": "その けいけん から りょうり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara ryouri no taisetsu sa o shi ta"
   },
   "jlpt-n5-新しい-2886": {
-    "kana": "あたらしい を おぼえる",
-    "romaji": "atarashii o oboeru"
+    "kana": "この へや わ おもっ た より あたらしい",
+    "romaji": "kono heya wa omo ta yori atarashii"
   },
   "jlpt-n5-新聞-2898": {
-    "kana": "しんぶん を おぼえる",
-    "romaji": "shinbun o oboeru"
+    "kana": "じゅぎょう で しんぶん を こえ に だし て よん だ",
+    "romaji": "jugyou de shinbun o koe ni dashi te yon da"
   },
   "jlpt-n5-易しい-3062": {
-    "kana": "やさしい を おぼえる",
-    "romaji": "yasashii o oboeru"
+    "kana": "きょう わ くうき が とても やさしい",
+    "romaji": "kyou wa kuuki ga totemo yasashii"
   },
   "jlpt-n5-昼御飯-3087": {
-    "kana": "ひる ごはん を おぼえる",
-    "romaji": "hiru gohan o oboeru"
+    "kana": "ひる に ひる ごはん を すこし たべ た",
+    "romaji": "hiru ni hiru gohan o sukoshi tabe ta"
   },
   "jlpt-n5-時々-2891": {
-    "kana": "ときどき を おぼえる",
-    "romaji": "tokidoki o oboeru"
+    "kana": "ときどき この みせ に くる",
+    "romaji": "tokidoki kono mise ni kuru"
   },
   "jlpt-n5-時計-3058": {
-    "kana": "とけい を おぼえる",
-    "romaji": "tokei o oboeru"
+    "kana": "とけい を かばん に いれ た",
+    "romaji": "tokei o kaban ni ire ta"
   },
   "jlpt-n5-時間-2963": {
-    "kana": "じかん を おぼえる",
-    "romaji": "jikan o oboeru"
+    "kana": "じゅぎょう で じかん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de jikan o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-晩-2983": {
-    "kana": "ばん を おぼえる",
-    "romaji": "ban o oboeru"
+    "kana": "ばん わ いえ で べんきょう し た",
+    "romaji": "ban wa ie de benkyou shi ta"
   },
   "jlpt-n5-晴れる-2992": {
-    "kana": "はれる を おぼえる",
-    "romaji": "hareru o oboeru"
+    "kana": "ひつよう な とき に すぐ はれる",
+    "romaji": "hitsuyou na toki ni sugu hareru"
   },
   "jlpt-n5-暑い-2844": {
-    "kana": "あつい を おぼえる",
-    "romaji": "atsui o oboeru"
+    "kana": "この へや わ おもっ た より あつい",
+    "romaji": "kono heya wa omo ta yori atsui"
   },
   "jlpt-n5-暖かい-2972": {
-    "kana": "あたたかい を おぼえる",
-    "romaji": "atatakai o oboeru"
+    "kana": "きょう きょう わ くうき が とても あたたかい",
+    "romaji": "kyou kyou wa kuuki ga totemo atatakai"
   },
   "jlpt-n5-曇り-2978": {
-    "kana": "くもり を おぼえる",
-    "romaji": "kumori o oboeru"
+    "kana": "くもり の おと で あさ に きづい た",
+    "romaji": "kumori no oto de asa ni kizui ta"
   },
   "jlpt-n5-曇る-2924": {
-    "kana": "くもる を おぼえる",
-    "romaji": "kumoru o oboeru"
+    "kana": "しずか な まち に へんか が くもる",
+    "romaji": "shizuka na machi ni henka ga kumoru"
   },
   "jlpt-n5-有名-3055": {
-    "kana": "ゆうめい を おぼえる",
-    "romaji": "yuumei o oboeru"
+    "kana": "ゆうめい な ばしょ で しずか に やすん だ",
+    "romaji": "yuumei na basho de shizuka ni yasun da"
   },
   "jlpt-n5-朝-3053": {
-    "kana": "あさ を おぼえる",
-    "romaji": "asa o oboeru"
+    "kana": "あさ に ともだち と あう",
+    "romaji": "asa ni tomodachi to au"
   },
   "jlpt-n5-朝御飯-2951": {
-    "kana": "あさ ごはん を おぼえる",
-    "romaji": "asa gohan o oboeru"
+    "kana": "ひる に あさ ごはん を すこし たべ た",
+    "romaji": "hiru ni asa gohan o sukoshi tabe ta"
   },
   "jlpt-n5-木-3034": {
-    "kana": "き を おぼえる",
-    "romaji": "ki o oboeru"
+    "kana": "き の おと で あさ に きづい た",
+    "romaji": "ki no oto de asa ni kizui ta"
   },
   "jlpt-n5-木曜日-3013": {
-    "kana": "もくようび を おぼえる",
-    "romaji": "mokuyoubi o oboeru"
+    "kana": "もくようび わ いえ で べんきょう し た",
+    "romaji": "mokuyoubi wa ie de benkyou shi ta"
   },
   "jlpt-n5-村-2985": {
-    "kana": "むら を おぼえる",
-    "romaji": "mura o oboeru"
+    "kana": "しゅうまつ に むら え いっ た",
+    "romaji": "shuumatsu ni mura e i ta"
   },
   "jlpt-n5-来月-3023": {
-    "kana": "らいげつ を おぼえる",
-    "romaji": "raigetsu o oboeru"
+    "kana": "らいげつ に ともだち と あう",
+    "romaji": "raigetsu ni tomodachi to au"
   },
   "jlpt-n5-来週-2947": {
-    "kana": "らいしゅう を おぼえる",
-    "romaji": "raishuu o oboeru"
+    "kana": "らいしゅう わ いえ で べんきょう し た",
+    "romaji": "raishuu wa ie de benkyou shi ta"
   },
   "jlpt-n5-東-2929": {
-    "kana": "ひがし を おぼえる",
-    "romaji": "higashi o oboeru"
+    "kana": "かいわ の なか で ひがし え まっすぐ すすん だ",
+    "romaji": "kaiwa no naka de higashi e massugu susun da"
   },
   "jlpt-n5-果物-3024": {
-    "kana": "くだもの を おぼえる",
-    "romaji": "kudamono o oboeru"
+    "kana": "ひる に くだもの を すこし たべ た",
+    "romaji": "hiru ni kudamono o sukoshi tabe ta"
   },
   "jlpt-n5-欲しい-3033": {
-    "kana": "ほしい を おぼえる",
-    "romaji": "hoshii o oboeru"
+    "kana": "その けいけん から ほしい の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara hoshii no taisetsu sa o shi ta"
   },
   "jlpt-n5-歌-2968": {
-    "kana": "うた を おぼえる",
-    "romaji": "uta o oboeru"
+    "kana": "じゅぎょう で うた を こえ に だし て よん だ",
+    "romaji": "jugyou de uta o koe ni dashi te yon da"
   },
   "jlpt-n5-止まる-3025": {
-    "kana": "とまる を おぼえる",
-    "romaji": "tomaru o oboeru"
+    "kana": "じゅぎょう の あと えき え とまる",
+    "romaji": "jugyou no ato eki e tomaru"
   },
   "jlpt-n5-歯-3046": {
-    "kana": "は を おぼえる",
-    "romaji": "ha o oboeru"
+    "kana": "は が すこし いたい",
+    "romaji": "ha ga sukoshi itai"
   },
   "jlpt-n5-毎晩-3080": {
-    "kana": "まいばん を おぼえる",
-    "romaji": "maiban o oboeru"
+    "kana": "まいばん わ いえ で べんきょう し た",
+    "romaji": "maiban wa ie de benkyou shi ta"
   },
   "jlpt-n5-毎月-2876": {
-    "kana": "まいつき を おぼえる",
-    "romaji": "maitsuki o oboeru"
+    "kana": "まいつき わ いえ で べんきょう し た",
+    "romaji": "maitsuki wa ie de benkyou shi ta"
   },
   "jlpt-n5-毎朝-2826": {
-    "kana": "まいあさ を おぼえる",
-    "romaji": "maiasa o oboeru"
+    "kana": "まいあさ に ともだち と あう",
+    "romaji": "maiasa ni tomodachi to au"
   },
   "jlpt-n5-毎週-2913": {
-    "kana": "まいしゅう を おぼえる",
-    "romaji": "maishuu o oboeru"
+    "kana": "まいしゅう に ともだち と あう",
+    "romaji": "maishuu ni tomodachi to au"
   },
   "jlpt-n5-汚い-2881": {
-    "kana": "きたない を おぼえる",
-    "romaji": "kitanai o oboeru"
+    "kana": "この もんだい わ すこし きたない",
+    "romaji": "kono mondai wa sukoshi kitanai"
   },
   "jlpt-n5-池-2940": {
-    "kana": "いけ を おぼえる",
-    "romaji": "ike o oboeru"
+    "kana": "この もんだい に わ いけ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa ike ga fukaku kankei shi te iru"
   },
   "jlpt-n5-海-2927": {
-    "kana": "うみ を おぼえる",
-    "romaji": "umi o oboeru"
+    "kana": "うみ が まど の そと に みえる",
+    "romaji": "umi ga mado no soto ni mieru"
   },
   "jlpt-n5-消す-2856": {
-    "kana": "けす を おぼえる",
-    "romaji": "kesu o oboeru"
+    "kana": "せんせい の まえ で おちつい て けす",
+    "romaji": "sensei no mae de ochitsui te kesu"
   },
   "jlpt-n5-温い-2980": {
-    "kana": "ぬくい を おぼえる",
-    "romaji": "nukui o oboeru"
+    "kana": "この もんだい わ すこし ぬくい",
+    "romaji": "kono mondai wa sukoshi nukui"
   },
   "jlpt-n5-火曜日-3094": {
-    "kana": "かようび を おぼえる",
-    "romaji": "kayoubi o oboeru"
+    "kana": "かようび に ともだち と あう",
+    "romaji": "kayoubi ni tomodachi to au"
   },
   "jlpt-n5-無くす-2922": {
-    "kana": "なくす を おぼえる",
-    "romaji": "nakusu o oboeru"
+    "kana": "ひつよう な とき に すぐ なくす",
+    "romaji": "hitsuyou na toki ni sugu nakusu"
   },
   "jlpt-n5-牛肉-3078": {
-    "kana": "ぎゅうにく を おぼえる",
-    "romaji": "gyuuniku o oboeru"
+    "kana": "ひる に ぎゅうにく を すこし たべ た",
+    "romaji": "hiru ni gyuuniku o sukoshi tabe ta"
   },
   "jlpt-n5-狭い-2865": {
-    "kana": "せまい を おぼえる",
-    "romaji": "semai o oboeru"
+    "kana": "きょう わ くうき が とても せまい",
+    "romaji": "kyou wa kuuki ga totemo semai"
   },
   "jlpt-n5-玄関-2867": {
-    "kana": "げんかん を おぼえる",
-    "romaji": "genkan o oboeru"
+    "kana": "かいぎ で げんかん について はなしあっ た",
+    "romaji": "kaigi de genkan nitsuite hanashia ta"
   },
   "jlpt-n5-甘い-2911": {
-    "kana": "あまい を おぼえる",
-    "romaji": "amai o oboeru"
+    "kana": "この もんだい わ すこし あまい",
+    "romaji": "kono mondai wa sukoshi amai"
   },
   "jlpt-n5-生まれる-2988": {
-    "kana": "うまれる を おぼえる",
-    "romaji": "umareru o oboeru"
+    "kana": "しずか な まち に へんか が うまれる",
+    "romaji": "shizuka na machi ni henka ga umareru"
   },
   "jlpt-n5-生徒-2965": {
-    "kana": "せいと を おぼえる",
-    "romaji": "seito o oboeru"
+    "kana": "その けいけん から せいと の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara seito no taisetsu sa o shi ta"
   },
   "jlpt-n5-男の子-2864": {
-    "kana": "おとこのこ を おぼえる",
-    "romaji": "otokonoko o oboeru"
+    "kana": "おとこのこ に みち を たずね た",
+    "romaji": "otokonoko ni michi o tazune ta"
   },
   "jlpt-n5-番号-2902": {
-    "kana": "ばんごう を おぼえる",
-    "romaji": "bangou o oboeru"
+    "kana": "こたえ わ ばんごう です",
+    "romaji": "kotae wa bangou desu"
   },
   "jlpt-n5-疲れる-2943": {
-    "kana": "つかれる を おぼえる",
-    "romaji": "tsukareru o oboeru"
+    "kana": "ひつよう な とき に すぐ つかれる",
+    "romaji": "hitsuyou na toki ni sugu tsukareru"
   },
   "jlpt-n5-病気-2839": {
-    "kana": "びょうき を おぼえる",
-    "romaji": "byouki o oboeru"
+    "kana": "この もんだい に わ びょうき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa byouki ga fukaku kankei shi te iru"
   },
   "jlpt-n5-病院-2920": {
-    "kana": "びょういん を おぼえる",
-    "romaji": "byouin o oboeru"
+    "kana": "びょういん で ともだち を まっ た",
+    "romaji": "byouin de tomodachi o ma ta"
   },
   "jlpt-n5-登る-2880": {
-    "kana": "のぼる を おぼえる",
-    "romaji": "noboru o oboeru"
+    "kana": "あさ の こうえん を ゆっくり のぼる",
+    "romaji": "asa no kouen o yukkuri noboru"
   },
   "jlpt-n5-百-3090": {
-    "kana": "ひゃく を おぼえる",
-    "romaji": "hyaku o oboeru"
+    "kana": "こたえ わ ひゃく です",
+    "romaji": "kotae wa hyaku desu"
   },
   "jlpt-n5-目-2859": {
-    "kana": "め を おぼえる",
-    "romaji": "me o oboeru"
+    "kana": "め が すこし いたい",
+    "romaji": "me ga sukoshi itai"
   },
   "jlpt-n5-着く-3026": {
-    "kana": "つく を おぼえる",
-    "romaji": "tsuku o oboeru"
+    "kana": "じゅぎょう の あと えき え つく",
+    "romaji": "jugyou no ato eki e tsuku"
   },
   "jlpt-n5-着る-3020": {
-    "kana": "きる を おぼえる",
-    "romaji": "kiru o oboeru"
+    "kana": "ひつよう な とき に すぐ きる",
+    "romaji": "hitsuyou na toki ni sugu kiru"
   },
   "jlpt-n5-知る-2949": {
-    "kana": "しる を おぼえる",
-    "romaji": "shiru o oboeru"
+    "kana": "こたえ を だす まえ に よく しる",
+    "romaji": "kotae o dasu mae ni yoku shiru"
   },
   "jlpt-n5-磨く-2834": {
-    "kana": "みがく を おぼえる",
-    "romaji": "migaku o oboeru"
+    "kana": "せんせい の まえ で おちつい て みがく",
+    "romaji": "sensei no mae de ochitsui te migaku"
   },
   "jlpt-n5-私-2932": {
-    "kana": "わたし を おぼえる",
-    "romaji": "watashi o oboeru"
+    "kana": "じゅぎょう で わたし を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de watashi o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-秋-3009": {
-    "kana": "あき を おぼえる",
-    "romaji": "aki o oboeru"
+    "kana": "あき わ いえ で べんきょう し た",
+    "romaji": "aki wa ie de benkyou shi ta"
   },
   "jlpt-n5-空-2860": {
-    "kana": "そら を おぼえる",
-    "romaji": "sora o oboeru"
+    "kana": "そら が まど の そと に みえる",
+    "romaji": "sora ga mado no soto ni mieru"
   },
   "jlpt-n5-窓-2982": {
-    "kana": "まど を おぼえる",
-    "romaji": "mado o oboeru"
+    "kana": "つくえ の うえ に まど を おい た",
+    "romaji": "tsukue no ue ni mado o oi ta"
   },
   "jlpt-n5-立つ-2995": {
-    "kana": "たつ を おぼえる",
-    "romaji": "tatsu o oboeru"
+    "kana": "しっぱい し て も もういちど たつ",
+    "romaji": "shippai shi te mo mouichido tatsu"
   },
   "jlpt-n5-箱-3051": {
-    "kana": "はこ を おぼえる",
-    "romaji": "hako o oboeru"
+    "kana": "つくえ の うえ に はこ を おい た",
+    "romaji": "tsukue no ue ni hako o oi ta"
   },
   "jlpt-n5-終る-3021": {
-    "kana": "おわる を おぼえる",
-    "romaji": "owaru o oboeru"
+    "kana": "かいぎ わ じかん どおり に おわる",
+    "romaji": "kaigi wa jikan doori ni owaru"
   },
   "jlpt-n5-緑-3098": {
-    "kana": "みどり を おぼえる",
-    "romaji": "midori o oboeru"
+    "kana": "その けいけん から みどり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara midori no taisetsu sa o shi ta"
   },
   "jlpt-n5-練習-2873": {
-    "kana": "れんしゅう を おぼえる",
-    "romaji": "renshuu o oboeru"
+    "kana": "ひつよう な とき に すぐ れんしゅう",
+    "romaji": "hitsuyou na toki ni sugu renshuu"
   },
   "jlpt-n5-肉-3070": {
-    "kana": "にく を おぼえる",
-    "romaji": "niku o oboeru"
+    "kana": "ひる に にく を すこし たべ た",
+    "romaji": "hiru ni niku o sukoshi tabe ta"
   },
   "jlpt-n5-脱ぐ-2878": {
-    "kana": "ぬぐ を おぼえる",
-    "romaji": "nugu o oboeru"
+    "kana": "ともだち に にもつ を ぬぐ",
+    "romaji": "tomodachi ni nimotsu o nugu"
   },
   "jlpt-n5-自分-2955": {
-    "kana": "じぶん を おぼえる",
-    "romaji": "jibun o oboeru"
+    "kana": "その けいけん から じぶん の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara jibun no taisetsu sa o shi ta"
   },
   "jlpt-n5-自転車-2973": {
-    "kana": "じてんしゃ を おぼえる",
-    "romaji": "jitensha o oboeru"
+    "kana": "つくえ の うえ に じてんしゃ を おい た",
+    "romaji": "tsukue no ue ni jitensha o oi ta"
   },
   "jlpt-n5-花瓶-2832": {
-    "kana": "かびん を おぼえる",
-    "romaji": "kabin o oboeru"
+    "kana": "じゅぎょう で かびん を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kabin o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-英語-2841": {
-    "kana": "えいご を おぼえる",
-    "romaji": "eigo o oboeru"
+    "kana": "じゅぎょう で えいご を こえ に だし て よん だ",
+    "romaji": "jugyou de eigo o koe ni dashi te yon da"
   },
   "jlpt-n5-茶色-2888": {
-    "kana": "ちゃいろ を おぼえる",
-    "romaji": "chairo o oboeru"
+    "kana": "かいぎ で ちゃいろ について はなしあっ た",
+    "romaji": "kaigi de chairo nitsuite hanashia ta"
   },
   "jlpt-n5-葉書-2831": {
-    "kana": "はがき を おぼえる",
-    "romaji": "hagaki o oboeru"
+    "kana": "この もんだい に わ はがき が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hagaki ga fukaku kankei shi te iru"
   },
   "jlpt-n5-薄い-2956": {
-    "kana": "うすい を おぼえる",
-    "romaji": "usui o oboeru"
+    "kana": "この もんだい わ すこし うすい",
+    "romaji": "kono mondai wa sukoshi usui"
   },
   "jlpt-n5-薬-3035": {
-    "kana": "くすり を おぼえる",
-    "romaji": "kusuri o oboeru"
+    "kana": "しょくご に くすり を のん だ",
+    "romaji": "shokugo ni kusuri o non da"
   },
   "jlpt-n5-西-2912": {
-    "kana": "にし を おぼえる",
-    "romaji": "nishi o oboeru"
+    "kana": "にし え まっすぐ すすん だ",
+    "romaji": "nishi e massugu susun da"
   },
   "jlpt-n5-要る-2890": {
-    "kana": "いる を おぼえる",
-    "romaji": "iru o oboeru"
+    "kana": "せんせい の まえ で おちつい て いる",
+    "romaji": "sensei no mae de ochitsui te iru"
   },
   "jlpt-n5-覚える-2938": {
-    "kana": "おぼえる を おぼえる",
-    "romaji": "oboeru o oboeru"
+    "kana": "あたらしい かんじ わ なん ど も かい て おぼえる",
+    "romaji": "atarashii kanji wa nan do mo kai te oboeru"
   },
   "jlpt-n5-言う-2871": {
-    "kana": "いう を おぼえる",
-    "romaji": "iu o oboeru"
+    "kana": "かいぎ で りゆう を はっきり いう",
+    "romaji": "kaigi de riyuu o hakkiri iu"
   },
   "jlpt-n5-言葉-2953": {
-    "kana": "ことば を おぼえる",
-    "romaji": "kotoba o oboeru"
+    "kana": "じゅぎょう で ことば を こえ に だし て よん だ",
+    "romaji": "jugyou de kotoba o koe ni dashi te yon da"
   },
   "jlpt-n5-話-3079": {
-    "kana": "はなし を おぼえる",
-    "romaji": "hanashi o oboeru"
+    "kana": "じゅぎょう で はなし を こえ に だし て よん だ",
+    "romaji": "jugyou de hanashi o koe ni dashi te yon da"
   },
   "jlpt-n5-読む-3022": {
-    "kana": "よむ を おぼえる",
-    "romaji": "yomu o oboeru"
+    "kana": "あさ の でんしゃ で しんぶん を よむ",
+    "romaji": "asa no densha de shinbun o yomu"
   },
   "jlpt-n5-誰-3064": {
-    "kana": "だれ を おぼえる",
-    "romaji": "dare o oboeru"
+    "kana": "この もんだい に わ だれ が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa dare ga fukaku kankei shi te iru"
   },
   "jlpt-n5-豚肉-3072": {
-    "kana": "ぶたにく を おぼえる",
-    "romaji": "butaniku o oboeru"
+    "kana": "ひる に ぶたにく を すこし たべ た",
+    "romaji": "hiru ni butaniku o sukoshi tabe ta"
   },
   "jlpt-n5-財布-2948": {
-    "kana": "さいふ を おぼえる",
-    "romaji": "saifu o oboeru"
+    "kana": "さいふ を かばん に いれ た",
+    "romaji": "saifu o kaban ni ire ta"
   },
   "jlpt-n5-賑やか-2945": {
-    "kana": "にぎやか を おぼえる",
-    "romaji": "nigiyaka o oboeru"
+    "kana": "にぎやか な ばしょ で しずか に やすん だ",
+    "romaji": "nigiyaka na basho de shizuka ni yasun da"
   },
   "jlpt-n5-赤-2954": {
-    "kana": "あか を おぼえる",
-    "romaji": "aka o oboeru"
+    "kana": "その けいけん から あか の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara aka no taisetsu sa o shi ta"
   },
   "jlpt-n5-赤い-2910": {
-    "kana": "あかい を おぼえる",
-    "romaji": "akai o oboeru"
+    "kana": "じゅぎょう で あかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de akai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-足-3050": {
-    "kana": "あし を おぼえる",
-    "romaji": "ashi o oboeru"
+    "kana": "あし が すこし いたい",
+    "romaji": "ashi ga sukoshi itai"
   },
   "jlpt-n5-軽い-3100": {
-    "kana": "かるい を おぼえる",
-    "romaji": "karui o oboeru"
+    "kana": "かるい が まど の そと に みえる",
+    "romaji": "karui ga mado no soto ni mieru"
   },
   "jlpt-n5-辞書-2925": {
-    "kana": "じしょ を おぼえる",
-    "romaji": "jisho o oboeru"
+    "kana": "じゅぎょう で じしょ を こえ に だし て よん だ",
+    "romaji": "jugyou de jisho o koe ni dashi te yon da"
   },
   "jlpt-n5-辺-2901": {
-    "kana": "あたり を おぼえる",
-    "romaji": "atari o oboeru"
+    "kana": "その けいけん から あたり の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara atari no taisetsu sa o shi ta"
   },
   "jlpt-n5-近い-3057": {
-    "kana": "ちかい を おぼえる",
-    "romaji": "chikai o oboeru"
+    "kana": "じゅぎょう で ちかい を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de chikai o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-近く-2857": {
-    "kana": "ちかく を おぼえる",
-    "romaji": "chikaku o oboeru"
+    "kana": "しっぱい し て も もういちど ちかく",
+    "romaji": "shippai shi te mo mouichido chikaku"
   },
   "jlpt-n5-速い-2884": {
-    "kana": "はやい を おぼえる",
-    "romaji": "hayai o oboeru"
+    "kana": "この もんだい に わ はやい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa hayai ga fukaku kankei shi te iru"
   },
   "jlpt-n5-遊ぶ-2845": {
-    "kana": "あそぶ を おぼえる",
-    "romaji": "asobu o oboeru"
+    "kana": "しっぱい し て も もういちど あそぶ",
+    "romaji": "shippai shi te mo mouichido asobu"
   },
   "jlpt-n5-道-2896": {
-    "kana": "みち を おぼえる",
-    "romaji": "michi o oboeru"
+    "kana": "この もんだい に わ みち が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa michi ga fukaku kankei shi te iru"
   },
   "jlpt-n5-違う-2868": {
-    "kana": "ちがう を おぼえる",
-    "romaji": "chigau o oboeru"
+    "kana": "しっぱい し て も もういちど ちがう",
+    "romaji": "shippai shi te mo mouichido chigau"
   },
   "jlpt-n5-部屋-3086": {
-    "kana": "へや を おぼえる",
-    "romaji": "heya o oboeru"
+    "kana": "へや で ともだち を まっ た",
+    "romaji": "heya de tomodachi o ma ta"
   },
   "jlpt-n5-金曜日-3037": {
-    "kana": "きんようび を おぼえる",
-    "romaji": "kin'youbi o oboeru"
+    "kana": "きんようび に ともだち と あう",
+    "romaji": "kin'youbi ni tomodachi to au"
   },
   "jlpt-n5-鉛筆-2986": {
-    "kana": "えんぴつ を おぼえる",
-    "romaji": "enpitsu o oboeru"
+    "kana": "えんぴつ を かばん に いれ た",
+    "romaji": "enpitsu o kaban ni ire ta"
   },
   "jlpt-n5-銀行-3083": {
-    "kana": "ぎんこう を おぼえる",
-    "romaji": "ginkou o oboeru"
+    "kana": "しゅうまつ に ぎんこう え いっ た",
+    "romaji": "shuumatsu ni ginkou e i ta"
   },
   "jlpt-n5-長い-2987": {
-    "kana": "ながい を おぼえる",
-    "romaji": "nagai o oboeru"
+    "kana": "この へや わ おもっ た より ながい",
+    "romaji": "kono heya wa omo ta yori nagai"
   },
   "jlpt-n5-閉まる-2877": {
-    "kana": "しまる を おぼえる",
-    "romaji": "shimaru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に しまる",
+    "romaji": "dougu o tsuka te teinei ni shimaru"
   },
   "jlpt-n5-閉める-2848": {
-    "kana": "しめる を おぼえる",
-    "romaji": "shimeru o oboeru"
+    "kana": "どうぐ を つかっ て ていねい に しめる",
+    "romaji": "dougu o tsuka te teinei ni shimeru"
   },
   "jlpt-n5-降る-3061": {
-    "kana": "ふる を おぼえる",
-    "romaji": "furu o oboeru"
+    "kana": "しずか な まち に へんか が ふる",
+    "romaji": "shizuka na machi ni henka ga furu"
   },
   "jlpt-n5-雑誌-2989": {
-    "kana": "ざっし を おぼえる",
-    "romaji": "zasshi o oboeru"
+    "kana": "じゅぎょう で ざっし を こえ に だし て よん だ",
+    "romaji": "jugyou de zasshi o koe ni dashi te yon da"
   },
   "jlpt-n5-難しい-2984": {
-    "kana": "むずかしい を おぼえる",
-    "romaji": "muzukashii o oboeru"
+    "kana": "この へや わ おもっ た より むずかしい",
+    "romaji": "kono heya wa omo ta yori muzukashii"
   },
   "jlpt-n5-雨-2882": {
-    "kana": "あめ を おぼえる",
-    "romaji": "ame o oboeru"
+    "kana": "あめ が まど の そと に みえる",
+    "romaji": "ame ga mado no soto ni mieru"
   },
   "jlpt-n5-零-3071": {
-    "kana": "れい を おぼえる",
-    "romaji": "rei o oboeru"
+    "kana": "こたえ わ れい です",
+    "romaji": "kotae wa rei desu"
   },
   "jlpt-n5-電気-2837": {
-    "kana": "でんき を おぼえる",
-    "romaji": "denki o oboeru"
+    "kana": "でんき が まど の そと に みえる",
+    "romaji": "denki ga mado no soto ni mieru"
   },
   "jlpt-n5-電話-2893": {
-    "kana": "でんわ を おぼえる",
-    "romaji": "denwa o oboeru"
+    "kana": "かいぎ で でんわ について はなしあっ た",
+    "romaji": "kaigi de denwa nitsuite hanashia ta"
   },
   "jlpt-n5-青い-3011": {
-    "kana": "あおい を おぼえる",
-    "romaji": "aoi o oboeru"
+    "kana": "かいぎ で あおい について はなしあっ た",
+    "romaji": "kaigi de aoi nitsuite hanashia ta"
   },
   "jlpt-n5-静か-2935": {
-    "kana": "しずか を おぼえる",
-    "romaji": "shizuka o oboeru"
+    "kana": "しずか な ばしょ で しずか に やすん だ",
+    "romaji": "shizuka na basho de shizuka ni yasun da"
   },
   "jlpt-n5-靴下-3074": {
-    "kana": "くつした を おぼえる",
-    "romaji": "kutsushita o oboeru"
+    "kana": "かいぎ で くつした について はなしあっ た",
+    "romaji": "kaigi de kutsushita nitsuite hanashia ta"
   },
   "jlpt-n5-音楽-2967": {
-    "kana": "おんがく を おぼえる",
-    "romaji": "ongaku o oboeru"
+    "kana": "じゅぎょう で おんがく を こえ に だし て よん だ",
+    "romaji": "jugyou de ongaku o koe ni dashi te yon da"
   },
   "jlpt-n5-頭-2840": {
-    "kana": "あたま を おぼえる",
-    "romaji": "atama o oboeru"
+    "kana": "その けいけん から あたま の たいせつ さ を しっ た",
+    "romaji": "sono keiken kara atama no taisetsu sa o shi ta"
   },
   "jlpt-n5-風-2917": {
-    "kana": "かぜ を おぼえる",
-    "romaji": "kaze o oboeru"
+    "kana": "かぜのおと で あさ に きづい た",
+    "romaji": "kazenooto de asa ni kizui ta"
   },
   "jlpt-n5-風邪-2909": {
-    "kana": "かぜ を おぼえる",
-    "romaji": "kaze o oboeru"
+    "kana": "かいぎ で かぜ について はなしあっ た",
+    "romaji": "kaigi de kaze nitsuite hanashia ta"
   },
   "jlpt-n5-飛ぶ-2952": {
-    "kana": "とぶ を おぼえる",
-    "romaji": "tobu o oboeru"
+    "kana": "あさ の こうえん を ゆっくり とぶ",
+    "romaji": "asa no kouen o yukkuri tobu"
   },
   "jlpt-n5-食べ物-3060": {
-    "kana": "たべもの を おぼえる",
-    "romaji": "tabemono o oboeru"
+    "kana": "ひる に たべもの を すこし たべ た",
+    "romaji": "hiru ni tabemono o sukoshi tabe ta"
   },
   "jlpt-n5-飲む-2872": {
-    "kana": "のむ を おぼえる",
-    "romaji": "nomu o oboeru"
+    "kana": "うんどう の あと すい を のむ",
+    "romaji": "undou no ato sui o nomu"
   },
   "jlpt-n5-高い-2957": {
-    "kana": "たかい を おぼえる",
-    "romaji": "takai o oboeru"
+    "kana": "かいぎ で たかい について はなしあっ た",
+    "romaji": "kaigi de takai nitsuite hanashia ta"
   },
   "jlpt-n5-黒-2829": {
-    "kana": "くろ を おぼえる",
-    "romaji": "kuro o oboeru"
+    "kana": "じゅぎょう で くろ を ぐたい てき に せつめい し た",
+    "romaji": "jugyou de kuro o gutai teki ni setsumei shi ta"
   },
   "jlpt-n5-黒い-2879": {
-    "kana": "くろい を おぼえる",
-    "romaji": "kuroi o oboeru"
+    "kana": "この もんだい に わ くろい が ふかく かんけい し て いる",
+    "romaji": "kono mondai ni wa kuroi ga fukaku kankei shi te iru"
   },
   "kaeru-transitive": {
     "kana": "いたみ を うた に かえる",

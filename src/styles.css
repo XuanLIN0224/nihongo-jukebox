@@ -355,6 +355,11 @@ textarea:focus {
   opacity: 0.7;
 }
 
+.secondary-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 .secondary-button {
   border-color: var(--line);
   background: var(--panel);
@@ -374,6 +379,34 @@ textarea:focus {
   margin: 0;
   color: var(--red);
   font-weight: 700;
+}
+
+.answer-reveal {
+  display: grid;
+  gap: 5px;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgba(164, 70, 61, 0.35);
+  border-radius: 8px;
+  background: var(--red-soft);
+  color: var(--ink);
+  text-align: left;
+}
+
+.answer-reveal span {
+  color: var(--red);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.answer-reveal strong {
+  font-size: 20px;
+}
+
+.answer-reveal small,
+.answer-reveal p {
+  margin: 0;
+  color: var(--muted);
 }
 
 .correct-text,
@@ -822,6 +855,11 @@ textarea:focus {
   color: var(--muted);
   font-size: 16px;
   font-weight: 600;
+}
+
+.quiz-support-row {
+  display: flex;
+  justify-content: center;
 }
 
 .quiz-form {

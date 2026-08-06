@@ -9,6 +9,7 @@
     "preview": "vite preview --host 0.0.0.0",
     "lint": "tsc --noEmit",
     "generate:example-readings": "node scripts/generate-example-readings.mjs",
+    "refresh:vocab-examples": "node scripts/refresh-vocabulary-examples.mjs",
     "generate:vocab": "node scripts/generate-jlpt-vocabulary.mjs",
     "generate:lyrics": "node scripts/generate-lyric-study-data.mjs"
   },

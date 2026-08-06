@@ -1,4 +1,5 @@
 import {
+  ArrowLeft,
   BookMarked,
   BookOpen,
   BookmarkCheck,
@@ -899,7 +900,14 @@ function LineQuiz({
           检查
         </button>
       </form>
-      {status === "wrong" && <p className="wrong-text">还差一点，拼错了需要重拼。</p>}
+      {status === "wrong" && (
+        <div className="answer-reveal wrong-answer">
+          <span>正确答案</span>
+          <strong>{line.japanese}</strong>
+          {line.romaji && <small>{line.romaji}</small>}
+          <p>还差一点，照着答案重拼这一句。</p>
+        </div>
+      )}
       {status === "correct" && (
         <div className="correct-row">
           <span>正确。</span>
@@ -922,6 +930,8 @@ function VocabularyDrill({
   const [mode, setMode] = useState<"study" | "library">("study");
   const [selectedLevel, setSelectedLevel] = useState<JLPTLevel>("N1");
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [wordHistory, setWordHistory] = useState<string[]>([]);
+  const [reviewWordId, setReviewWordId] = useState<string | null>(null);
   const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
   const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
 
@@ -949,24 +959,51 @@ function VocabularyDrill({
     .filter((word): word is StudyWord => Boolean(word));
   const needsQuiz = dueQuizWords.length >= 10;
   const remaining = levelWords.filter((word) => !learnedSet.has(word.id));
-  const currentWord = remaining[currentIndex % Math.max(remaining.length, 1)];
+  const reviewWord = reviewWordId ? levelWords.find((word) => word.id === reviewWordId) : undefined;
+  const currentWord = reviewWord ?? remaining[currentIndex % Math.max(remaining.length, 1)];
   const currentSaved = currentWord ? savedSet.has(currentWord.id) : false;
+  const currentLearned = currentWord ? learnedSet.has(currentWord.id) : false;
   const percent = progressPercent(learnedLevelIds.length, levelWords.length);
   const quizGap = Math.max(0, 10 - (learnedLevelIds.length - quizMilestone));
 
+  function rememberCurrentWord(word: StudyWord) {
+    setWordHistory((current) => {
+      if (current[current.length - 1] === word.id) return current;
+      return [...current, word.id];
+    });
+  }
+
+  function goToPreviousWord() {
+    const previousId = wordHistory[wordHistory.length - 1];
+    if (!previousId) return;
+    setReviewWordId(previousId);
+    setWordHistory((current) => current.slice(0, -1));
+  }
+
+  function skipWord(word: StudyWord) {
+    if (!reviewWordId) {
+      rememberCurrentWord(word);
+      setCurrentIndex((current) => current + 1);
+    }
+    setReviewWordId(null);
+  }
+
   function markWord(word: StudyWord) {
+    if (!reviewWordId) rememberCurrentWord(word);
     setProgress((current) => ({
       ...current,
       learnedWords: current.learnedWords.includes(word.id)
         ? current.learnedWords
         : [...current.learnedWords, word.id]
     }));
-    setCurrentIndex((current) => current + 1);
+    setReviewWordId(null);
   }
 
   function chooseLevel(level: JLPTLevel) {
     setSelectedLevel(level);
     setCurrentIndex(0);
+    setWordHistory([]);
+    setReviewWordId(null);
   }
 
   if (mode === "library") {
@@ -985,6 +1022,7 @@ function VocabularyDrill({
         <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
         <WordQuiz
           words={dueQuizWords}
+          progress={progress}
           setProgress={setProgress}
           level={selectedLevel}
           onDone={() =>
@@ -1076,17 +1114,26 @@ function VocabularyDrill({
               wide
             />
             <div className="word-actions">
+              <button
+                className="secondary-button"
+                type="button"
+                onClick={goToPreviousWord}
+                disabled={wordHistory.length === 0}
+              >
+                <ArrowLeft size={17} />
+                上一个
+              </button>
               <button className="secondary-button" type="button" onClick={() => toggleSavedWord(currentWord.id, setProgress)}>
                 {currentSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
                 {currentSaved ? "已在生词本" : "加入生词本"}
               </button>
-              <button className="secondary-button" type="button" onClick={() => setCurrentIndex((value) => value + 1)}>
+              <button className="secondary-button" type="button" onClick={() => skipWord(currentWord)}>
                 <RefreshCcw size={17} />
-                先放一放
+                {reviewWordId ? "回到当前" : "先放一放"}
               </button>
               <button className="primary-button" type="button" onClick={() => markWord(currentWord)}>
                 <Check size={18} />
-                记住了
+                {currentLearned ? "已记住" : "记住了"}
               </button>
             </div>
           </article>
@@ -1145,17 +1192,20 @@ function WordQuiz({
   words,
   level,
   onDone,
+  progress,
   setProgress
 }: {
   words: StudyWord[];
   level: JLPTLevel;
   onDone: () => void;
+  progress: ProgressState;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
   const [index, setIndex] = useState(0);
   const [input, setInput] = useState("");
   const [status, setStatus] = useState<"idle" | "correct" | "wrong">("idle");
   const word = words[index];
+  const saved = word ? (progress.savedWords ?? []).includes(word.id) : false;
 
   if (!word) {
     return (
@@ -1193,6 +1243,12 @@ function WordQuiz({
       </h3>
       <p className="quiz-prompt">{word.zh}</p>
       <p className="quiz-prompt en">{word.en}</p>
+      <div className="quiz-support-row">
+        <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
+          {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+          {saved ? "已在生词本" : "加入生词本"}
+        </button>
+      </div>
       <form className="quiz-form" onSubmit={submit}>
         <input
           autoFocus
@@ -1208,11 +1264,22 @@ function WordQuiz({
           检查
         </button>
       </form>
-      {status === "wrong" && <p className="wrong-text">拼错了，先重拼这个词。</p>}
+      {status === "wrong" && (
+        <div className="answer-reveal wrong-answer">
+          <span>正确答案</span>
+          <strong>{word.japanese} / {word.kana}</strong>
+          <small>{word.romaji}</small>
+          <p>拼错了，照着答案重拼这一题。</p>
+        </div>
+      )}
       {status === "correct" && (
         <div className="correct-row">
           <span>{word.japanese} / {word.kana}</span>
           <div className="quiz-actions">
+            <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
+              {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+              {saved ? "已在生词本" : "加入生词本"}
+            </button>
             <button className="secondary-button" type="button" onClick={() => speakJapanese(word.japanese)}>
               <Volume2 size={17} />
               朗读

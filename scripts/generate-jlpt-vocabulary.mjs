@@ -1,5 +1,6 @@
 import { writeFile } from "node:fs/promises";
 import https from "node:https";
+import { buildVocabularyExample } from "./vocabulary-examples.mjs";
 
 const API = "https://jlpt-vocab-api.vercel.app/api/words";
 const targets = {
@@ -522,6 +523,7 @@ function toStudyWord(item, index) {
   const japanese = item.word || item.furigana;
   const kana = item.furigana || item.word;
   const id = `jlpt-${level.toLowerCase()}-${slug(japanese)}-${index}`;
+  const example = buildVocabularyExample({ japanese, kana, zh, en: meaning }, index);
 
   return {
     id,
@@ -533,9 +535,9 @@ function toStudyWord(item, index) {
     partOfSpeech: "JLPT vocabulary",
     introZh: `${level} 词汇。先记住读音、核心意思，再放进例句里识别。`,
     introEn: `${level} vocabulary from the public JLPT vocabulary API.`,
-    exampleJp: `${japanese}を覚える。`,
-    exampleZh: `记住「${japanese}」。`,
-    exampleEn: `Memorize "${japanese}".`,
+    exampleJp: example.exampleJp,
+    exampleZh: example.exampleZh,
+    exampleEn: example.exampleEn,
     tags: [`jlpt-${level.toLowerCase()}`, "generated"],
     jlptLevel: level,
     source: "jlpt-vocab-api"
