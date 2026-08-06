@@ -932,6 +932,7 @@ function VocabularyDrill({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [wordHistory, setWordHistory] = useState<string[]>([]);
   const [reviewWordId, setReviewWordId] = useState<string | null>(null);
+  const [activeQuiz, setActiveQuiz] = useState<{ level: JLPTLevel; words: StudyWord[]; milestone: number } | null>(null);
   const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
   const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
 
@@ -953,11 +954,16 @@ function VocabularyDrill({
     [levelWordIds, progress.learnedWords]
   );
   const quizMilestone = progress.wordQuizMilestones?.[selectedLevel] ?? 0;
-  const dueQuizWords = learnedLevelIds
-    .slice(quizMilestone, quizMilestone + 10)
-    .map((id) => levelWords.find((word) => word.id === id))
-    .filter((word): word is StudyWord => Boolean(word));
+  const dueQuizWords = useMemo(
+    () =>
+      learnedLevelIds
+        .slice(quizMilestone, quizMilestone + 10)
+        .map((id) => levelWords.find((word) => word.id === id))
+        .filter((word): word is StudyWord => Boolean(word)),
+    [learnedLevelIds, levelWords, quizMilestone]
+  );
   const needsQuiz = dueQuizWords.length >= 10;
+  const quizSession = activeQuiz ?? (needsQuiz ? { level: selectedLevel, words: dueQuizWords, milestone: quizMilestone } : null);
   const remaining = levelWords.filter((word) => !learnedSet.has(word.id));
   const reviewWord = reviewWordId ? levelWords.find((word) => word.id === reviewWordId) : undefined;
   const currentWord = reviewWord ?? remaining[currentIndex % Math.max(remaining.length, 1)];
@@ -1004,7 +1010,14 @@ function VocabularyDrill({
     setCurrentIndex(0);
     setWordHistory([]);
     setReviewWordId(null);
+    setActiveQuiz(null);
   }
+
+  useEffect(() => {
+    if (!activeQuiz && needsQuiz) {
+      setActiveQuiz({ level: selectedLevel, words: dueQuizWords, milestone: quizMilestone });
+    }
+  }, [activeQuiz, dueQuizWords, needsQuiz, quizMilestone, selectedLevel]);
 
   if (mode === "library") {
     return (
@@ -1015,26 +1028,30 @@ function VocabularyDrill({
     );
   }
 
-  if (needsQuiz) {
+  if (quizSession && quizSession.words.length >= 10) {
     return (
       <div className="word-stage-shell">
         <VocabularyModeToolbar mode={mode} onMode={setMode} />
         <LevelToolbar counts={levelCounts} selectedLevel={selectedLevel} onSelect={chooseLevel} />
         <WordQuiz
-          words={dueQuizWords}
+          words={quizSession.words}
           progress={progress}
           setProgress={setProgress}
-          level={selectedLevel}
-          onDone={() =>
+          level={quizSession.level}
+          onDone={() => {
             setProgress((current) => ({
               ...current,
               wordQuizMilestones: {
                 ...(current.wordQuizMilestones ?? {}),
-                [selectedLevel]: quizMilestone + dueQuizWords.length
+                [quizSession.level]: Math.max(
+                  current.wordQuizMilestones?.[quizSession.level] ?? 0,
+                  quizSession.milestone + quizSession.words.length
+                )
               },
-              lastWordQuizMilestone: current.lastWordQuizMilestone + dueQuizWords.length
-            }))
-          }
+              lastWordQuizMilestone: current.lastWordQuizMilestone + quizSession.words.length
+            }));
+            setActiveQuiz(null);
+          }}
         />
       </div>
     );
@@ -1232,6 +1249,12 @@ function WordQuiz({
   function submit(event: FormEvent) {
     event.preventDefault();
     if (isWordAnswerCorrect(input, word)) {
+      setProgress((current) => ({
+        ...current,
+        learnedWords: current.learnedWords.includes(word.id)
+          ? current.learnedWords
+          : [...current.learnedWords, word.id]
+      }));
       setQueue((current) => current.slice(1));
       setCompletedCount((current) => current + 1);
       setInput("");
@@ -1242,6 +1265,7 @@ function WordQuiz({
       setInput("");
       setProgress((current) => ({
         ...current,
+        learnedWords: current.learnedWords.filter((id) => id !== word.id),
         mistakes: {
           ...current.mistakes,
           [word.id]: (current.mistakes[word.id] ?? 0) + 1
