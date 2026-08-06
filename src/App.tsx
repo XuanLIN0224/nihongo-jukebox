@@ -1,5 +1,6 @@
 import {
   ArrowLeft,
+  ArrowRight,
   BookMarked,
   BookOpen,
   BookmarkCheck,
@@ -1222,7 +1223,7 @@ function WordQuiz({
   const [queue, setQueue] = useState<StudyWord[]>(() => words);
   const [completedCount, setCompletedCount] = useState(0);
   const [input, setInput] = useState("");
-  const [feedback, setFeedback] = useState<{ type: "wrong"; word: StudyWord } | null>(null);
+  const [feedback, setFeedback] = useState<{ type: "correct" | "wrong"; word: StudyWord } | null>(null);
   const word = queue[0];
   const saved = word ? (progress.savedWords ?? []).includes(word.id) : false;
   const feedbackSaved = feedback ? (progress.savedWords ?? []).includes(feedback.word.id) : false;
@@ -1246,8 +1247,20 @@ function WordQuiz({
     );
   }
 
+  function goToNextWord() {
+    setQueue((current) => current.slice(1));
+    setCompletedCount((current) => current + 1);
+    setInput("");
+    setFeedback(null);
+  }
+
   function submit(event: FormEvent) {
     event.preventDefault();
+    if (feedback?.type === "correct") {
+      goToNextWord();
+      return;
+    }
+    if (!input.trim()) return;
     if (isWordAnswerCorrect(input, word)) {
       setProgress((current) => ({
         ...current,
@@ -1255,10 +1268,8 @@ function WordQuiz({
           ? current.learnedWords
           : [...current.learnedWords, word.id]
       }));
-      setQueue((current) => current.slice(1));
-      setCompletedCount((current) => current + 1);
       setInput("");
-      setFeedback(null);
+      setFeedback({ type: "correct", word });
     } else {
       setFeedback({ type: "wrong", word });
       setQueue((current) => (current.length ? [...current.slice(1), current[0]] : current));
@@ -1298,14 +1309,30 @@ function WordQuiz({
               setInput(event.target.value);
               setFeedback(null);
             }}
-            placeholder="输入日文单词，可用汉字或假名"
+            placeholder={feedback?.type === "correct" ? "按 Enter 进入下一个词" : "输入日文单词，可用汉字或假名"}
           />
           <button className="primary-button" type="submit">
-            <Check size={18} />
-            检查
+            {feedback?.type === "correct" ? <ArrowRight size={18} /> : <Check size={18} />}
+            {feedback?.type === "correct" ? "继续" : "检查"}
           </button>
         </form>
       </div>
+      {feedback?.type === "correct" && (
+        <div className="answer-reveal correct-answer">
+          <span>正确</span>
+          <strong>{feedback.word.japanese} / {feedback.word.kana}</strong>
+          <small>{feedback.word.romaji}</small>
+          <p>按 Enter 进入下一个词。</p>
+          <button className="secondary-button" type="button" onClick={() => toggleSavedWord(feedback.word.id, setProgress)}>
+            {feedbackSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+            {feedbackSaved ? "已在生词本" : "加入生词本"}
+          </button>
+          <button className="secondary-button" type="button" onClick={() => speakJapanese(feedback.word.japanese)}>
+            <Volume2 size={17} />
+            朗读
+          </button>
+        </div>
+      )}
       {feedback?.type === "wrong" && (
         <div className="answer-reveal wrong-answer">
           <span>正确答案</span>

@@ -400,6 +400,15 @@ textarea:focus {
   font-weight: 900;
 }
 
+.answer-reveal.correct-answer {
+  border-color: rgba(49, 95, 82, 0.35);
+  background: var(--green-soft);
+}
+
+.answer-reveal.correct-answer span {
+  color: var(--green);
+}
+
 .answer-reveal strong {
   font-size: 20px;
 }
