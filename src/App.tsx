@@ -677,6 +677,37 @@ function WordImageStrip({
   );
 }
 
+function ExampleBlock({
+  japanese,
+  zh,
+  en,
+  wide = false
+}: {
+  japanese: string;
+  zh: string;
+  en: string;
+  wide?: boolean;
+}) {
+  return (
+    <div className={`example-block ${wide ? "wide" : ""}`}>
+      <div className="example-head">
+        <strong>{japanese}</strong>
+        <button
+          className="icon-button"
+          type="button"
+          aria-label="朗读这句例句"
+          title="朗读这句例句"
+          onClick={() => speakJapanese(japanese)}
+        >
+          <Volume2 size={17} />
+        </button>
+      </div>
+      <span>{zh}</span>
+      <span>{en}</span>
+    </div>
+  );
+}
+
 function TokenDetail({
   token,
   progress,
@@ -726,11 +757,7 @@ function TokenDetail({
         <p>{token.en}</p>
       </div>
       <p>{token.noteZh}</p>
-      <div className="example-block">
-        <strong>{token.exampleJp}</strong>
-        <span>{token.exampleZh}</span>
-        <span>{token.exampleEn}</span>
-      </div>
+      <ExampleBlock japanese={token.exampleJp} zh={token.exampleZh} en={token.exampleEn} />
       {vocabularyId && (
         <button className="secondary-button" type="button" onClick={() => toggleSavedWord(vocabularyId, setProgress)}>
           {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
@@ -1001,11 +1028,12 @@ function VocabularyDrill({
             </div>
             <p>{currentWord.introZh}</p>
             <p className="english-note">{currentWord.introEn}</p>
-            <div className="example-block wide">
-              <strong>{currentWord.exampleJp}</strong>
-              <span>{currentWord.exampleZh}</span>
-              <span>{currentWord.exampleEn}</span>
-            </div>
+            <ExampleBlock
+              japanese={currentWord.exampleJp}
+              zh={currentWord.exampleZh}
+              en={currentWord.exampleEn}
+              wide
+            />
             <div className="word-actions">
               <button className="secondary-button" type="button" onClick={() => toggleSavedWord(currentWord.id, setProgress)}>
                 {currentSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
@@ -1398,11 +1426,7 @@ function WordListCard({
       </div>
       <p>{word.introZh}</p>
       <p className="english-note">{word.introEn}</p>
-      <div className="example-block">
-        <strong>{word.exampleJp}</strong>
-        <span>{word.exampleZh}</span>
-        <span>{word.exampleEn}</span>
-      </div>
+      <ExampleBlock japanese={word.exampleJp} zh={word.exampleZh} en={word.exampleEn} />
       <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
         {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
         {saved ? "移出生词本" : "加入生词本"}

@@ -640,6 +640,22 @@ textarea:focus {
   color: var(--muted);
 }
 
+.example-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  gap: 10px;
+}
+
+.example-head strong {
+  overflow-wrap: anywhere;
+}
+
+.example-head .icon-button {
+  width: 34px;
+  height: 34px;
+}
+
 .meaning-block span {
   color: var(--green);
   font-size: 12px;
