@@ -1201,11 +1201,21 @@ function WordQuiz({
   progress: ProgressState;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
-  const [index, setIndex] = useState(0);
+  const quizWordKey = words.map((item) => item.id).join("|");
+  const [queue, setQueue] = useState<StudyWord[]>(() => words);
+  const [completedCount, setCompletedCount] = useState(0);
   const [input, setInput] = useState("");
-  const [status, setStatus] = useState<"idle" | "correct" | "wrong">("idle");
-  const word = words[index];
+  const [feedback, setFeedback] = useState<{ type: "wrong"; word: StudyWord } | null>(null);
+  const word = queue[0];
   const saved = word ? (progress.savedWords ?? []).includes(word.id) : false;
+  const feedbackSaved = feedback ? (progress.savedWords ?? []).includes(feedback.word.id) : false;
+
+  useEffect(() => {
+    setQueue(words);
+    setCompletedCount(0);
+    setInput("");
+    setFeedback(null);
+  }, [quizWordKey]);
 
   if (!word) {
     return (
@@ -1222,9 +1232,14 @@ function WordQuiz({
   function submit(event: FormEvent) {
     event.preventDefault();
     if (isWordAnswerCorrect(input, word)) {
-      setStatus("correct");
+      setQueue((current) => current.slice(1));
+      setCompletedCount((current) => current + 1);
+      setInput("");
+      setFeedback(null);
     } else {
-      setStatus("wrong");
+      setFeedback({ type: "wrong", word });
+      setQueue((current) => (current.length ? [...current.slice(1), current[0]] : current));
+      setInput("");
       setProgress((current) => ({
         ...current,
         mistakes: {
@@ -1239,63 +1254,48 @@ function WordQuiz({
     <section className="quiz-panel centered">
       <p className="eyebrow">{level} Vocabulary spelling test</p>
       <h3>
-        {index + 1} / {words.length}
+        已拼对 {completedCount} / {words.length}
       </h3>
-      <p className="quiz-prompt">{word.zh}</p>
-      <p className="quiz-prompt en">{word.en}</p>
-      <div className="quiz-support-row">
-        <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
-          {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
-          {saved ? "已在生词本" : "加入生词本"}
-        </button>
+      <div className="quiz-question-card" key={word.id}>
+        <p className="quiz-prompt">{word.zh}</p>
+        <p className="quiz-prompt en">{word.en}</p>
+        <div className="quiz-support-row">
+          <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
+            {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+            {saved ? "已在生词本" : "加入生词本"}
+          </button>
+          <span>{queue.length} 词待完成</span>
+        </div>
+        <form className="quiz-form" onSubmit={submit}>
+          <input
+            autoFocus
+            value={input}
+            onChange={(event) => {
+              setInput(event.target.value);
+              setFeedback(null);
+            }}
+            placeholder="输入日文单词，可用汉字或假名"
+          />
+          <button className="primary-button" type="submit">
+            <Check size={18} />
+            检查
+          </button>
+        </form>
       </div>
-      <form className="quiz-form" onSubmit={submit}>
-        <input
-          autoFocus
-          value={input}
-          onChange={(event) => {
-            setInput(event.target.value);
-            setStatus("idle");
-          }}
-          placeholder="输入日文单词，可用汉字或假名"
-        />
-        <button className="primary-button" type="submit">
-          <Check size={18} />
-          检查
-        </button>
-      </form>
-      {status === "wrong" && (
+      {feedback?.type === "wrong" && (
         <div className="answer-reveal wrong-answer">
           <span>正确答案</span>
-          <strong>{word.japanese} / {word.kana}</strong>
-          <small>{word.romaji}</small>
-          <p>拼错了，照着答案重拼这一题。</p>
-        </div>
-      )}
-      {status === "correct" && (
-        <div className="correct-row">
-          <span>{word.japanese} / {word.kana}</span>
-          <div className="quiz-actions">
-            <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
-              {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
-              {saved ? "已在生词本" : "加入生词本"}
-            </button>
-            <button className="secondary-button" type="button" onClick={() => speakJapanese(word.japanese)}>
-              <Volume2 size={17} />
-              朗读
-            </button>
-            <button
-              className="secondary-button"
-              type="button"
-              onClick={() => {
-                setIndex((current) => current + 1);
-                setInput("");
-                setStatus("idle");
-              }}
-            >
-              下一个
-            </button>
-          </div>
+          <strong>{feedback.word.japanese} / {feedback.word.kana}</strong>
+          <small>{feedback.word.romaji}</small>
+          <p>这题回到本轮队尾，前面的词结束后再来一遍。</p>
+          <button className="secondary-button" type="button" onClick={() => toggleSavedWord(feedback.word.id, setProgress)}>
+            {feedbackSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
+            {feedbackSaved ? "已在生词本" : "加入生词本"}
+          </button>
+          <button className="secondary-button" type="button" onClick={() => speakJapanese(feedback.word.japanese)}>
+            <Volume2 size={17} />
+            朗读
+          </button>
         </div>
       )}
     </section>

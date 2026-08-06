@@ -391,6 +391,7 @@ textarea:focus {
   background: var(--red-soft);
   color: var(--ink);
   text-align: left;
+  animation: answer-rise 180ms ease-out;
 }
 
 .answer-reveal span {
@@ -859,13 +860,28 @@ textarea:focus {
 
 .quiz-support-row {
   display: flex;
+  align-items: center;
   justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.quiz-support-row span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
 }
 
 .quiz-form {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 10px;
+}
+
+.quiz-question-card {
+  display: grid;
+  gap: 14px;
+  animation: quiz-card-in 180ms ease-out;
 }
 
 .correct-row {
@@ -877,6 +893,37 @@ textarea:focus {
 
 .quiz-actions {
   justify-content: flex-end;
+}
+
+@keyframes quiz-card-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes answer-rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quiz-question-card,
+  .answer-reveal {
+    animation: none;
+  }
 }
 
 .vocab-layout {
