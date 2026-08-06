@@ -18,6 +18,7 @@ const wordTokens: TokenInfo[] = vocabulary.map((word) => ({
   exampleJp: word.exampleJp,
   exampleZh: word.exampleZh,
   exampleEn: word.exampleEn,
+  exampleKey: word.id,
   forms: [word.japanese, word.kana, ...(word.forms ?? [])],
   vocabularyId: word.id,
   readingOptions: word.readingOptions,
@@ -72,6 +73,7 @@ export function tokensForLine(line: StudyLine): TokenInfo[] {
         return {
           ...token,
           id: `${line.id}-${token.id}-${index}`,
+          exampleKey: token.vocabularyId ?? token.id,
           surface,
           reading,
           romaji,

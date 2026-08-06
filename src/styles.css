@@ -656,6 +656,18 @@ textarea:focus {
   height: 34px;
 }
 
+.example-block .example-reading {
+  color: var(--green);
+  font-size: 13px;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+
+.example-block .example-reading.romaji {
+  color: var(--muted);
+  font-weight: 700;
+}
+
 .meaning-block span {
   color: var(--green);
   font-size: 12px;

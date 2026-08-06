@@ -29,6 +29,10 @@ import {
   vocabulary
 } from "./data/studyContent";
 import {
+  exampleReadings,
+  type ExampleReading
+} from "./data/exampleReadings";
+import {
   type AuthSession,
   type ProgressState,
   emptyProgress,
@@ -84,6 +88,10 @@ function toggleSavedWord(
 
 function optionLabel(values: string[]): string {
   return values.filter(Boolean).join(" / ");
+}
+
+function exampleReadingFor(key?: string): ExampleReading | undefined {
+  return key ? exampleReadings[key] : undefined;
 }
 
 function visualSubjectFromWord(word: StudyWord): VisualSubject {
@@ -679,11 +687,13 @@ function WordImageStrip({
 
 function ExampleBlock({
   japanese,
+  reading,
   zh,
   en,
   wide = false
 }: {
   japanese: string;
+  reading?: ExampleReading;
   zh: string;
   en: string;
   wide?: boolean;
@@ -702,6 +712,8 @@ function ExampleBlock({
           <Volume2 size={17} />
         </button>
       </div>
+      {reading?.kana && <span className="example-reading kana">{reading.kana}</span>}
+      {reading?.romaji && <span className="example-reading romaji">{reading.romaji}</span>}
       <span>{zh}</span>
       <span>{en}</span>
     </div>
@@ -757,7 +769,12 @@ function TokenDetail({
         <p>{token.en}</p>
       </div>
       <p>{token.noteZh}</p>
-      <ExampleBlock japanese={token.exampleJp} zh={token.exampleZh} en={token.exampleEn} />
+      <ExampleBlock
+        japanese={token.exampleJp}
+        reading={exampleReadingFor(token.exampleKey ?? vocabularyId)}
+        zh={token.exampleZh}
+        en={token.exampleEn}
+      />
       {vocabularyId && (
         <button className="secondary-button" type="button" onClick={() => toggleSavedWord(vocabularyId, setProgress)}>
           {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
@@ -1030,6 +1047,7 @@ function VocabularyDrill({
             <p className="english-note">{currentWord.introEn}</p>
             <ExampleBlock
               japanese={currentWord.exampleJp}
+              reading={exampleReadingFor(currentWord.id)}
               zh={currentWord.exampleZh}
               en={currentWord.exampleEn}
               wide
@@ -1426,7 +1444,12 @@ function WordListCard({
       </div>
       <p>{word.introZh}</p>
       <p className="english-note">{word.introEn}</p>
-      <ExampleBlock japanese={word.exampleJp} zh={word.exampleZh} en={word.exampleEn} />
+      <ExampleBlock
+        japanese={word.exampleJp}
+        reading={exampleReadingFor(word.id)}
+        zh={word.exampleZh}
+        en={word.exampleEn}
+      />
       <button className="secondary-button" type="button" onClick={() => toggleSavedWord(word.id, setProgress)}>
         {saved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
         {saved ? "移出生词本" : "加入生词本"}

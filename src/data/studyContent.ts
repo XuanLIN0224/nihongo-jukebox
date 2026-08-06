@@ -39,6 +39,7 @@ export interface TokenInfo {
   exampleJp: string;
   exampleZh: string;
   exampleEn: string;
+  exampleKey?: string;
   forms?: string[];
   vocabularyId?: string;
   readingOptions?: string[];
