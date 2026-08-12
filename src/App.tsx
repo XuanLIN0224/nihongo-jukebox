@@ -253,7 +253,7 @@ export default function App() {
             {view === "lyrics" && <LyricsLab progress={progress} setProgress={setProgress} />}
             {view === "words" && <VocabularyDrill progress={progress} setProgress={setProgress} />}
             {view === "saved" && <SavedWordsView progress={progress} setProgress={setProgress} />}
-            {view === "progress" && <ProgressView progress={progress} />}
+            {view === "progress" && <ProgressView progress={progress} setProgress={setProgress} />}
             {view === "account" && <AccountView session={session} />}
           </>
         )}
@@ -1038,7 +1038,8 @@ function VocabularyDrill({
           words={quizSession.words}
           progress={progress}
           setProgress={setProgress}
-          level={quizSession.level}
+          title={`${quizSession.level} Vocabulary spelling test`}
+          completeTitle={`${quizSession.level} 10 词拼写测试完成。`}
           onDone={() => {
             setProgress((current) => ({
               ...current,
@@ -1208,28 +1209,36 @@ function LevelToolbar({
 
 function WordQuiz({
   words,
-  level,
+  title,
+  completeTitle,
   onDone,
+  onCancel,
   progress,
   setProgress
 }: {
   words: StudyWord[];
-  level: JLPTLevel;
+  title: string;
+  completeTitle?: string;
   onDone: () => void;
+  onCancel?: () => void;
   progress: ProgressState;
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
   const quizWordKey = words.map((item) => item.id).join("|");
   const [queue, setQueue] = useState<StudyWord[]>(() => words);
+  const [missedIds, setMissedIds] = useState<Set<string>>(() => new Set());
   const [completedCount, setCompletedCount] = useState(0);
   const [input, setInput] = useState("");
   const [feedback, setFeedback] = useState<{ type: "correct" | "wrong"; word: StudyWord } | null>(null);
   const word = queue[0];
   const saved = word ? (progress.savedWords ?? []).includes(word.id) : false;
   const feedbackSaved = feedback ? (progress.savedWords ?? []).includes(feedback.word.id) : false;
+  const currentWasMissed = word ? missedIds.has(word.id) : false;
+  const feedbackWasMissed = feedback ? missedIds.has(feedback.word.id) : false;
 
   useEffect(() => {
     setQueue(words);
+    setMissedIds(new Set());
     setCompletedCount(0);
     setInput("");
     setFeedback(null);
@@ -1238,18 +1247,34 @@ function WordQuiz({
   if (!word) {
     return (
       <section className="quiz-panel centered">
-        <h3>{level} 10 词拼写测试完成。</h3>
+        <h3>{completeTitle ?? "拼写测试完成。"}</h3>
         <button className="primary-button" type="button" onClick={onDone}>
           <Check size={18} />
-          回到背单词
+          完成
         </button>
       </section>
     );
   }
 
   function goToNextWord() {
-    setQueue((current) => current.slice(1));
-    setCompletedCount((current) => current + 1);
+    const shouldRequeue = missedIds.has(word.id);
+    if (shouldRequeue) {
+      setQueue((current) => (current.length ? [...current.slice(1), current[0]] : current));
+      setMissedIds((current) => {
+        const next = new Set(current);
+        next.delete(word.id);
+        return next;
+      });
+    } else {
+      setProgress((current) => ({
+        ...current,
+        learnedWords: current.learnedWords.includes(word.id)
+          ? current.learnedWords
+          : [...current.learnedWords, word.id]
+      }));
+      setQueue((current) => current.slice(1));
+      setCompletedCount((current) => current + 1);
+    }
     setInput("");
     setFeedback(null);
   }
@@ -1262,17 +1287,11 @@ function WordQuiz({
     }
     if (!input.trim()) return;
     if (isWordAnswerCorrect(input, word)) {
-      setProgress((current) => ({
-        ...current,
-        learnedWords: current.learnedWords.includes(word.id)
-          ? current.learnedWords
-          : [...current.learnedWords, word.id]
-      }));
       setInput("");
       setFeedback({ type: "correct", word });
     } else {
       setFeedback({ type: "wrong", word });
-      setQueue((current) => (current.length ? [...current.slice(1), current[0]] : current));
+      setMissedIds((current) => new Set(current).add(word.id));
       setInput("");
       setProgress((current) => ({
         ...current,
@@ -1287,10 +1306,19 @@ function WordQuiz({
 
   return (
     <section className="quiz-panel centered">
-      <p className="eyebrow">{level} Vocabulary spelling test</p>
-      <h3>
-        已拼对 {completedCount} / {words.length}
-      </h3>
+      <div className="quiz-header">
+        <div>
+          <p className="eyebrow">{title}</p>
+          <h3>
+            已首答拼对 {completedCount} / {words.length}
+          </h3>
+        </div>
+        {onCancel && (
+          <button className="icon-button" type="button" aria-label="退出拼写测试" title="退出拼写测试" onClick={onCancel}>
+            <X size={17} />
+          </button>
+        )}
+      </div>
       <div className="quiz-question-card" key={word.id}>
         <p className="quiz-prompt">{word.zh}</p>
         <p className="quiz-prompt en">{word.en}</p>
@@ -1300,6 +1328,7 @@ function WordQuiz({
             {saved ? "已在生词本" : "加入生词本"}
           </button>
           <span>{queue.length} 词待完成</span>
+          {currentWasMissed && <span>本题已错过，改对后回队尾</span>}
         </div>
         <form className="quiz-form" onSubmit={submit}>
           <input
@@ -1313,16 +1342,20 @@ function WordQuiz({
           />
           <button className="primary-button" type="submit">
             {feedback?.type === "correct" ? <ArrowRight size={18} /> : <Check size={18} />}
-            {feedback?.type === "correct" ? "继续" : "检查"}
+            {feedback?.type === "correct" ? (feedbackWasMissed ? "放到队尾" : "下一个") : "检查"}
           </button>
         </form>
       </div>
       {feedback?.type === "correct" && (
         <div className="answer-reveal correct-answer">
-          <span>正确</span>
+          <span>{feedbackWasMissed ? "改对" : "正确"}</span>
           <strong>{feedback.word.japanese} / {feedback.word.kana}</strong>
           <small>{feedback.word.romaji}</small>
-          <p>按 Enter 进入下一个词。</p>
+          <p>
+            {feedbackWasMissed
+              ? "第一次已经算错；按 Enter 后这题会回到队尾，稍后重新首答。"
+              : "按 Enter 进入下一个词。"}
+          </p>
           <button className="secondary-button" type="button" onClick={() => toggleSavedWord(feedback.word.id, setProgress)}>
             {feedbackSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
             {feedbackSaved ? "已在生词本" : "加入生词本"}
@@ -1338,7 +1371,7 @@ function WordQuiz({
           <span>正确答案</span>
           <strong>{feedback.word.japanese} / {feedback.word.kana}</strong>
           <small>{feedback.word.romaji}</small>
-          <p>这题回到本轮队尾，前面的词结束后再来一遍。</p>
+          <p>第一次已经算错。请重新输入；改对后也会回到队尾再来一次。</p>
           <button className="secondary-button" type="button" onClick={() => toggleSavedWord(feedback.word.id, setProgress)}>
             {feedbackSaved ? <BookmarkCheck size={17} /> : <BookmarkPlus size={17} />}
             {feedbackSaved ? "已在生词本" : "加入生词本"}
@@ -1476,6 +1509,7 @@ function SavedWordsView({
   setProgress: Dispatch<SetStateAction<ProgressState>>;
 }) {
   const [query, setQuery] = useState("");
+  const [quizWords, setQuizWords] = useState<StudyWord[] | null>(null);
   const learnedSet = useMemo(() => new Set(progress.learnedWords), [progress.learnedWords]);
   const savedWords = useMemo(
     () =>
@@ -1504,6 +1538,20 @@ function SavedWordsView({
     );
   }, [query, savedWords]);
 
+  if (quizWords) {
+    return (
+      <WordQuiz
+        words={quizWords}
+        title="生词本 Vocabulary spelling test"
+        completeTitle="生词本拼写测试完成。"
+        onDone={() => setQuizWords(null)}
+        onCancel={() => setQuizWords(null)}
+        progress={progress}
+        setProgress={setProgress}
+      />
+    );
+  }
+
   return (
     <section className="library-view">
       <div className="library-tools">
@@ -1511,6 +1559,15 @@ function SavedWordsView({
           搜索
           <input value={query} onChange={(event) => setQuery(event.target.value)} />
         </label>
+        <button
+          className="secondary-button"
+          type="button"
+          onClick={() => setQuizWords(filteredWords)}
+          disabled={filteredWords.length === 0}
+        >
+          <PenLine size={17} />
+          生词拼写测试
+        </button>
         <div className="library-count">
           <strong>{filteredWords.length}</strong>
           <span>生词</span>
@@ -1602,13 +1659,68 @@ function WordListCard({
   );
 }
 
-function ProgressView({ progress }: { progress: ProgressState }) {
+function ProgressView({
+  progress,
+  setProgress
+}: {
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [learnedQuery, setLearnedQuery] = useState("");
+  const [learnedVisibleCount, setLearnedVisibleCount] = useState(80);
+  const [quizWords, setQuizWords] = useState<StudyWord[] | null>(null);
   const totalLines = songPacks.reduce((sum, song) => sum + song.lines.length, 0);
   const songPercent = progressPercent(progress.completedSongs.length, songPacks.length);
   const wordPercent = progressPercent(progress.learnedWords.length, vocabulary.length);
   const linePercent = progressPercent(progress.learnedSongLines.length, totalLines);
   const completedSongs = songPacks.filter((song) => progress.completedSongs.includes(song.id));
   const mistakeRows = Object.entries(progress.mistakes).sort((a, b) => b[1] - a[1]).slice(0, 8);
+  const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
+  const learnedWords = useMemo(
+    () =>
+      progress.learnedWords
+        .map((id) => wordById.get(id))
+        .filter((word): word is StudyWord => Boolean(word)),
+    [progress.learnedWords]
+  );
+  const filteredLearnedWords = useMemo(() => {
+    const normalizedQuery = learnedQuery.trim().toLowerCase();
+    if (!normalizedQuery) return learnedWords;
+    return learnedWords.filter((word) =>
+      [
+        word.japanese,
+        word.kana,
+        word.romaji,
+        word.zh,
+        word.en,
+        word.partOfSpeech,
+        ...(word.readingOptions ?? []),
+        ...(word.romajiOptions ?? [])
+      ]
+        .join(" ")
+        .toLowerCase()
+        .includes(normalizedQuery)
+    );
+  }, [learnedQuery, learnedWords]);
+  const visibleLearnedWords = filteredLearnedWords.slice(0, learnedVisibleCount);
+
+  useEffect(() => {
+    setLearnedVisibleCount(80);
+  }, [learnedQuery]);
+
+  if (quizWords) {
+    return (
+      <WordQuiz
+        words={quizWords}
+        title="已背单词 Vocabulary spelling test"
+        completeTitle="已背单词拼写测试完成。"
+        onDone={() => setQuizWords(null)}
+        onCancel={() => setQuizWords(null)}
+        progress={progress}
+        setProgress={setProgress}
+      />
+    );
+  }
 
   return (
     <div className="progress-view">
@@ -1654,6 +1766,55 @@ function ProgressView({ progress }: { progress: ProgressState }) {
             )}
           </div>
         </div>
+      </section>
+
+      <section className="library-view">
+        <div className="library-tools">
+          <label>
+            搜索已背单词
+            <input value={learnedQuery} onChange={(event) => setLearnedQuery(event.target.value)} />
+          </label>
+          <button
+            className="secondary-button"
+            type="button"
+            onClick={() => setQuizWords(filteredLearnedWords)}
+            disabled={filteredLearnedWords.length === 0}
+          >
+            <PenLine size={17} />
+            已背词拼写测试
+          </button>
+          <div className="library-count">
+            <strong>{filteredLearnedWords.length}</strong>
+            <span>已背词</span>
+          </div>
+        </div>
+        {visibleLearnedWords.length ? (
+          <div className="word-library-grid">
+            {visibleLearnedWords.map((word) => (
+              <WordListCard
+                key={word.id}
+                word={word}
+                saved={savedSet.has(word.id)}
+                learned
+                setProgress={setProgress}
+              />
+            ))}
+          </div>
+        ) : (
+          <section className="empty-state">
+            <h3>还没有已背单词。</h3>
+            <p>先在背单词页记住一些词，再回来复习。</p>
+          </section>
+        )}
+        {learnedVisibleCount < filteredLearnedWords.length && (
+          <button
+            className="secondary-button load-more-button"
+            type="button"
+            onClick={() => setLearnedVisibleCount((count) => count + 80)}
+          >
+            显示更多
+          </button>
+        )}
       </section>
 
       <p className="fine-print">

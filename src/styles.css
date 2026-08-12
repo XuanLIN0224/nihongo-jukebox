@@ -1094,7 +1094,7 @@ textarea:focus {
 
 .library-tools {
   display: grid;
-  grid-template-columns: minmax(220px, 1fr) auto;
+  grid-template-columns: minmax(220px, 1fr) auto auto;
   align-items: end;
   gap: 14px;
 }
