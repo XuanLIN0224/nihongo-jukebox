@@ -104,12404 +104,12404 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "jiyuu na koe de utau"
   },
   "jlpt-n1-あざ笑う-986": {
-    "kana": "せんせい わ あざわらう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa azawarau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に あざわらう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni azawarau tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-お休み-668": {
-    "kana": "れいぶん で わ お やすみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o yasumi ga monogoto ya kangae o sashi te iru"
+    "kana": "お やすみ に だいじ な よてい が はいっ て いる",
+    "romaji": "o yasumi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-お使い-177": {
-    "kana": "じしょ で お つかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o tsukai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で お つかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o tsukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-お供-772": {
-    "kana": "じしょ で おとも という めいし の いみ を かくにん し た",
-    "romaji": "jisho de otomo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おとも について しばらく はなし た",
+    "romaji": "tomodachi to otomo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-お先に-1089": {
-    "kana": "れいぶん で わ おさきに が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa osakini ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "おさきに へんじ が とどい た ので あんしん し た",
+    "romaji": "osakini henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-お大事に-562": {
-    "kana": "お だいじ に わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "o daiji ni wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "かえりぎわ に お だいじ に と こえ を かけ た",
+    "romaji": "kaerigiwa ni o daiji ni to koe o kake ta"
   },
   "jlpt-n1-お祖母さん-771": {
-    "kana": "れいぶん で わ おばあさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa obaasan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で おばあさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de obaasan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-お祖父さん-900": {
-    "kana": "のうと に おじいさん を めいし として せいり し た",
-    "romaji": "nouto ni ojiisan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で おじいさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ojiisan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-お菜-176": {
-    "kana": "のうと に おさい を めいし として せいり し た",
-    "romaji": "nouto ni osai o meishi toshite seiri shi ta"
+    "kana": "こうじょう に ひつよう な おかず を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na okazu o asa no uchi ni atsume ta"
   },
   "jlpt-n1-お蔭-155": {
-    "kana": "のうと に おかげ を めいし として せいり し た",
-    "romaji": "nouto ni okage o meishi toshite seiri shi ta"
+    "kana": "かいぎ で おかげ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de okage nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-お蔭様で-394": {
-    "kana": "のうと に おかげさま で を めいし として せいり し た",
-    "romaji": "nouto ni okagesama de o meishi toshite seiri shi ta"
+    "kana": "かえりぎわ に おかげ さ まで と こえ を かけ た",
+    "romaji": "kaerigiwa ni okage sa made to koe o kake ta"
   },
   "jlpt-n1-お邪魔します-744": {
-    "kana": "お じゃま し ます わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "o jama shi masu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "かえりぎわ に お じゃま し ます と こえ を かけ た",
+    "romaji": "kaerigiwa ni o jama shi masu to koe o kake ta"
   },
   "jlpt-n1-くっ付ける-397": {
-    "kana": "くっ つける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ku tsukeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で くっつける ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kuttsukeru houhou o kangae ta"
   },
   "jlpt-n1-ヶ月-440": {
-    "kana": "のうと に かげつ を めいし として せいり し た",
-    "romaji": "nouto ni kagetsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かげつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kagetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-この頃-84": {
-    "kana": "じしょ で この ころ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kono koro toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で この ころ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kono koro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-ご無沙汰-918": {
-    "kana": "じしょ で ごぶさた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gobusata toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ごぶさた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gobusata nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-ご馳走-48": {
-    "kana": "のうと に ごちそう を めいし として せいり し た",
-    "romaji": "nouto ni gochisou o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に ごちそう を すこし たべ た",
+    "romaji": "hiru gohan ni gochisou o sukoshi tabe ta"
   },
   "jlpt-n1-ご馳走さま-1157": {
-    "kana": "じしょ で ごちそうさま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gochisousama toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に ごちそうさま と こえ を かけ た",
+    "romaji": "kaerigiwa ni gochisousama to koe o kake ta"
   },
   "jlpt-n1-その外-1254": {
-    "kana": "れいぶん で わ その そと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sono soto ga monogoto ya kangae o sashi te iru"
+    "kana": "かえりぎわ に その そと と こえ を かけ た",
+    "romaji": "kaerigiwa ni sono soto to koe o kake ta"
   },
   "jlpt-n1-ぶら下げる-390": {
-    "kana": "ぶらさげる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "burasageru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで ぶらさげる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made burasageru hito o sagashi ta"
   },
   "jlpt-n1-る-925": {
-    "kana": "る わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に る ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni ru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-ローマ字-972": {
-    "kana": "のうと に ろうまじ を めいし として せいり し た",
-    "romaji": "nouto ni roumaji o meishi toshite seiri shi ta"
+    "kana": "ともだち と ろうまじ について しばらく はなし た",
+    "romaji": "tomodachi to roumaji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-一々-175": {
-    "kana": "じしょ で いちいち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichiichi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いちいち について しばらく はなし た",
+    "romaji": "tomodachi to ichiichi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-一人-391": {
-    "kana": "じしょ で いち にん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichi nin toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる いち にん に こえ を かけ た",
+    "romaji": "koma te iru ichi nin ni koe o kake ta"
   },
   "jlpt-n1-一別-415": {
-    "kana": "れいぶん で わ いち べつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ichi betsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いち べつ について しばらく はなし た",
+    "romaji": "tomodachi to ichi betsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-一向-1003": {
-    "kana": "れいぶん で わ いっこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikkou ga monogoto ya kangae o sashi te iru"
+    "kana": "ひたすら な てん を さき に せつめい し た",
+    "romaji": "hitasura na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-一変-1192": {
-    "kana": "じしょ で いっぺん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ippen toiu meishi no imi o kakunin shi ta"
+    "kana": "いっぺん が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ippen ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-一寸-642": {
-    "kana": "れいぶん で わ いっすん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa issun ga monogoto ya kangae o sashi te iru"
+    "kana": "ちょっと よてい を へんこう し た",
+    "romaji": "chotto yotei o henkou shi ta"
   },
   "jlpt-n1-一帯-1277": {
-    "kana": "じしょ で いったい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ittai toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に いったい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ittai e iku michi o shirabe ta"
   },
   "jlpt-n1-一心-1097": {
-    "kana": "れいぶん で わ いっしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa isshin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いっしん について しばらく はなし た",
+    "romaji": "tomodachi to isshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-一息-354": {
-    "kana": "れいぶん で わ ひといき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hitoiki ga monogoto ya kangae o sashi te iru"
+    "kana": "ひといき に だいじ な よてい が はいっ て いる",
+    "romaji": "hitoiki ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-一日-488": {
-    "kana": "じしょ で いち にち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichi nichi toiu meishi no imi o kakunin shi ta"
+    "kana": "いち にち に だいじ な よてい が はいっ て いる",
+    "romaji": "ichi nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-一気-942": {
-    "kana": "じしょ で いっき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ikki toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい いっき を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai ikki o ippai non da"
   },
   "jlpt-n1-一筋-18": {
-    "kana": "じしょ で ひとすじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hitosuji toiu meishi no imi o kakunin shi ta"
+    "kana": "ひとすじ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hitosuji ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-一言-490": {
-    "kana": "れいぶん で わ ひとこと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hitokoto ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で いちげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ichigen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-一面-790": {
-    "kana": "のうと に いち めん を めいし として せいり し た",
-    "romaji": "nouto ni ichi men o meishi toshite seiri shi ta"
+    "kana": "ふうとう の いち めん に じゅうしょ を かい た",
+    "romaji": "fuutou no ichi men ni juusho o kai ta"
   },
   "jlpt-n1-丁々-266": {
-    "kana": "じしょ で ちょうちょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chouchou toiu meishi no imi o kakunin shi ta"
+    "kana": "とうとう へんじ が とどい た ので あんしん し た",
+    "romaji": "toutou henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-丁目-1120": {
-    "kana": "れいぶん で わ ひのと め が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hinoto me ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ひのと め について しばらく はなし た",
+    "romaji": "tomodachi to hinoto me nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-七日-505": {
-    "kana": "じしょ で なな にち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nana nichi toiu meishi no imi o kakunin shi ta"
+    "kana": "なな にち に だいじ な よてい が はいっ て いる",
+    "romaji": "nana nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-万-378": {
-    "kana": "れいぶん で わ まん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa man ga monogoto ya kangae o sashi te iru"
+    "kana": "まん の はこ を たな に きれい に ならべ た",
+    "romaji": "man no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n1-万人-829": {
-    "kana": "じしょ で まん にん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de man nin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と まん にん について しばらく はなし た",
+    "romaji": "tomodachi to man nin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-三日月-52": {
-    "kana": "れいぶん で わ みかづき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mikazuki ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と みかづき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to mikazuki ga totemo kirei ni mie ta"
   },
   "jlpt-n1-上司-951": {
-    "kana": "れいぶん で わ じょうし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa joushi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じょうし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-上演-127": {
-    "kana": "れいぶん で わ じょうえん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jouen ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と じょうえん を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to jouen o mi ni i ta"
   },
   "jlpt-n1-下取り-780": {
-    "kana": "のうと に したどり を めいし として せいり し た",
-    "romaji": "nouto ni shitadori o meishi toshite seiri shi ta"
+    "kana": "かいぎ で したどり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitadori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-下吏-317": {
-    "kana": "のうと に しも 吏 を めいし として せいり し た",
-    "romaji": "nouto ni shimo 吏 o meishi toshite seiri shi ta"
+    "kana": "かり な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "kari na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-下番-694": {
-    "kana": "じしょ で かばん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaban toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の かばん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kaban wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-不可欠-459": {
-    "kana": "のうと に ふかけつ を めいし として せいり し た",
-    "romaji": "nouto ni fukaketsu o meishi toshite seiri shi ta"
+    "kana": "ふかけつ な てん を さき に せつめい し た",
+    "romaji": "fukaketsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-不当-74": {
-    "kana": "じしょ で ふとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de futou toiu meishi no imi o kakunin shi ta"
+    "kana": "ふとう な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "futou na atsukai o uke te kare wa sugu ni kougi shi ta"
   },
   "jlpt-n1-不意-280": {
-    "kana": "れいぶん で わ ふい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fui ga monogoto ya kangae o sashi te iru"
+    "kana": "ふい な てん を さき に せつめい し た",
+    "romaji": "fui na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-不振-363": {
-    "kana": "れいぶん で わ ふしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fushin ga monogoto ya kangae o sashi te iru"
+    "kana": "ふしん な せいせき が つづき げんいん を みなおし た",
+    "romaji": "fushin na seiseki ga tsuzuki gen'in o minaoshi ta"
   },
   "jlpt-n1-不明-896": {
-    "kana": "じしょ で ふめい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fumei toiu meishi no imi o kakunin shi ta"
+    "kana": "ふめい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fumei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-不服-40": {
-    "kana": "のうと に ふふく を めいし として せいり し た",
-    "romaji": "nouto ni fufuku o meishi toshite seiri shi ta"
+    "kana": "ふふく な てん を さき に せつめい し た",
+    "romaji": "fufuku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-不良-122": {
-    "kana": "じしょ で ふりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de furyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ふりょう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "furyou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-不順-1281": {
-    "kana": "れいぶん で わ ふじゅん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fujun ga monogoto ya kangae o sashi te iru"
+    "kana": "ふじゅん な てん を さき に せつめい し た",
+    "romaji": "fujun na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-与党-894": {
-    "kana": "じしょ で よとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yotou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で よとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yotou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-且つ-709": {
-    "kana": "れいぶん で わ かつ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa katsu ga ugoki ya henka o arawashi te iru"
+    "kana": "かつ へんじ が とどい た ので あんしん し た",
+    "romaji": "katsu henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-世論-1178": {
-    "kana": "れいぶん で わ せろん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seron ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の せろん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no seron o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-丘陵-466": {
-    "kana": "れいぶん で わ きゅうりょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuuryou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きゅうりょう について しばらく はなし た",
+    "romaji": "tomodachi to kyuuryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-並み-592": {
-    "kana": "じしょ で なみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nami toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で なみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-中和-906": {
-    "kana": "じしょ で ちゅうわ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chuuwa toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ちゅうわ について しばらく はなし た",
+    "romaji": "tomodachi to chuuwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-中断-957": {
-    "kana": "れいぶん で わ ちゅうだん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chuudan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちゅうだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-中毒-869": {
-    "kana": "のうと に ちゅうどく を めいし として せいり し た",
-    "romaji": "nouto ni chuudoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちゅうどく について しばらく はなし た",
+    "romaji": "tomodachi to chuudoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-中継-792": {
-    "kana": "のうと に ちゅうけい を めいし として せいり し た",
-    "romaji": "nouto ni chuukei o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちゅうけい について しばらく はなし た",
+    "romaji": "tomodachi to chuukei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-丸っきり-1269": {
-    "kana": "のうと に まる っきり を めいし として せいり し た",
-    "romaji": "nouto ni maru kkiri o meishi toshite seiri shi ta"
+    "kana": "まるっきり じかん が あれ ば もういちど あい たい",
+    "romaji": "marukkiri jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-主人公-277": {
-    "kana": "れいぶん で わ しゅじんこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shujinkou ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に しゅじんこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shujinkou e iku michi o shirabe ta"
   },
   "jlpt-n1-主任-798": {
-    "kana": "じしょ で しゅにん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shunin toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅにん な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "shunin na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-主導-352": {
-    "kana": "じしょ で しゅどう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shudou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しゅどう について しばらく はなし た",
+    "romaji": "tomodachi to shudou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-主演-812": {
-    "kana": "のうと に しゅえん を めいし として せいり し た",
-    "romaji": "nouto ni shuen o meishi toshite seiri shi ta"
+    "kana": "ともだち と しゅえん について しばらく はなし た",
+    "romaji": "tomodachi to shuen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-主題-516": {
-    "kana": "れいぶん で わ しゅだい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shudai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅだい について しばらく はなし た",
+    "romaji": "tomodachi to shudai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-主食-921": {
-    "kana": "れいぶん で わ しゅしょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shushoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に しゅしょく を すこし たべ た",
+    "romaji": "hiru gohan ni shushoku o sukoshi tabe ta"
   },
   "jlpt-n1-久しい-575": {
-    "kana": "ひさしい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "hisashii o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "ひさしい みち を ゆっくり あるい た",
+    "romaji": "hisashii michi o yukkuri arui ta"
   },
   "jlpt-n1-乗っ取る-850": {
-    "kana": "れいぶん で わ のっとる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nottoru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に のっとる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nottoru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-乗り換え-148": {
-    "kana": "じしょ で のりかえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de norikae toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と のりかえ について しばらく はなし た",
+    "romaji": "tomodachi to norikae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-乳-650": {
-    "kana": "れいぶん で わ ちち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chichi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chichi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-乾-1136": {
-    "kana": "のうと に いぬい を めいし として せいり し た",
-    "romaji": "nouto ni inui o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いぬい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-予め-720": {
-    "kana": "れいぶん で わ あらかじめ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa arakajime ga monogoto ya kangae o sashi te iru"
+    "kana": "あらかじめ へんじ が とどい た ので あんしん し た",
+    "romaji": "arakajime henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-予想-1094": {
-    "kana": "じしょ で よそう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yosou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と よそう について しばらく はなし た",
+    "romaji": "tomodachi to yosou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-予感-743": {
-    "kana": "じしょ で よかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yokan toiu meishi no imi o kakunin shi ta"
+    "kana": "あんぜん に よかん ため に さき に じゅんび を し た",
+    "romaji": "anzen ni yokan tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-二人-1169": {
-    "kana": "のうと に に にん を めいし として せいり し た",
-    "romaji": "nouto ni ni nin o meishi toshite seiri shi ta"
+    "kana": "に にん の はこ を たな に きれい に ならべ た",
+    "romaji": "ni nin no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n1-五月蝿い-171": {
-    "kana": "のうと に うるさい を めいし として せいり し た",
-    "romaji": "nouto ni urusai o meishi toshite seiri shi ta"
+    "kana": "うるさい ひ だっ た が さいご まで あるい た",
+    "romaji": "urusai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-些事-1181": {
-    "kana": "じしょ で さじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saji toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-亜科-959": {
-    "kana": "のうと に あ か を めいし として せいり し た",
-    "romaji": "nouto ni a ka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あ か について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de a ka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-交わす-1011": {
-    "kana": "せんせい わ かわす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kawasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に かわす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kawasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-人-137": {
-    "kana": "のうと に ひと を めいし として せいり し た",
-    "romaji": "nouto ni hito o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる ひと に こえ を かけ た",
+    "romaji": "koma te iru hito ni koe o kake ta"
   },
   "jlpt-n1-人情-479": {
-    "kana": "じしょ で にんじょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ninjou toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい にんじょう を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ninjou o oboe ta"
   },
   "jlpt-n1-人材-695": {
-    "kana": "のうと に じんざい を めいし として せいり し た",
-    "romaji": "nouto ni jinzai o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる じんざい に こえ を かけ た",
+    "romaji": "koma te iru jinzai ni koe o kake ta"
   },
   "jlpt-n1-人柄-779": {
-    "kana": "じしょ で ひとがら という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hitogara toiu meishi no imi o kakunin shi ta"
+    "kana": "ひとがら な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hitogara na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-人質-90": {
-    "kana": "のうと に ひとじち を めいし として せいり し た",
-    "romaji": "nouto ni hitojichi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ひとじち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitojichi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-今晩は-398": {
-    "kana": "じしょ で こんばん わ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de konban wa toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に こんばんは と こえ を かけ た",
+    "romaji": "kaerigiwa ni konbanha to koe o kake ta"
   },
   "jlpt-n1-今更-681": {
-    "kana": "じしょ で いまさら という めいし の いみ を かくにん し た",
-    "romaji": "jisho de imasara toiu meishi no imi o kakunin shi ta"
+    "kana": "いまさら よてい を へんこう し た",
+    "romaji": "imasara yotei o henkou shi ta"
   },
   "jlpt-n1-介抱-726": {
-    "kana": "のうと に かいほう を めいし として せいり し た",
-    "romaji": "nouto ni kaihou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かいほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaihou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-介護-327": {
-    "kana": "じしょ で かいご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaigo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かいご について しばらく はなし た",
+    "romaji": "tomodachi to kaigo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-仏像-1252": {
-    "kana": "れいぶん で わ ぶつぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa butsuzou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぶつぞう について しばらく はなし た",
+    "romaji": "tomodachi to butsuzou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-仕える-1167": {
-    "kana": "せんせい わ つかえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsukaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に つかえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsukaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-仕上げ-69": {
-    "kana": "れいぶん で わ しあげ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiage ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しあげ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiage nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-仕上げる-903": {
-    "kana": "しあげる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shiageru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "さいご まで けいかく を しあげる かくご を きめ た",
+    "romaji": "saigo made keikaku o shiageru kakugo o kime ta"
   },
   "jlpt-n1-仕付ける-928": {
-    "kana": "しつける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shitsukeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に しつける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shitsukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-仕入れる-252": {
-    "kana": "れいぶん で わ しいれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shiireru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で しいれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de shiireru houhou o kangae ta"
   },
   "jlpt-n1-仕切る-814": {
-    "kana": "れいぶん で わ しきる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shikiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に しきる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shikiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-仕掛ける-657": {
-    "kana": "れいぶん で わ しかける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shikakeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に しかける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shikakeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-仕様-331": {
-    "kana": "れいぶん で わ しよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiyou ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な しよう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na shiyou o asa no uchi ni atsume ta"
   },
   "jlpt-n1-仕立てる-512": {
-    "kana": "したてる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shitateru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "したてる な てん を さき に せつめい し た",
+    "romaji": "shitateru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-仕舞う-913": {
-    "kana": "せんせい わ しまう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shimau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を しまう かくご を きめ た",
+    "romaji": "saigo made keikaku o shimau kakugo o kime ta"
   },
   "jlpt-n1-他方-486": {
-    "kana": "れいぶん で わ たほう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tahou ga monogoto ya kangae o sashi te iru"
+    "kana": "たほう が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "tahou ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-付録-437": {
-    "kana": "のうと に ふろく を めいし として せいり し た",
-    "romaji": "nouto ni furoku o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ふろく を おい て から でかけ た",
+    "romaji": "tsukue no ue ni furoku o oi te kara dekake ta"
   },
   "jlpt-n1-代わる-884": {
-    "kana": "れいぶん で わ かわる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kawaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に かわる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kawaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-仲人-641": {
-    "kana": "れいぶん で わ なこうど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nakoudo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で なこうど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nakoudo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-件-764": {
-    "kana": "じしょ で けん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ken toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-任す-496": {
-    "kana": "せんせい わ まかす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa makasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に まかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni makasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-任務-59": {
-    "kana": "れいぶん で わ にんむ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ninmu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の にんむ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no ninmu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-任命-349": {
-    "kana": "じしょ で にんめい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ninmei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と にんめい について しばらく はなし た",
+    "romaji": "tomodachi to ninmei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-企画-1123": {
-    "kana": "じしょ で きかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kikaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-伊井-200": {
-    "kana": "れいぶん で わ いい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ii ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし いい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi ii to kanji ta"
   },
   "jlpt-n1-会-611": {
-    "kana": "じしょ で かい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kai toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に え と こえ を かけ た",
+    "romaji": "kaerigiwa ni e to koe o kake ta"
   },
   "jlpt-n1-会見-606": {
-    "kana": "じしょ で かいけん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaiken toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の かいけん に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no kaiken ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-伝来-35": {
-    "kana": "のうと に でんらい を めいし として せいり し た",
-    "romaji": "nouto ni denrai o meishi toshite seiri shi ta"
+    "kana": "ともだち と でんらい について しばらく はなし た",
+    "romaji": "tomodachi to denrai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-伝言-369": {
-    "kana": "のうと に でんごん を めいし として せいり し た",
-    "romaji": "nouto ni dengon o meishi toshite seiri shi ta"
+    "kana": "ともだち と でんごん について しばらく はなし た",
+    "romaji": "tomodachi to dengon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-似通う-604": {
-    "kana": "れいぶん で わ にかよう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nikayou ga ugoki ya henka o arawashi te iru"
+    "kana": "ふたつ の いけん が にかよう りゆう を かんがえ た",
+    "romaji": "futatsu no iken ga nikayou riyuu o kangae ta"
   },
   "jlpt-n1-住-1047": {
-    "kana": "じしょ で じゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de juu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じゅう について しばらく はなし た",
+    "romaji": "tomodachi to juu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-体力-506": {
-    "kana": "のうと に たいりょく を めいし として せいり し た",
-    "romaji": "nouto ni tairyoku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で たいりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tairyoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-何々-186": {
-    "kana": "じしょ で なに という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nani toiu meishi no imi o kakunin shi ta"
+    "kana": "どれ どれ に みち を たずね た",
+    "romaji": "dore dore ni michi o tazune ta"
   },
   "jlpt-n1-何だか-947": {
-    "kana": "じしょ で なんだか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nandaka toiu meishi no imi o kakunin shi ta"
+    "kana": "なんだか よてい を へんこう し た",
+    "romaji": "nandaka yotei o henkou shi ta"
   },
   "jlpt-n1-何の-1149": {
-    "kana": "じしょ で なに の という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nani no toiu meishi no imi o kakunin shi ta"
+    "kana": "どの みせ わ えき の ちかく に ある",
+    "romaji": "dono mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-何処-138": {
-    "kana": "れいぶん で わ どこ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa doko ga monogoto ya kangae o sashi te iru"
+    "kana": "どこ わ しずか に うなずい た",
+    "romaji": "doko wa shizuka ni unazui ta"
   },
   "jlpt-n1-何処か-3": {
-    "kana": "れいぶん で わ どこ か が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa doko ka ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "かぎ を どこ か に おい て しまっ た",
+    "romaji": "kagi o doko ka ni oi te shima ta"
   },
   "jlpt-n1-何方-1045": {
-    "kana": "じしょ で どなた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de donata toiu meishi no imi o kakunin shi ta"
+    "kana": "どちら わ しずか に うなずい た",
+    "romaji": "dochira wa shizuka ni unazui ta"
   },
   "jlpt-n1-何気ない-370": {
-    "kana": "れいぶん で わ なにげない が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nanigenai ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし なにげない と かんじ た",
+    "romaji": "sono setsumei wa sukoshi nanigenai to kanji ta"
   },
   "jlpt-n1-余り-111": {
-    "kana": "あまり わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "amari wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "きょう わ あんまり つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa anmari tsukare ta node hayame ni ne ta"
   },
   "jlpt-n1-余地-689": {
-    "kana": "じしょ で よち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yochi toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に よち え いく みち を しらべ た",
+    "romaji": "shuumatsu ni yochi e iku michi o shirabe ta"
   },
   "jlpt-n1-余所見-844": {
-    "kana": "じしょ で よそみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yosomi toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の よそみ を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no yosomi o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-余程-61": {
-    "kana": "せんせい わ よほど を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yohodo o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よっぽど な てん を さき に せつめい し た",
+    "romaji": "yoppodo na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-余興-593": {
-    "kana": "れいぶん で わ よきょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yokyou ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と よきょう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to yokyou o mi ni i ta"
   },
   "jlpt-n1-作物-238": {
-    "kana": "れいぶん で わ さくもつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sakumotsu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の さくもつ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no sakumotsu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-作用-849": {
-    "kana": "れいぶん で わ さよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sayou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さよう について しばらく はなし た",
+    "romaji": "tomodachi to sayou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-佳句-802": {
-    "kana": "けい く わ めいし の まえ で けい く な の かたち で も つかう",
-    "romaji": "kei ku wa meishi no mae de kei ku na no katachi de mo tsukau"
+    "kana": "かく な まち を ゆっくり あるい た",
+    "romaji": "kaku na machi o yukkuri arui ta"
   },
   "jlpt-n1-使命-51": {
-    "kana": "れいぶん で わ しめい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shimei ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の しめい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shimei wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-例-897": {
-    "kana": "れいぶん で わ れい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で れい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-供-431": {
-    "kana": "じしょ で とも という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tomo toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な きょう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kyou o asa no uchi ni atsume ta"
   },
   "jlpt-n1-便宜-364": {
-    "kana": "じしょ で べんぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bengi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と べんぎ について しばらく はなし た",
+    "romaji": "tomodachi to bengi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-俄か-910": {
-    "kana": "れいぶん で わ にわか か が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa niwaka ka ga monogoto ya kangae o sashi te iru"
+    "kana": "にわか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "niwaka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-保守-243": {
-    "kana": "れいぶん で わ ほしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hoshu ga monogoto ya kangae o sashi te iru"
+    "kana": "ほしゅ の てつづき を きげん まで に すませ た",
+    "romaji": "hoshu no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-保管-27": {
-    "kana": "のうと に ほかん を めいし として せいり し た",
-    "romaji": "nouto ni hokan o meishi toshite seiri shi ta"
+    "kana": "ほかん の てつづき を きげん まで に すませ た",
+    "romaji": "hokan no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-保険-1206": {
-    "kana": "のうと に ほけん を めいし として せいり し た",
-    "romaji": "nouto ni hoken o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ほけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hoken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-信任-382": {
-    "kana": "のうと に しんにん を めいし として せいり し た",
-    "romaji": "nouto ni shinnin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しんにん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinnin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-個々-526": {
-    "kana": "のうと に ここ を めいし として せいり し た",
-    "romaji": "nouto ni koko o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ここ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koko nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-個性-596": {
-    "kana": "じしょ で こせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kosei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こせい について しばらく はなし た",
+    "romaji": "tomodachi to kosei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-偏-782": {
-    "kana": "じしょ で へん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hen toiu meishi no imi o kakunin shi ta"
+    "kana": "へん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-偏る-281": {
-    "kana": "せんせい わ かたよる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa katayoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で かたよる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de katayoru houhou o kangae ta"
   },
   "jlpt-n1-偖-346": {
-    "kana": "じしょ で 偖 という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 偖 toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に さて と こえ を かけ た",
+    "romaji": "kaerigiwa ni sate to koe o kake ta"
   },
   "jlpt-n1-健在-665": {
-    "kana": "れいぶん で わ けんざい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kenzai ga monogoto ya kangae o sashi te iru"
+    "kana": "けんざい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kenzai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-側-71": {
-    "kana": "れいぶん で わ がわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gawa ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と がわ について しばらく はなし た",
+    "romaji": "tomodachi to gawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-傑-356": {
-    "kana": "れいぶん で わ すぐる が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa suguru ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と すぐる について しばらく はなし た",
+    "romaji": "tomodachi to suguru nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-備わる-445": {
-    "kana": "そなわる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sonawaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で そなわる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sonawaru houhou o kangae ta"
   },
   "jlpt-n1-催す-538": {
-    "kana": "もよおす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "moyoosu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で もよおす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de moyoosu houhou o kangae ta"
   },
   "jlpt-n1-傷-1199": {
-    "kana": "のうと に きず を めいし として せいり し た",
-    "romaji": "nouto ni kizu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kizu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-像-462": {
-    "kana": "のうと に ぞう を めいし として せいり し た",
-    "romaji": "nouto ni zou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぞう について しばらく はなし た",
+    "romaji": "tomodachi to zou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-僕-1000": {
-    "kana": "れいぶん で わ ぼく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa boku ga monogoto ya kangae o sashi te iru"
+    "kana": "ぼく に みち を たずね た",
+    "romaji": "boku ni michi o tazune ta"
   },
   "jlpt-n1-優-632": {
-    "kana": "れいぶん で わ ゆう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ゆう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no yuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-優位-563": {
-    "kana": "じしょ で ゆうい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuui toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうい な てん を さき に せつめい し た",
+    "romaji": "yuui na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-優越-39": {
-    "kana": "じしょ で ゆうえつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuuetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ゆうえつ について しばらく はなし た",
+    "romaji": "tomodachi to yuuetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-元年-941": {
-    "kana": "じしょ で がんねん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gannen toiu meishi no imi o kakunin shi ta"
+    "kana": "がんねん に だいじ な よてい が はいっ て いる",
+    "romaji": "gannen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-元来-561": {
-    "kana": "じしょ で がんらい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ganrai toiu meishi no imi o kakunin shi ta"
+    "kana": "がんらい へんじ が とどい た ので あんしん し た",
+    "romaji": "ganrai henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-元素-651": {
-    "kana": "のうと に げんそ を めいし として せいり し た",
-    "romaji": "nouto ni genso o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい げんそ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai genso o ippai non da"
   },
   "jlpt-n1-元首-708": {
-    "kana": "じしょ で げんしゅ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de genshu toiu meishi no imi o kakunin shi ta"
+    "kana": "げんしゅ が しきてん で みじかい えんぜつ を おこなっ た",
+    "romaji": "genshu ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n1-兆-80": {
-    "kana": "のうと に ちょう を めいし として せいり し た",
-    "romaji": "nouto ni chou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-先だって-153": {
-    "kana": "じしょ で せんだって という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sendatte toiu meishi no imi o kakunin shi ta"
+    "kana": "せんだって に だいじ な よてい が はいっ て いる",
+    "romaji": "sendatte ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-先に-151": {
-    "kana": "さき に わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "saki ni wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "さき に よてい を へんこう し た",
+    "romaji": "saki ni yotei o henkou shi ta"
   },
   "jlpt-n1-先先月-45": {
-    "kana": "れいぶん で わ さき せんげつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa saki sengetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "さき せんげつ に だいじ な よてい が はいっ て いる",
+    "romaji": "saki sengetsu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-先先週-661": {
-    "kana": "じしょ で さき せんしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saki senshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "さきざき しゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "sakizaki shuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-先天的-1084": {
-    "kana": "れいぶん で わ せんてんてき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sententeki ga monogoto ya kangae o sashi te iru"
+    "kana": "せんてんてき な てん を さき に せつめい し た",
+    "romaji": "sententeki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-先行-114": {
-    "kana": "のうと に せんこう を めいし として せいり し た",
-    "romaji": "nouto ni senkou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で せんこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senkou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-光沢-648": {
-    "kana": "れいぶん で わ こうたく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koutaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こうたく について しばらく はなし た",
+    "romaji": "tomodachi to koutaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-免れる-218": {
-    "kana": "まぬかれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "manukareru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に まぬかれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni manukareru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-兎に角-786": {
-    "kana": "のうと に うさぎ に かく を めいし として せいり し た",
-    "romaji": "nouto ni usagi ni kaku o meishi toshite seiri shi ta"
+    "kana": "とにかく よてい を へんこう し た",
+    "romaji": "tonikaku yotei o henkou shi ta"
   },
   "jlpt-n1-兎角-125": {
-    "kana": "じしょ で とかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tokaku toiu meishi no imi o kakunin shi ta"
+    "kana": "とかく よてい を へんこう し た",
+    "romaji": "tokaku yotei o henkou shi ta"
   },
   "jlpt-n1-児-295": {
-    "kana": "れいぶん で わ こ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ko ga monogoto ya kangae o sashi te iru"
+    "kana": "こ が こっきょう ちかく に はいち さ れ た",
+    "romaji": "ko ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-全快-766": {
-    "kana": "じしょ で ぜんかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zenkai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぜんかい について しばらく はなし た",
+    "romaji": "tomodachi to zenkai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-公-121": {
-    "kana": "じしょ で おおやけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ooyake toiu meishi no imi o kakunin shi ta"
+    "kana": "おおやけ な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "ooyake na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-公団-537": {
-    "kana": "じしょ で こうだん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koudan toiu meishi no imi o kakunin shi ta"
+    "kana": "えきまえ の こうだん で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no koudan de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-公然-416": {
-    "kana": "じしょ で こうぜん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kouzen toiu meishi no imi o kakunin shi ta"
+    "kana": "こうぜん な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "kouzen na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-共働き-1173": {
-    "kana": "のうと に ともばたらき を めいし として せいり し た",
-    "romaji": "nouto ni tomobataraki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ともばたらき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tomobataraki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-共和-579": {
-    "kana": "れいぶん で わ きょうわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyouwa ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きょうわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-共存-557": {
-    "kana": "じしょ で きょうぞん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyouzon toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きょうぞん について しばらく はなし た",
+    "romaji": "tomodachi to kyouzon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-共学-1160": {
-    "kana": "じしょ で きょうがく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyougaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きょうがく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyougaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-其れでも-1111": {
-    "kana": "其 れ でも わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "其 re demo wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ともだち と それでも について しばらく はなし た",
+    "romaji": "tomodachi to soredemo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-其処ら-855": {
-    "kana": "其 しょ ら わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "其 sho ra wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "かぎ を 其 しょ ら に おい て しまっ た",
+    "romaji": "kagi o 其 sho ra ni oi te shima ta"
   },
   "jlpt-n1-内部-688": {
-    "kana": "じしょ で ないぶ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de naibu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ないぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de naibu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-内閣-42": {
-    "kana": "じしょ で ないかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de naikaku toiu meishi no imi o kakunin shi ta"
+    "kana": "へや の ないかく を きれい に ととのえ た",
+    "romaji": "heya no naikaku o kirei ni totonoe ta"
   },
   "jlpt-n1-円満-965": {
-    "kana": "れいぶん で わ えんまん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa enman ga monogoto ya kangae o sashi te iru"
+    "kana": "えんまん な てん を さき に せつめい し た",
+    "romaji": "enman na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-円滑-402": {
-    "kana": "のうと に えんかつ を めいし として せいり し た",
-    "romaji": "nouto ni enkatsu o meishi toshite seiri shi ta"
+    "kana": "えんかつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "enkatsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-再会-1070": {
-    "kana": "のうと に さいかい を めいし として せいり し た",
-    "romaji": "nouto ni saikai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さいかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saikai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-再現-323": {
-    "kana": "のうと に さいげん を めいし として せいり し た",
-    "romaji": "nouto ni saigen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さいげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saigen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-再生-794": {
-    "kana": "じしょ で さいせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saisei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さいせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saisei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-最善-210": {
-    "kana": "さいぜん を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "saizen o ireru to bun no nyuansu ga kawaru"
+    "kana": "かいぎ で さいぜん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saizen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-冷淡-419": {
-    "kana": "じしょ で れいたん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de reitan toiu meishi no imi o kakunin shi ta"
+    "kana": "れいたん な てん を さき に せつめい し た",
+    "romaji": "reitan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-冷蔵-577": {
-    "kana": "れいぶん で わ れいぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa reizou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で れいぞう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de reizou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-凌ぐ-470": {
-    "kana": "しのぐ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shinogu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に しのぐ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shinogu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-凡そ-436": {
-    "kana": "のうと に およそ を めいし として せいり し た",
-    "romaji": "nouto ni oyoso o meishi toshite seiri shi ta"
+    "kana": "およそ よてい を へんこう し た",
+    "romaji": "oyoso yotei o henkou shi ta"
   },
   "jlpt-n1-凡ゆる-1219": {
-    "kana": "れいぶん で わ 凡 ゆる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa 凡 yuru ga ugoki ya henka o arawashi te iru"
+    "kana": "あらゆる みせ わ えき の ちかく に ある",
+    "romaji": "arayuru mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-処分-66": {
-    "kana": "のうと に しょぶん を めいし として せいり し た",
-    "romaji": "nouto ni shobun o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょぶん について しばらく はなし た",
+    "romaji": "tomodachi to shobun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-処罰-333": {
-    "kana": "れいぶん で わ しょばつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shobatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょばつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shobatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出くわす-509": {
-    "kana": "でくわす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "dekuwasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え でくわす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e dekuwasu yotei da"
   },
   "jlpt-n1-出入り口-1275": {
-    "kana": "のうと に でいりぐち を めいし として せいり し た",
-    "romaji": "nouto ni deiriguchi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で でいり ぐち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de deiri guchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出動-730": {
-    "kana": "じしょ で しゅつどう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shutsudou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゅつどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shutsudou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出来物-1274": {
-    "kana": "のうと に できぶつ を めいし として せいり し た",
-    "romaji": "nouto ni dekibutsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と できぶつ について しばらく はなし た",
+    "romaji": "tomodachi to dekibutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-出演-223": {
-    "kana": "じしょ で しゅつえん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shutsuen toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と しゅつえん を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to shutsuen o mi ni i ta"
   },
   "jlpt-n1-出生-395": {
-    "kana": "のうと に しゅっしょう を めいし として せいり し た",
-    "romaji": "nouto ni shusshou o meishi toshite seiri shi ta"
+    "kana": "ともだち と しゅっしょう について しばらく はなし た",
+    "romaji": "tomodachi to shusshou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-出産-739": {
-    "kana": "れいぶん で わ しゅっさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shussan ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な しゅっさん を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na shussan o asa no uchi ni atsume ta"
   },
   "jlpt-n1-出社-319": {
-    "kana": "れいぶん で わ しゅっしゃ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shussha ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に しゅっしゃ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shussha e iku michi o shirabe ta"
   },
   "jlpt-n1-出血-166": {
-    "kana": "れいぶん で わ しゅっけつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shukketsu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅっけつ の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "shukketsu no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n1-出題-875": {
-    "kana": "れいぶん で わ しゅつだい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shutsudai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅつだい について しばらく はなし た",
+    "romaji": "tomodachi to shutsudai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-分散-956": {
-    "kana": "のうと に ぶんさん を めいし として せいり し た",
-    "romaji": "nouto ni bunsan o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぶんさん について しばらく はなし た",
+    "romaji": "tomodachi to bunsan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-切っ掛け-232": {
-    "kana": "のうと に きっかけ を めいし として せいり し た",
-    "romaji": "nouto ni kikkake o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きっかけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikkake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-切ない-357": {
-    "kana": "れいぶん で わ せつない が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa setsunai ga monogoto ya kangae o sashi te iru"
+    "kana": "せつない ひ だっ た が さいご まで あるい た",
+    "romaji": "setsunai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-切れ目-272": {
-    "kana": "のうと に きれめ を めいし として せいり し た",
-    "romaji": "nouto ni kireme o meishi toshite seiri shi ta"
+    "kana": "きょう の きれめ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kireme wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-刑-32": {
-    "kana": "のうと に けい を めいし として せいり し た",
-    "romaji": "nouto ni kei o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に けい を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kei o oi te kara dekake ta"
   },
   "jlpt-n1-初-282": {
-    "kana": "れいぶん で わ はつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と はつ について しばらく はなし た",
+    "romaji": "tomodachi to hatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-判定-253": {
-    "kana": "のうと に はんてい を めいし として せいり し た",
-    "romaji": "nouto ni hantei o meishi toshite seiri shi ta"
+    "kana": "ともだち と はんてい について しばらく はなし た",
+    "romaji": "tomodachi to hantei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-判決-351": {
-    "kana": "れいぶん で わ はんけつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hanketsu ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に はんけつ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni hanketsu o oi te kara dekake ta"
   },
   "jlpt-n1-利根-1083": {
-    "kana": "じしょ で りこん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rikon toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で りこん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rikon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-到底-905": {
-    "kana": "とうてい を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "toutei o ireru to bun no nyuansu ga kawaru"
+    "kana": "とうてい あした わ あめ に なる かも しれ ない",
+    "romaji": "toutei ashita wa ame ni naru kamo shire nai"
   },
   "jlpt-n1-制-388": {
-    "kana": "のうと に せい を めいし として せいり し た",
-    "romaji": "nouto ni sei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-制する-1087": {
-    "kana": "せいする わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "seisuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に せいする ため に さき に じゅんび を し た",
+    "romaji": "anzen ni seisuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-制定-332": {
-    "kana": "じしょ で せいてい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seitei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と せいてい について しばらく はなし た",
+    "romaji": "tomodachi to seitei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-剃る-227": {
-    "kana": "そる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "soru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に する ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni suru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-前もって-899": {
-    "kana": "れいぶん で わ まえもって が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maemotte ga monogoto ya kangae o sashi te iru"
+    "kana": "まえもって よてい を へんこう し た",
+    "romaji": "maemotte yotei o henkou shi ta"
   },
   "jlpt-n1-前売り-581": {
-    "kana": "れいぶん で わ まえうり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maeuri ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まえうり について しばらく はなし た",
+    "romaji": "tomodachi to maeuri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-前提-254": {
-    "kana": "じしょ で ぜんてい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zentei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぜんてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zentei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-前置き-310": {
-    "kana": "れいぶん で わ まえおき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maeoki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で まえおき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de maeoki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-剥がす-1080": {
-    "kana": "へがす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hegasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に はがす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hagasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-剥げる-517": {
-    "kana": "せんせい わ はげる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hageru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え はげる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hageru yotei da"
   },
   "jlpt-n1-割り算-1182": {
-    "kana": "のうと に わりざん を めいし として せいり し た",
-    "romaji": "nouto ni warizan o meishi toshite seiri shi ta"
+    "kana": "ともだち と わりざん について しばらく はなし た",
+    "romaji": "tomodachi to warizan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-割合に-544": {
-    "kana": "わりあい に を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "wariai ni o ireru to bun no nyuansu ga kawaru"
+    "kana": "わりあい に よてい を へんこう し た",
+    "romaji": "wariai ni yotei o henkou shi ta"
   },
   "jlpt-n1-創刊-321": {
-    "kana": "れいぶん で わ そうかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa soukan ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に そうかん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni soukan o oi te kara dekake ta"
   },
   "jlpt-n1-創造-142": {
-    "kana": "れいぶん で わ そうぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa souzou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で そうぞう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de souzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-加味-831": {
-    "kana": "のうと に かみ を めいし として せいり し た",
-    "romaji": "nouto ni kami o meishi toshite seiri shi ta"
+    "kana": "ともだち と かみ について しばらく はなし た",
+    "romaji": "tomodachi to kami nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-加留多-314": {
-    "kana": "じしょ で か とめ た という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ka tome ta toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かるた について しばらく はなし た",
+    "romaji": "tomodachi to karuta nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-助言-643": {
-    "kana": "れいぶん で わ じょげん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jogen ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じょげん について しばらく はなし た",
+    "romaji": "tomodachi to jogen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-助詞-1112": {
-    "kana": "じしょ で じょし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de joshi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じょし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-努めて-775": {
-    "kana": "じしょ で つとめ て という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsutome te toiu meishi no imi o kakunin shi ta"
+    "kana": "つとめ て よてい を へんこう し た",
+    "romaji": "tsutome te yotei o henkou shi ta"
   },
   "jlpt-n1-励ます-1106": {
-    "kana": "せんせい わ はげます を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hagemasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はげます ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hagemasu houhou o kangae ta"
   },
   "jlpt-n1-励む-1176": {
-    "kana": "れいぶん で わ はげむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hagemu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で はげむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hagemu houhou o kangae ta"
   },
   "jlpt-n1-効率-132": {
-    "kana": "じしょ で こうりつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kouritsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうりつ について しばらく はなし た",
+    "romaji": "tomodachi to kouritsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-動揺-1236": {
-    "kana": "じしょ で どうよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de douyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で どうよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de douyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-勘弁-759": {
-    "kana": "のうと に かんべん を めいし として せいり し た",
-    "romaji": "nouto ni kanben o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かんべん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanben nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-勝利-1282": {
-    "kana": "のうと に しょうり を めいし として せいり し た",
-    "romaji": "nouto ni shouri o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうり について しばらく はなし た",
+    "romaji": "tomodachi to shouri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-勤まる-308": {
-    "kana": "つとまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsutomaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "よてい が つとまる ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga tsutomaru hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-勤勉-1043": {
-    "kana": "れいぶん で わ きんべん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kinben ga monogoto ya kangae o sashi te iru"
+    "kana": "きんべん な てん を さき に せつめい し た",
+    "romaji": "kinben na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-包む-769": {
-    "kana": "つつむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsutsumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で くるむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kurumu houhou o kangae ta"
   },
   "jlpt-n1-化石-1257": {
-    "kana": "のうと に かせき を めいし として せいり し た",
-    "romaji": "nouto ni kaseki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かせき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaseki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-化繊-1081": {
-    "kana": "のうと に かせん を めいし として せいり し た",
-    "romaji": "nouto ni kasen o meishi toshite seiri shi ta"
+    "kana": "ともだち と かせん について しばらく はなし た",
+    "romaji": "tomodachi to kasen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-区-519": {
-    "kana": "れいぶん で わ く が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で く について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-区々-879": {
-    "kana": "じしょ で くく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kuku toiu meishi no imi o kakunin shi ta"
+    "kana": "まちまち な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "machimachi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-区間-870": {
-    "kana": "れいぶん で わ くかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kukan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で くかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kukan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-半端-856": {
-    "kana": "じしょ で はんぱ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hanpa toiu meishi no imi o kakunin shi ta"
+    "kana": "はんぱ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hanpa na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-協会-491": {
-    "kana": "じしょ で きょうかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyoukai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きょうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyoukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-協定-467": {
-    "kana": "れいぶん で わ きょうてい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyoutei ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いけん に きょうてい し て ふかく うなずい た",
+    "romaji": "kare no iken ni kyoutei shi te fukaku unazui ta"
   },
   "jlpt-n1-協議-1200": {
-    "kana": "れいぶん で わ きょうぎ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyougi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きょうぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyougi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-単調-909": {
-    "kana": "のうと に たんちょう を めいし として せいり し た",
-    "romaji": "nouto ni tanchou o meishi toshite seiri shi ta"
+    "kana": "たんちょう な てん を さき に せつめい し た",
+    "romaji": "tanchou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-卯-931": {
-    "kana": "のうと に う を めいし として せいり し た",
-    "romaji": "nouto ni u o meishi toshite seiri shi ta"
+    "kana": "う に だいじ な よてい が はいっ て いる",
+    "romaji": "u ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-印-1119": {
-    "kana": "れいぶん で わ しるし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shirushi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しるし について しばらく はなし た",
+    "romaji": "tomodachi to shirushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-印鑑-87": {
-    "kana": "のうと に いんかん を めいし として せいり し た",
-    "romaji": "nouto ni inkan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いんかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inkan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-危ぶむ-738": {
-    "kana": "あやぶむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ayabumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で あやぶむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ayabumu houhou o kangae ta"
   },
   "jlpt-n1-即座に-179": {
-    "kana": "れいぶん で わ そくざ に が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa sokuza ni ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "そくざ に よてい を へんこう し た",
+    "romaji": "sokuza ni yotei o henkou shi ta"
   },
   "jlpt-n1-原作-1244": {
-    "kana": "れいぶん で わ げんさく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gensaku ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の げんさく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no gensaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-原典-541": {
-    "kana": "のうと に げんてん を めいし として せいり し た",
-    "romaji": "nouto ni genten o meishi toshite seiri shi ta"
+    "kana": "ともだち と げんてん について しばらく はなし た",
+    "romaji": "tomodachi to genten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-原文-886": {
-    "kana": "じしょ で げんぶん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de genbun toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と げんぶん について しばらく はなし た",
+    "romaji": "tomodachi to genbun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-原書-372": {
-    "kana": "れいぶん で わ げんしょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gensho ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に げんしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni gensho o oi te kara dekake ta"
   },
   "jlpt-n1-厭々-1215": {
-    "kana": "じしょ で いや という めいし の いみ を かくにん し た",
-    "romaji": "jisho de iya toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に いやいや と こえ を かけ た",
+    "romaji": "kaerigiwa ni iyaiya to koe o kake ta"
   },
   "jlpt-n1-参上-621": {
-    "kana": "じしょ で さんじょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sanjou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さんじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sanjou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-及び-907": {
-    "kana": "れいぶん で わ および が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oyobi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と および について しばらく はなし た",
+    "romaji": "tomodachi to oyobi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-反-574": {
-    "kana": "のうと に たん を めいし として せいり し た",
-    "romaji": "nouto ni tan o meishi toshite seiri shi ta"
+    "kana": "たん の はこ を たな に きれい に ならべ た",
+    "romaji": "tan no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n1-反射-683": {
-    "kana": "のうと に はんしゃ を めいし として せいり し た",
-    "romaji": "nouto ni hansha o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はんしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hansha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-反感-515": {
-    "kana": "のうと に はんかん を めいし として せいり し た",
-    "romaji": "nouto ni hankan o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい はんかん を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi hankan o oboe ta"
   },
   "jlpt-n1-反響-503": {
-    "kana": "のうと に はんきょう を めいし として せいり し た",
-    "romaji": "nouto ni hankyou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はんきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hankyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-収容-778": {
-    "kana": "れいぶん で わ しゅうよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuuyou ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に しゅうよう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shuuyou o oi te kara dekake ta"
   },
   "jlpt-n1-収支-654": {
-    "kana": "じしょ で しゅうし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shuushi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゅうし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-取りあえず-857": {
-    "kana": "のうと に とりあえず を めいし として せいり し た",
-    "romaji": "nouto ni toriaezu o meishi toshite seiri shi ta"
+    "kana": "とりあえず へんじ が とどい た ので あんしん し た",
+    "romaji": "toriaezu henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-取り巻く-139": {
-    "kana": "れいぶん で わ とりまく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa torimaku ga ugoki ya henka o arawashi te iru"
+    "kana": "まち を とりまく やまやま が ゆうひ に そまっ た",
+    "romaji": "machi o torimaku yamayama ga yuuhi ni soma ta"
   },
   "jlpt-n1-取り引き-68": {
-    "kana": "のうと に とりひき を めいし として せいり し た",
-    "romaji": "nouto ni torihiki o meishi toshite seiri shi ta"
+    "kana": "きょう の とりひき わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no torihiki wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-取り扱い-602": {
-    "kana": "じしょ で とりあつかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de toriatsukai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と とりあつかい について しばらく はなし た",
+    "romaji": "tomodachi to toriatsukai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-取り替え-1012": {
-    "kana": "じしょ で とりかえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de torikae toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と とりかえ について しばらく はなし た",
+    "romaji": "tomodachi to torikae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-取り立てる-322": {
-    "kana": "せんせい わ とりたてる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa toritateru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に とりたてる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toritateru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-取り組む-124": {
-    "kana": "せんせい わ とりくむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa torikumu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え とりくむ よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e torikumu yotei da"
   },
   "jlpt-n1-取り締まる-82": {
-    "kana": "せんせい わ とりしまる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa torishimaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "がらす が とりしまる おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga torishimaru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n1-取り調べる-659": {
-    "kana": "せんせい わ とりしらべる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa torishiraberu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で とりしらべる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de torishiraberu houhou o kangae ta"
   },
   "jlpt-n1-取材-983": {
-    "kana": "れいぶん で わ しゅざい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuzai ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な しゅざい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na shuzai o asa no uchi ni atsume ta"
   },
   "jlpt-n1-受け入れ-594": {
-    "kana": "れいぶん で わ うけいれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ukeire ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うけいれ について しばらく はなし た",
+    "romaji": "tomodachi to ukeire nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-受け取り-801": {
-    "kana": "れいぶん で わ うけとり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa uketori ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で うけとり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uketori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-受け止める-815": {
-    "kana": "れいぶん で わ うけとめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa uketomeru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え うけとめる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e uketomeru yotei da"
   },
   "jlpt-n1-叫び-180": {
-    "kana": "のうと に さけび を めいし として せいり し た",
-    "romaji": "nouto ni sakebi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さけび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sakebi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-可哀想-1074": {
-    "kana": "じしょ で かわいそう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kawaisou toiu meishi no imi o kakunin shi ta"
+    "kana": "かわいそう な てん を さき に せつめい し た",
+    "romaji": "kawaisou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-可愛い-893": {
-    "kana": "れいぶん で わ かわいい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kawaii ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし かわいい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi kawaii to kanji ta"
   },
   "jlpt-n1-可愛がる-83": {
-    "kana": "せんせい わ かわい がる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kawai garu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "かぞく を かわいがる きもち を たいせつ に し て いる",
+    "romaji": "kazoku o kawaigaru kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n1-台無し-834": {
-    "kana": "れいぶん で わ だいなし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dainashi ga monogoto ya kangae o sashi te iru"
+    "kana": "だいなし な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "dainashi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-叶える-555": {
-    "kana": "れいぶん で わ かなえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kanaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "たすけ を かなえる こえ が とおく から きこえ た",
+    "romaji": "tasuke o kanaeru koe ga tooku kara kikoe ta"
   },
   "jlpt-n1-号-408": {
-    "kana": "れいぶん で わ ごう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gou ga monogoto ya kangae o sashi te iru"
+    "kana": "うけつけ で ごう を よば れる まで まっ た",
+    "romaji": "uketsuke de gou o yoba reru made ma ta"
   },
   "jlpt-n1-司る-813": {
-    "kana": "れいぶん で わ つかさどる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukasadoru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で つかさどる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsukasadoru houhou o kangae ta"
   },
   "jlpt-n1-合わせ-1225": {
-    "kana": "のうと に あわせ を めいし として せいり し た",
-    "romaji": "nouto ni awase o meishi toshite seiri shi ta"
+    "kana": "あわせ で じょうけん を はなしあっ た",
+    "romaji": "awase de jouken o hanashia ta"
   },
   "jlpt-n1-同-1046": {
-    "kana": "れいぶん で わ どう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で どう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-同封-969": {
-    "kana": "れいぶん で わ どうふう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa doufuu ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に どうふう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni doufuu o oi te kara dekake ta"
   },
   "jlpt-n1-同情-1067": {
-    "kana": "のうと に どうじょう を めいし として せいり し た",
-    "romaji": "nouto ni doujou o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい どうじょう を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi doujou o oboe ta"
   },
   "jlpt-n1-同感-1": {
-    "kana": "じしょ で どうかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doukan toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の いけん に どうかん し て ふかく うなずい た",
+    "romaji": "kare no iken ni doukan shi te fukaku unazui ta"
   },
   "jlpt-n1-同等-914": {
-    "kana": "じしょ で どうとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doutou toiu meishi no imi o kakunin shi ta"
+    "kana": "どうとう な てん を さき に せつめい し た",
+    "romaji": "doutou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-同級-1027": {
-    "kana": "じしょ で どうきゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doukyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の どうきゅう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no doukyuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-名付ける-107": {
-    "kana": "なづける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nazukeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に なづける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nazukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-名簿-1172": {
-    "kana": "れいぶん で わ めいぼ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa meibo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で めいぼ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meibo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-名誉-79": {
-    "kana": "れいぶん で わ めいよ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa meiyo ga monogoto ya kangae o sashi te iru"
+    "kana": "めいよ な てん を さき に せつめい し た",
+    "romaji": "meiyo na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-名高い-309": {
-    "kana": "なだかい を な けいようし として のうと に まとめ た",
-    "romaji": "nadakai o na keiyoushi toshite nouto ni matome ta"
+    "kana": "おもっ た より なだかい もんだい だっ た",
+    "romaji": "omo ta yori nadakai mondai da ta"
   },
   "jlpt-n1-向き-271": {
-    "kana": "じしょ で むき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de muki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で むき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de muki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-向上-58": {
-    "kana": "じしょ で こうじょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koujou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうじょう について しばらく はなし た",
+    "romaji": "tomodachi to koujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-君主-646": {
-    "kana": "のうと に くんしゅ を めいし として せいり し た",
-    "romaji": "nouto ni kunshu o meishi toshite seiri shi ta"
+    "kana": "くんしゅ が しきてん で みじかい えんぜつ を おこなっ た",
+    "romaji": "kunshu ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n1-吟味-889": {
-    "kana": "じしょ で ぎんみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ginmi toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の ぎんみ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no ginmi ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-含嗽-336": {
-    "kana": "のうと に がんそう を めいし として せいり し た",
-    "romaji": "nouto ni gansou o meishi toshite seiri shi ta"
+    "kana": "う がい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "u gai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-呆れる-817": {
-    "kana": "あきれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "akireru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で あきれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de akireru houhou o kangae ta"
   },
   "jlpt-n1-呆然-762": {
-    "kana": "のうと に ぼうぜん を めいし として せいり し た",
-    "romaji": "nouto ni bouzen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぼうぜん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouzen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-呉れる-531": {
-    "kana": "れいぶん で わ くれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kureru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で くれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kureru houhou o kangae ta"
   },
   "jlpt-n1-告白-949": {
-    "kana": "のうと に こくはく を めいし として せいり し た",
-    "romaji": "nouto ni kokuhaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と こくはく について しばらく はなし た",
+    "romaji": "tomodachi to kokuhaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-周-468": {
-    "kana": "れいぶん で わ あまね が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa amane ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅう について しばらく はなし た",
+    "romaji": "tomodachi to shuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-周期-514": {
-    "kana": "れいぶん で わ しゅうき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuuki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅうき について しばらく はなし た",
+    "romaji": "tomodachi to shuuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-味覚-195": {
-    "kana": "じしょ で みかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mikaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で みかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-和-808": {
-    "kana": "れいぶん で わ わ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa wa ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と わ について しばらく はなし た",
+    "romaji": "tomodachi to wa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-和文-821": {
-    "kana": "のうと に わぶん を めいし として せいり し た",
-    "romaji": "nouto ni wabun o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に わぶん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni wabun o oi te kara dekake ta"
   },
   "jlpt-n1-和風-485": {
-    "kana": "れいぶん で わ わふう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa wafuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と わふう が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to wafuu ga totemo kirei ni mie ta"
   },
   "jlpt-n1-員-324": {
-    "kana": "じしょ で いん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de in toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de in nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-唱える-1158": {
-    "kana": "となえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tonaeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で となえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tonaeru houhou o kangae ta"
   },
   "jlpt-n1-商-976": {
-    "kana": "じしょ で しょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shou toiu meishi no imi o kakunin shi ta"
+    "kana": "しんらい できる しょう に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru shou ni shuuri o tanon da"
   },
   "jlpt-n1-問い合わせる-898": {
-    "kana": "といあわせる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "toiawaseru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "たすけ を といあわせる こえ が とおく から きこえ た",
+    "romaji": "tasuke o toiawaseru koe ga tooku kara kikoe ta"
   },
   "jlpt-n1-問う-247": {
-    "kana": "せんせい わ とう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あいて を つよく とう まえ に まず じじょう を きい た",
+    "romaji": "aite o tsuyoku tou mae ni mazu jijou o kii ta"
   },
   "jlpt-n1-問屋-566": {
-    "kana": "れいぶん で わ とんや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ton'ya ga monogoto ya kangae o sashi te iru"
+    "kana": "しんらい できる とんや に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru ton'ya ni shuuri o tanon da"
   },
   "jlpt-n1-善し悪し-400": {
-    "kana": "れいぶん で わ よしあし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yoshiashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で よしあし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yoshiashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-喋る-494": {
-    "kana": "しゃべる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shaberu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に しゃべる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shaberu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-喜劇-713": {
-    "kana": "のうと に きげき を めいし として せいり し た",
-    "romaji": "nouto ni kigeki o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と きげき を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to kigeki o mi ni i ta"
   },
   "jlpt-n1-喧しい-85": {
-    "kana": "れいぶん で わ やかましい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yakamashii ga monogoto ya kangae o sashi te iru"
+    "kana": "やかましい ひ だっ た が さいご まで あるい た",
+    "romaji": "yakamashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-喫茶-753": {
-    "kana": "れいぶん で わ きっさ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kissa ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうけい ちゅう に あたたかい きっさ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai kissa o ippai non da"
   },
   "jlpt-n1-営む-1184": {
-    "kana": "れいぶん で わ いとなむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa itonamu ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで いとなむ ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made itonamu hito o sagashi ta"
   },
   "jlpt-n1-嗚呼-700": {
-    "kana": "れいぶん で わ ああ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aa ga monogoto ya kangae o sashi te iru"
+    "kana": "かえりぎわ に ああ と こえ を かけ た",
+    "romaji": "kaerigiwa ni aa to koe o kake ta"
   },
   "jlpt-n1-嗜好-24": {
-    "kana": "れいぶん で わ しこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shikou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しこう について しばらく はなし た",
+    "romaji": "tomodachi to shikou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嘗める-622": {
-    "kana": "なめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nameru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で なめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nameru houhou o kangae ta"
   },
   "jlpt-n1-嘘つき-938": {
-    "kana": "うそつき を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "usotsuki o ireru to bun no nyuansu ga kawaru"
+    "kana": "ともだち と うそつき について しばらく はなし た",
+    "romaji": "tomodachi to usotsuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嘴-890": {
-    "kana": "れいぶん で わ くちばし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kuchibashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で くちばし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kuchibashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-噴出-1049": {
-    "kana": "れいぶん で わ ふんしゅつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa funshutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ふんしゅつ について しばらく はなし た",
+    "romaji": "tomodachi to funshutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嚏-940": {
-    "kana": "じしょ で 嚏 という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 嚏 toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と くしゃみ について しばらく はなし た",
+    "romaji": "tomodachi to kushami nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-回路-1195": {
-    "kana": "じしょ で かいろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kairo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かいろ について しばらく はなし た",
+    "romaji": "tomodachi to kairo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-団扇-1118": {
-    "kana": "のうと に うちわ を めいし として せいり し た",
-    "romaji": "nouto ni uchiwa o meishi toshite seiri shi ta"
+    "kana": "へや の うちわ を きれい に ととのえ た",
+    "romaji": "heya no uchiwa o kirei ni totonoe ta"
   },
   "jlpt-n1-団結-1037": {
-    "kana": "じしょ で だんけつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de danketsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と だんけつ について しばらく はなし た",
+    "romaji": "tomodachi to danketsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-図る-1177": {
-    "kana": "せんせい わ はかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hakaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はかる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hakaru houhou o kangae ta"
   },
   "jlpt-n1-国定-385": {
-    "kana": "のうと に こくてい を めいし として せいり し た",
-    "romaji": "nouto ni kokutei o meishi toshite seiri shi ta"
+    "kana": "ともだち と こくてい について しばらく はなし た",
+    "romaji": "tomodachi to kokutei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-国産-734": {
-    "kana": "のうと に こくさん を めいし として せいり し た",
-    "romaji": "nouto ni kokusan o meishi toshite seiri shi ta"
+    "kana": "ともだち と こくさん について しばらく はなし た",
+    "romaji": "tomodachi to kokusan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-圏-1256": {
-    "kana": "のうと に けん を めいし として せいり し た",
-    "romaji": "nouto ni ken o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-園-929": {
-    "kana": "のうと に えん を めいし として せいり し た",
-    "romaji": "nouto ni en o meishi toshite seiri shi ta"
+    "kana": "えん の ひかり が よる の みち を てらし て い た",
+    "romaji": "en no hikari ga yoru no michi o terashi te i ta"
   },
   "jlpt-n1-土手-1224": {
-    "kana": "のうと に どて を めいし として せいり し た",
-    "romaji": "nouto ni dote o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に どて を すこし たべ た",
+    "romaji": "hiru gohan ni dote o sukoshi tabe ta"
   },
   "jlpt-n1-土木-134": {
-    "kana": "じしょ で どぼく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doboku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と どぼく について しばらく はなし た",
+    "romaji": "tomodachi to doboku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-圧力-1147": {
-    "kana": "れいぶん で わ あつりょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa atsuryoku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で あつりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de atsuryoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-圧迫-1079": {
-    "kana": "じしょ で あっぱく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de appaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で あっぱく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de appaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-在庫-1068": {
-    "kana": "のうと に ざいこ を めいし として せいり し た",
-    "romaji": "nouto ni zaiko o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ざいこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zaiko nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-地元-964": {
-    "kana": "れいぶん で わ じもと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jimoto ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じもと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jimoto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-坊ちゃん-1034": {
-    "kana": "じしょ で ぼっちゃん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de botchan toiu meishi no imi o kakunin shi ta"
+    "kana": "ぼっちゃん の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "botchan no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n1-垢-44": {
-    "kana": "れいぶん で わ あか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あか について しばらく はなし た",
+    "romaji": "tomodachi to aka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-城下-211": {
-    "kana": "れいぶん で わ じょうか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jouka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じょうか について しばらく はなし た",
+    "romaji": "tomodachi to jouka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-埋め込む-472": {
-    "kana": "せんせい わ うめこむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa umekomu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に うめこむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni umekomu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-執着-404": {
-    "kana": "れいぶん で わ しゅうちゃく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuuchaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しゅうちゃく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuchaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-基-961": {
-    "kana": "じしょ で もと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de moto toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と もと について しばらく はなし た",
+    "romaji": "tomodachi to moto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-堪える-379": {
-    "kana": "せんせい わ こたえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kotaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よてい が こたえる ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga kotaeru hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-報酬-164": {
-    "kana": "じしょ で ほうしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de houshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-填まる-313": {
-    "kana": "れいぶん で わ はま まる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hama maru ga ugoki ya henka o arawashi te iru"
+    "kana": "よてい が はま まる ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga hama maru hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-増強-1156": {
-    "kana": "れいぶん で わ ぞうきょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zoukyou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぞうきょう について しばらく はなし た",
+    "romaji": "tomodachi to zoukyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-増進-1175": {
-    "kana": "れいぶん で わ ぞうしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zoushin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぞうしん について しばらく はなし た",
+    "romaji": "tomodachi to zoushin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-壷-285": {
-    "kana": "じしょ で つぼ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsubo toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に つぼ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tsubo o oi te kara dekake ta"
   },
   "jlpt-n1-変動-246": {
-    "kana": "れいぶん で わ へんどう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hendou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と へんどう について しばらく はなし た",
+    "romaji": "tomodachi to hendou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-変遷-288": {
-    "kana": "じしょ で へんせん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hensen toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と へんせん について しばらく はなし た",
+    "romaji": "tomodachi to hensen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-変革-135": {
-    "kana": "のうと に へんかく を めいし として せいり し た",
-    "romaji": "nouto ni henkaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と へんかく について しばらく はなし た",
+    "romaji": "tomodachi to henkaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-夕暮れ-828": {
-    "kana": "じしょ で ゆうぐれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuugure toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうぐれ に だいじ な よてい が はいっ て いる",
+    "romaji": "yuugure ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-外相-1075": {
-    "kana": "のうと に がいしょう を めいし として せいり し た",
-    "romaji": "nouto ni gaishou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で がいしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gaishou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-多様-421": {
-    "kana": "れいぶん で わ たよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tayou ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "tayou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-夜中-108": {
-    "kana": "じしょ で やちゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yachuu toiu meishi no imi o kakunin shi ta"
+    "kana": "やちゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "yachuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-夜行-1189": {
-    "kana": "じしょ で やこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yakou toiu meishi no imi o kakunin shi ta"
+    "kana": "やこう ばす で とうきょう え むかっ た",
+    "romaji": "yakou basu de toukyou e muka ta"
   },
   "jlpt-n1-大事-702": {
-    "kana": "だいじ を な けいようし として のうと に まとめ た",
-    "romaji": "daiji o na keiyoushi toshite nouto ni matome ta"
+    "kana": "だいじ な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "daiji na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-大幅-863": {
-    "kana": "れいぶん で わ おおはば が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oohaba ga monogoto ya kangae o sashi te iru"
+    "kana": "おおはば な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "oohaba na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-大方-585": {
-    "kana": "おおかた わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "ookata wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ともだち と おおかた について しばらく はなし た",
+    "romaji": "tomodachi to ookata nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大水-88": {
-    "kana": "れいぶん で わ だいすい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa daisui ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おおみず について しばらく はなし た",
+    "romaji": "tomodachi to oomizu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大筋-136": {
-    "kana": "のうと に おおすじ を めいし として せいり し た",
-    "romaji": "nouto ni oosuji o meishi toshite seiri shi ta"
+    "kana": "ともだち と おおすじ について しばらく はなし た",
+    "romaji": "tomodachi to oosuji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大胆-106": {
-    "kana": "じしょ で だいたん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de daitan toiu meishi no imi o kakunin shi ta"
+    "kana": "だいたん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "daitan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-大衆-192": {
-    "kana": "じしょ で たいしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taishuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たいしゅう について しばらく はなし た",
+    "romaji": "tomodachi to taishuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大部-235": {
-    "kana": "れいぶん で わ たいぶ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taibu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たいぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taibu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-大金-597": {
-    "kana": "じしょ で たいきん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taikin toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たいきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taikin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-天-991": {
-    "kana": "のうと に てん を めいし として せいり し た",
-    "romaji": "nouto ni ten o meishi toshite seiri shi ta"
+    "kana": "てん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "ten na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-天地-837": {
-    "kana": "じしょ で てんち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tenchi toiu meishi no imi o kakunin shi ta"
+    "kana": "やま の てんち から まち ぜんたい が みえ た",
+    "romaji": "yama no tenchi kara machi zentai ga mie ta"
   },
   "jlpt-n1-天才-330": {
-    "kana": "のうと に てんさい を めいし として せいり し た",
-    "romaji": "nouto ni tensai o meishi toshite seiri shi ta"
+    "kana": "ともだち と てんさい について しばらく はなし た",
+    "romaji": "tomodachi to tensai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-失調-990": {
-    "kana": "れいぶん で わ しっちょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitchou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しっちょう について しばらく はなし た",
+    "romaji": "tomodachi to shitchou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-奇数-1266": {
-    "kana": "じしょ で きすう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kisuu toiu meishi no imi o kakunin shi ta"
+    "kana": "うけつけ で きすう を よば れる まで まっ た",
+    "romaji": "uketsuke de kisuu o yoba reru made ma ta"
   },
   "jlpt-n1-奇麗-737": {
-    "kana": "きれい わ めいし の まえ で きれい な の かたち で も つかう",
-    "romaji": "kirei wa meishi no mae de kirei na no katachi de mo tsukau"
+    "kana": "きれい な まち を ゆっくり あるい た",
+    "romaji": "kirei na machi o yukkuri arui ta"
   },
   "jlpt-n1-契る-355": {
-    "kana": "れいぶん で わ ちぎる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa chigiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に ちぎる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni chigiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-奨励-225": {
-    "kana": "れいぶん で わ しょうれい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shourei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょうれい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shourei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-奮闘-320": {
-    "kana": "のうと に ふんとう を めいし として せいり し た",
-    "romaji": "nouto ni funtou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ふんとう について しばらく はなし た",
+    "romaji": "tomodachi to funtou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-女史-429": {
-    "kana": "のうと に じょし を めいし として せいり し た",
-    "romaji": "nouto ni joshi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じょし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-好意-1208": {
-    "kana": "のうと に こうい を めいし として せいり し た",
-    "romaji": "nouto ni koui o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こうい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-好況-89": {
-    "kana": "こうきょう わ めいし の まえ で こうきょう な の かたち で も つかう",
-    "romaji": "koukyou wa meishi no mae de koukyou na no katachi de mo tsukau"
+    "kana": "こうきょう な まち を ゆっくり あるい た",
+    "romaji": "koukyou na machi o yukkuri arui ta"
   },
   "jlpt-n1-如何して-846": {
-    "kana": "のうと に いか し て を めいし として せいり し た",
-    "romaji": "nouto ni ika shi te o meishi toshite seiri shi ta"
+    "kana": "どうして へんじ が とどい た ので あんしん し た",
+    "romaji": "doushite henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-如何に-746": {
-    "kana": "いか に を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "ika ni o ireru to bun no nyuansu ga kawaru"
+    "kana": "いかに よてい を へんこう し た",
+    "romaji": "ikani yotei o henkou shi ta"
   },
   "jlpt-n1-如何にも-101": {
-    "kana": "じしょ で いかにも という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ikanimo toiu meishi no imi o kakunin shi ta"
+    "kana": "いかにも な てん を さき に せつめい し た",
+    "romaji": "ikanimo na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-妥結-1130": {
-    "kana": "のうと に だけつ を めいし として せいり し た",
-    "romaji": "nouto ni daketsu o meishi toshite seiri shi ta"
+    "kana": "かれ の いけん に だけつ し て ふかく うなずい た",
+    "romaji": "kare no iken ni daketsu shi te fukaku unazui ta"
   },
   "jlpt-n1-妬む-194": {
-    "kana": "せんせい わ ねたむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa netamu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ねたむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de netamu houhou o kangae ta"
   },
   "jlpt-n1-始末-347": {
-    "kana": "じしょ で しまつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shimatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しまつ について しばらく はなし た",
+    "romaji": "tomodachi to shimatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-始発-805": {
-    "kana": "のうと に しはつ を めいし として せいり し た",
-    "romaji": "nouto ni shihatsu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に しはつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shihatsu e iku michi o shirabe ta"
   },
   "jlpt-n1-婉曲-704": {
-    "kana": "のうと に えんきょく を めいし として せいり し た",
-    "romaji": "nouto ni enkyoku o meishi toshite seiri shi ta"
+    "kana": "えんきょく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "enkyoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-嫉妬-729": {
-    "kana": "じしょ で しっと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shitto toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しっと について しばらく はなし た",
+    "romaji": "tomodachi to shitto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嬢-406": {
-    "kana": "のうと に じょう を めいし として せいり し た",
-    "romaji": "nouto ni jou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-字-727": {
-    "kana": "れいぶん で わ じ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ji ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に じ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ji e iku michi o shirabe ta"
   },
   "jlpt-n1-字体-631": {
-    "kana": "じしょ で じたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jitai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じたい について しばらく はなし た",
+    "romaji": "tomodachi to jitai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-季刊-1060": {
-    "kana": "れいぶん で わ きかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kikan ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に きかん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kikan o oi te kara dekake ta"
   },
   "jlpt-n1-孤独-1064": {
-    "kana": "じしょ で こどく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kodoku toiu meishi no imi o kakunin shi ta"
+    "kana": "こどく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kodoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-守備-358": {
-    "kana": "じしょ で しゅび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shubi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しゅび について しばらく はなし た",
+    "romaji": "tomodachi to shubi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-安っぽい-933": {
-    "kana": "のうと に やすっぽい を めいし として せいり し た",
-    "romaji": "nouto ni yasuppoi o meishi toshite seiri shi ta"
+    "kana": "その せつめい わ すこし やすっぽい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi yasuppoi to kanji ta"
   },
   "jlpt-n1-安静-963": {
-    "kana": "のうと に あんせい を めいし として せいり し た",
-    "romaji": "nouto ni ansei o meishi toshite seiri shi ta"
+    "kana": "あんせい な まち を ゆっくり あるい た",
+    "romaji": "ansei na machi o yukkuri arui ta"
   },
   "jlpt-n1-定まる-1014": {
-    "kana": "さだまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sadamaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に さだまる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni sadamaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-定める-1126": {
-    "kana": "れいぶん で わ さだめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sadameru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で さだめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sadameru houhou o kangae ta"
   },
   "jlpt-n1-宛-783": {
-    "kana": "じしょ で あて という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ate toiu meishi no imi o kakunin shi ta"
+    "kana": "あて に だいじ な よてい が はいっ て いる",
+    "romaji": "ate ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-宝器-209": {
-    "kana": "れいぶん で わ たから き が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa takara ki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ほうき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-実業家-305": {
-    "kana": "じしょ で じつぎょう か という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jitsugyou ka toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じつぎょう か について しばらく はなし た",
+    "romaji": "tomodachi to jitsugyou ka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-実質-231": {
-    "kana": "のうと に じっしつ を めいし として せいり し た",
-    "romaji": "nouto ni jisshitsu o meishi toshite seiri shi ta"
+    "kana": "じっしつ の てつづき を きげん まで に すませ た",
+    "romaji": "jisshitsu no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-害する-1077": {
-    "kana": "れいぶん で わ がいする が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa gaisuru ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を がいする はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o gaisuru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n1-家主-599": {
-    "kana": "れいぶん で わ やぬし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yanushi ga monogoto ya kangae o sashi te iru"
+    "kana": "やぬし が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "yanushi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-家畜-728": {
-    "kana": "じしょ で かちく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kachiku toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の ぼくじょう で かちく を み た",
+    "romaji": "chikaku no bokujou de kachiku o mi ta"
   },
   "jlpt-n1-家計-237": {
-    "kana": "のうと に かけい を めいし として せいり し た",
-    "romaji": "nouto ni kakei o meishi toshite seiri shi ta"
+    "kana": "ともだち と かけい について しばらく はなし た",
+    "romaji": "tomodachi to kakei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-容易い-1258": {
-    "kana": "この ぶん で わ たやすい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa tayasui ga hito ya mono no yousu o arawashi te iru"
+    "kana": "たやすい ひ だっ た が さいご まで あるい た",
+    "romaji": "tayasui hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-宿命-1278": {
-    "kana": "れいぶん で わ しゅくめい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shukumei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅくめい について しばらく はなし た",
+    "romaji": "tomodachi to shukumei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-寄こす-758": {
-    "kana": "れいぶん で わ よこす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yokosu ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで よこす ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made yokosu hito o sagashi ta"
   },
   "jlpt-n1-密接-438": {
-    "kana": "のうと に みっせつ を めいし として せいり し た",
-    "romaji": "nouto ni missetsu o meishi toshite seiri shi ta"
+    "kana": "みっせつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "missetsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-密集-818": {
-    "kana": "じしょ で みっしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de misshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と みっしゅう について しばらく はなし た",
+    "romaji": "tomodachi to misshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-富豪-669": {
-    "kana": "れいぶん で わ ふごう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fugou ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる ふごう に こえ を かけ た",
+    "romaji": "koma te iru fugou ni koe o kake ta"
   },
   "jlpt-n1-寝かせる-824": {
-    "kana": "せんせい わ ねかせる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nekaseru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "うわぎ を ねかせる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o nekaseru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n1-察する-120": {
-    "kana": "れいぶん で わ さっ する が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sa suru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で さっする ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sassuru houhou o kangae ta"
   },
   "jlpt-n1-審査-126": {
-    "kana": "じしょ で しんさ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinsa toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の しんさ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no shinsa ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-審議-980": {
-    "kana": "のうと に しんぎ を めいし として せいり し た",
-    "romaji": "nouto ni shingi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しんぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shingi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-対して-1104": {
-    "kana": "じしょ で たいし て という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taishi te toiu meishi no imi o kakunin shi ta"
+    "kana": "たいし て この ぶぶん を ていねい に よん だ",
+    "romaji": "taishi te kono bubun o teinei ni yon da"
   },
   "jlpt-n1-対比-756": {
-    "kana": "じしょ で たいひ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taihi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たいひ について しばらく はなし た",
+    "romaji": "tomodachi to taihi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-対等-691": {
-    "kana": "じしょ で たいとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taitou toiu meishi no imi o kakunin shi ta"
+    "kana": "たいとう な てん を さき に せつめい し た",
+    "romaji": "taitou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-専修-161": {
-    "kana": "れいぶん で わ せんしゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa senshuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せんしゅう について しばらく はなし た",
+    "romaji": "tomodachi to senshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-専用-864": {
-    "kana": "のうと に せんよう を めいし として せいり し た",
-    "romaji": "nouto ni sen'you o meishi toshite seiri shi ta"
+    "kana": "ともだち と せんよう について しばらく はなし た",
+    "romaji": "tomodachi to sen'you nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-導く-822": {
-    "kana": "せんせい わ みちびく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa michibiku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で みちびく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de michibiku houhou o kangae ta"
   },
   "jlpt-n1-尚-871": {
-    "kana": "なお を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "nao o ireru to bun no nyuansu ga kawaru"
+    "kana": "なお へんじ が とどい た ので あんしん し た",
+    "romaji": "nao henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-尻尾-634": {
-    "kana": "れいぶん で わ しっぽ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shippo ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で しっぽ を み た",
+    "romaji": "chikaku no bokujou de shippo o mi ta"
   },
   "jlpt-n1-尽くす-1242": {
-    "kana": "れいぶん で わ つくす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukusu ga ugoki ya henka o arawashi te iru"
+    "kana": "あたらしい どうぐ を つくす ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o tsukusu bamen ga fue te iru"
   },
   "jlpt-n1-尾-1128": {
-    "kana": "れいぶん で わ お が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で お を み た",
+    "romaji": "chikaku no bokujou de o o mi ta"
   },
   "jlpt-n1-尿-497": {
-    "kana": "じしょ で にょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と にょう について しばらく はなし た",
+    "romaji": "tomodachi to nyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-局限-627": {
-    "kana": "じしょ で きょくげん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyokugen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きょくげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyokugen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-屈折-234": {
-    "kana": "のうと に くっせつ を めいし として せいり し た",
-    "romaji": "nouto ni kussetsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と くっせつ について しばらく はなし た",
+    "romaji": "tomodachi to kussetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-届け-684": {
-    "kana": "れいぶん で わ とどけ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa todoke ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と とどけ について しばらく はなし た",
+    "romaji": "tomodachi to todoke nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-屡-693": {
-    "kana": "れいぶん で わ しばしば が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa shibashiba ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "しばしば へんじ が とどい た ので あんしん し た",
+    "romaji": "shibashiba henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-山腹-446": {
-    "kana": "れいぶん で わ さんぷく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sanpuku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さんぷく について しばらく はなし た",
+    "romaji": "tomodachi to sanpuku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-岩石-1135": {
-    "kana": "じしょ で がんせき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ganseki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と がんせき について しばらく はなし た",
+    "romaji": "tomodachi to ganseki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-崇拝-498": {
-    "kana": "れいぶん で わ すうはい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa suuhai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で すうはい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suuhai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-嵩張る-524": {
-    "kana": "かさばる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kasabaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に かさばる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kasabaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-工作-953": {
-    "kana": "のうと に こうさく を めいし として せいり し た",
-    "romaji": "nouto ni kousaku o meishi toshite seiri shi ta"
+    "kana": "あたらしい さあびす の こうさく が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kousaku ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-左様なら-1187": {
-    "kana": "れいぶん で わ さよう なら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sayou nara ga monogoto ya kangae o sashi te iru"
+    "kana": "かえりぎわ に さようなら と こえ を かけ た",
+    "romaji": "kaerigiwa ni sayounara to koe o kake ta"
   },
   "jlpt-n1-巧み-803": {
-    "kana": "のうと に たくみ を めいし として せいり し た",
-    "romaji": "nouto ni takumi o meishi toshite seiri shi ta"
+    "kana": "たくみ な てん を さき に せつめい し た",
+    "romaji": "takumi na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-巧妙-158": {
-    "kana": "れいぶん で わ こうみょう が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa koumyou ga joutai ya seishitsu o arawashi te iru"
+    "kana": "こうみょう な てん を さき に せつめい し た",
+    "romaji": "koumyou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-差し支える-732": {
-    "kana": "せんせい わ さしつかえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sashitsukaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に さしつかえる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni sashitsukaeru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-巻-1150": {
-    "kana": "れいぶん で わ まき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maki ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に まき を おい て から でかけ た",
+    "romaji": "tsukue no ue ni maki o oi te kara dekake ta"
   },
   "jlpt-n1-布巾-99": {
-    "kana": "のうと に ふきん を めいし として せいり し た",
-    "romaji": "nouto ni fukin o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい ふきん を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai fukin o ippai non da"
   },
   "jlpt-n1-帳-1196": {
-    "kana": "じしょ で とばり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tobari toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で とばり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tobari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-幕-430": {
-    "kana": "れいぶん で わ まく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で まく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de maku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-平たい-1058": {
-    "kana": "じしょ で ひらたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hiratai toiu meishi no imi o kakunin shi ta"
+    "kana": "ひらたい ひ だっ た が さいご まで あるい た",
+    "romaji": "hiratai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-平常-1121": {
-    "kana": "れいぶん で わ へいじょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa heijou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で へいじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de heijou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-年生-181": {
-    "kana": "れいぶん で わ とし せい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toshi sei ga monogoto ya kangae o sashi te iru"
+    "kana": "とし せい に だいじ な よてい が はいっ て いる",
+    "romaji": "toshi sei ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-年頃-1033": {
-    "kana": "のうと に としごろ を めいし として せいり し た",
-    "romaji": "nouto ni toshigoro o meishi toshite seiri shi ta"
+    "kana": "かいぎ で としごろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toshigoro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-幹-1013": {
-    "kana": "じしょ で みき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de miki toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と みき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to miki ga totemo kirei ni mie ta"
   },
   "jlpt-n1-幹部-755": {
-    "kana": "れいぶん で わ かんぶ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanbu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かんぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanbu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-幽霊-716": {
-    "kana": "じしょ で ゆうれい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuurei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ゆうれい について しばらく はなし た",
+    "romaji": "tomodachi to yuurei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-広まる-578": {
-    "kana": "せんせい わ ひろまる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hiromaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ひろまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hiromaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-店-31": {
-    "kana": "れいぶん で わ みせ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mise ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に みせ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni mise e iku michi o shirabe ta"
   },
   "jlpt-n1-度忘れ-75": {
-    "kana": "のうと に どわすれ を めいし として せいり し た",
-    "romaji": "nouto ni dowasure o meishi toshite seiri shi ta"
+    "kana": "ともだち と どわすれ について しばらく はなし た",
+    "romaji": "tomodachi to dowasure nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-庶務-1165": {
-    "kana": "じしょ で しょむ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shomu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しょむ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shomu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-庶民-328": {
-    "kana": "れいぶん で わ しょみん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shomin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょみん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shomin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-廃れる-558": {
-    "kana": "せんせい わ すたれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sutareru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に すたれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni sutareru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-廃棄-1211": {
-    "kana": "のうと に はいき を めいし として せいり し た",
-    "romaji": "nouto ni haiki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はいき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-廃止-1133": {
-    "kana": "のうと に はいし を めいし として せいり し た",
-    "romaji": "nouto ni haishi o meishi toshite seiri shi ta"
+    "kana": "ともだち と はいし について しばらく はなし た",
+    "romaji": "tomodachi to haishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-延いては-1235": {
-    "kana": "のうと に のべ い て わ を めいし として せいり し た",
-    "romaji": "nouto ni nobe i te wa o meishi toshite seiri shi ta"
+    "kana": "のべ い て わ の ほうほう で もんだい を かいけつ し た",
+    "romaji": "nobe i te wa no houhou de mondai o kaiketsu shi ta"
   },
   "jlpt-n1-弁論-974": {
-    "kana": "れいぶん で わ べんろん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa benron ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と べんろん について しばらく はなし た",
+    "romaji": "tomodachi to benron nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-弁護-569": {
-    "kana": "じしょ で べんご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bengo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と べんご について しばらく はなし た",
+    "romaji": "tomodachi to bengo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-弓-624": {
-    "kana": "のうと に ゆみ を めいし として せいり し た",
-    "romaji": "nouto ni yumi o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ゆみ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni yumi o oi te kara dekake ta"
   },
   "jlpt-n1-引き上げる-776": {
-    "kana": "せんせい わ ひきあげる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hikiageru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひきだし から ふるい てがみ を ひきあげる と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o hikiageru to natsukashiku na ta"
   },
   "jlpt-n1-引き下げる-676": {
-    "kana": "れいぶん で わ ひきさげる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hikisageru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひきだし から ふるい てがみ を ひきさげる と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o hikisageru to natsukashiku na ta"
   },
   "jlpt-n1-引き受ける-325": {
-    "kana": "れいぶん で わ ひきうける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hikiukeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に ひきうける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hikiukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-弛み-255": {
-    "kana": "のうと に ゆるみ を めいし として せいり し た",
-    "romaji": "nouto ni yurumi o meishi toshite seiri shi ta"
+    "kana": "ともだち と ゆるみ について しばらく はなし た",
+    "romaji": "tomodachi to yurumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-弛む-1166": {
-    "kana": "たるむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tarumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に たるむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tarumu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-弟-1179": {
-    "kana": "じしょ で おとうと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de otouto toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる おとうと に こえ を かけ た",
+    "romaji": "koma te iru otouto ni koe o kake ta"
   },
   "jlpt-n1-弱まる-876": {
-    "kana": "せんせい わ よわまる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yowamaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で よわまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de yowamaru houhou o kangae ta"
   },
   "jlpt-n1-強烈-1170": {
-    "kana": "じしょ で きょうれつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyouretsu toiu meishi no imi o kakunin shi ta"
+    "kana": "きょうれつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kyouretsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-強請る-832": {
-    "kana": "ねだる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nedaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "たすけ を ねだる こえ が とおく から きこえ た",
+    "romaji": "tasuke o nedaru koe ga tooku kara kikoe ta"
   },
   "jlpt-n1-弾く-461": {
-    "kana": "れいぶん で わ ひく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hiku ga ugoki ya henka o arawashi te iru"
+    "kana": "あたらしい どうぐ を はじく ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o hajiku bamen ga fue te iru"
   },
   "jlpt-n1-当たり-361": {
-    "kana": "のうと に あたり を めいし として せいり し た",
-    "romaji": "nouto ni atari o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あたり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de atari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-当て-1220": {
-    "kana": "れいぶん で わ あて が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ate ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の みせ で あて を みつけ た",
+    "romaji": "chikaku no mise de ate o mitsuke ta"
   },
   "jlpt-n1-当てはまる-1272": {
-    "kana": "あて はまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ate hamaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "この じょうけん に あてはまる ばあい わ ついか の てつづき が ひつよう だ",
+    "romaji": "kono jouken ni atehamaru baai wa tsuika no tetsuzuki ga hitsuyou da"
   },
   "jlpt-n1-役職-444": {
-    "kana": "じしょ で やくしょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yakushoku toiu meishi no imi o kakunin shi ta"
+    "kana": "やくしょく な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "yakushoku na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-彼の-12": {
-    "kana": "じしょ で かれ の という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kare no toiu meishi no imi o kakunin shi ta"
+    "kana": "あの みせ わ えき の ちかく に ある",
+    "romaji": "ano mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-彼方-1198": {
-    "kana": "のうと に かなた を めいし として せいり し た",
-    "romaji": "nouto ni kanata o meishi toshite seiri shi ta"
+    "kana": "あちら で すこし やすん で から しゅっぱつ し た",
+    "romaji": "achira de sukoshi yasun de kara shuppatsu shi ta"
   },
   "jlpt-n1-彼方此方-9": {
-    "kana": "れいぶん で わ かなた 此 かた が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanata 此 kata ga monogoto ya kangae o sashi te iru"
+    "kana": "あちこち を さがし た が さいふ わ みつから なかっ た",
+    "romaji": "achikochi o sagashi ta ga saifu wa mitsukara naka ta"
   },
   "jlpt-n1-彼此-710": {
-    "kana": "のうと に ひし を めいし として せいり し た",
-    "romaji": "nouto ni hishi o meishi toshite seiri shi ta"
+    "kana": "あれこれ に みち を たずね た",
+    "romaji": "arekore ni michi o tazune ta"
   },
   "jlpt-n1-待ち合わせ-868": {
-    "kana": "れいぶん で わ まちあわせ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa machiawase ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まちあわせ について しばらく はなし た",
+    "romaji": "tomodachi to machiawase nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-待ち望む-576": {
-    "kana": "まちのぞむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "machinozomu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で まちのぞむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de machinozomu houhou o kangae ta"
   },
   "jlpt-n1-待ち遠しい-835": {
-    "kana": "じしょ で まちどおしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de machidooshii toiu meishi no imi o kakunin shi ta"
+    "kana": "まちどおしい ひ だっ た が さいご まで あるい た",
+    "romaji": "machidooshii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-待望-480": {
-    "kana": "じしょ で たいぼう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taibou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たいぼう について しばらく はなし た",
+    "romaji": "tomodachi to taibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-待遇-250": {
-    "kana": "のうと に たいぐう を めいし として せいり し た",
-    "romaji": "nouto ni taiguu o meishi toshite seiri shi ta"
+    "kana": "ともだち と たいぐう について しばらく はなし た",
+    "romaji": "tomodachi to taiguu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-後悔-22": {
-    "kana": "のうと に こうかい を めいし として せいり し た",
-    "romaji": "nouto ni koukai o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうかい について しばらく はなし た",
+    "romaji": "tomodachi to koukai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-徒歩-34": {
-    "kana": "のうと に とほ を めいし として せいり し た",
-    "romaji": "nouto ni toho o meishi toshite seiri shi ta"
+    "kana": "とほ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "toho ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-従来-532": {
-    "kana": "れいぶん で わ じゅうらい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juurai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じゅうらい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juurai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-得点-274": {
-    "kana": "のうと に とくてん を めいし として せいり し た",
-    "romaji": "nouto ni tokuten o meishi toshite seiri shi ta"
+    "kana": "ともだち と とくてん について しばらく はなし た",
+    "romaji": "tomodachi to tokuten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-御-283": {
-    "kana": "じしょ で お という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち とご について しばらく はなし た",
+    "romaji": "tomodachi togo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-御負け-791": {
-    "kana": "じしょ で ご まけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de go make toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おまけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de omake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-微か-610": {
-    "kana": "のうと に かすか を めいし として せいり し た",
-    "romaji": "nouto ni kasuka o meishi toshite seiri shi ta"
+    "kana": "かすか な てん を さき に せつめい し た",
+    "romaji": "kasuka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-徹する-335": {
-    "kana": "れいぶん で わ てっする が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tessuru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え てっする よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tessuru yotei da"
   },
   "jlpt-n1-心中-679": {
-    "kana": "れいぶん で わ しんじゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shinjuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しんじゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinjuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-心掛け-63": {
-    "kana": "じしょ で こころがけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kokorogake toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こころがけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokorogake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-心掛ける-937": {
-    "kana": "れいぶん で わ こころがける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kokorogakeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で こころがける ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kokorogakeru houhou o kangae ta"
   },
   "jlpt-n1-心細い-926": {
-    "kana": "れいぶん で わ こころぼそい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kokorobosoi ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし こころぼそい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi kokorobosoi to kanji ta"
   },
   "jlpt-n1-志-750": {
-    "kana": "のうと に こころざし を めいし として せいり し た",
-    "romaji": "nouto ni kokorozashi o meishi toshite seiri shi ta"
+    "kana": "ともだち と こころざし について しばらく はなし た",
+    "romaji": "tomodachi to kokorozashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-志す-672": {
-    "kana": "せんせい わ こころざす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kokorozasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に こころざす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kokorozasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-志望-190": {
-    "kana": "れいぶん で わ しぼう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shibou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しぼう について しばらく はなし た",
+    "romaji": "tomodachi to shibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-忠告-56": {
-    "kana": "のうと に ちゅうこく を めいし として せいり し た",
-    "romaji": "nouto ni chuukoku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちゅうこく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuukoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-忽ち-1247": {
-    "kana": "たちまち を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "tachimachi o ireru to bun no nyuansu ga kawaru"
+    "kana": "たちまち へんじ が とどい た ので あんしん し た",
+    "romaji": "tachimachi henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-怒り-1090": {
-    "kana": "のうと に いかり を めいし として せいり し た",
-    "romaji": "nouto ni ikari o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい いかり を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ikari o oboe ta"
   },
   "jlpt-n1-怒る-1039": {
-    "kana": "れいぶん で わ おこる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa okoru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で おこる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de okoru houhou o kangae ta"
   },
   "jlpt-n1-思考-1114": {
-    "kana": "じしょ で しこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shikou toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の しこう を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no shikou o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-怠い-1161": {
-    "kana": "じしょ で おこた い という めいし の いみ を かくにん し た",
-    "romaji": "jisho de okota i toiu meishi no imi o kakunin shi ta"
+    "kana": "だるい ひ だっ た が さいご まで あるい た",
+    "romaji": "darui hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-怠慢-46": {
-    "kana": "れいぶん で わ たいまん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taiman ga monogoto ya kangae o sashi te iru"
+    "kana": "たいまん な てん を さき に せつめい し た",
+    "romaji": "taiman na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-急かす-443": {
-    "kana": "せんせい わ せかす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sekasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に せかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sekasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-恋愛-1174": {
-    "kana": "れいぶん で わ れんあい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ren'ai ga monogoto ya kangae o sashi te iru"
+    "kana": "とつぜん の しらせ に つよい れんあい を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ren'ai o oboe ta"
   },
   "jlpt-n1-恐れ-1059": {
-    "kana": "のうと に おそれ を めいし として せいり し た",
-    "romaji": "nouto ni osore o meishi toshite seiri shi ta"
+    "kana": "かいぎ で おそれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de osore nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-恥-307": {
-    "kana": "じしょ で はじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haji toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅう な おねがい で はじ し て なん ど も あたま を さげ た",
+    "romaji": "kyuu na onegai de haji shi te nan do mo atama o sage ta"
   },
   "jlpt-n1-恥じらう-605": {
-    "kana": "せんせい わ はじらう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hajirau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はじらう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hajirau houhou o kangae ta"
   },
   "jlpt-n1-悪-816": {
-    "kana": "じしょ で あく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de aku toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と あく を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to aku o mi ni i ta"
   },
   "jlpt-n1-悪化-1262": {
-    "kana": "れいぶん で わ あっか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa akka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あっか について しばらく はなし た",
+    "romaji": "tomodachi to akka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-悪戯-1228": {
-    "kana": "のうと に あくぎ を めいし として せいり し た",
-    "romaji": "nouto ni akugi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いたずら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de itazura nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-悪日-507": {
-    "kana": "のうと に あくび を めいし として せいり し た",
-    "romaji": "nouto ni akubi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あくび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de akubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-悲鳴-1065": {
-    "kana": "れいぶん で わ ひめい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa himei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ひめい について しばらく はなし た",
+    "romaji": "tomodachi to himei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-情熱-841": {
-    "kana": "のうと に じょうねつ を めいし として せいり し た",
-    "romaji": "nouto ni jounetsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じょうねつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jounetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-意向-167": {
-    "kana": "のうと に いこう を めいし として せいり し た",
-    "romaji": "nouto ni ikou o meishi toshite seiri shi ta"
+    "kana": "かれ の いこう を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no ikou o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-意図-221": {
-    "kana": "のうと に いと を めいし として せいり し た",
-    "romaji": "nouto ni ito o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ito nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-意地-53": {
-    "kana": "じしょ で いじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de iji toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい いじ を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi iji o oboe ta"
   },
   "jlpt-n1-意気込む-1031": {
-    "kana": "れいぶん で わ いきごむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ikigomu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で いきごむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ikigomu houhou o kangae ta"
   },
   "jlpt-n1-愚か-359": {
-    "kana": "れいぶん で わ おろか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oroka ga monogoto ya kangae o sashi te iru"
+    "kana": "おろか な てん を さき に せつめい し た",
+    "romaji": "oroka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-愛憎-212": {
-    "kana": "じしょ で あいぞう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de aizou toiu meishi no imi o kakunin shi ta"
+    "kana": "あいにく な てん を さき に せつめい し た",
+    "romaji": "ainiku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-感染-373": {
-    "kana": "のうと に かんせん を めいし として せいり し た",
-    "romaji": "nouto ni kansen o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんせん について しばらく はなし た",
+    "romaji": "tomodachi to kansen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-感触-1056": {
-    "kana": "れいぶん で わ かんしょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanshoku ga monogoto ya kangae o sashi te iru"
+    "kana": "とつぜん の しらせ に つよい かんしょく を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kanshoku o oboe ta"
   },
   "jlpt-n1-態々-1204": {
-    "kana": "れいぶん で わ たい が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa tai ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "わざわざ この ぶぶん を ていねい に よん だ",
+    "romaji": "wazawaza kono bubun o teinei ni yon da"
   },
   "jlpt-n1-慌ただしい-484": {
-    "kana": "じしょ で あわただしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de awatadashii toiu meishi no imi o kakunin shi ta"
+    "kana": "その せつめい わ すこし あわただしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi awatadashii to kanji ta"
   },
   "jlpt-n1-慣らす-878": {
-    "kana": "せんせい わ ならす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa narasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ならす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni narasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-慣れ-975": {
-    "kana": "れいぶん で わ なれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nare ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と なれ について しばらく はなし た",
+    "romaji": "tomodachi to nare nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-慣例-1127": {
-    "kana": "じしょ で かんれい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kanrei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かんれい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanrei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-慣習-1138": {
-    "kana": "のうと に かんしゅう を めいし として せいり し た",
-    "romaji": "nouto ni kanshuu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かんしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-慣行-442": {
-    "kana": "のうと に かんこう を めいし として せいり し た",
-    "romaji": "nouto ni kankou o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんこう について しばらく はなし た",
+    "romaji": "tomodachi to kankou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-憂鬱-426": {
-    "kana": "のうと に ゆううつ を めいし として せいり し た",
-    "romaji": "nouto ni yuuutsu o meishi toshite seiri shi ta"
+    "kana": "ゆううつ な てん を さき に せつめい し た",
+    "romaji": "yuuutsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-憎しみ-456": {
-    "kana": "れいぶん で わ にくしみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nikushimi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で にくしみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nikushimi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-憤慨-275": {
-    "kana": "じしょ で ふんがい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fungai toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい ふんがい を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi fungai o oboe ta"
   },
   "jlpt-n1-懐く-133": {
-    "kana": "れいぶん で わ いだく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa idaku ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に いだく ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni idaku koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-成り立つ-1145": {
-    "kana": "れいぶん で わ なりたつ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa naritatsu ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に なりたつ ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni naritatsu koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-成るべく-919": {
-    "kana": "なる べく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "naru beku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "なるべく じかん が あれ ば もういちど あい たい",
+    "romaji": "narubeku jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-成熟-60": {
-    "kana": "じしょ で せいじゅく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seijuku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せいじゅく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seijuku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-我がまま-760": {
-    "kana": "のうと に わがまま を めいし として せいり し た",
-    "romaji": "nouto ni wagamama o meishi toshite seiri shi ta"
+    "kana": "わがまま な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "wagamama na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-戦-362": {
-    "kana": "のうと に せん を めいし として せいり し た",
-    "romaji": "nouto ni sen o meishi toshite seiri shi ta"
+    "kana": "せん が こっきょう ちかく に はいち さ れ た",
+    "romaji": "sen ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-戦術-1190": {
-    "kana": "のうと に せんじゅつ を めいし として せいり し た",
-    "romaji": "nouto ni senjutsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で せんじゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senjutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-戸-149": {
-    "kana": "のうと に と を めいし として せいり し た",
-    "romaji": "nouto ni to o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に と を おい て から でかけ た",
+    "romaji": "tsukue no ue ni to o oi te kara dekake ta"
   },
   "jlpt-n1-所々-452": {
-    "kana": "のうと に ところどころ を めいし として せいり し た",
-    "romaji": "nouto ni tokorodokoro o meishi toshite seiri shi ta"
+    "kana": "ところどころ を さがし た が さいふ わ みつから なかっ た",
+    "romaji": "tokorodokoro o sagashi ta ga saifu wa mitsukara naka ta"
   },
   "jlpt-n1-手分け-178": {
-    "kana": "のうと に てわけ を めいし として せいり し た",
-    "romaji": "nouto ni tewake o meishi toshite seiri shi ta"
+    "kana": "きょう の てわけ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no tewake wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-手当て-301": {
-    "kana": "じしょ で てあて という めいし の いみ を かくにん し た",
-    "romaji": "jisho de teate toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で てあて について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teate nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-手数-366": {
-    "kana": "のうと に てすう を めいし として せいり し た",
-    "romaji": "nouto ni tesuu o meishi toshite seiri shi ta"
+    "kana": "うけつけ で てすう を よば れる まで まっ た",
+    "romaji": "uketsuke de tesuu o yoba reru made ma ta"
   },
   "jlpt-n1-手本-156": {
-    "kana": "じしょ で てほん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tehon toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と てほん について しばらく はなし た",
+    "romaji": "tomodachi to tehon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-手軽-763": {
-    "kana": "じしょ で てがる という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tegaru toiu meishi no imi o kakunin shi ta"
+    "kana": "てがる な てん を さき に せつめい し た",
+    "romaji": "tegaru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-手近-838": {
-    "kana": "れいぶん で わ てぢか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tejika ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で てぢか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tejika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-手遅れ-260": {
-    "kana": "じしょ で ておくれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de teokure toiu meishi no imi o kakunin shi ta"
+    "kana": "きづい た とき に わ もう ておくれ だっ た",
+    "romaji": "kizui ta toki ni wa mou teokure da ta"
   },
   "jlpt-n1-打ち合わせる-374": {
-    "kana": "うちあわ せる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "uchiawa seru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい あん を うちあわ せる かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o uchiawa seru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n1-打開-249": {
-    "kana": "じしょ で だかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dakai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で だかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dakai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-承諾-1205": {
-    "kana": "のうと に しょうだく を めいし として せいり し た",
-    "romaji": "nouto ni shoudaku o meishi toshite seiri shi ta"
+    "kana": "かれ の いけん に しょうだく し て ふかく うなずい た",
+    "romaji": "kare no iken ni shoudaku shi te fukaku unazui ta"
   },
   "jlpt-n1-技-540": {
-    "kana": "れいぶん で わ わざ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa waza ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で わざ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de waza nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-把握-1270": {
-    "kana": "じしょ で はあく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はあく について しばらく はなし た",
+    "romaji": "tomodachi to haaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-抑制-1194": {
-    "kana": "じしょ で よくせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yokusei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で よくせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yokusei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-抑圧-409": {
-    "kana": "れいぶん で わ よくあつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yokuatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で よくあつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yokuatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-投げ出す-239": {
-    "kana": "なげだす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nagedasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で なげだす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nagedasu houhou o kangae ta"
   },
   "jlpt-n1-投入-119": {
-    "kana": "じしょ で とうにゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tounyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で とうにゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tounyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-抗議-36": {
-    "kana": "のうと に こうぎ を めいし として せいり し た",
-    "romaji": "nouto ni kougi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こうぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kougi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-折り返す-353": {
-    "kana": "せんせい わ おりかえす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa orikaesu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え おりかえす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e orikaesu yotei da"
   },
   "jlpt-n1-折衷-533": {
-    "kana": "じしょ で せっちゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de setchuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せっちゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de setchuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-押し寄せる-793": {
-    "kana": "れいぶん で わ おしよせる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa oshiyoseru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で おしよせる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de oshiyoseru houhou o kangae ta"
   },
   "jlpt-n1-拐う-264": {
-    "kana": "さらう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sarau wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで さらう ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made sarau hito o sagashi ta"
   },
   "jlpt-n1-持ち切り-206": {
-    "kana": "れいぶん で わ もちきり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mochikiri ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と もちきり について しばらく はなし た",
+    "romaji": "tomodachi to mochikiri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-持て成す-677": {
-    "kana": "れいぶん で わ もてなす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa motenasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で もてなす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de motenasu houhou o kangae ta"
   },
   "jlpt-n1-持続-293": {
-    "kana": "のうと に じぞく を めいし として せいり し た",
-    "romaji": "nouto ni jizoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と じぞく について しばらく はなし た",
+    "romaji": "tomodachi to jizoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-指差す-1237": {
-    "kana": "ゆび さす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "yubi sasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ちず で もくてき ち を ゆび さす ゆび を み た",
+    "romaji": "chizu de mokuteki chi o yubi sasu yubi o mi ta"
   },
   "jlpt-n1-挑む-188": {
-    "kana": "れいぶん で わ いどむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa idomu ga ugoki ya henka o arawashi te iru"
+    "kana": "かぞく を いどむ きもち を たいせつ に し て いる",
+    "romaji": "kazoku o idomu kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n1-挑戦-1249": {
-    "kana": "れいぶん で わ ちょうせん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chousen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちょうせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chousen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-振興-560": {
-    "kana": "じしょ で しんこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinkou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しんこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinkou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-捕吏-591": {
-    "kana": "れいぶん で わ ほり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hori ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ほり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-捕鯨-934": {
-    "kana": "のうと に ほげい を めいし として せいり し た",
-    "romaji": "nouto ni hogei o meishi toshite seiri shi ta"
+    "kana": "ともだち と ほげい について しばらく はなし た",
+    "romaji": "tomodachi to hogei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-捗る-130": {
-    "kana": "せんせい わ はかどる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hakadoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はかどる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hakadoru houhou o kangae ta"
   },
   "jlpt-n1-捜索-671": {
-    "kana": "のうと に そうさく を めいし として せいり し た",
-    "romaji": "nouto ni sousaku o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる そうさく に こえ を かけ た",
+    "romaji": "koma te iru sousaku ni koe o kake ta"
   },
   "jlpt-n1-据える-482": {
-    "kana": "れいぶん で わ すえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sueru ga ugoki ya henka o arawashi te iru"
+    "kana": "この じょうけん に すえる ばあい わ ついか の てつづき が ひつよう だ",
+    "romaji": "kono jouken ni sueru baai wa tsuika no tetsuzuki ga hitsuyou da"
   },
   "jlpt-n1-据え付ける-996": {
-    "kana": "せんせい わ すえつける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa suetsukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に すえつける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni suetsukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-排除-172": {
-    "kana": "のうと に はいじょ を めいし として せいり し た",
-    "romaji": "nouto ni haijo o meishi toshite seiri shi ta"
+    "kana": "ともだち と はいじょ について しばらく はなし た",
+    "romaji": "tomodachi to haijo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-採択-554": {
-    "kana": "じしょ で さいたく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saitaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と さいたく について しばらく はなし た",
+    "romaji": "tomodachi to saitaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-採掘-943": {
-    "kana": "のうと に さいくつ を めいし として せいり し た",
-    "romaji": "nouto ni saikutsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と さいくつ について しばらく はなし た",
+    "romaji": "tomodachi to saikutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-採決-954": {
-    "kana": "じしょ で さいけつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saiketsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と さいけつ について しばらく はなし た",
+    "romaji": "tomodachi to saiketsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-接ぐ-1108": {
-    "kana": "せんせい わ つぐ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsugu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つぐ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsugu houhou o kangae ta"
   },
   "jlpt-n1-控室-292": {
-    "kana": "れいぶん で わ ひかえしつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hikaeshitsu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ひかえしつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni hikaeshitsu e iku michi o shirabe ta"
   },
   "jlpt-n1-推測-1010": {
-    "kana": "のうと に すいそく を めいし として せいり し た",
-    "romaji": "nouto ni suisoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と すいそく について しばらく はなし た",
+    "romaji": "tomodachi to suisoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-措置-269": {
-    "kana": "れいぶん で わ そち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sochi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で そち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sochi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-掲載-91": {
-    "kana": "じしょ で けいさい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keisai toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に けいさい を おい て から でかけ た",
+    "romaji": "tsukue no ue ni keisai o oi te kara dekake ta"
   },
   "jlpt-n1-提示-861": {
-    "kana": "じしょ で ていじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de teiji toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ていじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teiji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-揶揄う-637": {
-    "kana": "やゆ う わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "yayu u wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "がらす が からかう おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga karakau oto ga shi te minna ga furimui ta"
   },
   "jlpt-n1-揺さぶる-102": {
-    "kana": "せんせい わ ゆさぶる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yusaburu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ゆさぶる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni yusaburu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-損なう-1110": {
-    "kana": "れいぶん で わ そこなう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sokonau ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を そこなう はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o sokonau hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n1-操る-992": {
-    "kana": "せんせい わ あやつる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ayatsuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で あやつる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ayatsuru houhou o kangae ta"
   },
   "jlpt-n1-擦る-1015": {
-    "kana": "せんせい わ こする を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kosuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "うで が かべ を こする する おと が し た",
+    "romaji": "ude ga kabe o kosuru suru oto ga shi ta"
   },
   "jlpt-n1-改悪-492": {
-    "kana": "れいぶん で わ かいあく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaiaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かいあく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaiaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-改良-904": {
-    "kana": "れいぶん で わ かいりょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kairyou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かいりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kairyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-放り出す-182": {
-    "kana": "ほうりだす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "houridasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ほうりだす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni houridasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-放射能-740": {
-    "kana": "のうと に ほうしゃのう を めいし として せいり し た",
-    "romaji": "nouto ni houshanou o meishi toshite seiri shi ta"
+    "kana": "こうじょう に ひつよう な ほうしゃのう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na houshanou o asa no uchi ni atsume ta"
   },
   "jlpt-n1-放棄-564": {
-    "kana": "じしょ で ほうき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de houki toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の ほうき わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no houki wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-故-1146": {
-    "kana": "じしょ で ゆえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yue toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆえ が こっきょう ちかく に はいち さ れ た",
+    "romaji": "yue ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-故人-439": {
-    "kana": "のうと に こじん を めいし として せいり し た",
-    "romaji": "nouto ni kojin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kojin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-敏感-413": {
-    "kana": "れいぶん で わ びんかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa binkan ga monogoto ya kangae o sashi te iru"
+    "kana": "びんかん な てん を さき に せつめい し た",
+    "romaji": "binkan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-教材-435": {
-    "kana": "じしょ で きょうざい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyouzai toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な きょうざい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kyouzai o asa no uchi ni atsume ta"
   },
   "jlpt-n1-教科-690": {
-    "kana": "じしょ で きょうか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyouka toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きょうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-教習-1213": {
-    "kana": "れいぶん で わ きょうしゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyoushuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きょうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyoushuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-教職-1216": {
-    "kana": "のうと に きょうしょく を めいし として せいり し た",
-    "romaji": "nouto ni kyoushoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と きょうしょく について しばらく はなし た",
+    "romaji": "tomodachi to kyoushoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-数詞-1210": {
-    "kana": "じしょ で すうし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de suushi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と すうし について しばらく はなし た",
+    "romaji": "tomodachi to suushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-文化財-1253": {
-    "kana": "じしょ で ぶんかざい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bunkazai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぶんかざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bunkazai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-文書-495": {
-    "kana": "のうと に ぶんしょ を めいし として せいり し た",
-    "romaji": "nouto ni bunsho o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ぶんしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni bunsho o oi te kara dekake ta"
   },
   "jlpt-n1-斑-386": {
-    "kana": "じしょ で むら という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mura toiu meishi no imi o kakunin shi ta"
+    "kana": "むら な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "mura na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-料-290": {
-    "kana": "のうと に りょう を めいし として せいり し た",
-    "romaji": "nouto ni ryou o meishi toshite seiri shi ta"
+    "kana": "りょう の てつづき を きげん まで に すませ た",
+    "romaji": "ryou no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-断言-962": {
-    "kana": "れいぶん で わ だんげん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dangen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で だんげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dangen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-施設-279": {
-    "kana": "じしょ で しせつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shisetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "しせつ が こっきょう ちかく に はいち さ れ た",
+    "romaji": "shisetsu ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-旅客-995": {
-    "kana": "れいぶん で わ りょかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryokaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で りょかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryokaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-日当-548": {
-    "kana": "じしょ で にっとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nittou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で にっとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nittou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-日頃-1259": {
-    "kana": "のうと に ひごろ を めいし として せいり し た",
-    "romaji": "nouto ni higoro o meishi toshite seiri shi ta"
+    "kana": "ひごろ に だいじ な よてい が はいっ て いる",
+    "romaji": "higoro ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-旧事-414": {
-    "kana": "のうと に きゅう こと を めいし として せいり し た",
-    "romaji": "nouto ni kyuu koto o meishi toshite seiri shi ta"
+    "kana": "かいぎ で くじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kuji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-旧知-1116": {
-    "kana": "れいぶん で わ きゅうち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuuchi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きゅうち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuuchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-早める-4": {
-    "kana": "せんせい わ はやめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hayameru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "おもい にもつ を えき まで はやめる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made hayameru hito o sagashi ta"
   },
   "jlpt-n1-明かす-1221": {
-    "kana": "せんせい わ あかす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa akasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で あかす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de akasu houhou o kangae ta"
   },
   "jlpt-n1-明るい-795": {
-    "kana": "あかるい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "akarui o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "おもっ た より あかるい もんだい だっ た",
+    "romaji": "omo ta yori akarui mondai da ta"
   },
   "jlpt-n1-明朗-1113": {
-    "kana": "のうと に めいろう を めいし として せいり し た",
-    "romaji": "nouto ni meirou o meishi toshite seiri shi ta"
+    "kana": "めいろう な まち を ゆっくり あるい た",
+    "romaji": "meirou na machi o yukkuri arui ta"
   },
   "jlpt-n1-明白-270": {
-    "kana": "れいぶん で わ めいはく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa meihaku ga monogoto ya kangae o sashi te iru"
+    "kana": "めいはく な てん を さき に せつめい し た",
+    "romaji": "meihaku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-明瞭-116": {
-    "kana": "のうと に めいりょう を めいし として せいり し た",
-    "romaji": "nouto ni meiryou o meishi toshite seiri shi ta"
+    "kana": "めいりょう な てん を さき に せつめい し た",
+    "romaji": "meiryou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-映写-987": {
-    "kana": "じしょ で えいしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de eisha toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と えいしゃ について しばらく はなし た",
+    "romaji": "tomodachi to eisha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-是正-1078": {
-    "kana": "れいぶん で わ ぜせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zesei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぜせい について しばらく はなし た",
+    "romaji": "tomodachi to zesei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-時刻表-1001": {
-    "kana": "れいぶん で わ じこく ひょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jikoku hyou ga monogoto ya kangae o sashi te iru"
+    "kana": "しりょう の じこく ひょう に すうじ を まとめ た",
+    "romaji": "shiryou no jikoku hyou ni suuji o matome ta"
   },
   "jlpt-n1-時差-244": {
-    "kana": "れいぶん で わ じさ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jisa ga monogoto ya kangae o sashi te iru"
+    "kana": "じさ に だいじ な よてい が はいっ て いる",
+    "romaji": "jisa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-普遍-674": {
-    "kana": "れいぶん で わ ふへん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fuhen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ふへん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fuhen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-晴天-799": {
-    "kana": "のうと に せいてん を めいし として せいり し た",
-    "romaji": "nouto ni seiten o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と せいてん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to seiten ga totemo kirei ni mie ta"
   },
   "jlpt-n1-暇-224": {
-    "kana": "じしょ で ひま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hima toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ひま が あれ ば えいが を み に いき たい",
+    "romaji": "shuumatsu ni hima ga are ba eiga o mi ni iki tai"
   },
   "jlpt-n1-暗殺-707": {
-    "kana": "のうと に あんさつ を めいし として せいり し た",
-    "romaji": "nouto ni ansatsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と あんさつ について しばらく はなし た",
+    "romaji": "tomodachi to ansatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-暗算-872": {
-    "kana": "じしょ で あんざん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de anzan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で あんざん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de anzan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-暫く-1183": {
-    "kana": "しばらく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shibaraku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しばらく よてい を へんこう し た",
+    "romaji": "shibaraku yotei o henkou shi ta"
   },
   "jlpt-n1-暴力-936": {
-    "kana": "れいぶん で わ ぼうりょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bouryoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぼうりょく について しばらく はなし た",
+    "romaji": "tomodachi to bouryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-暴動-208": {
-    "kana": "のうと に ぼうどう を めいし として せいり し た",
-    "romaji": "nouto ni boudou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぼうどう について しばらく はなし た",
+    "romaji": "tomodachi to boudou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-暴露-867": {
-    "kana": "のうと に ばくろ を めいし として せいり し た",
-    "romaji": "nouto ni bakuro o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ばくろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bakuro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-曖昧-198": {
-    "kana": "れいぶん で わ あいまい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aimai ga monogoto ya kangae o sashi te iru"
+    "kana": "あいまい な てん を さき に せつめい し た",
+    "romaji": "aimai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-曲-552": {
-    "kana": "じしょ で きょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyoku toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と きょく を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to kyoku o mi ni i ta"
   },
   "jlpt-n1-書き取り-655": {
-    "kana": "じしょ で かきとり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kakitori toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な かきとり を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kakitori o asa no uchi ni atsume ta"
   },
   "jlpt-n1-書き取る-614": {
-    "kana": "かきとる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kakitoru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "たな から にもつ を かきとる とき わ あしもと に き を つける",
+    "romaji": "tana kara nimotsu o kakitoru toki wa ashimoto ni ki o tsukeru"
   },
   "jlpt-n1-月日-1004": {
-    "kana": "のうと に つきひ を めいし として せいり し た",
-    "romaji": "nouto ni tsukihi o meishi toshite seiri shi ta"
+    "kana": "つきひ に だいじ な よてい が はいっ て いる",
+    "romaji": "tsukihi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-月賦-587": {
-    "kana": "じしょ で げっぷ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de geppu toiu meishi no imi o kakunin shi ta"
+    "kana": "げっぷ の てつづき を きげん まで に すませ た",
+    "romaji": "geppu no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-有りのまま-653": {
-    "kana": "じしょ で あり の まま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ari no mama toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ありのまま について しばらく はなし た",
+    "romaji": "tomodachi to arinomama nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-有力-115": {
-    "kana": "じしょ で ゆうりょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuuryoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうりょく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuuryoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-有様-1214": {
-    "kana": "じしょ で ありさま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de arisama toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ありさま について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de arisama nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-有機-1085": {
-    "kana": "れいぶん で わ ゆうき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuuki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ゆうき について しばらく はなし た",
+    "romaji": "tomodachi to yuuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-朝寝坊-146": {
-    "kana": "のうと に あさねぼう を めいし として せいり し た",
-    "romaji": "nouto ni asanebou o meishi toshite seiri shi ta"
+    "kana": "あさねぼう に だいじ な よてい が はいっ て いる",
+    "romaji": "asanebou ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-未-623": {
-    "kana": "じしょ で ひつじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hitsuji toiu meishi no imi o kakunin shi ta"
+    "kana": "ひつじ に だいじ な よてい が はいっ て いる",
+    "romaji": "hitsuji ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-未だ-1017": {
-    "kana": "じしょ で ひつじ だ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hitsuji da toiu meishi no imi o kakunin shi ta"
+    "kana": "いまだ よてい を へんこう し た",
+    "romaji": "imada yotei o henkou shi ta"
   },
   "jlpt-n1-未婚-405": {
-    "kana": "じしょ で みこん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mikon toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で みこん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mikon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-未知-922": {
-    "kana": "れいぶん で わ みち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa michi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で みち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de michi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-未練-927": {
-    "kana": "のうと に みれん を めいし として せいり し た",
-    "romaji": "nouto ni miren o meishi toshite seiri shi ta"
+    "kana": "みれん な てん を さき に せつめい し た",
+    "romaji": "miren na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-末-1091": {
-    "kana": "じしょ で すえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sue toiu meishi no imi o kakunin shi ta"
+    "kana": "すえ に だいじ な よてい が はいっ て いる",
+    "romaji": "sue ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-本の-546": {
-    "kana": "れいぶん で わ ほん の が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hon no ga monogoto ya kangae o sashi te iru"
+    "kana": "ほんの みせ わ えき の ちかく に ある",
+    "romaji": "honno mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-本体-162": {
-    "kana": "じしょ で ほんたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hontai toiu meishi no imi o kakunin shi ta"
+    "kana": "ほんたい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hontai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-本名-78": {
-    "kana": "のうと に ほんみょう を めいし として せいり し た",
-    "romaji": "nouto ni honmyou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ほんみょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de honmyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-本格-297": {
-    "kana": "れいぶん で わ ほんかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa honkaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ほんかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de honkaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-本気-199": {
-    "kana": "じしょ で ほんき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de honki toiu meishi no imi o kakunin shi ta"
+    "kana": "ほんき な てん を さき に せつめい し た",
+    "romaji": "honki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-束縛-261": {
-    "kana": "のうと に そくばく を めいし として せいり し た",
-    "romaji": "nouto ni sokubaku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で そくばく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sokubaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-条約-1062": {
-    "kana": "のうと に じょうやく を めいし として せいり し た",
-    "romaji": "nouto ni jouyaku o meishi toshite seiri shi ta"
+    "kana": "かれ の いけん に じょうやく し て ふかく うなずい た",
+    "romaji": "kare no iken ni jouyaku shi te fukaku unazui ta"
   },
   "jlpt-n1-杯-1283": {
-    "kana": "れいぶん で わ はい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hai ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうけい ちゅう に あたたかい はい を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai hai o ippai non da"
   },
   "jlpt-n1-東-1140": {
-    "kana": "じしょ で ひがし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de higashi toiu meishi no imi o kakunin shi ta"
+    "kana": "ひがし の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "higashi no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n1-枚-1019": {
-    "kana": "のうと に まい を めいし として せいり し た",
-    "romaji": "nouto ni mai o meishi toshite seiri shi ta"
+    "kana": "ちかく の みせ で まい を みつけ た",
+    "romaji": "chikaku no mise de mai o mitsuke ta"
   },
   "jlpt-n1-果て-14": {
-    "kana": "のうと に はて を めいし として せいり し た",
-    "romaji": "nouto ni hate o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はて について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hate nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-果ない-580": {
-    "kana": "はて ない を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "hate nai o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "はかない みち を ゆっくり あるい た",
+    "romaji": "hakanai michi o yukkuri arui ta"
   },
   "jlpt-n1-染める-29": {
-    "kana": "れいぶん で わ そめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa someru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で そめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de someru houhou o kangae ta"
   },
   "jlpt-n1-柔軟-1239": {
-    "kana": "れいぶん で わ じゅうなん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juunan ga monogoto ya kangae o sashi te iru"
+    "kana": "じゅうなん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "juunan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-核-1265": {
-    "kana": "のうと に かく を めいし として せいり し た",
-    "romaji": "nouto ni kaku o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に かく を すこし たべ た",
+    "romaji": "hiru gohan ni kaku o sukoshi tabe ta"
   },
   "jlpt-n1-根本-338": {
-    "kana": "じしょ で こんぽん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de konpon toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こんぽん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de konpon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-根気-1115": {
-    "kana": "じしょ で こんき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de konki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こんき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de konki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-格-318": {
-    "kana": "れいぶん で わ かく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かく について しばらく はなし た",
+    "romaji": "tomodachi to kaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-栽培-299": {
-    "kana": "じしょ で さいばい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saibai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と さいばい について しばらく はなし た",
+    "romaji": "tomodachi to saibai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-案じる-1153": {
-    "kana": "せんせい わ あんじる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa anjiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で あんじる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de anjiru houhou o kangae ta"
   },
   "jlpt-n1-梅干-147": {
-    "kana": "れいぶん で わ うめぼし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa umeboshi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うめぼし について しばらく はなし た",
+    "romaji": "tomodachi to umeboshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-梢-508": {
-    "kana": "のうと に こずえ を めいし として せいり し た",
-    "romaji": "nouto ni kozue o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こずえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kozue nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-梯子-381": {
-    "kana": "じしょ で はしご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hashigo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はしご について しばらく はなし た",
+    "romaji": "tomodachi to hashigo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-棄権-932": {
-    "kana": "れいぶん で わ きけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kiken ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きけん について しばらく はなし た",
+    "romaji": "tomodachi to kiken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-植わる-204": {
-    "kana": "れいぶん で わ うわる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa uwaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で うわる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de uwaru houhou o kangae ta"
   },
   "jlpt-n1-業績-521": {
-    "kana": "れいぶん で わ ぎょうせき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gyouseki ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ぎょうせき わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no gyouseki wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-業者-20": {
-    "kana": "のうと に ぎょうしゃ を めいし として せいり し た",
-    "romaji": "nouto ni gyousha o meishi toshite seiri shi ta"
+    "kana": "しんらい できる ぎょうしゃ に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru gyousha ni shuuri o tanon da"
   },
   "jlpt-n1-極めて-1098": {
-    "kana": "のうと に きわめて を めいし として せいり し た",
-    "romaji": "nouto ni kiwamete o meishi toshite seiri shi ta"
+    "kana": "きわめて へんじ が とどい た ので あんしん し た",
+    "romaji": "kiwamete henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-極端-1232": {
-    "kana": "じしょ で きょくたん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyokutan toiu meishi no imi o kakunin shi ta"
+    "kana": "きょくたん な てん を さき に せつめい し た",
+    "romaji": "kyokutan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-楽しむ-800": {
-    "kana": "たのしむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tanoshimu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "きゅうじつ に ともだち と げえむ に たのしむ じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni tanoshimu jikan o tanoshin da"
   },
   "jlpt-n1-楽譜-474": {
-    "kana": "のうと に がくふ を めいし として せいり し た",
-    "romaji": "nouto ni gakufu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と がくふ を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to gakufu o mi ni i ta"
   },
   "jlpt-n1-概念-1276": {
-    "kana": "じしょ で がいねん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gainen toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の がいねん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no gainen o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-様相-989": {
-    "kana": "れいぶん で わ ようそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yousou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ようそう について しばらく はなし た",
+    "romaji": "tomodachi to yousou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-模倣-312": {
-    "kana": "のうと に もほう を めいし として せいり し た",
-    "romaji": "nouto ni mohou o meishi toshite seiri shi ta"
+    "kana": "ともだち と もほう について しばらく はなし た",
+    "romaji": "tomodachi to mohou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-模範-110": {
-    "kana": "れいぶん で わ もはん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mohan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と もはん について しばらく はなし た",
+    "romaji": "tomodachi to mohan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-権-765": {
-    "kana": "れいぶん で わ けん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ken ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けん について しばらく はなし た",
+    "romaji": "tomodachi to ken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-権力-1231": {
-    "kana": "のうと に けんりょく を めいし として せいり し た",
-    "romaji": "nouto ni kenryoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と けんりょく について しばらく はなし た",
+    "romaji": "tomodachi to kenryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-横綱-118": {
-    "kana": "じしょ で よこづな という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yokozuna toiu meishi no imi o kakunin shi ta"
+    "kana": "あめあがり の よこづな に そら が うつっ て い た",
+    "romaji": "ameagari no yokozuna ni sora ga utsu te i ta"
   },
   "jlpt-n1-樹木-853": {
-    "kana": "じしょ で じゅもく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jumoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と じゅもく が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to jumoku ga totemo kirei ni mie ta"
   },
   "jlpt-n1-橋渡し-670": {
-    "kana": "じしょ で はしわたし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hashiwatashi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はしわたし について しばらく はなし た",
+    "romaji": "tomodachi to hashiwatashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-檻-1141": {
-    "kana": "れいぶん で わ おり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ori ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で おり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-欠乏-967": {
-    "kana": "のうと に けつぼう を めいし として せいり し た",
-    "romaji": "nouto ni ketsubou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けつぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ketsubou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-次-1151": {
-    "kana": "じしょ で つぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsugi toiu meishi no imi o kakunin shi ta"
+    "kana": "しの ほうほう で もんだい を かいけつ し た",
+    "romaji": "shino houhou de mondai o kaiketsu shi ta"
   },
   "jlpt-n1-次いで-887": {
-    "kana": "れいぶん で わ ついで が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tsuide ga monogoto ya kangae o sashi te iru"
+    "kana": "ついで へんじ が とどい た ので あんしん し た",
+    "romaji": "tsuide henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-正常-81": {
-    "kana": "のうと に せいじょう を めいし として せいり し た",
-    "romaji": "nouto ni seijou o meishi toshite seiri shi ta"
+    "kana": "せいじょう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "seijou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-正当-43": {
-    "kana": "じしょ で せいとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seitou toiu meishi no imi o kakunin shi ta"
+    "kana": "せいとう な てん を さき に せつめい し た",
+    "romaji": "seitou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-正解-460": {
-    "kana": "じしょ で せいかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seikai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せいかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seikai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-此の-420": {
-    "kana": "じしょ で 此 の という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 此 no toiu meishi no imi o kakunin shi ta"
+    "kana": "この みせ わ えき の ちかく に ある",
+    "romaji": "kono mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-此れ-241": {
-    "kana": "じしょ で 此 れ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 此 re toiu meishi no imi o kakunin shi ta"
+    "kana": "これ に だいじ な よてい が はいっ て いる",
+    "romaji": "kore ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-武力-1132": {
-    "kana": "れいぶん で わ ぶりょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa buryoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ぶりょく が こっきょう ちかく に はいち さ れ た",
+    "romaji": "buryoku ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-武装-1267": {
-    "kana": "れいぶん で わ ぶそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa busou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぶそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de busou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-歩-628": {
-    "kana": "じしょ で あゆみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ayumi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ふ について しばらく はなし た",
+    "romaji": "tomodachi to fu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-歩む-383": {
-    "kana": "れいぶん で わ あゆむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ayumu ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え あゆむ よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e ayumu yotei da"
   },
   "jlpt-n1-歯科-1053": {
-    "kana": "れいぶん で わ しか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shika ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-残酷-1163": {
-    "kana": "じしょ で ざんこく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zankoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ざんこく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "zankoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-残高-1109": {
-    "kana": "のうと に ざんだか を めいし として せいり し た",
-    "romaji": "nouto ni zandaka o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ざんだか え いく みち を しらべ た",
+    "romaji": "shuumatsu ni zandaka e iku michi o shirabe ta"
   },
   "jlpt-n1-殴る-478": {
-    "kana": "なぐる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "naguru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で なぐる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de naguru houhou o kangae ta"
   },
   "jlpt-n1-殺人-939": {
-    "kana": "れいぶん で わ さつじん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa satsujin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で さつじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de satsujin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-毎-1103": {
-    "kana": "れいぶん で わ ごと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa goto ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ごと について しばらく はなし た",
+    "romaji": "tomodachi to goto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-毟る-289": {
-    "kana": "むしる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mushiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に むしる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni mushiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-民俗-543": {
-    "kana": "れいぶん で わ みんぞく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa minzoku ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な みんぞく の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na minzoku no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-民族-977": {
-    "kana": "れいぶん で わ みんぞく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa minzoku ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な みんぞく の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na minzoku no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-気品-1042": {
-    "kana": "のうと に きひん を めいし として せいり し た",
-    "romaji": "nouto ni kihin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きひん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kihin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-気流-341": {
-    "kana": "のうと に きりゅう を めいし として せいり し た",
-    "romaji": "nouto ni kiryuu o meishi toshite seiri shi ta"
+    "kana": "ともだち と きりゅう について しばらく はなし た",
+    "romaji": "tomodachi to kiryuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-気立て-499": {
-    "kana": "のうと に きだて を めいし として せいり し た",
-    "romaji": "nouto ni kidate o meishi toshite seiri shi ta"
+    "kana": "ともだち と きだて について しばらく はなし た",
+    "romaji": "tomodachi to kidate nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-気軽-529": {
-    "kana": "れいぶん で わ きがる が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kigaru ga monogoto ya kangae o sashi te iru"
+    "kana": "きがる な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kigaru na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-気風-968": {
-    "kana": "のうと に きふう を めいし として せいり し た",
-    "romaji": "nouto ni kifuu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きふう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kifuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-水気-719": {
-    "kana": "じしょ で みずけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mizuke toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい みずけ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai mizuke o ippai non da"
   },
   "jlpt-n1-水田-843": {
-    "kana": "のうと に すいでん を めいし として せいり し た",
-    "romaji": "nouto ni suiden o meishi toshite seiri shi ta"
+    "kana": "あめあがり の すいでん に そら が うつっ て い た",
+    "romaji": "ameagari no suiden ni sora ga utsu te i ta"
   },
   "jlpt-n1-決まり悪い-412": {
-    "kana": "れいぶん で わ きまり わるい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kimari warui ga monogoto ya kangae o sashi te iru"
+    "kana": "とつぜん の しらせ に つよい きまり わるい を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kimari warui o oboe ta"
   },
   "jlpt-n1-決勝-1241": {
-    "kana": "れいぶん で わ けっしょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kesshou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けっしょう について しばらく はなし た",
+    "romaji": "tomodachi to kesshou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-決断-1218": {
-    "kana": "のうと に けつだん を めいし として せいり し た",
-    "romaji": "nouto ni ketsudan o meishi toshite seiri shi ta"
+    "kana": "ともだち と けつだん について しばらく はなし た",
+    "romaji": "tomodachi to ketsudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-決算-588": {
-    "kana": "じしょ で けっさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kessan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と けっさん について しばらく はなし た",
+    "romaji": "tomodachi to kessan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-決行-268": {
-    "kana": "れいぶん で わ けっこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kekkou ga monogoto ya kangae o sashi te iru"
+    "kana": "けっこう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kekkou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-汽船-609": {
-    "kana": "じしょ で きせん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kisen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kisen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沈殿-345": {
-    "kana": "のうと に ちんでん を めいし として せいり し た",
-    "romaji": "nouto ni chinden o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちんでん について しばらく はなし た",
+    "romaji": "tomodachi to chinden nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-沈黙-344": {
-    "kana": "れいぶん で わ ちんもく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chinmoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ちんもく な まち を ゆっくり あるい た",
+    "romaji": "chinmoku na machi o yukkuri arui ta"
   },
   "jlpt-n1-没収-842": {
-    "kana": "じしょ で ぼっしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bosshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぼっしゅう について しばらく はなし た",
+    "romaji": "tomodachi to bosshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-没落-123": {
-    "kana": "じしょ で ぼつらく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de botsuraku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぼつらく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de botsuraku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沸騰-339": {
-    "kana": "じしょ で ふっとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de futtou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ふっとう について しばらく はなし た",
+    "romaji": "tomodachi to futtou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-油絵-457": {
-    "kana": "れいぶん で わ あぶらえ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aburae ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あぶらえ について しばらく はなし た",
+    "romaji": "tomodachi to aburae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-治安-881": {
-    "kana": "れいぶん で わ ちあん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chian ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちあん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chian nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-治療-971": {
-    "kana": "じしょ で ちりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chiryou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ちりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chiryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沿い-982": {
-    "kana": "れいぶん で わ ぞい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zoi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぞい について しばらく はなし た",
+    "romaji": "tomodachi to zoi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-沿う-97": {
-    "kana": "そう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sou wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に そう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sou tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-沿線-797": {
-    "kana": "じしょ で えんせん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ensen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で えんせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ensen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-洋風-525": {
-    "kana": "じしょ で ようふう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youfuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ようふう な てん を さき に せつめい し た",
+    "romaji": "youfuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-活ける-251": {
-    "kana": "れいぶん で わ いける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ikeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に いける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ikeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-活発-1092": {
-    "kana": "じしょ で かっぱつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kappatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かっぱつ な まち を ゆっくり あるい た",
+    "romaji": "kappatsu na machi o yukkuri arui ta"
   },
   "jlpt-n1-流-751": {
-    "kana": "れいぶん で わ ながれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nagare ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に りゅう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ryuu e iku michi o shirabe ta"
   },
   "jlpt-n1-浴室-278": {
-    "kana": "じしょ で よくしつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yokushitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に よくしつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni yokushitsu e iku michi o shirabe ta"
   },
   "jlpt-n1-海路-636": {
-    "kana": "のうと に かいろ を めいし として せいり し た",
-    "romaji": "nouto ni kairo o meishi toshite seiri shi ta"
+    "kana": "ともだち と かいろ について しばらく はなし た",
+    "romaji": "tomodachi to kairo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-消去-984": {
-    "kana": "じしょ で しょうきょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shoukyo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しょうきょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoukyo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-消息-1052": {
-    "kana": "じしょ で しょうそく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shousoku toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に しょうそく を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shousoku o oi te kara dekake ta"
   },
   "jlpt-n1-液-1035": {
-    "kana": "れいぶん で わ えき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa eki ga monogoto ya kangae o sashi te iru"
+    "kana": "とうめい な えき を ちいさな びん に いれ た",
+    "romaji": "toumei na eki o chiisana bin ni ire ta"
   },
   "jlpt-n1-涸れる-365": {
-    "kana": "かれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kareru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で かれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kareru houhou o kangae ta"
   },
   "jlpt-n1-深める-465": {
-    "kana": "れいぶん で わ ふかめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa fukameru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ふかめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de fukameru houhou o kangae ta"
   },
   "jlpt-n1-混む-1099": {
-    "kana": "せんせい わ こむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa komu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で こむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de komu houhou o kangae ta"
   },
   "jlpt-n1-清々しい-703": {
-    "kana": "のうと に すがすがしい を めいし として せいり し た",
-    "romaji": "nouto ni sugasugashii o meishi toshite seiri shi ta"
+    "kana": "すがすがしい ひ だっ た が さいご まで あるい た",
+    "romaji": "sugasugashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-減少-607": {
-    "kana": "じしょ で げんしょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de genshou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で げんしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de genshou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-減点-572": {
-    "kana": "れいぶん で わ げんてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa genten ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と げんてん について しばらく はなし た",
+    "romaji": "tomodachi to genten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-渦-559": {
-    "kana": "れいぶん で わ うず が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa uzu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で うず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uzu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-満たす-1032": {
-    "kana": "みたす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mitasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で みたす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mitasu houhou o kangae ta"
   },
   "jlpt-n1-満場-998": {
-    "kana": "のうと に まんじょう を めいし として せいり し た",
-    "romaji": "nouto ni manjou o meishi toshite seiri shi ta"
+    "kana": "ともだち と まんじょう について しばらく はなし た",
+    "romaji": "tomodachi to manjou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-満月-73": {
-    "kana": "じしょ で まんげつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mangetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と まんげつ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to mangetsu ga totemo kirei ni mie ta"
   },
   "jlpt-n1-滞納-13": {
-    "kana": "じしょ で たいのう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tainou toiu meishi no imi o kakunin shi ta"
+    "kana": "たいのう の てつづき を きげん まで に すませ た",
+    "romaji": "tainou no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-溜まり-202": {
-    "kana": "れいぶん で わ たまり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tamari ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に たまり え いく みち を しらべ た",
+    "romaji": "shuumatsu ni tamari e iku michi o shirabe ta"
   },
   "jlpt-n1-溝-518": {
-    "kana": "れいぶん で わ みぞ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mizo ga monogoto ya kangae o sashi te iru"
+    "kana": "こう な てん を さき に せつめい し た",
+    "romaji": "kou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-溢れる-874": {
-    "kana": "れいぶん で わ あふれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa afureru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あふれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni afureru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-滅ぼす-511": {
-    "kana": "ほろぼす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "horobosu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ほろぼす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni horobosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-滅亡-396": {
-    "kana": "のうと に めつぼう を めいし として せいり し た",
-    "romaji": "nouto ni metsubou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で めつぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de metsubou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-漁村-1029": {
-    "kana": "のうと に ぎょそん を めいし として せいり し た",
-    "romaji": "nouto ni gyoson o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ぎょそん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gyoson e iku michi o shirabe ta"
   },
   "jlpt-n1-漏らす-220": {
-    "kana": "れいぶん で わ もらす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa morasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で もらす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de morasu houhou o kangae ta"
   },
   "jlpt-n1-漏れる-866": {
-    "kana": "れいぶん で わ もれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa moreru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え もれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e moreru yotei da"
   },
   "jlpt-n1-演じる-304": {
-    "kana": "せんせい わ えんじる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa enjiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "うわぎ を えんじる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o enjiru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n1-潤う-1073": {
-    "kana": "せんせい わ うるおう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa uruou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に うるおう ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni uruou koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-濯ぐ-343": {
-    "kana": "れいぶん で わ すすぐ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa susugu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で すすぐ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de susugu houhou o kangae ta"
   },
   "jlpt-n1-火傷-973": {
-    "kana": "れいぶん で わ かしょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kashou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かしょう について しばらく はなし た",
+    "romaji": "tomodachi to kashou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-灰-1072": {
-    "kana": "じしょ で はい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はい について しばらく はなし た",
+    "romaji": "tomodachi to hai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-灰皿-311": {
-    "kana": "れいぶん で わ はいざら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa haizara ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はいざら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haizara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-災害-652": {
-    "kana": "れいぶん で わ さいがい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa saigai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で さいがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saigai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-炭素-399": {
-    "kana": "のうと に たんそ を めいし として せいり し た",
-    "romaji": "nouto ni tanso o meishi toshite seiri shi ta"
+    "kana": "かいぎ で たんそ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tanso nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-為さる-298": {
-    "kana": "れいぶん で わ なさる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nasaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で なさる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nasaru houhou o kangae ta"
   },
   "jlpt-n1-焚火-1164": {
-    "kana": "じしょ で たきび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de takibi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たきび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de takibi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-無口-47": {
-    "kana": "のうと に むくち を めいし として せいり し た",
-    "romaji": "nouto ni mukuchi o meishi toshite seiri shi ta"
+    "kana": "むくち な まち を ゆっくり あるい た",
+    "romaji": "mukuchi na machi o yukkuri arui ta"
   },
   "jlpt-n1-無念-1234": {
-    "kana": "れいぶん で わ むねん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa munen ga monogoto ya kangae o sashi te iru"
+    "kana": "むねん な てん を さき に せつめい し た",
+    "romaji": "munen na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-無断-222": {
-    "kana": "のうと に むだん を めいし として せいり し た",
-    "romaji": "nouto ni mudan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で むだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-無能-644": {
-    "kana": "れいぶん で わ むのう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa munou ga monogoto ya kangae o sashi te iru"
+    "kana": "むのう な てん を さき に せつめい し た",
+    "romaji": "munou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-無言-159": {
-    "kana": "のうと に むごん を めいし として せいり し た",
-    "romaji": "nouto ni mugon o meishi toshite seiri shi ta"
+    "kana": "かいぎ で むごん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mugon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-無論-1088": {
-    "kana": "れいぶん で わ むろん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa muron ga monogoto ya kangae o sashi te iru"
+    "kana": "むろん よてい を へんこう し た",
+    "romaji": "muron yotei o henkou shi ta"
   },
   "jlpt-n1-無邪気-1233": {
-    "kana": "のうと に むじゃき を めいし として せいり し た",
-    "romaji": "nouto ni mujaki o meishi toshite seiri shi ta"
+    "kana": "むじゃき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "mujaki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-無闇に-1209": {
-    "kana": "むやみ に を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "muyami ni o ireru to bun no nyuansu ga kawaru"
+    "kana": "むやみ に へんじ が とどい た ので あんしん し た",
+    "romaji": "muyami ni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-無難-1246": {
-    "kana": "れいぶん で わ ぶなん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bunan ga monogoto ya kangae o sashi te iru"
+    "kana": "ぶなん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "bunan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-然も-1263": {
-    "kana": "れいぶん で わ しか も が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shika mo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しか も について しばらく はなし た",
+    "romaji": "tomodachi to shika mo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-煌々と-1071": {
-    "kana": "じしょ で こうこう と という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koukou to toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうこう と について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koukou to nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-煌びやか-201": {
-    "kana": "じしょ で 煌 びやか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 煌 biyaka toiu meishi no imi o kakunin shi ta"
+    "kana": "きらびやか な てん を さき に せつめい し た",
+    "romaji": "kirabiyaka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-煙たい-1005": {
-    "kana": "のうと に けむたい を めいし として せいり し た",
-    "romaji": "nouto ni kemutai o meishi toshite seiri shi ta"
+    "kana": "けむたい ひ だっ た が さいご まで あるい た",
+    "romaji": "kemutai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-照り返す-463": {
-    "kana": "てりかえす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "terikaesu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に てりかえす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni terikaesu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-照合-862": {
-    "kana": "のうと に しょうごう を めいし として せいり し た",
-    "romaji": "nouto ni shougou o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうごう について しばらく はなし た",
+    "romaji": "tomodachi to shougou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-照明-570": {
-    "kana": "のうと に しょうめい を めいし として せいり し た",
-    "romaji": "nouto ni shoumei o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうめい について しばらく はなし た",
+    "romaji": "tomodachi to shoumei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-煽てる-1036": {
-    "kana": "れいぶん で わ おだてる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa odateru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で おだてる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de odateru houhou o kangae ta"
   },
   "jlpt-n1-蒸留-568": {
-    "kana": "じしょ で じょうりゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jouryuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じょうりゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jouryuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-熱湯-528": {
-    "kana": "のうと に ねっとう を めいし として せいり し た",
-    "romaji": "nouto ni nettou o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい ねっとう を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai nettou o ippai non da"
   },
   "jlpt-n1-父母-723": {
-    "kana": "じしょ で ちちはは という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chichihaha toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ちちはは について しばらく はなし た",
+    "romaji": "tomodachi to chichihaha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-爽やか-502": {
-    "kana": "じしょ で さわやか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sawayaka toiu meishi no imi o kakunin shi ta"
+    "kana": "さわやか な てん を さき に せつめい し た",
+    "romaji": "sawayaka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-片付け-981": {
-    "kana": "じしょ で かたづけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de katazuke toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かたづけ について しばらく はなし た",
+    "romaji": "tomodachi to katazuke nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-版画-1197": {
-    "kana": "じしょ で はんが という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hanga toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はんが について しばらく はなし た",
+    "romaji": "tomodachi to hanga nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-物資-985": {
-    "kana": "じしょ で ぶっし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de busshi toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ぶっし を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na busshi o asa no uchi ni atsume ta"
   },
   "jlpt-n1-状-994": {
-    "kana": "れいぶん で わ じょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-独創-77": {
-    "kana": "のうと に どくそう を めいし として せいり し た",
-    "romaji": "nouto ni dokusou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で どくそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dokusou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-独占-988": {
-    "kana": "のうと に どくせん を めいし として せいり し た",
-    "romaji": "nouto ni dokusen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で どくせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dokusen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-独自-600": {
-    "kana": "じしょ で どくじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dokuji toiu meishi no imi o kakunin shi ta"
+    "kana": "どくじ な てん を さき に せつめい し た",
+    "romaji": "dokuji na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-独裁-722": {
-    "kana": "のうと に どくさい を めいし として せいり し た",
-    "romaji": "nouto ni dokusai o meishi toshite seiri shi ta"
+    "kana": "えきまえ の どくさい で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no dokusai de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-獣-1137": {
-    "kana": "れいぶん で わ しし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shishi ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で しし を み た",
+    "romaji": "chikaku no bokujou de shishi o mi ta"
   },
   "jlpt-n1-獲物-276": {
-    "kana": "れいぶん で わ えもの が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa emono ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で えもの について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de emono nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-率直-698": {
-    "kana": "じしょ で そっちょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sotchoku toiu meishi no imi o kakunin shi ta"
+    "kana": "そっちょく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sotchoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-班-26": {
-    "kana": "れいぶん で わ はん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa han ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de han nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-現われる-193": {
-    "kana": "せんせい わ あらわれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa arawareru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に あらわれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni arawareru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-理屈-1028": {
-    "kana": "じしょ で りくつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rikutsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で りくつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rikutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-瓶-1030": {
-    "kana": "じしょ で びん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bin toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に びん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni bin o oi te kara dekake ta"
   },
   "jlpt-n1-甘口-724": {
-    "kana": "のうと に あまくち を めいし として せいり し た",
-    "romaji": "nouto ni amakuchi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あまくち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de amakuchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-甚だ-717": {
-    "kana": "はなはだ を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "hanahada o ireru to bun no nyuansu ga kawaru"
+    "kana": "きょう わ はなはだ つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa hanahada tsukare ta node hayame ni ne ta"
   },
   "jlpt-n1-生-685": {
-    "kana": "れいぶん で わ なま が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nama ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で なま について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nama nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-生やす-978": {
-    "kana": "れいぶん で わ はやす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hayasu ga ugoki ya henka o arawashi te iru"
+    "kana": "うわぎ を はやす ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o hayasu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n1-生温い-619": {
-    "kana": "れいぶん で わ なまぬるい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa namanurui ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし なまぬるい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi namanurui to kanji ta"
   },
   "jlpt-n1-生計-418": {
-    "kana": "じしょ で せいけい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seikei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せいけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seikei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-生身-615": {
-    "kana": "じしょ で なまみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de namami toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と なまみ について しばらく はなし た",
+    "romaji": "tomodachi to namami nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-産む-286": {
-    "kana": "せんせい わ うむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa umu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で うむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de umu houhou o kangae ta"
   },
   "jlpt-n1-産休-678": {
-    "kana": "のうと に さんきゅう を めいし として せいり し た",
-    "romaji": "nouto ni sankyuu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さんきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sankyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-産出-885": {
-    "kana": "じしょ で さんしゅつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sanshutsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さんしゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sanshutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-産婦人科-217": {
-    "kana": "れいぶん で わ さんふじんか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sanfujinka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さんふじんか について しばらく はなし た",
+    "romaji": "tomodachi to sanfujinka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-用件-770": {
-    "kana": "じしょ で ようけん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youken toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の ようけん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no youken wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-甲-752": {
-    "kana": "のうと に かぶと を めいし として せいり し た",
-    "romaji": "nouto ni kabuto o meishi toshite seiri shi ta"
+    "kana": "かぶと が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "kabuto ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-申し込み-1180": {
-    "kana": "じしょ で もうしこみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de moushikomi toiu meishi no imi o kakunin shi ta"
+    "kana": "すき な ざっし の もうしこみ を もうしこん だ",
+    "romaji": "suki na zasshi no moushikomi o moushikon da"
   },
   "jlpt-n1-画期-917": {
-    "kana": "のうと に が き を めいし として せいり し た",
-    "romaji": "nouto ni ga ki o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい が き を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ga ki o oboe ta"
   },
   "jlpt-n1-畏まりました-638": {
-    "kana": "じしょ で かしこまり まし た という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kashikomari mashi ta toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に かしこまり まし た と こえ を かけ た",
+    "romaji": "kaerigiwa ni kashikomari mashi ta to koe o kake ta"
   },
   "jlpt-n1-畜産-1082": {
-    "kana": "れいぶん で わ ちくさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chikusan ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で ちくさん を み た",
+    "romaji": "chikaku no bokujou de chikusan o mi ta"
   },
   "jlpt-n1-略奪-880": {
-    "kana": "れいぶん で わ りゃくだつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryakudatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と りゃくだつ について しばらく はなし た",
+    "romaji": "tomodachi to ryakudatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-異性-523": {
-    "kana": "のうと に いせい を めいし として せいり し た",
-    "romaji": "nouto ni isei o meishi toshite seiri shi ta"
+    "kana": "ともだち と いせい について しばらく はなし た",
+    "romaji": "tomodachi to isei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-異議-95": {
-    "kana": "じしょ で いぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de igi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いぎ について しばらく はなし た",
+    "romaji": "tomodachi to igi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-疎か-93": {
-    "kana": "れいぶん で わ おろか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oroka ga monogoto ya kangae o sashi te iru"
+    "kana": "おろそか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "orosoka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-疑惑-774": {
-    "kana": "じしょ で ぎわく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de giwaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぎわく について しばらく はなし た",
+    "romaji": "tomodachi to giwaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-疲労-1245": {
-    "kana": "のうと に ひろう を めいし として せいり し た",
-    "romaji": "nouto ni hirou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ひろう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hirou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-痛切-589": {
-    "kana": "れいぶん で わ つうせつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tsuusetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と つうせつ について しばらく はなし た",
+    "romaji": "tomodachi to tsuusetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-痛感-757": {
-    "kana": "じしょ で つうかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuukan toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい つうかん を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi tsuukan o oboe ta"
   },
   "jlpt-n1-癌-883": {
-    "kana": "じしょ で がん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で がん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-発作-434": {
-    "kana": "のうと に ほっさ を めいし として せいり し た",
-    "romaji": "nouto ni hossa o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ほっさ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hossa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-発掘-810": {
-    "kana": "れいぶん で わ はっくつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hakkutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はっくつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hakkutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-発病-403": {
-    "kana": "れいぶん で わ はつびょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hatsubyou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と はつびょう について しばらく はなし た",
+    "romaji": "tomodachi to hatsubyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-発芽-620": {
-    "kana": "のうと に はつが を めいし として せいり し た",
-    "romaji": "nouto ni hatsuga o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はつが について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hatsuga nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-発足-999": {
-    "kana": "れいぶん で わ ほっそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hossoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ほっそく について しばらく はなし た",
+    "romaji": "tomodachi to hossoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-登校-131": {
-    "kana": "れいぶん で わ とうこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toukou ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に とうこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni toukou e iku michi o shirabe ta"
   },
   "jlpt-n1-百科事典-960": {
-    "kana": "じしょ で ひゃっか じてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hyakka jiten toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひゃっか じてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hyakka jiten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-皺-453": {
-    "kana": "のうと に しわ を めいし として せいり し た",
-    "romaji": "nouto ni shiwa o meishi toshite seiri shi ta"
+    "kana": "ともだち と しわ について しばらく はなし た",
+    "romaji": "tomodachi to shiwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-盗み-539": {
-    "kana": "れいぶん で わ ぬすみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nusumi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぬすみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nusumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-盛り上がる-826": {
-    "kana": "もりあがる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "moriagaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ゆ が もりあがる まで だいどころ で すこし まっ た",
+    "romaji": "yu ga moriagaru made daidokoro de sukoshi ma ta"
   },
   "jlpt-n1-盛る-773": {
-    "kana": "せんせい わ もる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa moru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に もる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni moru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-盛大-819": {
-    "kana": "じしょ で せいだい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seidai toiu meishi no imi o kakunin shi ta"
+    "kana": "せいだい な てん を さき に せつめい し た",
+    "romaji": "seidai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-目方-613": {
-    "kana": "じしょ で めかた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mekata toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と めかた について しばらく はなし た",
+    "romaji": "tomodachi to mekata nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-目盛-840": {
-    "kana": "じしょ で めもり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de memori toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と めもり について しばらく はなし た",
+    "romaji": "tomodachi to memori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-目眩-768": {
-    "kana": "れいぶん で わ めまい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa memai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で めまい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de memai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-目録-1144": {
-    "kana": "じしょ で もくろく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mokuroku toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の もくろく に すうじ を まとめ た",
+    "romaji": "shiryou no mokuroku ni suuji o matome ta"
   },
   "jlpt-n1-盲点-697": {
-    "kana": "れいぶん で わ もうてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mouten ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と もうてん について しばらく はなし た",
+    "romaji": "tomodachi to mouten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-直ぐ-603": {
-    "kana": "すぐ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sugu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に すぐ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sugu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-直感-761": {
-    "kana": "れいぶん で わ ちょっかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chokkan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ちょっかん について しばらく はなし た",
+    "romaji": "tomodachi to chokkan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-相-1093": {
-    "kana": "のうと に そう を めいし として せいり し た",
-    "romaji": "nouto ni sou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-相対-284": {
-    "kana": "れいぶん で わ そうたい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa soutai ga monogoto ya kangae o sashi te iru"
+    "kana": "そうたい で じょうけん を はなしあっ た",
+    "romaji": "soutai de jouken o hanashia ta"
   },
   "jlpt-n1-相応しい-839": {
-    "kana": "のうと に ふさわしい を めいし として せいり し た",
-    "romaji": "nouto ni fusawashii o meishi toshite seiri shi ta"
+    "kana": "おもっ た より ふさわしい もんだい だっ た",
+    "romaji": "omo ta yori fusawashii mondai da ta"
   },
   "jlpt-n1-看護-877": {
-    "kana": "のうと に かんご を めいし として せいり し た",
-    "romaji": "nouto ni kango o meishi toshite seiri shi ta"
+    "kana": "かんご が こっきょう ちかく に はいち さ れ た",
+    "romaji": "kango ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-真ん中-98": {
-    "kana": "れいぶん で わ まんなか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mannaka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まんなか について しばらく はなし た",
+    "romaji": "tomodachi to mannaka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-真上-449": {
-    "kana": "のうと に まうえ を めいし として せいり し た",
-    "romaji": "nouto ni maue o meishi toshite seiri shi ta"
+    "kana": "かいぎ で まうえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de maue nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-眼鏡-664": {
-    "kana": "じしょ で めがね という めいし の いみ を かくにん し た",
-    "romaji": "jisho de megane toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と めがね について しばらく はなし た",
+    "romaji": "tomodachi to megane nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-着-553": {
-    "kana": "れいぶん で わ ちゃく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chaku ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な ちゃく の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na chaku no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-着手-1041": {
-    "kana": "れいぶん で わ ちゃくしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chakushu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ちゃくしゅ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no chakushu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-着色-348": {
-    "kana": "のうと に ちゃくしょく を めいし として せいり し た",
-    "romaji": "nouto ni chakushoku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちゃくしょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chakushoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-瞑る-72": {
-    "kana": "れいぶん で わ つむる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsumuru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に つぶる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsuburu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-瞬き-1129": {
-    "kana": "のうと に まばたき を めいし として せいり し た",
-    "romaji": "nouto ni mabataki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で まばたき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mabataki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-矢っ張り-915": {
-    "kana": "れいぶん で わ や っ はり が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa ya  hari ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "やっぱり へんじ が とどい た ので あんしん し た",
+    "romaji": "yappari henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-知的-979": {
-    "kana": "れいぶん で わ ちてき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chiteki ga monogoto ya kangae o sashi te iru"
+    "kana": "ちてき な てん を さき に せつめい し た",
+    "romaji": "chiteki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-砂利-721": {
-    "kana": "じしょ で じゃり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jari toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる じゃり に こえ を かけ た",
+    "romaji": "koma te iru jari ni koe o kake ta"
   },
   "jlpt-n1-破裂-682": {
-    "kana": "れいぶん で わ はれつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa haretsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はれつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haretsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-碌な-380": {
-    "kana": "じしょ で ろく な という めいし の いみ を かくにん し た",
-    "romaji": "jisho de roku na toiu meishi no imi o kakunin shi ta"
+    "kana": "ろくな みせ わ えき の ちかく に ある",
+    "romaji": "rokuna mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-磁器-287": {
-    "kana": "じしょ で じき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jiki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-磁気-7": {
-    "kana": "れいぶん で わ じき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jiki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じき について しばらく はなし た",
+    "romaji": "tomodachi to jiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-確保-1227": {
-    "kana": "のうと に かくほ を めいし として せいり し た",
-    "romaji": "nouto ni kakuho o meishi toshite seiri shi ta"
+    "kana": "ともだち と かくほ について しばらく はなし た",
+    "romaji": "tomodachi to kakuho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-確信-140": {
-    "kana": "れいぶん で わ かくしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakushin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かくしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakushin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-確立-1124": {
-    "kana": "のうと に かくりつ を めいし として せいり し た",
-    "romaji": "nouto ni kakuritsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と かくりつ について しばらく はなし た",
+    "romaji": "tomodachi to kakuritsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-社-550": {
-    "kana": "のうと に しゃ を めいし として せいり し た",
-    "romaji": "nouto ni sha o meishi toshite seiri shi ta"
+    "kana": "ともだち と しゃ について しばらく はなし た",
+    "romaji": "tomodachi to sha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-社交-1279": {
-    "kana": "じしょ で しゃこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shakou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゃこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shakou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-神殿-945": {
-    "kana": "のうと に しんでん を めいし として せいり し た",
-    "romaji": "nouto ni shinden o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に しんでん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shinden e iku michi o shirabe ta"
   },
   "jlpt-n1-神秘-340": {
-    "kana": "のうと に しんぴ を めいし として せいり し た",
-    "romaji": "nouto ni shinpi o meishi toshite seiri shi ta"
+    "kana": "しんぴ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shinpi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-神聖-825": {
-    "kana": "じしょ で しんせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinsei toiu meishi no imi o kakunin shi ta"
+    "kana": "しんせい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shinsei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-視察-233": {
-    "kana": "れいぶん で わ しさつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shisatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "しりょう の しさつ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no shisatsu ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-視点-10": {
-    "kana": "れいぶん で わ してん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiten ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の してん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no shiten o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-視野-1171": {
-    "kana": "れいぶん で わ しや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiya ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の しや を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no shiya o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-禁じる-1139": {
-    "kana": "きんじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kinjiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に きんじる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kinjiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-禁ずる-1280": {
-    "kana": "きんずる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kinzuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に きんずる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kinzuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-禅-809": {
-    "kana": "のうと に ぜん を めいし として せいり し た",
-    "romaji": "nouto ni zen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぜん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-福-157": {
-    "kana": "のうと に ふく を めいし として せいり し た",
-    "romaji": "nouto ni fuku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ふく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fuku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-科-1222": {
-    "kana": "れいぶん で わ か が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ka ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の か わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no ka wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-秘書-1057": {
-    "kana": "れいぶん で わ ひしょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hisho ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に ひしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni hisho o oi te kara dekake ta"
   },
   "jlpt-n1-移民-160": {
-    "kana": "じしょ で いみん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de imin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いみん について しばらく はなし た",
+    "romaji": "tomodachi to imin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-種-629": {
-    "kana": "じしょ で たね という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tane toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tane nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-種々-410": {
-    "kana": "のうと に しゅじゅ を めいし として せいり し た",
-    "romaji": "nouto ni shuju o meishi toshite seiri shi ta"
+    "kana": "しゅじゅ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shuju na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-稲光-551": {
-    "kana": "れいぶん で わ いなびかり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa inabikari ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で いなびかり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inabikari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-穂-117": {
-    "kana": "のうと に ほ を めいし として せいり し た",
-    "romaji": "nouto ni ho o meishi toshite seiri shi ta"
+    "kana": "ほ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ho ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-究極-196": {
-    "kana": "じしょ で きゅうきょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyuukyoku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きゅうきょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuukyoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-空腹-950": {
-    "kana": "れいぶん で わ くうふく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kuufuku ga monogoto ya kangae o sashi te iru"
+    "kana": "くうふく な てん を さき に せつめい し た",
+    "romaji": "kuufuku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-突く-447": {
-    "kana": "せんせい わ つく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つつく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsutsuku houhou o kangae ta"
   },
   "jlpt-n1-突っ張る-1191": {
-    "kana": "れいぶん で わ つっぱる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsupparu ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に つっぱる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni tsupparu koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-窒息-423": {
-    "kana": "のうと に ちっそく を めいし として せいり し た",
-    "romaji": "nouto ni chissoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちっそく について しばらく はなし た",
+    "romaji": "tomodachi to chissoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-窮乏-1117": {
-    "kana": "じしょ で きゅうぼう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyuubou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きゅうぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuubou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-窮屈-1107": {
-    "kana": "れいぶん で わ きゅうくつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuukutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうくつ な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "kyuukutsu na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-立方-522": {
-    "kana": "じしょ で りっぽう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rippou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で りっぽう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rippou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-竿-530": {
-    "kana": "のうと に さお を めいし として せいり し た",
-    "romaji": "nouto ni sao o meishi toshite seiri shi ta"
+    "kana": "さお が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "sao ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-第-219": {
-    "kana": "のうと に だい を めいし として せいり し た",
-    "romaji": "nouto ni dai o meishi toshite seiri shi ta"
+    "kana": "ともだち と だい について しばらく はなし た",
+    "romaji": "tomodachi to dai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-第一-1100": {
-    "kana": "じしょ で だい いち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dai ichi toiu meishi no imi o kakunin shi ta"
+    "kana": "だい いち な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "dai ichi na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-等-393": {
-    "kana": "ひとし を な けいようし として のうと に まとめ た",
-    "romaji": "hitoshi o na keiyoushi toshite nouto ni matome ta"
+    "kana": "ひとし な てん を さき に せつめい し た",
+    "romaji": "hitoshi na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-箇所-189": {
-    "kana": "じしょ で かしょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kasho toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に かしょ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kasho e iku michi o shirabe ta"
   },
   "jlpt-n1-箇条書き-183": {
-    "kana": "じしょ で かじょう がき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kajou gaki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かじょう がき について しばらく はなし た",
+    "romaji": "tomodachi to kajou gaki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-箇箇-242": {
-    "kana": "れいぶん で わ ここ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koko ga monogoto ya kangae o sashi te iru"
+    "kana": "ここ で すこし やすん で から しゅっぱつ し た",
+    "romaji": "koko de sukoshi yasun de kara shuppatsu shi ta"
   },
   "jlpt-n1-管-245": {
-    "kana": "のうと に かん を めいし として せいり し た",
-    "romaji": "nouto ni kan o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と かん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kan ga totemo kirei ni mie ta"
   },
   "jlpt-n1-箪笥-65": {
-    "kana": "れいぶん で わ たんす が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tansu ga monogoto ya kangae o sashi te iru"
+    "kana": "ひつよう な ばめん で たんす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tansu houhou o kangae ta"
   },
   "jlpt-n1-築く-1185": {
-    "kana": "せんせい わ きずく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kizuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち と たな を きずく けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o kizuku keikaku o tate ta"
   },
   "jlpt-n1-篭る-1223": {
-    "kana": "せんせい わ こもる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa komoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え こもる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e komoru yotei da"
   },
   "jlpt-n1-簡易-626": {
-    "kana": "れいぶん で わ かんい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kan'i ga monogoto ya kangae o sashi te iru"
+    "kana": "かんい な てん を さき に せつめい し た",
+    "romaji": "kan'i na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-粉々-1122": {
-    "kana": "れいぶん で わ こなごな が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa konagona ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "きょう わ こなごな つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa konagona tsukare ta node hayame ni ne ta"
   },
   "jlpt-n1-粗筋-417": {
-    "kana": "じしょ で あらすじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de arasuji toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と あらす じ について しばらく はなし た",
+    "romaji": "tomodachi to arasu ji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-粥-112": {
-    "kana": "じしょ で かゆ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kayu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かゆ について しばらく はなし た",
+    "romaji": "tomodachi to kayu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-精巧-1201": {
-    "kana": "じしょ で せいこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seikou toiu meishi no imi o kakunin shi ta"
+    "kana": "せいこう な とけい の つくり に おもわず みいっ た",
+    "romaji": "seikou na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n1-納まる-455": {
-    "kana": "おさまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "osamaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あつい すうぷ を すこし おさまる じかん が ひつよう だっ た",
+    "romaji": "atsui suupu o sukoshi osamaru jikan ga hitsuyou da ta"
   },
   "jlpt-n1-素敵-1125": {
-    "kana": "れいぶん で わ すてき が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa suteki ga joutai ya seishitsu o arawashi te iru"
+    "kana": "すてき な まち を ゆっくり あるい た",
+    "romaji": "suteki na machi o yukkuri arui ta"
   },
   "jlpt-n1-素材-411": {
-    "kana": "れいぶん で わ そざい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sozai ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な そざい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na sozai o asa no uchi ni atsume ta"
   },
   "jlpt-n1-紡績-807": {
-    "kana": "れいぶん で わ ぼうせき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bouseki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぼうせき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouseki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-細工-630": {
-    "kana": "れいぶん で わ ざいく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zaiku ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ざいく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no zaiku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-細胞-302": {
-    "kana": "のうと に さいぼう を めいし として せいり し た",
-    "romaji": "nouto ni saibou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さいぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saibou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-紳士-633": {
-    "kana": "れいぶん で わ しんし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shinshi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しんし について しばらく はなし た",
+    "romaji": "tomodachi to shinshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-終始-836": {
-    "kana": "のうと に しゅうし を めいし として せいり し た",
-    "romaji": "nouto ni shuushi o meishi toshite seiri shi ta"
+    "kana": "しゅうし に だいじ な よてい が はいっ て いる",
+    "romaji": "shuushi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-組み合わせ-618": {
-    "kana": "のうと に くみあわせ を めいし として せいり し た",
-    "romaji": "nouto ni kumiawase o meishi toshite seiri shi ta"
+    "kana": "かいぎ で くみあわせ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kumiawase nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-経歴-571": {
-    "kana": "れいぶん で わ けいれき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keireki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で けいれき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keireki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-経費-1095": {
-    "kana": "れいぶん で わ けいひ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keihi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で けいひ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keihi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-経過-187": {
-    "kana": "れいぶん で わ けいか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keika ga monogoto ya kangae o sashi te iru"
+    "kana": "あたらしい さあびす の けいか が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no keika ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-結び付く-811": {
-    "kana": "せんせい わ むすびつく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa musubitsuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "おもい にもつ を えき まで むすびつく ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made musubitsuku hito o sagashi ta"
   },
   "jlpt-n1-結合-1240": {
-    "kana": "のうと に けつごう を めいし として せいり し た",
-    "romaji": "nouto ni ketsugou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けつごう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ketsugou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-結成-1063": {
-    "kana": "れいぶん で わ けっせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kessei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けっせい について しばらく はなし た",
+    "romaji": "tomodachi to kessei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-結束-213": {
-    "kana": "れいぶん で わ けっそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kessoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けっそく について しばらく はなし た",
+    "romaji": "tomodachi to kessoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-結核-788": {
-    "kana": "じしょ で けっかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kekkaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けっかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kekkaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-絡む-367": {
-    "kana": "からむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "karamu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に からむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni karamu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-絨毯-104": {
-    "kana": "じしょ で じゅうたん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de juutan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゅうたん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juutan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-統制-1024": {
-    "kana": "れいぶん で わ とうせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tousei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で とうせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tousei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-継ぎ目-216": {
-    "kana": "のうと に つぎめ を めいし として せいり し た",
-    "romaji": "nouto ni tsugime o meishi toshite seiri shi ta"
+    "kana": "かいぎ で つぎめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsugime nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-継ぐ-248": {
-    "kana": "せんせい わ つぐ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsugu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つぐ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsugu houhou o kangae ta"
   },
   "jlpt-n1-綴じる-1021": {
-    "kana": "せんせい わ とじる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tojiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を とじる かくご を きめ た",
+    "romaji": "saigo made keikaku o tojiru kakugo o kime ta"
   },
   "jlpt-n1-総-144": {
-    "kana": "じしょ で そう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で そう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-総会-993": {
-    "kana": "れいぶん で わ そうかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa soukai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で そうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-緩やか-595": {
-    "kana": "のうと に ゆるやか を めいし として せいり し た",
-    "romaji": "nouto ni yuruyaka o meishi toshite seiri shi ta"
+    "kana": "ゆるやか な てん を さき に せつめい し た",
+    "romaji": "yuruyaka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-緩和-165": {
-    "kana": "のうと に かんわ を めいし として せいり し た",
-    "romaji": "nouto ni kanwa o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんわ について しばらく はなし た",
+    "romaji": "tomodachi to kanwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-練る-145": {
-    "kana": "れいぶん で わ ねる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa neru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ねる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de neru houhou o kangae ta"
   },
   "jlpt-n1-縁-547": {
-    "kana": "のうと に えん を めいし として せいり し た",
-    "romaji": "nouto ni en o meishi toshite seiri shi ta"
+    "kana": "かいぎ で えん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de en nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-縁談-473": {
-    "kana": "じしょ で えんだん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de endan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と えんだん について しばらく はなし た",
+    "romaji": "tomodachi to endan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-織-384": {
-    "kana": "のうと に お を めいし として せいり し た",
-    "romaji": "nouto ni o o meishi toshite seiri shi ta"
+    "kana": "お に だいじ な よてい が はいっ て いる",
+    "romaji": "o ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-織物-1271": {
-    "kana": "じしょ で おりもの という めいし の いみ を かくにん し た",
-    "romaji": "jisho de orimono toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おりもの について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de orimono nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-繕う-823": {
-    "kana": "せんせい わ つくろう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsukurou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に つくろう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsukurou tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-纏め-62": {
-    "kana": "れいぶん で わ まとめ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa matome ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まとめ について しばらく はなし た",
+    "romaji": "tomodachi to matome nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-罵る-1142": {
-    "kana": "れいぶん で わ ののしる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nonoshiru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ののしる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nonoshiru houhou o kangae ta"
   },
   "jlpt-n1-美-501": {
-    "kana": "れいぶん で わ よし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yoshi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と び について しばらく はなし た",
+    "romaji": "tomodachi to bi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-群-796": {
-    "kana": "れいぶん で わ ぐん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gun ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぐん について しばらく はなし た",
+    "romaji": "tomodachi to gun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-群がる-902": {
-    "kana": "れいぶん で わ むらがる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa muragaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で むらがる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de muragaru houhou o kangae ta"
   },
   "jlpt-n1-義理-617": {
-    "kana": "れいぶん で わ ぎり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa giri ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ぎり わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no giri wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-考古学-673": {
-    "kana": "のうと に こうこがく を めいし として せいり し た",
-    "romaji": "nouto ni koukogaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうこ がく について しばらく はなし た",
+    "romaji": "tomodachi to kouko gaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-而も-806": {
-    "kana": "じしょ で 而 も という めいし の いみ を かくにん し た",
-    "romaji": "jisho de 而 mo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と し かも について しばらく はなし た",
+    "romaji": "tomodachi to shi kamo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-耐える-712": {
-    "kana": "せんせい わ たえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa taeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に たえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni taeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-耕作-1229": {
-    "kana": "れいぶん で わ こうさく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kousaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こうさく について しばらく はなし た",
+    "romaji": "tomodachi to kousaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-聖書-952": {
-    "kana": "れいぶん で わ せいしょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seisho ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいしょ について しばらく はなし た",
+    "romaji": "tomodachi to seisho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-聴覚-1105": {
-    "kana": "れいぶん で わ ちょうかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa choukaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちょうかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choukaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-職員-1086": {
-    "kana": "れいぶん で わ しょくいん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shokuin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょくいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shokuin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-肉体-590": {
-    "kana": "じしょ で にくたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nikutai toiu meishi no imi o kakunin shi ta"
+    "kana": "にくたい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "nikutai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-肉親-451": {
-    "kana": "じしょ で にくしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nikushin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と にくしん について しばらく はなし た",
+    "romaji": "tomodachi to nikushin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-肥料-667": {
-    "kana": "じしょ で ひりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hiryou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-育ち-163": {
-    "kana": "のうと に そだち を めいし として せいり し た",
-    "romaji": "nouto ni sodachi o meishi toshite seiri shi ta"
+    "kana": "ともだち と そだち について しばらく はなし た",
+    "romaji": "tomodachi to sodachi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-背く-258": {
-    "kana": "れいぶん で わ そむく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa somuku ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え そむく よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e somuku yotei da"
   },
   "jlpt-n1-背景-565": {
-    "kana": "のうと に はいけい を めいし として せいり し た",
-    "romaji": "nouto ni haikei o meishi toshite seiri shi ta"
+    "kana": "ともだち と はいけい について しばらく はなし た",
+    "romaji": "tomodachi to haikei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-背負う-105": {
-    "kana": "れいぶん で わ せおう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa seou ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで せおう ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made seou hito o sagashi ta"
   },
   "jlpt-n1-胴-858": {
-    "kana": "れいぶん で わ どう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dou ga monogoto ya kangae o sashi te iru"
+    "kana": "どう が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "dou ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-脂肪-1250": {
-    "kana": "のうと に しぼう を めいし として せいり し た",
-    "romaji": "nouto ni shibou o meishi toshite seiri shi ta"
+    "kana": "ともだち と しぼう について しばらく はなし た",
+    "romaji": "tomodachi to shibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脅かす-360": {
-    "kana": "おびやかす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "obiyakasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に おびやかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni obiyakasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-脅迫-787": {
-    "kana": "のうと に きょうはく を めいし として せいり し た",
-    "romaji": "nouto ni kyouhaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と きょうはく について しばらく はなし た",
+    "romaji": "tomodachi to kyouhaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脈-57": {
-    "kana": "れいぶん で わ みゃく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa myaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と みゃく について しばらく はなし た",
+    "romaji": "tomodachi to myaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脚本-427": {
-    "kana": "れいぶん で わ きゃくほん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyakuhon ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きゃくほん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyakuhon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-脱する-545": {
-    "kana": "だっする わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "dassuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に だっする ため に さき に じゅんび を し た",
+    "romaji": "anzen ni dassuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-脱出-625": {
-    "kana": "れいぶん で わ だっしゅつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dasshutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と だっしゅつ について しばらく はなし た",
+    "romaji": "tomodachi to dasshutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脱退-686": {
-    "kana": "のうと に だったい を めいし として せいり し た",
-    "romaji": "nouto ni dattai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で だったい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dattai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-腕前-1188": {
-    "kana": "のうと に うでまえ を めいし として せいり し た",
-    "romaji": "nouto ni udemae o meishi toshite seiri shi ta"
+    "kana": "ともだち と うでまえ について しばらく はなし た",
+    "romaji": "tomodachi to udemae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-腸-745": {
-    "kana": "れいぶん で わ ちょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ちょう について しばらく はなし た",
+    "romaji": "tomodachi to chou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-膜-152": {
-    "kana": "れいぶん で わ まく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まく について しばらく はなし た",
+    "romaji": "tomodachi to maku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-膨脹-476": {
-    "kana": "れいぶん で わ ぼうちょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bouchou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぼうちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouchou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-膳-143": {
-    "kana": "のうと に ぜん を めいし として せいり し た",
-    "romaji": "nouto ni zen o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に ぜん を すこし たべ た",
+    "romaji": "hiru gohan ni zen o sukoshi tabe ta"
   },
   "jlpt-n1-臍-970": {
-    "kana": "じしょ で ほぞ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hozo toiu meishi no imi o kakunin shi ta"
+    "kana": "へそ な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "heso na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-自ずから-1016": {
-    "kana": "れいぶん で わ おのずから が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa onozukara ga monogoto ya kangae o sashi te iru"
+    "kana": "おのずから へんじ が とどい た ので あんしん し た",
+    "romaji": "onozukara henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-自信-267": {
-    "kana": "のうと に じしん を めいし として せいり し た",
-    "romaji": "nouto ni jishin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jishin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-自在-169": {
-    "kana": "のうと に じざい を めいし として せいり し た",
-    "romaji": "nouto ni jizai o meishi toshite seiri shi ta"
+    "kana": "じざい な てん を さき に せつめい し た",
+    "romaji": "jizai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-自惚れ-37": {
-    "kana": "れいぶん で わ うぬぼれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa unubore ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うぬぼれ について しばらく はなし た",
+    "romaji": "tomodachi to unubore nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-自覚-882": {
-    "kana": "のうと に じかく を めいし として せいり し た",
-    "romaji": "nouto ni jikaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と じかく について しばらく はなし た",
+    "romaji": "tomodachi to jikaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-自転-1251": {
-    "kana": "じしょ で じてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jiten toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jiten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-至って-432": {
-    "kana": "れいぶん で わ いたって が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa itatte ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "きょう わ いたって つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa itatte tsukare ta node hayame ni ne ta"
   },
   "jlpt-n1-興じる-6": {
-    "kana": "きょうじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kyoujiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "きゅうじつ に ともだち と げえむ に きょうじる じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni kyoujiru jikan o tanoshin da"
   },
   "jlpt-n1-興奮-368": {
-    "kana": "じしょ で こうふん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koufun toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうふん について しばらく はなし た",
+    "romaji": "tomodachi to koufun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-興業-920": {
-    "kana": "のうと に こうぎょう を めいし として せいり し た",
-    "romaji": "nouto ni kougyou o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうぎょう について しばらく はなし た",
+    "romaji": "tomodachi to kougyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-舞う-228": {
-    "kana": "せんせい わ まう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "まち を まう やまやま が ゆうひ に そまっ た",
+    "romaji": "machi o mau yamayama ga yuuhi ni soma ta"
   },
   "jlpt-n1-航海-1007": {
-    "kana": "じしょ で こうかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koukai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-良い-296": {
-    "kana": "この ぶん で わ よい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa yoi ga hito ya mono no yousu o arawashi te iru"
+    "kana": "おもっ た より いい もんだい だっ た",
+    "romaji": "omo ta yori ii mondai da ta"
   },
   "jlpt-n1-良識-428": {
-    "kana": "のうと に りょうしき を めいし として せいり し た",
-    "romaji": "nouto ni ryoushiki o meishi toshite seiri shi ta"
+    "kana": "ともだち と りょうしき について しばらく はなし た",
+    "romaji": "tomodachi to ryoushiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-色々-1230": {
-    "kana": "じしょ で いろいろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de iroiro toiu meishi no imi o kakunin shi ta"
+    "kana": "いろいろ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "iroiro na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-色彩-935": {
-    "kana": "じしょ で しきさい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shikisai toiu meishi no imi o kakunin shi ta"
+    "kana": "しきさい の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "shikisai no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n1-花壇-471": {
-    "kana": "のうと に かだん を めいし として せいり し た",
-    "romaji": "nouto ni kadan o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と かだん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kadan ga totemo kirei ni mie ta"
   },
   "jlpt-n1-苗-705": {
-    "kana": "のうと に なえ を めいし として せいり し た",
-    "romaji": "nouto ni nae o meishi toshite seiri shi ta"
+    "kana": "ともだち と なえ について しばらく はなし た",
+    "romaji": "tomodachi to nae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-苛々-375": {
-    "kana": "れいぶん で わ 苛 が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa 苛 ga monogoto ya kangae o sashi te iru"
+    "kana": "ひつよう な ばめん で いらいら する ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de iraira suru houhou o kangae ta"
   },
   "jlpt-n1-苛める-489": {
-    "kana": "せんせい わ いじめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ijimeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で いじめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ijimeru houhou o kangae ta"
   },
   "jlpt-n1-若し-458": {
-    "kana": "のうと に もし を めいし として せいり し た",
-    "romaji": "nouto ni moshi o meishi toshite seiri shi ta"
+    "kana": "もし じかん が あれ ば もういちど あい たい",
+    "romaji": "moshi jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-若しかして-8": {
-    "kana": "れいぶん で わ もし かし て が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa moshi kashi te ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "もしかして じかん が あれ ば もういちど あい たい",
+    "romaji": "moshikashite jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-若しかすると-1069": {
-    "kana": "もし かする と わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "moshi kasuru to wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "もしか する と あした わ あめ に なる かも しれ ない",
+    "romaji": "moshika suru to ashita wa ame ni naru kamo shire nai"
   },
   "jlpt-n1-若しくは-616": {
-    "kana": "のうと に もしくは を めいし として せいり し た",
-    "romaji": "nouto ni moshikuha o meishi toshite seiri shi ta"
+    "kana": "かいぎ で もしくは について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moshikuha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-若しも-113": {
-    "kana": "のうと に もしも を めいし として せいり し た",
-    "romaji": "nouto ni moshimo o meishi toshite seiri shi ta"
+    "kana": "もしも じかん が あれ ば もういちど あい たい",
+    "romaji": "moshimo jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-若干-214": {
-    "kana": "じしょ で じゃっかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jakkan toiu meishi no imi o kakunin shi ta"
+    "kana": "あんぜん に じゃっかん ため に さき に じゅんび を し た",
+    "romaji": "anzen ni jakkan tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-英雄-608": {
-    "kana": "のうと に えいゆう を めいし として せいり し た",
-    "romaji": "nouto ni eiyuu o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる えいゆう に こえ を かけ た",
+    "romaji": "koma te iru eiyuu ni koe o kake ta"
   },
   "jlpt-n1-茶の間-827": {
-    "kana": "れいぶん で わ ちゃのま が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chanoma ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ちゃのま え いく みち を しらべ た",
+    "romaji": "shuumatsu ni chanoma e iku michi o shirabe ta"
   },
   "jlpt-n1-草臥れる-714": {
-    "kana": "くたびれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kutabireru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に くたびれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni kutabireru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-荒っぽい-582": {
-    "kana": "のうと に あらっぽい を めいし として せいり し た",
-    "romaji": "nouto ni arappoi o meishi toshite seiri shi ta"
+    "kana": "その せつめい わ すこし あらっぽい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi arappoi to kanji ta"
   },
   "jlpt-n1-荒らす-888": {
-    "kana": "れいぶん で わ あらす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa arasu ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を あらす はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o arasu hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n1-華やか-230": {
-    "kana": "じしょ で はなやか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hanayaka toiu meishi no imi o kakunin shi ta"
+    "kana": "はなやか な まち を ゆっくり あるい た",
+    "romaji": "hanayaka na machi o yukkuri arui ta"
   },
   "jlpt-n1-華美-520": {
-    "kana": "のうと に かび を めいし として せいり し た",
-    "romaji": "nouto ni kabi o meishi toshite seiri shi ta"
+    "kana": "かび な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kabi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-著書-1243": {
-    "kana": "じしょ で ちょしょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chosho toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に ちょしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni chosho o oi te kara dekake ta"
   },
   "jlpt-n1-落ち着き-19": {
-    "kana": "じしょ で おちつき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ochitsuki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おちつき について しばらく はなし た",
+    "romaji": "tomodachi to ochitsuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-落ち葉-1006": {
-    "kana": "れいぶん で わ おちば が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ochiba ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で おちば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ochiba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-落ち込む-291": {
-    "kana": "れいぶん で わ おちこむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ochikomu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で おちこむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ochikomu houhou o kangae ta"
   },
   "jlpt-n1-葦-534": {
-    "kana": "れいぶん で わ あし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かえりぎわ に よし と こえ を かけ た",
+    "romaji": "kaerigiwa ni yoshi to koe o kake ta"
   },
   "jlpt-n1-葬る-86": {
-    "kana": "ほうむる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "houmuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ほうむる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de houmuru houhou o kangae ta"
   },
   "jlpt-n1-蓄積-1002": {
-    "kana": "じしょ で ちくせき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chikuseki toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ちくせき え いく みち を しらべ た",
+    "romaji": "shuumatsu ni chikuseki e iku michi o shirabe ta"
   },
   "jlpt-n1-蕾-401": {
-    "kana": "れいぶん で わ つぼみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tsubomi ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる つぼみ に こえ を かけ た",
+    "romaji": "koma te iru tsubomi ni koe o kake ta"
   },
   "jlpt-n1-薄弱-536": {
-    "kana": "れいぶん で わ はくじゃく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hakujaku ga monogoto ya kangae o sashi te iru"
+    "kana": "はくじゃく な てん を さき に せつめい し た",
+    "romaji": "hakujaku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-藻掻く-316": {
-    "kana": "も かく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mo kaku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に もがく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni mogaku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-蛋白質-21": {
-    "kana": "じしょ で たんぱく しつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tanpaku shitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たんぱく しつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tanpaku shitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-蜂蜜-586": {
-    "kana": "れいぶん で わ はちみつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hachimitsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ひつよう な ばめん で はちみつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hachimitsu houhou o kangae ta"
   },
   "jlpt-n1-蝶-262": {
-    "kana": "のうと に ちょう を めいし として せいり し た",
-    "romaji": "nouto ni chou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちょう について しばらく はなし た",
+    "romaji": "tomodachi to chou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-血管-1261": {
-    "kana": "のうと に けっかん を めいし として せいり し た",
-    "romaji": "nouto ni kekkan o meishi toshite seiri shi ta"
+    "kana": "ともだち と けっかん について しばらく はなし た",
+    "romaji": "tomodachi to kekkan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-衆議院-350": {
-    "kana": "のうと に しゅうぎいん を めいし として せいり し た",
-    "romaji": "nouto ni shuugiin o meishi toshite seiri shi ta"
+    "kana": "ともだち と しゅうぎいん について しばらく はなし た",
+    "romaji": "tomodachi to shuugiin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-行き違い-76": {
-    "kana": "れいぶん で わ いきちがい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikichigai ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いき ちがい を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no iki chigai o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-行員-387": {
-    "kana": "のうと に こういん を めいし として せいり し た",
-    "romaji": "nouto ni kouin o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に こういん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kouin e iku michi o shirabe ta"
   },
   "jlpt-n1-行政-612": {
-    "kana": "れいぶん で わ ぎょうせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gyousei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぎょうせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gyousei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-行進-701": {
-    "kana": "じしょ で こうしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koushin toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koushin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-衝撃-658": {
-    "kana": "じしょ で しょうげき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shougeki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しょうげき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougeki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-補強-1066": {
-    "kana": "じしょ で ほきょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hokyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hokyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-補給-477": {
-    "kana": "じしょ で ほきゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hokyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ほきゅう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na hokyuu o asa no uchi ni atsume ta"
   },
   "jlpt-n1-裸足-892": {
-    "kana": "れいぶん で わ はだし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hadashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はだし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hadashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-製-847": {
-    "kana": "じしょ で せい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と せい について しばらく はなし た",
+    "romaji": "tomodachi to sei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-製鉄-583": {
-    "kana": "じしょ で せいてつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seitetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せいてつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seitetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-複合-860": {
-    "kana": "れいぶん で わ ふくごう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fukugou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ふくごう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukugou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-褒美-833": {
-    "kana": "のうと に ほうび を めいし として せいり し た",
-    "romaji": "nouto ni houbi o meishi toshite seiri shi ta"
+    "kana": "ともだち と ほうび について しばらく はなし た",
+    "romaji": "tomodachi to houbi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-襲撃-1023": {
-    "kana": "れいぶん で わ しゅうげき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuugeki ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうげき の てつづき を きげん まで に すませ た",
+    "romaji": "shuugeki no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-要因-948": {
-    "kana": "のうと に よういん を めいし として せいり し た",
-    "romaji": "nouto ni youin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で よういん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-要望-748": {
-    "kana": "れいぶん で わ ようぼう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa youbou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ようぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youbou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-覆す-924": {
-    "kana": "せんせい わ くつがえす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kutsugaesu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に くつがえす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kutsugaesu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-覆面-1193": {
-    "kana": "のうと に ふくめん を めいし として せいり し た",
-    "romaji": "nouto ni fukumen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ふくめん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukumen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-見すぼらしい-1159": {
-    "kana": "れいぶん で わ み す ぼ らしい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mi su bo rashii ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と み す ぼ らしい について しばらく はなし た",
+    "romaji": "tomodachi to mi su bo rashii nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-見せびらかす-736": {
-    "kana": "せんせい わ みせびらかす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa misebirakasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で みせびらかす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de misebirakasu houhou o kangae ta"
   },
   "jlpt-n1-見方-94": {
-    "kana": "じしょ で みかた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mikata toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の みかた を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no mikata o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-見晴らし-535": {
-    "kana": "のうと に みはらし を めいし として せいり し た",
-    "romaji": "nouto ni miharashi o meishi toshite seiri shi ta"
+    "kana": "しりょう の みはらし に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no miharashi ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-見積り-930": {
-    "kana": "れいぶん で わ みつもり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mitsumori ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と みつもり について しばらく はなし た",
+    "romaji": "tomodachi to mitsumori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-見落とす-448": {
-    "kana": "せんせい わ みおとす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa miotosu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で みおとす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de miotosu houhou o kangae ta"
   },
   "jlpt-n1-規模-92": {
-    "kana": "じしょ で きぼ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kibo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きぼ について しばらく はなし た",
+    "romaji": "tomodachi to kibo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-観点-1203": {
-    "kana": "れいぶん で わ かんてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanten ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の かんてん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no kanten o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-観衆-487": {
-    "kana": "のうと に かんしゅう を めいし として せいり し た",
-    "romaji": "nouto ni kanshuu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かんしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-観覧-908": {
-    "kana": "じしょ で かんらん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kanran toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の かんらん に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no kanran ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-角-635": {
-    "kana": "れいぶん で わ かく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かく について しばらく はなし た",
+    "romaji": "tomodachi to kaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-訂正-859": {
-    "kana": "れいぶん で わ ていせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa teisei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ていせい について しばらく はなし た",
+    "romaji": "tomodachi to teisei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-討論-777": {
-    "kana": "じしょ で とうろん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de touron toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で とうろん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de touron nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-討議-639": {
-    "kana": "じしょ で とうぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tougi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と とうぎ について しばらく はなし た",
+    "romaji": "tomodachi to tougi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-記名-1268": {
-    "kana": "のうと に きめい を めいし として せいり し た",
-    "romaji": "nouto ni kimei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kimei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-記載-1217": {
-    "kana": "のうと に きさい を めいし として せいり し た",
-    "romaji": "nouto ni kisai o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に きさい を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kisai o oi te kara dekake ta"
   },
   "jlpt-n1-訪れる-549": {
-    "kana": "せんせい わ おとずれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa otozureru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え おとずれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e otozureru yotei da"
   },
   "jlpt-n1-設定-103": {
-    "kana": "れいぶん で わ せってい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa settei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せってい について しばらく はなし た",
+    "romaji": "tomodachi to settei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-訴え-493": {
-    "kana": "れいぶん で わ うったえ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa uttae ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うったえ について しばらく はなし た",
+    "romaji": "tomodachi to uttae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-診療-25": {
-    "kana": "じしょ で しんりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinryou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しんりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-証-584": {
-    "kana": "じしょ で あかし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de akashi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で あかし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de akashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-詐欺-240": {
-    "kana": "れいぶん で わ さぎ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sagi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さぎ について しばらく はなし た",
+    "romaji": "tomodachi to sagi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-試みる-848": {
-    "kana": "れいぶん で わ こころみる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kokoromiru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え こころみる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e kokoromiru yotei da"
   },
   "jlpt-n1-詫び-1076": {
-    "kana": "れいぶん で わ わび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa wabi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と わび について しばらく はなし た",
+    "romaji": "tomodachi to wabi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-詰る-1131": {
-    "kana": "れいぶん で わ つまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsumaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で つまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsumaru houhou o kangae ta"
   },
   "jlpt-n1-誘惑-257": {
-    "kana": "れいぶん で わ ゆうわく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuuwaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ゆうわく について しばらく はなし た",
+    "romaji": "tomodachi to yuuwaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-誤る-481": {
-    "kana": "れいぶん で わ あやまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ayamaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あやまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ayamaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-誤魔化す-197": {
-    "kana": "ごまかす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "gomakasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ごまかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni gomakasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-読み上げる-1264": {
-    "kana": "れいぶん で わ よみあげる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yomiageru ga ugoki ya henka o arawashi te iru"
+    "kana": "さいご まで けいかく を よみあげる かくご を きめ た",
+    "romaji": "saigo made keikaku o yomiageru kakugo o kime ta"
   },
   "jlpt-n1-読者-1260": {
-    "kana": "じしょ で どくしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dokusha toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で どくしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dokusha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-誰-1051": {
-    "kana": "のうと に だれ を めいし として せいり し た",
-    "romaji": "nouto ni dare o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる たれ に こえ を かけ た",
+    "romaji": "koma te iru tare ni koe o kake ta"
   },
   "jlpt-n1-課外-649": {
-    "kana": "のうと に かがい を めいし として せいり し た",
-    "romaji": "nouto ni kagai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kagai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-調べ-699": {
-    "kana": "じしょ で しらべ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shirabe toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の しらべ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no shirabe ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-調停-731": {
-    "kana": "のうと に ちょうてい を めいし として せいり し た",
-    "romaji": "nouto ni choutei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちょうてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choutei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-諄い-342": {
-    "kana": "のうと に 諄 い を めいし として せいり し た",
-    "romaji": "nouto ni 諄 i o meishi toshite seiri shi ta"
+    "kana": "くどい みち を ゆっくり あるい た",
+    "romaji": "kudoi michi o yukkuri arui ta"
   },
   "jlpt-n1-論理-1009": {
-    "kana": "れいぶん で わ ろんり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ronri ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ろんり について しばらく はなし た",
+    "romaji": "tomodachi to ronri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-論議-660": {
-    "kana": "じしょ で ろんぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rongi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ろんぎ について しばらく はなし た",
+    "romaji": "tomodachi to rongi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-諦め-645": {
-    "kana": "じしょ で あきらめ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de akirame toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で あきらめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de akirame nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-諮る-273": {
-    "kana": "はかる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hakaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい あん を はかる かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o hakaru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n1-諸君-168": {
-    "kana": "れいぶん で わ しょくん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shokun ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょくん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shokun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-講習-656": {
-    "kana": "じしょ で こうしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koushuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koushuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-謝絶-203": {
-    "kana": "じしょ で しゃぜつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shazetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゃぜつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shazetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-議案-303": {
-    "kana": "れいぶん で わ ぎあん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gian ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぎあん について しばらく はなし た",
+    "romaji": "tomodachi to gian nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-負う-16": {
-    "kana": "おう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ou wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで おう ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made ou hito o sagashi ta"
   },
   "jlpt-n1-負かす-500": {
-    "kana": "まかす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "makasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に まかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni makasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-負傷-173": {
-    "kana": "れいぶん で わ ふしょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fushou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ふしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fushou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-負担-191": {
-    "kana": "のうと に ふたん を めいし として せいり し た",
-    "romaji": "nouto ni futan o meishi toshite seiri shi ta"
+    "kana": "ふたん の てつづき を きげん まで に すませ た",
+    "romaji": "futan no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-財-450": {
-    "kana": "のうと に ざい を めいし として せいり し た",
-    "romaji": "nouto ni zai o meishi toshite seiri shi ta"
+    "kana": "こうじょう に ひつよう な ざい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na zai o asa no uchi ni atsume ta"
   },
   "jlpt-n1-貨幣-715": {
-    "kana": "のうと に かへい を めいし として せいり し た",
-    "romaji": "nouto ni kahei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かへい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kahei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-貫禄-294": {
-    "kana": "れいぶん で わ かんろく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanroku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かんろく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanroku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-貴女-170": {
-    "kana": "じしょ で きじょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kijo toiu meishi no imi o kakunin shi ta"
+    "kana": "あなた わ しずか に うなずい た",
+    "romaji": "anata wa shizuka ni unazui ta"
   },
   "jlpt-n1-費やす-891": {
-    "kana": "ついやす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsuiyasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ついやす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsuiyasu houhou o kangae ta"
   },
   "jlpt-n1-賃金-1020": {
-    "kana": "れいぶん で わ ちんぎん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chingin ga monogoto ya kangae o sashi te iru"
+    "kana": "ちんぎん の てつづき を きげん まで に すませ た",
+    "romaji": "chingin no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-賄う-946": {
-    "kana": "れいぶん で わ まかなう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa makanau ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に まかなう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni makanau tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-資産-1162": {
-    "kana": "じしょ で しさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shisan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しさん について しばらく はなし た",
+    "romaji": "tomodachi to shisan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-質疑-1044": {
-    "kana": "れいぶん で わ しつぎ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitsugi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しつぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitsugi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-質素-845": {
-    "kana": "じしょ で しっそ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shisso toiu meishi no imi o kakunin shi ta"
+    "kana": "しっそ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shisso na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-賭け-5": {
-    "kana": "れいぶん で わ かけ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kake ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-賭ける-573": {
-    "kana": "かける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で かける ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kakeru houhou o kangae ta"
   },
   "jlpt-n1-購読-23": {
-    "kana": "れいぶん で わ こうどく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koudoku ga monogoto ya kangae o sashi te iru"
+    "kana": "すき な ざっし の こうどく を もうしこん だ",
+    "romaji": "suki na zasshi no koudoku o moushikon da"
   },
   "jlpt-n1-赤ちゃん-475": {
-    "kana": "れいぶん で わ あかちゃん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa akachan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あかちゃん について しばらく はなし た",
+    "romaji": "tomodachi to akachan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-赤字-911": {
-    "kana": "じしょ で あかじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de akaji toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる あかじ に こえ を かけ た",
+    "romaji": "koma te iru akaji ni koe o kake ta"
   },
   "jlpt-n1-起こす-944": {
-    "kana": "せんせい わ おこす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa okosu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で おこす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de okosu houhou o kangae ta"
   },
   "jlpt-n1-起源-873": {
-    "kana": "じしょ で きげん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kigen toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きげん について しばらく はなし た",
+    "romaji": "tomodachi to kigen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-起点-598": {
-    "kana": "れいぶん で わ きてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kiten ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きてん について しばらく はなし た",
+    "romaji": "tomodachi to kiten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-趣旨-371": {
-    "kana": "のうと に しゅし を めいし として せいり し た",
-    "romaji": "nouto ni shushi o meishi toshite seiri shi ta"
+    "kana": "ちかく の みせ で しゅし を みつけ た",
+    "romaji": "chikaku no mise de shushi o mitsuke ta"
   },
   "jlpt-n1-跡継ぎ-256": {
-    "kana": "じしょ で あとつぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de atotsugi toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる あとつぎ に こえ を かけ た",
+    "romaji": "koma te iru atotsugi ni koe o kake ta"
   },
   "jlpt-n1-踵-1025": {
-    "kana": "のうと に かかと を めいし として せいり し た",
-    "romaji": "nouto ni kakato o meishi toshite seiri shi ta"
+    "kana": "さむく なっ た ので かかと を はおっ た",
+    "romaji": "samuku na ta node kakato o hao ta"
   },
   "jlpt-n1-身なり-1248": {
-    "kana": "のうと に みなり を めいし として せいり し た",
-    "romaji": "nouto ni minari o meishi toshite seiri shi ta"
+    "kana": "さむく なっ た ので みなり を はおっ た",
+    "romaji": "samuku na ta node minari o hao ta"
   },
   "jlpt-n1-軋む-1040": {
-    "kana": "きしむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kishimu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に きしむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kishimu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-軍備-1102": {
-    "kana": "じしょ で ぐんび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gunbi toiu meishi no imi o kakunin shi ta"
+    "kana": "ぐんび が こっきょう ちかく に はいち さ れ た",
+    "romaji": "gunbi ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-軍服-141": {
-    "kana": "じしょ で ぐんぷく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gunpuku toiu meishi no imi o kakunin shi ta"
+    "kana": "ぐんぷく が こっきょう ちかく に はいち さ れ た",
+    "romaji": "gunpuku ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-軍艦-306": {
-    "kana": "れいぶん で わ ぐんかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gunkan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぐんかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gunkan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-転任-1061": {
-    "kana": "じしょ で てんにん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tennin toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で てんにん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tennin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-転勤-1255": {
-    "kana": "れいぶん で わ てんきん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tenkin ga monogoto ya kangae o sashi te iru"
+    "kana": "えきまえ の てんきん で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no tenkin de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-転居-469": {
-    "kana": "れいぶん で わ てんきょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tenkyo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と てんきょ について しばらく はなし た",
+    "romaji": "tomodachi to tenkyo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-転落-852": {
-    "kana": "れいぶん で わ てんらく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tenraku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と てんらく について しばらく はなし た",
+    "romaji": "tomodachi to tenraku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-軸-1143": {
-    "kana": "じしょ で じく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jiku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jiku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-軽蔑-865": {
-    "kana": "のうと に けいべつ を めいし として せいり し た",
-    "romaji": "nouto ni keibetsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けいべつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keibetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-辛うじて-109": {
-    "kana": "のうと に かろうじて を めいし として せいり し た",
-    "romaji": "nouto ni karoujite o meishi toshite seiri shi ta"
+    "kana": "かろうじて へんじ が とどい た ので あんしん し た",
+    "romaji": "karoujite henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-辞職-96": {
-    "kana": "れいぶん で わ じしょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jishoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じしょく について しばらく はなし た",
+    "romaji": "tomodachi to jishoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-辞退-997": {
-    "kana": "のうと に じたい を めいし として せいり し た",
-    "romaji": "nouto ni jitai o meishi toshite seiri shi ta"
+    "kana": "たよう な じたい の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na jitai no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-辟易-1202": {
-    "kana": "のうと に へきえき を めいし として せいり し た",
-    "romaji": "nouto ni hekieki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で へきえき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hekieki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-農耕-207": {
-    "kana": "じしょ で のうこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de noukou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で のうこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de noukou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-迅速-912": {
-    "kana": "れいぶん で わ じんそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jinsoku ga monogoto ya kangae o sashi te iru"
+    "kana": "じんそく な てん を さき に せつめい し た",
+    "romaji": "jinsoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-近々-1022": {
-    "kana": "のうと に ちかぢか を めいし として せいり し た",
-    "romaji": "nouto ni chikajika o meishi toshite seiri shi ta"
+    "kana": "ちかぢか よてい を へんこう し た",
+    "romaji": "chikajika yotei o henkou shi ta"
   },
   "jlpt-n1-返答-315": {
-    "kana": "れいぶん で わ へんとう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hentou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で へんとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hentou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-返還-1026": {
-    "kana": "れいぶん で わ へんかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa henkan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で へんかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de henkan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-追及-767": {
-    "kana": "のうと に ついきゅう を めいし として せいり し た",
-    "romaji": "nouto ni tsuikyuu o meishi toshite seiri shi ta"
+    "kana": "ともだち と ついきゅう について しばらく はなし た",
+    "romaji": "tomodachi to tsuikyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-退く-1054": {
-    "kana": "せんせい わ しりぞく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shirizoku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひきだし から ふるい てがみ を しりぞく と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o shirizoku to natsukashiku na ta"
   },
   "jlpt-n1-退学-851": {
-    "kana": "のうと に たいがく を めいし として せいり し た",
-    "romaji": "nouto ni taigaku o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に たいがく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni taigaku e iku michi o shirabe ta"
   },
   "jlpt-n1-退職-675": {
-    "kana": "れいぶん で わ たいしょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taishoku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たいしょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taishoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-逃す-1050": {
-    "kana": "せんせい わ のがす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nogasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え のがす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e nogasu yotei da"
   },
   "jlpt-n1-逃走-854": {
-    "kana": "のうと に とうそう を めいし として せいり し た",
-    "romaji": "nouto ni tousou o meishi toshite seiri shi ta"
+    "kana": "ともだち と とうそう について しばらく はなし た",
+    "romaji": "tomodachi to tousou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-逆立ち-1154": {
-    "kana": "のうと に さかだち を めいし として せいり し た",
-    "romaji": "nouto ni sakadachi o meishi toshite seiri shi ta"
+    "kana": "ともだち と さかだち について しばらく はなし た",
+    "romaji": "tomodachi to sakadachi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-途上-30": {
-    "kana": "じしょ で とじょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tojou toiu meishi no imi o kakunin shi ta"
+    "kana": "あたらしい さあびす の とじょう が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no tojou ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-通常-1008": {
-    "kana": "つうじょう わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "tsuujou wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ともだち と つうじょう について しばらく はなし た",
+    "romaji": "tomodachi to tsuujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-造り-55": {
-    "kana": "のうと に つくり を めいし として せいり し た",
-    "romaji": "nouto ni tsukuri o meishi toshite seiri shi ta"
+    "kana": "あたらしい さあびす の つくり が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no tsukuri ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-造る-687": {
-    "kana": "れいぶん で わ つくる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukuru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を つくる けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o tsukuru keikaku o tate ta"
   },
   "jlpt-n1-連ねる-820": {
-    "kana": "せんせい わ つらねる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsuraneru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に つらねる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsuraneru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-連中-527": {
-    "kana": "のうと に れんちゅう を めいし として せいり し た",
-    "romaji": "nouto ni renchuu o meishi toshite seiri shi ta"
+    "kana": "えきまえ の れんちゅう で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no renchuu de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-連帯-647": {
-    "kana": "のうと に れんたい を めいし として せいり し た",
-    "romaji": "nouto ni rentai o meishi toshite seiri shi ta"
+    "kana": "ともだち と れんたい について しばらく はなし た",
+    "romaji": "tomodachi to rentai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-連邦-955": {
-    "kana": "じしょ で れんぽう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de renpou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で れんぽう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de renpou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-進み-1207": {
-    "kana": "れいぶん で わ すすみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa susumi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と すすみ について しばらく はなし た",
+    "romaji": "tomodachi to susumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-進展-504": {
-    "kana": "じしょ で しんてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinten toiu meishi no imi o kakunin shi ta"
+    "kana": "あたらしい さあびす の しんてん が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no shinten ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-進度-706": {
-    "kana": "じしょ で しんど という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shindo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しんど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shindo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-逸らす-804": {
-    "kana": "せんせい わ そらす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sorasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で そらす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sorasu houhou o kangae ta"
   },
   "jlpt-n1-遅くとも-542": {
-    "kana": "じしょ で おそくとも という めいし の いみ を かくにん し た",
-    "romaji": "jisho de osokutomo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おそくとも について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de osokutomo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-遅れ-174": {
-    "kana": "じしょ で おくれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de okure toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おくれ について しばらく はなし た",
+    "romaji": "tomodachi to okure nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-遊牧-640": {
-    "kana": "じしょ で ゆうぼく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuuboku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ゆうぼく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuboku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-運命-1238": {
-    "kana": "のうと に うんめい を めいし として せいり し た",
-    "romaji": "nouto ni unmei o meishi toshite seiri shi ta"
+    "kana": "ともだち と うんめい について しばらく はなし た",
+    "romaji": "tomodachi to unmei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-運営-229": {
-    "kana": "れいぶん で わ うんえい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa un'ei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で うんえい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de un'ei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-運搬-1284": {
-    "kana": "のうと に うんぱん を めいし として せいり し た",
-    "romaji": "nouto ni unpan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で うんぱん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de unpan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-過労-742": {
-    "kana": "のうと に かろう を めいし として せいり し た",
-    "romaji": "nouto ni karou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かろう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de karou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-違える-128": {
-    "kana": "れいぶん で わ ちがえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa chigaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ちがえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de chigaeru houhou o kangae ta"
   },
   "jlpt-n1-遠ざかる-215": {
-    "kana": "せんせい わ とおざかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa toozakaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に とおざかる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni toozakaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-遣り通す-422": {
-    "kana": "せんせい わ やり とおす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yari toosu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を やり とおす かくご を きめ た",
+    "romaji": "saigo made keikaku o yari toosu kakugo o kime ta"
   },
   "jlpt-n1-適性-1226": {
-    "kana": "のうと に てきせい を めいし として せいり し た",
-    "romaji": "nouto ni tekisei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で てきせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tekisei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-遭難-259": {
-    "kana": "れいぶん で わ そうなん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sounan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と そうなん について しばらく はなし た",
+    "romaji": "tomodachi to sounan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-還元-901": {
-    "kana": "じしょ で かんげん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kangen toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かんげん について しばらく はなし た",
+    "romaji": "tomodachi to kangen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-還暦-666": {
-    "kana": "のうと に かんれき を めいし として せいり し た",
-    "romaji": "nouto ni kanreki o meishi toshite seiri shi ta"
+    "kana": "かんれき に だいじ な よてい が はいっ て いる",
+    "romaji": "kanreki ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-部-334": {
-    "kana": "れいぶん で わ ぶ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bu ga monogoto ya kangae o sashi te iru"
+    "kana": "えきまえ の ぶ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no bu de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-部下-226": {
-    "kana": "のうと に ぶか を めいし として せいり し た",
-    "romaji": "nouto ni buka o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる ぶか に こえ を かけ た",
+    "romaji": "koma te iru buka ni koe o kake ta"
   },
   "jlpt-n1-部門-510": {
-    "kana": "のうと に ぶもん を めいし として せいり し た",
-    "romaji": "nouto ni bumon o meishi toshite seiri shi ta"
+    "kana": "あめあがり の ぶもん に そら が うつっ て い た",
+    "romaji": "ameagari no bumon ni sora ga utsu te i ta"
   },
   "jlpt-n1-配分-433": {
-    "kana": "じしょ で はいぶん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haibun toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はいぶん について しばらく はなし た",
+    "romaji": "tomodachi to haibun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-配列-28": {
-    "kana": "れいぶん で わ はいれつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hairetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と はいれつ について しばらく はなし た",
+    "romaji": "tomodachi to hairetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-配給-300": {
-    "kana": "じしょ で はいきゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haikyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に はいきゅう を すこし たべ た",
+    "romaji": "hiru gohan ni haikyuu o sukoshi tabe ta"
   },
   "jlpt-n1-酪農-784": {
-    "kana": "のうと に らくのう を めいし として せいり し た",
-    "romaji": "nouto ni rakunou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で らくのう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rakunou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-酷い-265": {
-    "kana": "この ぶん で わ ひどい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa hidoi ga hito ya mono no yousu o arawashi te iru"
+    "kana": "その せつめい わ すこし ひどい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi hidoi to kanji ta"
   },
   "jlpt-n1-重んじる-129": {
-    "kana": "おもんじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "omonjiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に おもんじる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni omonjiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-重んずる-781": {
-    "kana": "せんせい わ おもんずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa omonzuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で おもんずる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de omonzuru houhou o kangae ta"
   },
   "jlpt-n1-重複-663": {
-    "kana": "じしょ で じゅうふく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de juufuku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じゅうふく について しばらく はなし た",
+    "romaji": "tomodachi to juufuku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-野党-33": {
-    "kana": "のうと に やとう を めいし として せいり し た",
-    "romaji": "nouto ni yatou o meishi toshite seiri shi ta"
+    "kana": "ともだち と やとう について しばらく はなし た",
+    "romaji": "tomodachi to yatou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鈍感-680": {
-    "kana": "じしょ で どんかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de donkan toiu meishi no imi o kakunin shi ta"
+    "kana": "どんかん な せいせき が つづき げんいん を みなおし た",
+    "romaji": "donkan na seiseki ga tsuzuki gen'in o minaoshi ta"
   },
   "jlpt-n1-鉄棒-830": {
-    "kana": "のうと に てつぼう を めいし として せいり し た",
-    "romaji": "nouto ni tetsubou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で てつぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tetsubou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-鉛-337": {
-    "kana": "じしょ で なまり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de namari toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で なまり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de namari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-鉱山-185": {
-    "kana": "のうと に こうざん を めいし として せいり し た",
-    "romaji": "nouto ni kouzan o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうざん について しばらく はなし た",
+    "romaji": "tomodachi to kouzan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-銅-789": {
-    "kana": "じしょ で どう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と どう について しばらく はなし た",
+    "romaji": "tomodachi to dou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鋸-785": {
-    "kana": "のうと に のこ を めいし として せいり し た",
-    "romaji": "nouto ni noko o meishi toshite seiri shi ta"
+    "kana": "ともだち と のこぎり について しばらく はなし た",
+    "romaji": "tomodachi to nokogiri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-錯覚-377": {
-    "kana": "じしょ で さっかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sakkaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さっかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sakkaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-鍛える-1168": {
-    "kana": "れいぶん で わ きたえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kitaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に きたえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kitaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-長-326": {
-    "kana": "じしょ で ちょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chou toiu meishi no imi o kakunin shi ta"
+    "kana": "ちょう が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "chou ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-長官-513": {
-    "kana": "じしょ で ちょうかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de choukan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ちょうかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choukan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-長閑-15": {
-    "kana": "のどか わ めいし の まえ で のどか な の かたち で も つかう",
-    "romaji": "nodoka wa meishi no mae de nodoka na no katachi de mo tsukau"
+    "kana": "のどか な きこう の まち で くらし たい",
+    "romaji": "nodoka na kikou no machi de kurashi tai"
   },
   "jlpt-n1-閉口-100": {
-    "kana": "のうと に へいこう を めいし として せいり し た",
-    "romaji": "nouto ni heikou o meishi toshite seiri shi ta"
+    "kana": "あんぜん に へいこう する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni heikou suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-開催-41": {
-    "kana": "じしょ で かいさい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaisai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かいさい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaisai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-開拓-184": {
-    "kana": "れいぶん で わ かいたく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaitaku ga monogoto ya kangae o sashi te iru"
+    "kana": "あたらしい さあびす の かいたく が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kaitaku ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-開発-11": {
-    "kana": "じしょ で かいはつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaihatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "あたらしい さあびす の かいはつ が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kaihatsu ga yotei yori hayaku susun de iru"
   },
   "jlpt-n1-間柄-966": {
-    "kana": "のうと に あいだがら を めいし として せいり し た",
-    "romaji": "nouto ni aidagara o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あいだがら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aidagara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-関与-916": {
-    "kana": "のうと に かんよ を めいし として せいり し た",
-    "romaji": "nouto ni kan'yo o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かんよ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kan'yo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-関税-454": {
-    "kana": "れいぶん で わ かんぜい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanzei ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の かんぜい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kanzei wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-閲覧-49": {
-    "kana": "のうと に えつらん を めいし として せいり し た",
-    "romaji": "nouto ni etsuran o meishi toshite seiri shi ta"
+    "kana": "しりょう の えつらん に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no etsuran ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-防火-1152": {
-    "kana": "のうと に ぼうか を めいし として せいり し た",
-    "romaji": "nouto ni bouka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぼうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-阻む-50": {
-    "kana": "れいぶん で わ はばむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa habamu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で はばむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de habamu houhou o kangae ta"
   },
   "jlpt-n1-降水-895": {
-    "kana": "れいぶん で わ こうすい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kousui ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こうすい について しばらく はなし た",
+    "romaji": "tomodachi to kousui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-陳列-601": {
-    "kana": "れいぶん で わ ちんれつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chinretsu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と ちんれつ を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to chinretsu o mi ni i ta"
   },
   "jlpt-n1-隔週-1155": {
-    "kana": "のうと に かくしゅう を めいし として せいり し た",
-    "romaji": "nouto ni kakushuu o meishi toshite seiri shi ta"
+    "kana": "かくしゅう へんじ が とどい た ので あんしん し た",
+    "romaji": "kakushuu henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-際-389": {
-    "kana": "のうと に きわ を めいし として せいり し た",
-    "romaji": "nouto ni kiwa o meishi toshite seiri shi ta"
+    "kana": "さい に だいじ な よてい が はいっ て いる",
+    "romaji": "sai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-障る-754": {
-    "kana": "れいぶん で わ さわる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sawaru ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を さわる はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o sawaru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n1-雅致-741": {
-    "kana": "じしょ で がち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gachi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と がち について しばらく はなし た",
+    "romaji": "tomodachi to gachi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-雑-205": {
-    "kana": "れいぶん で わ ざつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ざつ な てん を さき に せつめい し た",
+    "romaji": "zatsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-雑談-64": {
-    "kana": "れいぶん で わ ざつだん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zatsudan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ざつだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zatsudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-雑貨-733": {
-    "kana": "のうと に ざっか を めいし として せいり し た",
-    "romaji": "nouto ni zakka o meishi toshite seiri shi ta"
+    "kana": "こうじょう に ひつよう な ざっか を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na zakka o asa no uchi ni atsume ta"
   },
   "jlpt-n1-難い-376": {
-    "kana": "かたい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "katai wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "おもっ た より かたい もんだい だっ た",
+    "romaji": "omo ta yori katai mondai da ta"
   },
   "jlpt-n1-雪崩-923": {
-    "kana": "のうと に なだれ を めいし として せいり し た",
-    "romaji": "nouto ni nadare o meishi toshite seiri shi ta"
+    "kana": "ともだち と なだれ について しばらく はなし た",
+    "romaji": "tomodachi to nadare nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-雫-1055": {
-    "kana": "じしょ で しずく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shizuku toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい しずく を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai shizuku o ippai non da"
   },
   "jlpt-n1-零す-424": {
-    "kana": "れいぶん で わ こぼす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kobosu ga ugoki ya henka o arawashi te iru"
+    "kana": "たな から にもつ を こぼす とき わ あしもと に き を つける",
+    "romaji": "tana kara nimotsu o kobosu toki wa ashimoto ni ki o tsukeru"
   },
   "jlpt-n1-雷-1134": {
-    "kana": "じしょ で かみなり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaminari toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かみなり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaminari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-霞む-1018": {
-    "kana": "かすむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kasumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に かすむ ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni kasumu koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-静止-236": {
-    "kana": "せいし わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "seishi wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ともだち と せいし について しばらく はなし た",
+    "romaji": "tomodachi to seishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-非-464": {
-    "kana": "のうと に ひ を めいし として せいり し た",
-    "romaji": "nouto ni hi o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひ について しばらく はなし た",
+    "romaji": "tomodachi to hi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-面-1038": {
-    "kana": "のうと に めん を めいし として せいり し た",
-    "romaji": "nouto ni men o meishi toshite seiri shi ta"
+    "kana": "ふうとう の めん に じゅうしょ を かい た",
+    "romaji": "fuutou no men ni juusho o kai ta"
   },
   "jlpt-n1-面する-329": {
-    "kana": "せんせい わ めんする を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mensuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で めんする ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mensuru houhou o kangae ta"
   },
   "jlpt-n1-面皰-392": {
-    "kana": "のうと に にきび を めいし として せいり し た",
-    "romaji": "nouto ni nikibi o meishi toshite seiri shi ta"
+    "kana": "ともだち と にきび について しばらく はなし た",
+    "romaji": "tomodachi to nikibi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鞠-1101": {
-    "kana": "じしょ で まり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mari toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で まり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-音-54": {
-    "kana": "じしょ で おと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de oto toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おと について しばらく はなし た",
+    "romaji": "tomodachi to oto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-頂-725": {
-    "kana": "のうと に いただき を めいし として せいり し た",
-    "romaji": "nouto ni itadaki o meishi toshite seiri shi ta"
+    "kana": "やま の いただき から まち ぜんたい が みえ た",
+    "romaji": "yama no itadaki kara machi zentai ga mie ta"
   },
   "jlpt-n1-頑丈-407": {
-    "kana": "のうと に がんじょう を めいし として せいり し た",
-    "romaji": "nouto ni ganjou o meishi toshite seiri shi ta"
+    "kana": "がんじょう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "ganjou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-領土-556": {
-    "kana": "じしょ で りょうど という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ryoudo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と りょうど について しばらく はなし た",
+    "romaji": "tomodachi to ryoudo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-領域-1212": {
-    "kana": "れいぶん で わ りょういき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryouiki ga monogoto ya kangae o sashi te iru"
+    "kana": "あめあがり の りょういき に そら が うつっ て い た",
+    "romaji": "ameagari no ryouiki ni sora ga utsu te i ta"
   },
   "jlpt-n1-頻りに-263": {
-    "kana": "しきりに を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "shikirini o ireru to bun no nyuansu ga kawaru"
+    "kana": "しきりに よてい を へんこう し た",
+    "romaji": "shikirini yotei o henkou shi ta"
   },
   "jlpt-n1-頻繁-1186": {
-    "kana": "れいぶん で わ ひんぱん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hinpan ga monogoto ya kangae o sashi te iru"
+    "kana": "ひんぱん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hinpan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-顧みる-1096": {
-    "kana": "れいぶん で わ かえりみる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kaerimiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に かえりみる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kaerimiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n1-風土-150": {
-    "kana": "れいぶん で わ ふうど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fuudo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ふうど について しばらく はなし た",
+    "romaji": "tomodachi to fuudo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-風習-67": {
-    "kana": "じしょ で ふうしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fuushuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ふうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fuushuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-風車-2": {
-    "kana": "じしょ で かざぐるま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kazaguruma toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の みせ で かざぐるま を みつけ た",
+    "romaji": "chikaku no mise de kazaguruma o mitsuke ta"
   },
   "jlpt-n1-食い違う-735": {
-    "kana": "せんせい わ くいちがう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kuichigau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よてい が くいちがう ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga kuichigau hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-飼育-958": {
-    "kana": "じしょ で しいく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shiiku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しいく について しばらく はなし た",
+    "romaji": "tomodachi to shiiku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-養う-718": {
-    "kana": "れいぶん で わ やしなう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yashinau ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで やしなう ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made yashinau hito o sagashi ta"
   },
   "jlpt-n1-養護-1273": {
-    "kana": "じしょ で ようご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yougo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ようご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yougo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-饂飩-425": {
-    "kana": "れいぶん で わ うどん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa udon ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で うどん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de udon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-首脳-17": {
-    "kana": "じしょ で しゅのう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shunou toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅのう な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "shunou na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-馬鹿馬鹿しい-154": {
-    "kana": "のうと に ばかばかしい を めいし として せいり し た",
-    "romaji": "nouto ni bakabakashii o meishi toshite seiri shi ta"
+    "kana": "その せつめい わ すこし ばかばかしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi bakabakashii to kanji ta"
   },
   "jlpt-n1-馴れ馴れしい-711": {
-    "kana": "じしょ で なれなれしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de narenareshii toiu meishi no imi o kakunin shi ta"
+    "kana": "おもっ た より なれなれしい もんだい だっ た",
+    "romaji": "omo ta yori narenareshii mondai da ta"
   },
   "jlpt-n1-駄作-1148": {
-    "kana": "じしょ で ださく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dasaku toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の ださく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no dasaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-駆けっこ-747": {
-    "kana": "れいぶん で わ かけっ こ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kake ko ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な かけっこ の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na kakekko no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-驚き-692": {
-    "kana": "じしょ で おどろき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de odoroki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おどろき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de odoroki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-骨董品-567": {
-    "kana": "のうと に こっとう ひん を めいし として せいり し た",
-    "romaji": "nouto ni kottou hin o meishi toshite seiri shi ta"
+    "kana": "ともだち と こっとう ひん について しばらく はなし た",
+    "romaji": "tomodachi to kottou hin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-高原-483": {
-    "kana": "れいぶん で わ こうげん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kougen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で こうげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kougen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-魂-441": {
-    "kana": "じしょ で たましい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tamashii toiu meishi no imi o kakunin shi ta"
+    "kana": "たましい な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "tamashii na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-鳥居-749": {
-    "kana": "れいぶん で わ とりい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa torii ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と とりい について しばらく はなし た",
+    "romaji": "tomodachi to torii nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-麻-696": {
-    "kana": "れいぶん で わ あさ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa asa ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で あさ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de asa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-麻酔-1048": {
-    "kana": "じしょ で ますい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de masui toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ますい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de masui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-黄色-662": {
-    "kana": "じしょ で きいろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kiiro toiu meishi no imi o kakunin shi ta"
+    "kana": "きいろ な てん を さき に せつめい し た",
+    "romaji": "kiiro na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-黴菌-70": {
-    "kana": "れいぶん で わ ばいきん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa baikin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ばいきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de baikin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-齎らす-38": {
-    "kana": "齎 ら す わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "齎 ra su wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで もたらす ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made motarasu hito o sagashi ta"
   },
   "jlpt-n2-お代わり-1317": {
-    "kana": "れいぶん で わ お かわり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o kawari ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の みせ で お かわり を みつけ た",
+    "romaji": "chikaku no mise de o kawari o mitsuke ta"
   },
   "jlpt-n2-お帰り-1923": {
-    "kana": "のうと に お かえり を めいし として せいり し た",
-    "romaji": "nouto ni o kaeri o meishi toshite seiri shi ta"
+    "kana": "かいぎ で お かえり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o kaeri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-しいんと-1441": {
-    "kana": "れいぶん で わ しいんと が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa shiinto ga joutai ya seishitsu o arawashi te iru"
+    "kana": "しいんと な まち を ゆっくり あるい た",
+    "romaji": "shiinto na machi o yukkuri arui ta"
   },
   "jlpt-n2-だいいち-1889": {
-    "kana": "じしょ で だいいち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de daiichi toiu meishi no imi o kakunin shi ta"
+    "kana": "だいいち な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "daiichi na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-ミリ-1641": {
-    "kana": "じしょ で みり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de miri toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と みり について しばらく はなし た",
+    "romaji": "tomodachi to miri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-一定-1790": {
-    "kana": "じしょ で いってい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ittei toiu meishi no imi o kakunin shi ta"
+    "kana": "あんぜん に いってい する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ittei suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-一斉-1811": {
-    "kana": "じしょ で いっせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de issei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いっせい について しばらく はなし た",
+    "romaji": "tomodachi to issei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-一昨年-1751": {
-    "kana": "れいぶん で わ いっさくねん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa issakunen ga monogoto ya kangae o sashi te iru"
+    "kana": "いっさくねん に だいじ な よてい が はいっ て いる",
+    "romaji": "issakunen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-一昨日-1542": {
-    "kana": "のうと に おととい を めいし として せいり し た",
-    "romaji": "nouto ni ototoi o meishi toshite seiri shi ta"
+    "kana": "おととい わ はやめ に いえ を で た",
+    "romaji": "ototoi wa hayame ni ie o de ta"
   },
   "jlpt-n2-一通り-1557": {
-    "kana": "じしょ で いち とおり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichi toori toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いち とおり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ichi toori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-三日月-1366": {
-    "kana": "じしょ で みかづき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mikazuki toiu meishi no imi o kakunin shi ta"
+    "kana": "よぞら に みかづき が しずか に うかん で い た",
+    "romaji": "yozora ni mikazuki ga shizuka ni ukan de i ta"
   },
   "jlpt-n2-上る-1843": {
-    "kana": "のぼる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "noboru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え のぼる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e noboru yotei da"
   },
   "jlpt-n2-上旬-1810": {
-    "kana": "れいぶん で わ じょうじゅん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa joujun ga monogoto ya kangae o sashi te iru"
+    "kana": "じょうじゅん に だいじ な よてい が はいっ て いる",
+    "romaji": "joujun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-上級-1842": {
-    "kana": "じしょ で じょうきゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de joukyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の じょうきゅう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no joukyuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-下品-1532": {
-    "kana": "じしょ で げひん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gehin toiu meishi no imi o kakunin shi ta"
+    "kana": "げひん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "gehin na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-下旬-1863": {
-    "kana": "じしょ で げじゅん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gejun toiu meishi no imi o kakunin shi ta"
+    "kana": "げじゅん に だいじ な よてい が はいっ て いる",
+    "romaji": "gejun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-下町-1907": {
-    "kana": "れいぶん で わ したまち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitamachi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で したまち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitamachi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-下車-1463": {
-    "kana": "のうと に げしゃ を めいし として せいり し た",
-    "romaji": "nouto ni gesha o meishi toshite seiri shi ta"
+    "kana": "かいぎ で げしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gesha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-下降-1932": {
-    "kana": "れいぶん で わ かこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かこう について しばらく はなし た",
+    "romaji": "tomodachi to kakou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-不規則-1832": {
-    "kana": "じしょ で ふきそく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fukisoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ふきそく な てん を さき に せつめい し た",
+    "romaji": "fukisoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-両側-1892": {
-    "kana": "れいぶん で わ りょうがわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryougawa ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と りょうがわ について しばらく はなし た",
+    "romaji": "tomodachi to ryougawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-並木-1382": {
-    "kana": "れいぶん で わ なみき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa namiki ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と なみき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to namiki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-並行-1543": {
-    "kana": "れいぶん で わ へいこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa heikou ga monogoto ya kangae o sashi te iru"
+    "kana": "へいこう に だいじ な よてい が はいっ て いる",
+    "romaji": "heikou ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-中世-1290": {
-    "kana": "のうと に ちゅうせい を めいし として せいり し た",
-    "romaji": "nouto ni chuusei o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちゅうせい について しばらく はなし た",
+    "romaji": "tomodachi to chuusei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-中味-1507": {
-    "kana": "れいぶん で わ なかみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nakami ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で なかみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nakami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-中性-1312": {
-    "kana": "のうと に ちゅうせい を めいし として せいり し た",
-    "romaji": "nouto ni chuusei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちゅうせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuusei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-中旬-1447": {
-    "kana": "じしょ で ちゅうじゅん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chuujun toiu meishi no imi o kakunin shi ta"
+    "kana": "ちゅうじゅん に だいじ な よてい が はいっ て いる",
+    "romaji": "chuujun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-主役-1598": {
-    "kana": "のうと に しゅやく を めいし として せいり し た",
-    "romaji": "nouto ni shuyaku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しゅやく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuyaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-丼-1678": {
-    "kana": "じしょ で どんぶり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de donburi toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に どんぶり を すこし たべ た",
+    "romaji": "hiru gohan ni donburi o sukoshi tabe ta"
   },
   "jlpt-n2-乱暴-1830": {
-    "kana": "のうと に らんぼう を めいし として せいり し た",
-    "romaji": "nouto ni ranbou o meishi toshite seiri shi ta"
+    "kana": "らんぼう な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "ranbou na atsukai o uke te kare wa sugu ni kougi shi ta"
   },
   "jlpt-n2-乾燥-1574": {
-    "kana": "れいぶん で わ かんそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kansou ga monogoto ya kangae o sashi te iru"
+    "kana": "さむく なっ た ので かんそう を はおっ た",
+    "romaji": "samuku na ta node kansou o hao ta"
   },
   "jlpt-n2-乾電池-1399": {
-    "kana": "れいぶん で わ かんでんち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kandenchi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かんでんち について しばらく はなし た",
+    "romaji": "tomodachi to kandenchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-争う-1757": {
-    "kana": "せんせい わ あらそう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa arasou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あたらしい あん を あらそう かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o arasou kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n2-亡くす-1483": {
-    "kana": "せんせい わ なくす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nakusu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に なくす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nakusu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-交じる-1797": {
-    "kana": "まじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "majiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に まじる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni majiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-交ぜる-1481": {
-    "kana": "せんせい わ まぜる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mazeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に まぜる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni mazeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-交差-1437": {
-    "kana": "じしょ で こうさ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kousa toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうさ について しばらく はなし た",
+    "romaji": "tomodachi to kousa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-人命-1404": {
-    "kana": "のうと に じんめい を めいし として せいり し た",
-    "romaji": "nouto ni jinmei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じんめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jinmei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-人差指-1451": {
-    "kana": "れいぶん で わ ひとさしゆび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hitosashiyubi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ひとさしゆび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitosashiyubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-人文科学-1840": {
-    "kana": "れいぶん で わ じんぶん かがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jinbun kagaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じんぶん かがく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jinbun kagaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-人通り-1878": {
-    "kana": "じしょ で ひとどおり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hitodoori toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ひとどおり について しばらく はなし た",
+    "romaji": "tomodachi to hitodoori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-人造-1806": {
-    "kana": "れいぶん で わ じんぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jinzou ga monogoto ya kangae o sashi te iru"
+    "kana": "じんぞう の ひかり が よる の みち を てらし て い た",
+    "romaji": "jinzou no hikari ga yoru no michi o terashi te i ta"
   },
   "jlpt-n2-付合う-1896": {
-    "kana": "れいぶん で わ つきあう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukiau ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え つきあう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tsukiau yotei da"
   },
   "jlpt-n2-代名詞-1758": {
-    "kana": "れいぶん で わ だいめいし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa daimeishi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で だいめいし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de daimeishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-仮定-1362": {
-    "kana": "じしょ で かてい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de katei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かてい について しばらく はなし た",
+    "romaji": "tomodachi to katei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-仲良し-1500": {
-    "kana": "のうと に なかよし を めいし として せいり し た",
-    "romaji": "nouto ni nakayoshi o meishi toshite seiri shi ta"
+    "kana": "ともだち と なかよし について しばらく はなし た",
+    "romaji": "tomodachi to nakayoshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-休業-1304": {
-    "kana": "のうと に きゅうぎょう を めいし として せいり し た",
-    "romaji": "nouto ni kyuugyou o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に きゅうぎょう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kyuugyou e iku michi o shirabe ta"
   },
   "jlpt-n2-休講-1331": {
-    "kana": "れいぶん で わ きゅうこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuukou ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の きゅうこう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kyuukou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-休養-1778": {
-    "kana": "じしょ で きゅうよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyuuyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きゅうよう について しばらく はなし た",
+    "romaji": "tomodachi to kyuuyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-会館-1704": {
-    "kana": "れいぶん で わ かいかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaikan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かいかん について しばらく はなし た",
+    "romaji": "tomodachi to kaikan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-住居-1498": {
-    "kana": "じしょ で じゅうきょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de juukyo toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じゅうきょ について しばらく はなし た",
+    "romaji": "tomodachi to juukyo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-余る-1858": {
-    "kana": "あまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "amaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に あまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni amaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-余計-1340": {
-    "kana": "れいぶん で わ よけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yokei ga monogoto ya kangae o sashi te iru"
+    "kana": "よけい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yokei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-作る-造る-1632": {
-    "kana": "れいぶん で わ つくる / つくる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukuru / tsukuru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を つくる けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o tsukuru keikaku o tate ta"
   },
   "jlpt-n2-作者-1712": {
-    "kana": "れいぶん で わ さくしゃ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sakusha ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の さくしゃ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no sakusha wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-例える-1650": {
-    "kana": "たとえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tatoeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい どうぐ を たとえる ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o tatoeru bamen ga fue te iru"
   },
   "jlpt-n2-侵入-1553": {
-    "kana": "れいぶん で わ しんにゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shinnyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しんにゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinnyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-便所-1781": {
-    "kana": "じしょ で べんじょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de benjo toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい べんじょ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai benjo o ippai non da"
   },
   "jlpt-n2-便箋-1880": {
-    "kana": "れいぶん で わ びんせん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa binsen ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の みせ で びんせん を みつけ た",
+    "romaji": "chikaku no mise de binsen o mitsuke ta"
   },
   "jlpt-n2-係わる-1517": {
-    "kana": "かかわる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kakawaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に かかわる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kakawaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-俄-1544": {
-    "kana": "れいぶん で わ にわか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa niwaka ga monogoto ya kangae o sashi te iru"
+    "kana": "にわか な てん を さき に せつめい し た",
+    "romaji": "niwaka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-修繕-1888": {
-    "kana": "じしょ で しゅうぜん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shuuzen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゅうぜん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuzen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-個所-1631": {
-    "kana": "のうと に かしょ を めいし として せいり し た",
-    "romaji": "nouto ni kasho o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に かしょ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kasho e iku michi o shirabe ta"
   },
   "jlpt-n2-傑作-1461": {
-    "kana": "れいぶん で わ けっさく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kessaku ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の けっさく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kessaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-催し-1564": {
-    "kana": "のうと に もよおし を めいし として せいり し た",
-    "romaji": "nouto ni moyooshi o meishi toshite seiri shi ta"
+    "kana": "ともだち と もよおし について しばらく はなし た",
+    "romaji": "tomodachi to moyooshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-催促-1326": {
-    "kana": "じしょ で さいそく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saisoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と さいそく について しばらく はなし た",
+    "romaji": "tomodachi to saisoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-傾く-1759": {
-    "kana": "れいぶん で わ かたむく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa katamuku ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に かたむく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni katamuku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-儀式-1664": {
-    "kana": "じしょ で ぎしき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gishiki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぎしき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gishiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-儲ける-1716": {
-    "kana": "れいぶん で わ もうける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa moukeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で もうける ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de moukeru houhou o kangae ta"
   },
   "jlpt-n2-先程-1604": {
-    "kana": "れいぶん で わ さきほど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sakihodo ga monogoto ya kangae o sashi te iru"
+    "kana": "さきほど に だいじ な よてい が はいっ て いる",
+    "romaji": "sakihodo ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-先端-1311": {
-    "kana": "れいぶん で わ せんたん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sentan ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と せんたん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to sentan ga totemo kirei ni mie ta"
   },
   "jlpt-n2-先頭-1523": {
-    "kana": "じしょ で せんとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sentou toiu meishi no imi o kakunin shi ta"
+    "kana": "ふうとう の せんとう に じゅうしょ を かい た",
+    "romaji": "fuutou no sentou ni juusho o kai ta"
   },
   "jlpt-n2-免税-1449": {
-    "kana": "じしょ で めんぜい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de menzei toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の めんぜい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no menzei wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-全般-1804": {
-    "kana": "れいぶん で わ ぜんぱん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zenpan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぜんぱん について しばらく はなし た",
+    "romaji": "tomodachi to zenpan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-全集-1769": {
-    "kana": "じしょ で ぜんしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zenshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぜんしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zenshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-公式-1434": {
-    "kana": "じしょ で こうしき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koushiki toiu meishi no imi o kakunin shi ta"
+    "kana": "こうしき な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "koushiki na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-公正-1423": {
-    "kana": "じしょ で こうせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kousei toiu meishi no imi o kakunin shi ta"
+    "kana": "こうせい な てん を さき に せつめい し た",
+    "romaji": "kousei na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-公衆-1444": {
-    "kana": "じしょ で こうしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koushuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koushuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-内科-1779": {
-    "kana": "のうと に ないか を めいし として せいり し た",
-    "romaji": "nouto ni naika o meishi toshite seiri shi ta"
+    "kana": "ともだち と ないか について しばらく はなし た",
+    "romaji": "tomodachi to naika nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-再来年-1549": {
-    "kana": "のうと に さらいねん を めいし として せいり し た",
-    "romaji": "nouto ni sarainen o meishi toshite seiri shi ta"
+    "kana": "さらいねん に だいじ な よてい が はいっ て いる",
+    "romaji": "sarainen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-写る-1914": {
-    "kana": "れいぶん で わ うつる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa utsuru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で うつる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de utsuru houhou o kangae ta"
   },
   "jlpt-n2-冠-1627": {
-    "kana": "じしょ で かんむり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kanmuri toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かんむり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanmuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-冷ます-1458": {
-    "kana": "せんせい わ さます を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa samasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しんらい を さます はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o samasu hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n2-出勤-1930": {
-    "kana": "れいぶん で わ しゅっきん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shukkin ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の しゅっきん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shukkin wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-出合い-1818": {
-    "kana": "じしょ で であい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de deai toiu meishi no imi o kakunin shi ta"
+    "kana": "であい に だいじ な よてい が はいっ て いる",
+    "romaji": "deai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-出来上がる-1886": {
-    "kana": "せんせい わ できあがる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa dekiagaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で できあがる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de dekiagaru houhou o kangae ta"
   },
   "jlpt-n2-出迎え-1852": {
-    "kana": "じしょ で でむかえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de demukae toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と でむかえ について しばらく はなし た",
+    "romaji": "tomodachi to demukae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-分数-1692": {
-    "kana": "じしょ で ぶんすう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bunsuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぶんすう について しばらく はなし た",
+    "romaji": "tomodachi to bunsuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-分量-1644": {
-    "kana": "のうと に ぶんりょう を めいし として せいり し た",
-    "romaji": "nouto ni bunryou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぶんりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bunryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-列島-1819": {
-    "kana": "れいぶん で わ れっとう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rettou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で れっとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rettou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-初旬-1884": {
-    "kana": "れいぶん で わ しょじゅん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shojun ga monogoto ya kangae o sashi te iru"
+    "kana": "しょじゅん に だいじ な よてい が はいっ て いる",
+    "romaji": "shojun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-判子-1739": {
-    "kana": "じしょ で はんこ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hanko toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はん こ について しばらく はなし た",
+    "romaji": "tomodachi to han ko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-別々-1537": {
-    "kana": "じしょ で べつべつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de betsubetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "べつべつ な てん を さき に せつめい し た",
+    "romaji": "betsubetsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-利害-1568": {
-    "kana": "れいぶん で わ りがい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rigai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と りがい について しばらく はなし た",
+    "romaji": "tomodachi to rigai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-制作-1329": {
-    "kana": "れいぶん で わ せいさく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seisaku ga monogoto ya kangae o sashi te iru"
+    "kana": "あたらしい さあびす の せいさく が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no seisaku ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-刷る-1405": {
-    "kana": "せんせい わ する を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa suru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で する する ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de suru suru houhou o kangae ta"
   },
   "jlpt-n2-刺さる-1518": {
-    "kana": "せんせい わ ささる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sasaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ちず で もくてき ち を ささる ゆび を み た",
+    "romaji": "chizu de mokuteki chi o sasaru yubi o mi ta"
   },
   "jlpt-n2-刺す-1705": {
-    "kana": "さす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に さす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-刻む-1721": {
-    "kana": "せんせい わ きざむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kizamu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しょくにん が き に なまえ を きざむ ようす を み た",
+    "romaji": "shokunin ga ki ni namae o kizamu yousu o mi ta"
   },
   "jlpt-n2-削る-1850": {
-    "kana": "せんせい わ けずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kezuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に けずる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kezuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-剥く-1465": {
-    "kana": "せんせい わ むく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa muku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で むく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de muku houhou o kangae ta"
   },
   "jlpt-n2-副詞-1561": {
-    "kana": "のうと に ふくし を めいし として せいり し た",
-    "romaji": "nouto ni fukushi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ふくし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-割引-1796": {
-    "kana": "れいぶん で わ わりびき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa waribiki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で わりびき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de waribiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-助かる-1374": {
-    "kana": "れいぶん で わ たすかる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tasukaru ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を たすかる はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o tasukaru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n2-効力-1589": {
-    "kana": "のうと に こうりょく を めいし として せいり し た",
-    "romaji": "nouto ni kouryoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうりょく について しばらく はなし た",
+    "romaji": "tomodachi to kouryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-勘違い-1793": {
-    "kana": "この ぶん で わ かんちがい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa kanchigai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "おもっ た より かんちがい もんだい だっ た",
+    "romaji": "omo ta yori kanchigai mondai da ta"
   },
   "jlpt-n2-勝敗-1495": {
-    "kana": "じしょ で しょうはい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shouhai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しょうはい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shouhai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-募集-1743": {
-    "kana": "のうと に ぼしゅう を めいし として せいり し た",
-    "romaji": "nouto ni boshuu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぼしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de boshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-匂う-1789": {
-    "kana": "れいぶん で わ におう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa niou ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で におう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de niou houhou o kangae ta"
   },
   "jlpt-n2-包帯-1833": {
-    "kana": "じしょ で ほうたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de houtai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほうたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houtai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-区分-1937": {
-    "kana": "のうと に くぶん を めいし として せいり し た",
-    "romaji": "nouto ni kubun o meishi toshite seiri shi ta"
+    "kana": "ともだち と くぶん について しばらく はなし た",
+    "romaji": "tomodachi to kubun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-区切る-1794": {
-    "kana": "くぎる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kugiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で くぎる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kugiru houhou o kangae ta"
   },
   "jlpt-n2-卑怯-1559": {
-    "kana": "れいぶん で わ ひきょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hikyou ga monogoto ya kangae o sashi te iru"
+    "kana": "ひきょう な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "hikyou na atsukai o uke te kare wa sugu ni kougi shi ta"
   },
   "jlpt-n2-卒直-1926": {
-    "kana": "じしょ で そつ ただし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sotsu tadashi toiu meishi no imi o kakunin shi ta"
+    "kana": "そつ じか な てん を さき に せつめい し た",
+    "romaji": "sotsu jika na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-南北-1401": {
-    "kana": "れいぶん で わ なんぼく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nanboku ga monogoto ya kangae o sashi te iru"
+    "kana": "なんぼく の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "nanboku no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-南米-1521": {
-    "kana": "のうと に なんべい を めいし として せいり し た",
-    "romaji": "nouto ni nanbei o meishi toshite seiri shi ta"
+    "kana": "なんべい の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "nanbei no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-占う-1740": {
-    "kana": "れいぶん で わ うらなう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa uranau ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で うらなう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de uranau houhou o kangae ta"
   },
   "jlpt-n2-危うい-1323": {
-    "kana": "れいぶん で わ あやうい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ayaui ga monogoto ya kangae o sashi te iru"
+    "kana": "あやうい ひ だっ た が さいご まで あるい た",
+    "romaji": "ayaui hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-卸す-1318": {
-    "kana": "れいぶん で わ おろす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa orosu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に おろす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni orosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-原始-1496": {
-    "kana": "れいぶん で わ げんし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa genshi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と げんし について しばらく はなし た",
+    "romaji": "tomodachi to genshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-原産-1623": {
-    "kana": "じしょ で げんさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gensan toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に げんさん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gensan e iku michi o shirabe ta"
   },
   "jlpt-n2-又は-1742": {
-    "kana": "のうと に または を めいし として せいり し た",
-    "romaji": "nouto ni mataha o meishi toshite seiri shi ta"
+    "kana": "かいぎ で または について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mataha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-反る-1406": {
-    "kana": "せんせい わ そる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa soru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で かえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kaeru houhou o kangae ta"
   },
   "jlpt-n2-反省-1395": {
-    "kana": "じしょ で はんせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hansei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はんせい について しばらく はなし た",
+    "romaji": "tomodachi to hansei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-叔母さん-1414": {
-    "kana": "じしょ で おばさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de obasan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おばさん について しばらく はなし た",
+    "romaji": "tomodachi to obasan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-取り入れる-1764": {
-    "kana": "れいぶん で わ とりいれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa toriireru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に とりいれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toriireru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-取り出す-1846": {
-    "kana": "せんせい わ とりだす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa toridasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に とりだす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toridasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-取り消す-1795": {
-    "kana": "れいぶん で わ とりけす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa torikesu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひきだし から ふるい てがみ を とりけす と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o torikesu to natsukashiku na ta"
   },
   "jlpt-n2-受話器-1508": {
-    "kana": "れいぶん で わ じゅわき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juwaki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じゅわき について しばらく はなし た",
+    "romaji": "tomodachi to juwaki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-受験-1925": {
-    "kana": "れいぶん で わ じゅけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juken ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に じゅけん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni juken e iku michi o shirabe ta"
   },
   "jlpt-n2-口紅-1883": {
-    "kana": "のうと に くちべに を めいし として せいり し た",
-    "romaji": "nouto ni kuchibeni o meishi toshite seiri shi ta"
+    "kana": "ともだち と くちべに について しばらく はなし た",
+    "romaji": "tomodachi to kuchibeni nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-只-1546": {
-    "kana": "のうと に ただ を めいし として せいり し た",
-    "romaji": "nouto ni tada o meishi toshite seiri shi ta"
+    "kana": "この いべんと の にゅうじょう りょう わ ただ だっ た",
+    "romaji": "kono ibento no nyuujou ryou wa tada da ta"
   },
   "jlpt-n2-可決-1682": {
-    "kana": "れいぶん で わ かけつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaketsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かけつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaketsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-司会-1894": {
-    "kana": "のうと に しかい を めいし として せいり し た",
-    "romaji": "nouto ni shikai o meishi toshite seiri shi ta"
+    "kana": "ともだち と しかい について しばらく はなし た",
+    "romaji": "tomodachi to shikai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-各自-1679": {
-    "kana": "れいぶん で わ かくじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakuji ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる かくじ に こえ を かけ た",
+    "romaji": "koma te iru kakuji ni koe o kake ta"
   },
   "jlpt-n2-合理-1663": {
-    "kana": "れいぶん で わ ごうり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gouri ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ごうり について しばらく はなし た",
+    "romaji": "tomodachi to gouri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-吊る-1470": {
-    "kana": "れいぶん で わ つる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsuru ga ugoki ya henka o arawashi te iru"
+    "kana": "うわぎ を つる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o tsuru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-同格-1400": {
-    "kana": "じしょ で どうかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doukaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で どうかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doukaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-名作-1848": {
-    "kana": "じしょ で めいさく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de meisaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で めいさく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meisaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-名物-1708": {
-    "kana": "めいぶつ を な けいようし として のうと に まとめ た",
-    "romaji": "meibutsu o na keiyoushi toshite nouto ni matome ta"
+    "kana": "めいぶつ な まち を ゆっくり あるい た",
+    "romaji": "meibutsu na machi o yukkuri arui ta"
   },
   "jlpt-n2-向う-1675": {
-    "kana": "せんせい わ むこう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mukou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え むこう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e mukou yotei da"
   },
   "jlpt-n2-吹雪-1450": {
-    "kana": "れいぶん で わ ふぶき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fubuki ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と ふぶき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to fubuki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-呑気-1429": {
-    "kana": "れいぶん で わ のんき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nonki ga monogoto ya kangae o sashi te iru"
+    "kana": "のんき な てん を さき に せつめい し た",
+    "romaji": "nonki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-周辺-1622": {
-    "kana": "れいぶん で わ しゅうへん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuuhen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しゅうへん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuhen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-味わう-1357": {
-    "kana": "れいぶん で わ あじわう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ajiwau ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で あじわう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ajiwau houhou o kangae ta"
   },
   "jlpt-n2-呼び掛ける-1306": {
-    "kana": "れいぶん で わ よびかける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yobikakeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に よびかける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni yobikakeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-命ずる-1654": {
-    "kana": "せんせい わ めいずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa meizuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で めいずる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de meizuru houhou o kangae ta"
   },
   "jlpt-n2-和英-1467": {
-    "kana": "れいぶん で わ かずひで が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kazuhide ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に かずひで を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kazuhide o oi te kara dekake ta"
   },
   "jlpt-n2-唇-1837": {
-    "kana": "じしょ で くちびる という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kuchibiru toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で くちびる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kuchibiru nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-問い合わせ-1625": {
-    "kana": "のうと に といあわせ を めいし として せいり し た",
-    "romaji": "nouto ni toiawase o meishi toshite seiri shi ta"
+    "kana": "ともだち と といあわせ について しばらく はなし た",
+    "romaji": "tomodachi to toiawase nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-器械-1749": {
-    "kana": "じしょ で きかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kikai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-四つ角-1784": {
-    "kana": "れいぶん で わ よつかど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yotsukado ga monogoto ya kangae o sashi te iru"
+    "kana": "よつかど の はこ を たな に きれい に ならべ た",
+    "romaji": "yotsukado no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n2-四季-1347": {
-    "kana": "じしょ で しき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shiki toiu meishi no imi o kakunin shi ta"
+    "kana": "しき の はこ を たな に きれい に ならべ た",
+    "romaji": "shiki no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n2-四捨五入-1619": {
-    "kana": "のうと に ししゃごにゅう を めいし として せいり し た",
-    "romaji": "nouto ni shishagonyuu o meishi toshite seiri shi ta"
+    "kana": "かれ の ししゃごにゅう を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no shishagonyuu o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n2-回数券-1499": {
-    "kana": "のうと に かいすう けん を めいし として せいり し た",
-    "romaji": "nouto ni kaisuu ken o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に かいすう けん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kaisuu ken o oi te kara dekake ta"
   },
   "jlpt-n2-因る-1826": {
-    "kana": "せんせい わ よる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え よる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e yoru yotei da"
   },
   "jlpt-n2-団地-1922": {
-    "kana": "れいぶん で わ だんち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa danchi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と だんち について しばらく はなし た",
+    "romaji": "tomodachi to danchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-固まる-1620": {
-    "kana": "かたまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "katamaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に かたまる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni katamaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-国王-1733": {
-    "kana": "れいぶん で わ こくおう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kokuou ga monogoto ya kangae o sashi te iru"
+    "kana": "こくおう が しきてん で みじかい えんぜつ を おこなっ た",
+    "romaji": "kokuou ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n2-国籍-1711": {
-    "kana": "のうと に こくせき を めいし として せいり し た",
-    "romaji": "nouto ni kokuseki o meishi toshite seiri shi ta"
+    "kana": "ともだち と こくせき について しばらく はなし た",
+    "romaji": "tomodachi to kokuseki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-地点-1597": {
-    "kana": "じしょ で ちてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chiten toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ちてん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni chiten e iku michi o shirabe ta"
   },
   "jlpt-n2-地盤-1448": {
-    "kana": "のうと に じばん を めいし として せいり し た",
-    "romaji": "nouto ni jiban o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じばん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jiban nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-地質-1425": {
-    "kana": "のうと に ちしつ を めいし として せいり し た",
-    "romaji": "nouto ni chishitsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちしつ について しばらく はなし た",
+    "romaji": "tomodachi to chishitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-坊や-1873": {
-    "kana": "のうと に ぼうや を めいし として せいり し た",
-    "romaji": "nouto ni bouya o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぼうや について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouya nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-垣根-1587": {
-    "kana": "じしょ で かきね という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kakine toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かきね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakine nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-執筆-1689": {
-    "kana": "れいぶん で わ しっぴつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shippitsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しっぴつ について しばらく はなし た",
+    "romaji": "tomodachi to shippitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-基準-1310": {
-    "kana": "じしょ で きじゅん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kijun toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きじゅん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kijun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-基盤-1319": {
-    "kana": "じしょ で きばん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kiban toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きばん について しばらく はなし た",
+    "romaji": "tomodachi to kiban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-堅い-1376": {
-    "kana": "この ぶん で わ かたい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa katai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "その せつめい わ すこし かたい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi katai to kanji ta"
   },
   "jlpt-n2-塊-1368": {
-    "kana": "のうと に かたまり を めいし として せいり し た",
-    "romaji": "nouto ni katamari o meishi toshite seiri shi ta"
+    "kana": "ともだち と かたまり について しばらく はなし た",
+    "romaji": "tomodachi to katamari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-塞がる-1510": {
-    "kana": "ふさがる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "fusagaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ふさがる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de fusagaru houhou o kangae ta"
   },
   "jlpt-n2-塵芥-1615": {
-    "kana": "のうと に ごみ を めいし として せいり し た",
-    "romaji": "nouto ni gomi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ごみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-増やす-1629": {
-    "kana": "れいぶん で わ ふやす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa fuyasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ふやす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de fuyasu houhou o kangae ta"
   },
   "jlpt-n2-増大-1766": {
-    "kana": "のうと に ぞうだい を めいし として せいり し た",
-    "romaji": "nouto ni zoudai o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぞうだい について しばらく はなし た",
+    "romaji": "tomodachi to zoudai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-売行き-1297": {
-    "kana": "のうと に うれゆき を めいし として せいり し た",
-    "romaji": "nouto ni ureyuki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で うれゆき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ureyuki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-夕日-1488": {
-    "kana": "のうと に ゆうひ を めいし として せいり し た",
-    "romaji": "nouto ni yuuhi o meishi toshite seiri shi ta"
+    "kana": "ゆうひ に だいじ な よてい が はいっ て いる",
+    "romaji": "yuuhi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-外れる-1460": {
-    "kana": "はずれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hazureru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に はずれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hazureru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-夜行-1579": {
-    "kana": "じしょ めも で も やこう の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo yakou no tsukaikata o seiri shi ta"
+    "kana": "やこう れっしゃ で こきょう え かえっ た",
+    "romaji": "yakou ressha de kokyou e kae ta"
   },
   "jlpt-n2-大して-1363": {
-    "kana": "たいして わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "taishite wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "たいして この ぶぶん を ていねい に よん だ",
+    "romaji": "taishite kono bubun o teinei ni yon da"
   },
   "jlpt-n2-大分-1735": {
-    "kana": "のうと に おおいた を めいし として せいり し た",
-    "romaji": "nouto ni ooita o meishi toshite seiri shi ta"
+    "kana": "きょう わ だいぶ つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa daibu tsukare ta node hayame ni ne ta"
   },
   "jlpt-n2-大学院-1696": {
-    "kana": "じしょ で だいがくいん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de daigakuin toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に だいがくいん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni daigakuin e iku michi o shirabe ta"
   },
   "jlpt-n2-大小-1343": {
-    "kana": "のうと に だいしょう を めいし として せいり し た",
-    "romaji": "nouto ni daishou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で だいしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de daishou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-大層-1411": {
-    "kana": "たいそう わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "taisou wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "きょう わ たいそう つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa taisou tsukare ta node hayame ni ne ta"
   },
   "jlpt-n2-大工-1927": {
-    "kana": "じしょ で だいく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de daiku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で だいく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de daiku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-大通り-1341": {
-    "kana": "のうと に おおどおり を めいし として せいり し た",
-    "romaji": "nouto ni oodoori o meishi toshite seiri shi ta"
+    "kana": "かいぎ で おおどおり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oodoori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-太鼓-1380": {
-    "kana": "のうと に たいこ を めいし として せいり し た",
-    "romaji": "nouto ni taiko o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に たいこ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni taiko o oi te kara dekake ta"
   },
   "jlpt-n2-失恋-1657": {
-    "kana": "じしょ で しつれん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shitsuren toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しつれん について しばらく はなし た",
+    "romaji": "tomodachi to shitsuren nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-女の人-1339": {
-    "kana": "じしょ で おんな の ひと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de onna no hito toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に おんな の ひと と こえ を かけ た",
+    "romaji": "kaerigiwa ni onna no hito to koe o kake ta"
   },
   "jlpt-n2-女房-1725": {
-    "kana": "じしょ で にょうぼう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nyoubou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で にょうぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nyoubou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-妥当-1344": {
-    "kana": "れいぶん で わ だとう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa datou ga monogoto ya kangae o sashi te iru"
+    "kana": "だとう な てん を さき に せつめい し た",
+    "romaji": "datou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-妨げる-1670": {
-    "kana": "さまたげる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "samatageru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に さまたげる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni samatageru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-姓-1940": {
-    "kana": "れいぶん で わ せい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せい について しばらく はなし た",
+    "romaji": "tomodachi to sei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-姿勢-1509": {
-    "kana": "のうと に しせい を めいし として せいり し た",
-    "romaji": "nouto ni shisei o meishi toshite seiri shi ta"
+    "kana": "しせい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shisei ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-嫌がる-1613": {
-    "kana": "せんせい わ いや がる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa iya garu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に いやがる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni iyagaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-子孫-1576": {
-    "kana": "のうと に しそん を めいし として せいり し た",
-    "romaji": "nouto ni shison o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しそん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shison nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-学会-1353": {
-    "kana": "れいぶん で わ がっかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gakkai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と がっかい について しばらく はなし た",
+    "romaji": "tomodachi to gakkai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-学年-1361": {
-    "kana": "じしょ で がくねん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gakunen toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に がくねん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gakunen e iku michi o shirabe ta"
   },
   "jlpt-n2-学級-1328": {
-    "kana": "れいぶん で わ がっきゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gakkyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に がっきゅう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gakkyuu e iku michi o shirabe ta"
   },
   "jlpt-n2-学部-1493": {
-    "kana": "のうと に がくぶ を めいし として せいり し た",
-    "romaji": "nouto ni gakubu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に がくぶ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gakubu e iku michi o shirabe ta"
   },
   "jlpt-n2-定休日-1727": {
-    "kana": "のうと に ていきゅう び を めいし として せいり し た",
-    "romaji": "nouto ni teikyuu bi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ていきゅう び について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teikyuu bi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-定価-1763": {
-    "kana": "のうと に ていか を めいし として せいり し た",
-    "romaji": "nouto ni teika o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ていか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-定員-1385": {
-    "kana": "のうと に ていいん を めいし として せいり し た",
-    "romaji": "nouto ni teiin o meishi toshite seiri shi ta"
+    "kana": "うけつけ で ていいん を よば れる まで まっ た",
+    "romaji": "uketsuke de teiin o yoba reru made ma ta"
   },
   "jlpt-n2-定期券-1445": {
-    "kana": "のうと に ていき けん を めいし として せいり し た",
-    "romaji": "nouto ni teiki ken o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ていき けん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni teiki ken o oi te kara dekake ta"
   },
   "jlpt-n2-実力-1522": {
-    "kana": "のうと に じつりょく を めいし として せいり し た",
-    "romaji": "nouto ni jitsuryoku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じつりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jitsuryoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-実用-1616": {
-    "kana": "じしょ で じつよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jitsuyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じつよう について しばらく はなし た",
+    "romaji": "tomodachi to jitsuyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-実績-1412": {
-    "kana": "れいぶん で わ じっせき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jisseki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じっせき について しばらく はなし た",
+    "romaji": "tomodachi to jisseki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-実習-1731": {
-    "kana": "じしょ で じっしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jisshuu toiu meishi no imi o kakunin shi ta"
+    "kana": "あめあがり の じっしゅう に そら が うつっ て い た",
+    "romaji": "ameagari no jisshuu ni sora ga utsu te i ta"
   },
   "jlpt-n2-家主-1904": {
-    "kana": "のうと に やぬし を めいし として せいり し た",
-    "romaji": "nouto ni yanushi o meishi toshite seiri shi ta"
+    "kana": "やぬし に みず もれ を しらせ た",
+    "romaji": "yanushi ni mizu more o shirase ta"
   },
   "jlpt-n2-容積-1649": {
-    "kana": "れいぶん で わ ようせき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa youseki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ようせき について しばらく はなし た",
+    "romaji": "tomodachi to youseki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-寮-1391": {
-    "kana": "れいぶん で わ りょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryou ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうけい ちゅう に あたたかい りょう を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai ryou o ippai non da"
   },
   "jlpt-n2-寸法-1529": {
-    "kana": "のうと に すんぽう を めいし として せいり し た",
-    "romaji": "nouto ni sunpou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で すんぽう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sunpou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-対照-1352": {
-    "kana": "じしょ で たいしょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taishou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たいしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taishou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-対策-1823": {
-    "kana": "じしょ で たいさく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taisaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たいさく について しばらく はなし た",
+    "romaji": "tomodachi to taisaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-射す-1729": {
-    "kana": "さす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で さす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sasu houhou o kangae ta"
   },
   "jlpt-n2-小学生-1301": {
-    "kana": "れいぶん で わ しょうがくせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shougakusei ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に しょうがくせい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shougakusei e iku michi o shirabe ta"
   },
   "jlpt-n2-小指-1408": {
-    "kana": "じしょ で こゆび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koyubi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こゆび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koyubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-尖る-1566": {
-    "kana": "とがる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "togaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はる に とがる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni togaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-就任-1824": {
-    "kana": "れいぶん で わ しゅうにん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuunin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅうにん について しばらく はなし た",
+    "romaji": "tomodachi to shuunin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-山林-1333": {
-    "kana": "のうと に さんりん を めいし として せいり し た",
-    "romaji": "nouto ni sanrin o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と さんりん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to sanrin ga totemo kirei ni mie ta"
   },
   "jlpt-n2-崩す-1891": {
-    "kana": "れいぶん で わ くずす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kuzusu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で くずす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kuzusu houhou o kangae ta"
   },
   "jlpt-n2-工事-1583": {
-    "kana": "じしょ で こうじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kouji toiu meishi no imi o kakunin shi ta"
+    "kana": "あたらしい さあびす の こうじ が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kouji ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-差し引き-1572": {
-    "kana": "じしょ で さしひき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sashihiki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さしひき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sashihiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-巻く-1531": {
-    "kana": "まく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "maku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うわぎ を まく ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o maku basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-干す-1403": {
-    "kana": "ほす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hosu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ほす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-平仮名-1515": {
-    "kana": "のうと に ひらがな を めいし として せいり し た",
-    "romaji": "nouto ni hiragana o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひ ら が な について しばらく はなし た",
+    "romaji": "tomodachi to hi ra ga na nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-平気-1327": {
-    "kana": "じしょ で へいき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de heiki toiu meishi no imi o kakunin shi ta"
+    "kana": "へいき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "heiki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-年度-1857": {
-    "kana": "じしょ で ねんど という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nendo toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ねんど え いく みち を しらべ た",
+    "romaji": "shuumatsu ni nendo e iku michi o shirabe ta"
   },
   "jlpt-n2-幼稚園-1581": {
-    "kana": "じしょ で ようちえん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youchien toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ようちえん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni youchien e iku michi o shirabe ta"
   },
   "jlpt-n2-幾分-1668": {
-    "kana": "れいぶん で わ いくぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikubun ga monogoto ya kangae o sashi te iru"
+    "kana": "あんぜん に いくぶん ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ikubun tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-広々-1903": {
-    "kana": "じしょ で ひろびろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hirobiro toiu meishi no imi o kakunin shi ta"
+    "kana": "ひろびろ よてい を へんこう し た",
+    "romaji": "hirobiro yotei o henkou shi ta"
   },
   "jlpt-n2-広さ-1364": {
-    "kana": "れいぶん で わ ひろ さ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hiro sa ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ひろ さ について しばらく はなし た",
+    "romaji": "tomodachi to hiro sa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-広める-1792": {
-    "kana": "ひろめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hiromeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ひろめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hiromeru houhou o kangae ta"
   },
   "jlpt-n2-広場-1912": {
-    "kana": "じしょ で ひろば という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hiroba toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひろば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiroba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-庖丁-1900": {
-    "kana": "れいぶん で わ ほうちょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa houchou ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に ほうちょう を すこし たべ た",
+    "romaji": "hiru gohan ni houchou o sukoshi tabe ta"
   },
   "jlpt-n2-延ばす-1676": {
-    "kana": "せんせい わ のばす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nobasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で のばす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nobasu houhou o kangae ta"
   },
   "jlpt-n2-引っ繰り返す-1791": {
-    "kana": "ひっくりかえす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hikkurikaesu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ひっくりかえす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hikkurikaesu houhou o kangae ta"
   },
   "jlpt-n2-引力-1585": {
-    "kana": "れいぶん で わ いんりょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa inryoku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で いんりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inryoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-引受る-1717": {
-    "kana": "れいぶん で わ ひきうけ る が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hikiuke ru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に ひきうけ る ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hikiuke ru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-引算-1502": {
-    "kana": "じしょ で ひきざん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hikizan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ひきざん について しばらく はなし た",
+    "romaji": "tomodachi to hikizan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-弱点-1468": {
-    "kana": "じしょ で じゃくてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jakuten toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゃくてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jakuten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-強引-1492": {
-    "kana": "れいぶん で わ ごういん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gouin ga monogoto ya kangae o sashi te iru"
+    "kana": "ごういん な てん を さき に せつめい し た",
+    "romaji": "gouin na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-当番-1524": {
-    "kana": "れいぶん で わ とうばん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa touban ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる とうばん に こえ を かけ た",
+    "romaji": "koma te iru touban ni koe o kake ta"
   },
   "jlpt-n2-彫刻-1477": {
-    "kana": "じしょ で ちょうこく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de choukoku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ちょうこく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choukoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-役所-1822": {
-    "kana": "じしょ で やくしょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yakusho toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で やくしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yakusho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-待ち合わせる-1571": {
-    "kana": "れいぶん で わ まちあわせる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa machiawaseru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に まちあわせる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni machiawaseru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-従姉妹-1355": {
-    "kana": "じしょ で いとこ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de itoko toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる いとこ に こえ を かけ た",
+    "romaji": "koma te iru itoko ni koe o kake ta"
   },
   "jlpt-n2-御中-1293": {
-    "kana": "れいぶん で わ おんちゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa onchuu ga monogoto ya kangae o sashi te iru"
+    "kana": "えきまえ の おんちゅう で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no onchuu de atarashii shigoto ga hajima ta"
   },
   "jlpt-n2-御無沙汰-1592": {
-    "kana": "れいぶん で わ ごぶさた が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gobusata ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ごぶさた について しばらく はなし た",
+    "romaji": "tomodachi to gobusata nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-心当たり-1673": {
-    "kana": "れいぶん で わ こころあたり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kokoroatari ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の こころあたり を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no kokoroatari o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n2-心得る-1638": {
-    "kana": "こころえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kokoroeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に こころえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kokoroeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-心身-1677": {
-    "kana": "じしょ で しんしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinshin toiu meishi no imi o kakunin shi ta"
+    "kana": "しんしん が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shinshin ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-必需品-1336": {
-    "kana": "ひつじゅ ひん わ めいし の まえ で ひつじゅ ひん な の かたち で も つかう",
-    "romaji": "hitsuju hin wa meishi no mae de hitsuju hin na no katachi de mo tsukau"
+    "kana": "ひつじゅ ひん な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "hitsuju hin na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-応ずる-1901": {
-    "kana": "せんせい わ おうずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ouzuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に おうずる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ouzuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-応接-1494": {
-    "kana": "のうと に おうせつ を めいし として せいり し た",
-    "romaji": "nouto ni ousetsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と おうせつ について しばらく はなし た",
+    "romaji": "tomodachi to ousetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-怠る-1397": {
-    "kana": "おこたる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "okotaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で おこたる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de okotaru houhou o kangae ta"
   },
   "jlpt-n2-性能-1660": {
-    "kana": "れいぶん で わ せいのう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seinou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で せいのう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seinou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-怪しい-1658": {
-    "kana": "のうと に あやしい を めいし として せいり し た",
-    "romaji": "nouto ni ayashii o meishi toshite seiri shi ta"
+    "kana": "おもっ た より あやしい もんだい だっ た",
+    "romaji": "omo ta yori ayashii mondai da ta"
   },
   "jlpt-n2-恐縮-1715": {
-    "kana": "れいぶん で わ きょうしゅく が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa kyoushuku ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "きゅう な おねがい で きょうしゅく し て なん ど も あたま を さげ た",
+    "romaji": "kyuu na onegai de kyoushuku shi te nan do mo atama o sage ta"
   },
   "jlpt-n2-恨む-1442": {
-    "kana": "れいぶん で わ うらむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa uramu ga ugoki ya henka o arawashi te iru"
+    "kana": "あいて を つよく うらむ まえ に まず じじょう を きい た",
+    "romaji": "aite o tsuyoku uramu mae ni mazu jijou o kii ta"
   },
   "jlpt-n2-悔やむ-1617": {
-    "kana": "せんせい わ くやむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kuyamu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に くやむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kuyamu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-悠々-1719": {
-    "kana": "れいぶん で わ ゆうゆう が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa yuuyuu ga joutai ya seishitsu o arawashi te iru"
+    "kana": "ゆうゆう な まち を ゆっくり あるい た",
+    "romaji": "yuuyuu na machi o yukkuri arui ta"
   },
   "jlpt-n2-意地悪-1519": {
-    "kana": "れいぶん で わ いじわる が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ijiwaru ga monogoto ya kangae o sashi te iru"
+    "kana": "いじわる な てん を さき に せつめい し た",
+    "romaji": "ijiwaru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-意義-1307": {
-    "kana": "れいぶん で わ いぎ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa igi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いぎ について しばらく はなし た",
+    "romaji": "tomodachi to igi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-感ずる-1728": {
-    "kana": "せんせい わ かんずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kanzuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で かんずる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kanzuru houhou o kangae ta"
   },
   "jlpt-n2-感想-1864": {
-    "kana": "れいぶん で わ かんそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kansou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かんそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kansou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-感激-1656": {
-    "kana": "のうと に かんげき を めいし として せいり し た",
-    "romaji": "nouto ni kangeki o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい かんげき を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kangeki o oboe ta"
   },
   "jlpt-n2-慰める-1526": {
-    "kana": "れいぶん で わ なぐさめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nagusameru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に なぐさめる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nagusameru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-慶び-1939": {
-    "kana": "れいぶん で わ よろこび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yorokobi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と よろこび について しばらく はなし た",
+    "romaji": "tomodachi to yorokobi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-憎む-1478": {
-    "kana": "せんせい わ にくむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nikumu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で にくむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nikumu houhou o kangae ta"
   },
   "jlpt-n2-憎らしい-1379": {
-    "kana": "じしょ で にくらしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nikurashii toiu meishi no imi o kakunin shi ta"
+    "kana": "にくらしい ひ だっ た が さいご まで あるい た",
+    "romaji": "nikurashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-成分-1287": {
-    "kana": "れいぶん で わ せいぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seibun ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいぶん について しばらく はなし た",
+    "romaji": "tomodachi to seibun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-戸棚-1798": {
-    "kana": "れいぶん で わ とだな が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa todana ga monogoto ya kangae o sashi te iru"
+    "kana": "へや の とだな を きれい に ととのえ た",
+    "romaji": "heya no todana o kirei ni totonoe ta"
   },
   "jlpt-n2-所々-1602": {
-    "kana": "れいぶん で わ ところどころ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tokorodokoro ga monogoto ya kangae o sashi te iru"
+    "kana": "ところどころ を さがし た が さいふ わ みつから なかっ た",
+    "romaji": "tokorodokoro o sagashi ta ga saifu wa mitsukara naka ta"
   },
   "jlpt-n2-扇ぐ-1417": {
-    "kana": "れいぶん で わ あおぐ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa aogu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あおぐ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni aogu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-手入れ-1302": {
-    "kana": "のうと に ていれ を めいし として せいり し た",
-    "romaji": "nouto ni teire o meishi toshite seiri shi ta"
+    "kana": "ていれ の てつづき を きげん まで に すませ た",
+    "romaji": "teire no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n2-手首-1600": {
-    "kana": "れいぶん で わ てくび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tekubi ga monogoto ya kangae o sashi te iru"
+    "kana": "てくび が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "tekubi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-打合せ-1872": {
-    "kana": "じしょ で うちあわせ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de uchiawase toiu meishi no imi o kakunin shi ta"
+    "kana": "さむく なっ た ので うちあわせ を はおっ た",
+    "romaji": "samuku na ta node uchiawase o hao ta"
   },
   "jlpt-n2-払い戻す-1669": {
-    "kana": "れいぶん で わ はらいもどす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa haraimodosu ga ugoki ya henka o arawashi te iru"
+    "kana": "みせ が りょうきん を はらいもどす てつづき を すすめ て いる",
+    "romaji": "mise ga ryoukin o haraimodosu tetsuzuki o susume te iru"
   },
   "jlpt-n2-払い込む-1915": {
-    "kana": "はらいこむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "haraikomu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で はらいこむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de haraikomu houhou o kangae ta"
   },
   "jlpt-n2-承る-1777": {
-    "kana": "れいぶん で わ うけたまわる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa uketamawaru ga ugoki ya henka o arawashi te iru"
+    "kana": "よる に ゆっくり うけたまわる じかん を つくっ た",
+    "romaji": "yoru ni yukkuri uketamawaru jikan o tsuku ta"
   },
   "jlpt-n2-投書-1861": {
-    "kana": "のうと に とうしょ を めいし として せいり し た",
-    "romaji": "nouto ni tousho o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に とうしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tousho o oi te kara dekake ta"
   },
   "jlpt-n2-折角-1377": {
-    "kana": "れいぶん で わ せっかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sekkaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ひつよう な ばめん で せっかく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sekkaku houhou o kangae ta"
   },
   "jlpt-n2-押える-1662": {
-    "kana": "せんせい わ おさえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa osaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で おさえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de osaeru houhou o kangae ta"
   },
   "jlpt-n2-拝む-1699": {
-    "kana": "せんせい わ おがむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ogamu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に おがむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ogamu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-拝見-1435": {
-    "kana": "れいぶん で わ はいけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa haiken ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と はいけん について しばらく はなし た",
+    "romaji": "tomodachi to haiken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-拡充-1659": {
-    "kana": "れいぶん で わ かくじゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakujuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かくじゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakujuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-括弧-1454": {
-    "kana": "のうと に かっこ を めいし として せいり し た",
-    "romaji": "nouto ni kakko o meishi toshite seiri shi ta"
+    "kana": "ともだち と かっこ について しばらく はなし た",
+    "romaji": "tomodachi to kakko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-持参-1482": {
-    "kana": "れいぶん で わ じさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jisan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jisan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-指定-1738": {
-    "kana": "れいぶん で わ してい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で してい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-挟まる-1776": {
-    "kana": "せんせい わ はさまる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hasamaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はさまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hasamaru houhou o kangae ta"
   },
   "jlpt-n2-振り仮名-1486": {
-    "kana": "じしょ で ふり かめい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de furi kamei toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の みせ で ふりがな を みつけ た",
+    "romaji": "chikaku no mise de furigana o mitsuke ta"
   },
   "jlpt-n2-挿す-1906": {
-    "kana": "さす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うわぎ を さす ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o sasu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-捕える-1709": {
-    "kana": "れいぶん で わ とらえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa toraeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で とらえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de toraeru houhou o kangae ta"
   },
   "jlpt-n2-捜す-1688": {
-    "kana": "せんせい わ さがす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sagasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "たすけ を さがす こえ が とおく から きこえ た",
+    "romaji": "tasuke o sagasu koe ga tooku kara kikoe ta"
   },
   "jlpt-n2-掃く-1527": {
-    "kana": "はく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "haku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "はく な まち を ゆっくり あるい た",
+    "romaji": "haku na machi o yukkuri arui ta"
   },
   "jlpt-n2-採る-1387": {
-    "kana": "とる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "toru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に とる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-採点-1750": {
-    "kana": "れいぶん で わ さいてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa saiten ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で さいてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saiten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-探る-1753": {
-    "kana": "せんせい わ さぐる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa saguru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "たすけ を さぐる こえ が とおく から きこえ た",
+    "romaji": "tasuke o saguru koe ga tooku kara kikoe ta"
   },
   "jlpt-n2-接近-1882": {
-    "kana": "のうと に せっきん を めいし として せいり し た",
-    "romaji": "nouto ni sekkin o meishi toshite seiri shi ta"
+    "kana": "ともだち と せっきん について しばらく はなし た",
+    "romaji": "tomodachi to sekkin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-擦る-1538": {
-    "kana": "たんご りすと で も こする の よみかた と いみ を みなおし た",
-    "romaji": "tango risuto de mo kosuru no yomikata to imi o minaoshi ta"
+    "kana": "よてい が こする ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga kosuru hi o eran de minna de atsuma ta"
   },
   "jlpt-n2-改めて-1710": {
-    "kana": "じしょ で あらためて という めいし の いみ を かくにん し た",
-    "romaji": "jisho de aratamete toiu meishi no imi o kakunin shi ta"
+    "kana": "あらためて よてい を へんこう し た",
+    "romaji": "aratamete yotei o henkou shi ta"
   },
   "jlpt-n2-改める-1535": {
-    "kana": "せんせい わ あらためる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa aratameru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に あらためる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni aratameru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-改正-1734": {
-    "kana": "のうと に かいせい を めいし として せいり し た",
-    "romaji": "nouto ni kaisei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かいせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaisei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-改造-1342": {
-    "kana": "れいぶん で わ かいぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaizou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かいぞう について しばらく はなし た",
+    "romaji": "tomodachi to kaizou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-攻める-1786": {
-    "kana": "せめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "semeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で せめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de semeru houhou o kangae ta"
   },
   "jlpt-n2-政党-1612": {
-    "kana": "のうと に せいとう を めいし として せいり し た",
-    "romaji": "nouto ni seitou o meishi toshite seiri shi ta"
+    "kana": "ともだち と せいとう について しばらく はなし た",
+    "romaji": "tomodachi to seitou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-教わる-1693": {
-    "kana": "おそわる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "osowaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に おそわる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni osowaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-散らかる-1838": {
-    "kana": "せんせい わ ちらかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa chirakaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ちらかる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni chirakaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-整備-1345": {
-    "kana": "のうと に せいび を めいし として せいり し た",
-    "romaji": "nouto ni seibi o meishi toshite seiri shi ta"
+    "kana": "あたらしい さあびす の せいび が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no seibi ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-整数-1469": {
-    "kana": "れいぶん で わ せいすう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seisuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいすう について しばらく はなし た",
+    "romaji": "tomodachi to seisuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-敷く-1874": {
-    "kana": "れいぶん で わ しく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shiku ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で しく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de shiku houhou o kangae ta"
   },
   "jlpt-n2-敷地-1511": {
-    "kana": "じしょ で しきち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shikichi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しきち について しばらく はなし た",
+    "romaji": "tomodachi to shikichi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-文体-1466": {
-    "kana": "れいぶん で わ ぶんたい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa buntai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぶんたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de buntai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-文献-1303": {
-    "kana": "のうと に ぶんけん を めいし として せいり し た",
-    "romaji": "nouto ni bunken o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ぶんけん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni bunken o oi te kara dekake ta"
   },
   "jlpt-n2-斬る-1875": {
-    "kana": "きる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に きる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-断水-1782": {
-    "kana": "れいぶん で わ だんすい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dansui ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な だんすい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na dansui o asa no uchi ni atsume ta"
   },
   "jlpt-n2-新幹線-1396": {
-    "kana": "しんかんせん わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "shinkansen wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "かいぎ で しんかんせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinkansen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-方程式-1534": {
-    "kana": "じしょ で ほうていしき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de houteishiki toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほうていしき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houteishiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-日時-1691": {
-    "kana": "のうと に にちじ を めいし として せいり し た",
-    "romaji": "nouto ni nichiji o meishi toshite seiri shi ta"
+    "kana": "にちじ に だいじ な よてい が はいっ て いる",
+    "romaji": "nichiji ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-明け方-1910": {
-    "kana": "じしょ で あけがた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de akegata toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と あけがた について しばらく はなし た",
+    "romaji": "tomodachi to akegata nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-昼寝-1702": {
-    "kana": "じしょ で ひるね という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hirune toiu meishi no imi o kakunin shi ta"
+    "kana": "ひるね に だいじ な よてい が はいっ て いる",
+    "romaji": "hirune ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-時速-1680": {
-    "kana": "れいぶん で わ じそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jisoku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jisoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-時間割-1402": {
-    "kana": "れいぶん で わ じかんわり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jikanwari ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に じかんわり え いく みち を しらべ た",
+    "romaji": "shuumatsu ni jikanwari e iku michi o shirabe ta"
   },
   "jlpt-n2-暖まる-1870": {
-    "kana": "れいぶん で わ あたたまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa atatamaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あたたまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni atatamaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-暖める-1462": {
-    "kana": "れいぶん で わ あたためる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa atatameru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で あたためる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de atatameru houhou o kangae ta"
   },
   "jlpt-n2-曲線-1346": {
-    "kana": "じしょ で きょくせん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyokusen toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きょくせん について しばらく はなし た",
+    "romaji": "tomodachi to kyokusen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-更ける-1866": {
-    "kana": "ふける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "fukeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うわぎ を ふける ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o fukeru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-書取-1839": {
-    "kana": "のうと に かきとり を めいし として せいり し た",
-    "romaji": "nouto ni kakitori o meishi toshite seiri shi ta"
+    "kana": "こうじょう に ひつよう な かきとり を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kakitori o asa no uchi ni atsume ta"
   },
   "jlpt-n2-書留-1392": {
-    "kana": "れいぶん で わ かきとめ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakitome ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かきとめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakitome nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-書籍-1314": {
-    "kana": "じしょ で しょせき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shoseki toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に しょせき を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shoseki o oi te kara dekake ta"
   },
   "jlpt-n2-書道-1703": {
-    "kana": "れいぶん で わ しょどう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shodou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shodou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-木材-1354": {
-    "kana": "じしょ で もくざい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mokuzai toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な もくざい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na mokuzai o asa no uchi ni atsume ta"
   },
   "jlpt-n2-杉-1767": {
-    "kana": "じしょ で すぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sugi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で すぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sugi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-来日-1436": {
-    "kana": "れいぶん で わ らいにち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rainichi ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうじん の らいにち に あわせ て しゅうまつ の よてい を あけ た",
+    "romaji": "yuujin no rainichi ni awase te shuumatsu no yotei o ake ta"
   },
   "jlpt-n2-東洋-1472": {
-    "kana": "のうと に とうよう を めいし として せいり し た",
-    "romaji": "nouto ni touyou o meishi toshite seiri shi ta"
+    "kana": "とうよう の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "touyou no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-架空-1295": {
-    "kana": "れいぶん で わ かくう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かくう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-栓-1849": {
-    "kana": "のうと に せん を めいし として せいり し た",
-    "romaji": "nouto ni sen o meishi toshite seiri shi ta"
+    "kana": "ともだち と せん について しばらく はなし た",
+    "romaji": "tomodachi to sen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-校庭-1358": {
-    "kana": "のうと に こうてい を めいし として せいり し た",
-    "romaji": "nouto ni koutei o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に こうてい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni koutei e iku michi o shirabe ta"
   },
   "jlpt-n2-校舎-1905": {
-    "kana": "じしょ で こうしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kousha toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に こうしゃ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kousha e iku michi o shirabe ta"
   },
   "jlpt-n2-桁-1652": {
-    "kana": "のうと に けた を めいし として せいり し た",
-    "romaji": "nouto ni keta o meishi toshite seiri shi ta"
+    "kana": "ともだち と けた について しばらく はなし た",
+    "romaji": "tomodachi to keta nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-案外-1916": {
-    "kana": "れいぶん で わ あんがい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa angai ga monogoto ya kangae o sashi te iru"
+    "kana": "あんがい へんじ が とどい た ので あんしん し た",
+    "romaji": "angai henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-梯子-1415": {
-    "kana": "れいぶん で わ はしご が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hashigo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はしご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hashigo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-植木-1533": {
-    "kana": "じしょ で うえき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ueki toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と うえき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to ueki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-楽器-1755": {
-    "kana": "じしょ で がっき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gakki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と がっき について しばらく はなし た",
+    "romaji": "tomodachi to gakki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-構造-1745": {
-    "kana": "じしょ で こうぞう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kouzou toiu meishi no imi o kakunin shi ta"
+    "kana": "あたらしい さあびす の こうぞう が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kouzou ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-機関車-1349": {
-    "kana": "れいぶん で わ きかん しゃ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kikan sha ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きかん しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikan sha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-櫛-1785": {
-    "kana": "のうと に くし を めいし として せいり し た",
-    "romaji": "nouto ni kushi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で くし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-欄-1446": {
-    "kana": "れいぶん で わ らん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ran ga monogoto ya kangae o sashi te iru"
+    "kana": "あめあがり の らん に そら が うつっ て い た",
+    "romaji": "ameagari no ran ni sora ga utsu te i ta"
   },
   "jlpt-n2-欧米-1695": {
-    "kana": "れいぶん で わ おうべい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oubei ga monogoto ya kangae o sashi te iru"
+    "kana": "おうべい の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "oubei no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-欲張り-1868": {
-    "kana": "じしょ で よくばり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yokubari toiu meishi no imi o kakunin shi ta"
+    "kana": "よくばり な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yokubari na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-歌謡-1430": {
-    "kana": "じしょ で かよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kayou toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と かよう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to kayou o mi ni i ta"
   },
   "jlpt-n2-歯磨き-1665": {
-    "kana": "のうと に はみがき を めいし として せいり し た",
-    "romaji": "nouto ni hamigaki o meishi toshite seiri shi ta"
+    "kana": "はみがき が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hamigaki ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-死体-1726": {
-    "kana": "じしょ で したい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shitai toiu meishi no imi o kakunin shi ta"
+    "kana": "したい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shitai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-残らず-1928": {
-    "kana": "れいぶん で わ のこら ず が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nokora zu ga monogoto ya kangae o sashi te iru"
+    "kana": "のこら ず よてい を へんこう し た",
+    "romaji": "nokora zu yotei o henkou shi ta"
   },
   "jlpt-n2-殖える-1309": {
-    "kana": "せんせい わ ふえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa fueru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ふえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de fueru houhou o kangae ta"
   },
   "jlpt-n2-段階-1536": {
-    "kana": "じしょ で だんかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dankai toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と だんかい を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to dankai o mi ni i ta"
   },
   "jlpt-n2-殻-1359": {
-    "kana": "れいぶん で わ から が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kara ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と から について しばらく はなし た",
+    "romaji": "tomodachi to kara nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-比較的-1313": {
-    "kana": "のうと に ひかくてき を めいし として せいり し た",
-    "romaji": "nouto ni hikakuteki o meishi toshite seiri shi ta"
+    "kana": "ひかくてき へんじ が とどい た ので あんしん し た",
+    "romaji": "hikakuteki henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-毛皮-1920": {
-    "kana": "のうと に けがわ を めいし として せいり し た",
-    "romaji": "nouto ni kegawa o meishi toshite seiri shi ta"
+    "kana": "ともだち と けがわ について しばらく はなし た",
+    "romaji": "tomodachi to kegawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-毛糸-1288": {
-    "kana": "れいぶん で わ けいと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keito ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で けいと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keito nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-民謡-1298": {
-    "kana": "れいぶん で わ みんよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa min'you ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と みんよう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to min'you o mi ni i ta"
   },
   "jlpt-n2-民間-1919": {
-    "kana": "れいぶん で わ みんかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa minkan ga monogoto ya kangae o sashi te iru"
+    "kana": "みんかん な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "minkan na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-気を付ける-1933": {
-    "kana": "せんせい わ き を つける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ki o tsukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "かえりぎわ に き を つける と こえ を かけ た",
+    "romaji": "kaerigiwa ni ki o tsukeru to koe o kake ta"
   },
   "jlpt-n2-気圧-1865": {
-    "kana": "のうと に きあつ を めいし として せいり し た",
-    "romaji": "nouto ni kiatsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と きあつ について しばらく はなし た",
+    "romaji": "tomodachi to kiatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-水平-1322": {
-    "kana": "れいぶん で わ すいへい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa suihei ga monogoto ya kangae o sashi te iru"
+    "kana": "すいへい な てん を さき に せつめい し た",
+    "romaji": "suihei na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-水滴-1389": {
-    "kana": "れいぶん で わ すいてき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa suiteki ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうけい ちゅう に あたたかい すいてき を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai suiteki o ippai non da"
   },
   "jlpt-n2-水蒸気-1860": {
-    "kana": "のうと に すいじょうき を めいし として せいり し た",
-    "romaji": "nouto ni suijouki o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい すいじょうき を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai suijouki o ippai non da"
   },
   "jlpt-n2-水筒-1805": {
-    "kana": "のうと に すいとう を めいし として せいり し た",
-    "romaji": "nouto ni suitou o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい すいとう を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai suitou o ippai non da"
   },
   "jlpt-n2-水素-1642": {
-    "kana": "れいぶん で わ すいそ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa suiso ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で すいそ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suiso nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-汁-1827": {
-    "kana": "れいぶん で わ しる が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiru ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しる について しばらく はなし た",
+    "romaji": "tomodachi to shiru nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-汚す-1388": {
-    "kana": "れいぶん で わ けがす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kegasu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に けがす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kegasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-治める-1610": {
-    "kana": "れいぶん で わ おさめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa osameru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に おさめる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni osameru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-泊める-1611": {
-    "kana": "とめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tomeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え とめる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tomeru yotei da"
   },
   "jlpt-n2-注す-1490": {
-    "kana": "せんせい わ さす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "この じょうけん に さす ばあい わ ついか の てつづき が ひつよう だ",
+    "romaji": "kono jouken ni sasu baai wa tsuika no tetsuzuki ga hitsuyou da"
   },
   "jlpt-n2-洒落-1893": {
-    "kana": "のうと に しゃれ を めいし として せいり し た",
-    "romaji": "nouto ni share o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しゃらく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sharaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-派手-1936": {
-    "kana": "のうと に はで を めいし として せいり し た",
-    "romaji": "nouto ni hade o meishi toshite seiri shi ta"
+    "kana": "はで な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hade na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-浮ぶ-1591": {
-    "kana": "せんせい わ うかぶ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ukabu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え うかぶ よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e ukabu yotei da"
   },
   "jlpt-n2-海洋-1384": {
-    "kana": "じしょ で かいよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaiyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かいよう について しばらく はなし た",
+    "romaji": "tomodachi to kaiyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-消耗-1809": {
-    "kana": "れいぶん で わ しょうもう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shoumou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しょうもう について しばらく はなし た",
+    "romaji": "tomodachi to shoumou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-混ざる-1618": {
-    "kana": "せんせい わ まざる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mazaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に まざる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni mazaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-混合-1386": {
-    "kana": "のうと に こんごう を めいし として せいり し た",
-    "romaji": "nouto ni kongou o meishi toshite seiri shi ta"
+    "kana": "ともだち と こんごう について しばらく はなし た",
+    "romaji": "tomodachi to kongou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-清い-1409": {
-    "kana": "れいぶん で わ きよい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kiyoi ga monogoto ya kangae o sashi te iru"
+    "kana": "きよい ひ だっ た が さいご まで あるい た",
+    "romaji": "kiyoi hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-清掃-1772": {
-    "kana": "れいぶん で わ せいそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seisou ga monogoto ya kangae o sashi te iru"
+    "kana": "せいそう な まち を ゆっくり あるい た",
+    "romaji": "seisou na machi o yukkuri arui ta"
   },
   "jlpt-n2-清書-1855": {
-    "kana": "のうと に せいしょ を めいし として せいり し た",
-    "romaji": "nouto ni seisho o meishi toshite seiri shi ta"
+    "kana": "せいしょ な まち を ゆっくり あるい た",
+    "romaji": "seisho na machi o yukkuri arui ta"
   },
   "jlpt-n2-渇く-1744": {
-    "kana": "かわく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kawaku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に かわく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kawaku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-温室-1706": {
-    "kana": "じしょ で おんしつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de onshitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おんしつ について しばらく はなし た",
+    "romaji": "tomodachi to onshitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-測定-1420": {
-    "kana": "じしょ で そくてい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sokutei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で そくてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sokutei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-測量-1931": {
-    "kana": "れいぶん で わ そくりょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sokuryou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と そくりょう について しばらく はなし た",
+    "romaji": "tomodachi to sokuryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-湧く-1584": {
-    "kana": "わく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "waku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ゆ が わく まで だいどころ で すこし まっ た",
+    "romaji": "yu ga waku made daidokoro de sukoshi ma ta"
   },
   "jlpt-n2-湯飲み-1747": {
-    "kana": "れいぶん で わ ゆのみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yunomi ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に ゆのみ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni yunomi o oi te kara dekake ta"
   },
   "jlpt-n2-湿度-1637": {
-    "kana": "れいぶん で わ しつど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitsudo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しつど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitsudo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-湿気-1938": {
-    "kana": "じしょ で しっけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shikke toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しっけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shikke nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-満員-1578": {
-    "kana": "れいぶん で わ まんいん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa man'in ga monogoto ya kangae o sashi te iru"
+    "kana": "でんしゃ わ まんいん で いりぐち まで ひと が たっ て い た",
+    "romaji": "densha wa man'in de iriguchi made hito ga ta te i ta"
   },
   "jlpt-n2-溶かす-1741": {
-    "kana": "せんせい わ とかす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tokasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "おもい にもつ を えき まで とかす ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made tokasu hito o sagashi ta"
   },
   "jlpt-n2-溶く-1474": {
-    "kana": "れいぶん で わ とく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa toku ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で とく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de toku houhou o kangae ta"
   },
   "jlpt-n2-滝-1736": {
-    "kana": "れいぶん で わ たき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-漁師-1694": {
-    "kana": "れいぶん で わ りょうし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryoushi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と りょうし について しばらく はなし た",
+    "romaji": "tomodachi to ryoushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-漸く-1841": {
-    "kana": "せんせい わ ようやく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa youyaku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ようやく へんじ が とどい た ので あんしん し た",
+    "romaji": "youyaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-潜る-1541": {
-    "kana": "れいぶん で わ もぐる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa moguru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え もぐる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e moguru yotei da"
   },
   "jlpt-n2-潰れる-1516": {
-    "kana": "れいぶん で わ つぶれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsubureru ga ugoki ya henka o arawashi te iru"
+    "kana": "つよい かぜ で き が つぶれる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga tsubureru oto ga shi ta"
   },
   "jlpt-n2-濁る-1433": {
-    "kana": "せんせい わ にごる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nigoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に にごる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni nigoru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-濡らす-1762": {
-    "kana": "せんせい わ ぬらす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nurasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あつい すうぷ を すこし ぬらす じかん が ひつよう だっ た",
+    "romaji": "atsui suupu o sukoshi nurasu jikan ga hitsuyou da ta"
   },
   "jlpt-n2-火口-1899": {
-    "kana": "れいぶん で わ かこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-灯台-1540": {
-    "kana": "れいぶん で わ とうだい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toudai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と とうだい について しばらく はなし た",
+    "romaji": "tomodachi to toudai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-灯油-1802": {
-    "kana": "のうと に とうゆ を めいし として せいり し た",
-    "romaji": "nouto ni touyu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で とうゆ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de touyu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-灰色-1799": {
-    "kana": "じしょ で はいいろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haiiro toiu meishi no imi o kakunin shi ta"
+    "kana": "はいいろ の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "haiiro no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-炊事-1626": {
-    "kana": "じしょ で すいじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de suiji toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に すいじ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni suiji e iku michi o shirabe ta"
   },
   "jlpt-n2-点く-1681": {
-    "kana": "つく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsuku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "へや の あかり が つく と すこし あんしん し た",
+    "romaji": "heya no akari ga tsuku to sukoshi anshin shi ta"
   },
   "jlpt-n2-点ける-1432": {
-    "kana": "れいぶん で わ てん ける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ten keru ga ugoki ya henka o arawashi te iru"
+    "kana": "へや の あかり が つける と すこし あんしん し た",
+    "romaji": "heya no akari ga tsukeru to sukoshi anshin shi ta"
   },
   "jlpt-n2-点数-1723": {
-    "kana": "れいぶん で わ てんすう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tensuu ga monogoto ya kangae o sashi te iru"
+    "kana": "うけつけ で てんすう を よば れる まで まっ た",
+    "romaji": "uketsuke de tensuu o yoba reru made ma ta"
   },
   "jlpt-n2-焚く-1505": {
-    "kana": "れいぶん で わ たく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa taku ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を たく けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o taku keikaku o tate ta"
   },
   "jlpt-n2-無地-1456": {
-    "kana": "れいぶん で わ むじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa muji ga monogoto ya kangae o sashi te iru"
+    "kana": "むじ の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "muji no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-無数-1567": {
-    "kana": "じしょ で むすう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de musuu toiu meishi no imi o kakunin shi ta"
+    "kana": "むすう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "musuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-無限-1590": {
-    "kana": "れいぶん で わ むげん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mugen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で むげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mugen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-焦がす-1551": {
-    "kana": "せんせい わ こがす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kogasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で こがす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kogasu houhou o kangae ta"
   },
   "jlpt-n2-焦げる-1653": {
-    "kana": "せんせい わ こげる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kogeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に こげる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kogeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-焦点-1752": {
-    "kana": "れいぶん で わ しょうてん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shouten ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しょうてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shouten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-煮る-1780": {
-    "kana": "せんせい わ にる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa niru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ゆ が にる まで だいどころ で すこし まっ た",
+    "romaji": "yu ga niru made daidokoro de sukoshi ma ta"
   },
   "jlpt-n2-煙い-1746": {
-    "kana": "れいぶん で わ けむい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kemui ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし けむい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi kemui to kanji ta"
   },
   "jlpt-n2-煙突-1844": {
-    "kana": "れいぶん で わ えんとつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa entotsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で えんとつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de entotsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-照らす-1718": {
-    "kana": "れいぶん で わ てらす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa terasu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に てらす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni terasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-蒸し暑い-1308": {
-    "kana": "れいぶん で わ むしあつい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mushiatsui ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし むしあつい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi mushiatsui to kanji ta"
   },
   "jlpt-n2-熟語-1424": {
-    "kana": "じしょ で じゅくご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jukugo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゅくご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jukugo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-熱する-1624": {
-    "kana": "せんせい わ ねつ する を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa netsu suru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ゆ が ねつ する まで だいどころ で すこし まっ た",
+    "romaji": "yu ga netsu suru made daidokoro de sukoshi ma ta"
   },
   "jlpt-n2-片付く-1911": {
-    "kana": "せんせい わ かたづく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa katazuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に かたづく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni katazuku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-片仮名-1774": {
-    "kana": "れいぶん で わ かたかな が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa katakana ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かたかな について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de katakana nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-片道-1473": {
-    "kana": "れいぶん で わ かたみち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa katamichi ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に かたみち を おい て から でかけ た",
+    "romaji": "tsukue no ue ni katamichi o oi te kara dekake ta"
   },
   "jlpt-n2-牧畜-1765": {
-    "kana": "れいぶん で わ ぼくちく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bokuchiku ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で ぼくちく を み た",
+    "romaji": "chikaku no bokujou de bokuchiku o mi ta"
   },
   "jlpt-n2-物置-1800": {
-    "kana": "れいぶん で わ ものおき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa monooki ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な ものおき を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na monooki o asa no uchi ni atsume ta"
   },
   "jlpt-n2-物語る-1601": {
-    "kana": "せんせい わ ものがたる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa monogataru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ちず で もくてき ち を ものがたる ゆび を み た",
+    "romaji": "chizu de mokuteki chi o monogataru yubi o mi ta"
   },
   "jlpt-n2-物騒-1879": {
-    "kana": "れいぶん で わ ぶっそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bussou ga monogoto ya kangae o sashi te iru"
+    "kana": "ぶっそう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "bussou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-特売-1330": {
-    "kana": "れいぶん で わ とくばい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tokubai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で とくばい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tokubai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-特長-1582": {
-    "kana": "のうと に とくちょう を めいし として せいり し た",
-    "romaji": "nouto ni tokuchou o meishi toshite seiri shi ta"
+    "kana": "ともだち と とくちょう について しばらく はなし た",
+    "romaji": "tomodachi to tokuchou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-狡い-1902": {
-    "kana": "じしょ で ずるい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zurui toiu meishi no imi o kakunin shi ta"
+    "kana": "ずるい ひ だっ た が さいご まで あるい た",
+    "romaji": "zurui hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-独り言-1558": {
-    "kana": "のうと に ひとりごと を めいし として せいり し た",
-    "romaji": "nouto ni hitorigoto o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ひとりごと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitorigoto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-王女-1550": {
-    "kana": "じしょ で おうじょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de oujo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おうじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oujo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-現に-1586": {
-    "kana": "れいぶん で わ げんに が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa genni ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "げんに へんじ が とどい た ので あんしん し た",
+    "romaji": "genni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-琴-1316": {
-    "kana": "れいぶん で わ きん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-瓶詰-1770": {
-    "kana": "じしょ で びんづめ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de binzume toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で びんづめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de binzume nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-甚だしい-1651": {
-    "kana": "れいぶん で わ はなはだしい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hanahadashii ga monogoto ya kangae o sashi te iru"
+    "kana": "はなはだしい ひ だっ た が さいご まで あるい た",
+    "romaji": "hanahadashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-生き生き-1530": {
-    "kana": "じしょ で いきいき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ikiiki toiu meishi no imi o kakunin shi ta"
+    "kana": "いきいき よてい を へんこう し た",
+    "romaji": "ikiiki yotei o henkou shi ta"
   },
   "jlpt-n2-生る-1554": {
-    "kana": "なる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "naru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で なる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de naru houhou o kangae ta"
   },
   "jlpt-n2-生年月日-1773": {
-    "kana": "じしょ で せいねんがっぴ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seinengappi toiu meishi no imi o kakunin shi ta"
+    "kana": "せいねんがっぴ に だいじ な よてい が はいっ て いる",
+    "romaji": "seinengappi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-生意気-1375": {
-    "kana": "れいぶん で わ なまいき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa namaiki ga monogoto ya kangae o sashi te iru"
+    "kana": "なまいき な てん を さき に せつめい し た",
+    "romaji": "namaiki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-産地-1440": {
-    "kana": "じしょ で さんち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sanchi toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に さんち え いく みち を しらべ た",
+    "romaji": "shuumatsu ni sanchi e iku michi o shirabe ta"
   },
   "jlpt-n2-用途-1836": {
-    "kana": "じしょ で ようと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youto toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ようと について しばらく はなし た",
+    "romaji": "tomodachi to youto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-田ぼ-1687": {
-    "kana": "のうと に た ぼ を めいし として せいり し た",
-    "romaji": "nouto ni ta bo o meishi toshite seiri shi ta"
+    "kana": "あめあがり の た ぼ に そら が うつっ て い た",
+    "romaji": "ameagari no ta bo ni sora ga utsu te i ta"
   },
   "jlpt-n2-田植え-1671": {
-    "kana": "じしょ で たうえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taue toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で たうえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taue nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-申し訳ない-1646": {
-    "kana": "れいぶん で わ もうしわけ ない が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa moushiwake nai ga monogoto ya kangae o sashi te iru"
+    "kana": "かえりぎわ に もうしわけ ない と こえ を かけ た",
+    "romaji": "kaerigiwa ni moushiwake nai to koe o kake ta"
   },
   "jlpt-n2-留守番-1350": {
-    "kana": "じしょ で るすばん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rusuban toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と るすばん について しばらく はなし た",
+    "romaji": "tomodachi to rusuban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-略す-1575": {
-    "kana": "れいぶん で わ りゃくす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ryakusu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で りゃくす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ryakusu houhou o kangae ta"
   },
   "jlpt-n2-畳む-1431": {
-    "kana": "れいぶん で わ たたむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tatamu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に たたむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tatamu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-発つ-1299": {
-    "kana": "たつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tatsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で たつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tatsu houhou o kangae ta"
   },
   "jlpt-n2-発売-1934": {
-    "kana": "のうと に はつばい を めいし として せいり し た",
-    "romaji": "nouto ni hatsubai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はつばい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hatsubai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-発揮-1556": {
-    "kana": "のうと に はっき を めいし として せいり し た",
-    "romaji": "nouto ni hakki o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と はっき を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to hakki o mi ni i ta"
   },
   "jlpt-n2-盆地-1748": {
-    "kana": "れいぶん で わ ぼんち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bonchi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぼんち について しばらく はなし た",
+    "romaji": "tomodachi to bonchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-盗難-1372": {
-    "kana": "のうと に とうなん を めいし として せいり し た",
-    "romaji": "nouto ni tounan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で とうなん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tounan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-目上-1286": {
-    "kana": "のうと に めうえ を めいし として せいり し た",
-    "romaji": "nouto ni meue o meishi toshite seiri shi ta"
+    "kana": "かいぎ で めうえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meue nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-目安-1294": {
-    "kana": "のうと に めやす を めいし として せいり し た",
-    "romaji": "nouto ni meyasu o meishi toshite seiri shi ta"
+    "kana": "ともだち と めやす について しばらく はなし た",
+    "romaji": "tomodachi to meyasu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-目次-1808": {
-    "kana": "のうと に もくじ を めいし として せいり し た",
-    "romaji": "nouto ni mokuji o meishi toshite seiri shi ta"
+    "kana": "しりょう の もくじ に すうじ を まとめ た",
+    "romaji": "shiryou no mokuji ni suuji o matome ta"
   },
   "jlpt-n2-直前-1614": {
-    "kana": "のうと に ちょくぜん を めいし として せいり し た",
-    "romaji": "nouto ni chokuzen o meishi toshite seiri shi ta"
+    "kana": "ふうとう の ちょくぜん に じゅうしょ を かい た",
+    "romaji": "fuutou no chokuzen ni juusho o kai ta"
   },
   "jlpt-n2-直線-1828": {
-    "kana": "のうと に ちょくせん を めいし として せいり し た",
-    "romaji": "nouto ni chokusen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちょくせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chokusen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-直角-1859": {
-    "kana": "のうと に ちょっかく を めいし として せいり し た",
-    "romaji": "nouto ni chokkaku o meishi toshite seiri shi ta"
+    "kana": "ちょっかく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "chokkaku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-相違-1869": {
-    "kana": "のうと に そうい を めいし として せいり し た",
-    "romaji": "nouto ni soui o meishi toshite seiri shi ta"
+    "kana": "かいぎ で そうい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-省略-1713": {
-    "kana": "じしょ で しょうりゃく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shouryaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しょうりゃく について しばらく はなし た",
+    "romaji": "tomodachi to shouryaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-看板-1539": {
-    "kana": "れいぶん で わ かんばん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanban ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かんばん について しばらく はなし た",
+    "romaji": "tomodachi to kanban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-看病-1630": {
-    "kana": "のうと に かんびょう を めいし として せいり し た",
-    "romaji": "nouto ni kanbyou o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんびょう について しばらく はなし た",
+    "romaji": "tomodachi to kanbyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-真っ先-1560": {
-    "kana": "のうと に まっさき を めいし として せいり し た",
-    "romaji": "nouto ni massaki o meishi toshite seiri shi ta"
+    "kana": "ふうとう の まっさき に じゅうしょ を かい た",
+    "romaji": "fuutou no massaki ni juusho o kai ta"
   },
   "jlpt-n2-真っ暗-1300": {
-    "kana": "じしょ で まっくら という めいし の いみ を かくにん し た",
-    "romaji": "jisho de makkura toiu meishi no imi o kakunin shi ta"
+    "kana": "まっくら な てん を さき に せつめい し た",
+    "romaji": "makkura na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-真っ青-1661": {
-    "kana": "のうと に まっさお を めいし として せいり し た",
-    "romaji": "nouto ni massao o meishi toshite seiri shi ta"
+    "kana": "まっさお な てん を さき に せつめい し た",
+    "romaji": "massao na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-真っ黒-1321": {
-    "kana": "のうと に まっくろ を めいし として せいり し た",
-    "romaji": "nouto ni makkuro o meishi toshite seiri shi ta"
+    "kana": "まっくろ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "makkuro na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-着々-1324": {
-    "kana": "じしょ で ちゃくちゃく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chakuchaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ちゃくちゃく よてい を へんこう し た",
+    "romaji": "chakuchaku yotei o henkou shi ta"
   },
   "jlpt-n2-瞳-1686": {
-    "kana": "れいぶん で わ ひとみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hitomi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ひとみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-矛盾-1475": {
-    "kana": "のうと に むじゅん を めいし として せいり し た",
-    "romaji": "nouto ni mujun o meishi toshite seiri shi ta"
+    "kana": "ともだち と むじゅん について しばらく はなし た",
+    "romaji": "tomodachi to mujun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-矢印-1292": {
-    "kana": "じしょ で やじるし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yajirushi toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる やじるし に こえ を かけ た",
+    "romaji": "koma te iru yajirushi ni koe o kake ta"
   },
   "jlpt-n2-知人-1697": {
-    "kana": "じしょ で ちじん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chijin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ちじん について しばらく はなし た",
+    "romaji": "tomodachi to chijin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-知合い-1426": {
-    "kana": "れいぶん で わ しりあい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiriai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しりあい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiriai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-短所-1768": {
-    "kana": "じしょ で たんしょ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tansho toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たんしょ について しばらく はなし た",
+    "romaji": "tomodachi to tansho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-石鹸-1825": {
-    "kana": "のうと に せっけん を めいし として せいり し た",
-    "romaji": "nouto ni sekken o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に せっけん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni sekken o oi te kara dekake ta"
   },
   "jlpt-n2-砕ける-1563": {
-    "kana": "くだける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kudakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "つよい かぜ で き が くだける おと が し た",
+    "romaji": "tsuyoi kaze de ki ga kudakeru oto ga shi ta"
   },
   "jlpt-n2-破れる-1847": {
-    "kana": "れいぶん で わ われる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa wareru ga ugoki ya henka o arawashi te iru"
+    "kana": "うわぎ を われる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o wareru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-碁-1360": {
-    "kana": "れいぶん で わ ご が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa go ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ご について しばらく はなし た",
+    "romaji": "tomodachi to go nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-碗-1628": {
-    "kana": "れいぶん で わ わん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa wan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で わん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-磁石-1621": {
-    "kana": "れいぶん で わ じしゃく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jishaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じしゃく について しばらく はなし た",
+    "romaji": "tomodachi to jishaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-祝日-1565": {
-    "kana": "のうと に しゅくじつ を めいし として せいり し た",
-    "romaji": "nouto ni shukujitsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しゅくじつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shukujitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-祭る-1756": {
-    "kana": "せんせい わ まつる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa matsuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に まつる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni matsuru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-祭日-1648": {
-    "kana": "のうと に さいじつ を めいし として せいり し た",
-    "romaji": "nouto ni saijitsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さいじつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saijitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-私鉄-1418": {
-    "kana": "れいぶん で わ してつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shitetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と してつ について しばらく はなし た",
+    "romaji": "tomodachi to shitetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-秤-1545": {
-    "kana": "のうと に はかり を めいし として せいり し た",
-    "romaji": "nouto ni hakari o meishi toshite seiri shi ta"
+    "kana": "ちかく の みせ で はかり を みつけ た",
+    "romaji": "chikaku no mise de hakari o mitsuke ta"
   },
   "jlpt-n2-稀-1438": {
-    "kana": "れいぶん で わ まれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mare ga monogoto ya kangae o sashi te iru"
+    "kana": "まれ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "mare na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-税関-1594": {
-    "kana": "じしょ で ぜいかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zeikan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぜいかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zeikan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-稽古-1732": {
-    "kana": "じしょ で けいこ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keiko toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の けいこ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no keiko wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-突き当たる-1608": {
-    "kana": "つきあたる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsukiataru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え つきあたる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tsukiataru yotei da"
   },
   "jlpt-n2-競馬-1476": {
-    "kana": "れいぶん で わ けいば が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keiba ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で けいば を み た",
+    "romaji": "chikaku no bokujou de keiba o mi ta"
   },
   "jlpt-n2-筆記-1898": {
-    "kana": "れいぶん で わ ひっき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hikki ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と ひっき を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to hikki o mi ni i ta"
   },
   "jlpt-n2-等分-1672": {
-    "kana": "れいぶん で わ とうぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toubun ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と とうぶん について しばらく はなし た",
+    "romaji": "tomodachi to toubun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-箒-1737": {
-    "kana": "れいぶん で わ ほうき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa houki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ほうき について しばらく はなし た",
+    "romaji": "tomodachi to houki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-箸-1640": {
-    "kana": "じしょ で はし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hashi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で はし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-粒-1334": {
-    "kana": "のうと に つぶ を めいし として せいり し た",
-    "romaji": "nouto ni tsubu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で つぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsubu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-納める-1398": {
-    "kana": "おさめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "osameru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で おさめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de osameru houhou o kangae ta"
   },
   "jlpt-n2-紙幣-1369": {
-    "kana": "のうと に しへい を めいし として せいり し た",
-    "romaji": "nouto ni shihei o meishi toshite seiri shi ta"
+    "kana": "ちかく の みせ で しへい を みつけ た",
+    "romaji": "chikaku no mise de shihei o mitsuke ta"
   },
   "jlpt-n2-素質-1724": {
-    "kana": "じしょ で そしつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de soshitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と そしつ について しばらく はなし た",
+    "romaji": "tomodachi to soshitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-紫-1633": {
-    "kana": "れいぶん で わ むらさき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa murasaki ga monogoto ya kangae o sashi te iru"
+    "kana": "むらさき の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "murasaki no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-紺-1635": {
-    "kana": "れいぶん で わ こん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kon ga monogoto ya kangae o sashi te iru"
+    "kana": "こん の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "kon no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-終了-1365": {
-    "kana": "じしょ で しゅうりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shuuryou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しゅうりょう について しばらく はなし た",
+    "romaji": "tomodachi to shuuryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-終点-1569": {
-    "kana": "のうと に しゅうてん を めいし として せいり し た",
-    "romaji": "nouto ni shuuten o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しゅうてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-統一-1506": {
-    "kana": "じしょ で とういつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de touitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と とういつ について しばらく はなし た",
+    "romaji": "tomodachi to touitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-統計-1684": {
-    "kana": "れいぶん で わ とうけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toukei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で とうけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toukei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-絵の具-1491": {
-    "kana": "じしょ で えのぐ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de enogu toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に えのぐ と こえ を かけ た",
+    "romaji": "kaerigiwa ni enogu to koe o kake ta"
   },
   "jlpt-n2-絶えず-1605": {
-    "kana": "じしょ で たえず という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taezu toiu meishi no imi o kakunin shi ta"
+    "kana": "たえず へんじ が とどい た ので あんしん し た",
+    "romaji": "taezu henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-続々-1485": {
-    "kana": "のうと に ぞくぞく を めいし として せいり し た",
-    "romaji": "nouto ni zokuzoku o meishi toshite seiri shi ta"
+    "kana": "ぞくぞく よてい を へんこう し た",
+    "romaji": "zokuzoku yotei o henkou shi ta"
   },
   "jlpt-n2-綱-1428": {
-    "kana": "のうと に つな を めいし として せいり し た",
-    "romaji": "nouto ni tsuna o meishi toshite seiri shi ta"
+    "kana": "かいぎ で つな について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuna nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-線路-1479": {
-    "kana": "じしょ で せんろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de senro toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で せんろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-緩い-1593": {
-    "kana": "ゆるい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "yurui wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "おもっ た より ゆるい もんだい だっ た",
+    "romaji": "omo ta yori yurui mondai da ta"
   },
   "jlpt-n2-縛る-1698": {
-    "kana": "れいぶん で わ しばる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shibaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で しばる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de shibaru houhou o kangae ta"
   },
   "jlpt-n2-縞-1935": {
-    "kana": "のうと に しま を めいし として せいり し た",
-    "romaji": "nouto ni shima o meishi toshite seiri shi ta"
+    "kana": "ともだち と しま について しばらく はなし た",
+    "romaji": "tomodachi to shima nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-縫う-1634": {
-    "kana": "ぬう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nuu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ぬう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nuu houhou o kangae ta"
   },
   "jlpt-n2-縮れる-1821": {
-    "kana": "ちぢれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "chijireru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ちぢれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de chijireru houhou o kangae ta"
   },
   "jlpt-n2-美容-1351": {
-    "kana": "じしょ で びよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de biyou toiu meishi no imi o kakunin shi ta"
+    "kana": "びよう な まち を ゆっくり あるい た",
+    "romaji": "biyou na machi o yukkuri arui ta"
   },
   "jlpt-n2-習字-1528": {
-    "kana": "れいぶん で わ しゅうじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuuji ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅうじ について しばらく はなし た",
+    "romaji": "tomodachi to shuuji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-耕す-1383": {
-    "kana": "せんせい わ たがやす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tagayasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に たがやす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tagayasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-耕地-1700": {
-    "kana": "じしょ で こうち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kouchi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうち について しばらく はなし た",
+    "romaji": "tomodachi to kouchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-肘-1457": {
-    "kana": "じしょ で ひじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hiji toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-肯定-1513": {
-    "kana": "れいぶん で わ こうてい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koutei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こうてい について しばらく はなし た",
+    "romaji": "tomodachi to koutei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-脱線-1787": {
-    "kana": "れいぶん で わ だっせん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dassen ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と だっせん について しばらく はなし た",
+    "romaji": "tomodachi to dassen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-臨時-1674": {
-    "kana": "れいぶん で わ りんじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rinji ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で りんじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rinji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-自然科学-1722": {
-    "kana": "れいぶん で わ しぜん かがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shizen kagaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しぜん かがく について しばらく はなし た",
+    "romaji": "tomodachi to shizen kagaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-自習-1720": {
-    "kana": "れいぶん で わ じしゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jishuu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に じしゅう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni jishuu e iku michi o shirabe ta"
   },
   "jlpt-n2-艶-1885": {
-    "kana": "れいぶん で わ つや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tsuya ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と つや について しばらく はなし た",
+    "romaji": "tomodachi to tsuya nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-芯-1315": {
-    "kana": "れいぶん で わ しん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shin ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に しん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shin o oi te kara dekake ta"
   },
   "jlpt-n2-花嫁-1393": {
-    "kana": "のうと に はなよめ を めいし として せいり し た",
-    "romaji": "nouto ni hanayome o meishi toshite seiri shi ta"
+    "kana": "ともだち と はなよめ について しばらく はなし た",
+    "romaji": "tomodachi to hanayome nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-苦心-1666": {
-    "kana": "じしょ で くしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kushin toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の くしん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kushin wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-苦情-1588": {
-    "kana": "れいぶん で わ くじょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kujou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と くじょう について しばらく はなし た",
+    "romaji": "tomodachi to kujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-英和-1421": {
-    "kana": "れいぶん で わ えいわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa eiwa ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に えいわ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni eiwa o oi te kara dekake ta"
   },
   "jlpt-n2-茂る-1760": {
-    "kana": "せんせい わ しげる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shigeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に しげる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shigeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-著す-1453": {
-    "kana": "れいぶん で わ あらわす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa arawasu ga ugoki ya henka o arawashi te iru"
+    "kana": "よる に ゆっくり あらわす じかん を つくっ た",
+    "romaji": "yoru ni yukkuri arawasu jikan o tsuku ta"
   },
   "jlpt-n2-落し物-1714": {
-    "kana": "のうと に おとしもの を めいし として せいり し た",
-    "romaji": "nouto ni otoshimono o meishi toshite seiri shi ta"
+    "kana": "かいぎ で おとしもの について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de otoshimono nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-葬式-1683": {
-    "kana": "のうと に そうしき を めいし として せいり し た",
-    "romaji": "nouto ni soushiki o meishi toshite seiri shi ta"
+    "kana": "ともだち と そうしき について しばらく はなし た",
+    "romaji": "tomodachi to soushiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-蓄える-1410": {
-    "kana": "たくわえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "takuwaeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に たくわえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni takuwaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-蕎麦-1348": {
-    "kana": "のうと に そば を めいし として せいり し た",
-    "romaji": "nouto ni soba o meishi toshite seiri shi ta"
+    "kana": "ともだち と そば について しばらく はなし た",
+    "romaji": "tomodachi to soba nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-蘇る-1370": {
-    "kana": "れいぶん で わ よみがえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yomigaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で よみがえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de yomigaeru houhou o kangae ta"
   },
   "jlpt-n2-蚊-1924": {
-    "kana": "のうと に か を めいし として せいり し た",
-    "romaji": "nouto ni ka o meishi toshite seiri shi ta"
+    "kana": "ともだち と か について しばらく はなし た",
+    "romaji": "tomodachi to ka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-蛇口-1606": {
-    "kana": "れいぶん で わ じゃぐち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jaguchi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じゃぐち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jaguchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-蝋燭-1771": {
-    "kana": "のうと に ろうそく を めいし として せいり し た",
-    "romaji": "nouto ni rousoku o meishi toshite seiri shi ta"
+    "kana": "あんぜん に ろうそく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni rousoku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-血圧-1820": {
-    "kana": "のうと に けつあつ を めいし として せいり し た",
-    "romaji": "nouto ni ketsuatsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けつあつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ketsuatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-行事-1455": {
-    "kana": "じしょ で ぎょうじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gyouji toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぎょうじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gyouji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-裁縫-1761": {
-    "kana": "じしょ で さいほう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saihou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と さいほう について しばらく はなし た",
+    "romaji": "tomodachi to saihou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-裂く-1807": {
-    "kana": "れいぶん で わ さく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa saku ga ugoki ya henka o arawashi te iru"
+    "kana": "がらす が さく おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga saku oto ga shi te minna ga furimui ta"
   },
   "jlpt-n2-補う-1547": {
-    "kana": "せんせい わ おぎなう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa oginau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に おぎなう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni oginau tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-西暦-1775": {
-    "kana": "れいぶん で わ せいれき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seireki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいれき について しばらく はなし た",
+    "romaji": "tomodachi to seireki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-要旨-1890": {
-    "kana": "じしょ で ようし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youshi toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の みせ で ようし を みつけ た",
+    "romaji": "chikaku no mise de youshi o mitsuke ta"
   },
   "jlpt-n2-見慣れる-1577": {
-    "kana": "みなれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "minareru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "この けしき に みなれる まで すこし じかん が かかっ た",
+    "romaji": "kono keshiki ni minareru made sukoshi jikan ga kaka ta"
   },
   "jlpt-n2-親指-1580": {
-    "kana": "れいぶん で わ おやゆび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oyayubi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おやゆび について しばらく はなし た",
+    "romaji": "tomodachi to oyayubi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-親類-1685": {
-    "kana": "れいぶん で わ しんるい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shinrui ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しんるい について しばらく はなし た",
+    "romaji": "tomodachi to shinrui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-観測-1816": {
-    "kana": "じしょ で かんそく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kansoku toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の かんそく を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no kansoku o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n2-解放-1814": {
-    "kana": "のうと に かいほう を めいし として せいり し た",
-    "romaji": "nouto ni kaihou o meishi toshite seiri shi ta"
+    "kana": "ともだち と かいほう について しばらく はなし た",
+    "romaji": "tomodachi to kaihou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-解答-1929": {
-    "kana": "のうと に かいとう を めいし として せいり し た",
-    "romaji": "nouto ni kaitou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かいとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaitou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-言い付ける-1707": {
-    "kana": "せんせい わ いいつける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa iitsukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に いいつける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni iitsukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-記号-1325": {
-    "kana": "のうと に きごう を めいし として せいり し た",
-    "romaji": "nouto ni kigou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きごう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kigou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-診る-1639": {
-    "kana": "れいぶん で わ みる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa miru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で みる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de miru houhou o kangae ta"
   },
   "jlpt-n2-診断-1862": {
-    "kana": "のうと に しんだん を めいし として せいり し た",
-    "romaji": "nouto ni shindan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しんだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shindan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-詰まる-1296": {
-    "kana": "れいぶん で わ つまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsumaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に つまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsumaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-誓う-1599": {
-    "kana": "せんせい わ ちかう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa chikau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ちかう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de chikau houhou o kangae ta"
   },
   "jlpt-n2-調味料-1381": {
-    "kana": "れいぶん で わ ちょうみ りょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa choumi ryou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちょうみ りょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choumi ryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-論ずる-1356": {
-    "kana": "せんせい わ ろんずる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ronzuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あたらしい あん を ろんずる かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o ronzuru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n2-謙虚-1378": {
-    "kana": "れいぶん で わ けんきょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kenkyo ga monogoto ya kangae o sashi te iru"
+    "kana": "けんきょ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kenkyo na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-講師-1373": {
-    "kana": "のうと に こうし を めいし として せいり し た",
-    "romaji": "nouto ni koushi o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に こうし え いく みち を しらべ た",
+    "romaji": "shuumatsu ni koushi e iku michi o shirabe ta"
   },
   "jlpt-n2-警備-1853": {
-    "kana": "じしょ で けいび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keibi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けいび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keibi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-貝-1876": {
-    "kana": "のうと に かい を めいし として せいり し た",
-    "romaji": "nouto ni kai o meishi toshite seiri shi ta"
+    "kana": "ともだち と かい について しばらく はなし た",
+    "romaji": "tomodachi to kai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-貯蔵-1812": {
-    "kana": "じしょ で ちょぞう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chozou toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ちょぞう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na chozou o asa no uchi ni atsume ta"
   },
   "jlpt-n2-貸し出し-1484": {
-    "kana": "れいぶん で わ かしだし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kashidashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かしだし の てつづき を きげん まで に すませ た",
+    "romaji": "kashidashi no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n2-賞金-1573": {
-    "kana": "じしょ で しょうきん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shoukin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しょうきん について しばらく はなし た",
+    "romaji": "tomodachi to shoukin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-赤道-1607": {
-    "kana": "れいぶん で わ せきどう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sekidou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せきどう について しばらく はなし た",
+    "romaji": "tomodachi to sekidou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-超す-1829": {
-    "kana": "れいぶん で わ こす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kosu ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え こす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e kosu yotei da"
   },
   "jlpt-n2-跳ぶ-1471": {
-    "kana": "れいぶん で わ とぶ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tobu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で とぶ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tobu houhou o kangae ta"
   },
   "jlpt-n2-踏切-1595": {
-    "kana": "じしょ で ふみきり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fumikiri toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ふみきり について しばらく はなし た",
+    "romaji": "tomodachi to fumikiri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-車輪-1835": {
-    "kana": "じしょ で しゃりん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sharin toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の みせ で しゃりん を みつけ た",
+    "romaji": "chikaku no mise de sharin o mitsuke ta"
   },
   "jlpt-n2-軟らかい-1305": {
-    "kana": "じしょ で やわらかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yawarakai toiu meishi no imi o kakunin shi ta"
+    "kana": "やわらかい ひ だっ た が さいご まで あるい た",
+    "romaji": "yawarakai hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-転がす-1407": {
-    "kana": "せんせい わ ころがす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa korogasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ころがす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de korogasu houhou o kangae ta"
   },
   "jlpt-n2-転がる-1754": {
-    "kana": "れいぶん で わ ころがる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa korogaru ga ugoki ya henka o arawashi te iru"
+    "kana": "つよい かぜ で き が ころがる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga korogaru oto ga shi ta"
   },
   "jlpt-n2-農薬-1337": {
-    "kana": "のうと に のうやく を めいし として せいり し た",
-    "romaji": "nouto ni nouyaku o meishi toshite seiri shi ta"
+    "kana": "ともだち と のうやく について しばらく はなし た",
+    "romaji": "tomodachi to nouyaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-近付ける-1427": {
-    "kana": "れいぶん で わ ちかづける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa chikazukeru ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで ちかづける ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made chikazukeru hito o sagashi ta"
   },
   "jlpt-n2-迫る-1552": {
-    "kana": "れいぶん で わ せまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa semaru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で せまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de semaru houhou o kangae ta"
   },
   "jlpt-n2-述語-1817": {
-    "kana": "じしょ で じゅつご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jutsugo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゅつご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jutsugo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-迷信-1788": {
-    "kana": "のうと に めいしん を めいし として せいり し た",
-    "romaji": "nouto ni meishin o meishi toshite seiri shi ta"
+    "kana": "ともだち と めいしん について しばらく はなし た",
+    "romaji": "tomodachi to meishin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-追加-1439": {
-    "kana": "れいぶん で わ ついか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tsuika ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ついか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-退く-1480": {
-    "kana": "しりぞく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shirizoku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひきだし から ふるい てがみ を どく と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o doku to natsukashiku na ta"
   },
   "jlpt-n2-退院-1831": {
-    "kana": "じしょ で たいいん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taiin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たいいん について しばらく はなし た",
+    "romaji": "tomodachi to taiin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-送料-1655": {
-    "kana": "じしょ で そうりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de souryou toiu meishi no imi o kakunin shi ta"
+    "kana": "そうりょう の てつづき を きげん まで に すませ た",
+    "romaji": "souryou no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n2-逃がす-1443": {
-    "kana": "せんせい わ にがす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nigasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え にがす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e nigasu yotei da"
   },
   "jlpt-n2-逆さ-1730": {
-    "kana": "じしょ で さかさ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sakasa toiu meishi no imi o kakunin shi ta"
+    "kana": "さかさ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sakasa na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-透き通る-1570": {
-    "kana": "すきとおる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sukitooru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え すきとおる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e sukitooru yotei da"
   },
   "jlpt-n2-通訳-1881": {
-    "kana": "じしょ で つうやく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuuyaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と つうやく について しばらく はなし た",
+    "romaji": "tomodachi to tsuuyaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-通路-1504": {
-    "kana": "じしょ で つうろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuuro toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と つうろ について しばらく はなし た",
+    "romaji": "tomodachi to tsuuro nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-速力-1416": {
-    "kana": "じしょ で そくりょく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sokuryoku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と そくりょく について しばらく はなし た",
+    "romaji": "tomodachi to sokuryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-速達-1335": {
-    "kana": "れいぶん で わ そくたつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sokutatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で そくたつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sokutatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-造船-1512": {
-    "kana": "のうと に ぞうせん を めいし として せいり し た",
-    "romaji": "nouto ni zousen o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぞうせん について しばらく はなし た",
+    "romaji": "tomodachi to zousen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-逸れる-1908": {
-    "kana": "それる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "soreru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え それる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e soreru yotei da"
   },
   "jlpt-n2-過失-1913": {
-    "kana": "のうと に かしつ を めいし として せいり し た",
-    "romaji": "nouto ni kashitsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かしつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kashitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-過程-1520": {
-    "kana": "のうと に かてい を めいし として せいり し た",
-    "romaji": "nouto ni katei o meishi toshite seiri shi ta"
+    "kana": "ともだち と かてい について しばらく はなし た",
+    "romaji": "tomodachi to katei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-道順-1371": {
-    "kana": "のうと に みちじゅん を めいし として せいり し た",
-    "romaji": "nouto ni michijun o meishi toshite seiri shi ta"
+    "kana": "ともだち と みちじゅん について しばらく はなし た",
+    "romaji": "tomodachi to michijun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-遠足-1690": {
-    "kana": "れいぶん で わ えんそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ensoku ga monogoto ya kangae o sashi te iru"
+    "kana": "あめあがり の えんそく に そら が うつっ て い た",
+    "romaji": "ameagari no ensoku ni sora ga utsu te i ta"
   },
   "jlpt-n2-遭う-1854": {
-    "kana": "せんせい わ あう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa au o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に あう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni au tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-郡-1548": {
-    "kana": "じしょ で ぐん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gun toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ぐん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gun e iku michi o shirabe ta"
   },
   "jlpt-n2-部首-1918": {
-    "kana": "れいぶん で わ ぶしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bushu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぶしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bushu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-都心-1555": {
-    "kana": "のうと に としん を めいし として せいり し た",
-    "romaji": "nouto ni toshin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で としん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toshin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-酌む-1289": {
-    "kana": "せんせい わ くむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kumu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で くむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kumu houhou o kangae ta"
   },
   "jlpt-n2-醜い-1464": {
-    "kana": "じしょ で みにくい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de minikui toiu meishi no imi o kakunin shi ta"
+    "kana": "その せつめい わ すこし みにくい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi minikui to kanji ta"
   },
   "jlpt-n2-醤油-1667": {
-    "kana": "のうと に しょうゆ を めいし として せいり し た",
-    "romaji": "nouto ni shouyu o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうゆ について しばらく はなし た",
+    "romaji": "tomodachi to shouyu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-重ねる-1813": {
-    "kana": "れいぶん で わ かさねる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kasaneru ga ugoki ya henka o arawashi te iru"
+    "kana": "うわぎ を かさねる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o kasaneru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-重量-1801": {
-    "kana": "れいぶん で わ じゅうりょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juuryou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じゅうりょう について しばらく はなし た",
+    "romaji": "tomodachi to juuryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-釜-1877": {
-    "kana": "じしょ で かま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kama toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に かま を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kama o oi te kara dekake ta"
   },
   "jlpt-n2-針金-1562": {
-    "kana": "れいぶん で わ はりがね が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa harigane ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と はりがね について しばらく はなし た",
+    "romaji": "tomodachi to harigane nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-鉄橋-1603": {
-    "kana": "じしょ で てっきょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tekkyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と てっきょう について しばらく はなし た",
+    "romaji": "tomodachi to tekkyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-鉄砲-1390": {
-    "kana": "のうと に てっぽう を めいし として せいり し た",
-    "romaji": "nouto ni teppou o meishi toshite seiri shi ta"
+    "kana": "ちかく の ぼくじょう で てっぽう を み た",
+    "romaji": "chikaku no bokujou de teppou o mi ta"
   },
   "jlpt-n2-鉱物-1332": {
-    "kana": "のうと に こうぶつ を めいし として せいり し た",
-    "romaji": "nouto ni koubutsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こうぶつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koubutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-銘々-1856": {
-    "kana": "れいぶん で わ めいめい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa meimei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で めいめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meimei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-錆-1394": {
-    "kana": "のうと に さび を めいし として せいり し た",
-    "romaji": "nouto ni sabi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sabi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-錆びる-1803": {
-    "kana": "せんせい わ さびる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sabiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に さびる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni sabiru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-長引く-1636": {
-    "kana": "せんせい わ ながびく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nagabiku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ながびく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nagabiku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n2-長所-1909": {
-    "kana": "のうと に ちょうしょ を めいし として せいり し た",
-    "romaji": "nouto ni chousho o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちょうしょ について しばらく はなし た",
+    "romaji": "tomodachi to chousho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-閉会-1514": {
-    "kana": "のうと に へいかい を めいし として せいり し た",
-    "romaji": "nouto ni heikai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で へいかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de heikai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-附属-1845": {
-    "kana": "れいぶん で わ ふぞく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fuzoku ga monogoto ya kangae o sashi te iru"
+    "kana": "だいがく に ふぞく する びょういん で じっしゅう し た",
+    "romaji": "daigaku ni fuzoku suru byouin de jisshuu shi ta"
   },
   "jlpt-n2-限度-1783": {
-    "kana": "れいぶん で わ げんど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gendo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で げんど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gendo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-陽射-1647": {
-    "kana": "のうと に ひ しゃ を めいし として せいり し た",
-    "romaji": "nouto ni hi sha o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひ しゃ について しばらく はなし た",
+    "romaji": "tomodachi to hi sha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-随筆-1851": {
-    "kana": "のうと に ずいひつ を めいし として せいり し た",
-    "romaji": "nouto ni zuihitsu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と ずいひつ を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to zuihitsu o mi ni i ta"
   },
   "jlpt-n2-隔てる-1921": {
-    "kana": "へだてる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hedateru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で へだてる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hedateru houhou o kangae ta"
   },
   "jlpt-n2-障子-1452": {
-    "kana": "じしょ で しょうじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shouji toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に しょうじ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shouji o oi te kara dekake ta"
   },
   "jlpt-n2-集合-1459": {
-    "kana": "じしょ で しゅうごう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shuugou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しゅうごう について しばらく はなし た",
+    "romaji": "tomodachi to shuugou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-雑巾-1867": {
-    "kana": "じしょ で ぞうきん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zoukin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぞうきん について しばらく はなし た",
+    "romaji": "tomodachi to zoukin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-雨戸-1291": {
-    "kana": "れいぶん で わ あまど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa amado ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に あまど を おい て から でかけ た",
+    "romaji": "tsukue no ue ni amado o oi te kara dekake ta"
   },
   "jlpt-n2-零点-1871": {
-    "kana": "じしょ で れい てん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rei ten toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で れい てん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rei ten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-電柱-1413": {
-    "kana": "じしょ で でんちゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de denchuu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で でんちゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de denchuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-電波-1917": {
-    "kana": "れいぶん で わ でんぱ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa denpa ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と でんぱ について しばらく はなし た",
+    "romaji": "tomodachi to denpa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-青白い-1419": {
-    "kana": "じしょ で あおじろい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de aojiroi toiu meishi no imi o kakunin shi ta"
+    "kana": "あおじろい しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "aojiroi shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-静まる-1815": {
-    "kana": "しずまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shizumaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しずまる な まち を ゆっくり あるい た",
+    "romaji": "shizumaru na machi o yukkuri arui ta"
   },
   "jlpt-n2-面接-1422": {
-    "kana": "じしょ で めんせつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mensetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の めんせつ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no mensetsu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-響き-1609": {
-    "kana": "のうと に ひびき を めいし として せいり し た",
-    "romaji": "nouto ni hibiki o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい ひびき を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi hibiki o oboe ta"
   },
   "jlpt-n2-響く-1320": {
-    "kana": "ひびく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hibiku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え ひびく よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hibiku yotei da"
   },
   "jlpt-n2-頂点-1897": {
-    "kana": "じしょ で ちょうてん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chouten toiu meishi no imi o kakunin shi ta"
+    "kana": "やま の ちょうてん から まち ぜんたい が みえ た",
+    "romaji": "yama no chouten kara machi zentai ga mie ta"
   },
   "jlpt-n2-項目-1895": {
-    "kana": "じしょ で こうもく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koumoku toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に こうもく を おい て から でかけ た",
+    "romaji": "tsukue no ue ni koumoku o oi te kara dekake ta"
   },
   "jlpt-n2-順々-1487": {
-    "kana": "じしょ で じゅんじゅん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de junjun toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゅんじゅん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de junjun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-順序-1596": {
-    "kana": "れいぶん で わ じゅんじょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa junjo ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じゅんじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de junjo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-預かる-1834": {
-    "kana": "せんせい わ あずかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa azukaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "かえりぎわ に あずかる と こえ を かけ た",
+    "romaji": "kaerigiwa ni azukaru to koe o kake ta"
   },
   "jlpt-n2-頼もしい-1489": {
-    "kana": "じしょ で たのもしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tanomoshii toiu meishi no imi o kakunin shi ta"
+    "kana": "その せつめい わ すこし たのもしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi tanomoshii to kanji ta"
   },
   "jlpt-n2-題名-1285": {
-    "kana": "れいぶん で わ だいめい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa daimei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と だいめい について しばらく はなし た",
+    "romaji": "tomodachi to daimei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-飾り-1367": {
-    "kana": "れいぶん で わ かざり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kazari ga monogoto ya kangae o sashi te iru"
+    "kana": "へや の かざり を きれい に ととのえ た",
+    "romaji": "heya no kazari o kirei ni totonoe ta"
   },
   "jlpt-n2-餅-1887": {
-    "kana": "れいぶん で わ もち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mochi ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に もち を すこし たべ た",
+    "romaji": "hiru gohan ni mochi o sukoshi tabe ta"
   },
   "jlpt-n2-養分-1701": {
-    "kana": "れいぶん で わ ようぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa youbun ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ようぶん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youbun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-香水-1645": {
-    "kana": "じしょ で こうすい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kousui toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と こうすい について しばらく はなし た",
+    "romaji": "tomodachi to kousui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-高度-1501": {
-    "kana": "のうと に こうど を めいし として せいり し た",
-    "romaji": "nouto ni koudo o meishi toshite seiri shi ta"
+    "kana": "きょう の こうど わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no koudo wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-高等-1503": {
-    "kana": "のうと に こうとう を めいし として せいり し た",
-    "romaji": "nouto ni koutou o meishi toshite seiri shi ta"
+    "kana": "こうとう な てん を さき に せつめい し た",
+    "romaji": "koutou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-高級-1525": {
-    "kana": "れいぶん で わ こうきゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koukyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "こうきゅう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "koukyuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-髭-1643": {
-    "kana": "じしょ で ひげ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hige toiu meishi no imi o kakunin shi ta"
+    "kana": "ひ げ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hi ge ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-鳴らす-1338": {
-    "kana": "れいぶん で わ ならす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa narasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ならす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de narasu houhou o kangae ta"
   },
   "jlpt-n2-墨-1497": {
-    "kana": "れいぶん で わ すみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sumi ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に すみ を すこし たべ た",
+    "romaji": "hiru gohan ni sumi o sukoshi tabe ta"
   },
   "jlpt-n3-いえ-2009": {
-    "kana": "れいぶん で わ いえ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ie ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で いえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ie nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-お昼-2013": {
-    "kana": "のうと に おひる を めいし として せいり し た",
-    "romaji": "nouto ni ohiru o meishi toshite seiri shi ta"
+    "kana": "ともだち と おひる について しばらく はなし た",
+    "romaji": "tomodachi to ohiru nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-ここ-2031": {
-    "kana": "れいぶん で わ ここ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koko ga monogoto ya kangae o sashi te iru"
+    "kana": "あめ が やむ まで ここ で まっ た",
+    "romaji": "ame ga yamu made koko de ma ta"
   },
   "jlpt-n3-この-2143": {
-    "kana": "のうと に この を めいし として せいり し た",
-    "romaji": "nouto ni kono o meishi toshite seiri shi ta"
+    "kana": "この ほん を あした かえす",
+    "romaji": "kono hon o ashita kaesu"
   },
   "jlpt-n3-ジェット機-2280": {
-    "kana": "のうと に じぇっとき を めいし として せいり し た",
-    "romaji": "nouto ni jettoki o meishi toshite seiri shi ta"
+    "kana": "ともだち と じぇっとき について しばらく はなし た",
+    "romaji": "tomodachi to jettoki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-すると-2488": {
-    "kana": "のうと に すると を めいし として せいり し た",
-    "romaji": "nouto ni suruto o meishi toshite seiri shi ta"
+    "kana": "あんぜん に する と する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni suru to suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-そう-2071": {
-    "kana": "れいぶん で わ そう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sou ga ugoki ya henka o arawashi te iru"
+    "kana": "そう な てん を さき に せつめい し た",
+    "romaji": "sou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-だから-2149": {
-    "kana": "れいぶん で わ だから が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dakara ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と だから について しばらく はなし た",
+    "romaji": "tomodachi to dakara nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-できる-2539": {
-    "kana": "れいぶん で わ できる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa dekiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に できる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni dekiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-どれ-2203": {
-    "kana": "れいぶん で わ どれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dore ga monogoto ya kangae o sashi te iru"
+    "kana": "どれ に みち を たずね た",
+    "romaji": "dore ni michi o tazune ta"
   },
   "jlpt-n3-ね-2028": {
-    "kana": "れいぶん で わ ね が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ne ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ね について しばらく はなし た",
+    "romaji": "tomodachi to ne nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-一家-1966": {
-    "kana": "れいぶん で わ いっか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いっか について しばらく はなし た",
+    "romaji": "tomodachi to ikka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-一時-2027": {
-    "kana": "じしょ で いちじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichiji toiu meishi no imi o kakunin shi ta"
+    "kana": "いちじ に だいじ な よてい が はいっ て いる",
+    "romaji": "ichiji ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-一番-2374": {
-    "kana": "のうと に いちばん を めいし として せいり し た",
-    "romaji": "nouto ni ichiban o meishi toshite seiri shi ta"
+    "kana": "うけつけ で いちばん を よば れる まで まっ た",
+    "romaji": "uketsuke de ichiban o yoba reru made ma ta"
   },
   "jlpt-n3-一般-2381": {
-    "kana": "のうと に いっぱん を めいし として せいり し た",
-    "romaji": "nouto ni ippan o meishi toshite seiri shi ta"
+    "kana": "ともだち と いっぱん について しばらく はなし た",
+    "romaji": "tomodachi to ippan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-万一-2138": {
-    "kana": "じしょ で まんいち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de man'ichi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と まんいち について しばらく はなし た",
+    "romaji": "tomodachi to man'ichi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-下-2082": {
-    "kana": "じしょ で した という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shita toiu meishi no imi o kakunin shi ta"
+    "kana": "やまのした から まち ぜんたい が みえ た",
+    "romaji": "yamanoshita kara machi zentai ga mie ta"
   },
   "jlpt-n3-不平-2191": {
-    "kana": "じしょ で ふへい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fuhei toiu meishi no imi o kakunin shi ta"
+    "kana": "ふへい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fuhei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-不幸-2415": {
-    "kana": "のうと に ふこう を めいし として せいり し た",
-    "romaji": "nouto ni fukou o meishi toshite seiri shi ta"
+    "kana": "ふこう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fukou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-不満-2246": {
-    "kana": "じしょ で ふまん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fuman toiu meishi no imi o kakunin shi ta"
+    "kana": "ふまん な てん を さき に せつめい し た",
+    "romaji": "fuman na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-世紀-2277": {
-    "kana": "のうと に せいき を めいし として せいり し た",
-    "romaji": "nouto ni seiki o meishi toshite seiri shi ta"
+    "kana": "ともだち と せいき について しばらく はなし た",
+    "romaji": "tomodachi to seiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-丘-2273": {
-    "kana": "れいぶん で わ おか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oka ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おか について しばらく はなし た",
+    "romaji": "tomodachi to oka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-両替-1983": {
-    "kana": "じしょ で りょうがえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ryougae toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と りょうがえ について しばらく はなし た",
+    "romaji": "tomodachi to ryougae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-中央-1958": {
-    "kana": "れいぶん で わ ちゅうおう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chuuou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ちゅうおう について しばらく はなし た",
+    "romaji": "tomodachi to chuuou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-中学-2524": {
-    "kana": "のうと に ちゅうがく を めいし として せいり し た",
-    "romaji": "nouto ni chuugaku o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ちゅうがく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni chuugaku e iku michi o shirabe ta"
   },
   "jlpt-n3-乗客-2003": {
-    "kana": "のうと に じょうきゃく を めいし として せいり し た",
-    "romaji": "nouto ni joukyaku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じょうきゃく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joukyaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-九-2393": {
-    "kana": "じしょ で きゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きゅう について しばらく はなし た",
+    "romaji": "tomodachi to kyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-予報-2512": {
-    "kana": "れいぶん で わ よほう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yohou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と よほう について しばらく はなし た",
+    "romaji": "tomodachi to yohou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-予算-2154": {
-    "kana": "じしょ で よさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yosan toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で よさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yosan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-事情-2026": {
-    "kana": "のうと に じじょう を めいし として せいり し た",
-    "romaji": "nouto ni jijou o meishi toshite seiri shi ta"
+    "kana": "ともだち と じじょう について しばらく はなし た",
+    "romaji": "tomodachi to jijou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-二十-2342": {
-    "kana": "のうと に に じゅう を めいし として せいり し た",
-    "romaji": "nouto ni ni juu o meishi toshite seiri shi ta"
+    "kana": "に じゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "ni juu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-人工-2063": {
-    "kana": "のうと に じんこう を めいし として せいり し た",
-    "romaji": "nouto ni jinkou o meishi toshite seiri shi ta"
+    "kana": "じんこう の ひかり が よる の みち を てらし て い た",
+    "romaji": "jinkou no hikari ga yoru no michi o terashi te i ta"
   },
   "jlpt-n3-人気-2016": {
-    "kana": "のうと に にんき を めいし として せいり し た",
-    "romaji": "nouto ni ninki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で にんき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ninki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-人種-2494": {
-    "kana": "れいぶん で わ じんしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jinshu ga monogoto ya kangae o sashi te iru"
+    "kana": "たよう な じんしゅ の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na jinshu no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n3-人込み-2506": {
-    "kana": "のうと に ひとごみ を めいし として せいり し た",
-    "romaji": "nouto ni hitogomi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ひとごみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitogomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-人類-2404": {
-    "kana": "れいぶん で わ じんるい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jinrui ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じんるい について しばらく はなし た",
+    "romaji": "tomodachi to jinrui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-今日-2160": {
-    "kana": "のうと に きょう を めいし として せいり し た",
-    "romaji": "nouto ni kyou o meishi toshite seiri shi ta"
+    "kana": "きょう わ はやめ に いえ を で た",
+    "romaji": "kyou wa hayame ni ie o de ta"
   },
   "jlpt-n3-付き合い-2298": {
-    "kana": "じしょ で つきあい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsukiai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で つきあい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsukiai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-代理-2235": {
-    "kana": "のうと に だいり を めいし として せいり し た",
-    "romaji": "nouto ni dairi o meishi toshite seiri shi ta"
+    "kana": "ともだち と だいり について しばらく はなし た",
+    "romaji": "tomodachi to dairi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-以前-2080": {
-    "kana": "じしょ で いぜん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de izen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いぜん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de izen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-仲-2507": {
-    "kana": "のうと に なか を めいし として せいり し た",
-    "romaji": "nouto ni naka o meishi toshite seiri shi ta"
+    "kana": "ともだち と なか について しばらく はなし た",
+    "romaji": "tomodachi to naka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-仲間-2427": {
-    "kana": "じしょ で なかま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nakama toiu meishi no imi o kakunin shi ta"
+    "kana": "えきまえ の なかま で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no nakama de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-任せる-2057": {
-    "kana": "せんせい わ まかせる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa makaseru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で まかせる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de makaseru houhou o kangae ta"
   },
   "jlpt-n3-会計-2464": {
-    "kana": "れいぶん で わ かいけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaikei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かいけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaikei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-伸びる-1984": {
-    "kana": "せんせい わ のびる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nobiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で のびる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nobiru houhou o kangae ta"
   },
   "jlpt-n3-伺う-1986": {
-    "kana": "れいぶん で わ うかがう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ukagau ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え うかがう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e ukagau yotei da"
   },
   "jlpt-n3-体温-2221": {
-    "kana": "じしょ で たいおん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taion toiu meishi no imi o kakunin shi ta"
+    "kana": "たいおん が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "taion ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-何-2531": {
-    "kana": "れいぶん で わ なに が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nani ga monogoto ya kangae o sashi te iru"
+    "kana": "なに に みち を たずね た",
+    "romaji": "nani ni michi o tazune ta"
   },
   "jlpt-n3-何か-1975": {
-    "kana": "のうと に なに か を めいし として せいり し た",
-    "romaji": "nouto ni nani ka o meishi toshite seiri shi ta"
+    "kana": "なに か わ しずか に うなずい た",
+    "romaji": "nani ka wa shizuka ni unazui ta"
   },
   "jlpt-n3-何とか-2359": {
-    "kana": "じしょ で なんとか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nantoka toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に なんとか と こえ を かけ た",
+    "romaji": "kaerigiwa ni nantoka to koe o kake ta"
   },
   "jlpt-n3-余り-2128": {
-    "kana": "れいぶん で わ あまり が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa amari ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "ひる ごはん に あまり を すこし たべ た",
+    "romaji": "hiru gohan ni amari o sukoshi tabe ta"
   },
   "jlpt-n3-価格-2335": {
-    "kana": "じしょ で かかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kakaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-便-1951": {
-    "kana": "じしょ で びん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de bin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と びん について しばらく はなし た",
+    "romaji": "tomodachi to bin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-便り-2431": {
-    "kana": "れいぶん で わ たより が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tayori ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に たより を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tayori o oi te kara dekake ta"
   },
   "jlpt-n3-保証-2327": {
-    "kana": "じしょ で ほしょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hoshou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ほしょう について しばらく はなし た",
+    "romaji": "tomodachi to hoshou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-信頼-2386": {
-    "kana": "じしょ で しんらい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinrai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しんらい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinrai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-修正-1963": {
-    "kana": "じしょ で しゅうせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shuusei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しゅうせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuusei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-俳優-2065": {
-    "kana": "れいぶん で わ はいゆう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa haiyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はいゆう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haiyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-値-2278": {
-    "kana": "れいぶん で わ ね が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ne ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ne nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-値段-2019": {
-    "kana": "れいぶん で わ ねだん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nedan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ねだん について しばらく はなし た",
+    "romaji": "tomodachi to nedan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-健康-2550": {
-    "kana": "れいぶん で わ けんこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kenkou ga monogoto ya kangae o sashi te iru"
+    "kana": "けんこう な まち を ゆっくり あるい た",
+    "romaji": "kenkou na machi o yukkuri arui ta"
   },
   "jlpt-n3-偶々-2195": {
-    "kana": "れいぶん で わ 偶 が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa 偶 ga monogoto ya kangae o sashi te iru"
+    "kana": "たまたま よてい を へんこう し た",
+    "romaji": "tamatama yotei o henkou shi ta"
   },
   "jlpt-n3-備える-1950": {
-    "kana": "れいぶん で わ そなえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sonaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を そなえる けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o sonaeru keikaku o tate ta"
   },
   "jlpt-n3-優勝-2377": {
-    "kana": "じしょ で ゆうしょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuushou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ゆうしょう について しばらく はなし た",
+    "romaji": "tomodachi to yuushou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-優秀-2313": {
-    "kana": "じしょ で ゆうしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yuushuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうしゅう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuushuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-兎-2424": {
-    "kana": "じしょ で うさぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de usagi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と うさぎ について しばらく はなし た",
+    "romaji": "tomodachi to usagi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-入場-2166": {
-    "kana": "のうと に にゅうじょう を めいし として せいり し た",
-    "romaji": "nouto ni nyuujou o meishi toshite seiri shi ta"
+    "kana": "ともだち と にゅうじょう について しばらく はなし た",
+    "romaji": "tomodachi to nyuujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-入院-2346": {
-    "kana": "のうと に にゅういん を めいし として せいり し た",
-    "romaji": "nouto ni nyuuin o meishi toshite seiri shi ta"
+    "kana": "そふ の にゅういん が きまり かぞく で じゅんび を し た",
+    "romaji": "sofu no nyuuin ga kimari kazoku de junbi o shi ta"
   },
   "jlpt-n3-全く-1957": {
-    "kana": "せんせい わ まったく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mattaku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "まったく へんじ が とどい た ので あんしん し た",
+    "romaji": "mattaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-全て-2190": {
-    "kana": "れいぶん で わ すべて が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa subete ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で すべて について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de subete nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-全体-2402": {
-    "kana": "のうと に ぜんたい を めいし として せいり し た",
-    "romaji": "nouto ni zentai o meishi toshite seiri shi ta"
+    "kana": "ひつよう な ばめん で ぜんたい ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de zentai houhou o kangae ta"
   },
   "jlpt-n3-全員-2176": {
-    "kana": "のうと に ぜんいん を めいし として せいり し た",
-    "romaji": "nouto ni zen'in o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぜんいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zen'in nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-全国-2331": {
-    "kana": "れいぶん で わ ぜんこく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zenkoku ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ぜんこく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni zenkoku e iku michi o shirabe ta"
   },
   "jlpt-n3-具体-2407": {
-    "kana": "じしょ で ぐたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gutai toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ぐたい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na gutai o asa no uchi ni atsume ta"
   },
   "jlpt-n3-内-2055": {
-    "kana": "のうと に うち を めいし として せいり し た",
-    "romaji": "nouto ni uchi o meishi toshite seiri shi ta"
+    "kana": "ともだち と うち について しばらく はなし た",
+    "romaji": "tomodachi to uchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-再び-2137": {
-    "kana": "れいぶん で わ ふたたび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa futatabi ga monogoto ya kangae o sashi te iru"
+    "kana": "ふたたび よてい を へんこう し た",
+    "romaji": "futatabi yotei o henkou shi ta"
   },
   "jlpt-n3-冒険-2001": {
-    "kana": "のうと に ぼうけん を めいし として せいり し た",
-    "romaji": "nouto ni bouken o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぼうけん について しばらく はなし た",
+    "romaji": "tomodachi to bouken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-冗談-2451": {
-    "kana": "れいぶん で わ じょうだん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa joudan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じょうだん について しばらく はなし た",
+    "romaji": "tomodachi to joudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-処理-2317": {
-    "kana": "のうと に しょり を めいし として せいり し た",
-    "romaji": "nouto ni shori o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しょり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-出会い-2237": {
-    "kana": "じしょ で であい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de deai toiu meishi no imi o kakunin shi ta"
+    "kana": "であい に だいじ な よてい が はいっ て いる",
+    "romaji": "deai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-出会う-2259": {
-    "kana": "であう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "deau wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え であう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e deau yotei da"
   },
   "jlpt-n3-出来事-2269": {
-    "kana": "れいぶん で わ できごと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dekigoto ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で できごと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dekigoto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-出版-2146": {
-    "kana": "のうと に しゅっぱん を めいし として せいり し た",
-    "romaji": "nouto ni shuppan o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しゅっぱん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuppan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-分ける-2490": {
-    "kana": "れいぶん で わ わける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa wakeru ga ugoki ya henka o arawashi te iru"
+    "kana": "がらす が わける おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga wakeru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n3-刈る-1972": {
-    "kana": "せんせい わ かる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa karu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に かる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni karu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-刑事-2250": {
-    "kana": "じしょ で けいじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keiji toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けいじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keiji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-利口-1976": {
-    "kana": "のうと に りこう を めいし として せいり し た",
-    "romaji": "nouto ni rikou o meishi toshite seiri shi ta"
+    "kana": "りこう な てん を さき に せつめい し た",
+    "romaji": "rikou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-制度-2161": {
-    "kana": "れいぶん で わ せいど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seido ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいど について しばらく はなし た",
+    "romaji": "tomodachi to seido nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-券-2048": {
-    "kana": "のうと に けん を めいし として せいり し た",
-    "romaji": "nouto ni ken o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に けん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni ken o oi te kara dekake ta"
   },
   "jlpt-n3-刺激-2475": {
-    "kana": "じしょ で しげき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shigeki toiu meishi no imi o kakunin shi ta"
+    "kana": "しげき が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shigeki ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-前進-2132": {
-    "kana": "れいぶん で わ ぜんしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zenshin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぜんしん について しばらく はなし た",
+    "romaji": "tomodachi to zenshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-助手-2437": {
-    "kana": "じしょ で じょしゅ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de joshu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じょしゅ について しばらく はなし た",
+    "romaji": "tomodachi to joshu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-効く-1995": {
-    "kana": "れいぶん で わ きく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kiku ga ugoki ya henka o arawashi te iru"
+    "kana": "あたらしい どうぐ を きく ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o kiku bamen ga fue te iru"
   },
   "jlpt-n3-動かす-2251": {
-    "kana": "うごかす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ugokasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に うごかす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ugokasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-務め-2552": {
-    "kana": "じしょ で つとめ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsutome toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の つとめ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no tsutome wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-勝ち-2004": {
-    "kana": "のうと に かち を めいし として せいり し た",
-    "romaji": "nouto ni kachi o meishi toshite seiri shi ta"
+    "kana": "ともだち と かち について しばらく はなし た",
+    "romaji": "tomodachi to kachi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-勢い-2326": {
-    "kana": "じしょ で いきおい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ikioi toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい いきおい を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ikioi o oboe ta"
   },
   "jlpt-n3-勤め-2541": {
-    "kana": "じしょ で つとめ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsutome toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の つとめ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no tsutome wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-勧める-2248": {
-    "kana": "すすめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "susumeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "せんせい が すすめる ほん わ とても よみ やすい",
+    "romaji": "sensei ga susumeru hon wa totemo yomi yasui"
   },
   "jlpt-n3-包み-2355": {
-    "kana": "のうと に つつみ を めいし として せいり し た",
-    "romaji": "nouto ni tsutsumi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で つつみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsutsumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-区別-2151": {
-    "kana": "のうと に くべつ を めいし として せいり し た",
-    "romaji": "nouto ni kubetsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で くべつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kubetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-医師-2144": {
-    "kana": "じしょ で いし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ishi toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる いし に こえ を かけ た",
+    "romaji": "koma te iru ishi ni koe o kake ta"
   },
   "jlpt-n3-半ば-2423": {
-    "kana": "のうと に なかば を めいし として せいり し た",
-    "romaji": "nouto ni nakaba o meishi toshite seiri shi ta"
+    "kana": "かいぎ で なかば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nakaba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-単に-2018": {
-    "kana": "たんに を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "tanni o ireru to bun no nyuansu ga kawaru"
+    "kana": "たんに よてい を へんこう し た",
+    "romaji": "tanni yotei o henkou shi ta"
   },
   "jlpt-n3-博物館-2152": {
-    "kana": "じしょ で はくぶつかん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hakubutsukan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はくぶつかん について しばらく はなし た",
+    "romaji": "tomodachi to hakubutsukan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-占める-2051": {
-    "kana": "せんせい わ しめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shimeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に しめる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shimeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-印刷-2484": {
-    "kana": "じしょ で いんさつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de insatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いんさつ について しばらく はなし た",
+    "romaji": "tomodachi to insatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-去る-1954": {
-    "kana": "さる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "saru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで さる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made saru hito o sagashi ta"
   },
   "jlpt-n3-取れる-2117": {
-    "kana": "とれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "toreru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え とれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e toreru yotei da"
   },
   "jlpt-n3-叫ぶ-2439": {
-    "kana": "せんせい わ さけぶ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sakebu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に さけぶ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sakebu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-可能-2387": {
-    "kana": "のうと に かのう を めいし として せいり し た",
-    "romaji": "nouto ni kanou o meishi toshite seiri shi ta"
+    "kana": "かのう な てん を さき に せつめい し た",
+    "romaji": "kanou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-台-2227": {
-    "kana": "じしょ で だい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de dai toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の だい に すうじ を まとめ た",
+    "romaji": "shiryou no dai ni suuji o matome ta"
   },
   "jlpt-n3-合図-1941": {
-    "kana": "のうと に あいず を めいし として せいり し た",
-    "romaji": "nouto ni aizu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あいず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aizu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-合格-2079": {
-    "kana": "のうと に ごうかく を めいし として せいり し た",
-    "romaji": "nouto ni goukaku o meishi toshite seiri shi ta"
+    "kana": "しりょう の ごうかく に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no goukaku ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n3-合計-2441": {
-    "kana": "れいぶん で わ ごうけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa goukei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ごうけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de goukei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-同一-2228": {
-    "kana": "じしょ で どういつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de douitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "どういつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "douitsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-名-2486": {
-    "kana": "じしょ で な という めいし の いみ を かくにん し た",
-    "romaji": "jisho de na toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と な について しばらく はなし た",
+    "romaji": "tomodachi to na nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-向ける-2076": {
-    "kana": "むける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mukeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ちず で もくてき ち を むける ゆび を み た",
+    "romaji": "chizu de mokuteki chi o mukeru yubi o mi ta"
   },
   "jlpt-n3-周囲-2002": {
-    "kana": "れいぶん で わ しゅうい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuui ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅうい について しばらく はなし た",
+    "romaji": "tomodachi to shuui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-味方-1977": {
-    "kana": "じしょ で みかた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mikata toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と みかた について しばらく はなし た",
+    "romaji": "tomodachi to mikata nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-哀れ-2252": {
-    "kana": "のうと に あわれ を めいし として せいり し た",
-    "romaji": "nouto ni aware o meishi toshite seiri shi ta"
+    "kana": "かいぎ で あわれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aware nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-唯-2229": {
-    "kana": "のうと に ただ を めいし として せいり し た",
-    "romaji": "nouto ni tada o meishi toshite seiri shi ta"
+    "kana": "かれ わ ただ しずか に わらっ て い た",
+    "romaji": "kare wa tada shizuka ni wara te i ta"
   },
   "jlpt-n3-唯一-2167": {
-    "kana": "のうと に ゆいいつ を めいし として せいり し た",
-    "romaji": "nouto ni yuiitsu o meishi toshite seiri shi ta"
+    "kana": "ゆいいつ の ほうほう で もんだい を かいけつ し た",
+    "romaji": "yuiitsu no houhou de mondai o kaiketsu shi ta"
   },
   "jlpt-n3-喉-1961": {
-    "kana": "じしょ で のど という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nodo toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に のど を おい て から でかけ た",
+    "romaji": "tsukue no ue ni nodo o oi te kara dekake ta"
   },
   "jlpt-n3-喜び-2279": {
-    "kana": "のうと に よろこび を めいし として せいり し た",
-    "romaji": "nouto ni yorokobi o meishi toshite seiri shi ta"
+    "kana": "ともだち と よろこび について しばらく はなし た",
+    "romaji": "tomodachi to yorokobi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-喧嘩-2170": {
-    "kana": "のうと に けんか を めいし として せいり し た",
-    "romaji": "nouto ni kenka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けんか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kenka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-嘘-2111": {
-    "kana": "じしょ で うそ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de uso toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で うそ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uso nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-回す-1999": {
-    "kana": "れいぶん で わ まわす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa mawasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で まわす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mawasu houhou o kangae ta"
   },
   "jlpt-n3-回り-2189": {
-    "kana": "れいぶん で わ まわり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mawari ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と まわり について しばらく はなし た",
+    "romaji": "tomodachi to mawari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-囲む-2363": {
-    "kana": "せんせい わ かこむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kakomu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "まち を かこむ やまやま が ゆうひ に そまっ た",
+    "romaji": "machi o kakomu yamayama ga yuuhi ni soma ta"
   },
   "jlpt-n3-国境-1990": {
-    "kana": "のうと に こっきょう を めいし として せいり し た",
-    "romaji": "nouto ni kokkyou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こっきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokkyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-土-2271": {
-    "kana": "のうと に ど を めいし として せいり し た",
-    "romaji": "nouto ni do o meishi toshite seiri shi ta"
+    "kana": "ともだち と ど について しばらく はなし た",
+    "romaji": "tomodachi to do nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-土曜-2534": {
-    "kana": "のうと に どよう を めいし として せいり し た",
-    "romaji": "nouto ni doyou o meishi toshite seiri shi ta"
+    "kana": "ともだち と どよう について しばらく はなし た",
+    "romaji": "tomodachi to doyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-地下-2103": {
-    "kana": "のうと に ちか を めいし として せいり し た",
-    "romaji": "nouto ni chika o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちか について しばらく はなし た",
+    "romaji": "tomodachi to chika nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-地区-2062": {
-    "kana": "れいぶん で わ ちく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chiku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ちく について しばらく はなし た",
+    "romaji": "tomodachi to chiku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-地平線-2142": {
-    "kana": "れいぶん で わ ちへいせん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chiheisen ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちへいせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chiheisen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-地球-2010": {
-    "kana": "れいぶん で わ ちきゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chikyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chikyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-基-2258": {
-    "kana": "たんご りすと で も もと の よみかた と いみ を みなおし た",
-    "romaji": "tango risuto de mo moto no yomikata to imi o minaoshi ta"
+    "kana": "かいぎ で もと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-基づく-2025": {
-    "kana": "せんせい わ もとづく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa motozuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "じじつ に もとづく いけん を のべ た",
+    "romaji": "jijitsu ni motozuku iken o nobe ta"
   },
   "jlpt-n3-場-1974": {
-    "kana": "じしょ で ば という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ba toiu meishi no imi o kakunin shi ta"
+    "kana": "あめあがり の ば に そら が うつっ て い た",
+    "romaji": "ameagari no ba ni sora ga utsu te i ta"
   },
   "jlpt-n3-場面-2183": {
-    "kana": "のうと に ばめん を めいし として せいり し た",
-    "romaji": "nouto ni bamen o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ばめん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni bamen e iku michi o shirabe ta"
   },
   "jlpt-n3-塵-2536": {
-    "kana": "じしょ で ちり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chiri toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ごみ について しばらく はなし た",
+    "romaji": "tomodachi to gomi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-境-2182": {
-    "kana": "じしょ で さかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sakai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sakai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-墓-2052": {
-    "kana": "のうと に はか を めいし として せいり し た",
-    "romaji": "nouto ni haka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-売れる-1989": {
-    "kana": "うれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ureru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うれる な まち を ゆっくり あるい た",
+    "romaji": "ureru na machi o yukkuri arui ta"
   },
   "jlpt-n3-夜中-2254": {
-    "kana": "のうと に やちゅう を めいし として せいり し た",
-    "romaji": "nouto ni yachuu o meishi toshite seiri shi ta"
+    "kana": "やちゅう に つよい あめ の おと で め が さめ た",
+    "romaji": "yachuu ni tsuyoi ame no oto de me ga same ta"
   },
   "jlpt-n3-大した-2215": {
-    "kana": "れいぶん で わ たいした が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa taishita ga joutai ya seishitsu o arawashi te iru"
+    "kana": "たいした みせ わ えき の ちかく に ある",
+    "romaji": "taishita mise wa eki no chikaku ni aru"
   },
   "jlpt-n3-大家-2044": {
-    "kana": "れいぶん で わ おおや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ooya ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おおや について しばらく はなし た",
+    "romaji": "tomodachi to ooya nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-大抵-2150": {
-    "kana": "れいぶん で わ たいてい が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa taitei ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "たいてい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "taitei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-大統領-2367": {
-    "kana": "れいぶん で わ だいとうりょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa daitouryou ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に だいとうりょう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni daitouryou e iku michi o shirabe ta"
   },
   "jlpt-n3-夫婦-2371": {
-    "kana": "のうと に ふうふ を めいし として せいり し た",
-    "romaji": "nouto ni fuufu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ふうふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fuufu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-契約-2178": {
-    "kana": "じしょ で けいやく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keiyaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の いけん に けいやく し て ふかく うなずい た",
+    "romaji": "kare no iken ni keiyaku shi te fukaku unazui ta"
   },
   "jlpt-n3-奥-2102": {
-    "kana": "じしょ で おく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de oku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-姉妹-2243": {
-    "kana": "のうと に しまい を めいし として せいり し た",
-    "romaji": "nouto ni shimai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しまい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shimai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-嫁-2072": {
-    "kana": "のうと に よめ を めいし として せいり し た",
-    "romaji": "nouto ni yome o meishi toshite seiri shi ta"
+    "kana": "かいぎ で よめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yome nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-存在-2362": {
-    "kana": "れいぶん で わ そんざい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sonzai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と そんざい について しばらく はなし た",
+    "romaji": "tomodachi to sonzai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-学習-2245": {
-    "kana": "れいぶん で わ がくしゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gakushuu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の がくしゅう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no gakushuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-学者-2300": {
-    "kana": "のうと に がくしゃ を めいし として せいり し た",
-    "romaji": "nouto ni gakusha o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる がくしゃ に こえ を かけ た",
+    "romaji": "koma te iru gakusha ni koe o kake ta"
   },
   "jlpt-n3-孫-2120": {
-    "kana": "じしょ で まご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mago toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で まご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mago nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-宅-2350": {
-    "kana": "じしょ で たく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de taku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と たく について しばらく はなし た",
+    "romaji": "tomodachi to taku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-完全-2038": {
-    "kana": "れいぶん で わ かんぜん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanzen ga monogoto ya kangae o sashi te iru"
+    "kana": "かんぜん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kanzen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-定期-2290": {
-    "kana": "れいぶん で わ ていき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa teiki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ていき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-実は-2186": {
-    "kana": "じしょ で じつは という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jitsuha toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に じつは と こえ を かけ た",
+    "romaji": "kaerigiwa ni jitsuha to koe o kake ta"
   },
   "jlpt-n3-実施-2390": {
-    "kana": "じしょ で じっし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jisshi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じっし について しばらく はなし た",
+    "romaji": "tomodachi to jisshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-実行-2543": {
-    "kana": "じしょ で じっこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jikkou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じっこう について しばらく はなし た",
+    "romaji": "tomodachi to jikkou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-実際-2526": {
-    "kana": "れいぶん で わ じっさい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jissai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じっさい について しばらく はなし た",
+    "romaji": "tomodachi to jissai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-実験-2033": {
-    "kana": "れいぶん で わ じっけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jikken ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じっけん について しばらく はなし た",
+    "romaji": "tomodachi to jikken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-家事-2089": {
-    "kana": "のうと に かじ を めいし として せいり し た",
-    "romaji": "nouto ni kaji o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-家具-2039": {
-    "kana": "じしょ で かぐ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kagu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かぐ について しばらく はなし た",
+    "romaji": "tomodachi to kagu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-家賃-2188": {
-    "kana": "れいぶん で わ やちん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yachin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で やちん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yachin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-容易-2024": {
-    "kana": "じしょ で ようい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youi toiu meishi no imi o kakunin shi ta"
+    "kana": "ようい な てん を さき に せつめい し た",
+    "romaji": "youi na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-宿-2546": {
-    "kana": "れいぶん で わ やど が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yado ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で やど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yado nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-対する-2485": {
-    "kana": "たいする わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "taisuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で たいする ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de taisuru houhou o kangae ta"
   },
   "jlpt-n3-対象-2341": {
-    "kana": "れいぶん で わ たいしょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taishou ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の たいしょう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no taishou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-尊敬-2035": {
-    "kana": "れいぶん で わ そんけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sonkei ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と そんけい について しばらく はなし た",
+    "romaji": "tomodachi to sonkei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-小包-2274": {
-    "kana": "のうと に こづつみ を めいし として せいり し た",
-    "romaji": "nouto ni kozutsumi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こづつみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kozutsumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-小麦-2126": {
-    "kana": "のうと に こむぎ を めいし として せいり し た",
-    "romaji": "nouto ni komugi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で こむぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de komugi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-少しも-2448": {
-    "kana": "れいぶん で わ すこし も が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sukoshi mo ga monogoto ya kangae o sashi te iru"
+    "kana": "すこし も へんじ が とどい た ので あんしん し た",
+    "romaji": "sukoshi mo henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-少年-1968": {
-    "kana": "のうと に しょうねん を めいし として せいり し た",
-    "romaji": "nouto ni shounen o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる しょうねん に こえ を かけ た",
+    "romaji": "koma te iru shounen ni koe o kake ta"
   },
   "jlpt-n3-尤も-2122": {
-    "kana": "もっとも を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "mottomo o ireru to bun no nyuansu ga kawaru"
+    "kana": "ともだち と もっとも について しばらく はなし た",
+    "romaji": "tomodachi to mottomo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-就く-2385": {
-    "kana": "れいぶん で わ つく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsuku ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に つく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsuku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-尻-2164": {
-    "kana": "じしょ で しり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shiri toiu meishi no imi o kakunin shi ta"
+    "kana": "やま の しり から まち ぜんたい が みえ た",
+    "romaji": "yama no shiri kara machi zentai ga mie ta"
   },
   "jlpt-n3-局-1978": {
-    "kana": "のうと に つぼね を めいし として せいり し た",
-    "romaji": "nouto ni tsubone o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に きょく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kyoku e iku michi o shirabe ta"
   },
   "jlpt-n3-居る-2086": {
-    "kana": "せんせい わ いる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa iru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で おる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de oru houhou o kangae ta"
   },
   "jlpt-n3-居間-2330": {
-    "kana": "じしょ で いま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ima toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に いま え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ima e iku michi o shirabe ta"
   },
   "jlpt-n3-岩-2129": {
-    "kana": "のうと に いわ を めいし として せいり し た",
-    "romaji": "nouto ni iwa o meishi toshite seiri shi ta"
+    "kana": "ともだち と いわ について しばらく はなし た",
+    "romaji": "tomodachi to iwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-川-2236": {
-    "kana": "のうと に かわ を めいし として せいり し た",
-    "romaji": "nouto ni kawa o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-工場-2194": {
-    "kana": "のうと に こうじょう を めいし として せいり し た",
-    "romaji": "nouto ni koujou o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうじょう について しばらく はなし た",
+    "romaji": "tomodachi to koujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-巨大-2519": {
-    "kana": "れいぶん で わ きょだい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyodai ga monogoto ya kangae o sashi te iru"
+    "kana": "きょだい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kyodai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-市場-2411": {
-    "kana": "れいぶん で わ しじょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shijou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しじょう について しばらく はなし た",
+    "romaji": "tomodachi to shijou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-常に-2139": {
-    "kana": "れいぶん で わ つねに が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa tsuneni ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "つねに よてい を へんこう し た",
+    "romaji": "tsuneni yotei o henkou shi ta"
   },
   "jlpt-n3-幅-2323": {
-    "kana": "じしょ で はば という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haba toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の はば を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no haba o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-幕-1944": {
-    "kana": "じしょ めも で も まく の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo maku no tsukaikata o seiri shi ta"
+    "kana": "ともだち と まく について しばらく はなし た",
+    "romaji": "tomodachi to maku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-平和-1985": {
-    "kana": "れいぶん で わ へいわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa heiwa ga monogoto ya kangae o sashi te iru"
+    "kana": "へいわ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "heiwa na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-平均-1952": {
-    "kana": "じしょ で へいきん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de heikin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と へいきん について しばらく はなし た",
+    "romaji": "tomodachi to heikin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-年中-2244": {
-    "kana": "ねんじゅう を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "nenjuu o ireru to bun no nyuansu ga kawaru"
+    "kana": "ねんじゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "nenjuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-年代-2293": {
-    "kana": "のうと に ねんだい を めいし として せいり し た",
-    "romaji": "nouto ni nendai o meishi toshite seiri shi ta"
+    "kana": "ともだち と ねんだい について しばらく はなし た",
+    "romaji": "tomodachi to nendai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-年齢-2391": {
-    "kana": "じしょ で ねんれい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nenrei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ねんれい について しばらく はなし た",
+    "romaji": "tomodachi to nenrei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-幸い-2207": {
-    "kana": "のうと に さいわい を めいし として せいり し た",
-    "romaji": "nouto ni saiwai o meishi toshite seiri shi ta"
+    "kana": "さいわい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "saiwai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-幸せ-2168": {
-    "kana": "れいぶん で わ しあわせ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiawase ga monogoto ya kangae o sashi te iru"
+    "kana": "しあわせ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shiawase na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-幸福-2500": {
-    "kana": "れいぶん で わ こうふく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koufuku ga monogoto ya kangae o sashi te iru"
+    "kana": "こうふく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "koufuku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-幸運-2460": {
-    "kana": "れいぶん で わ こううん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kouun ga monogoto ya kangae o sashi te iru"
+    "kana": "こううん な てん を さき に せつめい し た",
+    "romaji": "kouun na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-幾ら-2304": {
-    "kana": "れいぶん で わ いくら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikura ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いくら について しばらく はなし た",
+    "romaji": "tomodachi to ikura nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-床-2361": {
-    "kana": "れいぶん で わ ゆか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuka ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と ゆか を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to yuka o mi ni i ta"
   },
   "jlpt-n3-底-2156": {
-    "kana": "れいぶん で わ そこ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa soko ga monogoto ya kangae o sashi te iru"
+    "kana": "そこ の ほうほう で もんだい を かいけつ し た",
+    "romaji": "soko no houhou de mondai o kaiketsu shi ta"
   },
   "jlpt-n3-建築-2471": {
-    "kana": "のうと に けんちく を めいし として せいり し た",
-    "romaji": "nouto ni kenchiku o meishi toshite seiri shi ta"
+    "kana": "あたらしい さあびす の けんちく が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kenchiku ga yotei yori hayaku susun de iru"
   },
   "jlpt-n3-建設-2014": {
-    "kana": "れいぶん で わ けんせつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kensetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "あたらしい さあびす の けんせつ が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kensetsu ga yotei yori hayaku susun de iru"
   },
   "jlpt-n3-弁当-1992": {
-    "kana": "のうと に べんとう を めいし として せいり し た",
-    "romaji": "nouto ni bentou o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に べんとう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni bentou o oi te kara dekake ta"
   },
   "jlpt-n3-式-2453": {
-    "kana": "じしょ で しき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shiki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しき について しばらく はなし た",
+    "romaji": "tomodachi to shiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-引っ張る-2360": {
-    "kana": "ひっぱる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hipparu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ひっぱる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hipparu houhou o kangae ta"
   },
   "jlpt-n3-引用-2504": {
-    "kana": "じしょ で いんよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de in'you toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いんよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de in'you nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-張る-2533": {
-    "kana": "せんせい わ はる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa haru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に はる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni haru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-当時-2255": {
-    "kana": "れいぶん で わ とうじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa touji ga monogoto ya kangae o sashi te iru"
+    "kana": "とうじ に だいじ な よてい が はいっ て いる",
+    "romaji": "touji ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-影響-2542": {
-    "kana": "れいぶん で わ えいきょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa eikyou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で えいきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de eikyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-役-2303": {
-    "kana": "じしょ で やく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yaku toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の やく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no yaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-彼等-2218": {
-    "kana": "かれら を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "karera o ireru to bun no nyuansu ga kawaru"
+    "kana": "かれら に みち を たずね た",
+    "romaji": "karera ni michi o tazune ta"
   },
   "jlpt-n3-後-2322": {
-    "kana": "じしょ で ご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de go toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で のち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nochi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-御-2316": {
-    "kana": "のうと に お を めいし として せいり し た",
-    "romaji": "nouto ni o o meishi toshite seiri shi ta"
+    "kana": "ともだち とお について しばらく はなし た",
+    "romaji": "tomodachi too nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-微妙-2332": {
-    "kana": "れいぶん で わ びみょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bimyou ga monogoto ya kangae o sashi te iru"
+    "kana": "びみょう な とけい の つくり に おもわず みいっ た",
+    "romaji": "bimyou na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n3-徹夜-2334": {
-    "kana": "れいぶん で わ てつや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tetsuya ga monogoto ya kangae o sashi te iru"
+    "kana": "てつや に だいじ な よてい が はいっ て いる",
+    "romaji": "tetsuya ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-徹底-2034": {
-    "kana": "のうと に てってい を めいし として せいり し た",
-    "romaji": "nouto ni tettei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で てってい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tettei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-心臓-2037": {
-    "kana": "じしょ で しんぞう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinzou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しんぞう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-心配-2125": {
-    "kana": "じしょ で しんぱい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinpai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しんぱい について しばらく はなし た",
+    "romaji": "tomodachi to shinpai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-必死-2099": {
-    "kana": "のうと に ひっし を めいし として せいり し た",
-    "romaji": "nouto ni hisshi o meishi toshite seiri shi ta"
+    "kana": "ひっし な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hisshi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-応じる-2349": {
-    "kana": "おうじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "oujiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "この じょうけん に おうじる ばあい わ ついか の てつづき が ひつよう だ",
+    "romaji": "kono jouken ni oujiru baai wa tsuika no tetsuzuki ga hitsuyou da"
   },
   "jlpt-n3-思い出-2261": {
-    "kana": "れいぶん で わ おもいで が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa omoide ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で おもいで について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de omoide nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-怠ける-2308": {
-    "kana": "なまける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "namakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に なまける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni namakeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-急激-2267": {
-    "kana": "のうと に きゅうげき を めいし として せいり し た",
-    "romaji": "nouto ni kyuugeki o meishi toshite seiri shi ta"
+    "kana": "きゅうげき な てん を さき に せつめい し た",
+    "romaji": "kyuugeki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-性-2302": {
-    "kana": "れいぶん で わ せい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sei ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる せい に こえ を かけ た",
+    "romaji": "koma te iru sei ni koe o kake ta"
   },
   "jlpt-n3-恋人-1979": {
-    "kana": "れいぶん で わ こいびと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koibito ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こいびと について しばらく はなし た",
+    "romaji": "tomodachi to koibito nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-恐れる-2337": {
-    "kana": "れいぶん で わ おそれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa osoreru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で おそれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de osoreru houhou o kangae ta"
   },
   "jlpt-n3-恐ろしい-2158": {
-    "kana": "れいぶん で わ おそろしい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa osoroshii ga monogoto ya kangae o sashi te iru"
+    "kana": "おそろしい ひ だっ た が さいご まで あるい た",
+    "romaji": "osoroshii hi da ta ga saigo made arui ta"
   },
   "jlpt-n3-息-2224": {
-    "kana": "れいぶん で わ いき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa iki ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に いき を すこし たべ た",
+    "romaji": "hiru gohan ni iki o sukoshi tabe ta"
   },
   "jlpt-n3-患者-2318": {
-    "kana": "のうと に かんじゃ を めいし として せいり し た",
-    "romaji": "nouto ni kanja o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんじゃ について しばらく はなし た",
+    "romaji": "tomodachi to kanja nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-悪口-2222": {
-    "kana": "じしょ で わるぐち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de waruguchi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と わるぐち について しばらく はなし た",
+    "romaji": "tomodachi to waruguchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-悲しむ-2417": {
-    "kana": "せんせい わ かなしむ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kanashimu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で かなしむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kanashimu houhou o kangae ta"
   },
   "jlpt-n3-情報-2106": {
-    "kana": "じしょ で じょうほう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jouhou toiu meishi no imi o kakunin shi ta"
+    "kana": "じょうほう が こっきょう ちかく に はいち さ れ た",
+    "romaji": "jouhou ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n3-想像-1949": {
-    "kana": "れいぶん で わ そうぞう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa souzou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で そうぞう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de souzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-意外-2238": {
-    "kana": "のうと に いがい を めいし として せいり し た",
-    "romaji": "nouto ni igai o meishi toshite seiri shi ta"
+    "kana": "いがい な てん を さき に せつめい し た",
+    "romaji": "igai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-意思-1956": {
-    "kana": "れいぶん で わ いし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ishi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で いし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-愛-2240": {
-    "kana": "じしょ で あい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と あい について しばらく はなし た",
+    "romaji": "tomodachi to ai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-愛する-2416": {
-    "kana": "れいぶん で わ あいする が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa aisuru ga ugoki ya henka o arawashi te iru"
+    "kana": "かぞく を あいする きもち を たいせつ に し て いる",
+    "romaji": "kazoku o aisuru kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n3-愛情-2499": {
-    "kana": "れいぶん で わ あいじょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aijou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あいじょう について しばらく はなし た",
+    "romaji": "tomodachi to aijou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-感じ-2333": {
-    "kana": "のうと に かんじ を めいし として せいり し た",
-    "romaji": "nouto ni kanji o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい かんじ を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kanji o oboe ta"
   },
   "jlpt-n3-感心-2429": {
-    "kana": "じしょ で かんしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kanshin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かんしん について しばらく はなし た",
+    "romaji": "tomodachi to kanshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-成る-2171": {
-    "kana": "せんせい わ なる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa naru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に なる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni naru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n3-我慢-2155": {
-    "kana": "れいぶん で わ がまん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gaman ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で がまん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gaman nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-戦い-2351": {
-    "kana": "のうと に たたかい を めいし として せいり し た",
-    "romaji": "nouto ni tatakai o meishi toshite seiri shi ta"
+    "kana": "たたかい に だいじ な よてい が はいっ て いる",
+    "romaji": "tatakai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-戻す-2478": {
-    "kana": "もどす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "modosu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え もどす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e modosu yotei da"
   },
   "jlpt-n3-手間-1994": {
-    "kana": "のうと に てま を めいし として せいり し た",
-    "romaji": "nouto ni tema o meishi toshite seiri shi ta"
+    "kana": "てま の てつづき を きげん まで に すませ た",
+    "romaji": "tema no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-才能-2041": {
-    "kana": "じしょ で さいのう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sainou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さいのう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sainou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-批判-1973": {
-    "kana": "れいぶん で わ ひはん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hihan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ひはん について しばらく はなし た",
+    "romaji": "tomodachi to hihan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-批評-1997": {
-    "kana": "のうと に ひひょう を めいし として せいり し た",
-    "romaji": "nouto ni hihyou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひひょう について しばらく はなし た",
+    "romaji": "tomodachi to hihyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-承認-2075": {
-    "kana": "れいぶん で わ しょうにん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shounin ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いけん に しょうにん し て ふかく うなずい た",
+    "romaji": "kare no iken ni shounin shi te fukaku unazui ta"
   },
   "jlpt-n3-技師-2147": {
-    "kana": "れいぶん で わ ぎし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gishi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぎし について しばらく はなし た",
+    "romaji": "tomodachi to gishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-抜く-2257": {
-    "kana": "ぬく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nuku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひきだし から ふるい てがみ を ぬく と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o nuku to natsukashiku na ta"
   },
   "jlpt-n3-抱える-2482": {
-    "kana": "せんせい わ かかえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kakaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "おもい にもつ を えき まで かかえる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made kakaeru hito o sagashi ta"
   },
   "jlpt-n3-抵抗-2226": {
-    "kana": "じしょ で ていこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de teikou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ていこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teikou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-担当-2011": {
-    "kana": "のうと に たんとう を めいし として せいり し た",
-    "romaji": "nouto ni tantou o meishi toshite seiri shi ta"
+    "kana": "たんとう の てつづき を きげん まで に すませ た",
+    "romaji": "tantou no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-拍手-2419": {
-    "kana": "れいぶん で わ はくしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hakushu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はくしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hakushu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-招く-2209": {
-    "kana": "れいぶん で わ まねく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa maneku ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に まねく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni maneku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-指す-2047": {
-    "kana": "れいぶん で わ さす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sasu ga ugoki ya henka o arawashi te iru"
+    "kana": "ちず で もくてき ち を さす ゆび を み た",
+    "romaji": "chizu de mokuteki chi o sasu yubi o mi ta"
   },
   "jlpt-n3-振る-2461": {
-    "kana": "ふる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "furu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ふる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni furu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-推薦-2312": {
-    "kana": "のうと に すいせん を めいし として せいり し た",
-    "romaji": "nouto ni suisen o meishi toshite seiri shi ta"
+    "kana": "ともだち と すいせん について しばらく はなし た",
+    "romaji": "tomodachi to suisen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-掲示-2474": {
-    "kana": "のうと に けいじ を めいし として せいり し た",
-    "romaji": "nouto ni keiji o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けいじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keiji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-換える-2234": {
-    "kana": "せんせい わ かえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に かえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-握る-2268": {
-    "kana": "にぎる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nigiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で にぎる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nigiru houhou o kangae ta"
   },
   "jlpt-n3-援助-2193": {
-    "kana": "のうと に えんじょ を めいし として せいり し た",
-    "romaji": "nouto ni enjo o meishi toshite seiri shi ta"
+    "kana": "かいぎ で えんじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de enjo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-損-2456": {
-    "kana": "のうと に そん を めいし として せいり し た",
-    "romaji": "nouto ni son o meishi toshite seiri shi ta"
+    "kana": "そん な てん を さき に せつめい し た",
+    "romaji": "son na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-撃つ-2547": {
-    "kana": "せんせい わ うつ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa utsu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に うつ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni utsu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-支える-2389": {
-    "kana": "ささえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sasaeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ささえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sasaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-支払-2214": {
-    "kana": "れいぶん で わ しはらい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiharai ga monogoto ya kangae o sashi te iru"
+    "kana": "しはらい の てつづき を きげん まで に すませ た",
+    "romaji": "shiharai no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-教師-2123": {
-    "kana": "じしょ で きょうし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kyoushi toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる きょうし に こえ を かけ た",
+    "romaji": "koma te iru kyoushi ni koe o kake ta"
   },
   "jlpt-n3-教授-2095": {
-    "kana": "れいぶん で わ きょうじゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyouju ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きょうじゅ について しばらく はなし た",
+    "romaji": "tomodachi to kyouju nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-教科書-2173": {
-    "kana": "のうと に きょうかしょ を めいし として せいり し た",
-    "romaji": "nouto ni kyoukasho o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に きょうかしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kyoukasho o oi te kara dekake ta"
   },
   "jlpt-n3-敬意-2314": {
-    "kana": "じしょ で けいい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keii toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と けいい について しばらく はなし た",
+    "romaji": "tomodachi to keii nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-数える-2266": {
-    "kana": "せんせい わ かぞえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kazoeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に かぞえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kazoeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-文-2358": {
-    "kana": "れいぶん で わ ぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bun ga monogoto ya kangae o sashi te iru"
+    "kana": "ぶん が こっきょう ちかく に はいち さ れ た",
+    "romaji": "bun ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n3-文句-2104": {
-    "kana": "じしょ で もんく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de monku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で もんく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de monku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-文字-2457": {
-    "kana": "れいぶん で わ もじ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa moji ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に もじ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni moji o oi te kara dekake ta"
   },
   "jlpt-n3-文明-2029": {
-    "kana": "のうと に ぶんめい を めいし として せいり し た",
-    "romaji": "nouto ni bunmei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ぶんめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bunmei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-料金-2364": {
-    "kana": "のうと に りょうきん を めいし として せいり し た",
-    "romaji": "nouto ni ryoukin o meishi toshite seiri shi ta"
+    "kana": "りょうきん の てつづき を きげん まで に すませ た",
+    "romaji": "ryoukin no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-断る-2530": {
-    "kana": "せんせい わ ことわる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kotowaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ことわる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kotowaru houhou o kangae ta"
   },
   "jlpt-n3-方-2060": {
-    "kana": "じしょ で かた という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kata toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-方法-2084": {
-    "kana": "じしょ で ほうほう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de houhou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほうほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houhou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-日中-2388": {
-    "kana": "れいぶん で わ にち ちゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nichi chuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と にち ちゅう について しばらく はなし た",
+    "romaji": "tomodachi to nichi chuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-日付-2112": {
-    "kana": "のうと に ひづけ を めいし として せいり し た",
-    "romaji": "nouto ni hizuke o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひづけ について しばらく はなし た",
+    "romaji": "tomodachi to hizuke nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-日曜-2434": {
-    "kana": "じしょ で にちよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nichiyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で にちよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nichiyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-日本-2375": {
-    "kana": "のうと に にっぽん を めいし として せいり し た",
-    "romaji": "nouto ni nippon o meishi toshite seiri shi ta"
+    "kana": "かいぎ で にっぽん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nippon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-旧-2438": {
-    "kana": "れいぶん で わ きゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-明かり-2447": {
-    "kana": "れいぶん で わ あかり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa akari ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あかり について しばらく はなし た",
+    "romaji": "tomodachi to akari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-明らか-2260": {
-    "kana": "じしょ で あきらか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de akiraka toiu meishi no imi o kakunin shi ta"
+    "kana": "あきらか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "akiraka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-昨-2462": {
-    "kana": "じしょ で さく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saku toiu meishi no imi o kakunin shi ta"
+    "kana": "さく わ はやめ に いえ を で た",
+    "romaji": "saku wa hayame ni ie o de ta"
   },
   "jlpt-n3-昼食-1991": {
-    "kana": "れいぶん で わ ちゅうしょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chuushoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に ちゅうしょく を すこし たべ た",
+    "romaji": "hiru gohan ni chuushoku o sukoshi tabe ta"
   },
   "jlpt-n3-時-2253": {
-    "kana": "のうと に とき を めいし として せいり し た",
-    "romaji": "nouto ni toki o meishi toshite seiri shi ta"
+    "kana": "ときに だいじ な よてい が はいっ て いる",
+    "romaji": "tokini daiji na yotei ga hai te iru"
   },
   "jlpt-n3-暖かい-2247": {
-    "kana": "この ぶん で わ あたたかい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa atatakai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "きょう わ とても あたたかい ので みず を おおめ に のん だ",
+    "romaji": "kyou wa totemo atatakai node mizu o oome ni non da"
   },
   "jlpt-n3-暮らし-2083": {
-    "kana": "じしょ で くらし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kurashi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で くらし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kurashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-暮らす-2219": {
-    "kana": "せんせい わ くらす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kurasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に くらす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kurasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-曜日-2005": {
-    "kana": "じしょ で ようび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de youbi toiu meishi no imi o kakunin shi ta"
+    "kana": "ようび に だいじ な よてい が はいっ て いる",
+    "romaji": "youbi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-更に-2008": {
-    "kana": "れいぶん で わ さらに が どうさ の ようす を くわしく し て いる",
-    "romaji": "reibun de wa sarani ga dousa no yousu o kuwashiku shi te iru"
+    "kana": "さらに よてい を へんこう し た",
+    "romaji": "sarani yotei o henkou shi ta"
   },
   "jlpt-n3-書斎-2096": {
-    "kana": "れいぶん で わ しょさい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shosai ga monogoto ya kangae o sashi te iru"
+    "kana": "しりょう の しょさい に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no shosai ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n3-書物-2286": {
-    "kana": "じしょ で しょもつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shomotsu toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に しょもつ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shomotsu o oi te kara dekake ta"
   },
   "jlpt-n3-書類-2169": {
-    "kana": "のうと に しょるい を めいし として せいり し た",
-    "romaji": "nouto ni shorui o meishi toshite seiri shi ta"
+    "kana": "しょるい な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "shorui na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n3-月曜-2130": {
-    "kana": "のうと に げつよう を めいし として せいり し た",
-    "romaji": "nouto ni getsuyou o meishi toshite seiri shi ta"
+    "kana": "ともだち と げつよう について しばらく はなし た",
+    "romaji": "tomodachi to getsuyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-有利-2503": {
-    "kana": "のうと に ゆうり を めいし として せいり し た",
-    "romaji": "nouto ni yuuri o meishi toshite seiri shi ta"
+    "kana": "ゆうり な てん を さき に せつめい し た",
+    "romaji": "yuuri na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-有効-2042": {
-    "kana": "のうと に ゆうこう を めいし として せいり し た",
-    "romaji": "nouto ni yuukou o meishi toshite seiri shi ta"
+    "kana": "ゆうこう な てん を さき に せつめい し た",
+    "romaji": "yuukou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-有能-2418": {
-    "kana": "れいぶん で わ ゆうのう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuunou ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうのう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuunou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-服装-2535": {
-    "kana": "のうと に ふくそう を めいし として せいり し た",
-    "romaji": "nouto ni fukusou o meishi toshite seiri shi ta"
+    "kana": "さむく なっ た ので ふくそう を はおっ た",
+    "romaji": "samuku na ta node fukusou o hao ta"
   },
   "jlpt-n3-望み-2283": {
-    "kana": "れいぶん で わ のぞみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nozomi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で のぞみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nozomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-期待-2549": {
-    "kana": "れいぶん で わ きたい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kitai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kitai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-木曜-2284": {
-    "kana": "じしょ で もくよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mokuyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と もくよう について しばらく はなし た",
+    "romaji": "tomodachi to mokuyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-未来-2263": {
-    "kana": "じしょ で みらい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mirai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と みらい について しばらく はなし た",
+    "romaji": "tomodachi to mirai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-本当-2399": {
-    "kana": "のうと に ほんとう を めいし として せいり し た",
-    "romaji": "nouto ni hontou o meishi toshite seiri shi ta"
+    "kana": "ほんとう な てん を さき に せつめい し た",
+    "romaji": "hontou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-束-2406": {
-    "kana": "れいぶん で わ たば が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taba ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-来-2262": {
-    "kana": "のうと に き を めいし として せいり し た",
-    "romaji": "nouto ni ki o meishi toshite seiri shi ta"
+    "kana": "き に だいじ な よてい が はいっ て いる",
+    "romaji": "ki ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-板-2000": {
-    "kana": "れいぶん で わ いた が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ita ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と いた について しばらく はなし た",
+    "romaji": "tomodachi to ita nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-栄養-2163": {
-    "kana": "じしょ で えいよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de eiyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と えいよう について しばらく はなし た",
+    "romaji": "tomodachi to eiyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-根-2465": {
-    "kana": "のうと に ね を めいし として せいり し た",
-    "romaji": "nouto ni ne o meishi toshite seiri shi ta"
+    "kana": "ね が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ne ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-桜-2505": {
-    "kana": "のうと に さくら を めいし として せいり し た",
-    "romaji": "nouto ni sakura o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と さくら が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to sakura ga totemo kirei ni mie ta"
   },
   "jlpt-n3-梅雨-2281": {
-    "kana": "じしょ で つゆ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuyu toiu meishi no imi o kakunin shi ta"
+    "kana": "つゆ の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "tsuyu no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n3-棒-2007": {
-    "kana": "れいぶん で わ ぼう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-植物-2299": {
-    "kana": "れいぶん で わ しょくぶつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shokubutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しょくぶつ について しばらく はなし た",
+    "romaji": "tomodachi to shokubutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-様々-2021": {
-    "kana": "れいぶん で わ さまざま が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa samazama ga monogoto ya kangae o sashi te iru"
+    "kana": "さまざま な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "samazama na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-模様-2527": {
-    "kana": "じしょ で もよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de moyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と もよう について しばらく はなし た",
+    "romaji": "tomodachi to moyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-機械-2443": {
-    "kana": "れいぶん で わ きかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kikai ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の みせ で きかい を みつけ た",
+    "romaji": "chikaku no mise de kikai o mitsuke ta"
   },
   "jlpt-n3-機関-2477": {
-    "kana": "れいぶん で わ きかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kikan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きかん について しばらく はなし た",
+    "romaji": "tomodachi to kikan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-欠ける-2023": {
-    "kana": "かける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "がらす が かける おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga kakeru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n3-欠点-2397": {
-    "kana": "れいぶん で わ けってん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ketten ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で けってん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ketten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-次々-2073": {
-    "kana": "のうと に つぎつぎ を めいし として せいり し た",
-    "romaji": "nouto ni tsugitsugi o meishi toshite seiri shi ta"
+    "kana": "ともだち と つぎつぎ について しばらく はなし た",
+    "romaji": "tomodachi to tsugitsugi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-次第-2087": {
-    "kana": "のうと に しだい を めいし として せいり し た",
-    "romaji": "nouto ni shidai o meishi toshite seiri shi ta"
+    "kana": "しだい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shidai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-歌手-2066": {
-    "kana": "れいぶん で わ かしゅ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kashu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かしゅ について しばらく はなし た",
+    "romaji": "tomodachi to kashu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-歓迎-1959": {
-    "kana": "のうと に かんげい を めいし として せいり し た",
-    "romaji": "nouto ni kangei o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんげい について しばらく はなし た",
+    "romaji": "tomodachi to kangei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-正-2294": {
-    "kana": "のうと に ただし を めいし として せいり し た",
-    "romaji": "nouto ni tadashi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-正午-2425": {
-    "kana": "のうと に しょうご を めいし として せいり し た",
-    "romaji": "nouto ni shougo o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうご について しばらく はなし た",
+    "romaji": "tomodachi to shougo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-正式-2452": {
-    "kana": "れいぶん で わ せいしき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seishiki ga monogoto ya kangae o sashi te iru"
+    "kana": "せいしき な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "seishiki na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n3-正確-2369": {
-    "kana": "れいぶん で わ せいかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seikaku ga monogoto ya kangae o sashi te iru"
+    "kana": "せいかく な とけい の つくり に おもわず みいっ た",
+    "romaji": "seikaku na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n3-武器-2343": {
-    "kana": "れいぶん で わ ぶき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa buki ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に ぶき を おい て から でかけ た",
+    "romaji": "tsukue no ue ni buki o oi te kara dekake ta"
   },
   "jlpt-n3-歩道-1948": {
-    "kana": "れいぶん で わ ほどう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hodou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ほどう について しばらく はなし た",
+    "romaji": "tomodachi to hodou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-母親-2376": {
-    "kana": "れいぶん で わ ははおや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hahaoya ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ははおや について しばらく はなし た",
+    "romaji": "tomodachi to hahaoya nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-比較-2177": {
-    "kana": "じしょ で ひかく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hikaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-毛布-2513": {
-    "kana": "じしょ で もうふ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de moufu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で もうふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moufu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-気の毒-2054": {
-    "kana": "のうと に きのどく を めいし として せいり し た",
-    "romaji": "nouto ni kinodoku o meishi toshite seiri shi ta"
+    "kana": "きのどく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kinodoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-気付く-2179": {
-    "kana": "れいぶん で わ きづく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kizuku ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に きづく ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni kizuku koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n3-気候-2157": {
-    "kana": "じしょ で きこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kikou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-気味-2301": {
-    "kana": "れいぶん で わ きみ が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa kimi ga joutai ya seishitsu o arawashi te iru"
+    "kana": "きみ な てん を さき に せつめい し た",
+    "romaji": "kimi na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-気温-2185": {
-    "kana": "じしょ で きおん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kion toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きおん について しばらく はなし た",
+    "romaji": "tomodachi to kion nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-永久-2196": {
-    "kana": "のうと に えいきゅう を めいし として せいり し た",
-    "romaji": "nouto ni eikyuu o meishi toshite seiri shi ta"
+    "kana": "えいきゅう な てん を さき に せつめい し た",
+    "romaji": "eikyuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-求める-2432": {
-    "kana": "せんせい わ もとめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa motomeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "たすけ を もとめる こえ が とおく から きこえ た",
+    "romaji": "tasuke o motomeru koe ga tooku kara kikoe ta"
   },
   "jlpt-n3-決心-2498": {
-    "kana": "じしょ で けっしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kesshin toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けっしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kesshin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-沈む-2523": {
-    "kana": "しずむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shizumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え しずむ よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e shizumu yotei da"
   },
   "jlpt-n3-河-2537": {
-    "kana": "のうと に かわ を めいし として せいり し た",
-    "romaji": "nouto ni kawa o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-泉-2108": {
-    "kana": "じしょ で いずみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de izumi toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と いずみ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to izumi ga totemo kirei ni mie ta"
   },
   "jlpt-n3-法-2414": {
-    "kana": "じしょ で ほう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hou toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい ほう を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi hou o oboe ta"
   },
   "jlpt-n3-注ぐ-2463": {
-    "kana": "せんせい わ そそぐ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa sosogu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に そそぐ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sosogu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-注文-2370": {
-    "kana": "のうと に ちゅうもん を めいし として せいり し た",
-    "romaji": "nouto ni chuumon o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちゅうもん について しばらく はなし た",
+    "romaji": "tomodachi to chuumon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-注目-2059": {
-    "kana": "じしょ で ちゅうもく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chuumoku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ちゅうもく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuumoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-泳ぎ-2107": {
-    "kana": "じしょ で およぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de oyogi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と およぎ について しばらく はなし た",
+    "romaji": "tomodachi to oyogi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-活動-1967": {
-    "kana": "じしょ で かつどう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de katsudou toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる かつどう に こえ を かけ た",
+    "romaji": "koma te iru katsudou ni koe o kake ta"
   },
   "jlpt-n3-流す-2232": {
-    "kana": "れいぶん で わ ながす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nagasu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に ながす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nagasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-流れる-2092": {
-    "kana": "ながれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nagareru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ながれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nagareru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-浴びる-1988": {
-    "kana": "せんせい わ あびる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa abiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に あびる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni abiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-消防-2017": {
-    "kana": "のうと に しょうぼう を めいし として せいり し た",
-    "romaji": "nouto ni shoubou o meishi toshite seiri shi ta"
+    "kana": "ともだち と しょうぼう について しばらく はなし た",
+    "romaji": "tomodachi to shoubou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-涙-2394": {
-    "kana": "じしょ で なみだ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de namida toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい なみだ を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi namida o oboe ta"
   },
   "jlpt-n3-混雑-2127": {
-    "kana": "れいぶん で わ こんざつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa konzatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で こんざつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de konzatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-清潔-1942": {
-    "kana": "じしょ で せいけつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seiketsu toiu meishi no imi o kakunin shi ta"
+    "kana": "せいけつ な まち を ゆっくり あるい た",
+    "romaji": "seiketsu na machi o yukkuri arui ta"
   },
   "jlpt-n3-済ませる-2211": {
-    "kana": "すませる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sumaseru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "さいご まで けいかく を すませる かくご を きめ た",
+    "romaji": "saigo made keikaku o sumaseru kakugo o kime ta"
   },
   "jlpt-n3-渋滞-2305": {
-    "kana": "れいぶん で わ じゅうたい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juutai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じゅうたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juutai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-温暖-2466": {
-    "kana": "じしょ で おんだん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ondan toiu meishi no imi o kakunin shi ta"
+    "kana": "おんだん な きこう の まち で くらし たい",
+    "romaji": "ondan na kikou no machi de kurashi tai"
   },
   "jlpt-n3-満足-2100": {
-    "kana": "れいぶん で わ まんぞく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa manzoku ga monogoto ya kangae o sashi te iru"
+    "kana": "まんぞく な てん を さき に せつめい し た",
+    "romaji": "manzoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-滞在-2413": {
-    "kana": "れいぶん で わ たいざい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taizai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たいざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taizai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-演奏-2373": {
-    "kana": "じしょ で えんそう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ensou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で えんそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ensou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-演技-2321": {
-    "kana": "じしょ で えんぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de engi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で えんぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de engi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-演説-2134": {
-    "kana": "のうと に えんぜつ を めいし として せいり し た",
-    "romaji": "nouto ni enzetsu o meishi toshite seiri shi ta"
+    "kana": "かいぎ で えんぜつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de enzetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-激しい-2455": {
-    "kana": "じしょ で はげしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hageshii toiu meishi no imi o kakunin shi ta"
+    "kana": "その せつめい わ すこし はげしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi hageshii to kanji ta"
   },
   "jlpt-n3-濃い-2409": {
-    "kana": "この ぶん で わ こい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa koi ga hito ya mono no yousu o arawashi te iru"
+    "kana": "こい ひ だっ た が さいご まで あるい た",
+    "romaji": "koi hi da ta ga saigo made arui ta"
   },
   "jlpt-n3-濠-2454": {
-    "kana": "じしょ で ほり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hori toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ほり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-火曜-2064": {
-    "kana": "れいぶん で わ かよう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kayou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かよう について しばらく はなし た",
+    "romaji": "tomodachi to kayou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-火災-2200": {
-    "kana": "じしょ で かさい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kasai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かさい について しばらく はなし た",
+    "romaji": "tomodachi to kasai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-無し-2307": {
-    "kana": "れいぶん で わ なし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nashi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で なし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-無料-2306": {
-    "kana": "じしょ で むりょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de muryou toiu meishi no imi o kakunin shi ta"
+    "kana": "この いべんと の にゅうじょう りょう わ むりょう だっ た",
+    "romaji": "kono ibento no nyuujou ryou wa muryou da ta"
   },
   "jlpt-n3-無視-2421": {
-    "kana": "れいぶん で わ むし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mushi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で むし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-煙-2472": {
-    "kana": "のうと に けむり を めいし として せいり し た",
-    "romaji": "nouto ni kemuri o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けむり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kemuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-熱帯-2338": {
-    "kana": "のうと に ねったい を めいし として せいり し た",
-    "romaji": "nouto ni nettai o meishi toshite seiri shi ta"
+    "kana": "ともだち と ねったい について しばらく はなし た",
+    "romaji": "tomodachi to nettai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-黙る-2496": {
-    "kana": "だまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "damaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で だまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de damaru houhou o kangae ta"
   },
   "jlpt-n3-燃える-2366": {
-    "kana": "せんせい わ もえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa moeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に もえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni moeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-牛-2162": {
-    "kana": "れいぶん で わ うし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ushi ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に うし を すこし たべ た",
+    "romaji": "hiru gohan ni ushi o sukoshi tabe ta"
   },
   "jlpt-n3-物価-2521": {
-    "kana": "のうと に ぶっか を めいし として せいり し た",
-    "romaji": "nouto ni bukka o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぶっか について しばらく はなし た",
+    "romaji": "tomodachi to bukka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-物理-2094": {
-    "kana": "じしょ で ぶつり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de butsuri toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ぶつり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de butsuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-物語-2113": {
-    "kana": "のうと に ものがたり を めいし として せいり し た",
-    "romaji": "nouto ni monogatari o meishi toshite seiri shi ta"
+    "kana": "ともだち と ものがたり について しばらく はなし た",
+    "romaji": "tomodachi to monogatari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-物質-2187": {
-    "kana": "じしょ で ぶっしつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de busshitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ぶっしつ を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na busshitsu o asa no uchi ni atsume ta"
   },
   "jlpt-n3-特徴-2067": {
-    "kana": "れいぶん で わ とくちょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tokuchou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で とくちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tokuchou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-状況-2241": {
-    "kana": "じしょ で じょうきょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de joukyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じょうきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joukyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-狂う-2141": {
-    "kana": "くるう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kuruu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え くるう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e kuruu yotei da"
   },
   "jlpt-n3-独り-2405": {
-    "kana": "のうと に ひとり を めいし として せいり し た",
-    "romaji": "nouto ni hitori o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる ひとり に こえ を かけ た",
+    "romaji": "koma te iru hitori ni koe o kake ta"
   },
   "jlpt-n3-独特-2272": {
-    "kana": "れいぶん で わ どくとく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dokutoku ga monogoto ya kangae o sashi te iru"
+    "kana": "どくとく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "dokutoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-玉-2239": {
-    "kana": "のうと に たま を めいし として せいり し た",
-    "romaji": "nouto ni tama o meishi toshite seiri shi ta"
+    "kana": "ともだち と たま について しばらく はなし た",
+    "romaji": "tomodachi to tama nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-王-2210": {
-    "kana": "じしょ で おう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ou toiu meishi no imi o kakunin shi ta"
+    "kana": "おう が しきてん で みじかい えんぜつ を おこなっ た",
+    "romaji": "ou ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n3-現れ-2288": {
-    "kana": "のうと に あらわれ を めいし として せいり し た",
-    "romaji": "nouto ni araware o meishi toshite seiri shi ta"
+    "kana": "ともだち と あらわれ について しばらく はなし た",
+    "romaji": "tomodachi to araware nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-環境-2184": {
-    "kana": "じしょ で かんきょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kankyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かんきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kankyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-生-2324": {
-    "kana": "じしょ めも で も なま の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo nama no tsukaikata o seiri shi ta"
+    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-生き物-2436": {
-    "kana": "れいぶん で わ いきもの が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ikimono ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で いきもの を み た",
+    "romaji": "chikaku no bokujou de ikimono o mi ta"
   },
   "jlpt-n3-生じる-2344": {
-    "kana": "せんせい わ しょうじる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shoujiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に しょうじる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shoujiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-生地-2022": {
-    "kana": "じしょ で きじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kiji toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な きじ を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kiji o asa no uchi ni atsume ta"
   },
   "jlpt-n3-生産-2085": {
-    "kana": "れいぶん で わ せいさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seisan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で せいさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seisan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-用いる-2328": {
-    "kana": "れいぶん で わ もちいる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa mochiiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あたらしい どうぐ を もちいる ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o mochiiru bamen ga fue te iru"
   },
   "jlpt-n3-用心-2365": {
-    "kana": "のうと に ようじん を めいし として せいり し た",
-    "romaji": "nouto ni youjin o meishi toshite seiri shi ta"
+    "kana": "ともだち と ようじん について しばらく はなし た",
+    "romaji": "tomodachi to youjin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-田-2212": {
-    "kana": "じしょ で た という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ta toiu meishi no imi o kakunin shi ta"
+    "kana": "あめあがり の た に そら が うつっ て い た",
+    "romaji": "ameagari no ta ni sora ga utsu te i ta"
   },
   "jlpt-n3-申し訳-2119": {
-    "kana": "じしょ で もうしわけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de moushiwake toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と もうしわけ について しばらく はなし た",
+    "romaji": "tomodachi to moushiwake nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-留める-2078": {
-    "kana": "とめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tomeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え とめる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tomeru yotei da"
   },
   "jlpt-n3-発明-2199": {
-    "kana": "じしょ で はつめい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hatsumei toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で はつめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hatsumei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-発表-2540": {
-    "kana": "のうと に はっぴょう を めいし として せいり し た",
-    "romaji": "nouto ni happyou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で はっぴょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de happyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-発見-2515": {
-    "kana": "れいぶん で わ はっけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hakken ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はっけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hakken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-皮-2412": {
-    "kana": "のうと に かわ を めいし として せいり し た",
-    "romaji": "nouto ni kawa o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-盛り-2525": {
-    "kana": "じしょ で もり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mori toiu meishi no imi o kakunin shi ta"
+    "kana": "やま の もり から まち ぜんたい が みえ た",
+    "romaji": "yama no mori kara machi zentai ga mie ta"
   },
   "jlpt-n3-目的-2153": {
-    "kana": "のうと に もくてき を めいし として せいり し た",
-    "romaji": "nouto ni mokuteki o meishi toshite seiri shi ta"
+    "kana": "かいぎ で もくてき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mokuteki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-直-2012": {
-    "kana": "じしょ で ただし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tadashi toiu meishi no imi o kakunin shi ta"
+    "kana": "じか な てん を さき に せつめい し た",
+    "romaji": "jika na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-直ちに-2529": {
-    "kana": "ただちに を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "tadachini o ireru to bun no nyuansu ga kawaru"
+    "kana": "ただちに へんじ が とどい た ので あんしん し た",
+    "romaji": "tadachini henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-相当-2175": {
-    "kana": "のうと に そうとう を めいし として せいり し た",
-    "romaji": "nouto ni soutou o meishi toshite seiri shi ta"
+    "kana": "ともだち と そうとう について しばらく はなし た",
+    "romaji": "tomodachi to soutou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-相手-2497": {
-    "kana": "れいぶん で わ あいて が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aite ga monogoto ya kangae o sashi te iru"
+    "kana": "えきまえ の あいて で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no aite de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-相談-2435": {
-    "kana": "のうと に そうだん を めいし として せいり し た",
-    "romaji": "nouto ni soudan o meishi toshite seiri shi ta"
+    "kana": "ともだち と そうだん について しばらく はなし た",
+    "romaji": "tomodachi to soudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-真っ赤-2220": {
-    "kana": "れいぶん で わ まっか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa makka ga monogoto ya kangae o sashi te iru"
+    "kana": "まっか な てん を さき に せつめい し た",
+    "romaji": "makka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-真剣-2311": {
-    "kana": "のうと に しんけん を めいし として せいり し た",
-    "romaji": "nouto ni shinken o meishi toshite seiri shi ta"
+    "kana": "しんけん な てん を さき に せつめい し た",
+    "romaji": "shinken na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-知らせ-2473": {
-    "kana": "れいぶん で わ しらせ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shirase ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しらせ について しばらく はなし た",
+    "romaji": "tomodachi to shirase nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-石油-2479": {
-    "kana": "れいぶん で わ せきゆ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sekiyu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せきゆ について しばらく はなし た",
+    "romaji": "tomodachi to sekiyu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-砂漠-2213": {
-    "kana": "れいぶん で わ さばく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sabaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さばく について しばらく はなし た",
+    "romaji": "tomodachi to sabaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-破産-2483": {
-    "kana": "のうと に はさん を めいし として せいり し た",
-    "romaji": "nouto ni hasan o meishi toshite seiri shi ta"
+    "kana": "ともだち と はさん について しばらく はなし た",
+    "romaji": "tomodachi to hasan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-硬い-2292": {
-    "kana": "かたい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "katai wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "おもっ た より かたい もんだい だっ た",
+    "romaji": "omo ta yori katai mondai da ta"
   },
   "jlpt-n3-硬貨-2192": {
-    "kana": "のうと に こうか を めいし として せいり し た",
-    "romaji": "nouto ni kouka o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうか について しばらく はなし た",
+    "romaji": "tomodachi to kouka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-確実-2468": {
-    "kana": "れいぶん で わ かくじつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kakujitsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かくじつ な てん を さき に せつめい し た",
+    "romaji": "kakujitsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-示す-2285": {
-    "kana": "しめす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shimesu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ちず で もくてき ち を しめす ゆび を み た",
+    "romaji": "chizu de mokuteki chi o shimesu yubi o mi ta"
   },
   "jlpt-n3-礼儀-1955": {
-    "kana": "れいぶん で わ れいぎ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa reigi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と れいぎ について しばらく はなし た",
+    "romaji": "tomodachi to reigi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-神経-2352": {
-    "kana": "のうと に しんけい を めいし として せいり し た",
-    "romaji": "nouto ni shinkei o meishi toshite seiri shi ta"
+    "kana": "ともだち と しんけい について しばらく はなし た",
+    "romaji": "tomodachi to shinkei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-禁止-2458": {
-    "kana": "のうと に きんし を めいし として せいり し た",
-    "romaji": "nouto ni kinshi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きんし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-積もる-2401": {
-    "kana": "せんせい わ つもる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsumoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つもる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsumoru houhou o kangae ta"
   },
   "jlpt-n3-穴-2430": {
-    "kana": "れいぶん で わ あな が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ana ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で あな について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ana nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-突然-2046": {
-    "kana": "とつぜん を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "totsuzen o ireru to bun no nyuansu ga kawaru"
+    "kana": "とつぜん な てん を さき に せつめい し た",
+    "romaji": "totsuzen na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-立ち上がる-2422": {
-    "kana": "れいぶん で わ たちあがる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tachiagaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に たちあがる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tachiagaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-立場-2420": {
-    "kana": "のうと に たちば を めいし として せいり し た",
-    "romaji": "nouto ni tachiba o meishi toshite seiri shi ta"
+    "kana": "かれ の たちば を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no tachiba o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-立派-2198": {
-    "kana": "じしょ で りっぱ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rippa toiu meishi no imi o kakunin shi ta"
+    "kana": "りっぱ な とけい の つくり に おもわず みいっ た",
+    "romaji": "rippa na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n3-端-2380": {
-    "kana": "じしょ で はじ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haji toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はじ について しばらく はなし た",
+    "romaji": "tomodachi to haji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-笑い-2043": {
-    "kana": "じしょ で わらい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de warai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で わらい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de warai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-筋肉-2081": {
-    "kana": "じしょ で きんにく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kinniku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で きんにく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinniku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-管-1998": {
-    "kana": "たんご りすと で も かん の よみかた と いみ を みなおし た",
-    "romaji": "tango risuto de mo kan no yomikata to imi o minaoshi ta"
+    "kana": "つくえ の うえ に かん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kan o oi te kara dekake ta"
   },
   "jlpt-n3-籠-2297": {
-    "kana": "じしょ で かご という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kago toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かご について しばらく はなし た",
+    "romaji": "tomodachi to kago nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-精々-2148": {
-    "kana": "れいぶん で わ きよし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kiyoshi ga monogoto ya kangae o sashi te iru"
+    "kana": "せいぜい よてい を へんこう し た",
+    "romaji": "seizei yotei o henkou shi ta"
   },
   "jlpt-n3-約-2509": {
-    "kana": "じしょ で やく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yaku toiu meishi no imi o kakunin shi ta"
+    "kana": "やく へんじ が とどい た ので あんしん し た",
+    "romaji": "yaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-納得-2356": {
-    "kana": "じしょ で なっとく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nattoku toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の いけん に なっとく し て ふかく うなずい た",
+    "romaji": "kare no iken ni nattoku shi te fukaku unazui ta"
   },
   "jlpt-n3-級-2428": {
-    "kana": "のうと に きゅう を めいし として せいり し た",
-    "romaji": "nouto ni kyuu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に きゅう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kyuu e iku michi o shirabe ta"
   },
   "jlpt-n3-素-2544": {
-    "kana": "れいぶん で わ もと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa moto ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で もと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-素晴らしい-2516": {
-    "kana": "れいぶん で わ すばらしい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa subarashii ga monogoto ya kangae o sashi te iru"
+    "kana": "おもっ た より すばらしい もんだい だっ た",
+    "romaji": "omo ta yori subarashii mondai da ta"
   },
   "jlpt-n3-終える-2449": {
-    "kana": "せんせい わ おえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa oeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を おえる かくご を きめ た",
+    "romaji": "saigo made keikaku o oeru kakugo o kime ta"
   },
   "jlpt-n3-組-2056": {
-    "kana": "のうと に くみ を めいし として せいり し た",
-    "romaji": "nouto ni kumi o meishi toshite seiri shi ta"
+    "kana": "きょう の くみ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kumi wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-経つ-2532": {
-    "kana": "せんせい わ たつ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tatsu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に たつ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tatsu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-経由-1987": {
-    "kana": "れいぶん で わ けいゆ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keiyu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けいゆ について しばらく はなし た",
+    "romaji": "tomodachi to keiyu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-結ぶ-2049": {
-    "kana": "せんせい わ むすぶ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa musubu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に むすぶ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni musubu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-結局-2090": {
-    "kana": "れいぶん で わ けっきょく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kekkyoku ga monogoto ya kangae o sashi te iru"
+    "kana": "けっきょく よてい を へんこう し た",
+    "romaji": "kekkyoku yotei o henkou shi ta"
   },
   "jlpt-n3-結果-2115": {
-    "kana": "じしょ で けっか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kekka toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けっか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kekka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-結論-2270": {
-    "kana": "じしょ で けつろん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ketsuron toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の けつろん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no ketsuron wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-縁-2495": {
-    "kana": "かくにん てすと で も えん の いみ を もういちど み た",
-    "romaji": "kakunin tesuto de mo en no imi o mouichido mi ta"
+    "kana": "ともだち と えん について しばらく はなし た",
+    "romaji": "tomodachi to en nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-縄-2445": {
-    "kana": "のうと に なわ を めいし として せいり し た",
-    "romaji": "nouto ni nawa o meishi toshite seiri shi ta"
+    "kana": "かいぎ で なわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-縦-2379": {
-    "kana": "じしょ で たて という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tate toiu meishi no imi o kakunin shi ta"
+    "kana": "ふうとう の たて に じゅうしょ を かい た",
+    "romaji": "fuutou no tate ni juusho o kai ta"
   },
   "jlpt-n3-繰り返す-2216": {
-    "kana": "せんせい わ くりかえす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kurikaesu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に くりかえす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kurikaesu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-美人-2511": {
-    "kana": "れいぶん で わ びじん が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa bijin ga joutai ya seishitsu o arawashi te iru"
+    "kana": "びじん な まち を ゆっくり あるい た",
+    "romaji": "bijin na machi o yukkuri arui ta"
   },
   "jlpt-n3-老い-2208": {
-    "kana": "この ぶん で わ おい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa oi ga hito ya mono no yousu o arawashi te iru"
+    "kana": "おもっ た より おい もんだい だっ た",
+    "romaji": "omo ta yori oi mondai da ta"
   },
   "jlpt-n3-肌-2121": {
-    "kana": "じしょ で はだ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hada toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な はだ を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na hada o asa no uchi ni atsume ta"
   },
   "jlpt-n3-胸-2469": {
-    "kana": "のうと に むね を めいし として せいり し た",
-    "romaji": "nouto ni mune o meishi toshite seiri shi ta"
+    "kana": "かいぎ で むね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mune nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-脇-2551": {
-    "kana": "のうと に わき を めいし として せいり し た",
-    "romaji": "nouto ni waki o meishi toshite seiri shi ta"
+    "kana": "ともだち と わき について しばらく はなし た",
+    "romaji": "tomodachi to waki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-腹-2287": {
-    "kana": "じしょ で はら という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hara toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で はら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-膝-2345": {
-    "kana": "のうと に ひざ を めいし として せいり し た",
-    "romaji": "nouto ni hiza o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひざ について しばらく はなし た",
+    "romaji": "tomodachi to hiza nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-自身-2340": {
-    "kana": "じしょ で じしん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jishin toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jishin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-舞台-2383": {
-    "kana": "のうと に ぶたい を めいし として せいり し た",
-    "romaji": "nouto ni butai o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と ぶたい を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to butai o mi ni i ta"
   },
   "jlpt-n3-航空-2110": {
-    "kana": "れいぶん で わ こうくう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koukuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こうくう について しばらく はなし た",
+    "romaji": "tomodachi to koukuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-芸術-2410": {
-    "kana": "じしょ で げいじゅつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de geijutsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で げいじゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de geijutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-苦しい-2520": {
-    "kana": "この ぶん で わ くるしい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa kurushii ga hito ya mono no yousu o arawashi te iru"
+    "kana": "くるしい ひ だっ た が さいご まで あるい た",
+    "romaji": "kurushii hi da ta ga saigo made arui ta"
   },
   "jlpt-n3-茶-2459": {
-    "kana": "のうと に ちゃ を めいし として せいり し た",
-    "romaji": "nouto ni cha o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい ちゃ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai cha o ippai non da"
   },
   "jlpt-n3-行動-2320": {
-    "kana": "じしょ で こうどう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koudou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koudou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-衣服-2315": {
-    "kana": "のうと に いふく を めいし として せいり し た",
-    "romaji": "nouto ni ifuku o meishi toshite seiri shi ta"
+    "kana": "さむく なっ た ので いふく を はおっ た",
+    "romaji": "samuku na ta node ifuku o hao ta"
   },
   "jlpt-n3-表-2295": {
-    "kana": "のうと に ひょう を めいし として せいり し た",
-    "romaji": "nouto ni hyou o meishi toshite seiri shi ta"
+    "kana": "しりょう の ひょう に すうじ を まとめ た",
+    "romaji": "shiryou no hyou ni suuji o matome ta"
   },
   "jlpt-n3-表現-2276": {
-    "kana": "じしょ で ひょうげん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hyougen toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で ひょうげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hyougen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-被る-2296": {
-    "kana": "こうむる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "koumuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うわぎ を かぶる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o kaburu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n3-裁判-2124": {
-    "kana": "れいぶん で わ さいばん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa saiban ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で さいばん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saiban nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-裏切る-2433": {
-    "kana": "うらぎる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "uragiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え うらぎる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e uragiru yotei da"
   },
   "jlpt-n3-要するに-2032": {
-    "kana": "ようするに わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "yousuruni wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "かえりぎわ に ようするに と こえ を かけ た",
+    "romaji": "kaerigiwa ni yousuruni to koe o kake ta"
   },
   "jlpt-n3-見事-2135": {
-    "kana": "みごと を な けいようし として のうと に まとめ た",
-    "romaji": "migoto o na keiyoushi toshite nouto ni matome ta"
+    "kana": "みごと な とけい の つくり に おもわず みいっ た",
+    "romaji": "migoto na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n3-見当-2487": {
-    "kana": "じしょ で けんとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kentou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けんとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kentou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-見舞い-2518": {
-    "kana": "じしょ で みまい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mimai toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい みまい を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi mimai o oboe ta"
   },
   "jlpt-n3-観光-2109": {
-    "kana": "じしょ で かんこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kankou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かんこう について しばらく はなし た",
+    "romaji": "tomodachi to kankou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-角-2398": {
-    "kana": "じしょ で かく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-解く-2181": {
-    "kana": "とく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "toku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で とく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de toku houhou o kangae ta"
   },
   "jlpt-n3-触れる-2528": {
-    "kana": "せんせい わ ふれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa fureru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え ふれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e fureru yotei da"
   },
   "jlpt-n3-言わば-2489": {
-    "kana": "じしょ で いわば という めいし の いみ を かくにん し た",
-    "romaji": "jisho de iwaba toiu meishi no imi o kakunin shi ta"
+    "kana": "いわば よてい を へんこう し た",
+    "romaji": "iwaba yotei o henkou shi ta"
   },
   "jlpt-n3-計-2467": {
-    "kana": "のうと に けい を めいし として せいり し た",
-    "romaji": "nouto ni kei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で けい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-計画-2093": {
-    "kana": "れいぶん で わ けいかく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keikaku ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で けいかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-記入-2396": {
-    "kana": "じしょ で きにゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kinyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と きにゅう について しばらく はなし た",
+    "romaji": "tomodachi to kinyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-記念-1964": {
-    "kana": "のうと に きねん を めいし として せいり し た",
-    "romaji": "nouto ni kinen o meishi toshite seiri shi ta"
+    "kana": "ともだち と きねん について しばらく はなし た",
+    "romaji": "tomodachi to kinen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-記憶-2470": {
-    "kana": "のうと に きおく を めいし として せいり し た",
-    "romaji": "nouto ni kioku o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きおく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kioku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-許す-2493": {
-    "kana": "れいぶん で わ ゆるす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yurusu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ゆるす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de yurusu houhou o kangae ta"
   },
   "jlpt-n3-診察-2476": {
-    "kana": "れいぶん で わ しんさつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shinsatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しんさつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinsatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-評判-2392": {
-    "kana": "のうと に ひょうばん を めいし として せいり し た",
-    "romaji": "nouto ni hyouban o meishi toshite seiri shi ta"
+    "kana": "ともだち と ひょうばん について しばらく はなし た",
+    "romaji": "tomodachi to hyouban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-試し-2040": {
-    "kana": "じしょ で ためし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tameshi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ためし について しばらく はなし た",
+    "romaji": "tomodachi to tameshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-詩人-2442": {
-    "kana": "れいぶん で わ しじん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shijin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しじん について しばらく はなし た",
+    "romaji": "tomodachi to shijin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-誇り-2378": {
-    "kana": "じしょ で ほこり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hokori toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ほこり について しばらく はなし た",
+    "romaji": "tomodachi to hokori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-語る-2522": {
-    "kana": "れいぶん で わ かたる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kataru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に かたる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kataru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-語学-2118": {
-    "kana": "れいぶん で わ ごがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gogaku ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の ごがく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no gogaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-誤り-2101": {
-    "kana": "じしょ で あやまり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ayamari toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と あやまり について しばらく はなし た",
+    "romaji": "tomodachi to ayamari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-誤解-2233": {
-    "kana": "のうと に ごかい を めいし として せいり し た",
-    "romaji": "nouto ni gokai o meishi toshite seiri shi ta"
+    "kana": "ともだち と ごかい について しばらく はなし た",
+    "romaji": "tomodachi to gokai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-説-2174": {
-    "kana": "じしょ で せつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de setsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ の せつ を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no setsu o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-論じる-2136": {
-    "kana": "せんせい わ ろんじる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ronjiru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あたらしい あん を ろんじる かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o ronjiru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n3-論文-2508": {
-    "kana": "のうと に ろんぶん を めいし として せいり し た",
-    "romaji": "nouto ni ronbun o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と ろんぶん を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to ronbun o mi ni i ta"
   },
   "jlpt-n3-諦める-2020": {
-    "kana": "あきらめる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "akirameru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に あきらめる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni akirameru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-諺-2204": {
-    "kana": "じしょ で ことわざ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kotowaza toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ことわざ について しばらく はなし た",
+    "romaji": "tomodachi to kotowaza nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-議会-2538": {
-    "kana": "のうと に ぎかい を めいし として せいり し た",
-    "romaji": "nouto ni gikai o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぎかい について しばらく はなし た",
+    "romaji": "tomodachi to gikai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-豆-2077": {
-    "kana": "のうと に まめ を めいし として せいり し た",
-    "romaji": "nouto ni mame o meishi toshite seiri shi ta"
+    "kana": "ともだち と まめ について しばらく はなし た",
+    "romaji": "tomodachi to mame nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-豊富-2357": {
-    "kana": "のうと に ほうふ を めいし として せいり し た",
-    "romaji": "nouto ni houfu o meishi toshite seiri shi ta"
+    "kana": "ほうふ な しりょう を つかっ て はっぴょう し た",
+    "romaji": "houfu na shiryou o tsuka te happyou shi ta"
   },
   "jlpt-n3-象-2491": {
-    "kana": "じしょ で ぞう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ぞう について しばらく はなし た",
+    "romaji": "tomodachi to zou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-豪華-2502": {
-    "kana": "れいぶん で わ ごうか が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gouka ga monogoto ya kangae o sashi te iru"
+    "kana": "ごうか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "gouka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-貧しい-2045": {
-    "kana": "じしょ で まずしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mazushii toiu meishi no imi o kakunin shi ta"
+    "kana": "まずしい ひ だっ た が さいご まで あるい た",
+    "romaji": "mazushii hi da ta ga saigo made arui ta"
   },
   "jlpt-n3-責める-2205": {
-    "kana": "れいぶん で わ せめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa semeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あいて を つよく せめる まえ に まず じじょう を きい た",
+    "romaji": "aite o tsuyoku semeru mae ni mazu jijou o kii ta"
   },
   "jlpt-n3-責任-1982": {
-    "kana": "れいぶん で わ せきにん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sekinin ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の せきにん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no sekinin wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-貸し-2030": {
-    "kana": "じしょ で かし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kashi toiu meishi no imi o kakunin shi ta"
+    "kana": "かし の てつづき を きげん まで に すませ た",
+    "romaji": "kashi no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-費用-2382": {
-    "kana": "のうと に ひよう を めいし として せいり し た",
-    "romaji": "nouto ni hiyou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ひよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-資本-2133": {
-    "kana": "れいぶん で わ しほん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shihon ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しほん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shihon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-賛成-2514": {
-    "kana": "れいぶん で わ さんせい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sansei ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いけん に さんせい し て ふかく うなずい た",
+    "romaji": "kare no iken ni sansei shi te fukaku unazui ta"
   },
   "jlpt-n3-質-2202": {
-    "kana": "のうと に しつ を めいし として せいり し た",
-    "romaji": "nouto ni shitsu o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる しつ に こえ を かけ た",
+    "romaji": "koma te iru shitsu ni koe o kake ta"
   },
   "jlpt-n3-跡-2165": {
-    "kana": "れいぶん で わ あと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ato ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あと について しばらく はなし た",
+    "romaji": "tomodachi to ato nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-身体-2145": {
-    "kana": "じしょ で しんたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shintai toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる しんたい に こえ を かけ た",
+    "romaji": "koma te iru shintai ni koe o kake ta"
   },
   "jlpt-n3-身長-2091": {
-    "kana": "じしょ で しんちょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinchou toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる しんちょう に こえ を かけ た",
+    "romaji": "koma te iru shinchou ni koe o kake ta"
   },
   "jlpt-n3-軍隊-1980": {
-    "kana": "じしょ で ぐんたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de guntai toiu meishi no imi o kakunin shi ta"
+    "kana": "ぐんたい が こっきょう ちかく に はいち さ れ た",
+    "romaji": "guntai ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n3-軒-2336": {
-    "kana": "じしょ で のき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de noki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と のき について しばらく はなし た",
+    "romaji": "tomodachi to noki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-輪-2517": {
-    "kana": "じしょ で わ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de wa toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で わ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-輸出-1960": {
-    "kana": "のうと に ゆしゅつ を めいし として せいり し た",
-    "romaji": "nouto ni yushutsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と ゆしゅつ について しばらく はなし た",
+    "romaji": "tomodachi to yushutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-農民-2347": {
-    "kana": "じしょ で のうみん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de noumin toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と のうみん について しばらく はなし た",
+    "romaji": "tomodachi to noumin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-辺り-2348": {
-    "kana": "れいぶん で わ あたり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa atari ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あたり について しばらく はなし た",
+    "romaji": "tomodachi to atari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-迎え-2395": {
-    "kana": "のうと に むかえ を めいし として せいり し た",
-    "romaji": "nouto ni mukae o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる むかえ に こえ を かけ た",
+    "romaji": "koma te iru mukae ni koe o kake ta"
   },
   "jlpt-n3-述べる-2131": {
-    "kana": "のべる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "noberu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で のべる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de noberu houhou o kangae ta"
   },
   "jlpt-n3-迷子-2058": {
-    "kana": "のうと に まいご を めいし として せいり し た",
-    "romaji": "nouto ni maigo o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる まいご に こえ を かけ た",
+    "romaji": "koma te iru maigo ni koe o kake ta"
   },
   "jlpt-n3-迷惑-2403": {
-    "kana": "のうと に めいわく を めいし として せいり し た",
-    "romaji": "nouto ni meiwaku o meishi toshite seiri shi ta"
+    "kana": "めいわく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "meiwaku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-追う-2289": {
-    "kana": "せんせい わ おう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に おう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ou tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-逆らう-2036": {
-    "kana": "れいぶん で わ さからう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sakarau ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え さからう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e sakarau yotei da"
   },
   "jlpt-n3-通す-2088": {
-    "kana": "せんせい わ とおす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa toosu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に とおす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-通り過ぎる-2329": {
-    "kana": "れいぶん で わ とおりすぎる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa toorisugiru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え とおりすぎる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e toorisugiru yotei da"
   },
   "jlpt-n3-通学-2223": {
-    "kana": "じしょ で つうがく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuugaku toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に つうがく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni tsuugaku e iku michi o shirabe ta"
   },
   "jlpt-n3-連れ-2354": {
-    "kana": "じしょ で つれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsure toiu meishi no imi o kakunin shi ta"
+    "kana": "えきまえ の つれ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no tsure de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-逮捕-1996": {
-    "kana": "れいぶん で わ たいほ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taiho ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で たいほ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taiho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-週-1970": {
-    "kana": "れいぶん で わ しゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shuu ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "shuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-進歩-2069": {
-    "kana": "のうと に しんぽ を めいし として せいり し た",
-    "romaji": "nouto ni shinpo o meishi toshite seiri shi ta"
+    "kana": "あたらしい さあびす の しんぽ が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no shinpo ga yotei yori hayaku susun de iru"
   },
   "jlpt-n3-遂に-2050": {
-    "kana": "ついに わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "tsuini wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ついに よてい を へんこう し た",
+    "romaji": "tsuini yotei o henkou shi ta"
   },
   "jlpt-n3-運-1981": {
-    "kana": "のうと に うん を めいし として せいり し た",
-    "romaji": "nouto ni un o meishi toshite seiri shi ta"
+    "kana": "かいぎ で うん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de un nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-過去-2325": {
-    "kana": "れいぶん で わ かこ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kako ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kako nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-道路-2384": {
-    "kana": "のうと に どうろ を めいし として せいり し た",
-    "romaji": "nouto ni douro o meishi toshite seiri shi ta"
+    "kana": "かいぎ で どうろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de douro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-違い-1969": {
-    "kana": "のうと に ちがい を めいし として せいり し た",
-    "romaji": "nouto ni chigai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ちがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chigai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-遠慮-2400": {
-    "kana": "れいぶん で わ えんりょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa enryo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と えんりょ について しばらく はなし た",
+    "romaji": "tomodachi to enryo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-適する-2368": {
-    "kana": "せんせい わ てきする を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tekisuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よてい が てきする ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga tekisuru hi o eran de minna de atsuma ta"
   },
   "jlpt-n3-適用-1971": {
-    "kana": "じしょ で てきよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tekiyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と てきよう について しばらく はなし た",
+    "romaji": "tomodachi to tekiyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-選択-2053": {
-    "kana": "じしょ で せんたく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sentaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と せんたく について しばらく はなし た",
+    "romaji": "tomodachi to sentaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-避ける-2097": {
-    "kana": "さける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に さける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sakeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-邪魔-2264": {
-    "kana": "じしょ で じゃま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jama toiu meishi no imi o kakunin shi ta"
+    "kana": "じゃま な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "jama na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-郵便-2353": {
-    "kana": "のうと に ゆうびん を めいし として せいり し た",
-    "romaji": "nouto ni yuubin o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ゆうびん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuubin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-都会-2291": {
-    "kana": "じしょ で とかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tokai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と とかい について しばらく はなし た",
+    "romaji": "tomodachi to tokai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-酸素-2201": {
-    "kana": "じしょ で さんそ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sanso toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で さんそ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sanso nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-重要-2275": {
-    "kana": "じゅうよう わ めいし の まえ で じゅうよう な の かたち で も つかう",
-    "romaji": "juuyou wa meishi no mae de juuyou na no katachi de mo tsukau"
+    "kana": "じゅうよう な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "juuyou na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n3-量-2501": {
-    "kana": "じしょ で りょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ryou toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に りょう を すこし たべ た",
+    "romaji": "hiru gohan ni ryou o sukoshi tabe ta"
   },
   "jlpt-n3-金融-2446": {
-    "kana": "れいぶん で わ きんゆう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kin'yuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きんゆう について しばらく はなし た",
+    "romaji": "tomodachi to kin'yuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-金銭-2440": {
-    "kana": "のうと に きんせん を めいし として せいり し た",
-    "romaji": "nouto ni kinsen o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きんせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinsen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-銀-2068": {
-    "kana": "のうと に ぎん を めいし として せいり し た",
-    "romaji": "nouto ni gin o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ぎん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gin e iku michi o shirabe ta"
   },
   "jlpt-n3-鍵-2180": {
-    "kana": "じしょ で かぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kagi toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の みせ で かぎ を みつけ た",
+    "romaji": "chikaku no mise de kagi o mitsuke ta"
   },
   "jlpt-n3-閉じる-2249": {
-    "kana": "とじる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tojiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で とじる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tojiru houhou o kangae ta"
   },
   "jlpt-n3-開始-2206": {
-    "kana": "のうと に かいし を めいし として せいり し た",
-    "romaji": "nouto ni kaishi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かいし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-間-1962": {
-    "kana": "れいぶん で わ ま が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ma ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ま え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ma e iku michi o shirabe ta"
   },
   "jlpt-n3-関する-2426": {
-    "kana": "かんする わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kansuru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で かんする ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kansuru houhou o kangae ta"
   },
   "jlpt-n3-関心-2006": {
-    "kana": "のうと に かんしん を めいし として せいり し た",
-    "romaji": "nouto ni kanshin o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんしん について しばらく はなし た",
+    "romaji": "tomodachi to kanshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-防ぐ-2510": {
-    "kana": "せんせい わ ふせぐ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa fusegu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ふせぐ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni fusegu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-降ろす-2225": {
-    "kana": "れいぶん で わ おろす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa orosu ga ugoki ya henka o arawashi te iru"
+    "kana": "たな から にもつ を おろす とき わ あしもと に き を つける",
+    "romaji": "tana kara nimotsu o orosu toki wa ashimoto ni ki o tsukeru"
   },
   "jlpt-n3-限界-2444": {
-    "kana": "れいぶん で わ げんかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa genkai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と げんかい について しばらく はなし た",
+    "romaji": "tomodachi to genkai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-除く-1946": {
-    "kana": "せんせい わ のぞく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nozoku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で のぞく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nozoku houhou o kangae ta"
   },
   "jlpt-n3-陸-2230": {
-    "kana": "じしょ で りく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de riku toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で りく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de riku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-陽気-2492": {
-    "kana": "れいぶん で わ ようき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa youki ga monogoto ya kangae o sashi te iru"
+    "kana": "ようき な まち を ゆっくり あるい た",
+    "romaji": "youki na machi o yukkuri arui ta"
   },
   "jlpt-n3-随分-2309": {
-    "kana": "じしょ で ずいぶん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zuibun toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう わ ずいぶん つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa zuibun tsukare ta node hayame ni ne ta"
   },
   "jlpt-n3-障害-2372": {
-    "kana": "じしょ で しょうがい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shougai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しょうがい について しばらく はなし た",
+    "romaji": "tomodachi to shougai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-隠れる-2339": {
-    "kana": "れいぶん で わ かくれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kakureru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に かくれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kakureru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-離れる-2310": {
-    "kana": "れいぶん で わ はなれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hanareru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え はなれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hanareru yotei da"
   },
   "jlpt-n3-雰囲気-2070": {
-    "kana": "じしょ で ふんいき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fun'iki toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい ふんいき を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi fun'iki o oboe ta"
   },
   "jlpt-n3-需要-2197": {
-    "kana": "じしょ で じゅよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de juyou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で じゅよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-震える-1965": {
-    "kana": "せんせい わ ふるえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa furueru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ふるえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni furueru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-青年-2231": {
-    "kana": "れいぶん で わ せいねん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa seinen ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と せいねん について しばらく はなし た",
+    "romaji": "tomodachi to seinen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-面倒-2256": {
-    "kana": "のうと に めんどう を めいし として せいり し た",
-    "romaji": "nouto ni mendou o meishi toshite seiri shi ta"
+    "kana": "めんどう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "mendou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-革-1953": {
-    "kana": "じしょ で かわ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kawa toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と かわ について しばらく はなし た",
+    "romaji": "tomodachi to kawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-頃-2450": {
-    "kana": "じしょ で ころ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koro toiu meishi no imi o kakunin shi ta"
+    "kana": "ころ に だいじ な よてい が はいっ て いる",
+    "romaji": "koro ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-順-2074": {
-    "kana": "れいぶん で わ じゅん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jun ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と じゅん について しばらく はなし た",
+    "romaji": "tomodachi to jun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-順調-2319": {
-    "kana": "じしょ で じゅんちょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de junchou toiu meishi no imi o kakunin shi ta"
+    "kana": "じゅんちょう な てん を さき に せつめい し た",
+    "romaji": "junchou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-預ける-2061": {
-    "kana": "せんせい わ あづける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa azukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で あづける ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de azukeru houhou o kangae ta"
   },
   "jlpt-n3-頬-2015": {
-    "kana": "のうと に ほお を めいし として せいり し た",
-    "romaji": "nouto ni hoo o meishi toshite seiri shi ta"
+    "kana": "ほお が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hoo ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-頭痛-2217": {
-    "kana": "れいぶん で わ ずつう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zutsuu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ずつう について しばらく はなし た",
+    "romaji": "tomodachi to zutsuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-額-2408": {
-    "kana": "じしょ で がく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と がく について しばらく はなし た",
+    "romaji": "tomodachi to gaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-願い-1943": {
-    "kana": "じしょ で ねがい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de negai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ねがい について しばらく はなし た",
+    "romaji": "tomodachi to negai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-風呂-2159": {
-    "kana": "じしょ で ふろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de furo toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ふろ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni furo e iku michi o shirabe ta"
   },
   "jlpt-n3-風景-2242": {
-    "kana": "れいぶん で わ ふうけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fuukei ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の ふうけい を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no fuukei o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-飛行-2098": {
-    "kana": "れいぶん で わ ひこう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hikou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ひこう について しばらく はなし た",
+    "romaji": "tomodachi to hikou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-食卓-2105": {
-    "kana": "のうと に しょくたく を めいし として せいり し た",
-    "romaji": "nouto ni shokutaku o meishi toshite seiri shi ta"
+    "kana": "しりょう の しょくたく に すうじ を まとめ た",
+    "romaji": "shiryou no shokutaku ni suuji o matome ta"
   },
   "jlpt-n3-食品-2114": {
-    "kana": "じしょ で しょくひん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shokuhin toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に しょくひん を すこし たべ た",
+    "romaji": "hiru gohan ni shokuhin o sukoshi tabe ta"
   },
   "jlpt-n3-食欲-2481": {
-    "kana": "のうと に しょくよく を めいし として せいり し た",
-    "romaji": "nouto ni shokuyoku o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に しょくよく を すこし たべ た",
+    "romaji": "hiru gohan ni shokuyoku o sukoshi tabe ta"
   },
   "jlpt-n3-食物-2548": {
-    "kana": "れいぶん で わ しょくもつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shokumotsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に しょくもつ を すこし たべ た",
+    "romaji": "hiru gohan ni shokumotsu o sukoshi tabe ta"
   },
   "jlpt-n3-飼う-2140": {
-    "kana": "せんせい わ かう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で かう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kau houhou o kangae ta"
   },
   "jlpt-n3-飽きる-1993": {
-    "kana": "れいぶん で わ あきる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa akiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あきる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni akiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n3-首相-2282": {
-    "kana": "れいぶん で わ しゅしょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shushou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅしょう について しばらく はなし た",
+    "romaji": "tomodachi to shushou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-香り-1947": {
-    "kana": "れいぶん で わ かおり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaori ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かおり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-馬-1945": {
-    "kana": "のうと に うま を めいし として せいり し た",
-    "romaji": "nouto ni uma o meishi toshite seiri shi ta"
+    "kana": "ちかく の ぼくじょう で うま を み た",
+    "romaji": "chikaku no bokujou de uma o mi ta"
   },
   "jlpt-n3-駄目-2480": {
-    "kana": "のうと に だめ を めいし として せいり し た",
-    "romaji": "nouto ni dame o meishi toshite seiri shi ta"
+    "kana": "だめ な てん を さき に せつめい し た",
+    "romaji": "dame na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-騒ぎ-2116": {
-    "kana": "のうと に さわぎ を めいし として せいり し た",
-    "romaji": "nouto ni sawagi o meishi toshite seiri shi ta"
+    "kana": "ともだち と さわぎ について しばらく はなし た",
+    "romaji": "tomodachi to sawagi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-骨折-2172": {
-    "kana": "れいぶん で わ こっせつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kossetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と こっせつ について しばらく はなし た",
+    "romaji": "tomodachi to kossetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-髪の毛-2545": {
-    "kana": "じしょ で かみのけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaminoke toiu meishi no imi o kakunin shi ta"
+    "kana": "かえりぎわ に かみのけ と こえ を かけ た",
+    "romaji": "kaerigiwa ni kaminoke to koe o kake ta"
   },
   "jlpt-n3-魚-2265": {
-    "kana": "れいぶん で わ さかな が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sakana ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の ぼくじょう で さかな を み た",
+    "romaji": "chikaku no bokujou de sakana o mi ta"
   },
   "jlpt-n4-お-金持ち-2600": {
-    "kana": "じしょ で お かねもち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o kanemochi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と お かねもち について しばらく はなし た",
+    "romaji": "tomodachi to o kanemochi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お土産-2687": {
-    "kana": "じしょ で お みやげ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o miyage toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で お みやげ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o miyage nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-お嬢さん-2558": {
-    "kana": "れいぶん で わ おじょうさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ojousan ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる おじょうさん に こえ を かけ た",
+    "romaji": "koma te iru ojousan ni koe o kake ta"
   },
   "jlpt-n4-お宅-2718": {
-    "kana": "じしょ で お たく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o taku toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と お たく について しばらく はなし た",
+    "romaji": "tomodachi to o taku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お礼-2644": {
-    "kana": "じしょ で おれい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de orei toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おれい について しばらく はなし た",
+    "romaji": "tomodachi to orei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お祝い-2563": {
-    "kana": "のうと に おいわい を めいし として せいり し た",
-    "romaji": "nouto ni oiwai o meishi toshite seiri shi ta"
+    "kana": "ともだち と おいわい について しばらく はなし た",
+    "romaji": "tomodachi to oiwai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お祭り-2689": {
-    "kana": "じしょ で お まつり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o matsuri toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で おまつり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de omatsuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-お見舞い-2691": {
-    "kana": "のうと に お みまい を めいし として せいり し た",
-    "romaji": "nouto ni o mimai o meishi toshite seiri shi ta"
+    "kana": "ともだち と お みまい について しばらく はなし た",
+    "romaji": "tomodachi to o mimai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-さ来月-2661": {
-    "kana": "れいぶん で わ さ らいげつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sa raigetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "さ らいげつ に だいじ な よてい が はいっ て いる",
+    "romaji": "sa raigetsu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-一度-2576": {
-    "kana": "じしょ で いち ど という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichi do toiu meishi no imi o kakunin shi ta"
+    "kana": "いち ど に だいじ な よてい が はいっ て いる",
+    "romaji": "ichi do ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-一生懸命-2564": {
-    "kana": "のうと に いっしょうけんめい を めいし として せいり し た",
-    "romaji": "nouto ni isshoukenmei o meishi toshite seiri shi ta"
+    "kana": "いっしょうけんめい な てん を さき に せつめい し た",
+    "romaji": "isshoukenmei na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-丁寧-2584": {
-    "kana": "のうと に ていねい を めいし として せいり し た",
-    "romaji": "nouto ni teinei o meishi toshite seiri shi ta"
+    "kana": "ていねい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "teinei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-上る-2699": {
-    "kana": "じしょ めも で も のぼる の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo noboru no tsukaikata o seiri shi ta"
+    "kana": "さか を のぼる と うみ が みえ た",
+    "romaji": "saka o noboru to umi ga mie ta"
   },
   "jlpt-n4-下宿-2624": {
-    "kana": "れいぶん で わ げしゅく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa geshuku ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に げしゅく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni geshuku e iku michi o shirabe ta"
   },
   "jlpt-n4-不便-2819": {
-    "kana": "れいぶん で わ ふべん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fuben ga monogoto ya kangae o sashi te iru"
+    "kana": "ふべん な てん を さき に せつめい し た",
+    "romaji": "fuben na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-世界-2615": {
-    "kana": "のうと に せかい を めいし として せいり し た",
-    "romaji": "nouto ni sekai o meishi toshite seiri shi ta"
+    "kana": "ともだち と せかい について しばらく はなし た",
+    "romaji": "tomodachi to sekai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-世話-2605": {
-    "kana": "れいぶん で わ せわ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sewa ga ugoki ya henka o arawashi te iru"
+    "kana": "こども を せわ する ひと が もう いち にん ひつよう だっ た",
+    "romaji": "kodomo o sewa suru hito ga mou ichi nin hitsuyou da ta"
   },
   "jlpt-n4-両方-2744": {
-    "kana": "のうと に りょうほう を めいし として せいり し た",
-    "romaji": "nouto ni ryouhou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で りょうほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryouhou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-久しぶり-2800": {
-    "kana": "じしょ で ひさしぶり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hisashiburi toiu meishi no imi o kakunin shi ta"
+    "kana": "ひさしぶり に だいじ な よてい が はいっ て いる",
+    "romaji": "hisashiburi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-乗り換える-2677": {
-    "kana": "れいぶん で わ のりかえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa norikaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "かぞく を のりかえる きもち を たいせつ に し て いる",
+    "romaji": "kazoku o norikaeru kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n4-乾く-2630": {
-    "kana": "れいぶん で わ かわく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kawaku ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で かわく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kawaku houhou o kangae ta"
   },
   "jlpt-n4-予定-2665": {
-    "kana": "れいぶん で わ よてい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yotei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で よてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yotei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-事故-2749": {
-    "kana": "れいぶん で わ じこ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jiko ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で じこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jiko nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-二階建て-2787": {
-    "kana": "のうと に に かい だて を めいし として せいり し た",
-    "romaji": "nouto ni ni kai date o meishi toshite seiri shi ta"
+    "kana": "に かい だて の はこ を たな に きれい に ならべ た",
+    "romaji": "ni kai date no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n4-交通-2825": {
-    "kana": "のうと に こうつう を めいし として せいり し た",
-    "romaji": "nouto ni koutsuu o meishi toshite seiri shi ta"
+    "kana": "ともだち と こうつう について しばらく はなし た",
+    "romaji": "tomodachi to koutsuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-人口-2693": {
-    "kana": "じしょ で じんこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de jinkou toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と じんこう について しばらく はなし た",
+    "romaji": "tomodachi to jinkou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-今夜-2791": {
-    "kana": "のうと に こんや を めいし として せいり し た",
-    "romaji": "nouto ni kon'ya o meishi toshite seiri shi ta"
+    "kana": "こんや に だいじ な よてい が はいっ て いる",
+    "romaji": "kon'ya ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-今度-2724": {
-    "kana": "のうと に こんど を めいし として せいり し た",
-    "romaji": "nouto ni kondo o meishi toshite seiri shi ta"
+    "kana": "こんど に だいじ な よてい が はいっ て いる",
+    "romaji": "kondo ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-仕方-2657": {
-    "kana": "れいぶん で わ しかた が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shikata ga monogoto ya kangae o sashi te iru"
+    "kana": "こうじょう に ひつよう な しかた を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na shikata o asa no uchi ni atsume ta"
   },
   "jlpt-n4-付く-2561": {
-    "kana": "つく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tsuku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に つく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsuku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-代わり-2603": {
-    "kana": "れいぶん で わ かわり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kawari ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で かわり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-以上-2592": {
-    "kana": "のうと に いじょう を めいし として せいり し た",
-    "romaji": "nouto ni ijou o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ijou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-以下-2633": {
-    "kana": "のうと に いか を めいし として せいり し た",
-    "romaji": "nouto ni ika o meishi toshite seiri shi ta"
+    "kana": "かいぎ で いか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-会話-2606": {
-    "kana": "じしょ で かいわ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kaiwa toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かいわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaiwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-会議室-2762": {
-    "kana": "のうと に かいぎ しつ を めいし として せいり し た",
-    "romaji": "nouto ni kaigi shitsu o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に かいぎ しつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kaigi shitsu e iku michi o shirabe ta"
   },
   "jlpt-n4-似る-2747": {
-    "kana": "せんせい わ にる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa niru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "にる な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "niru na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-住所-2655": {
-    "kana": "れいぶん で わ じゅうしょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juusho ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の じゅうしょ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no juusho wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-例えば-2755": {
-    "kana": "じしょ で たとえば という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tatoeba toiu meishi no imi o kakunin shi ta"
+    "kana": "たとえば へんじ が とどい た ので あんしん し た",
+    "romaji": "tatoeba henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n4-倒れる-2823": {
-    "kana": "たおれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "taoreru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "つよい かぜ で き が たおれる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga taoreru oto ga shi ta"
   },
   "jlpt-n4-僕-2775": {
-    "kana": "のうと に ぼく を めいし として せいり し た",
-    "romaji": "nouto ni boku o meishi toshite seiri shi ta"
+    "kana": "ぼく わ しずか に うなずい た",
+    "romaji": "boku wa shizuka ni unazui ta"
   },
   "jlpt-n4-優しい-2638": {
-    "kana": "れいぶん で わ やさしい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yasashii ga monogoto ya kangae o sashi te iru"
+    "kana": "やさしい ひ だっ た が さいご まで あるい た",
+    "romaji": "yasashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-光-2824": {
-    "kana": "じしょ で ひかり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hikari toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ひかり について しばらく はなし た",
+    "romaji": "tomodachi to hikari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-入院-2736": {
-    "kana": "にゅういん わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nyuuin wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "そふ が けんさ の ため に にゅういん する こと に なっ た",
+    "romaji": "sofu ga kensa no tame ni nyuuin suru koto ni na ta"
   },
   "jlpt-n4-公務員-2647": {
-    "kana": "れいぶん で わ こうむいん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa koumuin ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる こうむいん に こえ を かけ た",
+    "romaji": "koma te iru koumuin ni koe o kake ta"
   },
   "jlpt-n4-最初-2578": {
-    "kana": "れいぶん で わ さいしょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa saisho ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と さいしょ について しばらく はなし た",
+    "romaji": "tomodachi to saisho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-写す-2679": {
-    "kana": "うつす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "utsusu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で うつす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de utsusu houhou o kangae ta"
   },
   "jlpt-n4-冷える-2684": {
-    "kana": "れいぶん で わ ひえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hieru ga ugoki ya henka o arawashi te iru"
+    "kana": "すうぷ が ひえる まで すこし まっ た",
+    "romaji": "suupu ga hieru made sukoshi ma ta"
   },
   "jlpt-n4-出席-2667": {
-    "kana": "れいぶん で わ しゅっせき が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shusseki ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に しゅっせき する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shusseki suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-割れる-2795": {
-    "kana": "せんせい わ われる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa wareru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "がらす が われる おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga wareru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n4-割合-2802": {
-    "kana": "じしょ で わりあい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de wariai toiu meishi no imi o kakunin shi ta"
+    "kana": "わりあい の てつづき を きげん まで に すませ た",
+    "romaji": "wariai no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n4-動く-2737": {
-    "kana": "うごく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ugoku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で うごく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ugoku houhou o kangae ta"
   },
   "jlpt-n4-厳しい-2637": {
-    "kana": "のうと に きびしい を めいし として せいり し た",
-    "romaji": "nouto ni kibishii o meishi toshite seiri shi ta"
+    "kana": "きびしい ひ だっ た が さいご まで あるい た",
+    "romaji": "kibishii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-参る-2738": {
-    "kana": "せんせい わ まいる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mairu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "つよい かぜ で き が まいる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga mairu oto ga shi ta"
   },
   "jlpt-n4-取り替える-2768": {
-    "kana": "とりかえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "torikaeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で とりかえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de torikaeru houhou o kangae ta"
   },
   "jlpt-n4-受ける-2557": {
-    "kana": "せんせい わ うける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa ukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しんらい を うける はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o ukeru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n4-受付-2602": {
-    "kana": "れいぶん で わ うけつけ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa uketsuke ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかく の みせ で うけつけ を みつけ た",
+    "romaji": "chikaku no mise de uketsuke o mitsuke ta"
   },
   "jlpt-n4-召し上がる-2719": {
-    "kana": "めしあがる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "meshiagaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に めしあがる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni meshiagaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-合う-2617": {
-    "kana": "せんせい わ あう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa au o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よてい が あう ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga au hi o eran de minna de atsuma ta"
   },
   "jlpt-n4-向かう-2607": {
-    "kana": "せんせい わ むかう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mukau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え むかう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e mukau yotei da"
   },
   "jlpt-n4-周り-2650": {
-    "kana": "のうと に まわり を めいし として せいり し た",
-    "romaji": "nouto ni mawari o meishi toshite seiri shi ta"
+    "kana": "かいぎ で まわり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mawari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-味噌-2809": {
-    "kana": "のうと に みそ を めいし として せいり し た",
-    "romaji": "nouto ni miso o meishi toshite seiri shi ta"
+    "kana": "ちかく の みせ で みそ を みつけ た",
+    "romaji": "chikaku no mise de miso o mitsuke ta"
   },
   "jlpt-n4-地理-2746": {
-    "kana": "れいぶん で わ ちり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chiri ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ちり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chiri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-坂-2702": {
-    "kana": "のうと に さか を めいし として せいり し た",
-    "romaji": "nouto ni saka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で さか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-場合-2730": {
-    "kana": "じしょ で ばあい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de baai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ばあい について しばらく はなし た",
+    "romaji": "tomodachi to baai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-増える-2608": {
-    "kana": "れいぶん で わ ふえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa fueru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ふえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de fueru houhou o kangae ta"
   },
   "jlpt-n4-壁-2668": {
-    "kana": "れいぶん で わ かべ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kabe ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かべ について しばらく はなし た",
+    "romaji": "tomodachi to kabe nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-壊れる-2725": {
-    "kana": "れいぶん で わ こわれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kowareru ga ugoki ya henka o arawashi te iru"
+    "kana": "つよい かぜ で き が こわれる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga kowareru oto ga shi ta"
   },
   "jlpt-n4-変-2613": {
-    "kana": "のうと に へん を めいし として せいり し た",
-    "romaji": "nouto ni hen o meishi toshite seiri shi ta"
+    "kana": "へん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-変える-2580": {
-    "kana": "かえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kaeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に かえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-大体-2646": {
-    "kana": "じしょ で だいたい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de daitai toiu meishi no imi o kakunin shi ta"
+    "kana": "だいたい へんじ が とどい た ので あんしん し た",
+    "romaji": "daitai henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n4-大分-2641": {
-    "kana": "べつ の のうと で も おおいた の ようほう を かくにん し た",
-    "romaji": "betsu no nouto de mo ooita no youhou o kakunin shi ta"
+    "kana": "きょう わ だいぶ つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa daibu tsukare ta node hayame ni ne ta"
   },
   "jlpt-n4-大学生-2788": {
-    "kana": "のうと に だいがくせい を めいし として せいり し た",
-    "romaji": "nouto ni daigakusei o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる だいがくせい に こえ を かけ た",
+    "romaji": "koma te iru daigakusei ni koe o kake ta"
   },
   "jlpt-n4-失敗-2622": {
-    "kana": "じしょ で しっぱい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shippai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しっぱい について しばらく はなし た",
+    "romaji": "tomodachi to shippai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-妻-2778": {
-    "kana": "じしょ で つま という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tsuma toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と つま について しばらく はなし た",
+    "romaji": "tomodachi to tsuma nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-子-2721": {
-    "kana": "れいぶん で わ こ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ko ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる こ に こえ を かけ た",
+    "romaji": "koma te iru ko ni koe o kake ta"
   },
   "jlpt-n4-字-2636": {
-    "kana": "じしょ で じ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ji toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に じ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni ji o oi te kara dekake ta"
   },
   "jlpt-n4-季節-2610": {
-    "kana": "れいぶん で わ きせつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kisetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "きせつ に だいじ な よてい が はいっ て いる",
+    "romaji": "kisetsu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-安全-2816": {
-    "kana": "れいぶん で わ あんぜん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa anzen ga monogoto ya kangae o sashi te iru"
+    "kana": "あんぜん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "anzen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-家内-2783": {
-    "kana": "れいぶん で わ かない が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kanai ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる かない に こえ を かけ た",
+    "romaji": "koma te iru kanai ni koe o kake ta"
   },
   "jlpt-n4-寂しい-2751": {
-    "kana": "のうと に さびしい を めいし として せいり し た",
-    "romaji": "nouto ni sabishii o meishi toshite seiri shi ta"
+    "kana": "おもっ た より さびしい もんだい だっ た",
+    "romaji": "omo ta yori sabishii mondai da ta"
   },
   "jlpt-n4-寄る-2635": {
-    "kana": "よる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "yoru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え よる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e yoru yotei da"
   },
   "jlpt-n4-寺-2797": {
-    "kana": "れいぶん で わ てら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tera ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で てら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tera nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-小学校-2711": {
-    "kana": "じしょ で しょうがっこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shougakkou toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に しょうがっこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shougakkou e iku michi o shirabe ta"
   },
   "jlpt-n4-小説-2705": {
-    "kana": "れいぶん で わ しょうせつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shousetsu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の しょうせつ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shousetsu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-小鳥-2618": {
-    "kana": "じしょ で ことり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kotori toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の ぼくじょう で ことり を み た",
+    "romaji": "chikaku no bokujou de kotori o mi ta"
   },
   "jlpt-n4-届ける-2594": {
-    "kana": "れいぶん で わ とどける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa todokeru ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで とどける ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made todokeru hito o sagashi ta"
   },
   "jlpt-n4-屋上-2686": {
-    "kana": "れいぶん で わ おくじょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa okujou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おくじょう について しばらく はなし た",
+    "romaji": "tomodachi to okujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-工場-2774": {
-    "kana": "じしょ めも で も こうじょう の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo koujou no tsukaikata o seiri shi ta"
+    "kana": "かいぎ で こうじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-工業-2810": {
-    "kana": "れいぶん で わ こうぎょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kougyou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で こうぎょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kougyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-市-2735": {
-    "kana": "れいぶん で わ し が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と し について しばらく はなし た",
+    "romaji": "tomodachi to shi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-市民-2560": {
-    "kana": "のうと に しみん を めいし として せいり し た",
-    "romaji": "nouto ni shimin o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に しみん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shimin e iku michi o shirabe ta"
   },
   "jlpt-n4-布団-2785": {
-    "kana": "れいぶん で わ ふとん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa futon ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ふとん について しばらく はなし た",
+    "romaji": "tomodachi to futon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-建てる-2799": {
-    "kana": "たてる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tateru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち と たな を たてる けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o tateru keikaku o tate ta"
   },
   "jlpt-n4-引き出す-2793": {
-    "kana": "ひきだす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hikidasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひきだし から ふるい てがみ を ひきだす と なつかしく なっ た",
+    "romaji": "hikidashi kara furui tegami o hikidasu to natsukashiku na ta"
   },
   "jlpt-n4-役に立つ-2678": {
-    "kana": "せんせい わ やくにたつ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yakunitatsu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "かえりぎわ に やくにたつ と こえ を かけ た",
+    "romaji": "kaerigiwa ni yakunitatsu to koe o kake ta"
   },
   "jlpt-n4-彼-2777": {
-    "kana": "じしょ で かれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kare toiu meishi no imi o kakunin shi ta"
+    "kana": "かれ に みち を たずね た",
+    "romaji": "kare ni michi o tazune ta"
   },
   "jlpt-n4-彼ら-2634": {
-    "kana": "のうと に かれら を めいし として せいり し た",
-    "romaji": "nouto ni karera o meishi toshite seiri shi ta"
+    "kana": "かれら に みち を たずね た",
+    "romaji": "karera ni michi o tazune ta"
   },
   "jlpt-n4-御主人-2756": {
-    "kana": "のうと に ご しゅじん を めいし として せいり し た",
-    "romaji": "nouto ni go shujin o meishi toshite seiri shi ta"
+    "kana": "ともだち と ご しゅじん について しばらく はなし た",
+    "romaji": "tomodachi to go shujin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-復習-2566": {
-    "kana": "じしょ で ふくしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fukushuu toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な ふくしゅう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na fukushuu o asa no uchi ni atsume ta"
   },
   "jlpt-n4-怒る-2587": {
-    "kana": "ふくしゅう かあど で も おこる の いみ を かくにん し た",
-    "romaji": "fukushuu kaado de mo okoru no imi o kakunin shi ta"
+    "kana": "あんぜん に おこる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni okoru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-怖い-2555": {
-    "kana": "のうと に こわい を めいし として せいり し た",
-    "romaji": "nouto ni kowai o meishi toshite seiri shi ta"
+    "kana": "その せつめい わ すこし こわい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi kowai to kanji ta"
   },
   "jlpt-n4-思い出す-2713": {
-    "kana": "れいぶん で わ おもいだす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa omoidasu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に おもいだす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni omoidasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-思う-2625": {
-    "kana": "せんせい わ おもう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa omou o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で おもう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de omou houhou o kangae ta"
   },
   "jlpt-n4-急-2567": {
-    "kana": "のうと に きゅう を めいし として せいり し た",
-    "romaji": "nouto ni kyuu o meishi toshite seiri shi ta"
+    "kana": "きゅう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kyuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-恥ずかしい-2821": {
-    "kana": "じしょ で はずかしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hazukashii toiu meishi no imi o kakunin shi ta"
+    "kana": "その せつめい わ すこし はずかしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi hazukashii to kanji ta"
   },
   "jlpt-n4-悲しい-2720": {
-    "kana": "じしょ で かなしい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kanashii toiu meishi no imi o kakunin shi ta"
+    "kana": "かなしい ひ だっ た が さいご まで あるい た",
+    "romaji": "kanashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-意見-2731": {
-    "kana": "れいぶん で わ いけん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa iken ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いけん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no iken o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n4-戦争-2765": {
-    "kana": "れいぶん で わ せんそう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sensou ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で せんそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sensou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-手伝う-2574": {
-    "kana": "せんせい わ てつだう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tetsudau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で てつだう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tetsudau houhou o kangae ta"
   },
   "jlpt-n4-打つ-2822": {
-    "kana": "せんせい わ うつ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa utsu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で うつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de utsu houhou o kangae ta"
   },
   "jlpt-n4-払う-2745": {
-    "kana": "せんせい わ はらう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa harau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で はらう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de harau houhou o kangae ta"
   },
   "jlpt-n4-技術-2703": {
-    "kana": "れいぶん で わ ぎじゅつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa gijutsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぎじゅつ について しばらく はなし た",
+    "romaji": "tomodachi to gijutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-投げる-2579": {
-    "kana": "れいぶん で わ なげる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nageru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で なげる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nageru houhou o kangae ta"
   },
   "jlpt-n4-折る-2723": {
-    "kana": "せんせい わ おる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa oru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "がらす が おる おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga oru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n4-折れる-2575": {
-    "kana": "せんせい わ おれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa oreru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "がらす が おれる おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga oreru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n4-押し入れ-2660": {
-    "kana": "じしょ で おしいれ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de oshiire toiu meishi no imi o kakunin shi ta"
+    "kana": "へや の おしいれ を きれい に ととのえ た",
+    "romaji": "heya no oshiire o kirei ni totonoe ta"
   },
   "jlpt-n4-招待-2776": {
-    "kana": "せんせい わ しょうたい を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shoutai o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に しょうたい する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shoutai suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-指輪-2568": {
-    "kana": "れいぶん で わ ゆびわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yubiwa ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ゆびわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yubiwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-捕まえる-2727": {
-    "kana": "せんせい わ つかまえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsukamaeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に つかまえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsukamaeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-掛ける-2593": {
-    "kana": "かける わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "kakeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "うわぎ を かける ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o kakeru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n4-支度-2769": {
-    "kana": "れいぶん で わ したく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shitaku ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を したく する けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o shitaku suru keikaku o tate ta"
   },
   "jlpt-n4-故障-2554": {
-    "kana": "れいぶん で わ こしょう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa koshou ga ugoki ya henka o arawashi te iru"
+    "kana": "しんらい を こしょう する はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o koshou suru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n4-文学-2598": {
-    "kana": "れいぶん で わ ぶんがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bungaku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ぶんがく について しばらく はなし た",
+    "romaji": "tomodachi to bungaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-文法-2741": {
-    "kana": "のうと に ぶんぽう を めいし として せいり し た",
-    "romaji": "nouto ni bunpou o meishi toshite seiri shi ta"
+    "kana": "ともだち と ぶんぽう について しばらく はなし た",
+    "romaji": "tomodachi to bunpou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-日記-2643": {
-    "kana": "れいぶん で わ にっき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nikki ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で にっき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nikki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-明日-2794": {
-    "kana": "のうと に あした を めいし として せいり し た",
-    "romaji": "nouto ni ashita o meishi toshite seiri shi ta"
+    "kana": "あした わ はやめ に いえ を で た",
+    "romaji": "ashita wa hayame ni ie o de ta"
   },
   "jlpt-n4-星-2620": {
-    "kana": "れいぶん で わ ほし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hoshi ga monogoto ya kangae o sashi te iru"
+    "kana": "ほし が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "hoshi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n4-昼休み-2632": {
-    "kana": "じしょ で ひるやすみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hiruyasumi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ひるやすみ について しばらく はなし た",
+    "romaji": "tomodachi to hiruyasumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-昼間-2581": {
-    "kana": "れいぶん で わ ひるま が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hiruma ga monogoto ya kangae o sashi te iru"
+    "kana": "ひるま に だいじ な よてい が はいっ て いる",
+    "romaji": "hiruma ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-時代-2695": {
-    "kana": "のうと に じだい を めいし として せいり し た",
-    "romaji": "nouto ni jidai o meishi toshite seiri shi ta"
+    "kana": "ともだち と じだい について しばらく はなし た",
+    "romaji": "tomodachi to jidai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-景色-2642": {
-    "kana": "じしょ で けしき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keshiki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と けしき について しばらく はなし た",
+    "romaji": "tomodachi to keshiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-林-2710": {
-    "kana": "じしょ で はやし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hayashi toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な はやし を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na hayashi o asa no uchi ni atsume ta"
   },
   "jlpt-n4-枝-2786": {
-    "kana": "れいぶん で わ えだ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa eda ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で えだ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de eda nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-案内-2817": {
-    "kana": "れいぶん で わ あんない が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa annai ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に あんない する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni annai suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-棚-2818": {
-    "kana": "のうと に たな を めいし として せいり し た",
-    "romaji": "nouto ni tana o meishi toshite seiri shi ta"
+    "kana": "へや の たな を きれい に ととのえ た",
+    "romaji": "heya no tana o kirei ni totonoe ta"
   },
   "jlpt-n4-森-2734": {
-    "kana": "のうと に もり を めいし として せいり し た",
-    "romaji": "nouto ni mori o meishi toshite seiri shi ta"
+    "kana": "ともだち と もり について しばらく はなし た",
+    "romaji": "tomodachi to mori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-植える-2669": {
-    "kana": "れいぶん で わ うえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa ueru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で うえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de ueru houhou o kangae ta"
   },
   "jlpt-n4-楽む-2789": {
-    "kana": "らく む わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "raku mu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "きゅうじつ に ともだち と げえむ に らく む じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni raku mu jikan o tanoshin da"
   },
   "jlpt-n4-機会-2626": {
-    "kana": "れいぶん で わ きかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kikai ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きかい について しばらく はなし た",
+    "romaji": "tomodachi to kikai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-止む-2764": {
-    "kana": "れいぶん で わ やむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yamu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で やむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de yamu houhou o kangae ta"
   },
   "jlpt-n4-歯医者-2662": {
-    "kana": "じしょ で はいしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de haisha toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はいしゃ について しばらく はなし た",
+    "romaji": "tomodachi to haisha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-歴史-2813": {
-    "kana": "のうと に れきし を めいし として せいり し た",
-    "romaji": "nouto ni rekishi o meishi toshite seiri shi ta"
+    "kana": "ともだち と れきし について しばらく はなし た",
+    "romaji": "tomodachi to rekishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-残る-2604": {
-    "kana": "のこる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nokoru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に のこる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nokoru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-残念-2781": {
-    "kana": "れいぶん で わ ざんねん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa zannen ga monogoto ya kangae o sashi te iru"
+    "kana": "ざんねん な てん を さき に せつめい し た",
+    "romaji": "zannen na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-毛-2728": {
-    "kana": "じしょ で け という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ke toiu meishi no imi o kakunin shi ta"
+    "kana": "もう が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "mou ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n4-気分-2698": {
-    "kana": "じしょ で きぶん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kibun toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい きぶん を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kibun o oboe ta"
   },
   "jlpt-n4-気持ち-2712": {
-    "kana": "じしょ で きもち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kimochi toiu meishi no imi o kakunin shi ta"
+    "kana": "とつぜん の しらせ に つよい きもち を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kimochi o oboe ta"
   },
   "jlpt-n4-水泳-2571": {
-    "kana": "のうと に すいえい を めいし として せいり し た",
-    "romaji": "nouto ni suiei o meishi toshite seiri shi ta"
+    "kana": "ともだち と すいえい について しばらく はなし た",
+    "romaji": "tomodachi to suiei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-汚れる-2651": {
-    "kana": "せんせい わ よごれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa yogoreru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "はる に よごれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni yogoreru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n4-決める-2792": {
-    "kana": "せんせい わ きめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kimeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で きめる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de kimeru houhou o kangae ta"
   },
   "jlpt-n4-汽車-2623": {
-    "kana": "のうと に きしゃ を めいし として せいり し た",
-    "romaji": "nouto ni kisha o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kisha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-沸く-2771": {
-    "kana": "せんせい わ わく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa waku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ゆ が わく まで だいどころ で すこし まっ た",
+    "romaji": "yu ga waku made daidokoro de sukoshi ma ta"
   },
   "jlpt-n4-泊まる-2700": {
-    "kana": "れいぶん で わ とまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tomaru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え とまる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tomaru yotei da"
   },
   "jlpt-n4-法律-2671": {
-    "kana": "のうと に ほうりつ を めいし として せいり し た",
-    "romaji": "nouto ni houritsu o meishi toshite seiri shi ta"
+    "kana": "ともだち と ほうりつ について しばらく はなし た",
+    "romaji": "tomodachi to houritsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-泥棒-2688": {
-    "kana": "のうと に どろぼう を めいし として せいり し た",
-    "romaji": "nouto ni dorobou o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる どろぼう に こえ を かけ た",
+    "romaji": "koma te iru dorobou ni koe o kake ta"
   },
   "jlpt-n4-注射-2640": {
-    "kana": "じしょ で ちゅうしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chuusha toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ちゅうしゃ について しばらく はなし た",
+    "romaji": "tomodachi to chuusha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-注意-2656": {
-    "kana": "のうと に ちゅうい を めいし として せいり し た",
-    "romaji": "nouto ni chuui o meishi toshite seiri shi ta"
+    "kana": "ともだち と ちゅうい について しばらく はなし た",
+    "romaji": "tomodachi to chuui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-浅い-2690": {
-    "kana": "れいぶん で わ あさい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa asai ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし あさい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi asai to kanji ta"
   },
   "jlpt-n4-海岸-2590": {
-    "kana": "れいぶん で わ かいがん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kaigan ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と かいがん について しばらく はなし た",
+    "romaji": "tomodachi to kaigan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-消しゴム-2772": {
-    "kana": "れいぶん で わ けしごむ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa keshigomu ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と けしごむ について しばらく はなし た",
+    "romaji": "tomodachi to keshigomu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-深い-2709": {
-    "kana": "れいぶん で わ ふかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fukai ga monogoto ya kangae o sashi te iru"
+    "kana": "おもっ た より ふかい もんだい だっ た",
+    "romaji": "omo ta yori fukai mondai da ta"
   },
   "jlpt-n4-済む-2565": {
-    "kana": "すむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "さいご まで けいかく を すむ かくご を きめ た",
+    "romaji": "saigo made keikaku o sumu kakugo o kime ta"
   },
   "jlpt-n4-港-2673": {
-    "kana": "じしょ で みなと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de minato toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と みなと について しばらく はなし た",
+    "romaji": "tomodachi to minato nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-漫画-2814": {
-    "kana": "れいぶん で わ まんが が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa manga ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で まんが について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de manga nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-火事-2666": {
-    "kana": "のうと に かじ を めいし として せいり し た",
-    "romaji": "nouto ni kaji o meishi toshite seiri shi ta"
+    "kana": "かいぎ で かじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-点-2664": {
-    "kana": "じしょ で てん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ten toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と てん について しばらく はなし た",
+    "romaji": "tomodachi to ten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-為-2704": {
-    "kana": "じしょ で ため という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tame toiu meishi no imi o kakunin shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい ため を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai tame o ippai non da"
   },
   "jlpt-n4-無理-2658": {
-    "kana": "れいぶん で わ むり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa muri ga monogoto ya kangae o sashi te iru"
+    "kana": "むり な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "muri na atsukai o uke te kare wa sugu ni kougi shi ta"
   },
   "jlpt-n4-特に-2629": {
-    "kana": "とくに を いれる と ぶん の にゅあんす が かわる",
-    "romaji": "tokuni o ireru to bun no nyuansu ga kawaru"
+    "kana": "とくに この ぶぶん を ていねい に よん だ",
+    "romaji": "tokuni kono bubun o teinei ni yon da"
   },
   "jlpt-n4-特急-2696": {
-    "kana": "れいぶん で わ とっきゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tokkyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に とっきゅう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tokkyuu o oi te kara dekake ta"
   },
   "jlpt-n4-理由-2680": {
-    "kana": "じしょ で りゆう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de riyuu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と りゆう について しばらく はなし た",
+    "romaji": "tomodachi to riyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-生きる-2599": {
-    "kana": "いきる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ikiru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい どうぐ を いきる ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o ikiru bamen ga fue te iru"
   },
   "jlpt-n4-生産-2670": {
-    "kana": "れいぶん で わ せいさん が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa seisan ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち と たな を せいさん する けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o seisan suru keikaku o tate ta"
   },
   "jlpt-n4-用-2588": {
-    "kana": "のうと に よう を めいし として せいり し た",
-    "romaji": "nouto ni you o meishi toshite seiri shi ta"
+    "kana": "きょう の よう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no you wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-田舎-2796": {
-    "kana": "じしょ で いなか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de inaka toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と いなか について しばらく はなし た",
+    "romaji": "tomodachi to inaka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-申し上げる-2683": {
-    "kana": "れいぶん で わ もうしあげる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa moushiageru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で もうしあげる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de moushiageru houhou o kangae ta"
   },
   "jlpt-n4-申す-2621": {
-    "kana": "もうす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mousu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で もうす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mousu houhou o kangae ta"
   },
   "jlpt-n4-男性-2801": {
-    "kana": "のうと に だんせい を めいし として せいり し た",
-    "romaji": "nouto ni dansei o meishi toshite seiri shi ta"
+    "kana": "かいぎ で だんせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dansei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-留守-2714": {
-    "kana": "じしょ で るす という めいし の いみ を かくにん し た",
-    "romaji": "jisho de rusu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で るす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rusu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-番組-2726": {
-    "kana": "れいぶん で わ ばんぐみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa bangumi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ばんぐみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bangumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-痩せる-2685": {
-    "kana": "れいぶん で わ やせる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yaseru ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に やせる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni yaseru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n4-発音-2573": {
-    "kana": "れいぶん で わ はつおん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hatsuon ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で はつおん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hatsuon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-皆-2627": {
-    "kana": "のうと に みな を めいし として せいり し た",
-    "romaji": "nouto ni mina o meishi toshite seiri shi ta"
+    "kana": "みな に みち を たずね た",
+    "romaji": "mina ni michi o tazune ta"
   },
   "jlpt-n4-盗む-2701": {
-    "kana": "ぬすむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nusumu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "よる に ゆっくり ぬすむ じかん を つくっ た",
+    "romaji": "yoru ni yukkuri nusumu jikan o tsuku ta"
   },
   "jlpt-n4-盛ん-2767": {
-    "kana": "れいぶん で わ さかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sakan ga monogoto ya kangae o sashi te iru"
+    "kana": "さかん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sakan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-直す-2614": {
-    "kana": "せんせい わ なおす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa naosu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に なおす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni naosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-直る-2570": {
-    "kana": "せんせい わ なおる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa naoru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え なおる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e naoru yotei da"
   },
   "jlpt-n4-相談-2803": {
-    "kana": "せんせい わ そうだん を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa soudan o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あたらしい あん を そうだん する かいぎ が よる まで つづい た",
+    "romaji": "atarashii an o soudan suru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n4-看護婦-2761": {
-    "kana": "のうと に かんご ふ を めいし として せいり し た",
-    "romaji": "nouto ni kango fu o meishi toshite seiri shi ta"
+    "kana": "ともだち と かんご ふ について しばらく はなし た",
+    "romaji": "tomodachi to kango fu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-真中-2572": {
-    "kana": "じしょ で まんなか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mannaka toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と まんなか について しばらく はなし た",
+    "romaji": "tomodachi to mannaka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-眠る-2753": {
-    "kana": "れいぶん で わ ねむる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa nemuru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ねむる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nemuru houhou o kangae ta"
   },
   "jlpt-n4-着物-2733": {
-    "kana": "じしょ で きもの という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kimono toiu meishi no imi o kakunin shi ta"
+    "kana": "さむく なっ た ので きもの を はおっ た",
+    "romaji": "samuku na ta node kimono o hao ta"
   },
   "jlpt-n4-知らせる-2663": {
-    "kana": "れいぶん で わ しらせる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shiraseru ga ugoki ya henka o arawashi te iru"
+    "kana": "せんせい が しらせる ほん わ とても よみ やすい",
+    "romaji": "sensei ga shiraseru hon wa totemo yomi yasui"
   },
   "jlpt-n4-石-2779": {
-    "kana": "じしょ で いし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ishi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-砂-2653": {
-    "kana": "じしょ で すな という めいし の いみ を かくにん し た",
-    "romaji": "jisho de suna toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と すな が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to suna ga totemo kirei ni mie ta"
   },
   "jlpt-n4-研究-2758": {
-    "kana": "れいぶん で わ けんきゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kenkyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の けんきゅう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kenkyuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-研究室-2597": {
-    "kana": "じしょ で けんきゅう しつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kenkyuu shitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に けんきゅう しつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kenkyuu shitsu e iku michi o shirabe ta"
   },
   "jlpt-n4-社会-2770": {
-    "kana": "じしょ で しゃかい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shakai toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と しゃかい について しばらく はなし た",
+    "romaji": "tomodachi to shakai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-社長-2805": {
-    "kana": "じしょ で しゃちょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shachou toiu meishi no imi o kakunin shi ta"
+    "kana": "えきまえ の しゃちょう で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no shachou de atarashii shigoto ga hajima ta"
   },
   "jlpt-n4-祖母-2612": {
-    "kana": "じしょ で そぼ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de sobo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で そぼ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sobo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-祖父-2596": {
-    "kana": "のうと に そふ を めいし として せいり し た",
-    "romaji": "nouto ni sofu o meishi toshite seiri shi ta"
+    "kana": "ともだち と そふ について しばらく はなし た",
+    "romaji": "tomodachi to sofu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-神社-2582": {
-    "kana": "のうと に じんじゃ を めいし として せいり し た",
-    "romaji": "nouto ni jinja o meishi toshite seiri shi ta"
+    "kana": "かいぎ で じんじゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jinja nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-空気-2649": {
-    "kana": "のうと に くうき を めいし として せいり し た",
-    "romaji": "nouto ni kuuki o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい くうき を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kuuki o oboe ta"
   },
   "jlpt-n4-立てる-2812": {
-    "kana": "せんせい わ たてる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tateru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で たてる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tateru houhou o kangae ta"
   },
   "jlpt-n4-笑う-2654": {
-    "kana": "せんせい わ わらう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa warau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で わらう ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de warau houhou o kangae ta"
   },
   "jlpt-n4-簡単-2780": {
-    "kana": "のうと に かんたん を めいし として せいり し た",
-    "romaji": "nouto ni kantan o meishi toshite seiri shi ta"
+    "kana": "かんたん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kantan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-約束-2652": {
-    "kana": "れいぶん で わ やくそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yakusoku ga monogoto ya kangae o sashi te iru"
+    "kana": "かれ の いけん に やくそく し て ふかく うなずい た",
+    "romaji": "kare no iken ni yakusoku shi te fukaku unazui ta"
   },
   "jlpt-n4-紹介-2609": {
-    "kana": "のうと に しょうかい を めいし として せいり し た",
-    "romaji": "nouto ni shoukai o meishi toshite seiri shi ta"
+    "kana": "かいぎ で しょうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-終わり-2811": {
-    "kana": "れいぶん で わ おわり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa owari ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と おわり について しばらく はなし た",
+    "romaji": "tomodachi to owari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-経済-2591": {
-    "kana": "じしょ で けいざい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keizai toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で けいざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keizai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-経験-2806": {
-    "kana": "せんせい わ けいけん を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa keiken o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に けいけん する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni keiken suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-絹-2586": {
-    "kana": "れいぶん で わ きぬ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kinu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きぬ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-続く-2601": {
-    "kana": "れいぶん で わ つづく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsuzuku ga ugoki ya henka o arawashi te iru"
+    "kana": "がらす が つづく おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga tsuzuku oto ga shi te minna ga furimui ta"
   },
   "jlpt-n4-続ける-2715": {
-    "kana": "れいぶん で わ つづける が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsuzukeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に つづける ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tsuzukeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-美しい-2569": {
-    "kana": "うつくしい を な けいようし として のうと に まとめ た",
-    "romaji": "utsukushii o na keiyoushi toshite nouto ni matome ta"
+    "kana": "うつくしい ひ だっ た が さいご まで あるい た",
+    "romaji": "utsukushii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-聞こえる-2759": {
-    "kana": "せんせい わ きこえる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kikoeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "きこえる な てん を さき に せつめい し た",
+    "romaji": "kikoeru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-腕-2697": {
-    "kana": "れいぶん で わ うで が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ude ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うで について しばらく はなし た",
+    "romaji": "tomodachi to ude nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-致す-2589": {
-    "kana": "せんせい わ いたす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa itasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で いたす ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de itasu houhou o kangae ta"
   },
   "jlpt-n4-興味-2694": {
-    "kana": "のうと に きょうみ を めいし として せいり し た",
-    "romaji": "nouto ni kyoumi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で きょうみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyoumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-花見-2639": {
-    "kana": "のうと に はなみ を めいし として せいり し た",
-    "romaji": "nouto ni hanami o meishi toshite seiri shi ta"
+    "kana": "しりょう の はなみ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no hanami ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n4-苦い-2628": {
-    "kana": "れいぶん で わ にがい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nigai ga monogoto ya kangae o sashi te iru"
+    "kana": "その せつめい わ すこし にがい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi nigai to kanji ta"
   },
   "jlpt-n4-草-2716": {
-    "kana": "のうと に くさ を めいし として せいり し た",
-    "romaji": "nouto ni kusa o meishi toshite seiri shi ta"
+    "kana": "ともだち と くさ について しばらく はなし た",
+    "romaji": "tomodachi to kusa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-落る-2729": {
-    "kana": "れいぶん で わ 落 る が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa 落 ru ga ugoki ya henka o arawashi te iru"
+    "kana": "つよい かぜ で き が 落 る おと が し た",
+    "romaji": "tsuyoi kaze de ki ga 落 ru oto ga shi ta"
   },
   "jlpt-n4-葉-2631": {
-    "kana": "じしょ で は という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ha toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と は について しばらく はなし た",
+    "romaji": "tomodachi to ha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-虫-2611": {
-    "kana": "のうと に むし を めいし として せいり し た",
-    "romaji": "nouto ni mushi o meishi toshite seiri shi ta"
+    "kana": "ともだち と むし について しばらく はなし た",
+    "romaji": "tomodachi to mushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-血-2782": {
-    "kana": "れいぶん で わ ち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chi ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で ち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-表-2742": {
-    "kana": "じしょ で ひょう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hyou toiu meishi no imi o kakunin shi ta"
+    "kana": "ふうとう の ひょう に じゅうしょ を かい た",
+    "romaji": "fuutou no hyou ni juusho o kai ta"
   },
   "jlpt-n4-複雑-2752": {
-    "kana": "れいぶん で わ ふくざつ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa fukuzatsu ga monogoto ya kangae o sashi te iru"
+    "kana": "ふくざつ な てん を さき に せつめい し た",
+    "romaji": "fukuzatsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-西洋-2743": {
-    "kana": "じしょ で せいよう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de seiyou toiu meishi no imi o kakunin shi ta"
+    "kana": "せいよう の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "seiyou no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n4-見える-2682": {
-    "kana": "みえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mieru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で みえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mieru houhou o kangae ta"
   },
   "jlpt-n4-見つかる-2672": {
-    "kana": "せんせい わ みつかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mitsukaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で みつかる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mitsukaru houhou o kangae ta"
   },
   "jlpt-n4-見つける-2675": {
-    "kana": "せんせい わ みつける を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa mitsukeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え みつける よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e mitsukeru yotei da"
   },
   "jlpt-n4-規則-2585": {
-    "kana": "れいぶん で わ きそく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kisoku ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きそく について しばらく はなし た",
+    "romaji": "tomodachi to kisoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-親-2815": {
-    "kana": "れいぶん で わ おや が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa oya ga monogoto ya kangae o sashi te iru"
+    "kana": "しんらい できる おや に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru oya ni shuuri o tanon da"
   },
   "jlpt-n4-触る-2659": {
-    "kana": "さわる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "sawaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で さわる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de sawaru houhou o kangae ta"
   },
   "jlpt-n4-訪ねる-2562": {
-    "kana": "たずねる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tazuneru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え たずねる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tazuneru yotei da"
   },
   "jlpt-n4-訳-2807": {
-    "kana": "じしょ で わけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de wake toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で わけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-試合-2763": {
-    "kana": "れいぶん で わ しあい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shiai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で しあい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-試験-2784": {
-    "kana": "じしょ で しけん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shiken toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で しけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-調べる-2706": {
-    "kana": "せんせい わ しらべる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shiraberu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で しらべる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de shiraberu houhou o kangae ta"
   },
   "jlpt-n4-講堂-2739": {
-    "kana": "じしょ で こうどう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de koudou toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で こうどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koudou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-警察-2648": {
-    "kana": "じしょ で けいさつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de keisatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に けいさつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni keisatsu e iku michi o shirabe ta"
   },
   "jlpt-n4-赤ん坊-2750": {
-    "kana": "のうと に あかんぼう を めいし として せいり し た",
-    "romaji": "nouto ni akanbou o meishi toshite seiri shi ta"
+    "kana": "ともだち と あかんぼう について しばらく はなし た",
+    "romaji": "tomodachi to akanbou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-起す-2757": {
-    "kana": "れいぶん で わ おこす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa okosu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に おこす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni okosu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-趣味-2707": {
-    "kana": "れいぶん で わ しゅみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shumi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しゅみ について しばらく はなし た",
+    "romaji": "tomodachi to shumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-足す-2804": {
-    "kana": "たす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "かえりぎわ に たす と こえ を かけ た",
+    "romaji": "kaerigiwa ni tasu to koe o kake ta"
   },
   "jlpt-n4-足りる-2808": {
-    "kana": "せんせい わ たりる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tariru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で たりる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tariru houhou o kangae ta"
   },
   "jlpt-n4-踊る-2748": {
-    "kana": "れいぶん で わ おどる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa odoru ga ugoki ya henka o arawashi te iru"
+    "kana": "きゅうじつ に ともだち と げえむ に おどる じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni odoru jikan o tanoshin da"
   },
   "jlpt-n4-輸入-2692": {
-    "kana": "ゆにゅう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "yunyuu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で ゆにゅう する ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de yunyuu suru houhou o kangae ta"
   },
   "jlpt-n4-辞典-2676": {
-    "kana": "のうと に じてん を めいし として せいり し た",
-    "romaji": "nouto ni jiten o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に じてん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni jiten o oi te kara dekake ta"
   },
   "jlpt-n4-近所-2754": {
-    "kana": "れいぶん で わ きんじょ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kinjo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と きんじょ について しばらく はなし た",
+    "romaji": "tomodachi to kinjo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-途中-2717": {
-    "kana": "のうと に とちゅう を めいし として せいり し た",
-    "romaji": "nouto ni tochuu o meishi toshite seiri shi ta"
+    "kana": "ともだち と とちゅう について しばらく はなし た",
+    "romaji": "tomodachi to tochuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-通る-2732": {
-    "kana": "とおる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tooru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい どうぐ を とおる ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o tooru bamen ga fue te iru"
   },
   "jlpt-n4-連れる-2674": {
-    "kana": "れいぶん で わ つれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsureru ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで つれる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made tsureru hito o sagashi ta"
   },
   "jlpt-n4-運ぶ-2556": {
-    "kana": "れいぶん で わ はこぶ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hakobu ga ugoki ya henka o arawashi te iru"
+    "kana": "おもい にもつ を えき まで はこぶ ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made hakobu hito o sagashi ta"
   },
   "jlpt-n4-運動-2681": {
-    "kana": "れいぶん で わ うんどう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa undou ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に うんどう する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni undou suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-運転-2722": {
-    "kana": "うんてん わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "unten wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あたらしい どうぐ を うんてん する ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o unten suru bamen ga fue te iru"
   },
   "jlpt-n4-運転手-2708": {
-    "kana": "じしょ で うんてん しゅ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de unten shu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で うんてん しゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de unten shu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-遠く-2790": {
-    "kana": "とおく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tooku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で とおく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tooku houhou o kangae ta"
   },
   "jlpt-n4-遠慮-2773": {
-    "kana": "えんりょ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "enryo wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で えんりょ する ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de enryo suru houhou o kangae ta"
   },
   "jlpt-n4-適当-2595": {
-    "kana": "じしょ で てきとう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tekitou toiu meishi no imi o kakunin shi ta"
+    "kana": "てきとう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "tekitou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-釣る-2798": {
-    "kana": "せんせい わ つる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsuru houhou o kangae ta"
   },
   "jlpt-n4-間-2820": {
-    "kana": "のうと に ま を めいし として せいり し た",
-    "romaji": "nouto ni ma o meishi toshite seiri shi ta"
+    "kana": "ま に だいじ な よてい が はいっ て いる",
+    "romaji": "ma ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-間違える-2760": {
-    "kana": "れいぶん で わ まちがえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa machigaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で まちがえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de machigaeru houhou o kangae ta"
   },
   "jlpt-n4-降り出す-2766": {
-    "kana": "せんせい わ ふりだす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa furidasu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ふりだす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni furidasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-集る-2645": {
-    "kana": "せんせい わ たかる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa takaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で たかる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de takaru houhou o kangae ta"
   },
   "jlpt-n4-雲-2553": {
-    "kana": "じしょ で くも という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kumo toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と くも が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kumo ga totemo kirei ni mie ta"
   },
   "jlpt-n4-電報-2619": {
-    "kana": "れいぶん で わ でんぽう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa denpou ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と でんぽう について しばらく はなし た",
+    "romaji": "tomodachi to denpou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-非常に-2740": {
-    "kana": "ひじょう に わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "hijou ni wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "きょう わ ひじょう に つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa hijou ni tsukare ta node hayame ni ne ta"
   },
   "jlpt-n4-食事-2616": {
-    "kana": "せんせい わ しょくじ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa shokuji o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に しょくじ する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shokuji suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n4-食料品-2583": {
-    "kana": "れいぶん で わ しょくりょう ひん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shokuryou hin ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と しょくりょう ひん について しばらく はなし た",
+    "romaji": "tomodachi to shokuryou hin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-首-2559": {
-    "kana": "れいぶん で わ くび が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kubi ga monogoto ya kangae o sashi te iru"
+    "kana": "くび が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "kubi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n4-高等学校-2577": {
-    "kana": "のうと に こうとう がっこう を めいし として せいり し た",
-    "romaji": "nouto ni koutou gakkou o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に こうとう がっこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni koutou gakkou e iku michi o shirabe ta"
   },
   "jlpt-n5-お手洗い-3015": {
-    "kana": "れいぶん で わ お てあらい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o tearai ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に お てあらい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni o tearai e iku michi o shirabe ta"
   },
   "jlpt-n5-お父さん-2936": {
-    "kana": "じしょ で おとうさん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de otousan toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と おとうさん について しばらく はなし た",
+    "romaji": "tomodachi to otousan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-お皿-2883": {
-    "kana": "れいぶん で わ お さら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o sara ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で お さら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o sara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-お茶-2828": {
-    "kana": "のうと に おちゃ を めいし として せいり し た",
-    "romaji": "nouto ni ocha o meishi toshite seiri shi ta"
+    "kana": "きゅうけい ちゅう に あたたかい おちゃ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai ocha o ippai non da"
   },
   "jlpt-n5-お菓子-3036": {
-    "kana": "じしょ で おかし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de okashi toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に おかし を すこし たべ た",
+    "romaji": "hiru gohan ni okashi o sukoshi tabe ta"
   },
   "jlpt-n5-お酒-3038": {
-    "kana": "れいぶん で わ お さけ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa o sake ga monogoto ya kangae o sashi te iru"
+    "kana": "きゅうけい ちゅう に あたたかい お さけ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai o sake o ippai non da"
   },
   "jlpt-n5-お風呂-2885": {
-    "kana": "じしょ で お ふろ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de o furo toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で お ふろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o furo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-さ来年-2974": {
-    "kana": "のうと に さ らいねん を めいし として せいり し た",
-    "romaji": "nouto ni sa rainen o meishi toshite seiri shi ta"
+    "kana": "さ らいねん に だいじ な よてい が はいっ て いる",
+    "romaji": "sa rainen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-とり肉-3099": {
-    "kana": "じしょ で とり にく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tori niku toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん にとり にく を すこし たべ た",
+    "romaji": "hiru gohan nitori niku o sukoshi tabe ta"
   },
   "jlpt-n5-一つ-2946": {
-    "kana": "ひとつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hitotsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ひとつ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hitotsu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-一人-3075": {
-    "kana": "れいぶん で わ いち にん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ichi nin ga monogoto ya kangae o sashi te iru"
+    "kana": "いち にん で えいが を み に いっ た",
+    "romaji": "ichi nin de eiga o mi ni i ta"
   },
   "jlpt-n5-一日-2961": {
-    "kana": "のうと に いち にち を めいし として せいり し た",
-    "romaji": "nouto ni ichi nichi o meishi toshite seiri shi ta"
+    "kana": "いち にち かけ て へや を かたづけ た",
+    "romaji": "ichi nichi kake te heya o katazuke ta"
   },
   "jlpt-n5-一昨年-3002": {
-    "kana": "ふくしゅう かあど で も いっさくねん の いみ を かくにん し た",
-    "romaji": "fukushuu kaado de mo issakunen no imi o kakunin shi ta"
+    "kana": "いっさくねん の りょこう を いま でも おぼえ て いる",
+    "romaji": "issakunen no ryokou o ima demo oboe te iru"
   },
   "jlpt-n5-一昨日-3054": {
-    "kana": "じしょ めも で も おととい の つかいかた を せいり し た",
-    "romaji": "jisho memo de mo ototoi no tsukaikata o seiri shi ta"
+    "kana": "おととい かっ た ほん を よみ おえ た",
+    "romaji": "ototoi ka ta hon o yomi oe ta"
   },
   "jlpt-n5-一月-2843": {
-    "kana": "じしょ で いちがつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ichigatsu toiu meishi no imi o kakunin shi ta"
+    "kana": "いちがつ に だいじ な よてい が はいっ て いる",
+    "romaji": "ichigatsu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-一緒-2994": {
-    "kana": "のうと に いっしょ を めいし として せいり し た",
-    "romaji": "nouto ni issho o meishi toshite seiri shi ta"
+    "kana": "ともだち と いっしょ について しばらく はなし た",
+    "romaji": "tomodachi to issho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-七-2999": {
-    "kana": "じしょ で なな という めいし の いみ を かくにん し た",
-    "romaji": "jisho de nana toiu meishi no imi o kakunin shi ta"
+    "kana": "なな の はこ を たな に きれい に ならべ た",
+    "romaji": "nana no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-七つ-2858": {
-    "kana": "ななつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nanatsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に ななつ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nanatsu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-万年筆-2926": {
-    "kana": "じしょ で まんねんひつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de mannenhitsu toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で まんねんひつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mannenhitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-三つ-3081": {
-    "kana": "みっつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mittsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で みっつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de mittsu houhou o kangae ta"
   },
   "jlpt-n5-上-3065": {
-    "kana": "のうと に うえ を めいし として せいり し た",
-    "romaji": "nouto ni ue o meishi toshite seiri shi ta"
+    "kana": "やまのうえ から まち ぜんたい が みえ た",
+    "romaji": "yamanoue kara machi zentai ga mie ta"
   },
   "jlpt-n5-上げる-2964": {
-    "kana": "あげる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "ageru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に あげる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni ageru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-上手-3077": {
-    "kana": "じょうず を な けいようし として のうと に まとめ た",
-    "romaji": "jouzu o na keiyoushi toshite nouto ni matome ta"
+    "kana": "じょうず な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "jouzu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-上着-3008": {
-    "kana": "じしょ で うわぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de uwagi toiu meishi no imi o kakunin shi ta"
+    "kana": "さむく なっ た ので うわぎ を はおっ た",
+    "romaji": "samuku na ta node uwagi o hao ta"
   },
   "jlpt-n5-下-3088": {
-    "kana": "のうと に した を めいし として せいり し た",
-    "romaji": "nouto ni shita o meishi toshite seiri shi ta"
+    "kana": "つくえ の した に かぎ が おち て い た",
+    "romaji": "tsukue no shita ni kagi ga ochi te i ta"
   },
   "jlpt-n5-下手-2904": {
-    "kana": "れいぶん で わ へた が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa heta ga joutai ya seishitsu o arawashi te iru"
+    "kana": "へた な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "heta na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-両親-2933": {
-    "kana": "れいぶん で わ りょうしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ryoushin ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で りょうしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryoushin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-並ぶ-2838": {
-    "kana": "せんせい わ ならぶ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa narabu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "よてい が ならぶ ひ を えらん で みんな で あつまっ た",
+    "romaji": "yotei ga narabu hi o eran de minna de atsuma ta"
   },
   "jlpt-n5-中-2855": {
-    "kana": "じしょ で なか という めいし の いみ を かくにん し た",
-    "romaji": "jisho de naka toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で なか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de naka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-乗る-3095": {
-    "kana": "せんせい わ のる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa noru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で のる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de noru houhou o kangae ta"
   },
   "jlpt-n5-九-2847": {
-    "kana": "れいぶん で わ きゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyuu ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で きゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-二つ-3089": {
-    "kana": "れいぶん で わ ふたつ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa futatsu ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で ふたつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de futatsu houhou o kangae ta"
   },
   "jlpt-n5-二十日-3056": {
-    "kana": "じしょ で に じゅう にち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ni juu nichi toiu meishi no imi o kakunin shi ta"
+    "kana": "に じゅう にち に だいじ な よてい が はいっ て いる",
+    "romaji": "ni juu nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-二日-3044": {
-    "kana": "じしょ で に にち という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ni nichi toiu meishi no imi o kakunin shi ta"
+    "kana": "に にち に だいじ な よてい が はいっ て いる",
+    "romaji": "ni nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-五-3066": {
-    "kana": "れいぶん で わ ご が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa go ga monogoto ya kangae o sashi te iru"
+    "kana": "ご の はこ を たな に きれい に ならべ た",
+    "romaji": "go no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-五つ-2914": {
-    "kana": "せんせい わ いつつ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa itsutsu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で いつつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de itsutsu houhou o kangae ta"
   },
   "jlpt-n5-五日-3019": {
-    "kana": "のうと に ご にち を めいし として せいり し た",
-    "romaji": "nouto ni go nichi o meishi toshite seiri shi ta"
+    "kana": "ご にち に だいじ な よてい が はいっ て いる",
+    "romaji": "go nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-人-2937": {
-    "kana": "れいぶん で わ ひと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hito ga monogoto ya kangae o sashi te iru"
+    "kana": "えき の まえ に おおく の ひと が あつまっ た",
+    "romaji": "eki no mae ni ooku no hito ga atsuma ta"
   },
   "jlpt-n5-今年-2907": {
-    "kana": "のうと に ことし を めいし として せいり し た",
-    "romaji": "nouto ni kotoshi o meishi toshite seiri shi ta"
+    "kana": "ことし に だいじ な よてい が はいっ て いる",
+    "romaji": "kotoshi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-今日-3001": {
-    "kana": "れいぶん で わ きょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyou ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう わ ともだち と えき で あっ た",
+    "romaji": "kyou wa tomodachi to eki de a ta"
   },
   "jlpt-n5-今晩-3030": {
-    "kana": "れいぶん で わ こんばん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa konban ga monogoto ya kangae o sashi te iru"
+    "kana": "こんばん に だいじ な よてい が はいっ て いる",
+    "romaji": "konban ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-今朝-2991": {
-    "kana": "じしょ で けさ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kesa toiu meishi no imi o kakunin shi ta"
+    "kana": "けさ に だいじ な よてい が はいっ て いる",
+    "romaji": "kesa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-今週-3069": {
-    "kana": "のうと に こんしゅう を めいし として せいり し た",
-    "romaji": "nouto ni konshuu o meishi toshite seiri shi ta"
+    "kana": "こんしゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "konshuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-仕事-2981": {
-    "kana": "じしょ で しごと という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shigoto toiu meishi no imi o kakunin shi ta"
+    "kana": "きょう の しごと わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shigoto wa omo ta yori hayaku owa ta"
   },
   "jlpt-n5-休み-2939": {
-    "kana": "じしょ で やすみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yasumi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で やすみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yasumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-会う-3017": {
-    "kana": "れいぶん で わ あう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa au ga ugoki ya henka o arawashi te iru"
+    "kana": "よる に ゆっくり あう じかん を つくっ た",
+    "romaji": "yoru ni yukkuri au jikan o tsuku ta"
   },
   "jlpt-n5-会社-2921": {
-    "kana": "のうと に かいしゃ を めいし として せいり し た",
-    "romaji": "nouto ni kaisha o meishi toshite seiri shi ta"
+    "kana": "えきまえ の かいしゃ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no kaisha de atarashii shigoto ga hajima ta"
   },
   "jlpt-n5-低い-2960": {
-    "kana": "この ぶん で わ ひくい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa hikui ga hito ya mono no yousu o arawashi te iru"
+    "kana": "ひくい みち を ゆっくり あるい た",
+    "romaji": "hikui michi o yukkuri arui ta"
   },
   "jlpt-n5-住む-3012": {
-    "kana": "れいぶん で わ すむ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sumu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に すむ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sumu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-体-3043": {
-    "kana": "れいぶん で わ からだ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa karada ga monogoto ya kangae o sashi te iru"
+    "kana": "からだ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "karada ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-何-2874": {
-    "kana": "のうと に なに を めいし として せいり し た",
-    "romaji": "nouto ni nani o meishi toshite seiri shi ta"
+    "kana": "なに わ しずか に うなずい た",
+    "romaji": "nani wa shizuka ni unazui ta"
   },
   "jlpt-n5-作る-2916": {
-    "kana": "せんせい わ つくる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsukuru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ゆうはん に かれえ を つくる よてい だ",
+    "romaji": "yuuhan ni karee o tsukuru yotei da"
   },
   "jlpt-n5-作文-2850": {
-    "kana": "のうと に さくぶん を めいし として せいり し た",
-    "romaji": "nouto ni sakubun o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と さくぶん を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to sakubun o mi ni i ta"
   },
   "jlpt-n5-便利-2851": {
-    "kana": "れいぶん で わ べんり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa benri ga monogoto ya kangae o sashi te iru"
+    "kana": "べんり な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "benri na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-借りる-3005": {
-    "kana": "れいぶん で わ かりる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kariru ga ugoki ya henka o arawashi te iru"
+    "kana": "あたらしい どうぐ を かりる ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o kariru bamen ga fue te iru"
   },
   "jlpt-n5-傘-2892": {
-    "kana": "のうと に かさ を めいし として せいり し た",
-    "romaji": "nouto ni kasa o meishi toshite seiri shi ta"
+    "kana": "かさ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kasa na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-元気-2996": {
-    "kana": "げんき わ めいし の まえ で げんき な の かたち で も つかう",
-    "romaji": "genki wa meishi no mae de genki na no katachi de mo tsukau"
+    "kana": "げんき な まち を ゆっくり あるい た",
+    "romaji": "genki na machi o yukkuri arui ta"
   },
   "jlpt-n5-先週-3032": {
-    "kana": "のうと に せんしゅう を めいし として せいり し た",
-    "romaji": "nouto ni senshuu o meishi toshite seiri shi ta"
+    "kana": "せんしゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "senshuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-入る-2977": {
-    "kana": "せんせい わ はいる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hairu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え はいる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hairu yotei da"
   },
   "jlpt-n5-八-3052": {
-    "kana": "れいぶん で わ はち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hachi ga monogoto ya kangae o sashi te iru"
+    "kana": "はち の はこ を たな に きれい に ならべ た",
+    "romaji": "hachi no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-八百屋-3092": {
-    "kana": "じしょ で やおや という めいし の いみ を かくにん し た",
-    "romaji": "jisho de yaoya toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に やおや を すこし たべ た",
+    "romaji": "hiru gohan ni yaoya o sukoshi tabe ta"
   },
   "jlpt-n5-公園-3004": {
-    "kana": "れいぶん で わ こうえん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kouen ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に こうえん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kouen e iku michi o shirabe ta"
   },
   "jlpt-n5-六-2906": {
-    "kana": "のうと に ろく を めいし として せいり し た",
-    "romaji": "nouto ni roku o meishi toshite seiri shi ta"
+    "kana": "ともだち と ろく について しばらく はなし た",
+    "romaji": "tomodachi to roku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-六日-2861": {
-    "kana": "れいぶん で わ ろく にち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa roku nichi ga monogoto ya kangae o sashi te iru"
+    "kana": "ろく にち に だいじ な よてい が はいっ て いる",
+    "romaji": "roku nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-写真-3016": {
-    "kana": "れいぶん で わ しゃしん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa shashin ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に しゃしん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shashin o oi te kara dekake ta"
   },
   "jlpt-n5-冬-3047": {
-    "kana": "じしょ で ふゆ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de fuyu toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と ふゆ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to fuyu ga totemo kirei ni mie ta"
   },
   "jlpt-n5-冷蔵庫-2866": {
-    "kana": "のうと に れいぞうこ を めいし として せいり し た",
-    "romaji": "nouto ni reizouko o meishi toshite seiri shi ta"
+    "kana": "ともだち と れいぞうこ について しばらく はなし た",
+    "romaji": "tomodachi to reizouko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-出す-2966": {
-    "kana": "だす わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "dasu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に だす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni dasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-分かる-2870": {
-    "kana": "わかる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "wakaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "よる に ゆっくり わかる じかん を つくっ た",
+    "romaji": "yoru ni yukkuri wakaru jikan o tsuku ta"
   },
   "jlpt-n5-切符-3041": {
-    "kana": "のうと に きっぷ を めいし として せいり し た",
-    "romaji": "nouto ni kippu o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に きっぷ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni kippu o oi te kara dekake ta"
   },
   "jlpt-n5-初めて-2908": {
-    "kana": "のうと に はじめて を めいし として せいり し た",
-    "romaji": "nouto ni hajimete o meishi toshite seiri shi ta"
+    "kana": "はじめて よてい を へんこう し た",
+    "romaji": "hajimete yotei o henkou shi ta"
   },
   "jlpt-n5-動物-3040": {
-    "kana": "じしょ で どうぶつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de doubutsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ちかく の ぼくじょう で どうぶつ を み た",
+    "romaji": "chikaku no bokujou de doubutsu o mi ta"
   },
   "jlpt-n5-勤める-2894": {
-    "kana": "せんせい わ つとめる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsutomeru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を つとめる かくご を きめ た",
+    "romaji": "saigo made keikaku o tsutomeru kakugo o kime ta"
   },
   "jlpt-n5-医者-2998": {
-    "kana": "じしょ で いしゃ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de isha toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる いしゃ に こえ を かけ た",
+    "romaji": "koma te iru isha ni koe o kake ta"
   },
   "jlpt-n5-十-2854": {
-    "kana": "れいぶん で わ じゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juu ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に じゅう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni juu o oi te kara dekake ta"
   },
   "jlpt-n5-十日-3067": {
-    "kana": "れいぶん で わ じゅう にち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa juu nichi ga monogoto ya kangae o sashi te iru"
+    "kana": "じゅう にち に だいじ な よてい が はいっ て いる",
+    "romaji": "juu nichi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-千-3097": {
-    "kana": "れいぶん で わ せん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sen ga monogoto ya kangae o sashi te iru"
+    "kana": "せん の はこ を たな に きれい に ならべ た",
+    "romaji": "sen no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-午後-3059": {
-    "kana": "のうと に ごご を めいし として せいり し た",
-    "romaji": "nouto ni gogo o meishi toshite seiri shi ta"
+    "kana": "ごご に だいじ な よてい が はいっ て いる",
+    "romaji": "gogo ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-南-3018": {
-    "kana": "じしょ で みなみ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de minami toiu meishi no imi o kakunin shi ta"
+    "kana": "みなみ の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "minami no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n5-危ない-2869": {
-    "kana": "れいぶん で わ あぶない が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa abunai ga monogoto ya kangae o sashi te iru"
+    "kana": "あぶない ひ だっ た が さいご まで あるい た",
+    "romaji": "abunai hi da ta ga saigo made arui ta"
   },
   "jlpt-n5-卵-2959": {
-    "kana": "れいぶん で わ たまご が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tamago ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に たまご を すこし たべ た",
+    "romaji": "hiru gohan ni tamago o sukoshi tabe ta"
   },
   "jlpt-n5-厚い-2875": {
-    "kana": "あつい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "atsui o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "おもっ た より あつい もんだい だっ た",
+    "romaji": "omo ta yori atsui mondai da ta"
   },
   "jlpt-n5-去年-3093": {
-    "kana": "れいぶん で わ きょねん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kyonen ga monogoto ya kangae o sashi te iru"
+    "kana": "きょねん に だいじ な よてい が はいっ て いる",
+    "romaji": "kyonen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-取る-2846": {
-    "kana": "れいぶん で わ とる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa toru ga ugoki ya henka o arawashi te iru"
+    "kana": "ひつよう な ばめん で とる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de toru houhou o kangae ta"
   },
   "jlpt-n5-口-3006": {
-    "kana": "れいぶん で わ くち が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kuchi ga monogoto ya kangae o sashi te iru"
+    "kana": "くち が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "kuchi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-台所-2830": {
-    "kana": "のうと に だいどころ を めいし として せいり し た",
-    "romaji": "nouto ni daidokoro o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に だいどころ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni daidokoro e iku michi o shirabe ta"
   },
   "jlpt-n5-右-2852": {
-    "kana": "じしょ で みぎ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de migi toiu meishi no imi o kakunin shi ta"
+    "kana": "みぎ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "migi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-向こう-3076": {
-    "kana": "むこう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "mukou wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に むこ う ため に さき に じゅんび を し た",
+    "romaji": "anzen ni muko u tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-吸う-3082": {
-    "kana": "れいぶん で わ すう が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa suu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に すう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni suu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-吹く-3049": {
-    "kana": "れいぶん で わ ふく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa fuku ga ugoki ya henka o arawashi te iru"
+    "kana": "きゅうじつ に ともだち と げえむ に ふく じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni fuku jikan o tanoshin da"
   },
   "jlpt-n5-呼ぶ-3042": {
-    "kana": "れいぶん で わ よぶ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa yobu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に よぶ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni yobu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-咲く-2969": {
-    "kana": "せんせい わ さく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa saku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に さく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni saku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-問題-2827": {
-    "kana": "れいぶん で わ もんだい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mondai ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で もんだい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mondai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-四-2976": {
-    "kana": "のうと に よん を めいし として せいり し た",
-    "romaji": "nouto ni yon o meishi toshite seiri shi ta"
+    "kana": "よん の はこ を たな に きれい に ならべ た",
+    "romaji": "yon no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-困る-2942": {
-    "kana": "こまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "komaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で こまる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de komaru houhou o kangae ta"
   },
   "jlpt-n5-国-2990": {
-    "kana": "れいぶん で わ くに が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kuni ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に くに え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kuni e iku michi o shirabe ta"
   },
   "jlpt-n5-地下鉄-2923": {
-    "kana": "じしょ で ちかてつ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de chikatetsu toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と ちかてつ について しばらく はなし た",
+    "romaji": "tomodachi to chikatetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-地図-3091": {
-    "kana": "れいぶん で わ ちず が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chizu ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に ちず を おい て から でかけ た",
+    "romaji": "tsukue no ue ni chizu o oi te kara dekake ta"
   },
   "jlpt-n5-塩-3031": {
-    "kana": "じしょ で しお という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shio toiu meishi no imi o kakunin shi ta"
+    "kana": "しりょう の しお に すうじ を まとめ た",
+    "romaji": "shiryou no shio ni suuji o matome ta"
   },
   "jlpt-n5-声-2930": {
-    "kana": "のうと に こえ を めいし として せいり し た",
-    "romaji": "nouto ni koe o meishi toshite seiri shi ta"
+    "kana": "かれ の こえ を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no koe o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n5-売る-2836": {
-    "kana": "せんせい わ うる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa uru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で うる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de uru houhou o kangae ta"
   },
   "jlpt-n5-夏-3029": {
-    "kana": "のうと に なつ を めいし として せいり し た",
-    "romaji": "nouto ni natsu o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と なつ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to natsu ga totemo kirei ni mie ta"
   },
   "jlpt-n5-夕方-2928": {
-    "kana": "れいぶん で わ ゆうがた が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yuugata ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に だいじ な よてい が はいっ て いる",
+    "romaji": "yuugata ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-夕飯-2993": {
-    "kana": "のうと に ゆうはん を めいし として せいり し た",
-    "romaji": "nouto ni yuuhan o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に ゆうはん を すこし たべ た",
+    "romaji": "hiru gohan ni yuuhan o sukoshi tabe ta"
   },
   "jlpt-n5-外国-2979": {
-    "kana": "じしょ で がいこく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gaikoku toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に がいこく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gaikoku e iku michi o shirabe ta"
   },
   "jlpt-n5-多い-3039": {
-    "kana": "のうと に おおい を めいし として せいり し た",
-    "romaji": "nouto ni ooi o meishi toshite seiri shi ta"
+    "kana": "おおい はこ を たな の うえ に おい た",
+    "romaji": "ooi hako o tana no ue ni oi ta"
   },
   "jlpt-n5-大きな-2900": {
-    "kana": "じしょ で おおきな という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ookina toiu meishi no imi o kakunin shi ta"
+    "kana": "おおきな みせ わ えき の ちかく に ある",
+    "romaji": "ookina mise wa eki no chikaku ni aru"
   },
   "jlpt-n5-大人-3045": {
-    "kana": "のうと に おとな を めいし として せいり し た",
-    "romaji": "nouto ni otona o meishi toshite seiri shi ta"
+    "kana": "おとな な てん を さき に せつめい し た",
+    "romaji": "otona na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-大使館-3063": {
-    "kana": "れいぶん で わ たいしかん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa taishikan ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に たいしかん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni taishikan e iku michi o shirabe ta"
   },
   "jlpt-n5-大切-3084": {
-    "kana": "たいせつ を な けいようし として のうと に まとめ た",
-    "romaji": "taisetsu o na keiyoushi toshite nouto ni matome ta"
+    "kana": "たいせつ な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "taisetsu na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n5-大好き-3027": {
-    "kana": "れいぶん で わ だいすき が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa daisuki ga ugoki ya henka o arawashi te iru"
+    "kana": "だいすき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "daisuki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-大学-2919": {
-    "kana": "れいぶん で わ だいがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa daigaku ga monogoto ya kangae o sashi te iru"
+    "kana": "だいがく の はこ を たな に きれい に ならべ た",
+    "romaji": "daigaku no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-天気-2997": {
-    "kana": "れいぶん で わ てんき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tenki ga monogoto ya kangae o sashi te iru"
+    "kana": "ゆうがた に なる と てんき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to tenki ga totemo kirei ni mie ta"
   },
   "jlpt-n5-奥さん-2849": {
-    "kana": "れいぶん で わ おくさん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa okusan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で おくさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de okusan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-好き-2934": {
-    "kana": "れいぶん で わ すき が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa suki ga joutai ya seishitsu o arawashi te iru"
+    "kana": "すき な てん を さき に せつめい し た",
+    "romaji": "suki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-妹-3028": {
-    "kana": "れいぶん で わ いもうと が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa imouto ga monogoto ya kangae o sashi te iru"
+    "kana": "こまっ て いる いもうと に こえ を かけ た",
+    "romaji": "koma te iru imouto ni koe o kake ta"
   },
   "jlpt-n5-始まる-2941": {
-    "kana": "れいぶん で わ はじまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa hajimaru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に はじまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni hajimaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-学校-2975": {
-    "kana": "じしょ で がっこう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gakkou toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に がっこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gakkou e iku michi o shirabe ta"
   },
   "jlpt-n5-学生-3085": {
-    "kana": "じしょ で がくせい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de gakusei toiu meishi no imi o kakunin shi ta"
+    "kana": "こまっ て いる がくせい に こえ を かけ た",
+    "romaji": "koma te iru gakusei ni koe o kake ta"
   },
   "jlpt-n5-安い-2895": {
-    "kana": "れいぶん で わ やすい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa yasui ga monogoto ya kangae o sashi te iru"
+    "kana": "おもっ た より やすい もんだい だっ た",
+    "romaji": "omo ta yori yasui mondai da ta"
   },
   "jlpt-n5-家-2842": {
-    "kana": "じしょ で いえ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ie toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で いえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ie nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-家族-2903": {
-    "kana": "のうと に かぞく を めいし として せいり し た",
-    "romaji": "nouto ni kazoku o meishi toshite seiri shi ta"
+    "kana": "ともだち と かぞく について しばらく はなし た",
+    "romaji": "tomodachi to kazoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-寒い-2853": {
-    "kana": "さむい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "samui o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "きょう わ とても さむい ので みず を おおめ に のん だ",
+    "romaji": "kyou wa totemo samui node mizu o oome ni non da"
   },
   "jlpt-n5-小さい-3068": {
-    "kana": "この ぶん で わ ちいさい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa chiisai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "ちいさい はこ を たな の うえ に おい た",
+    "romaji": "chiisai hako o tana no ue ni oi ta"
   },
   "jlpt-n5-小さな-2962": {
-    "kana": "のうと に ちいさな を めいし として せいり し た",
-    "romaji": "nouto ni chiisana o meishi toshite seiri shi ta"
+    "kana": "ちいさな みせ わ えき の ちかく に ある",
+    "romaji": "chiisana mise wa eki no chikaku ni aru"
   },
   "jlpt-n5-少し-2918": {
-    "kana": "れいぶん で わ すこし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa sukoshi ga monogoto ya kangae o sashi te iru"
+    "kana": "すこし よてい を へんこう し た",
+    "romaji": "sukoshi yotei o henkou shi ta"
   },
   "jlpt-n5-山-2970": {
-    "kana": "のうと に やま を めいし として せいり し た",
-    "romaji": "nouto ni yama o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と やま が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to yama ga totemo kirei ni mie ta"
   },
   "jlpt-n5-差す-2897": {
-    "kana": "れいぶん で わ さす が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa sasu ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に さす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni sasu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-帰る-2958": {
-    "kana": "れいぶん で わ かえる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kaeru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え かえる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e kaeru yotei da"
   },
   "jlpt-n5-年-2863": {
-    "kana": "れいぶん で わ とし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa toshi ga monogoto ya kangae o sashi te iru"
+    "kana": "とし に だいじ な よてい が はいっ て いる",
+    "romaji": "toshi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-広い-3073": {
-    "kana": "ひろい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "hiroi o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "ひろい みち を ゆっくり あるい た",
+    "romaji": "hiroi michi o yukkuri arui ta"
   },
   "jlpt-n5-座る-2862": {
-    "kana": "せんせい わ すわる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa suwaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に すわる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni suwaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-庭-2899": {
-    "kana": "れいぶん で わ にわ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa niwa ga monogoto ya kangae o sashi te iru"
+    "kana": "あめあがり の にわ に そら が うつっ て い た",
+    "romaji": "ameagari no niwa ni sora ga utsu te i ta"
   },
   "jlpt-n5-廊下-2887": {
-    "kana": "のうと に ろうか を めいし として せいり し た",
-    "romaji": "nouto ni rouka o meishi toshite seiri shi ta"
+    "kana": "かいぎ で ろうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-建物-2915": {
-    "kana": "のうと に たてもの を めいし として せいり し た",
-    "romaji": "nouto ni tatemono o meishi toshite seiri shi ta"
+    "kana": "かいぎ で たてもの について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tatemono nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-引く-2833": {
-    "kana": "せんせい わ ひく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa hiku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で ひく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hiku houhou o kangae ta"
   },
   "jlpt-n5-弟-3096": {
-    "kana": "べつ の のうと で も おとうと の ようほう を かくにん し た",
-    "romaji": "betsu no nouto de mo otouto no youhou o kakunin shi ta"
+    "kana": "おとうと に しゅくだい を てつだっ て もらっ た",
+    "romaji": "otouto ni shukudai o tetsuda te mora ta"
   },
   "jlpt-n5-忘れる-3014": {
-    "kana": "れいぶん で わ わすれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa wasureru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に わすれる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni wasureru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-悪い-3010": {
-    "kana": "わるい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "warui wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "おもっ た より わるい もんだい だっ た",
+    "romaji": "omo ta yori warui mondai da ta"
   },
   "jlpt-n5-戸-3000": {
-    "kana": "かくにん てすと で も と の いみ を もういちど み た",
-    "romaji": "kakunin tesuto de mo to no imi o mouichido mi ta"
+    "kana": "ふるい と を しずか に あけ た",
+    "romaji": "furui to o shizuka ni ake ta"
   },
   "jlpt-n5-所-3048": {
-    "kana": "じしょ で ところ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de tokoro toiu meishi no imi o kakunin shi ta"
+    "kana": "しゅうまつ に ところ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni tokoro e iku michi o shirabe ta"
   },
   "jlpt-n5-手紙-2889": {
-    "kana": "のうと に てがみ を めいし として せいり し た",
-    "romaji": "nouto ni tegami o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に てがみ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tegami o oi te kara dekake ta"
   },
   "jlpt-n5-押す-2835": {
-    "kana": "せんせい わ おす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa osu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に おす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni osu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-持つ-3007": {
-    "kana": "もつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "motsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "おもい にもつ を えき まで もつ ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made motsu hito o sagashi ta"
   },
   "jlpt-n5-掃除-2944": {
-    "kana": "れいぶん で わ そうじ が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa souji ga ugoki ya henka o arawashi te iru"
+    "kana": "そうじ な まち を ゆっくり あるい た",
+    "romaji": "souji na machi o yukkuri arui ta"
   },
   "jlpt-n5-授業-2971": {
-    "kana": "れいぶん で わ じゅぎょう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jugyou ga monogoto ya kangae o sashi te iru"
+    "kana": "きょう の じゅぎょう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no jugyou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n5-撮る-2931": {
-    "kana": "とる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "toru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に とる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni toru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-教える-2950": {
-    "kana": "おしえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "oshieru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に おしえる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni oshieru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-文章-3003": {
-    "kana": "のうと に ぶんしょう を めいし として せいり し た",
-    "romaji": "nouto ni bunshou o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に ぶんしょう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni bunshou o oi te kara dekake ta"
   },
   "jlpt-n5-料理-2905": {
-    "kana": "のうと に りょうり を めいし として せいり し た",
-    "romaji": "nouto ni ryouri o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に りょうり を すこし たべ た",
+    "romaji": "hiru gohan ni ryouri o sukoshi tabe ta"
   },
   "jlpt-n5-新しい-2886": {
-    "kana": "あたらしい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "atarashii o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "おもっ た より あたらしい もんだい だっ た",
+    "romaji": "omo ta yori atarashii mondai da ta"
   },
   "jlpt-n5-新聞-2898": {
-    "kana": "じしょ で しんぶん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de shinbun toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に しんぶん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shinbun o oi te kara dekake ta"
   },
   "jlpt-n5-易しい-3062": {
-    "kana": "この ぶん で わ やさしい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa yasashii ga hito ya mono no yousu o arawashi te iru"
+    "kana": "その せつめい わ すこし やさしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi yasashii to kanji ta"
   },
   "jlpt-n5-昼御飯-3087": {
-    "kana": "れいぶん で わ ひる ごはん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa hiru gohan ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に ひる ごはん を すこし たべ た",
+    "romaji": "hiru gohan ni hiru gohan o sukoshi tabe ta"
   },
   "jlpt-n5-時々-2891": {
-    "kana": "ときどき わ ぶん ぜんたい の ちょうし や ていど を くわえる かたり として つかっ た",
-    "romaji": "tokidoki wa bun zentai no choushi ya teido o kuwaeru katari toshite tsuka ta"
+    "kana": "ときどき へんじ が とどい た ので あんしん し た",
+    "romaji": "tokidoki henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n5-時計-3058": {
-    "kana": "れいぶん で わ とけい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tokei ga monogoto ya kangae o sashi te iru"
+    "kana": "つくえ の うえ に とけい を おい て から でかけ た",
+    "romaji": "tsukue no ue ni tokei o oi te kara dekake ta"
   },
   "jlpt-n5-時間-2963": {
-    "kana": "のうと に じかん を めいし として せいり し た",
-    "romaji": "nouto ni jikan o meishi toshite seiri shi ta"
+    "kana": "じかん に だいじ な よてい が はいっ て いる",
+    "romaji": "jikan ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-晩-2983": {
-    "kana": "じしょ で ばん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ban toiu meishi no imi o kakunin shi ta"
+    "kana": "ひる ごはん に ばん を すこし たべ た",
+    "romaji": "hiru gohan ni ban o sukoshi tabe ta"
   },
   "jlpt-n5-晴れる-2992": {
-    "kana": "はれる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "hareru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で はれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de hareru houhou o kangae ta"
   },
   "jlpt-n5-暑い-2844": {
-    "kana": "この ぶん で わ あつい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa atsui ga hito ya mono no yousu o arawashi te iru"
+    "kana": "きょう わ とても あつい ので みず を おおめ に のん だ",
+    "romaji": "kyou wa totemo atsui node mizu o oome ni non da"
   },
   "jlpt-n5-暖かい-2972": {
-    "kana": "あたたかい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "atatakai wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "あたたかい おちゃ を のん で おちつい た",
+    "romaji": "atatakai ocha o non de ochitsui ta"
   },
   "jlpt-n5-曇り-2978": {
-    "kana": "じしょ で くもり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kumori toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と くもり が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kumori ga totemo kirei ni mie ta"
   },
   "jlpt-n5-曇る-2924": {
-    "kana": "れいぶん で わ くもる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kumoru ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に くもる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni kumoru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n5-有名-3055": {
-    "kana": "ゆうめい を な けいようし として のうと に まとめ た",
-    "romaji": "yuumei o na keiyoushi toshite nouto ni matome ta"
+    "kana": "ゆうめい な まち を ゆっくり あるい た",
+    "romaji": "yuumei na machi o yukkuri arui ta"
   },
   "jlpt-n5-朝-3053": {
-    "kana": "れいぶん で わ あさ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa asa ga monogoto ya kangae o sashi te iru"
+    "kana": "あさ に だいじ な よてい が はいっ て いる",
+    "romaji": "asa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-朝御飯-2951": {
-    "kana": "れいぶん で わ あさ ごはん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa asa gohan ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で あさ ごはん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de asa gohan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-木-3034": {
-    "kana": "じしょ で き という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ki toiu meishi no imi o kakunin shi ta"
+    "kana": "こうじょう に ひつよう な き を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na ki o asa no uchi ni atsume ta"
   },
   "jlpt-n5-木曜日-3013": {
-    "kana": "のうと に もくようび を めいし として せいり し た",
-    "romaji": "nouto ni mokuyoubi o meishi toshite seiri shi ta"
+    "kana": "ともだち と もくようび について しばらく はなし た",
+    "romaji": "tomodachi to mokuyoubi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-村-2985": {
-    "kana": "れいぶん で わ むら が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa mura ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に むら え いく みち を しらべ た",
+    "romaji": "shuumatsu ni mura e iku michi o shirabe ta"
   },
   "jlpt-n5-来月-3023": {
-    "kana": "のうと に らいげつ を めいし として せいり し た",
-    "romaji": "nouto ni raigetsu o meishi toshite seiri shi ta"
+    "kana": "らいげつ に だいじ な よてい が はいっ て いる",
+    "romaji": "raigetsu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-来週-2947": {
-    "kana": "じしょ で らいしゅう という めいし の いみ を かくにん し た",
-    "romaji": "jisho de raishuu toiu meishi no imi o kakunin shi ta"
+    "kana": "らいしゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "raishuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-東-2929": {
-    "kana": "れいぶん で わ ひがし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa higashi ga monogoto ya kangae o sashi te iru"
+    "kana": "ひがし の そら が あかるく なっ た",
+    "romaji": "higashi no sora ga akaruku na ta"
   },
   "jlpt-n5-果物-3024": {
-    "kana": "れいぶん で わ くだもの が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kudamono ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に くだもの を すこし たべ た",
+    "romaji": "hiru gohan ni kudamono o sukoshi tabe ta"
   },
   "jlpt-n5-欲しい-3033": {
-    "kana": "のうと に ほしい を めいし として せいり し た",
-    "romaji": "nouto ni hoshii o meishi toshite seiri shi ta"
+    "kana": "その せつめい わ すこし ほしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi hoshii to kanji ta"
   },
   "jlpt-n5-歌-2968": {
-    "kana": "のうと に うた を めいし として せいり し た",
-    "romaji": "nouto ni uta o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ともだち と うた を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to uta o mi ni i ta"
   },
   "jlpt-n5-止まる-3025": {
-    "kana": "れいぶん で わ とまる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tomaru ga ugoki ya henka o arawashi te iru"
+    "kana": "しゅうまつ に ともだち の いえ え とまる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tomaru yotei da"
   },
   "jlpt-n5-歯-3046": {
-    "kana": "のうと に は を めいし として せいり し た",
-    "romaji": "nouto ni ha o meishi toshite seiri shi ta"
+    "kana": "は が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ha ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-毎晩-3080": {
-    "kana": "れいぶん で わ まいばん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maiban ga monogoto ya kangae o sashi te iru"
+    "kana": "まいばん に だいじ な よてい が はいっ て いる",
+    "romaji": "maiban ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-毎月-2876": {
-    "kana": "のうと に まいつき を めいし として せいり し た",
-    "romaji": "nouto ni maitsuki o meishi toshite seiri shi ta"
+    "kana": "まいつき に だいじ な よてい が はいっ て いる",
+    "romaji": "maitsuki ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-毎朝-2826": {
-    "kana": "のうと に まいあさ を めいし として せいり し た",
-    "romaji": "nouto ni maiasa o meishi toshite seiri shi ta"
+    "kana": "まいあさ に だいじ な よてい が はいっ て いる",
+    "romaji": "maiasa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-毎週-2913": {
-    "kana": "れいぶん で わ まいしゅう が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa maishuu ga monogoto ya kangae o sashi te iru"
+    "kana": "まいしゅう に だいじ な よてい が はいっ て いる",
+    "romaji": "maishuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-汚い-2881": {
-    "kana": "きたない を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "kitanai o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "きたない ひ だっ た が さいご まで あるい た",
+    "romaji": "kitanai hi da ta ga saigo made arui ta"
   },
   "jlpt-n5-池-2940": {
-    "kana": "じしょ で いけ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de ike toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と いけ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to ike ga totemo kirei ni mie ta"
   },
   "jlpt-n5-海-2927": {
-    "kana": "れいぶん で わ うみ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa umi ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と うみ について しばらく はなし た",
+    "romaji": "tomodachi to umi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-消す-2856": {
-    "kana": "せんせい わ けす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa kesu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に けす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni kesu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-温い-2980": {
-    "kana": "ぬくい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "nukui o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "きょう わ とても ぬるい ので みず を おおめ に のん だ",
+    "romaji": "kyou wa totemo nurui node mizu o oome ni non da"
   },
   "jlpt-n5-火曜日-3094": {
-    "kana": "じしょ で かようび という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kayoubi toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で かようび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kayoubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-無くす-2922": {
-    "kana": "せんせい わ なくす を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nakusu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に なくす ため に さき に じゅんび を し た",
+    "romaji": "anzen ni nakusu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-牛肉-3078": {
-    "kana": "のうと に ぎゅうにく を めいし として せいり し た",
-    "romaji": "nouto ni gyuuniku o meishi toshite seiri shi ta"
+    "kana": "ひる ごはん に ぎゅうにく を すこし たべ た",
+    "romaji": "hiru gohan ni gyuuniku o sukoshi tabe ta"
   },
   "jlpt-n5-狭い-2865": {
-    "kana": "せまい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "semai wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "せまい はこ を たな の うえ に おい た",
+    "romaji": "semai hako o tana no ue ni oi ta"
   },
   "jlpt-n5-玄関-2867": {
-    "kana": "のうと に げんかん を めいし として せいり し た",
-    "romaji": "nouto ni genkan o meishi toshite seiri shi ta"
+    "kana": "ふうとう の げんかん に じゅうしょ を かい た",
+    "romaji": "fuutou no genkan ni juusho o kai ta"
   },
   "jlpt-n5-甘い-2911": {
-    "kana": "この ぶん で わ あまい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa amai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "おもっ た より あまい もんだい だっ た",
+    "romaji": "omo ta yori amai mondai da ta"
   },
   "jlpt-n5-生まれる-2988": {
-    "kana": "せんせい わ うまれる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa umareru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で うまれる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de umareru houhou o kangae ta"
   },
   "jlpt-n5-生徒-2965": {
-    "kana": "のうと に せいと を めいし として せいり し た",
-    "romaji": "nouto ni seito o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる せいと に こえ を かけ た",
+    "romaji": "koma te iru seito ni koe o kake ta"
   },
   "jlpt-n5-男の子-2864": {
-    "kana": "のうと に おとこのこ を めいし として せいり し た",
-    "romaji": "nouto ni otokonoko o meishi toshite seiri shi ta"
+    "kana": "かえりぎわ に おとこのこ と こえ を かけ た",
+    "romaji": "kaerigiwa ni otokonoko to koe o kake ta"
   },
   "jlpt-n5-番号-2902": {
-    "kana": "のうと に ばんごう を めいし として せいり し た",
-    "romaji": "nouto ni bangou o meishi toshite seiri shi ta"
+    "kana": "うけつけ で ばんごう を よば れる まで まっ た",
+    "romaji": "uketsuke de bangou o yoba reru made ma ta"
   },
   "jlpt-n5-疲れる-2943": {
-    "kana": "れいぶん で わ つかれる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa tsukareru ga ugoki ya henka o arawashi te iru"
+    "kana": "はる に つかれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni tsukareru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n5-病気-2839": {
-    "kana": "のうと に びょうき を めいし として せいり し た",
-    "romaji": "nouto ni byouki o meishi toshite seiri shi ta"
+    "kana": "ともだち と びょうき について しばらく はなし た",
+    "romaji": "tomodachi to byouki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-病院-2920": {
-    "kana": "のうと に びょういん を めいし として せいり し た",
-    "romaji": "nouto ni byouin o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる びょういん に こえ を かけ た",
+    "romaji": "koma te iru byouin ni koe o kake ta"
   },
   "jlpt-n5-登る-2880": {
-    "kana": "のぼる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "noboru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え のぼる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e noboru yotei da"
   },
   "jlpt-n5-百-3090": {
-    "kana": "じしょ で ひゃく という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hyaku toiu meishi no imi o kakunin shi ta"
+    "kana": "ひゃく の はこ を たな に きれい に ならべ た",
+    "romaji": "hyaku no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-目-2859": {
-    "kana": "れいぶん で わ め が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa me ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と め について しばらく はなし た",
+    "romaji": "tomodachi to me nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-着く-3026": {
-    "kana": "せんせい わ つく を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa tsuku o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "ひつよう な ばめん で つく ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tsuku houhou o kangae ta"
   },
   "jlpt-n5-着る-3020": {
-    "kana": "れいぶん で わ きる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa kiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あいて を つよく きる まえ に まず じじょう を きい た",
+    "romaji": "aite o tsuyoku kiru mae ni mazu jijou o kii ta"
   },
   "jlpt-n5-知る-2949": {
-    "kana": "れいぶん で わ しる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shiru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に しる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shiru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-磨く-2834": {
-    "kana": "みがく わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "migaku wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に みがく ため に さき に じゅんび を し た",
+    "romaji": "anzen ni migaku tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-私-2932": {
-    "kana": "じしょ で わたし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de watashi toiu meishi no imi o kakunin shi ta"
+    "kana": "わたし わ しずか に うなずい た",
+    "romaji": "watashi wa shizuka ni unazui ta"
   },
   "jlpt-n5-秋-3009": {
-    "kana": "のうと に あき を めいし として せいり し た",
-    "romaji": "nouto ni aki o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と あき が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to aki ga totemo kirei ni mie ta"
   },
   "jlpt-n5-空-2860": {
-    "kana": "のうと に そら を めいし として せいり し た",
-    "romaji": "nouto ni sora o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に そら え いく みち を しらべ た",
+    "romaji": "shuumatsu ni sora e iku michi o shirabe ta"
   },
   "jlpt-n5-窓-2982": {
-    "kana": "のうと に まど を めいし として せいり し た",
-    "romaji": "nouto ni mado o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に まど を おい て から でかけ た",
+    "romaji": "tsukue no ue ni mado o oi te kara dekake ta"
   },
   "jlpt-n5-立つ-2995": {
-    "kana": "たつ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tatsu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で たつ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de tatsu houhou o kangae ta"
   },
   "jlpt-n5-箱-3051": {
-    "kana": "のうと に はこ を めいし として せいり し た",
-    "romaji": "nouto ni hako o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に はこ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni hako o oi te kara dekake ta"
   },
   "jlpt-n5-終る-3021": {
-    "kana": "せんせい わ おわる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa owaru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "さいご まで けいかく を おわる かくご を きめ た",
+    "romaji": "saigo made keikaku o owaru kakugo o kime ta"
   },
   "jlpt-n5-緑-3098": {
-    "kana": "れいぶん で わ みどり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa midori ga monogoto ya kangae o sashi te iru"
+    "kana": "みどり の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "midori no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-練習-2873": {
-    "kana": "れんしゅう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "renshuu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に れんしゅう する ため に さき に じゅんび を し た",
+    "romaji": "anzen ni renshuu suru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-肉-3070": {
-    "kana": "のうと に にく を めいし として せいり し た",
-    "romaji": "nouto ni niku o meishi toshite seiri shi ta"
+    "kana": "とつぜん の しらせ に つよい にく を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi niku o oboe ta"
   },
   "jlpt-n5-脱ぐ-2878": {
-    "kana": "せんせい わ ぬぐ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa nugu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "うわぎ を ぬぐ ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o nugu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n5-自分-2955": {
-    "kana": "れいぶん で わ じぶん が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa jibun ga monogoto ya kangae o sashi te iru"
+    "kana": "じぶん に みち を たずね た",
+    "romaji": "jibun ni michi o tazune ta"
   },
   "jlpt-n5-自転車-2973": {
-    "kana": "のうと に じてんしゃ を めいし として せいり し た",
-    "romaji": "nouto ni jitensha o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に じてんしゃ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni jitensha o oi te kara dekake ta"
   },
   "jlpt-n5-花瓶-2832": {
-    "kana": "じしょ で かびん という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kabin toiu meishi no imi o kakunin shi ta"
+    "kana": "ゆうがた に なる と かびん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kabin ga totemo kirei ni mie ta"
   },
   "jlpt-n5-英語-2841": {
-    "kana": "のうと に えいご を めいし として せいり し た",
-    "romaji": "nouto ni eigo o meishi toshite seiri shi ta"
+    "kana": "かいぎ で えいご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de eigo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-茶色-2888": {
-    "kana": "れいぶん で わ ちゃいろ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chairo ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ちゃいろ について しばらく はなし た",
+    "romaji": "tomodachi to chairo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-葉書-2831": {
-    "kana": "じしょ で はがき という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hagaki toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はがき について しばらく はなし た",
+    "romaji": "tomodachi to hagaki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-薄い-2956": {
-    "kana": "うすい わ じょうたい や せいしつ を あらわす い けいようし として おぼえる",
-    "romaji": "usui wa joutai ya seishitsu o arawasu i keiyoushi toshite oboeru"
+    "kana": "その せつめい わ すこし うすい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi usui to kanji ta"
   },
   "jlpt-n5-薬-3035": {
-    "kana": "じしょ で くすり という めいし の いみ を かくにん し た",
-    "romaji": "jisho de kusuri toiu meishi no imi o kakunin shi ta"
+    "kana": "かいぎ で くすり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kusuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-西-2912": {
-    "kana": "れいぶん で わ にし が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa nishi ga monogoto ya kangae o sashi te iru"
+    "kana": "にし の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "nishi no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n5-要る-2890": {
-    "kana": "せんせい わ いる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa iru o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "いる な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "iru na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n5-覚える-2938": {
-    "kana": "おぼえる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "oboeru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で おぼえる ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de oboeru houhou o kangae ta"
   },
   "jlpt-n5-言う-2871": {
-    "kana": "いう わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "iu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え いう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e iu yotei da"
   },
   "jlpt-n5-言葉-2953": {
-    "kana": "れいぶん で わ ことば が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kotoba ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と ことば について しばらく はなし た",
+    "romaji": "tomodachi to kotoba nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-話-3079": {
-    "kana": "じしょ で はなし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hanashi toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と はなし について しばらく はなし た",
+    "romaji": "tomodachi to hanashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-読む-3022": {
-    "kana": "よむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "yomu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "よる に ゆっくり よむ じかん を つくっ た",
+    "romaji": "yoru ni yukkuri yomu jikan o tsuku ta"
   },
   "jlpt-n5-誰-3064": {
-    "kana": "れいぶん で わ だれ が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa dare ga monogoto ya kangae o sashi te iru"
+    "kana": "だれ に みち を たずね た",
+    "romaji": "dare ni michi o tazune ta"
   },
   "jlpt-n5-豚肉-3072": {
-    "kana": "れいぶん で わ ぶたにく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa butaniku ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に ぶたにく を すこし たべ た",
+    "romaji": "hiru gohan ni butaniku o sukoshi tabe ta"
   },
   "jlpt-n5-財布-2948": {
-    "kana": "じしょ で さいふ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de saifu toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に さいふ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni saifu o oi te kara dekake ta"
   },
   "jlpt-n5-賑やか-2945": {
-    "kana": "にぎやか を な けいようし として のうと に まとめ た",
-    "romaji": "nigiyaka o na keiyoushi toshite nouto ni matome ta"
+    "kana": "にぎやか な まち を ゆっくり あるい た",
+    "romaji": "nigiyaka na machi o yukkuri arui ta"
   },
   "jlpt-n5-赤-2954": {
-    "kana": "のうと に あか を めいし として せいり し た",
-    "romaji": "nouto ni aka o meishi toshite seiri shi ta"
+    "kana": "あか の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "aka no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-赤い-2910": {
-    "kana": "れいぶん で わ あかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa akai ga monogoto ya kangae o sashi te iru"
+    "kana": "あかい しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "akai shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-足-3050": {
-    "kana": "のうと に あし を めいし として せいり し た",
-    "romaji": "nouto ni ashi o meishi toshite seiri shi ta"
+    "kana": "あし が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ashi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-軽い-3100": {
-    "kana": "れいぶん で わ かるい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa karui ga monogoto ya kangae o sashi te iru"
+    "kana": "かるい はこ を たな の うえ に おい た",
+    "romaji": "karui hako o tana no ue ni oi ta"
   },
   "jlpt-n5-辞書-2925": {
-    "kana": "のうと に じしょ を めいし として せいり し た",
-    "romaji": "nouto ni jisho o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に じしょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni jisho o oi te kara dekake ta"
   },
   "jlpt-n5-辺-2901": {
-    "kana": "れいぶん で わ あたり が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa atari ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と あたり について しばらく はなし た",
+    "romaji": "tomodachi to atari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-近い-3057": {
-    "kana": "れいぶん で わ ちかい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa chikai ga monogoto ya kangae o sashi te iru"
+    "kana": "ちかい みち を ゆっくり あるい た",
+    "romaji": "chikai michi o yukkuri arui ta"
   },
   "jlpt-n5-近く-2857": {
-    "kana": "れいぶん で わ ちかく が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa chikaku ga ugoki ya henka o arawashi te iru"
+    "kana": "ちかく に だいじ な よてい が はいっ て いる",
+    "romaji": "chikaku ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-速い-2884": {
-    "kana": "じしょ で はやい という めいし の いみ を かくにん し た",
-    "romaji": "jisho de hayai toiu meishi no imi o kakunin shi ta"
+    "kana": "おもっ た より はやい もんだい だっ た",
+    "romaji": "omo ta yori hayai mondai da ta"
   },
   "jlpt-n5-遊ぶ-2845": {
-    "kana": "せんせい わ あそぶ を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa asobu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "きゅうじつ に ともだち と げえむ に あそぶ じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni asobu jikan o tanoshin da"
   },
   "jlpt-n5-道-2896": {
-    "kana": "のうと に みち を めいし として せいり し た",
-    "romaji": "nouto ni michi o meishi toshite seiri shi ta"
+    "kana": "かいぎ で みち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de michi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-違う-2868": {
-    "kana": "せんせい わ ちがう を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa chigau o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "あんぜん に ちがう ため に さき に じゅんび を し た",
+    "romaji": "anzen ni chigau tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-部屋-3086": {
-    "kana": "のうと に へや を めいし として せいり し た",
-    "romaji": "nouto ni heya o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に へや え いく みち を しらべ た",
+    "romaji": "shuumatsu ni heya e iku michi o shirabe ta"
   },
   "jlpt-n5-金曜日-3037": {
-    "kana": "のうと に きんようび を めいし として せいり し た",
-    "romaji": "nouto ni kin'youbi o meishi toshite seiri shi ta"
+    "kana": "ともだち と きんようび について しばらく はなし た",
+    "romaji": "tomodachi to kin'youbi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-鉛筆-2986": {
-    "kana": "のうと に えんぴつ を めいし として せいり し た",
-    "romaji": "nouto ni enpitsu o meishi toshite seiri shi ta"
+    "kana": "つくえ の うえ に えんぴつ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni enpitsu o oi te kara dekake ta"
   },
   "jlpt-n5-銀行-3083": {
-    "kana": "のうと に ぎんこう を めいし として せいり し た",
-    "romaji": "nouto ni ginkou o meishi toshite seiri shi ta"
+    "kana": "しゅうまつ に ぎんこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ginkou e iku michi o shirabe ta"
   },
   "jlpt-n5-長い-2987": {
-    "kana": "この ぶん で わ ながい が ひと や もの の ようす を あらわし て いる",
-    "romaji": "kono bun de wa nagai ga hito ya mono no yousu o arawashi te iru"
+    "kana": "ながい みち を ゆっくり あるい た",
+    "romaji": "nagai michi o yukkuri arui ta"
   },
   "jlpt-n5-閉まる-2877": {
-    "kana": "しまる わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "shimaru wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に しまる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shimaru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-閉める-2848": {
-    "kana": "れいぶん で わ しめる が うごき や へんか を あらわし て いる",
-    "romaji": "reibun de wa shimeru ga ugoki ya henka o arawashi te iru"
+    "kana": "あんぜん に しめる ため に さき に じゅんび を し た",
+    "romaji": "anzen ni shimeru tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-降る-3061": {
-    "kana": "せんせい わ ふる を どうし として つかう ばめん を せつめい し た",
-    "romaji": "sensei wa furu o doushi toshite tsukau bamen o setsumei shi ta"
+    "kana": "しゅうまつ に ともだち の いえ え ふる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e furu yotei da"
   },
   "jlpt-n5-雑誌-2989": {
-    "kana": "じしょ で ざっし という めいし の いみ を かくにん し た",
-    "romaji": "jisho de zasshi toiu meishi no imi o kakunin shi ta"
+    "kana": "つくえ の うえ に ざっし を おい て から でかけ た",
+    "romaji": "tsukue no ue ni zasshi o oi te kara dekake ta"
   },
   "jlpt-n5-難しい-2984": {
-    "kana": "むずかしい を つかっ て じょうたい を あらわす ぶん を つくっ た",
-    "romaji": "muzukashii o tsuka te joutai o arawasu bun o tsuku ta"
+    "kana": "おもっ た より むずかしい もんだい だっ た",
+    "romaji": "omo ta yori muzukashii mondai da ta"
   },
   "jlpt-n5-雨-2882": {
-    "kana": "のうと に あめ を めいし として せいり し た",
-    "romaji": "nouto ni ame o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と あめ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to ame ga totemo kirei ni mie ta"
   },
   "jlpt-n5-零-3071": {
-    "kana": "れいぶん で わ れい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa rei ga monogoto ya kangae o sashi te iru"
+    "kana": "かいぎ で れい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-電気-2837": {
-    "kana": "れいぶん で わ でんき が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa denki ga monogoto ya kangae o sashi te iru"
+    "kana": "ともだち と でんき について しばらく はなし た",
+    "romaji": "tomodachi to denki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-電話-2893": {
-    "kana": "じしょ で でんわ という めいし の いみ を かくにん し た",
-    "romaji": "jisho de denwa toiu meishi no imi o kakunin shi ta"
+    "kana": "ともだち と でんわ について しばらく はなし た",
+    "romaji": "tomodachi to denwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-青い-3011": {
-    "kana": "れいぶん で わ あおい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa aoi ga monogoto ya kangae o sashi te iru"
+    "kana": "あおい しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "aoi shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-静か-2935": {
-    "kana": "れいぶん で わ しずか が じょうたい や せいしつ を あらわし て いる",
-    "romaji": "reibun de wa shizuka ga joutai ya seishitsu o arawashi te iru"
+    "kana": "しずか な まち を ゆっくり あるい た",
+    "romaji": "shizuka na machi o yukkuri arui ta"
   },
   "jlpt-n5-靴下-3074": {
-    "kana": "れいぶん で わ くつした が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kutsushita ga monogoto ya kangae o sashi te iru"
+    "kana": "さむく なっ た ので くつした を はおっ た",
+    "romaji": "samuku na ta node kutsushita o hao ta"
   },
   "jlpt-n5-音楽-2967": {
-    "kana": "れいぶん で わ おんがく が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa ongaku ga monogoto ya kangae o sashi te iru"
+    "kana": "しゅうまつ に ともだち と おんがく を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to ongaku o mi ni i ta"
   },
   "jlpt-n5-頭-2840": {
-    "kana": "のうと に あたま を めいし として せいり し た",
-    "romaji": "nouto ni atama o meishi toshite seiri shi ta"
+    "kana": "あたま が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "atama ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-風-2917": {
-    "kana": "のうと に かぜ を めいし として せいり し た",
-    "romaji": "nouto ni kaze o meishi toshite seiri shi ta"
+    "kana": "ゆうがた に なる と かぜ が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kaze ga totemo kirei ni mie ta"
   },
   "jlpt-n5-風邪-2909": {
-    "kana": "のうと に かぜ を めいし として せいり し た",
-    "romaji": "nouto ni kaze o meishi toshite seiri shi ta"
+    "kana": "ともだち と かぜ について しばらく はなし た",
+    "romaji": "tomodachi to kaze nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-飛ぶ-2952": {
-    "kana": "とぶ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "tobu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "あんぜん に とぶ ため に さき に じゅんび を し た",
+    "romaji": "anzen ni tobu tame ni saki ni junbi o shi ta"
   },
   "jlpt-n5-食べ物-3060": {
-    "kana": "れいぶん で わ たべもの が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa tabemono ga monogoto ya kangae o sashi te iru"
+    "kana": "ひる ごはん に たべもの を すこし たべ た",
+    "romaji": "hiru gohan ni tabemono o sukoshi tabe ta"
   },
   "jlpt-n5-飲む-2872": {
-    "kana": "のむ わ どうさ や へんか を あらわす かたり として かくにん し た",
-    "romaji": "nomu wa dousa ya henka o arawasu katari toshite kakunin shi ta"
+    "kana": "ひつよう な ばめん で のむ ほうほう を かんがえ た",
+    "romaji": "hitsuyou na bamen de nomu houhou o kangae ta"
   },
   "jlpt-n5-高い-2957": {
-    "kana": "のうと に たかい を めいし として せいり し た",
-    "romaji": "nouto ni takai o meishi toshite seiri shi ta"
+    "kana": "たかい たてもの を みあげ た",
+    "romaji": "takai tatemono o miage ta"
   },
   "jlpt-n5-黒-2829": {
-    "kana": "のうと に くろ を めいし として せいり し た",
-    "romaji": "nouto ni kuro o meishi toshite seiri shi ta"
+    "kana": "こまっ て いる くろ に こえ を かけ た",
+    "romaji": "koma te iru kuro ni koe o kake ta"
   },
   "jlpt-n5-黒い-2879": {
-    "kana": "れいぶん で わ くろい が ものごと や かんがえ を さし て いる",
-    "romaji": "reibun de wa kuroi ga monogoto ya kangae o sashi te iru"
+    "kana": "くろい しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "kuroi shatsu o eran de kagami no mae de awase te mi ta"
   },
   "kaeru-transitive": {
     "kana": "いたみ を うた に かえる",

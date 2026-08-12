@@ -4,57 +4,161 @@ import { buildVocabularyExample } from "./vocabulary-examples.mjs";
 const vocabularyUrl = new URL("../src/data/generatedVocabulary.json", import.meta.url);
 const words = JSON.parse(await readFile(vocabularyUrl, "utf8"));
 
-const duplicateFrames = [
-  {
-    jp: (word) => `別のノートでも「${word}」の用法を確認した。`,
-    zh: (word) => `在另一条笔记里也确认了「${word}」的用法。`,
-    en: (word) => `I also checked the usage of "${word}" in another note.`
+const exactFallbacks = {
+  "三日月": {
+    exampleJp: "夜空に三日月が静かに浮かんでいた。",
+    exampleZh: "新月般的月牙静静地浮在夜空中。",
+    exampleEn: "A crescent moon was quietly hanging in the night sky."
   },
-  {
-    jp: (word) => `復習カードでも「${word}」の意味を確認した。`,
-    zh: (word) => `在复习卡片里也确认了「${word}」的意思。`,
-    en: (word) => `I also reviewed the meaning of "${word}" on a study card.`
+  "夜行": {
+    exampleJp: "夜行バスで東京へ向かった。",
+    exampleZh: "坐夜行巴士去了东京。",
+    exampleEn: "I headed to Tokyo on an overnight bus."
   },
-  {
-    jp: (word) => `単語リストでも「${word}」の読み方と意味を見直した。`,
-    zh: (word) => `在单词列表里也复习了「${word}」的读音和意思。`,
-    en: (word) => `I also reviewed the reading and meaning of "${word}" in the vocabulary list.`
+  "家主": {
+    exampleJp: "家主に水漏れを知らせた。",
+    exampleZh: "把漏水的事告诉了房东。",
+    exampleEn: "I told the landlord about the water leak."
   },
-  {
-    jp: (word) => `辞書メモでも「${word}」の使い方を整理した。`,
-    zh: (word) => `在词典笔记里也整理了「${word}」的用法。`,
-    en: (word) => `I also organized the usage of "${word}" in my dictionary notes.`
+  "ここ": {
+    exampleJp: "雨がやむまでここで待った。",
+    exampleZh: "在这里等到雨停。",
+    exampleEn: "I waited here until the rain stopped."
   },
-  {
-    jp: (word) => `確認テストでも「${word}」の意味をもう一度見た。`,
-    zh: (word) => `在确认测试里也重新看了「${word}」的意思。`,
-    en: (word) => `I checked the meaning of "${word}" again in the review test.`
+  "この": {
+    exampleJp: "この本を明日返す。",
+    exampleZh: "明天归还这本书。",
+    exampleEn: "I will return this book tomorrow."
+  },
+  "夜中": {
+    exampleJp: "夜中に強い雨の音で目が覚めた。",
+    exampleZh: "半夜被很大的雨声吵醒了。",
+    exampleEn: "I woke up in the middle of the night to the sound of heavy rain."
+  },
+  "上る": {
+    exampleJp: "坂を上ると海が見えた。",
+    exampleZh: "爬上坡后看见了海。",
+    exampleEn: "When I climbed the hill, I could see the sea."
+  },
+  "作る": {
+    exampleJp: "夕飯にカレーを作る予定だ。",
+    exampleZh: "晚饭打算做咖喱。",
+    exampleEn: "I plan to make curry for dinner."
+  },
+  "東": {
+    exampleJp: "東の空が明るくなった。",
+    exampleZh: "东方的天空变亮了。",
+    exampleEn: "The eastern sky grew bright."
+  },
+  "人": {
+    exampleJp: "駅の前に多くの人が集まった。",
+    exampleZh: "车站前聚集了很多人。",
+    exampleEn: "Many people gathered in front of the station."
+  },
+  "一日": {
+    exampleJp: "一日かけて部屋を片付けた。",
+    exampleZh: "花了一天整理房间。",
+    exampleEn: "I spent a whole day cleaning my room."
+  },
+  "暖かい": {
+    exampleJp: "暖かいお茶を飲んで落ち着いた。",
+    exampleZh: "喝了温暖的茶后平静了下来。",
+    exampleEn: "I calmed down after drinking warm tea."
+  },
+  "戸": {
+    exampleJp: "古い戸を静かに開けた。",
+    exampleZh: "轻轻打开了旧门。",
+    exampleEn: "I quietly opened the old door."
+  },
+  "今日": {
+    exampleJp: "今日は早めに家を出た。",
+    exampleZh: "今天早早出了门。",
+    exampleEn: "I left home early today."
+  },
+  "一昨年": {
+    exampleJp: "一昨年の旅行を今でも覚えている。",
+    exampleZh: "至今还记得前年的旅行。",
+    exampleEn: "I still remember the trip from two years ago."
+  },
+  "一昨日": {
+    exampleJp: "一昨日買った本を読み終えた。",
+    exampleZh: "读完了前天买的书。",
+    exampleEn: "I finished the book I bought the day before yesterday."
+  },
+  "一人": {
+    exampleJp: "一人で映画を見に行った。",
+    exampleZh: "一个人去看了电影。",
+    exampleEn: "I went to see a movie alone."
+  },
+  "下": {
+    exampleJp: "机の下に鍵が落ちていた。",
+    exampleZh: "钥匙掉在桌子下面。",
+    exampleEn: "The key had fallen under the desk."
+  },
+  "弟": {
+    exampleJp: "弟に宿題を手伝ってもらった。",
+    exampleZh: "请弟弟帮忙做了作业。",
+    exampleEn: "I had my younger brother help me with my homework."
   }
-];
+};
 
-function uniquifyExample(example, seen, index, word) {
-  if (!seen.has(example.exampleJp)) {
-    seen.add(example.exampleJp);
-    return example;
+const alternateFallbacks = {
+  "夜行": {
+    exampleJp: "夜行列車で故郷へ帰った。",
+    exampleZh: "坐夜行列车回了故乡。",
+    exampleEn: "I returned to my hometown on an overnight train."
+  },
+  "今日": {
+    exampleJp: "今日は友達と駅で会った。",
+    exampleZh: "今天和朋友在车站见了面。",
+    exampleEn: "I met a friend at the station today."
   }
+};
 
-  for (let attempt = 0; attempt < duplicateFrames.length; attempt += 1) {
-    const frame = duplicateFrames[(index + attempt) % duplicateFrames.length];
-    const candidate = {
-      exampleJp: frame.jp(word.japanese),
-      exampleZh: frame.zh(word.japanese),
-      exampleEn: frame.en(word.japanese)
-    };
+function uniquifyExample(word, seen, index) {
+  for (let attempt = 0; attempt < 12; attempt += 1) {
+    const candidate = buildVocabularyExample(word, index + 1 + attempt * 997);
     if (!seen.has(candidate.exampleJp)) {
       seen.add(candidate.exampleJp);
       return candidate;
     }
   }
 
+  if (word.kana === "ただ") {
+    const fallback = {
+      ...buildVocabularyExample(word, index + 1),
+      exampleJp: "彼はただ静かに笑っていた。",
+      exampleZh: "他只是安静地笑着。",
+      exampleEn: "He was just smiling quietly."
+    };
+    seen.add(fallback.exampleJp);
+    return fallback;
+  }
+
+  const exactFallback = exactFallbacks[word.japanese] ?? exactFallbacks[word.kana];
+  if (exactFallback && !seen.has(exactFallback.exampleJp)) {
+    const fallback = {
+      ...buildVocabularyExample(word, index + 1),
+      ...exactFallback
+    };
+    seen.add(fallback.exampleJp);
+    return fallback;
+  }
+
+  const alternateFallback = alternateFallbacks[word.japanese] ?? alternateFallbacks[word.kana];
+  if (alternateFallback && !seen.has(alternateFallback.exampleJp)) {
+    const fallback = {
+      ...buildVocabularyExample(word, index + 1),
+      ...alternateFallback
+    };
+    seen.add(fallback.exampleJp);
+    return fallback;
+  }
+
   const fallback = {
-    exampleJp: `別の文では、${example.exampleJp}`,
-    exampleZh: `另一句里，${example.exampleZh}`,
-    exampleEn: `In another sentence, ${example.exampleEn}`
+    exampleJp: `${word.japanese}について、別の角度から話題が広がった。`,
+    exampleZh: `关于「${word.japanese}」，话题从另一个角度展开了。`,
+    exampleEn: `The topic of "${word.japanese}" expanded from another angle.`
   };
   seen.add(fallback.exampleJp);
   return fallback;
@@ -62,7 +166,7 @@ function uniquifyExample(example, seen, index, word) {
 
 const seenExamples = new Set();
 const refreshed = words.map((word, index) => {
-  const example = uniquifyExample(buildVocabularyExample(word, index + 1), seenExamples, index, word);
+  const example = uniquifyExample(word, seenExamples, index);
   return {
     ...word,
     ...example

@@ -1560,13 +1560,13 @@ function SavedWordsView({
           <input value={query} onChange={(event) => setQuery(event.target.value)} />
         </label>
         <button
-          className="secondary-button"
+          className="primary-button"
           type="button"
-          onClick={() => setQuizWords(filteredWords)}
-          disabled={filteredWords.length === 0}
+          onClick={() => setQuizWords(savedWords)}
+          disabled={savedWords.length === 0}
         >
           <PenLine size={17} />
-          生词拼写测试
+          开始生词本测试
         </button>
         <div className="library-count">
           <strong>{filteredWords.length}</strong>
