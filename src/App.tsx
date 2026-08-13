@@ -1279,28 +1279,35 @@ function WordQuiz({
     setFeedback(null);
   }
 
+  function markWrongAnswer() {
+    setFeedback({ type: "wrong", word });
+    setMissedIds((current) => new Set(current).add(word.id));
+    setInput("");
+    setProgress((current) => ({
+      ...current,
+      learnedWords: current.learnedWords.filter((id) => id !== word.id),
+      mistakes: {
+        ...current.mistakes,
+        [word.id]: (current.mistakes[word.id] ?? 0) + 1
+      }
+    }));
+  }
+
   function submit(event: FormEvent) {
     event.preventDefault();
     if (feedback?.type === "correct") {
       goToNextWord();
       return;
     }
-    if (!input.trim()) return;
+    if (!input.trim()) {
+      if (feedback?.type !== "wrong") markWrongAnswer();
+      return;
+    }
     if (isWordAnswerCorrect(input, word)) {
       setInput("");
       setFeedback({ type: "correct", word });
     } else {
-      setFeedback({ type: "wrong", word });
-      setMissedIds((current) => new Set(current).add(word.id));
-      setInput("");
-      setProgress((current) => ({
-        ...current,
-        learnedWords: current.learnedWords.filter((id) => id !== word.id),
-        mistakes: {
-          ...current.mistakes,
-          [word.id]: (current.mistakes[word.id] ?? 0) + 1
-        }
-      }));
+      markWrongAnswer();
     }
   }
 
