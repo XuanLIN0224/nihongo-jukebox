@@ -104,24 +104,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "jiyuu na koe de utau"
   },
   "jlpt-n1-あざ笑う-986": {
-    "kana": "あんぜん に あざわらう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni azawarau tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あざわらう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te azawarau"
   },
   "jlpt-n1-お休み-668": {
     "kana": "お やすみ に だいじ な よてい が はいっ て いる",
     "romaji": "o yasumi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-お使い-177": {
-    "kana": "かいぎ で お つかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de o tsukai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と お つかい について しばらく はなし た",
+    "romaji": "tomodachi to o tsukai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-お供-772": {
     "kana": "ともだち と おとも について しばらく はなし た",
     "romaji": "tomodachi to otomo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-お先に-1089": {
-    "kana": "おさきに へんじ が とどい た ので あんしん し た",
-    "romaji": "osakini henji ga todoi ta node anshin shi ta"
+    "kana": "おさきに よてい を へんこう し た",
+    "romaji": "osakini yotei o henkou shi ta"
   },
   "jlpt-n1-お大事に-562": {
     "kana": "かえりぎわ に お だいじ に と こえ を かけ た",
@@ -140,8 +140,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na okazu o asa no uchi ni atsume ta"
   },
   "jlpt-n1-お蔭-155": {
-    "kana": "かいぎ で おかげ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de okage nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と おかげ について しばらく はなし た",
+    "romaji": "tomodachi to okage nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-お蔭様で-394": {
     "kana": "かえりぎわ に おかげ さ まで と こえ を かけ た",
@@ -152,16 +152,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni o jama shi masu to koe o kake ta"
   },
   "jlpt-n1-くっ付ける-397": {
-    "kana": "ひつよう な ばめん で くっつける ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kuttsukeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くっつける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kuttsukeru"
   },
   "jlpt-n1-ヶ月-440": {
     "kana": "かいぎ で かげつ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kagetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-この頃-84": {
-    "kana": "かいぎ で この ころ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kono koro nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と この ころ について しばらく はなし た",
+    "romaji": "tomodachi to kono koro nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-ご無沙汰-918": {
     "kana": "かいぎ で ごぶさた について ぐたい てき に はなしあっ た",
@@ -188,12 +188,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni ru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-ローマ字-972": {
-    "kana": "ともだち と ろうまじ について しばらく はなし た",
-    "romaji": "tomodachi to roumaji nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ろうまじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de roumaji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-一々-175": {
-    "kana": "ともだち と いちいち について しばらく はなし た",
-    "romaji": "tomodachi to ichiichi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いちいち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ichiichi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-一人-391": {
     "kana": "こまっ て いる いち にん に こえ を かけ た",
@@ -204,8 +204,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to ichi betsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-一向-1003": {
-    "kana": "ひたすら な てん を さき に せつめい し た",
-    "romaji": "hitasura na ten o saki ni setsumei shi ta"
+    "kana": "ひたすら な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hitasura na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-一変-1192": {
     "kana": "いっぺん が いたく て きょう わ はやめ に やすん だ",
@@ -220,8 +220,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni ittai e iku michi o shirabe ta"
   },
   "jlpt-n1-一心-1097": {
-    "kana": "ともだち と いっしん について しばらく はなし た",
-    "romaji": "tomodachi to isshin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いっしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de isshin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-一息-354": {
     "kana": "ひといき に だいじ な よてい が はいっ て いる",
@@ -248,12 +248,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "fuutou no ichi men ni juusho o kai ta"
   },
   "jlpt-n1-丁々-266": {
-    "kana": "とうとう へんじ が とどい た ので あんしん し た",
-    "romaji": "toutou henji ga todoi ta node anshin shi ta"
+    "kana": "とうとう よてい を へんこう し た",
+    "romaji": "toutou yotei o henkou shi ta"
   },
   "jlpt-n1-丁目-1120": {
-    "kana": "ともだち と ひのと め について しばらく はなし た",
-    "romaji": "tomodachi to hinoto me nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひのと め について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hinoto me nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-七日-505": {
     "kana": "なな にち に だいじ な よてい が はいっ て いる",
@@ -272,8 +272,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to mikazuki ga totemo kirei ni mie ta"
   },
   "jlpt-n1-上司-951": {
-    "kana": "かいぎ で じょうし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de joushi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じょうし について しばらく はなし た",
+    "romaji": "tomodachi to joushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-上演-127": {
     "kana": "しゅうまつ に ともだち と じょうえん を み に いっ た",
@@ -292,8 +292,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no kaban wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-不可欠-459": {
-    "kana": "ふかけつ な てん を さき に せつめい し た",
-    "romaji": "fukaketsu na ten o saki ni setsumei shi ta"
+    "kana": "ふかけつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fukaketsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-不当-74": {
     "kana": "ふとう な あつかい を うけ て かれ わ すぐ に こうぎ し た",
@@ -316,8 +316,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "fufuku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-不良-122": {
-    "kana": "ふりょう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "furyou na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ふりょう な てん を さき に せつめい し た",
+    "romaji": "furyou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-不順-1281": {
     "kana": "ふじゅん な てん を さき に せつめい し た",
@@ -336,20 +336,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no seron o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-丘陵-466": {
-    "kana": "ともだち と きゅうりょう について しばらく はなし た",
-    "romaji": "tomodachi to kyuuryou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きゅうりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuuryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-並み-592": {
     "kana": "かいぎ で なみ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de nami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-中和-906": {
-    "kana": "ともだち と ちゅうわ について しばらく はなし た",
-    "romaji": "tomodachi to chuuwa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちゅうわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuuwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-中断-957": {
-    "kana": "かいぎ で ちゅうだん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chuudan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちゅうだん について しばらく はなし た",
+    "romaji": "tomodachi to chuudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-中毒-869": {
     "kana": "ともだち と ちゅうどく について しばらく はなし た",
@@ -376,8 +376,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shudou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-主演-812": {
-    "kana": "ともだち と しゅえん について しばらく はなし た",
-    "romaji": "tomodachi to shuen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅえん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-主題-516": {
     "kana": "ともだち と しゅだい について しばらく はなし た",
@@ -392,32 +392,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hisashii michi o yukkuri arui ta"
   },
   "jlpt-n1-乗っ取る-850": {
-    "kana": "あんぜん に のっとる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nottoru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で のっとる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nottoru koto ni shi ta"
   },
   "jlpt-n1-乗り換え-148": {
-    "kana": "ともだち と のりかえ について しばらく はなし た",
-    "romaji": "tomodachi to norikae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で のりかえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de norikae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-乳-650": {
     "kana": "かいぎ で ちち について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de chichi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-乾-1136": {
-    "kana": "かいぎ で いぬい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de inui nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いぬい について しばらく はなし た",
+    "romaji": "tomodachi to inui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-予め-720": {
-    "kana": "あらかじめ へんじ が とどい た ので あんしん し た",
-    "romaji": "arakajime henji ga todoi ta node anshin shi ta"
+    "kana": "あらかじめ よてい を へんこう し た",
+    "romaji": "arakajime yotei o henkou shi ta"
   },
   "jlpt-n1-予想-1094": {
-    "kana": "ともだち と よそう について しばらく はなし た",
-    "romaji": "tomodachi to yosou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で よそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yosou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-予感-743": {
-    "kana": "あんぜん に よかん ため に さき に じゅんび を し た",
-    "romaji": "anzen ni yokan tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て よかん",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te yokan"
   },
   "jlpt-n1-二人-1169": {
     "kana": "に にん の はこ を たな に きれい に ならべ た",
@@ -436,8 +436,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de a ka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-交わす-1011": {
-    "kana": "あんぜん に かわす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kawasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かわす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kawasu koto ni shi ta"
   },
   "jlpt-n1-人-137": {
     "kana": "こまっ て いる ひと に こえ を かけ た",
@@ -452,8 +452,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru jinzai ni koe o kake ta"
   },
   "jlpt-n1-人柄-779": {
-    "kana": "ひとがら な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "hitogara na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ひとがら な てん を さき に せつめい し た",
+    "romaji": "hitogara na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-人質-90": {
     "kana": "かいぎ で ひとじち について ぐたい てき に はなしあっ た",
@@ -468,52 +468,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "imasara yotei o henkou shi ta"
   },
   "jlpt-n1-介抱-726": {
-    "kana": "かいぎ で かいほう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaihou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かいほう について しばらく はなし た",
+    "romaji": "tomodachi to kaihou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-介護-327": {
-    "kana": "ともだち と かいご について しばらく はなし た",
-    "romaji": "tomodachi to kaigo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かいご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaigo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-仏像-1252": {
-    "kana": "ともだち と ぶつぞう について しばらく はなし た",
-    "romaji": "tomodachi to butsuzou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぶつぞう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de butsuzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-仕える-1167": {
-    "kana": "あんぜん に つかえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsukaeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つかえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsukaeru koto ni shi ta"
   },
   "jlpt-n1-仕上げ-69": {
-    "kana": "かいぎ で しあげ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shiage nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しあげ について しばらく はなし た",
+    "romaji": "tomodachi to shiage nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-仕上げる-903": {
     "kana": "さいご まで けいかく を しあげる かくご を きめ た",
     "romaji": "saigo made keikaku o shiageru kakugo o kime ta"
   },
   "jlpt-n1-仕付ける-928": {
-    "kana": "あんぜん に しつける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shitsukeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しつける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shitsukeru"
   },
   "jlpt-n1-仕入れる-252": {
-    "kana": "ひつよう な ばめん で しいれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de shiireru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しいれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shiireru koto ni shi ta"
   },
   "jlpt-n1-仕切る-814": {
-    "kana": "あんぜん に しきる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shikiru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しきる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shikiru"
   },
   "jlpt-n1-仕掛ける-657": {
-    "kana": "あんぜん に しかける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shikakeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しかける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shikakeru koto ni shi ta"
   },
   "jlpt-n1-仕様-331": {
     "kana": "こうじょう に ひつよう な しよう を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na shiyou o asa no uchi ni atsume ta"
   },
   "jlpt-n1-仕立てる-512": {
-    "kana": "したてる な てん を さき に せつめい し た",
-    "romaji": "shitateru na ten o saki ni setsumei shi ta"
+    "kana": "したてる な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shitateru na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-仕舞う-913": {
     "kana": "さいご まで けいかく を しまう かくご を きめ た",
@@ -528,36 +528,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni furoku o oi te kara dekake ta"
   },
   "jlpt-n1-代わる-884": {
-    "kana": "あんぜん に かわる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kawaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kawaru"
   },
   "jlpt-n1-仲人-641": {
     "kana": "かいぎ で なこうど について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de nakoudo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-件-764": {
-    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けん について しばらく はなし た",
+    "romaji": "tomodachi to ken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-任す-496": {
-    "kana": "あんぜん に まかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni makasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まかす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de makasu koto ni shi ta"
   },
   "jlpt-n1-任務-59": {
     "kana": "きょう の にんむ わ おもっ た より はやく おわっ た",
     "romaji": "kyou no ninmu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-任命-349": {
-    "kana": "ともだち と にんめい について しばらく はなし た",
-    "romaji": "tomodachi to ninmei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で にんめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ninmei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-企画-1123": {
     "kana": "かいぎ で きかく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-伊井-200": {
-    "kana": "その せつめい わ すこし いい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi ii to kanji ta"
+    "kana": "おもっ た より いい もんだい だっ た",
+    "romaji": "omo ta yori ii mondai da ta"
   },
   "jlpt-n1-会-611": {
     "kana": "かえりぎわ に え と こえ を かけ た",
@@ -568,28 +568,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shiryou no kaiken ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-伝来-35": {
-    "kana": "ともだち と でんらい について しばらく はなし た",
-    "romaji": "tomodachi to denrai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で でんらい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de denrai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-伝言-369": {
-    "kana": "ともだち と でんごん について しばらく はなし た",
-    "romaji": "tomodachi to dengon nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で でんごん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dengon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-似通う-604": {
     "kana": "ふたつ の いけん が にかよう りゆう を かんがえ た",
     "romaji": "futatsu no iken ga nikayou riyuu o kangae ta"
   },
   "jlpt-n1-住-1047": {
-    "kana": "ともだち と じゅう について しばらく はなし た",
-    "romaji": "tomodachi to juu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-体力-506": {
     "kana": "かいぎ で たいりょく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de tairyoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-何々-186": {
-    "kana": "どれ どれ に みち を たずね た",
-    "romaji": "dore dore ni michi o tazune ta"
+    "kana": "どれ どれ わ しずか に うなずい た",
+    "romaji": "dore dore wa shizuka ni unazui ta"
   },
   "jlpt-n1-何だか-947": {
     "kana": "なんだか よてい を へんこう し た",
@@ -600,20 +600,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "dono mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-何処-138": {
-    "kana": "どこ わ しずか に うなずい た",
-    "romaji": "doko wa shizuka ni unazui ta"
+    "kana": "どこ に みち を たずね た",
+    "romaji": "doko ni michi o tazune ta"
   },
   "jlpt-n1-何処か-3": {
     "kana": "かぎ を どこ か に おい て しまっ た",
     "romaji": "kagi o doko ka ni oi te shima ta"
   },
   "jlpt-n1-何方-1045": {
-    "kana": "どちら わ しずか に うなずい た",
-    "romaji": "dochira wa shizuka ni unazui ta"
+    "kana": "どちら に みち を たずね た",
+    "romaji": "dochira ni michi o tazune ta"
   },
   "jlpt-n1-何気ない-370": {
-    "kana": "その せつめい わ すこし なにげない と かんじ た",
-    "romaji": "sono setsumei wa sukoshi nanigenai to kanji ta"
+    "kana": "おもっ た より なにげない もんだい だっ た",
+    "romaji": "omo ta yori nanigenai mondai da ta"
   },
   "jlpt-n1-余り-111": {
     "kana": "きょう わ あんまり つかれ た ので はやめ に ね た",
@@ -660,8 +660,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na kyou o asa no uchi ni atsume ta"
   },
   "jlpt-n1-便宜-364": {
-    "kana": "ともだち と べんぎ について しばらく はなし た",
-    "romaji": "tomodachi to bengi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で べんぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bengi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-俄か-910": {
     "kana": "にわか な ようす で かれ わ さいご まで はなし を きい た",
@@ -676,64 +676,64 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hokan no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-保険-1206": {
-    "kana": "かいぎ で ほけん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hoken nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほけん について しばらく はなし た",
+    "romaji": "tomodachi to hoken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-信任-382": {
     "kana": "かいぎ で しんにん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de shinnin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-個々-526": {
-    "kana": "かいぎ で ここ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koko nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ここ について しばらく はなし た",
+    "romaji": "tomodachi to koko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-個性-596": {
-    "kana": "ともだち と こせい について しばらく はなし た",
-    "romaji": "tomodachi to kosei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kosei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-偏-782": {
     "kana": "へん な ようす で かれ わ さいご まで はなし を きい た",
     "romaji": "hen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-偏る-281": {
-    "kana": "ひつよう な ばめん で かたよる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de katayoru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かたよる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de katayoru koto ni shi ta"
   },
   "jlpt-n1-偖-346": {
     "kana": "かえりぎわ に さて と こえ を かけ た",
     "romaji": "kaerigiwa ni sate to koe o kake ta"
   },
   "jlpt-n1-健在-665": {
-    "kana": "けんざい な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kenzai na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "けんざい な てん を さき に せつめい し た",
+    "romaji": "kenzai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-側-71": {
     "kana": "ともだち と がわ について しばらく はなし た",
     "romaji": "tomodachi to gawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-傑-356": {
-    "kana": "ともだち と すぐる について しばらく はなし た",
-    "romaji": "tomodachi to suguru nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で すぐる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suguru nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-備わる-445": {
-    "kana": "ひつよう な ばめん で そなわる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sonawaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て そなわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sonawaru"
   },
   "jlpt-n1-催す-538": {
-    "kana": "ひつよう な ばめん で もよおす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de moyoosu houhou o kangae ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を もよおす",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o moyoosu"
   },
   "jlpt-n1-傷-1199": {
-    "kana": "かいぎ で きず について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kizu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きず について しばらく はなし た",
+    "romaji": "tomodachi to kizu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-像-462": {
     "kana": "ともだち と ぞう について しばらく はなし た",
     "romaji": "tomodachi to zou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-僕-1000": {
-    "kana": "ぼく に みち を たずね た",
-    "romaji": "boku ni michi o tazune ta"
+    "kana": "ぼく わ しずか に うなずい た",
+    "romaji": "boku wa shizuka ni unazui ta"
   },
   "jlpt-n1-優-632": {
     "kana": "きょう の ゆう わ おもっ た より はやく おわっ た",
@@ -744,8 +744,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuui na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-優越-39": {
-    "kana": "ともだち と ゆうえつ について しばらく はなし た",
-    "romaji": "tomodachi to yuuetsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆうえつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-元年-941": {
     "kana": "がんねん に だいじ な よてい が はいっ て いる",
@@ -784,36 +784,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sakizaki shuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-先天的-1084": {
-    "kana": "せんてんてき な てん を さき に せつめい し た",
-    "romaji": "sententeki na ten o saki ni setsumei shi ta"
+    "kana": "せんてんてき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sententeki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-先行-114": {
     "kana": "かいぎ で せんこう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de senkou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-光沢-648": {
-    "kana": "ともだち と こうたく について しばらく はなし た",
-    "romaji": "tomodachi to koutaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうたく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koutaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-免れる-218": {
-    "kana": "あんぜん に まぬかれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni manukareru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まぬかれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te manukareru"
   },
   "jlpt-n1-兎に角-786": {
-    "kana": "とにかく よてい を へんこう し た",
-    "romaji": "tonikaku yotei o henkou shi ta"
+    "kana": "とにかく へんじ が とどい た ので あんしん し た",
+    "romaji": "tonikaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-兎角-125": {
-    "kana": "とかく よてい を へんこう し た",
-    "romaji": "tokaku yotei o henkou shi ta"
+    "kana": "とかく へんじ が とどい た ので あんしん し た",
+    "romaji": "tokaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-児-295": {
     "kana": "こ が こっきょう ちかく に はいち さ れ た",
     "romaji": "ko ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-全快-766": {
-    "kana": "ともだち と ぜんかい について しばらく はなし た",
-    "romaji": "tomodachi to zenkai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぜんかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zenkai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-公-121": {
     "kana": "おおやけ な しょるい を わすれ ず に もっ て いっ た",
@@ -832,28 +832,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de tomobataraki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-共和-579": {
-    "kana": "かいぎ で きょうわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyouwa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きょうわ について しばらく はなし た",
+    "romaji": "tomodachi to kyouwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-共存-557": {
-    "kana": "ともだち と きょうぞん について しばらく はなし た",
-    "romaji": "tomodachi to kyouzon nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きょうぞん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouzon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-共学-1160": {
     "kana": "かいぎ で きょうがく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kyougaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-其れでも-1111": {
-    "kana": "ともだち と それでも について しばらく はなし た",
-    "romaji": "tomodachi to soredemo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で それでも について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soredemo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-其処ら-855": {
     "kana": "かぎ を 其 しょ ら に おい て しまっ た",
     "romaji": "kagi o 其 sho ra ni oi te shima ta"
   },
   "jlpt-n1-内部-688": {
-    "kana": "かいぎ で ないぶ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de naibu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ないぶ について しばらく はなし た",
+    "romaji": "tomodachi to naibu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-内閣-42": {
     "kana": "へや の ないかく を きれい に ととのえ た",
@@ -864,8 +864,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "enman na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-円滑-402": {
-    "kana": "えんかつ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "enkatsu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "えんかつ な てん を さき に せつめい し た",
+    "romaji": "enkatsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-再会-1070": {
     "kana": "かいぎ で さいかい について ぐたい てき に はなしあっ た",
@@ -876,36 +876,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de saigen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-再生-794": {
-    "kana": "かいぎ で さいせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saisei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さいせい について しばらく はなし た",
+    "romaji": "tomodachi to saisei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-最善-210": {
-    "kana": "かいぎ で さいぜん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saizen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さいぜん について しばらく はなし た",
+    "romaji": "tomodachi to saizen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-冷淡-419": {
     "kana": "れいたん な てん を さき に せつめい し た",
     "romaji": "reitan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-冷蔵-577": {
-    "kana": "かいぎ で れいぞう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de reizou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と れいぞう について しばらく はなし た",
+    "romaji": "tomodachi to reizou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-凌ぐ-470": {
-    "kana": "あんぜん に しのぐ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shinogu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しのぐ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shinogu"
   },
   "jlpt-n1-凡そ-436": {
-    "kana": "およそ よてい を へんこう し た",
-    "romaji": "oyoso yotei o henkou shi ta"
+    "kana": "およそ へんじ が とどい た ので あんしん し た",
+    "romaji": "oyoso henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-凡ゆる-1219": {
     "kana": "あらゆる みせ わ えき の ちかく に ある",
     "romaji": "arayuru mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-処分-66": {
-    "kana": "ともだち と しょぶん について しばらく はなし た",
-    "romaji": "tomodachi to shobun nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょぶん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shobun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-処罰-333": {
     "kana": "かいぎ で しょばつ について ぐたい てき に はなしあっ た",
@@ -916,24 +916,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e dekuwasu yotei da"
   },
   "jlpt-n1-出入り口-1275": {
-    "kana": "かいぎ で でいり ぐち について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de deiri guchi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と でいり ぐち について しばらく はなし た",
+    "romaji": "tomodachi to deiri guchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-出動-730": {
     "kana": "かいぎ で しゅつどう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de shutsudou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出来物-1274": {
-    "kana": "ともだち と できぶつ について しばらく はなし た",
-    "romaji": "tomodachi to dekibutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で できぶつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dekibutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出演-223": {
     "kana": "しゅうまつ に ともだち と しゅつえん を み に いっ た",
     "romaji": "shuumatsu ni tomodachi to shutsuen o mi ni i ta"
   },
   "jlpt-n1-出生-395": {
-    "kana": "ともだち と しゅっしょう について しばらく はなし た",
-    "romaji": "tomodachi to shusshou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅっしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shusshou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-出産-739": {
     "kana": "こうじょう に ひつよう な しゅっさん を あさ の うち に あつめ た",
@@ -960,8 +960,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kikkake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-切ない-357": {
-    "kana": "せつない ひ だっ た が さいご まで あるい た",
-    "romaji": "setsunai hi da ta ga saigo made arui ta"
+    "kana": "おもっ た より せつない もんだい だっ た",
+    "romaji": "omo ta yori setsunai mondai da ta"
   },
   "jlpt-n1-切れ目-272": {
     "kana": "きょう の きれめ わ おもっ た より はやく おわっ た",
@@ -988,16 +988,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de rikon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-到底-905": {
-    "kana": "とうてい あした わ あめ に なる かも しれ ない",
-    "romaji": "toutei ashita wa ame ni naru kamo shire nai"
+    "kana": "とうてい について べつ の かくど から わだい が ひろがっ た",
+    "romaji": "toutei nitsuite betsu no kakudo kara wadai ga hiroga ta"
   },
   "jlpt-n1-制-388": {
-    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と せい について しばらく はなし た",
+    "romaji": "tomodachi to sei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-制する-1087": {
-    "kana": "あんぜん に せいする ため に さき に じゅんび を し た",
-    "romaji": "anzen ni seisuru tame ni saki ni junbi o shi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を せいする",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o seisuru"
   },
   "jlpt-n1-制定-332": {
     "kana": "ともだち と せいてい について しばらく はなし た",
@@ -1016,16 +1016,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to maeuri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-前提-254": {
-    "kana": "かいぎ で ぜんてい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zentei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぜんてい について しばらく はなし た",
+    "romaji": "tomodachi to zentei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-前置き-310": {
-    "kana": "かいぎ で まえおき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de maeoki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と まえおき について しばらく はなし た",
+    "romaji": "tomodachi to maeoki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-剥がす-1080": {
-    "kana": "あんぜん に はがす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hagasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はがす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hagasu"
   },
   "jlpt-n1-剥げる-517": {
     "kana": "しゅうまつ に ともだち の いえ え はげる よてい だ",
@@ -1036,8 +1036,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to warizan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-割合に-544": {
-    "kana": "わりあい に よてい を へんこう し た",
-    "romaji": "wariai ni yotei o henkou shi ta"
+    "kana": "わりあい に へんじ が とどい た ので あんしん し た",
+    "romaji": "wariai ni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-創刊-321": {
     "kana": "つくえ の うえ に そうかん を おい て から でかけ た",
@@ -1048,8 +1048,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de souzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-加味-831": {
-    "kana": "ともだち と かみ について しばらく はなし た",
-    "romaji": "tomodachi to kami nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-加留多-314": {
     "kana": "ともだち と かるた について しばらく はなし た",
@@ -1060,32 +1060,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to jogen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-助詞-1112": {
-    "kana": "かいぎ で じょし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de joshi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じょし について しばらく はなし た",
+    "romaji": "tomodachi to joshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-努めて-775": {
-    "kana": "つとめ て よてい を へんこう し た",
-    "romaji": "tsutome te yotei o henkou shi ta"
+    "kana": "つとめ て へんじ が とどい た ので あんしん し た",
+    "romaji": "tsutome te henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-励ます-1106": {
-    "kana": "ひつよう な ばめん で はげます ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hagemasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で はげます こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hagemasu koto ni shi ta"
   },
   "jlpt-n1-励む-1176": {
-    "kana": "ひつよう な ばめん で はげむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hagemu houhou o kangae ta"
+    "kana": "かれ わ だいがく じだい から けんきゅう に そうりつ はげん で いる",
+    "romaji": "kare wa daigaku jidai kara kenkyuu ni souritsu hagen de iru"
   },
   "jlpt-n1-効率-132": {
     "kana": "ともだち と こうりつ について しばらく はなし た",
     "romaji": "tomodachi to kouritsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-動揺-1236": {
-    "kana": "かいぎ で どうよう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de douyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と どうよう について しばらく はなし た",
+    "romaji": "tomodachi to douyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-勘弁-759": {
-    "kana": "かいぎ で かんべん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanben nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんべん について しばらく はなし た",
+    "romaji": "tomodachi to kanben nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-勝利-1282": {
     "kana": "ともだち と しょうり について しばらく はなし た",
@@ -1100,12 +1100,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kinben na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-包む-769": {
-    "kana": "ひつよう な ばめん で くるむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kurumu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くるむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kurumu"
   },
   "jlpt-n1-化石-1257": {
-    "kana": "かいぎ で かせき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaseki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かせき について しばらく はなし た",
+    "romaji": "tomodachi to kaseki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-化繊-1081": {
     "kana": "ともだち と かせん について しばらく はなし た",
@@ -1120,8 +1120,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "machimachi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-区間-870": {
-    "kana": "かいぎ で くかん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kukan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と くかん について しばらく はなし た",
+    "romaji": "tomodachi to kukan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-半端-856": {
     "kana": "はんぱ な ようす で かれ わ さいご まで はなし を きい た",
@@ -1140,8 +1140,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kyougi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-単調-909": {
-    "kana": "たんちょう な てん を さき に せつめい し た",
-    "romaji": "tanchou na ten o saki ni setsumei shi ta"
+    "kana": "たんちょう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "tanchou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-卯-931": {
     "kana": "う に だいじ な よてい が はいっ て いる",
@@ -1152,16 +1152,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shirushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-印鑑-87": {
-    "kana": "かいぎ で いんかん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de inkan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いんかん について しばらく はなし た",
+    "romaji": "tomodachi to inkan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-危ぶむ-738": {
-    "kana": "ひつよう な ばめん で あやぶむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ayabumu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あやぶむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ayabumu"
   },
   "jlpt-n1-即座に-179": {
-    "kana": "そくざ に よてい を へんこう し た",
-    "romaji": "sokuza ni yotei o henkou shi ta"
+    "kana": "そくざ に へんじ が とどい た ので あんしん し た",
+    "romaji": "sokuza ni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-原作-1244": {
     "kana": "きょう の げんさく わ おもっ た より はやく おわっ た",
@@ -1184,12 +1184,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni iyaiya to koe o kake ta"
   },
   "jlpt-n1-参上-621": {
-    "kana": "かいぎ で さんじょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sanjou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さんじょう について しばらく はなし た",
+    "romaji": "tomodachi to sanjou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-及び-907": {
-    "kana": "ともだち と および について しばらく はなし た",
-    "romaji": "tomodachi to oyobi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で および について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oyobi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-反-574": {
     "kana": "たん の はこ を たな に きれい に ならべ た",
@@ -1204,16 +1204,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi hankan o oboe ta"
   },
   "jlpt-n1-反響-503": {
-    "kana": "かいぎ で はんきょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hankyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はんきょう について しばらく はなし た",
+    "romaji": "tomodachi to hankyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-収容-778": {
     "kana": "つくえ の うえ に しゅうよう を おい て から でかけ た",
     "romaji": "tsukue no ue ni shuuyou o oi te kara dekake ta"
   },
   "jlpt-n1-収支-654": {
-    "kana": "かいぎ で しゅうし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuushi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅうし について しばらく はなし た",
+    "romaji": "tomodachi to shuushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-取りあえず-857": {
     "kana": "とりあえず へんじ が とどい た ので あんしん し た",
@@ -1228,16 +1228,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no torihiki wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-取り扱い-602": {
-    "kana": "ともだち と とりあつかい について しばらく はなし た",
-    "romaji": "tomodachi to toriatsukai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とりあつかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toriatsukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-取り替え-1012": {
-    "kana": "ともだち と とりかえ について しばらく はなし た",
-    "romaji": "tomodachi to torikae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とりかえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de torikae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-取り立てる-322": {
-    "kana": "あんぜん に とりたてる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toritateru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とりたてる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toritateru koto ni shi ta"
   },
   "jlpt-n1-取り組む-124": {
     "kana": "しゅうまつ に ともだち の いえ え とりくむ よてい だ",
@@ -1248,20 +1248,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "garasu ga torishimaru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n1-取り調べる-659": {
-    "kana": "ひつよう な ばめん で とりしらべる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de torishiraberu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て とりしらべる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te torishiraberu"
   },
   "jlpt-n1-取材-983": {
     "kana": "こうじょう に ひつよう な しゅざい を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na shuzai o asa no uchi ni atsume ta"
   },
   "jlpt-n1-受け入れ-594": {
-    "kana": "ともだち と うけいれ について しばらく はなし た",
-    "romaji": "tomodachi to ukeire nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うけいれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ukeire nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-受け取り-801": {
-    "kana": "かいぎ で うけとり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de uketori nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うけとり について しばらく はなし た",
+    "romaji": "tomodachi to uketori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-受け止める-815": {
     "kana": "しゅうまつ に ともだち の いえ え うけとめる よてい だ",
@@ -1272,12 +1272,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de sakebi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-可哀想-1074": {
-    "kana": "かわいそう な てん を さき に せつめい し た",
-    "romaji": "kawaisou na ten o saki ni setsumei shi ta"
+    "kana": "かわいそう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kawaisou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-可愛い-893": {
-    "kana": "その せつめい わ すこし かわいい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi kawaii to kanji ta"
+    "kana": "かわいい ひ だっ た が さいご まで あるい た",
+    "romaji": "kawaii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-可愛がる-83": {
     "kana": "かぞく を かわいがる きもち を たいせつ に し て いる",
@@ -1296,16 +1296,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "uketsuke de gou o yoba reru made ma ta"
   },
   "jlpt-n1-司る-813": {
-    "kana": "ひつよう な ばめん で つかさどる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsukasadoru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つかさどる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsukasadoru"
   },
   "jlpt-n1-合わせ-1225": {
     "kana": "あわせ で じょうけん を はなしあっ た",
     "romaji": "awase de jouken o hanashia ta"
   },
   "jlpt-n1-同-1046": {
-    "kana": "かいぎ で どう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と どう について しばらく はなし た",
+    "romaji": "tomodachi to dou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-同封-969": {
     "kana": "つくえ の うえ に どうふう を おい て から でかけ た",
@@ -1320,24 +1320,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no iken ni doukan shi te fukaku unazui ta"
   },
   "jlpt-n1-同等-914": {
-    "kana": "どうとう な てん を さき に せつめい し た",
-    "romaji": "doutou na ten o saki ni setsumei shi ta"
+    "kana": "どうとう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "doutou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-同級-1027": {
     "kana": "きょう の どうきゅう わ おもっ た より はやく おわっ た",
     "romaji": "kyou no doukyuu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-名付ける-107": {
-    "kana": "あんぜん に なづける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nazukeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なづける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nazukeru"
   },
   "jlpt-n1-名簿-1172": {
     "kana": "かいぎ で めいぼ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de meibo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-名誉-79": {
-    "kana": "めいよ な てん を さき に せつめい し た",
-    "romaji": "meiyo na ten o saki ni setsumei shi ta"
+    "kana": "めいよ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "meiyo na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-名高い-309": {
     "kana": "おもっ た より なだかい もんだい だっ た",
@@ -1348,8 +1348,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de muki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-向上-58": {
-    "kana": "ともだち と こうじょう について しばらく はなし た",
-    "romaji": "tomodachi to koujou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-君主-646": {
     "kana": "くんしゅ が しきてん で みじかい えんぜつ を おこなっ た",
@@ -1364,32 +1364,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "u gai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-呆れる-817": {
-    "kana": "ひつよう な ばめん で あきれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de akireru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あきれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de akireru koto ni shi ta"
   },
   "jlpt-n1-呆然-762": {
     "kana": "かいぎ で ぼうぜん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de bouzen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-呉れる-531": {
-    "kana": "ひつよう な ばめん で くれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kureru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で くれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kureru koto ni shi ta"
   },
   "jlpt-n1-告白-949": {
-    "kana": "ともだち と こくはく について しばらく はなし た",
-    "romaji": "tomodachi to kokuhaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こくはく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokuhaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-周-468": {
-    "kana": "ともだち と しゅう について しばらく はなし た",
-    "romaji": "tomodachi to shuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-周期-514": {
     "kana": "ともだち と しゅうき について しばらく はなし た",
     "romaji": "tomodachi to shuuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-味覚-195": {
-    "kana": "かいぎ で みかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mikaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と みかく について しばらく はなし た",
+    "romaji": "tomodachi to mikaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-和-808": {
     "kana": "ともだち と わ について しばらく はなし た",
@@ -1404,12 +1404,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to wafuu ga totemo kirei ni mie ta"
   },
   "jlpt-n1-員-324": {
-    "kana": "かいぎ で いん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de in nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いん について しばらく はなし た",
+    "romaji": "tomodachi to in nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-唱える-1158": {
-    "kana": "ひつよう な ばめん で となえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tonaeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で となえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tonaeru koto ni shi ta"
   },
   "jlpt-n1-商-976": {
     "kana": "しんらい できる しょう に しゅうり を たのん だ",
@@ -1420,28 +1420,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tasuke o toiawaseru koe ga tooku kara kikoe ta"
   },
   "jlpt-n1-問う-247": {
-    "kana": "あいて を つよく とう まえ に まず じじょう を きい た",
-    "romaji": "aite o tsuyoku tou mae ni mazu jijou o kii ta"
+    "kana": "あいて を つよく に とう まえ に まず じじょう を きい た",
+    "romaji": "aite o tsuyoku ni tou mae ni mazu jijou o kii ta"
   },
   "jlpt-n1-問屋-566": {
     "kana": "しんらい できる とんや に しゅうり を たのん だ",
     "romaji": "shinrai dekiru ton'ya ni shuuri o tanon da"
   },
   "jlpt-n1-善し悪し-400": {
-    "kana": "かいぎ で よしあし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yoshiashi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と よしあし について しばらく はなし た",
+    "romaji": "tomodachi to yoshiashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-喋る-494": {
-    "kana": "あんぜん に しゃべる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shaberu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しゃべる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shaberu koto ni shi ta"
   },
   "jlpt-n1-喜劇-713": {
     "kana": "しゅうまつ に ともだち と きげき を み に いっ た",
     "romaji": "shuumatsu ni tomodachi to kigeki o mi ni i ta"
   },
   "jlpt-n1-喧しい-85": {
-    "kana": "やかましい ひ だっ た が さいご まで あるい た",
-    "romaji": "yakamashii hi da ta ga saigo made arui ta"
+    "kana": "その せつめい わ すこし やかましい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi yakamashii to kanji ta"
   },
   "jlpt-n1-喫茶-753": {
     "kana": "きゅうけい ちゅう に あたたかい きっさ を いっぱい のん だ",
@@ -1456,32 +1456,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni aa to koe o kake ta"
   },
   "jlpt-n1-嗜好-24": {
-    "kana": "ともだち と しこう について しばらく はなし た",
-    "romaji": "tomodachi to shikou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shikou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-嘗める-622": {
-    "kana": "ひつよう な ばめん で なめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nameru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nameru"
   },
   "jlpt-n1-嘘つき-938": {
     "kana": "ともだち と うそつき について しばらく はなし た",
     "romaji": "tomodachi to usotsuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嘴-890": {
-    "kana": "かいぎ で くちばし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kuchibashi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と くちばし について しばらく はなし た",
+    "romaji": "tomodachi to kuchibashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-噴出-1049": {
-    "kana": "ともだち と ふんしゅつ について しばらく はなし た",
-    "romaji": "tomodachi to funshutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふんしゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de funshutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-嚏-940": {
-    "kana": "ともだち と くしゃみ について しばらく はなし た",
-    "romaji": "tomodachi to kushami nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で くしゃみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kushami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-回路-1195": {
-    "kana": "ともだち と かいろ について しばらく はなし た",
-    "romaji": "tomodachi to kairo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かいろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kairo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-団扇-1118": {
     "kana": "へや の うちわ を きれい に ととのえ た",
@@ -1492,20 +1492,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to danketsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-図る-1177": {
-    "kana": "ひつよう な ばめん で はかる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hakaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はかる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hakaru"
   },
   "jlpt-n1-国定-385": {
-    "kana": "ともだち と こくてい について しばらく はなし た",
-    "romaji": "tomodachi to kokutei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こくてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokutei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-国産-734": {
-    "kana": "ともだち と こくさん について しばらく はなし た",
-    "romaji": "tomodachi to kokusan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こくさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokusan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-圏-1256": {
-    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けん について しばらく はなし た",
+    "romaji": "tomodachi to ken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-園-929": {
     "kana": "えん の ひかり が よる の みち を てらし て い た",
@@ -1516,20 +1516,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni dote o sukoshi tabe ta"
   },
   "jlpt-n1-土木-134": {
-    "kana": "ともだち と どぼく について しばらく はなし た",
-    "romaji": "tomodachi to doboku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で どぼく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doboku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-圧力-1147": {
-    "kana": "かいぎ で あつりょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de atsuryoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あつりょく について しばらく はなし た",
+    "romaji": "tomodachi to atsuryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-圧迫-1079": {
-    "kana": "かいぎ で あっぱく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de appaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あっぱく について しばらく はなし た",
+    "romaji": "tomodachi to appaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-在庫-1068": {
-    "kana": "かいぎ で ざいこ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zaiko nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ざいこ について しばらく はなし た",
+    "romaji": "tomodachi to zaiko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-地元-964": {
     "kana": "かいぎ で じもと について ぐたい てき に はなしあっ た",
@@ -1540,120 +1540,120 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "botchan no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n1-垢-44": {
-    "kana": "ともだち と あか について しばらく はなし た",
-    "romaji": "tomodachi to aka nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-城下-211": {
-    "kana": "ともだち と じょうか について しばらく はなし た",
-    "romaji": "tomodachi to jouka nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じょうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-埋め込む-472": {
-    "kana": "あんぜん に うめこむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni umekomu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うめこむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te umekomu"
   },
   "jlpt-n1-執着-404": {
     "kana": "かいぎ で しゅうちゃく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de shuuchaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-基-961": {
-    "kana": "ともだち と もと について しばらく はなし た",
-    "romaji": "tomodachi to moto nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-堪える-379": {
     "kana": "よてい が こたえる ひ を えらん で みんな で あつまっ た",
     "romaji": "yotei ga kotaeru hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-報酬-164": {
-    "kana": "かいぎ で ほうしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de houshuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほうしゅう について しばらく はなし た",
+    "romaji": "tomodachi to houshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-填まる-313": {
     "kana": "よてい が はま まる ひ を えらん で みんな で あつまっ た",
     "romaji": "yotei ga hama maru hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-増強-1156": {
-    "kana": "ともだち と ぞうきょう について しばらく はなし た",
-    "romaji": "tomodachi to zoukyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぞうきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zoukyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-増進-1175": {
-    "kana": "ともだち と ぞうしん について しばらく はなし た",
-    "romaji": "tomodachi to zoushin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぞうしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zoushin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-壷-285": {
     "kana": "つくえ の うえ に つぼ を おい て から でかけ た",
     "romaji": "tsukue no ue ni tsubo o oi te kara dekake ta"
   },
   "jlpt-n1-変動-246": {
-    "kana": "ともだち と へんどう について しばらく はなし た",
-    "romaji": "tomodachi to hendou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で へんどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hendou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-変遷-288": {
-    "kana": "ともだち と へんせん について しばらく はなし た",
-    "romaji": "tomodachi to hensen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で へんせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hensen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-変革-135": {
-    "kana": "ともだち と へんかく について しばらく はなし た",
-    "romaji": "tomodachi to henkaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で へんかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de henkaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-夕暮れ-828": {
     "kana": "ゆうぐれ に だいじ な よてい が はいっ て いる",
     "romaji": "yuugure ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-外相-1075": {
-    "kana": "かいぎ で がいしょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gaishou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と がいしょう について しばらく はなし た",
+    "romaji": "tomodachi to gaishou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-多様-421": {
-    "kana": "たよう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "tayou na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "たよう な てん を さき に せつめい し た",
+    "romaji": "tayou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-夜中-108": {
     "kana": "やちゅう に だいじ な よてい が はいっ て いる",
     "romaji": "yachuu ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-夜行-1189": {
-    "kana": "やこう ばす で とうきょう え むかっ た",
-    "romaji": "yakou basu de toukyou e muka ta"
+    "kana": "やこう れっしゃ で こきょう え かえっ た",
+    "romaji": "yakou ressha de kokyou e kae ta"
   },
   "jlpt-n1-大事-702": {
     "kana": "だいじ な しょるい を わすれ ず に もっ て いっ た",
     "romaji": "daiji na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-大幅-863": {
-    "kana": "おおはば な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "oohaba na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "おおはば な てん を さき に せつめい し た",
+    "romaji": "oohaba na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-大方-585": {
-    "kana": "ともだち と おおかた について しばらく はなし た",
-    "romaji": "tomodachi to ookata nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おおかた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ookata nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-大水-88": {
-    "kana": "ともだち と おおみず について しばらく はなし た",
-    "romaji": "tomodachi to oomizu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おおみず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oomizu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-大筋-136": {
-    "kana": "ともだち と おおすじ について しばらく はなし た",
-    "romaji": "tomodachi to oosuji nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おおすじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oosuji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-大胆-106": {
-    "kana": "だいたん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "daitan na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "だいたん な てん を さき に せつめい し た",
+    "romaji": "daitan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-大衆-192": {
     "kana": "ともだち と たいしゅう について しばらく はなし た",
     "romaji": "tomodachi to taishuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大部-235": {
-    "kana": "かいぎ で たいぶ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taibu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たいぶ について しばらく はなし た",
+    "romaji": "tomodachi to taibu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-大金-597": {
-    "kana": "かいぎ で たいきん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taikin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たいきん について しばらく はなし た",
+    "romaji": "tomodachi to taikin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-天-991": {
-    "kana": "てん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "ten na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "てん な てん を さき に せつめい し た",
+    "romaji": "ten na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-天地-837": {
     "kana": "やま の てんち から まち ぜんたい が みえ た",
@@ -1664,8 +1664,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to tensai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-失調-990": {
-    "kana": "ともだち と しっちょう について しばらく はなし た",
-    "romaji": "tomodachi to shitchou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しっちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitchou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-奇数-1266": {
     "kana": "うけつけ で きすう を よば れる まで まっ た",
@@ -1676,20 +1676,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kirei na machi o yukkuri arui ta"
   },
   "jlpt-n1-契る-355": {
-    "kana": "あんぜん に ちぎる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni chigiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ちぎる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de chigiru koto ni shi ta"
   },
   "jlpt-n1-奨励-225": {
-    "kana": "かいぎ で しょうれい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shourei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょうれい について しばらく はなし た",
+    "romaji": "tomodachi to shourei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-奮闘-320": {
-    "kana": "ともだち と ふんとう について しばらく はなし た",
-    "romaji": "tomodachi to funtou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふんとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de funtou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-女史-429": {
-    "kana": "かいぎ で じょし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de joshi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じょし について しばらく はなし た",
+    "romaji": "tomodachi to joshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-好意-1208": {
     "kana": "かいぎ で こうい について ぐたい てき に はなしあっ た",
@@ -1704,24 +1704,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "doushite henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-如何に-746": {
-    "kana": "いかに よてい を へんこう し た",
-    "romaji": "ikani yotei o henkou shi ta"
+    "kana": "いかに へんじ が とどい た ので あんしん し た",
+    "romaji": "ikani henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-如何にも-101": {
-    "kana": "いかにも な てん を さき に せつめい し た",
-    "romaji": "ikanimo na ten o saki ni setsumei shi ta"
+    "kana": "いかにも な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "ikanimo na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-妥結-1130": {
     "kana": "かれ の いけん に だけつ し て ふかく うなずい た",
     "romaji": "kare no iken ni daketsu shi te fukaku unazui ta"
   },
   "jlpt-n1-妬む-194": {
-    "kana": "ひつよう な ばめん で ねたむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de netamu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ねたむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te netamu"
   },
   "jlpt-n1-始末-347": {
-    "kana": "ともだち と しまつ について しばらく はなし た",
-    "romaji": "tomodachi to shimatsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しまつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shimatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-始発-805": {
     "kana": "しゅうまつ に しはつ え いく みち を しらべ た",
@@ -1732,8 +1732,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "enkyoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-嫉妬-729": {
-    "kana": "ともだち と しっと について しばらく はなし た",
-    "romaji": "tomodachi to shitto nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しっと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-嬢-406": {
     "kana": "かいぎ で じょう について ぐたい てき に はなしあっ た",
@@ -1752,12 +1752,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni kikan o oi te kara dekake ta"
   },
   "jlpt-n1-孤独-1064": {
-    "kana": "こどく な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kodoku na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "こどく な てん を さき に せつめい し た",
+    "romaji": "kodoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-守備-358": {
-    "kana": "ともだち と しゅび について しばらく はなし た",
-    "romaji": "tomodachi to shubi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-安っぽい-933": {
     "kana": "その せつめい わ すこし やすっぽい と かんじ た",
@@ -1772,8 +1772,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni sadamaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-定める-1126": {
-    "kana": "ひつよう な ばめん で さだめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sadameru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さだめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sadameru"
   },
   "jlpt-n1-宛-783": {
     "kana": "あて に だいじ な よてい が はいっ て いる",
@@ -1804,24 +1804,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no bokujou de kachiku o mi ta"
   },
   "jlpt-n1-家計-237": {
-    "kana": "ともだち と かけい について しばらく はなし た",
-    "romaji": "tomodachi to kakei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-容易い-1258": {
     "kana": "たやすい ひ だっ た が さいご まで あるい た",
     "romaji": "tayasui hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-宿命-1278": {
-    "kana": "ともだち と しゅくめい について しばらく はなし た",
-    "romaji": "tomodachi to shukumei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅくめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shukumei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-寄こす-758": {
     "kana": "おもい にもつ を えき まで よこす ひと を さがし た",
     "romaji": "omoi nimotsu o eki made yokosu hito o sagashi ta"
   },
   "jlpt-n1-密接-438": {
-    "kana": "みっせつ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "missetsu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "みっせつ な てん を さき に せつめい し た",
+    "romaji": "missetsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-密集-818": {
     "kana": "ともだち と みっしゅう について しばらく はなし た",
@@ -1836,24 +1836,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "uwagi o nekaseru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n1-察する-120": {
-    "kana": "ひつよう な ばめん で さっする ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sassuru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で さっする こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sassuru koto ni shi ta"
   },
   "jlpt-n1-審査-126": {
     "kana": "しりょう の しんさ に わ じぜん の よやく が ひつよう だ",
     "romaji": "shiryou no shinsa ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-審議-980": {
-    "kana": "かいぎ で しんぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shingi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんぎ について しばらく はなし た",
+    "romaji": "tomodachi to shingi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-対して-1104": {
     "kana": "たいし て この ぶぶん を ていねい に よん だ",
     "romaji": "taishi te kono bubun o teinei ni yon da"
   },
   "jlpt-n1-対比-756": {
-    "kana": "ともだち と たいひ について しばらく はなし た",
-    "romaji": "tomodachi to taihi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で たいひ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taihi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-対等-691": {
     "kana": "たいとう な てん を さき に せつめい し た",
@@ -1868,60 +1868,60 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to sen'you nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-導く-822": {
-    "kana": "ひつよう な ばめん で みちびく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de michibiku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て みちびく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te michibiku"
   },
   "jlpt-n1-尚-871": {
-    "kana": "なお へんじ が とどい た ので あんしん し た",
-    "romaji": "nao henji ga todoi ta node anshin shi ta"
+    "kana": "なお よてい を へんこう し た",
+    "romaji": "nao yotei o henkou shi ta"
   },
   "jlpt-n1-尻尾-634": {
     "kana": "ちかく の ぼくじょう で しっぽ を み た",
     "romaji": "chikaku no bokujou de shippo o mi ta"
   },
   "jlpt-n1-尽くす-1242": {
-    "kana": "あたらしい どうぐ を つくす ばめん が ふえ て いる",
-    "romaji": "atarashii dougu o tsukusu bamen ga fue te iru"
+    "kana": "かれ わ だいがく じだい から けんきゅう に つくす",
+    "romaji": "kare wa daigaku jidai kara kenkyuu ni tsukusu"
   },
   "jlpt-n1-尾-1128": {
     "kana": "ちかく の ぼくじょう で お を み た",
     "romaji": "chikaku no bokujou de o o mi ta"
   },
   "jlpt-n1-尿-497": {
-    "kana": "ともだち と にょう について しばらく はなし た",
-    "romaji": "tomodachi to nyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で にょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-局限-627": {
-    "kana": "かいぎ で きょくげん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyokugen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きょくげん について しばらく はなし た",
+    "romaji": "tomodachi to kyokugen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-屈折-234": {
-    "kana": "ともだち と くっせつ について しばらく はなし た",
-    "romaji": "tomodachi to kussetsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で くっせつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kussetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-届け-684": {
-    "kana": "ともだち と とどけ について しばらく はなし た",
-    "romaji": "tomodachi to todoke nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とどけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de todoke nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-屡-693": {
     "kana": "しばしば へんじ が とどい た ので あんしん し た",
     "romaji": "shibashiba henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-山腹-446": {
-    "kana": "ともだち と さんぷく について しばらく はなし た",
-    "romaji": "tomodachi to sanpuku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さんぷく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sanpuku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-岩石-1135": {
-    "kana": "ともだち と がんせき について しばらく はなし た",
-    "romaji": "tomodachi to ganseki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で がんせき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ganseki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-崇拝-498": {
-    "kana": "かいぎ で すうはい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de suuhai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と すうはい について しばらく はなし た",
+    "romaji": "tomodachi to suuhai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-嵩張る-524": {
-    "kana": "あんぜん に かさばる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kasabaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かさばる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kasabaru koto ni shi ta"
   },
   "jlpt-n1-工作-953": {
     "kana": "あたらしい さあびす の こうさく が よてい より はやく すすん で いる",
@@ -1932,12 +1932,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni sayounara to koe o kake ta"
   },
   "jlpt-n1-巧み-803": {
-    "kana": "たくみ な てん を さき に せつめい し た",
-    "romaji": "takumi na ten o saki ni setsumei shi ta"
+    "kana": "たくみ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "takumi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-巧妙-158": {
-    "kana": "こうみょう な てん を さき に せつめい し た",
-    "romaji": "koumyou na ten o saki ni setsumei shi ta"
+    "kana": "こうみょう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "koumyou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-差し支える-732": {
     "kana": "はる に さしつかえる ころ えきまえ の さくら が さき はじめる",
@@ -1952,8 +1952,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyuukei chuu ni atatakai fukin o ippai non da"
   },
   "jlpt-n1-帳-1196": {
-    "kana": "かいぎ で とばり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tobari nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とばり について しばらく はなし た",
+    "romaji": "tomodachi to tobari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-幕-430": {
     "kana": "かいぎ で まく について ぐたい てき に はなしあっ た",
@@ -1964,8 +1964,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiratai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-平常-1121": {
-    "kana": "かいぎ で へいじょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de heijou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と へいじょう について しばらく はなし た",
+    "romaji": "tomodachi to heijou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-年生-181": {
     "kana": "とし せい に だいじ な よてい が はいっ て いる",
@@ -1980,40 +1980,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to miki ga totemo kirei ni mie ta"
   },
   "jlpt-n1-幹部-755": {
-    "kana": "かいぎ で かんぶ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanbu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんぶ について しばらく はなし た",
+    "romaji": "tomodachi to kanbu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-幽霊-716": {
     "kana": "ともだち と ゆうれい について しばらく はなし た",
     "romaji": "tomodachi to yuurei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-広まる-578": {
-    "kana": "あんぜん に ひろまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hiromaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ひろまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hiromaru koto ni shi ta"
   },
   "jlpt-n1-店-31": {
     "kana": "しゅうまつ に みせ え いく みち を しらべ た",
     "romaji": "shuumatsu ni mise e iku michi o shirabe ta"
   },
   "jlpt-n1-度忘れ-75": {
-    "kana": "ともだち と どわすれ について しばらく はなし た",
-    "romaji": "tomodachi to dowasure nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で どわすれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dowasure nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-庶務-1165": {
-    "kana": "かいぎ で しょむ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shomu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょむ について しばらく はなし た",
+    "romaji": "tomodachi to shomu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-庶民-328": {
-    "kana": "かいぎ で しょみん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shomin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょみん について しばらく はなし た",
+    "romaji": "tomodachi to shomin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-廃れる-558": {
     "kana": "はる に すたれる ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni sutareru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-廃棄-1211": {
-    "kana": "かいぎ で はいき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de haiki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はいき について しばらく はなし た",
+    "romaji": "tomodachi to haiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-廃止-1133": {
     "kana": "ともだち と はいし について しばらく はなし た",
@@ -2028,8 +2028,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to benron nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-弁護-569": {
-    "kana": "ともだち と べんご について しばらく はなし た",
-    "romaji": "tomodachi to bengo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で べんご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bengo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-弓-624": {
     "kana": "つくえ の うえ に ゆみ を おい て から でかけ た",
@@ -2044,24 +2044,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hikidashi kara furui tegami o hikisageru to natsukashiku na ta"
   },
   "jlpt-n1-引き受ける-325": {
-    "kana": "あんぜん に ひきうける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hikiukeru tame ni saki ni junbi o shi ta"
+    "kana": "しゅっちょう の こうつう ひ わ かいしゃ が ひきうける",
+    "romaji": "shutchou no koutsuu hi wa kaisha ga hikiukeru"
   },
   "jlpt-n1-弛み-255": {
-    "kana": "ともだち と ゆるみ について しばらく はなし た",
-    "romaji": "tomodachi to yurumi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆるみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yurumi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-弛む-1166": {
-    "kana": "あんぜん に たるむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tarumu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で たるむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tarumu koto ni shi ta"
   },
   "jlpt-n1-弟-1179": {
     "kana": "こまっ て いる おとうと に こえ を かけ た",
     "romaji": "koma te iru otouto ni koe o kake ta"
   },
   "jlpt-n1-弱まる-876": {
-    "kana": "ひつよう な ばめん で よわまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de yowamaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で よわまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yowamaru koto ni shi ta"
   },
   "jlpt-n1-強烈-1170": {
     "kana": "きょうれつ な ようす で かれ わ さいご まで はなし を きい た",
@@ -2084,8 +2084,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de ate o mitsuke ta"
   },
   "jlpt-n1-当てはまる-1272": {
-    "kana": "この じょうけん に あてはまる ばあい わ ついか の てつづき が ひつよう だ",
-    "romaji": "kono jouken ni atehamaru baai wa tsuika no tetsuzuki ga hitsuyou da"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を あてはまる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o atehamaru"
   },
   "jlpt-n1-役職-444": {
     "kana": "やくしょく な しょるい を わすれ ず に もっ て いっ た",
@@ -2104,20 +2104,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "achikochi o sagashi ta ga saifu wa mitsukara naka ta"
   },
   "jlpt-n1-彼此-710": {
-    "kana": "あれこれ に みち を たずね た",
-    "romaji": "arekore ni michi o tazune ta"
+    "kana": "あれこれ わ しずか に うなずい た",
+    "romaji": "arekore wa shizuka ni unazui ta"
   },
   "jlpt-n1-待ち合わせ-868": {
     "kana": "ともだち と まちあわせ について しばらく はなし た",
     "romaji": "tomodachi to machiawase nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-待ち望む-576": {
-    "kana": "ひつよう な ばめん で まちのぞむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de machinozomu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まちのぞむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te machinozomu"
   },
   "jlpt-n1-待ち遠しい-835": {
-    "kana": "まちどおしい ひ だっ た が さいご まで あるい た",
-    "romaji": "machidooshii hi da ta ga saigo made arui ta"
+    "kana": "おもっ た より まちどおしい もんだい だっ た",
+    "romaji": "omo ta yori machidooshii mondai da ta"
   },
   "jlpt-n1-待望-480": {
     "kana": "ともだち と たいぼう について しばらく はなし た",
@@ -2128,20 +2128,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to taiguu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-後悔-22": {
-    "kana": "ともだち と こうかい について しばらく はなし た",
-    "romaji": "tomodachi to koukai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-徒歩-34": {
     "kana": "とほ が いたく て きょう わ はやめ に やすん だ",
     "romaji": "toho ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-従来-532": {
-    "kana": "かいぎ で じゅうらい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de juurai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じゅうらい について しばらく はなし た",
+    "romaji": "tomodachi to juurai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-得点-274": {
-    "kana": "ともだち と とくてん について しばらく はなし た",
-    "romaji": "tomodachi to tokuten nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とくてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tokuten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-御-283": {
     "kana": "ともだち とご について しばらく はなし た",
@@ -2152,44 +2152,44 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de omake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-微か-610": {
-    "kana": "かすか な てん を さき に せつめい し た",
-    "romaji": "kasuka na ten o saki ni setsumei shi ta"
+    "kana": "かすか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kasuka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-徹する-335": {
-    "kana": "しゅうまつ に ともだち の いえ え てっする よてい だ",
-    "romaji": "shuumatsu ni tomodachi no ie e tessuru yotei da"
+    "kana": "かれ わ だいがく じだい から けんきゅう に てっする",
+    "romaji": "kare wa daigaku jidai kara kenkyuu ni tessuru"
   },
   "jlpt-n1-心中-679": {
-    "kana": "かいぎ で しんじゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinjuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんじゅう について しばらく はなし た",
+    "romaji": "tomodachi to shinjuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-心掛け-63": {
     "kana": "かいぎ で こころがけ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kokorogake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-心掛ける-937": {
-    "kana": "ひつよう な ばめん で こころがける ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kokorogakeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で こころがける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kokorogakeru koto ni shi ta"
   },
   "jlpt-n1-心細い-926": {
-    "kana": "その せつめい わ すこし こころぼそい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi kokorobosoi to kanji ta"
+    "kana": "こころぼそい ひ だっ た が さいご まで あるい た",
+    "romaji": "kokorobosoi hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-志-750": {
-    "kana": "ともだち と こころざし について しばらく はなし た",
-    "romaji": "tomodachi to kokorozashi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こころざし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokorozashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-志す-672": {
-    "kana": "あんぜん に こころざす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kokorozasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て こころざす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kokorozasu"
   },
   "jlpt-n1-志望-190": {
     "kana": "ともだち と しぼう について しばらく はなし た",
     "romaji": "tomodachi to shibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-忠告-56": {
-    "kana": "かいぎ で ちゅうこく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chuukoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちゅうこく について しばらく はなし た",
+    "romaji": "tomodachi to chuukoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-忽ち-1247": {
     "kana": "たちまち へんじ が とどい た ので あんしん し た",
@@ -2200,8 +2200,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi ikari o oboe ta"
   },
   "jlpt-n1-怒る-1039": {
-    "kana": "ひつよう な ばめん で おこる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de okoru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おこる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te okoru"
   },
   "jlpt-n1-思考-1114": {
     "kana": "かれ の しこう を きい て かんがえかた が すこし かわっ た",
@@ -2212,28 +2212,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "darui hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-怠慢-46": {
-    "kana": "たいまん な てん を さき に せつめい し た",
-    "romaji": "taiman na ten o saki ni setsumei shi ta"
+    "kana": "たいまん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "taiman na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-急かす-443": {
-    "kana": "あんぜん に せかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sekasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て せかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sekasu"
   },
   "jlpt-n1-恋愛-1174": {
     "kana": "とつぜん の しらせ に つよい れんあい を おぼえ た",
     "romaji": "totsuzen no shirase ni tsuyoi ren'ai o oboe ta"
   },
   "jlpt-n1-恐れ-1059": {
-    "kana": "かいぎ で おそれ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de osore nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と おそれ について しばらく はなし た",
+    "romaji": "tomodachi to osore nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-恥-307": {
     "kana": "きゅう な おねがい で はじ し て なん ど も あたま を さげ た",
     "romaji": "kyuu na onegai de haji shi te nan do mo atama o sage ta"
   },
   "jlpt-n1-恥じらう-605": {
-    "kana": "ひつよう な ばめん で はじらう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hajirau houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で はじらう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hajirau koto ni shi ta"
   },
   "jlpt-n1-悪-816": {
     "kana": "しゅうまつ に ともだち と あく を み に いっ た",
@@ -2264,24 +2264,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no ikou o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-意図-221": {
-    "kana": "かいぎ で いと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ito nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いと について しばらく はなし た",
+    "romaji": "tomodachi to ito nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-意地-53": {
     "kana": "とつぜん の しらせ に つよい いじ を おぼえ た",
     "romaji": "totsuzen no shirase ni tsuyoi iji o oboe ta"
   },
   "jlpt-n1-意気込む-1031": {
-    "kana": "ひつよう な ばめん で いきごむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ikigomu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で いきごむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ikigomu koto ni shi ta"
   },
   "jlpt-n1-愚か-359": {
-    "kana": "おろか な てん を さき に せつめい し た",
-    "romaji": "oroka na ten o saki ni setsumei shi ta"
+    "kana": "おろか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "oroka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-愛憎-212": {
-    "kana": "あいにく な てん を さき に せつめい し た",
-    "romaji": "ainiku na ten o saki ni setsumei shi ta"
+    "kana": "あいにく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "ainiku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-感染-373": {
     "kana": "ともだち と かんせん について しばらく はなし た",
@@ -2300,32 +2300,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sono setsumei wa sukoshi awatadashii to kanji ta"
   },
   "jlpt-n1-慣らす-878": {
-    "kana": "あんぜん に ならす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni narasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ならす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te narasu"
   },
   "jlpt-n1-慣れ-975": {
     "kana": "ともだち と なれ について しばらく はなし た",
     "romaji": "tomodachi to nare nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-慣例-1127": {
-    "kana": "かいぎ で かんれい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanrei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんれい について しばらく はなし た",
+    "romaji": "tomodachi to kanrei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-慣習-1138": {
-    "kana": "かいぎ で かんしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanshuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんしゅう について しばらく はなし た",
+    "romaji": "tomodachi to kanshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-慣行-442": {
     "kana": "ともだち と かんこう について しばらく はなし た",
     "romaji": "tomodachi to kankou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-憂鬱-426": {
-    "kana": "ゆううつ な てん を さき に せつめい し た",
-    "romaji": "yuuutsu na ten o saki ni setsumei shi ta"
+    "kana": "ゆううつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuuutsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-憎しみ-456": {
-    "kana": "かいぎ で にくしみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nikushimi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と にくしみ について しばらく はなし た",
+    "romaji": "tomodachi to nikushimi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-憤慨-275": {
     "kana": "とつぜん の しらせ に つよい ふんがい を おぼえ た",
@@ -2336,8 +2336,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni idaku koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-成り立つ-1145": {
-    "kana": "はる に なりたつ ころ えきまえ の さくら が さき はじめる",
-    "romaji": "haru ni naritatsu koro ekimae no sakura ga saki hajimeru"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を なりたつ",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o naritatsu"
   },
   "jlpt-n1-成るべく-919": {
     "kana": "なるべく じかん が あれ ば もういちど あい たい",
@@ -2372,16 +2372,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no tewake wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-手当て-301": {
-    "kana": "かいぎ で てあて について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de teate nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と てあて について しばらく はなし た",
+    "romaji": "tomodachi to teate nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-手数-366": {
     "kana": "うけつけ で てすう を よば れる まで まっ た",
     "romaji": "uketsuke de tesuu o yoba reru made ma ta"
   },
   "jlpt-n1-手本-156": {
-    "kana": "ともだち と てほん について しばらく はなし た",
-    "romaji": "tomodachi to tehon nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てほん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tehon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-手軽-763": {
     "kana": "てがる な てん を さき に せつめい し た",
@@ -2400,12 +2400,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "atarashii an o uchiawa seru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n1-打開-249": {
-    "kana": "かいぎ で だかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dakai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と だかい について しばらく はなし た",
+    "romaji": "tomodachi to dakai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-承諾-1205": {
-    "kana": "かれ の いけん に しょうだく し て ふかく うなずい た",
-    "romaji": "kare no iken ni shoudaku shi te fukaku unazui ta"
+    "kana": "けいかく わ じょうし の しょうだく を え て から すすめる",
+    "romaji": "keikaku wa joushi no shoudaku o e te kara susumeru"
   },
   "jlpt-n1-技-540": {
     "kana": "かいぎ で わざ について ぐたい てき に はなしあっ た",
@@ -2416,24 +2416,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to haaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-抑制-1194": {
-    "kana": "かいぎ で よくせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yokusei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と よくせい について しばらく はなし た",
+    "romaji": "tomodachi to yokusei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-抑圧-409": {
     "kana": "かいぎ で よくあつ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de yokuatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-投げ出す-239": {
-    "kana": "ひつよう な ばめん で なげだす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nagedasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なげだす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nagedasu"
   },
   "jlpt-n1-投入-119": {
     "kana": "かいぎ で とうにゅう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de tounyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-抗議-36": {
-    "kana": "かいぎ で こうぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kougi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうぎ について しばらく はなし た",
+    "romaji": "tomodachi to kougi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-折り返す-353": {
     "kana": "しゅうまつ に ともだち の いえ え おりかえす よてい だ",
@@ -2444,8 +2444,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de setchuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-押し寄せる-793": {
-    "kana": "ひつよう な ばめん で おしよせる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de oshiyoseru houhou o kangae ta"
+    "kana": "はつばい び に ちゅうもん が みせ え おしよせる",
+    "romaji": "hatsubai bi ni chuumon ga mise e oshiyoseru"
   },
   "jlpt-n1-拐う-264": {
     "kana": "おもい にもつ を えき まで さらう ひと を さがし た",
@@ -2456,8 +2456,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to mochikiri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-持て成す-677": {
-    "kana": "ひつよう な ばめん で もてなす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de motenasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て もてなす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te motenasu"
   },
   "jlpt-n1-持続-293": {
     "kana": "ともだち と じぞく について しばらく はなし た",
@@ -2472,12 +2472,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kazoku o idomu kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n1-挑戦-1249": {
-    "kana": "かいぎ で ちょうせん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chousen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちょうせん について しばらく はなし た",
+    "romaji": "tomodachi to chousen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-振興-560": {
-    "kana": "かいぎ で しんこう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinkou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんこう について しばらく はなし た",
+    "romaji": "tomodachi to shinkou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-捕吏-591": {
     "kana": "かいぎ で ほり について ぐたい てき に はなしあっ た",
@@ -2488,76 +2488,76 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to hogei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-捗る-130": {
-    "kana": "ひつよう な ばめん で はかどる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hakadoru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で はかどる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hakadoru koto ni shi ta"
   },
   "jlpt-n1-捜索-671": {
     "kana": "こまっ て いる そうさく に こえ を かけ た",
     "romaji": "koma te iru sousaku ni koe o kake ta"
   },
   "jlpt-n1-据える-482": {
-    "kana": "この じょうけん に すえる ばあい わ ついか の てつづき が ひつよう だ",
-    "romaji": "kono jouken ni sueru baai wa tsuika no tetsuzuki ga hitsuyou da"
+    "kana": "いりぐち に あたらしい あんない ばん を すえる",
+    "romaji": "iriguchi ni atarashii annai ban o sueru"
   },
   "jlpt-n1-据え付ける-996": {
-    "kana": "あんぜん に すえつける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni suetsukeru tame ni saki ni junbi o shi ta"
+    "kana": "いりぐち に あたらしい あんない ばん を すえつける",
+    "romaji": "iriguchi ni atarashii annai ban o suetsukeru"
   },
   "jlpt-n1-排除-172": {
     "kana": "ともだち と はいじょ について しばらく はなし た",
     "romaji": "tomodachi to haijo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-採択-554": {
-    "kana": "ともだち と さいたく について しばらく はなし た",
-    "romaji": "tomodachi to saitaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さいたく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saitaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-採掘-943": {
-    "kana": "ともだち と さいくつ について しばらく はなし た",
-    "romaji": "tomodachi to saikutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さいくつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saikutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-採決-954": {
     "kana": "ともだち と さいけつ について しばらく はなし た",
     "romaji": "tomodachi to saiketsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-接ぐ-1108": {
-    "kana": "ひつよう な ばめん で つぐ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsugu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsugu koto ni shi ta"
   },
   "jlpt-n1-控室-292": {
     "kana": "しゅうまつ に ひかえしつ え いく みち を しらべ た",
     "romaji": "shuumatsu ni hikaeshitsu e iku michi o shirabe ta"
   },
   "jlpt-n1-推測-1010": {
-    "kana": "ともだち と すいそく について しばらく はなし た",
-    "romaji": "tomodachi to suisoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で すいそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suisoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-措置-269": {
-    "kana": "かいぎ で そち について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sochi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と そち について しばらく はなし た",
+    "romaji": "tomodachi to sochi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-掲載-91": {
     "kana": "つくえ の うえ に けいさい を おい て から でかけ た",
     "romaji": "tsukue no ue ni keisai o oi te kara dekake ta"
   },
   "jlpt-n1-提示-861": {
-    "kana": "かいぎ で ていじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de teiji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ていじ について しばらく はなし た",
+    "romaji": "tomodachi to teiji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-揶揄う-637": {
     "kana": "がらす が からかう おと が し て みんな が ふりむい た",
     "romaji": "garasu ga karakau oto ga shi te minna ga furimui ta"
   },
   "jlpt-n1-揺さぶる-102": {
-    "kana": "あんぜん に ゆさぶる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni yusaburu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ゆさぶる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yusaburu koto ni shi ta"
   },
   "jlpt-n1-損なう-1110": {
     "kana": "しんらい を そこなう はつげん わ さけ た ほう が いい",
     "romaji": "shinrai o sokonau hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n1-操る-992": {
-    "kana": "ひつよう な ばめん で あやつる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ayatsuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あやつる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ayatsuru"
   },
   "jlpt-n1-擦る-1015": {
     "kana": "うで が かべ を こする する おと が し た",
@@ -2568,12 +2568,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kaiaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-改良-904": {
-    "kana": "かいぎ で かいりょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kairyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かいりょう について しばらく はなし た",
+    "romaji": "tomodachi to kairyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-放り出す-182": {
-    "kana": "あんぜん に ほうりだす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni houridasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ほうりだす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te houridasu"
   },
   "jlpt-n1-放射能-740": {
     "kana": "こうじょう に ひつよう な ほうしゃのう を あさ の うち に あつめ た",
@@ -2588,12 +2588,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yue ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-故人-439": {
-    "kana": "かいぎ で こじん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kojin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こじん について しばらく はなし た",
+    "romaji": "tomodachi to kojin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-敏感-413": {
-    "kana": "びんかん な てん を さき に せつめい し た",
-    "romaji": "binkan na ten o saki ni setsumei shi ta"
+    "kana": "びんかん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "binkan na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-教材-435": {
     "kana": "こうじょう に ひつよう な きょうざい を あさ の うち に あつめ た",
@@ -2604,16 +2604,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kyouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-教習-1213": {
-    "kana": "かいぎ で きょうしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyoushuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きょうしゅう について しばらく はなし た",
+    "romaji": "tomodachi to kyoushuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-教職-1216": {
     "kana": "ともだち と きょうしょく について しばらく はなし た",
     "romaji": "tomodachi to kyoushoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-数詞-1210": {
-    "kana": "ともだち と すうし について しばらく はなし た",
-    "romaji": "tomodachi to suushi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で すうし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-文化財-1253": {
     "kana": "かいぎ で ぶんかざい について ぐたい てき に はなしあっ た",
@@ -2624,16 +2624,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni bunsho o oi te kara dekake ta"
   },
   "jlpt-n1-斑-386": {
-    "kana": "むら な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "mura na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "むら な てん を さき に せつめい し た",
+    "romaji": "mura na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-料-290": {
     "kana": "りょう の てつづき を きげん まで に すませ た",
     "romaji": "ryou no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-断言-962": {
-    "kana": "かいぎ で だんげん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dangen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と だんげん について しばらく はなし た",
+    "romaji": "tomodachi to dangen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-施設-279": {
     "kana": "しせつ が こっきょう ちかく に はいち さ れ た",
@@ -2644,8 +2644,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de ryokaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-日当-548": {
-    "kana": "かいぎ で にっとう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nittou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と にっとう について しばらく はなし た",
+    "romaji": "tomodachi to nittou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-日頃-1259": {
     "kana": "ひごろ に だいじ な よてい が はいっ て いる",
@@ -2664,12 +2664,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omoi nimotsu o eki made hayameru hito o sagashi ta"
   },
   "jlpt-n1-明かす-1221": {
-    "kana": "ひつよう な ばめん で あかす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de akasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te akasu"
   },
   "jlpt-n1-明るい-795": {
-    "kana": "おもっ た より あかるい もんだい だっ た",
-    "romaji": "omo ta yori akarui mondai da ta"
+    "kana": "その せつめい わ すこし あかるい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi akarui to kanji ta"
   },
   "jlpt-n1-明朗-1113": {
     "kana": "めいろう な まち を ゆっくり あるい た",
@@ -2688,8 +2688,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to eisha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-是正-1078": {
-    "kana": "ともだち と ぜせい について しばらく はなし た",
-    "romaji": "tomodachi to zesei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぜせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zesei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-時刻表-1001": {
     "kana": "しりょう の じこく ひょう に すうじ を まとめ た",
@@ -2700,8 +2700,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "jisa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n1-普遍-674": {
-    "kana": "かいぎ で ふへん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de fuhen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ふへん について しばらく はなし た",
+    "romaji": "tomodachi to fuhen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-晴天-799": {
     "kana": "ゆうがた に なる と せいてん が とても きれい に みえ た",
@@ -2716,16 +2716,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to ansatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-暗算-872": {
-    "kana": "かいぎ で あんざん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de anzan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あんざん について しばらく はなし た",
+    "romaji": "tomodachi to anzan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-暫く-1183": {
     "kana": "しばらく よてい を へんこう し た",
     "romaji": "shibaraku yotei o henkou shi ta"
   },
   "jlpt-n1-暴力-936": {
-    "kana": "ともだち と ぼうりょく について しばらく はなし た",
-    "romaji": "tomodachi to bouryoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぼうりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouryoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-暴動-208": {
     "kana": "ともだち と ぼうどう について しばらく はなし た",
@@ -2736,8 +2736,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de bakuro nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-曖昧-198": {
-    "kana": "あいまい な てん を さき に せつめい し た",
-    "romaji": "aimai na ten o saki ni setsumei shi ta"
+    "kana": "あいまい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "aimai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-曲-552": {
     "kana": "しゅうまつ に ともだち と きょく を み に いっ た",
@@ -2772,8 +2772,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de arisama nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-有機-1085": {
-    "kana": "ともだち と ゆうき について しばらく はなし た",
-    "romaji": "tomodachi to yuuki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆうき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-朝寝坊-146": {
     "kana": "あさねぼう に だいじ な よてい が はいっ て いる",
@@ -2812,16 +2812,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hontai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-本名-78": {
-    "kana": "かいぎ で ほんみょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de honmyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほんみょう について しばらく はなし た",
+    "romaji": "tomodachi to honmyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-本格-297": {
-    "kana": "かいぎ で ほんかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de honkaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほんかく について しばらく はなし た",
+    "romaji": "tomodachi to honkaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-本気-199": {
-    "kana": "ほんき な てん を さき に せつめい し た",
-    "romaji": "honki na ten o saki ni setsumei shi ta"
+    "kana": "ほんき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "honki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-束縛-261": {
     "kana": "かいぎ で そくばく について ぐたい てき に はなしあっ た",
@@ -2852,20 +2852,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hakanai michi o yukkuri arui ta"
   },
   "jlpt-n1-染める-29": {
-    "kana": "ひつよう な ばめん で そめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de someru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て そめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te someru"
   },
   "jlpt-n1-柔軟-1239": {
-    "kana": "じゅうなん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "juunan na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "じゅうなん な てん を さき に せつめい し た",
+    "romaji": "juunan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-核-1265": {
     "kana": "ひる ごはん に かく を すこし たべ た",
     "romaji": "hiru gohan ni kaku o sukoshi tabe ta"
   },
   "jlpt-n1-根本-338": {
-    "kana": "かいぎ で こんぽん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de konpon nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こんぽん について しばらく はなし た",
+    "romaji": "tomodachi to konpon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-根気-1115": {
     "kana": "かいぎ で こんき について ぐたい てき に はなしあっ た",
@@ -2876,16 +2876,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-栽培-299": {
-    "kana": "ともだち と さいばい について しばらく はなし た",
-    "romaji": "tomodachi to saibai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さいばい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saibai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-案じる-1153": {
-    "kana": "ひつよう な ばめん で あんじる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de anjiru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あんじる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de anjiru koto ni shi ta"
   },
   "jlpt-n1-梅干-147": {
-    "kana": "ともだち と うめぼし について しばらく はなし た",
-    "romaji": "tomodachi to umeboshi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うめぼし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de umeboshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-梢-508": {
     "kana": "かいぎ で こずえ について ぐたい てき に はなしあっ た",
@@ -2896,12 +2896,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to hashigo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-棄権-932": {
-    "kana": "ともだち と きけん について しばらく はなし た",
-    "romaji": "tomodachi to kiken nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kiken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-植わる-204": {
-    "kana": "ひつよう な ばめん で うわる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de uwaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で うわる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de uwaru koto ni shi ta"
   },
   "jlpt-n1-業績-521": {
     "kana": "きょう の ぎょうせき わ おもっ た より はやく おわっ た",
@@ -2912,8 +2912,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shinrai dekiru gyousha ni shuuri o tanon da"
   },
   "jlpt-n1-極めて-1098": {
-    "kana": "きわめて へんじ が とどい た ので あんしん し た",
-    "romaji": "kiwamete henji ga todoi ta node anshin shi ta"
+    "kana": "きわめて よてい を へんこう し た",
+    "romaji": "kiwamete yotei o henkou shi ta"
   },
   "jlpt-n1-極端-1232": {
     "kana": "きょくたん な てん を さき に せつめい し た",
@@ -2936,16 +2936,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to yousou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-模倣-312": {
-    "kana": "ともだち と もほう について しばらく はなし た",
-    "romaji": "tomodachi to mohou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mohou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-模範-110": {
-    "kana": "ともだち と もはん について しばらく はなし た",
-    "romaji": "tomodachi to mohan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もはん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mohan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-権-765": {
-    "kana": "ともだち と けん について しばらく はなし た",
-    "romaji": "tomodachi to ken nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-権力-1231": {
     "kana": "ともだち と けんりょく について しばらく はなし た",
@@ -3004,12 +3004,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "buryoku ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-武装-1267": {
-    "kana": "かいぎ で ぶそう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de busou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶそう について しばらく はなし た",
+    "romaji": "tomodachi to busou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-歩-628": {
-    "kana": "ともだち と ふ について しばらく はなし た",
-    "romaji": "tomodachi to fu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-歩む-383": {
     "kana": "しゅうまつ に ともだち の いえ え あゆむ よてい だ",
@@ -3028,20 +3028,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni zandaka e iku michi o shirabe ta"
   },
   "jlpt-n1-殴る-478": {
-    "kana": "ひつよう な ばめん で なぐる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de naguru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なぐる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te naguru"
   },
   "jlpt-n1-殺人-939": {
     "kana": "かいぎ で さつじん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de satsujin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-毎-1103": {
-    "kana": "ともだち と ごと について しばらく はなし た",
-    "romaji": "tomodachi to goto nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ごと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de goto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-毟る-289": {
-    "kana": "あんぜん に むしる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni mushiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で むしる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mushiru koto ni shi ta"
   },
   "jlpt-n1-民俗-543": {
     "kana": "たよう な みんぞく の ひとびと が おなじ かいじょう に あつまっ た",
@@ -3064,8 +3064,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kidate nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-気軽-529": {
-    "kana": "きがる な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kigaru na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "きがる な てん を さき に せつめい し た",
+    "romaji": "kigaru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-気風-968": {
     "kana": "かいぎ で きふう について ぐたい てき に はなしあっ た",
@@ -3088,72 +3088,72 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kesshou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-決断-1218": {
-    "kana": "ともだち と けつだん について しばらく はなし た",
-    "romaji": "tomodachi to ketsudan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で けつだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ketsudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-決算-588": {
-    "kana": "ともだち と けっさん について しばらく はなし た",
-    "romaji": "tomodachi to kessan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で けっさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kessan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-決行-268": {
-    "kana": "けっこう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kekkou na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "けっこう な てん を さき に せつめい し た",
+    "romaji": "kekkou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-汽船-609": {
     "kana": "かいぎ で きせん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kisen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沈殿-345": {
-    "kana": "ともだち と ちんでん について しばらく はなし た",
-    "romaji": "tomodachi to chinden nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちんでん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chinden nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沈黙-344": {
     "kana": "ちんもく な まち を ゆっくり あるい た",
     "romaji": "chinmoku na machi o yukkuri arui ta"
   },
   "jlpt-n1-没収-842": {
-    "kana": "ともだち と ぼっしゅう について しばらく はなし た",
-    "romaji": "tomodachi to bosshuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぼっしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bosshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-没落-123": {
-    "kana": "かいぎ で ぼつらく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de botsuraku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぼつらく について しばらく はなし た",
+    "romaji": "tomodachi to botsuraku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-沸騰-339": {
-    "kana": "ともだち と ふっとう について しばらく はなし た",
-    "romaji": "tomodachi to futtou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふっとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de futtou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-油絵-457": {
-    "kana": "ともだち と あぶらえ について しばらく はなし た",
-    "romaji": "tomodachi to aburae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あぶらえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aburae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-治安-881": {
-    "kana": "かいぎ で ちあん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chian nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちあん について しばらく はなし た",
+    "romaji": "tomodachi to chian nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-治療-971": {
     "kana": "かいぎ で ちりょう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de chiryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沿い-982": {
-    "kana": "ともだち と ぞい について しばらく はなし た",
-    "romaji": "tomodachi to zoi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぞい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zoi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-沿う-97": {
-    "kana": "あんぜん に そう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sou tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で そう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sou koto ni shi ta"
   },
   "jlpt-n1-沿線-797": {
-    "kana": "かいぎ で えんせん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ensen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えんせん について しばらく はなし た",
+    "romaji": "tomodachi to ensen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-洋風-525": {
-    "kana": "ようふう な てん を さき に せつめい し た",
-    "romaji": "youfuu na ten o saki ni setsumei shi ta"
+    "kana": "ようふう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "youfuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-活ける-251": {
-    "kana": "あんぜん に いける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ikeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ikeru"
   },
   "jlpt-n1-活発-1092": {
     "kana": "かっぱつ な まち を ゆっくり あるい た",
@@ -3168,8 +3168,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni yokushitsu e iku michi o shirabe ta"
   },
   "jlpt-n1-海路-636": {
-    "kana": "ともだち と かいろ について しばらく はなし た",
-    "romaji": "tomodachi to kairo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かいろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kairo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-消去-984": {
     "kana": "かいぎ で しょうきょ について ぐたい てき に はなしあっ た",
@@ -3184,20 +3184,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "toumei na eki o chiisana bin ni ire ta"
   },
   "jlpt-n1-涸れる-365": {
-    "kana": "ひつよう な ばめん で かれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kareru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kareru"
   },
   "jlpt-n1-深める-465": {
-    "kana": "ひつよう な ばめん で ふかめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de fukameru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふかめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te fukameru"
   },
   "jlpt-n1-混む-1099": {
-    "kana": "ひつよう な ばめん で こむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de komu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て こむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te komu"
   },
   "jlpt-n1-清々しい-703": {
-    "kana": "すがすがしい ひ だっ た が さいご まで あるい た",
-    "romaji": "sugasugashii hi da ta ga saigo made arui ta"
+    "kana": "おもっ た より すがすがしい もんだい だっ た",
+    "romaji": "omo ta yori sugasugashii mondai da ta"
   },
   "jlpt-n1-減少-607": {
     "kana": "かいぎ で げんしょう について ぐたい てき に はなしあっ た",
@@ -3208,12 +3208,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to genten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-渦-559": {
-    "kana": "かいぎ で うず について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de uzu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うず について しばらく はなし た",
+    "romaji": "tomodachi to uzu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-満たす-1032": {
-    "kana": "ひつよう な ばめん で みたす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mitasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で みたす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mitasu koto ni shi ta"
   },
   "jlpt-n1-満場-998": {
     "kana": "ともだち と まんじょう について しばらく はなし た",
@@ -3236,24 +3236,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-溢れる-874": {
-    "kana": "あんぜん に あふれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni afureru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あふれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te afureru"
   },
   "jlpt-n1-滅ぼす-511": {
-    "kana": "あんぜん に ほろぼす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni horobosu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ほろぼす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de horobosu koto ni shi ta"
   },
   "jlpt-n1-滅亡-396": {
-    "kana": "かいぎ で めつぼう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de metsubou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と めつぼう について しばらく はなし た",
+    "romaji": "tomodachi to metsubou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-漁村-1029": {
     "kana": "しゅうまつ に ぎょそん え いく みち を しらべ た",
     "romaji": "shuumatsu ni gyoson e iku michi o shirabe ta"
   },
   "jlpt-n1-漏らす-220": {
-    "kana": "ひつよう な ばめん で もらす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de morasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て もらす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te morasu"
   },
   "jlpt-n1-漏れる-866": {
     "kana": "しゅうまつ に ともだち の いえ え もれる よてい だ",
@@ -3268,60 +3268,60 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni uruou koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-濯ぐ-343": {
-    "kana": "ひつよう な ばめん で すすぐ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de susugu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で すすぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de susugu koto ni shi ta"
   },
   "jlpt-n1-火傷-973": {
-    "kana": "ともだち と かしょう について しばらく はなし た",
-    "romaji": "tomodachi to kashou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kashou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-灰-1072": {
     "kana": "ともだち と はい について しばらく はなし た",
     "romaji": "tomodachi to hai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-灰皿-311": {
-    "kana": "かいぎ で はいざら について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de haizara nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はいざら について しばらく はなし た",
+    "romaji": "tomodachi to haizara nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-災害-652": {
-    "kana": "かいぎ で さいがい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saigai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さいがい について しばらく はなし た",
+    "romaji": "tomodachi to saigai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-炭素-399": {
-    "kana": "かいぎ で たんそ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tanso nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たんそ について しばらく はなし た",
+    "romaji": "tomodachi to tanso nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-為さる-298": {
-    "kana": "ひつよう な ばめん で なさる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nasaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なさる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nasaru"
   },
   "jlpt-n1-焚火-1164": {
-    "kana": "かいぎ で たきび について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de takibi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たきび について しばらく はなし た",
+    "romaji": "tomodachi to takibi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-無口-47": {
     "kana": "むくち な まち を ゆっくり あるい た",
     "romaji": "mukuchi na machi o yukkuri arui ta"
   },
   "jlpt-n1-無念-1234": {
-    "kana": "むねん な てん を さき に せつめい し た",
-    "romaji": "munen na ten o saki ni setsumei shi ta"
+    "kana": "むねん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "munen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-無断-222": {
-    "kana": "かいぎ で むだん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mudan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と むだん について しばらく はなし た",
+    "romaji": "tomodachi to mudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-無能-644": {
-    "kana": "むのう な てん を さき に せつめい し た",
-    "romaji": "munou na ten o saki ni setsumei shi ta"
+    "kana": "むのう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "munou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-無言-159": {
-    "kana": "かいぎ で むごん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mugon nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と むごん について しばらく はなし た",
+    "romaji": "tomodachi to mugon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-無論-1088": {
-    "kana": "むろん よてい を へんこう し た",
-    "romaji": "muron yotei o henkou shi ta"
+    "kana": "むろん へんじ が とどい た ので あんしん し た",
+    "romaji": "muron henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-無邪気-1233": {
     "kana": "むじゃき な ようす で かれ わ さいご まで はなし を きい た",
@@ -3332,8 +3332,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "muyami ni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-無難-1246": {
-    "kana": "ぶなん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "bunan na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ぶなん な てん を さき に せつめい し た",
+    "romaji": "bunan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-然も-1263": {
     "kana": "ともだち と しか も について しばらく はなし た",
@@ -3344,52 +3344,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de koukou to nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-煌びやか-201": {
-    "kana": "きらびやか な てん を さき に せつめい し た",
-    "romaji": "kirabiyaka na ten o saki ni setsumei shi ta"
+    "kana": "きらびやか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kirabiyaka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-煙たい-1005": {
     "kana": "けむたい ひ だっ た が さいご まで あるい た",
     "romaji": "kemutai hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-照り返す-463": {
-    "kana": "あんぜん に てりかえす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni terikaesu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て てりかえす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te terikaesu"
   },
   "jlpt-n1-照合-862": {
-    "kana": "ともだち と しょうごう について しばらく はなし た",
-    "romaji": "tomodachi to shougou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょうごう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-照明-570": {
     "kana": "ともだち と しょうめい について しばらく はなし た",
     "romaji": "tomodachi to shoumei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-煽てる-1036": {
-    "kana": "ひつよう な ばめん で おだてる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de odateru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おだてる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te odateru"
   },
   "jlpt-n1-蒸留-568": {
-    "kana": "かいぎ で じょうりゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jouryuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じょうりゅう について しばらく はなし た",
+    "romaji": "tomodachi to jouryuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-熱湯-528": {
     "kana": "きゅうけい ちゅう に あたたかい ねっとう を いっぱい のん だ",
     "romaji": "kyuukei chuu ni atatakai nettou o ippai non da"
   },
   "jlpt-n1-父母-723": {
-    "kana": "ともだち と ちちはは について しばらく はなし た",
-    "romaji": "tomodachi to chichihaha nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちちはは について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chichihaha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-爽やか-502": {
-    "kana": "さわやか な てん を さき に せつめい し た",
-    "romaji": "sawayaka na ten o saki ni setsumei shi ta"
+    "kana": "さわやか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sawayaka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-片付け-981": {
-    "kana": "ともだち と かたづけ について しばらく はなし た",
-    "romaji": "tomodachi to katazuke nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かたづけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de katazuke nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-版画-1197": {
-    "kana": "ともだち と はんが について しばらく はなし た",
-    "romaji": "tomodachi to hanga nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はんが について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hanga nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-物資-985": {
     "kana": "こうじょう に ひつよう な ぶっし を あさ の うち に あつめ た",
@@ -3400,8 +3400,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de jou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-独創-77": {
-    "kana": "かいぎ で どくそう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dokusou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と どくそう について しばらく はなし た",
+    "romaji": "tomodachi to dokusou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-独占-988": {
     "kana": "かいぎ で どくせん について ぐたい てき に はなしあっ た",
@@ -3420,48 +3420,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no bokujou de shishi o mi ta"
   },
   "jlpt-n1-獲物-276": {
-    "kana": "かいぎ で えもの について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de emono nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えもの について しばらく はなし た",
+    "romaji": "tomodachi to emono nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-率直-698": {
-    "kana": "そっちょく な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "sotchoku na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "そっちょく な てん を さき に せつめい し た",
+    "romaji": "sotchoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-班-26": {
-    "kana": "かいぎ で はん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de han nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はん について しばらく はなし た",
+    "romaji": "tomodachi to han nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-現われる-193": {
-    "kana": "はる に あらわれる ころ えきまえ の さくら が さき はじめる",
-    "romaji": "haru ni arawareru koro ekimae no sakura ga saki hajimeru"
+    "kana": "しちょう わ かいけん で じにん の いこう を あらわれる",
+    "romaji": "shichou wa kaiken de jinin no ikou o arawareru"
   },
   "jlpt-n1-理屈-1028": {
-    "kana": "かいぎ で りくつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de rikutsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と りくつ について しばらく はなし た",
+    "romaji": "tomodachi to rikutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-瓶-1030": {
     "kana": "つくえ の うえ に びん を おい て から でかけ た",
     "romaji": "tsukue no ue ni bin o oi te kara dekake ta"
   },
   "jlpt-n1-甘口-724": {
-    "kana": "かいぎ で あまくち について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de amakuchi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あまくち について しばらく はなし た",
+    "romaji": "tomodachi to amakuchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-甚だ-717": {
     "kana": "きょう わ はなはだ つかれ た ので はやめ に ね た",
     "romaji": "kyou wa hanahada tsukare ta node hayame ni ne ta"
   },
   "jlpt-n1-生-685": {
-    "kana": "かいぎ で なま について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nama nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と なま について しばらく はなし た",
+    "romaji": "tomodachi to nama nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-生やす-978": {
     "kana": "うわぎ を はやす ばしょ を いりぐち の ちかく に つくっ た",
     "romaji": "uwagi o hayasu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n1-生温い-619": {
-    "kana": "その せつめい わ すこし なまぬるい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi namanurui to kanji ta"
+    "kana": "おもっ た より なまぬるい もんだい だっ た",
+    "romaji": "omo ta yori namanurui mondai da ta"
   },
   "jlpt-n1-生計-418": {
     "kana": "かいぎ で せいけい について ぐたい てき に はなしあっ た",
@@ -3472,12 +3472,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to namami nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-産む-286": {
-    "kana": "ひつよう な ばめん で うむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de umu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te umu"
   },
   "jlpt-n1-産休-678": {
-    "kana": "かいぎ で さんきゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sankyuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さんきゅう について しばらく はなし た",
+    "romaji": "tomodachi to sankyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-産出-885": {
     "kana": "かいぎ で さんしゅつ について ぐたい てき に はなしあっ た",
@@ -3512,56 +3512,56 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no bokujou de chikusan o mi ta"
   },
   "jlpt-n1-略奪-880": {
-    "kana": "ともだち と りゃくだつ について しばらく はなし た",
-    "romaji": "tomodachi to ryakudatsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りゃくだつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryakudatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-異性-523": {
-    "kana": "ともだち と いせい について しばらく はなし た",
-    "romaji": "tomodachi to isei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de isei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-異議-95": {
-    "kana": "ともだち と いぎ について しばらく はなし た",
-    "romaji": "tomodachi to igi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de igi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-疎か-93": {
     "kana": "おろそか な ようす で かれ わ さいご まで はなし を きい た",
     "romaji": "orosoka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-疑惑-774": {
-    "kana": "ともだち と ぎわく について しばらく はなし た",
-    "romaji": "tomodachi to giwaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぎわく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de giwaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-疲労-1245": {
-    "kana": "かいぎ で ひろう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hirou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひろう について しばらく はなし た",
+    "romaji": "tomodachi to hirou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-痛切-589": {
-    "kana": "ともだち と つうせつ について しばらく はなし た",
-    "romaji": "tomodachi to tsuusetsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で つうせつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuusetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-痛感-757": {
     "kana": "とつぜん の しらせ に つよい つうかん を おぼえ た",
     "romaji": "totsuzen no shirase ni tsuyoi tsuukan o oboe ta"
   },
   "jlpt-n1-癌-883": {
-    "kana": "かいぎ で がん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と がん について しばらく はなし た",
+    "romaji": "tomodachi to gan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-発作-434": {
-    "kana": "かいぎ で ほっさ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hossa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほっさ について しばらく はなし た",
+    "romaji": "tomodachi to hossa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-発掘-810": {
-    "kana": "かいぎ で はっくつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hakkutsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はっくつ について しばらく はなし た",
+    "romaji": "tomodachi to hakkutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-発病-403": {
-    "kana": "ともだち と はつびょう について しばらく はなし た",
-    "romaji": "tomodachi to hatsubyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はつびょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hatsubyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-発芽-620": {
-    "kana": "かいぎ で はつが について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hatsuga nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はつが について しばらく はなし た",
+    "romaji": "tomodachi to hatsuga nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-発足-999": {
     "kana": "ともだち と ほっそく について しばらく はなし た",
@@ -3572,52 +3572,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni toukou e iku michi o shirabe ta"
   },
   "jlpt-n1-百科事典-960": {
-    "kana": "かいぎ で ひゃっか じてん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hyakka jiten nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひゃっか じてん について しばらく はなし た",
+    "romaji": "tomodachi to hyakka jiten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-皺-453": {
-    "kana": "ともだち と しわ について しばらく はなし た",
-    "romaji": "tomodachi to shiwa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-盗み-539": {
-    "kana": "かいぎ で ぬすみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nusumi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぬすみ について しばらく はなし た",
+    "romaji": "tomodachi to nusumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-盛り上がる-826": {
     "kana": "ゆ が もりあがる まで だいどころ で すこし まっ た",
     "romaji": "yu ga moriagaru made daidokoro de sukoshi ma ta"
   },
   "jlpt-n1-盛る-773": {
-    "kana": "あんぜん に もる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni moru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て もる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te moru"
   },
   "jlpt-n1-盛大-819": {
     "kana": "せいだい な てん を さき に せつめい し た",
     "romaji": "seidai na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-目方-613": {
-    "kana": "ともだち と めかた について しばらく はなし た",
-    "romaji": "tomodachi to mekata nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で めかた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mekata nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-目盛-840": {
-    "kana": "ともだち と めもり について しばらく はなし た",
-    "romaji": "tomodachi to memori nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で めもり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de memori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-目眩-768": {
-    "kana": "かいぎ で めまい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de memai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と めまい について しばらく はなし た",
+    "romaji": "tomodachi to memai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-目録-1144": {
     "kana": "しりょう の もくろく に すうじ を まとめ た",
     "romaji": "shiryou no mokuroku ni suuji o matome ta"
   },
   "jlpt-n1-盲点-697": {
-    "kana": "ともだち と もうてん について しばらく はなし た",
-    "romaji": "tomodachi to mouten nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もうてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mouten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-直ぐ-603": {
-    "kana": "あんぜん に すぐ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sugu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で すぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sugu koto ni shi ta"
   },
   "jlpt-n1-直感-761": {
     "kana": "ともだち と ちょっかん について しばらく はなし た",
@@ -3632,24 +3632,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "soutai de jouken o hanashia ta"
   },
   "jlpt-n1-相応しい-839": {
-    "kana": "おもっ た より ふさわしい もんだい だっ た",
-    "romaji": "omo ta yori fusawashii mondai da ta"
+    "kana": "その せつめい わ すこし ふさわしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi fusawashii to kanji ta"
   },
   "jlpt-n1-看護-877": {
     "kana": "かんご が こっきょう ちかく に はいち さ れ た",
     "romaji": "kango ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n1-真ん中-98": {
-    "kana": "ともだち と まんなか について しばらく はなし た",
-    "romaji": "tomodachi to mannaka nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で まんなか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mannaka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-真上-449": {
-    "kana": "かいぎ で まうえ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de maue nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と まうえ について しばらく はなし た",
+    "romaji": "tomodachi to maue nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-眼鏡-664": {
-    "kana": "ともだち と めがね について しばらく はなし た",
-    "romaji": "tomodachi to megane nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で めがね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de megane nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-着-553": {
     "kana": "たよう な ちゃく の ひとびと が おなじ かいじょう に あつまっ た",
@@ -3660,20 +3660,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no chakushu wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-着色-348": {
-    "kana": "かいぎ で ちゃくしょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chakushoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちゃくしょく について しばらく はなし た",
+    "romaji": "tomodachi to chakushoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-瞑る-72": {
-    "kana": "あんぜん に つぶる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsuburu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つぶる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuburu"
   },
   "jlpt-n1-瞬き-1129": {
-    "kana": "かいぎ で まばたき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mabataki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と まばたき について しばらく はなし た",
+    "romaji": "tomodachi to mabataki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-矢っ張り-915": {
-    "kana": "やっぱり へんじ が とどい た ので あんしん し た",
-    "romaji": "yappari henji ga todoi ta node anshin shi ta"
+    "kana": "やっぱり よてい を へんこう し た",
+    "romaji": "yappari yotei o henkou shi ta"
   },
   "jlpt-n1-知的-979": {
     "kana": "ちてき な てん を さき に せつめい し た",
@@ -3692,16 +3692,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "rokuna mise wa eki no chikaku ni aru"
   },
   "jlpt-n1-磁器-287": {
-    "kana": "かいぎ で じき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jiki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じき について しばらく はなし た",
+    "romaji": "tomodachi to jiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-磁気-7": {
     "kana": "ともだち と じき について しばらく はなし た",
     "romaji": "tomodachi to jiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-確保-1227": {
-    "kana": "ともだち と かくほ について しばらく はなし た",
-    "romaji": "tomodachi to kakuho nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かくほ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakuho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-確信-140": {
     "kana": "かいぎ で かくしん について ぐたい てき に はなしあっ た",
@@ -3716,8 +3716,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to sha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-社交-1279": {
-    "kana": "かいぎ で しゃこう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shakou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゃこう について しばらく はなし た",
+    "romaji": "tomodachi to shakou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-神殿-945": {
     "kana": "しゅうまつ に しんでん え いく みち を しらべ た",
@@ -3744,20 +3744,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no shiya o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-禁じる-1139": {
-    "kana": "あんぜん に きんじる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kinjiru tame ni saki ni junbi o shi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を きんじる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o kinjiru"
   },
   "jlpt-n1-禁ずる-1280": {
-    "kana": "あんぜん に きんずる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kinzuru tame ni saki ni junbi o shi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を きんずる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o kinzuru"
   },
   "jlpt-n1-禅-809": {
     "kana": "かいぎ で ぜん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de zen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-福-157": {
-    "kana": "かいぎ で ふく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de fuku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ふく について しばらく はなし た",
+    "romaji": "tomodachi to fuku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-科-1222": {
     "kana": "きょう の か わ おもっ た より はやく おわっ た",
@@ -3772,12 +3772,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to imin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-種-629": {
-    "kana": "かいぎ で たね について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tane nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たね について しばらく はなし た",
+    "romaji": "tomodachi to tane nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-種々-410": {
-    "kana": "しゅじゅ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "shuju na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "しゅじゅ な てん を さき に せつめい し た",
+    "romaji": "shuju na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-稲光-551": {
     "kana": "かいぎ で いなびかり について ぐたい てき に はなしあっ た",
@@ -3788,24 +3788,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ho ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-究極-196": {
-    "kana": "かいぎ で きゅうきょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyuukyoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きゅうきょく について しばらく はなし た",
+    "romaji": "tomodachi to kyuukyoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-空腹-950": {
-    "kana": "くうふく な てん を さき に せつめい し た",
-    "romaji": "kuufuku na ten o saki ni setsumei shi ta"
+    "kana": "くうふく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kuufuku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-突く-447": {
-    "kana": "ひつよう な ばめん で つつく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsutsuku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つつく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsutsuku"
   },
   "jlpt-n1-突っ張る-1191": {
     "kana": "はる に つっぱる ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni tsupparu koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-窒息-423": {
-    "kana": "ともだち と ちっそく について しばらく はなし た",
-    "romaji": "tomodachi to chissoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちっそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chissoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-窮乏-1117": {
     "kana": "かいぎ で きゅうぼう について ぐたい てき に はなしあっ た",
@@ -3816,8 +3816,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyuukutsu na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-立方-522": {
-    "kana": "かいぎ で りっぽう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de rippou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と りっぽう について しばらく はなし た",
+    "romaji": "tomodachi to rippou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-竿-530": {
     "kana": "さお が いたく て きょう わ はやめ に やすん だ",
@@ -3852,8 +3852,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to kan ga totemo kirei ni mie ta"
   },
   "jlpt-n1-箪笥-65": {
-    "kana": "ひつよう な ばめん で たんす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tansu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たんす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tansu"
   },
   "jlpt-n1-築く-1185": {
     "kana": "しゅうまつ に ともだち と たな を きずく けいかく を たて た",
@@ -3864,8 +3864,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e komoru yotei da"
   },
   "jlpt-n1-簡易-626": {
-    "kana": "かんい な てん を さき に せつめい し た",
-    "romaji": "kan'i na ten o saki ni setsumei shi ta"
+    "kana": "かんい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kan'i na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-粉々-1122": {
     "kana": "きょう わ こなごな つかれ た ので はやめ に ね た",
@@ -3876,8 +3876,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to arasu ji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-粥-112": {
-    "kana": "ともだち と かゆ について しばらく はなし た",
-    "romaji": "tomodachi to kayu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かゆ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kayu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-精巧-1201": {
     "kana": "せいこう な とけい の つくり に おもわず みいっ た",
@@ -3904,8 +3904,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no zaiku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-細胞-302": {
-    "kana": "かいぎ で さいぼう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saibou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さいぼう について しばらく はなし た",
+    "romaji": "tomodachi to saibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-紳士-633": {
     "kana": "ともだち と しんし について しばらく はなし た",
@@ -3920,12 +3920,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kumiawase nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-経歴-571": {
-    "kana": "かいぎ で けいれき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de keireki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けいれき について しばらく はなし た",
+    "romaji": "tomodachi to keireki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-経費-1095": {
-    "kana": "かいぎ で けいひ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de keihi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けいひ について しばらく はなし た",
+    "romaji": "tomodachi to keihi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-経過-187": {
     "kana": "あたらしい さあびす の けいか が よてい より はやく すすん で いる",
@@ -3944,60 +3944,60 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kessei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-結束-213": {
-    "kana": "ともだち と けっそく について しばらく はなし た",
-    "romaji": "tomodachi to kessoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で けっそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kessoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-結核-788": {
-    "kana": "かいぎ で けっかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kekkaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けっかく について しばらく はなし た",
+    "romaji": "tomodachi to kekkaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-絡む-367": {
-    "kana": "あんぜん に からむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni karamu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で からむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de karamu koto ni shi ta"
   },
   "jlpt-n1-絨毯-104": {
     "kana": "かいぎ で じゅうたん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de juutan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-統制-1024": {
-    "kana": "かいぎ で とうせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tousei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とうせい について しばらく はなし た",
+    "romaji": "tomodachi to tousei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-継ぎ目-216": {
     "kana": "かいぎ で つぎめ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de tsugime nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-継ぐ-248": {
-    "kana": "ひつよう な ばめん で つぐ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsugu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsugu koto ni shi ta"
   },
   "jlpt-n1-綴じる-1021": {
     "kana": "さいご まで けいかく を とじる かくご を きめ た",
     "romaji": "saigo made keikaku o tojiru kakugo o kime ta"
   },
   "jlpt-n1-総-144": {
-    "kana": "かいぎ で そう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と そう について しばらく はなし た",
+    "romaji": "tomodachi to sou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-総会-993": {
-    "kana": "かいぎ で そうかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de soukai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と そうかい について しばらく はなし た",
+    "romaji": "tomodachi to soukai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-緩やか-595": {
-    "kana": "ゆるやか な てん を さき に せつめい し た",
-    "romaji": "yuruyaka na ten o saki ni setsumei shi ta"
+    "kana": "ゆるやか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuruyaka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-緩和-165": {
-    "kana": "ともだち と かんわ について しばらく はなし た",
-    "romaji": "tomodachi to kanwa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かんわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-練る-145": {
-    "kana": "ひつよう な ばめん で ねる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de neru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ねる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te neru"
   },
   "jlpt-n1-縁-547": {
-    "kana": "かいぎ で えん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de en nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えん について しばらく はなし た",
+    "romaji": "tomodachi to en nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-縁談-473": {
     "kana": "ともだち と えんだん について しばらく はなし た",
@@ -4012,28 +4012,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de orimono nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-繕う-823": {
-    "kana": "あんぜん に つくろう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsukurou tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つくろう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsukurou koto ni shi ta"
   },
   "jlpt-n1-纏め-62": {
     "kana": "ともだち と まとめ について しばらく はなし た",
     "romaji": "tomodachi to matome nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-罵る-1142": {
-    "kana": "ひつよう な ばめん で ののしる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nonoshiru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ののしる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nonoshiru koto ni shi ta"
   },
   "jlpt-n1-美-501": {
-    "kana": "ともだち と び について しばらく はなし た",
-    "romaji": "tomodachi to bi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で び について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-群-796": {
-    "kana": "ともだち と ぐん について しばらく はなし た",
-    "romaji": "tomodachi to gun nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぐん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-群がる-902": {
-    "kana": "ひつよう な ばめん で むらがる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de muragaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て むらがる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te muragaru"
   },
   "jlpt-n1-義理-617": {
     "kana": "きょう の ぎり わ おもっ た より はやく おわっ た",
@@ -4048,24 +4048,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shi kamo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-耐える-712": {
-    "kana": "あんぜん に たえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni taeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te taeru"
   },
   "jlpt-n1-耕作-1229": {
-    "kana": "ともだち と こうさく について しばらく はなし た",
-    "romaji": "tomodachi to kousaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうさく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kousaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-聖書-952": {
-    "kana": "ともだち と せいしょ について しばらく はなし た",
-    "romaji": "tomodachi to seisho nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seisho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-聴覚-1105": {
     "kana": "かいぎ で ちょうかく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de choukaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-職員-1086": {
-    "kana": "かいぎ で しょくいん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shokuin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょくいん について しばらく はなし た",
+    "romaji": "tomodachi to shokuin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-肉体-590": {
     "kana": "にくたい が いたく て きょう わ はやめ に やすん だ",
@@ -4076,8 +4076,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to nikushin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-肥料-667": {
-    "kana": "かいぎ で ひりょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hiryou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひりょう について しばらく はなし た",
+    "romaji": "tomodachi to hiryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-育ち-163": {
     "kana": "ともだち と そだち について しばらく はなし た",
@@ -4088,8 +4088,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e somuku yotei da"
   },
   "jlpt-n1-背景-565": {
-    "kana": "ともだち と はいけい について しばらく はなし た",
-    "romaji": "tomodachi to haikei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はいけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haikei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-背負う-105": {
     "kana": "おもい にもつ を えき まで せおう ひと を さがし た",
@@ -4104,48 +4104,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shibou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脅かす-360": {
-    "kana": "あんぜん に おびやかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni obiyakasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おびやかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te obiyakasu"
   },
   "jlpt-n1-脅迫-787": {
-    "kana": "ともだち と きょうはく について しばらく はなし た",
-    "romaji": "tomodachi to kyouhaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きょうはく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouhaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-脈-57": {
-    "kana": "ともだち と みゃく について しばらく はなし た",
-    "romaji": "tomodachi to myaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で みゃく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de myaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-脚本-427": {
-    "kana": "かいぎ で きゃくほん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyakuhon nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きゃくほん について しばらく はなし た",
+    "romaji": "tomodachi to kyakuhon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脱する-545": {
-    "kana": "あんぜん に だっする ため に さき に じゅんび を し た",
-    "romaji": "anzen ni dassuru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で だっする こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de dassuru koto ni shi ta"
   },
   "jlpt-n1-脱出-625": {
     "kana": "ともだち と だっしゅつ について しばらく はなし た",
     "romaji": "tomodachi to dasshutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-脱退-686": {
-    "kana": "かいぎ で だったい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dattai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と だったい について しばらく はなし た",
+    "romaji": "tomodachi to dattai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-腕前-1188": {
-    "kana": "ともだち と うでまえ について しばらく はなし た",
-    "romaji": "tomodachi to udemae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うでまえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de udemae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-腸-745": {
-    "kana": "ともだち と ちょう について しばらく はなし た",
-    "romaji": "tomodachi to chou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-膜-152": {
     "kana": "ともだち と まく について しばらく はなし た",
     "romaji": "tomodachi to maku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-膨脹-476": {
-    "kana": "かいぎ で ぼうちょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bouchou nitsuite gutai teki ni hanashia ta"
+    "kana": "ぼうちょう で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "bouchou de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n1-膳-143": {
     "kana": "ひる ごはん に ぜん を すこし たべ た",
@@ -4160,16 +4160,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "onozukara henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-自信-267": {
-    "kana": "かいぎ で じしん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jishin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じしん について しばらく はなし た",
+    "romaji": "tomodachi to jishin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-自在-169": {
-    "kana": "じざい な てん を さき に せつめい し た",
-    "romaji": "jizai na ten o saki ni setsumei shi ta"
+    "kana": "じざい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "jizai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-自惚れ-37": {
-    "kana": "ともだち と うぬぼれ について しばらく はなし た",
-    "romaji": "tomodachi to unubore nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うぬぼれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de unubore nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-自覚-882": {
     "kana": "ともだち と じかく について しばらく はなし た",
@@ -4188,8 +4188,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyuujitsu ni tomodachi to geemu ni kyoujiru jikan o tanoshin da"
   },
   "jlpt-n1-興奮-368": {
-    "kana": "ともだち と こうふん について しばらく はなし た",
-    "romaji": "tomodachi to koufun nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうふん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koufun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-興業-920": {
     "kana": "ともだち と こうぎょう について しばらく はなし た",
@@ -4204,12 +4204,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de koukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-良い-296": {
-    "kana": "おもっ た より いい もんだい だっ た",
-    "romaji": "omo ta yori ii mondai da ta"
+    "kana": "いい ひ だっ た が さいご まで あるい た",
+    "romaji": "ii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-良識-428": {
-    "kana": "ともだち と りょうしき について しばらく はなし た",
-    "romaji": "tomodachi to ryoushiki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りょうしき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryoushiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-色々-1230": {
     "kana": "いろいろ な ようす で かれ わ さいご まで はなし を きい た",
@@ -4228,12 +4228,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to nae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-苛々-375": {
-    "kana": "ひつよう な ばめん で いらいら する ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de iraira suru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いらいら する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te iraira suru"
   },
   "jlpt-n1-苛める-489": {
-    "kana": "ひつよう な ばめん で いじめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ijimeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いじめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ijimeru"
   },
   "jlpt-n1-若し-458": {
     "kana": "もし じかん が あれ ば もういちど あい たい",
@@ -4256,8 +4256,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "moshimo jikan ga are ba mouichido ai tai"
   },
   "jlpt-n1-若干-214": {
-    "kana": "あんぜん に じゃっかん ため に さき に じゅんび を し た",
-    "romaji": "anzen ni jakkan tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て じゃっかん",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te jakkan"
   },
   "jlpt-n1-英雄-608": {
     "kana": "こまっ て いる えいゆう に こえ を かけ た",
@@ -4272,8 +4272,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni kutabireru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-荒っぽい-582": {
-    "kana": "その せつめい わ すこし あらっぽい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi arappoi to kanji ta"
+    "kana": "あらっぽい ひ だっ た が さいご まで あるい た",
+    "romaji": "arappoi hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-荒らす-888": {
     "kana": "しんらい を あらす はつげん わ さけ た ほう が いい",
@@ -4284,8 +4284,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hanayaka na machi o yukkuri arui ta"
   },
   "jlpt-n1-華美-520": {
-    "kana": "かび な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kabi na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "かび な てん を さき に せつめい し た",
+    "romaji": "kabi na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-著書-1243": {
     "kana": "つくえ の うえ に ちょしょ を おい て から でかけ た",
@@ -4300,16 +4300,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de ochiba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-落ち込む-291": {
-    "kana": "ひつよう な ばめん で おちこむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ochikomu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おちこむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ochikomu koto ni shi ta"
   },
   "jlpt-n1-葦-534": {
     "kana": "かえりぎわ に よし と こえ を かけ た",
     "romaji": "kaerigiwa ni yoshi to koe o kake ta"
   },
   "jlpt-n1-葬る-86": {
-    "kana": "ひつよう な ばめん で ほうむる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de houmuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ほうむる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te houmuru"
   },
   "jlpt-n1-蓄積-1002": {
     "kana": "しゅうまつ に ちくせき え いく みち を しらべ た",
@@ -4320,20 +4320,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru tsubomi ni koe o kake ta"
   },
   "jlpt-n1-薄弱-536": {
-    "kana": "はくじゃく な てん を さき に せつめい し た",
-    "romaji": "hakujaku na ten o saki ni setsumei shi ta"
+    "kana": "はくじゃく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hakujaku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-藻掻く-316": {
-    "kana": "あんぜん に もがく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni mogaku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て もがく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mogaku"
   },
   "jlpt-n1-蛋白質-21": {
-    "kana": "かいぎ で たんぱく しつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tanpaku shitsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たんぱく しつ について しばらく はなし た",
+    "romaji": "tomodachi to tanpaku shitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-蜂蜜-586": {
-    "kana": "ひつよう な ばめん で はちみつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hachimitsu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はちみつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hachimitsu"
   },
   "jlpt-n1-蝶-262": {
     "kana": "ともだち と ちょう について しばらく はなし た",
@@ -4356,28 +4356,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni kouin e iku michi o shirabe ta"
   },
   "jlpt-n1-行政-612": {
-    "kana": "かいぎ で ぎょうせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gyousei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぎょうせい について しばらく はなし た",
+    "romaji": "tomodachi to gyousei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-行進-701": {
-    "kana": "かいぎ で こうしん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koushin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうしん について しばらく はなし た",
+    "romaji": "tomodachi to koushin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-衝撃-658": {
     "kana": "かいぎ で しょうげき について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de shougeki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-補強-1066": {
-    "kana": "かいぎ で ほきょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hokyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほきょう について しばらく はなし た",
+    "romaji": "tomodachi to hokyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-補給-477": {
     "kana": "こうじょう に ひつよう な ほきゅう を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na hokyuu o asa no uchi ni atsume ta"
   },
   "jlpt-n1-裸足-892": {
-    "kana": "かいぎ で はだし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hadashi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はだし について しばらく はなし た",
+    "romaji": "tomodachi to hadashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-製-847": {
     "kana": "ともだち と せい について しばらく はなし た",
@@ -4388,12 +4388,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de seitetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-複合-860": {
-    "kana": "かいぎ で ふくごう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de fukugou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ふくごう について しばらく はなし た",
+    "romaji": "tomodachi to fukugou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-褒美-833": {
-    "kana": "ともだち と ほうび について しばらく はなし た",
-    "romaji": "tomodachi to houbi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ほうび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houbi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-襲撃-1023": {
     "kana": "しゅうげき の てつづき を きげん まで に すませ た",
@@ -4404,24 +4404,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de youin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-要望-748": {
-    "kana": "かいぎ で ようぼう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de youbou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ようぼう について しばらく はなし た",
+    "romaji": "tomodachi to youbou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-覆す-924": {
-    "kana": "あんぜん に くつがえす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kutsugaesu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くつがえす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kutsugaesu"
   },
   "jlpt-n1-覆面-1193": {
     "kana": "かいぎ で ふくめん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de fukumen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-見すぼらしい-1159": {
-    "kana": "ともだち と み す ぼ らしい について しばらく はなし た",
-    "romaji": "tomodachi to mi su bo rashii nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で み す ぼ らしい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mi su bo rashii nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-見せびらかす-736": {
-    "kana": "ひつよう な ばめん で みせびらかす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de misebirakasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て みせびらかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te misebirakasu"
   },
   "jlpt-n1-見方-94": {
     "kana": "かれ の みかた を きい て かんがえかた が すこし かわっ た",
@@ -4432,12 +4432,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shiryou no miharashi ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-見積り-930": {
-    "kana": "ともだち と みつもり について しばらく はなし た",
-    "romaji": "tomodachi to mitsumori nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で みつもり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mitsumori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-見落とす-448": {
-    "kana": "ひつよう な ばめん で みおとす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de miotosu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て みおとす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te miotosu"
   },
   "jlpt-n1-規模-92": {
     "kana": "ともだち と きぼ について しばらく はなし た",
@@ -4448,32 +4448,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no kanten o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n1-観衆-487": {
-    "kana": "かいぎ で かんしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanshuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんしゅう について しばらく はなし た",
+    "romaji": "tomodachi to kanshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-観覧-908": {
     "kana": "しりょう の かんらん に わ じぜん の よやく が ひつよう だ",
     "romaji": "shiryou no kanran ni wa jizen no yoyaku ga hitsuyou da"
   },
   "jlpt-n1-角-635": {
-    "kana": "ともだち と かく について しばらく はなし た",
-    "romaji": "tomodachi to kaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-訂正-859": {
     "kana": "ともだち と ていせい について しばらく はなし た",
     "romaji": "tomodachi to teisei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-討論-777": {
-    "kana": "かいぎ で とうろん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de touron nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とうろん について しばらく はなし た",
+    "romaji": "tomodachi to touron nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-討議-639": {
-    "kana": "ともだち と とうぎ について しばらく はなし た",
-    "romaji": "tomodachi to tougi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とうぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tougi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-記名-1268": {
-    "kana": "かいぎ で きめい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kimei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きめい について しばらく はなし た",
+    "romaji": "tomodachi to kimei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-記載-1217": {
     "kana": "つくえ の うえ に きさい を おい て から でかけ た",
@@ -4484,20 +4484,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e otozureru yotei da"
   },
   "jlpt-n1-設定-103": {
-    "kana": "ともだち と せってい について しばらく はなし た",
-    "romaji": "tomodachi to settei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せってい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de settei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-訴え-493": {
     "kana": "ともだち と うったえ について しばらく はなし た",
     "romaji": "tomodachi to uttae nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-診療-25": {
-    "kana": "かいぎ で しんりょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinryou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんりょう について しばらく はなし た",
+    "romaji": "tomodachi to shinryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-証-584": {
-    "kana": "かいぎ で あかし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de akashi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あかし について しばらく はなし た",
+    "romaji": "tomodachi to akashi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-詐欺-240": {
     "kana": "ともだち と さぎ について しばらく はなし た",
@@ -4508,24 +4508,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e kokoromiru yotei da"
   },
   "jlpt-n1-詫び-1076": {
-    "kana": "ともだち と わび について しばらく はなし た",
-    "romaji": "tomodachi to wabi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で わび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wabi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-詰る-1131": {
-    "kana": "ひつよう な ばめん で つまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsumaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsumaru koto ni shi ta"
   },
   "jlpt-n1-誘惑-257": {
-    "kana": "ともだち と ゆうわく について しばらく はなし た",
-    "romaji": "tomodachi to yuuwaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆうわく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuwaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-誤る-481": {
-    "kana": "あんぜん に あやまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ayamaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あやまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ayamaru"
   },
   "jlpt-n1-誤魔化す-197": {
-    "kana": "あんぜん に ごまかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni gomakasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ごまかす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de gomakasu koto ni shi ta"
   },
   "jlpt-n1-読み上げる-1264": {
     "kana": "さいご まで けいかく を よみあげる かくご を きめ た",
@@ -4540,8 +4540,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru tare ni koe o kake ta"
   },
   "jlpt-n1-課外-649": {
-    "kana": "かいぎ で かがい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kagai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かがい について しばらく はなし た",
+    "romaji": "tomodachi to kagai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-調べ-699": {
     "kana": "しりょう の しらべ に わ じぜん の よやく が ひつよう だ",
@@ -4564,44 +4564,44 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to rongi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-諦め-645": {
-    "kana": "かいぎ で あきらめ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de akirame nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あきらめ について しばらく はなし た",
+    "romaji": "tomodachi to akirame nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-諮る-273": {
     "kana": "あたらしい あん を はかる かいぎ が よる まで つづい た",
     "romaji": "atarashii an o hakaru kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n1-諸君-168": {
-    "kana": "かいぎ で しょくん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shokun nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょくん について しばらく はなし た",
+    "romaji": "tomodachi to shokun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-講習-656": {
-    "kana": "かいぎ で こうしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koushuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうしゅう について しばらく はなし た",
+    "romaji": "tomodachi to koushuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-謝絶-203": {
-    "kana": "かいぎ で しゃぜつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shazetsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゃぜつ について しばらく はなし た",
+    "romaji": "tomodachi to shazetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-議案-303": {
-    "kana": "ともだち と ぎあん について しばらく はなし た",
-    "romaji": "tomodachi to gian nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぎあん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gian nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-負う-16": {
-    "kana": "おもい にもつ を えき まで おう ひと を さがし た",
-    "romaji": "omoi nimotsu o eki made ou hito o sagashi ta"
+    "kana": "しゅっちょう の こうつう ひ わ かいしゃ が おう",
+    "romaji": "shutchou no koutsuu hi wa kaisha ga ou"
   },
   "jlpt-n1-負かす-500": {
-    "kana": "あんぜん に まかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni makasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まかす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de makasu koto ni shi ta"
   },
   "jlpt-n1-負傷-173": {
-    "kana": "かいぎ で ふしょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de fushou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ふしょう について しばらく はなし た",
+    "romaji": "tomodachi to fushou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-負担-191": {
-    "kana": "ふたん の てつづき を きげん まで に すませ た",
-    "romaji": "futan no tetsuzuki o kigen made ni sumase ta"
+    "kana": "きょう の ふたん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no futan wa omo ta yori hayaku owa ta"
   },
   "jlpt-n1-財-450": {
     "kana": "こうじょう に ひつよう な ざい を あさ の うち に あつめ た",
@@ -4612,32 +4612,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kahei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-貫禄-294": {
-    "kana": "かいぎ で かんろく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanroku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんろく について しばらく はなし た",
+    "romaji": "tomodachi to kanroku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-貴女-170": {
     "kana": "あなた わ しずか に うなずい た",
     "romaji": "anata wa shizuka ni unazui ta"
   },
   "jlpt-n1-費やす-891": {
-    "kana": "ひつよう な ばめん で ついやす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsuiyasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ついやす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuiyasu"
   },
   "jlpt-n1-賃金-1020": {
     "kana": "ちんぎん の てつづき を きげん まで に すませ た",
     "romaji": "chingin no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n1-賄う-946": {
-    "kana": "あんぜん に まかなう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni makanau tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まかなう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te makanau"
   },
   "jlpt-n1-資産-1162": {
     "kana": "ともだち と しさん について しばらく はなし た",
     "romaji": "tomodachi to shisan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-質疑-1044": {
-    "kana": "かいぎ で しつぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shitsugi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しつぎ について しばらく はなし た",
+    "romaji": "tomodachi to shitsugi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-質素-845": {
     "kana": "しっそ な ようす で かれ わ さいご まで はなし を きい た",
@@ -4648,32 +4648,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kake nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-賭ける-573": {
-    "kana": "ひつよう な ばめん で かける ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kakeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kakeru koto ni shi ta"
   },
   "jlpt-n1-購読-23": {
     "kana": "すき な ざっし の こうどく を もうしこん だ",
     "romaji": "suki na zasshi no koudoku o moushikon da"
   },
   "jlpt-n1-赤ちゃん-475": {
-    "kana": "ともだち と あかちゃん について しばらく はなし た",
-    "romaji": "tomodachi to akachan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あかちゃん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de akachan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-赤字-911": {
     "kana": "こまっ て いる あかじ に こえ を かけ た",
     "romaji": "koma te iru akaji ni koe o kake ta"
   },
   "jlpt-n1-起こす-944": {
-    "kana": "ひつよう な ばめん で おこす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de okosu houhou o kangae ta"
+    "kana": "いりぐち に あたらしい あんない ばん を おこす",
+    "romaji": "iriguchi ni atarashii annai ban o okosu"
   },
   "jlpt-n1-起源-873": {
-    "kana": "ともだち と きげん について しばらく はなし た",
-    "romaji": "tomodachi to kigen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kigen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-起点-598": {
-    "kana": "ともだち と きてん について しばらく はなし た",
-    "romaji": "tomodachi to kiten nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kiten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-趣旨-371": {
     "kana": "ちかく の みせ で しゅし を みつけ た",
@@ -4692,8 +4692,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "samuku na ta node minari o hao ta"
   },
   "jlpt-n1-軋む-1040": {
-    "kana": "あんぜん に きしむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kishimu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て きしむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kishimu"
   },
   "jlpt-n1-軍備-1102": {
     "kana": "ぐんび が こっきょう ちかく に はいち さ れ た",
@@ -4716,12 +4716,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ekimae no tenkin de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-転居-469": {
-    "kana": "ともだち と てんきょ について しばらく はなし た",
-    "romaji": "tomodachi to tenkyo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てんきょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tenkyo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-転落-852": {
-    "kana": "ともだち と てんらく について しばらく はなし た",
-    "romaji": "tomodachi to tenraku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てんらく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tenraku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-軸-1143": {
     "kana": "かいぎ で じく について ぐたい てき に はなしあっ た",
@@ -4736,16 +4736,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "karoujite henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-辞職-96": {
-    "kana": "ともだち と じしょく について しばらく はなし た",
-    "romaji": "tomodachi to jishoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じしょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jishoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-辞退-997": {
     "kana": "たよう な じたい の ひとびと が おなじ かいじょう に あつまっ た",
     "romaji": "tayou na jitai no hitobito ga onaji kaijou ni atsuma ta"
   },
   "jlpt-n1-辟易-1202": {
-    "kana": "かいぎ で へきえき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hekieki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と へきえき について しばらく はなし た",
+    "romaji": "tomodachi to hekieki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-農耕-207": {
     "kana": "かいぎ で のうこう について ぐたい てき に はなしあっ た",
@@ -4756,20 +4756,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "jinsoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-近々-1022": {
-    "kana": "ちかぢか よてい を へんこう し た",
-    "romaji": "chikajika yotei o henkou shi ta"
+    "kana": "ちかぢか へんじ が とどい た ので あんしん し た",
+    "romaji": "chikajika henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n1-返答-315": {
     "kana": "かいぎ で へんとう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de hentou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-返還-1026": {
-    "kana": "かいぎ で へんかん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de henkan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と へんかん について しばらく はなし た",
+    "romaji": "tomodachi to henkan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-追及-767": {
-    "kana": "ともだち と ついきゅう について しばらく はなし た",
-    "romaji": "tomodachi to tsuikyuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ついきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuikyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-退く-1054": {
     "kana": "ひきだし から ふるい てがみ を しりぞく と なつかしく なっ た",
@@ -4780,8 +4780,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni taigaku e iku michi o shirabe ta"
   },
   "jlpt-n1-退職-675": {
-    "kana": "かいぎ で たいしょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taishoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たいしょく について しばらく はなし た",
+    "romaji": "tomodachi to taishoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-逃す-1050": {
     "kana": "しゅうまつ に ともだち の いえ え のがす よてい だ",
@@ -4792,8 +4792,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to tousou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-逆立ち-1154": {
-    "kana": "ともだち と さかだち について しばらく はなし た",
-    "romaji": "tomodachi to sakadachi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さかだち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sakadachi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-途上-30": {
     "kana": "あたらしい さあびす の とじょう が よてい より はやく すすん で いる",
@@ -4812,16 +4812,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi to tana o tsukuru keikaku o tate ta"
   },
   "jlpt-n1-連ねる-820": {
-    "kana": "あんぜん に つらねる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsuraneru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つらねる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsuraneru koto ni shi ta"
   },
   "jlpt-n1-連中-527": {
     "kana": "えきまえ の れんちゅう で あたらしい しごと が はじまっ た",
     "romaji": "ekimae no renchuu de atarashii shigoto ga hajima ta"
   },
   "jlpt-n1-連帯-647": {
-    "kana": "ともだち と れんたい について しばらく はなし た",
-    "romaji": "tomodachi to rentai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で れんたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rentai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-連邦-955": {
     "kana": "かいぎ で れんぽう について ぐたい てき に はなしあっ た",
@@ -4840,16 +4840,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de shindo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-逸らす-804": {
-    "kana": "ひつよう な ばめん で そらす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sorasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で そらす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sorasu koto ni shi ta"
   },
   "jlpt-n1-遅くとも-542": {
     "kana": "かいぎ で おそくとも について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de osokutomo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-遅れ-174": {
-    "kana": "ともだち と おくれ について しばらく はなし た",
-    "romaji": "tomodachi to okure nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おくれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de okure nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-遊牧-640": {
     "kana": "かいぎ で ゆうぼく について ぐたい てき に はなしあっ た",
@@ -4860,20 +4860,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to unmei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-運営-229": {
-    "kana": "かいぎ で うんえい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de un'ei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うんえい について しばらく はなし た",
+    "romaji": "tomodachi to un'ei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-運搬-1284": {
-    "kana": "かいぎ で うんぱん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de unpan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うんぱん について しばらく はなし た",
+    "romaji": "tomodachi to unpan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-過労-742": {
     "kana": "かいぎ で かろう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de karou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-違える-128": {
-    "kana": "ひつよう な ばめん で ちがえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de chigaeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ちがえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chigaeru"
   },
   "jlpt-n1-遠ざかる-215": {
     "kana": "はる に とおざかる ころ えきまえ の さくら が さき はじめる",
@@ -4884,12 +4884,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "saigo made keikaku o yari toosu kakugo o kime ta"
   },
   "jlpt-n1-適性-1226": {
-    "kana": "かいぎ で てきせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tekisei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と てきせい について しばらく はなし た",
+    "romaji": "tomodachi to tekisei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-遭難-259": {
-    "kana": "ともだち と そうなん について しばらく はなし た",
-    "romaji": "tomodachi to sounan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そうなん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sounan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-還元-901": {
     "kana": "ともだち と かんげん について しばらく はなし た",
@@ -4916,28 +4916,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to haibun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-配列-28": {
-    "kana": "ともだち と はいれつ について しばらく はなし た",
-    "romaji": "tomodachi to hairetsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はいれつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hairetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-配給-300": {
     "kana": "ひる ごはん に はいきゅう を すこし たべ た",
     "romaji": "hiru gohan ni haikyuu o sukoshi tabe ta"
   },
   "jlpt-n1-酪農-784": {
-    "kana": "かいぎ で らくのう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de rakunou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と らくのう について しばらく はなし た",
+    "romaji": "tomodachi to rakunou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-酷い-265": {
-    "kana": "その せつめい わ すこし ひどい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi hidoi to kanji ta"
+    "kana": "おもっ た より ひどい もんだい だっ た",
+    "romaji": "omo ta yori hidoi mondai da ta"
   },
   "jlpt-n1-重んじる-129": {
-    "kana": "あんぜん に おもんじる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni omonjiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おもんじる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de omonjiru koto ni shi ta"
   },
   "jlpt-n1-重んずる-781": {
-    "kana": "ひつよう な ばめん で おもんずる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de omonzuru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おもんずる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de omonzuru koto ni shi ta"
   },
   "jlpt-n1-重複-663": {
     "kana": "ともだち と じゅうふく について しばらく はなし た",
@@ -4952,56 +4952,56 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "donkan na seiseki ga tsuzuki gen'in o minaoshi ta"
   },
   "jlpt-n1-鉄棒-830": {
-    "kana": "かいぎ で てつぼう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tetsubou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と てつぼう について しばらく はなし た",
+    "romaji": "tomodachi to tetsubou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鉛-337": {
-    "kana": "かいぎ で なまり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de namari nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と なまり について しばらく はなし た",
+    "romaji": "tomodachi to namari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鉱山-185": {
-    "kana": "ともだち と こうざん について しばらく はなし た",
-    "romaji": "tomodachi to kouzan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうざん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouzan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-銅-789": {
-    "kana": "ともだち と どう について しばらく はなし た",
-    "romaji": "tomodachi to dou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で どう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-鋸-785": {
-    "kana": "ともだち と のこぎり について しばらく はなし た",
-    "romaji": "tomodachi to nokogiri nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で のこぎり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nokogiri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-錯覚-377": {
-    "kana": "かいぎ で さっかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sakkaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さっかく について しばらく はなし た",
+    "romaji": "tomodachi to sakkaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鍛える-1168": {
-    "kana": "あんぜん に きたえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kitaeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で きたえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kitaeru koto ni shi ta"
   },
   "jlpt-n1-長-326": {
     "kana": "ちょう が いたく て きょう わ はやめ に やすん だ",
     "romaji": "chou ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n1-長官-513": {
-    "kana": "かいぎ で ちょうかん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de choukan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちょうかん について しばらく はなし た",
+    "romaji": "tomodachi to choukan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-長閑-15": {
     "kana": "のどか な きこう の まち で くらし たい",
     "romaji": "nodoka na kikou no machi de kurashi tai"
   },
   "jlpt-n1-閉口-100": {
-    "kana": "あんぜん に へいこう する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni heikou suru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で へいこう する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de heikou suru koto ni shi ta"
   },
   "jlpt-n1-開催-41": {
-    "kana": "かいぎ で かいさい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaisai nitsuite gutai teki ni hanashia ta"
+    "kana": "えいが さい の かいさい に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no kaisai ni awase te machi ga nigiwa ta"
   },
   "jlpt-n1-開拓-184": {
-    "kana": "あたらしい さあびす の かいたく が よてい より はやく すすん で いる",
-    "romaji": "atarashii saabisu no kaitaku ga yotei yori hayaku susun de iru"
+    "kana": "えいが さい の かいたく に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no kaitaku ni awase te machi ga nigiwa ta"
   },
   "jlpt-n1-開発-11": {
     "kana": "あたらしい さあびす の かいはつ が よてい より はやく すすん で いる",
@@ -5012,8 +5012,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de aidagara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-関与-916": {
-    "kana": "かいぎ で かんよ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kan'yo nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんよ について しばらく はなし た",
+    "romaji": "tomodachi to kan'yo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-関税-454": {
     "kana": "きょう の かんぜい わ おもっ た より はやく おわっ た",
@@ -5028,8 +5028,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de bouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-阻む-50": {
-    "kana": "ひつよう な ばめん で はばむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de habamu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で はばむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de habamu koto ni shi ta"
   },
   "jlpt-n1-降水-895": {
     "kana": "ともだち と こうすい について しばらく はなし た",
@@ -5040,8 +5040,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi to chinretsu o mi ni i ta"
   },
   "jlpt-n1-隔週-1155": {
-    "kana": "かくしゅう へんじ が とどい た ので あんしん し た",
-    "romaji": "kakushuu henji ga todoi ta node anshin shi ta"
+    "kana": "かくしゅう よてい を へんこう し た",
+    "romaji": "kakushuu yotei o henkou shi ta"
   },
   "jlpt-n1-際-389": {
     "kana": "さい に だいじ な よてい が はいっ て いる",
@@ -5060,16 +5060,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "zatsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-雑談-64": {
-    "kana": "かいぎ で ざつだん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zatsudan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ざつだん について しばらく はなし た",
+    "romaji": "tomodachi to zatsudan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-雑貨-733": {
     "kana": "こうじょう に ひつよう な ざっか を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na zakka o asa no uchi ni atsume ta"
   },
   "jlpt-n1-難い-376": {
-    "kana": "おもっ た より かたい もんだい だっ た",
-    "romaji": "omo ta yori katai mondai da ta"
+    "kana": "その せつめい わ すこし かたい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi katai to kanji ta"
   },
   "jlpt-n1-雪崩-923": {
     "kana": "ともだち と なだれ について しばらく はなし た",
@@ -5084,40 +5084,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tana kara nimotsu o kobosu toki wa ashimoto ni ki o tsukeru"
   },
   "jlpt-n1-雷-1134": {
-    "kana": "かいぎ で かみなり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaminari nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かみなり について しばらく はなし た",
+    "romaji": "tomodachi to kaminari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-霞む-1018": {
     "kana": "はる に かすむ ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni kasumu koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n1-静止-236": {
-    "kana": "ともだち と せいし について しばらく はなし た",
-    "romaji": "tomodachi to seishi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-非-464": {
-    "kana": "ともだち と ひ について しばらく はなし た",
-    "romaji": "tomodachi to hi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-面-1038": {
     "kana": "ふうとう の めん に じゅうしょ を かい た",
     "romaji": "fuutou no men ni juusho o kai ta"
   },
   "jlpt-n1-面する-329": {
-    "kana": "ひつよう な ばめん で めんする ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mensuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て めんする",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mensuru"
   },
   "jlpt-n1-面皰-392": {
     "kana": "ともだち と にきび について しばらく はなし た",
     "romaji": "tomodachi to nikibi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-鞠-1101": {
-    "kana": "かいぎ で まり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mari nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と まり について しばらく はなし た",
+    "romaji": "tomodachi to mari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-音-54": {
-    "kana": "ともだち と おと について しばらく はなし た",
-    "romaji": "tomodachi to oto nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oto nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-頂-725": {
     "kana": "やま の いただき から まち ぜんたい が みえ た",
@@ -5128,8 +5128,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ganjou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n1-領土-556": {
-    "kana": "ともだち と りょうど について しばらく はなし た",
-    "romaji": "tomodachi to ryoudo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りょうど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryoudo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-領域-1212": {
     "kana": "あめあがり の りょういき に そら が うつっ て い た",
@@ -5140,20 +5140,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shikirini yotei o henkou shi ta"
   },
   "jlpt-n1-頻繁-1186": {
-    "kana": "ひんぱん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "hinpan na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ひんぱん な てん を さき に せつめい し た",
+    "romaji": "hinpan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n1-顧みる-1096": {
-    "kana": "あんぜん に かえりみる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kaerimiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かえりみる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kaerimiru koto ni shi ta"
   },
   "jlpt-n1-風土-150": {
     "kana": "ともだち と ふうど について しばらく はなし た",
     "romaji": "tomodachi to fuudo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-風習-67": {
-    "kana": "かいぎ で ふうしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de fuushuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ふうしゅう について しばらく はなし た",
+    "romaji": "tomodachi to fuushuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-風車-2": {
     "kana": "ちかく の みせ で かざぐるま を みつけ た",
@@ -5164,8 +5164,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yotei ga kuichigau hi o eran de minna de atsuma ta"
   },
   "jlpt-n1-飼育-958": {
-    "kana": "ともだち と しいく について しばらく はなし た",
-    "romaji": "tomodachi to shiiku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しいく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiiku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-養う-718": {
     "kana": "おもい にもつ を えき まで やしなう ひと を さがし た",
@@ -5176,8 +5176,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de yougo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-饂飩-425": {
-    "kana": "かいぎ で うどん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de udon nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うどん について しばらく はなし た",
+    "romaji": "tomodachi to udon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-首脳-17": {
     "kana": "しゅのう な しょるい を わすれ ず に もっ て いっ た",
@@ -5188,8 +5188,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sono setsumei wa sukoshi bakabakashii to kanji ta"
   },
   "jlpt-n1-馴れ馴れしい-711": {
-    "kana": "おもっ た より なれなれしい もんだい だっ た",
-    "romaji": "omo ta yori narenareshii mondai da ta"
+    "kana": "なれなれしい ひ だっ た が さいご まで あるい た",
+    "romaji": "narenareshii hi da ta ga saigo made arui ta"
   },
   "jlpt-n1-駄作-1148": {
     "kana": "きょう の ださく わ おもっ た より はやく おわっ た",
@@ -5204,8 +5204,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de odoroki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-骨董品-567": {
-    "kana": "ともだち と こっとう ひん について しばらく はなし た",
-    "romaji": "tomodachi to kottou hin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こっとう ひん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kottou hin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-高原-483": {
     "kana": "かいぎ で こうげん について ぐたい てき に はなしあっ た",
@@ -5216,16 +5216,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tamashii na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n1-鳥居-749": {
-    "kana": "ともだち と とりい について しばらく はなし た",
-    "romaji": "tomodachi to torii nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とりい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de torii nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n1-麻-696": {
-    "kana": "かいぎ で あさ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de asa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あさ について しばらく はなし た",
+    "romaji": "tomodachi to asa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-麻酔-1048": {
-    "kana": "かいぎ で ますい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de masui nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ますい について しばらく はなし た",
+    "romaji": "tomodachi to masui nitsuite shibaraku hanashi ta"
   },
   "jlpt-n1-黄色-662": {
     "kana": "きいろ な てん を さき に せつめい し た",
@@ -5260,12 +5260,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to miri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-一定-1790": {
-    "kana": "あんぜん に いってい する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ittei suru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いってい する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ittei suru"
   },
   "jlpt-n2-一斉-1811": {
-    "kana": "ともだち と いっせい について しばらく はなし た",
-    "romaji": "tomodachi to issei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いっせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de issei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-一昨年-1751": {
     "kana": "いっさくねん に だいじ な よてい が はいっ て いる",
@@ -5276,8 +5276,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ototoi wa hayame ni ie o de ta"
   },
   "jlpt-n2-一通り-1557": {
-    "kana": "かいぎ で いち とおり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ichi toori nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いち とおり について しばらく はなし た",
+    "romaji": "tomodachi to ichi toori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-三日月-1366": {
     "kana": "よぞら に みかづき が しずか に うかん で い た",
@@ -5304,32 +5304,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "gejun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-下町-1907": {
-    "kana": "かいぎ で したまち について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shitamachi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と したまち について しばらく はなし た",
+    "romaji": "tomodachi to shitamachi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-下車-1463": {
     "kana": "かいぎ で げしゃ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de gesha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-下降-1932": {
-    "kana": "ともだち と かこう について しばらく はなし た",
-    "romaji": "tomodachi to kakou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-不規則-1832": {
-    "kana": "ふきそく な てん を さき に せつめい し た",
-    "romaji": "fukisoku na ten o saki ni setsumei shi ta"
+    "kana": "ふきそく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fukisoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-両側-1892": {
-    "kana": "ともだち と りょうがわ について しばらく はなし た",
-    "romaji": "tomodachi to ryougawa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りょうがわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryougawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-並木-1382": {
     "kana": "ゆうがた に なる と なみき が とても きれい に みえ た",
     "romaji": "yuugata ni naru to namiki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-並行-1543": {
-    "kana": "へいこう に だいじ な よてい が はいっ て いる",
-    "romaji": "heikou ni daiji na yotei ga hai te iru"
+    "kana": "むり の ない へいこう で はしり つづけ た",
+    "romaji": "muri no nai heikou de hashiri tsuzuke ta"
   },
   "jlpt-n2-中世-1290": {
     "kana": "ともだち と ちゅうせい について しばらく はなし た",
@@ -5340,16 +5340,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de nakami nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-中性-1312": {
-    "kana": "かいぎ で ちゅうせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chuusei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちゅうせい について しばらく はなし た",
+    "romaji": "tomodachi to chuusei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-中旬-1447": {
     "kana": "ちゅうじゅん に だいじ な よてい が はいっ て いる",
     "romaji": "chuujun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-主役-1598": {
-    "kana": "かいぎ で しゅやく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuyaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅやく について しばらく はなし た",
+    "romaji": "tomodachi to shuyaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-丼-1678": {
     "kana": "ひる ごはん に どんぶり を すこし たべ た",
@@ -5364,28 +5364,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "samuku na ta node kansou o hao ta"
   },
   "jlpt-n2-乾電池-1399": {
-    "kana": "ともだち と かんでんち について しばらく はなし た",
-    "romaji": "tomodachi to kandenchi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かんでんち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kandenchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-争う-1757": {
     "kana": "あたらしい あん を あらそう かいぎ が よる まで つづい た",
     "romaji": "atarashii an o arasou kaigi ga yoru made tsuzui ta"
   },
   "jlpt-n2-亡くす-1483": {
-    "kana": "あんぜん に なくす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nakusu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なくす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nakusu"
   },
   "jlpt-n2-交じる-1797": {
-    "kana": "あんぜん に まじる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni majiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まじる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de majiru koto ni shi ta"
   },
   "jlpt-n2-交ぜる-1481": {
-    "kana": "あんぜん に まぜる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni mazeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まぜる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mazeru"
   },
   "jlpt-n2-交差-1437": {
-    "kana": "ともだち と こうさ について しばらく はなし た",
-    "romaji": "tomodachi to kousa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうさ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kousa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-人命-1404": {
     "kana": "かいぎ で じんめい について ぐたい てき に はなしあっ た",
@@ -5396,8 +5396,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hitosashiyubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-人文科学-1840": {
-    "kana": "かいぎ で じんぶん かがく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jinbun kagaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じんぶん かがく について しばらく はなし た",
+    "romaji": "tomodachi to jinbun kagaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-人通り-1878": {
     "kana": "ともだち と ひとどおり について しばらく はなし た",
@@ -5412,16 +5412,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e tsukiau yotei da"
   },
   "jlpt-n2-代名詞-1758": {
-    "kana": "かいぎ で だいめいし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de daimeishi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と だいめいし について しばらく はなし た",
+    "romaji": "tomodachi to daimeishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-仮定-1362": {
     "kana": "ともだち と かてい について しばらく はなし た",
     "romaji": "tomodachi to katei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-仲良し-1500": {
-    "kana": "ともだち と なかよし について しばらく はなし た",
-    "romaji": "tomodachi to nakayoshi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で なかよし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nakayoshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-休業-1304": {
     "kana": "しゅうまつ に きゅうぎょう え いく みち を しらべ た",
@@ -5432,20 +5432,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no kyuukou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-休養-1778": {
-    "kana": "ともだち と きゅうよう について しばらく はなし た",
-    "romaji": "tomodachi to kyuuyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きゅうよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuuyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-会館-1704": {
-    "kana": "ともだち と かいかん について しばらく はなし た",
-    "romaji": "tomodachi to kaikan nitsuite shibaraku hanashi ta"
+    "kana": "かいかん で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "kaikan de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n2-住居-1498": {
-    "kana": "ともだち と じゅうきょ について しばらく はなし た",
-    "romaji": "tomodachi to juukyo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じゅうきょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juukyo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-余る-1858": {
-    "kana": "あんぜん に あまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni amaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te amaru"
   },
   "jlpt-n2-余計-1340": {
     "kana": "よけい な ようす で かれ わ さいご まで はなし を きい た",
@@ -5476,8 +5476,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de binsen o mitsuke ta"
   },
   "jlpt-n2-係わる-1517": {
-    "kana": "あんぜん に かかわる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kakawaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かかわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kakawaru"
   },
   "jlpt-n2-俄-1544": {
     "kana": "にわか な てん を さき に せつめい し た",
@@ -5496,24 +5496,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no kessaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-催し-1564": {
-    "kana": "ともだち と もよおし について しばらく はなし た",
-    "romaji": "tomodachi to moyooshi nitsuite shibaraku hanashi ta"
+    "kana": "えいが さい の もよおし に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no moyooshi ni awase te machi ga nigiwa ta"
   },
   "jlpt-n2-催促-1326": {
-    "kana": "ともだち と さいそく について しばらく はなし た",
-    "romaji": "tomodachi to saisoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さいそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saisoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-傾く-1759": {
-    "kana": "あんぜん に かたむく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni katamuku tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かたむく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de katamuku koto ni shi ta"
   },
   "jlpt-n2-儀式-1664": {
-    "kana": "かいぎ で ぎしき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gishiki nitsuite gutai teki ni hanashia ta"
+    "kana": "ちいき の ぎしき に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no gishiki ni ooku no hito ga atsuma ta"
   },
   "jlpt-n2-儲ける-1716": {
-    "kana": "ひつよう な ばめん で もうける ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de moukeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で もうける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de moukeru koto ni shi ta"
   },
   "jlpt-n2-先程-1604": {
     "kana": "さきほど に だいじ な よてい が はいっ て いる",
@@ -5536,36 +5536,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to zenpan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-全集-1769": {
-    "kana": "かいぎ で ぜんしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zenshuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぜんしゅう について しばらく はなし た",
+    "romaji": "tomodachi to zenshuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-公式-1434": {
     "kana": "こうしき な しょるい を わすれ ず に もっ て いっ た",
     "romaji": "koushiki na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-公正-1423": {
-    "kana": "こうせい な てん を さき に せつめい し た",
-    "romaji": "kousei na ten o saki ni setsumei shi ta"
+    "kana": "こうせい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kousei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-公衆-1444": {
-    "kana": "かいぎ で こうしゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koushuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうしゅう について しばらく はなし た",
+    "romaji": "tomodachi to koushuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-内科-1779": {
-    "kana": "ともだち と ないか について しばらく はなし た",
-    "romaji": "tomodachi to naika nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ないか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de naika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-再来年-1549": {
     "kana": "さらいねん に だいじ な よてい が はいっ て いる",
     "romaji": "sarainen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-写る-1914": {
-    "kana": "ひつよう な ばめん で うつる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de utsuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うつる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te utsuru"
   },
   "jlpt-n2-冠-1627": {
-    "kana": "かいぎ で かんむり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kanmuri nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんむり について しばらく はなし た",
+    "romaji": "tomodachi to kanmuri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-冷ます-1458": {
     "kana": "しんらい を さます はつげん わ さけ た ほう が いい",
@@ -5580,20 +5580,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "deai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-出来上がる-1886": {
-    "kana": "ひつよう な ばめん で できあがる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de dekiagaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で できあがる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de dekiagaru koto ni shi ta"
   },
   "jlpt-n2-出迎え-1852": {
-    "kana": "ともだち と でむかえ について しばらく はなし た",
-    "romaji": "tomodachi to demukae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で でむかえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de demukae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-分数-1692": {
     "kana": "ともだち と ぶんすう について しばらく はなし た",
     "romaji": "tomodachi to bunsuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-分量-1644": {
-    "kana": "かいぎ で ぶんりょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bunryou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶんりょう について しばらく はなし た",
+    "romaji": "tomodachi to bunryou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-列島-1819": {
     "kana": "かいぎ で れっとう について ぐたい てき に はなしあっ た",
@@ -5604,88 +5604,88 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shojun ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-判子-1739": {
-    "kana": "ともだち と はん こ について しばらく はなし た",
-    "romaji": "tomodachi to han ko nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はん こ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de han ko nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-別々-1537": {
-    "kana": "べつべつ な てん を さき に せつめい し た",
-    "romaji": "betsubetsu na ten o saki ni setsumei shi ta"
+    "kana": "べつべつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "betsubetsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-利害-1568": {
-    "kana": "ともだち と りがい について しばらく はなし た",
-    "romaji": "tomodachi to rigai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rigai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-制作-1329": {
     "kana": "あたらしい さあびす の せいさく が よてい より はやく すすん で いる",
     "romaji": "atarashii saabisu no seisaku ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-刷る-1405": {
-    "kana": "ひつよう な ばめん で する する ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de suru suru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で する する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de suru suru koto ni shi ta"
   },
   "jlpt-n2-刺さる-1518": {
     "kana": "ちず で もくてき ち を ささる ゆび を み た",
     "romaji": "chizu de mokuteki chi o sasaru yubi o mi ta"
   },
   "jlpt-n2-刺す-1705": {
-    "kana": "あんぜん に さす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sasu"
   },
   "jlpt-n2-刻む-1721": {
     "kana": "しょくにん が き に なまえ を きざむ ようす を み た",
     "romaji": "shokunin ga ki ni namae o kizamu yousu o mi ta"
   },
   "jlpt-n2-削る-1850": {
-    "kana": "あんぜん に けずる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kezuru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で けずる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kezuru koto ni shi ta"
   },
   "jlpt-n2-剥く-1465": {
-    "kana": "ひつよう な ばめん で むく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de muku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て むく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te muku"
   },
   "jlpt-n2-副詞-1561": {
     "kana": "かいぎ で ふくし について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de fukushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-割引-1796": {
-    "kana": "かいぎ で わりびき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de waribiki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と わりびき について しばらく はなし た",
+    "romaji": "tomodachi to waribiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-助かる-1374": {
     "kana": "しんらい を たすかる はつげん わ さけ た ほう が いい",
     "romaji": "shinrai o tasukaru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n2-効力-1589": {
-    "kana": "ともだち と こうりょく について しばらく はなし た",
-    "romaji": "tomodachi to kouryoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうりょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouryoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-勘違い-1793": {
     "kana": "おもっ た より かんちがい もんだい だっ た",
     "romaji": "omo ta yori kanchigai mondai da ta"
   },
   "jlpt-n2-勝敗-1495": {
-    "kana": "かいぎ で しょうはい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shouhai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょうはい について しばらく はなし た",
+    "romaji": "tomodachi to shouhai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-募集-1743": {
     "kana": "かいぎ で ぼしゅう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de boshuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-匂う-1789": {
-    "kana": "ひつよう な ばめん で におう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de niou houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て におう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te niou"
   },
   "jlpt-n2-包帯-1833": {
-    "kana": "かいぎ で ほうたい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de houtai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほうたい について しばらく はなし た",
+    "romaji": "tomodachi to houtai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-区分-1937": {
     "kana": "ともだち と くぶん について しばらく はなし た",
     "romaji": "tomodachi to kubun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-区切る-1794": {
-    "kana": "ひつよう な ばめん で くぎる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kugiru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くぎる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kugiru"
   },
   "jlpt-n2-卑怯-1559": {
     "kana": "ひきょう な あつかい を うけ て かれ わ すぐ に こうぎ し た",
@@ -5704,20 +5704,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "nanbei no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-占う-1740": {
-    "kana": "ひつよう な ばめん で うらなう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de uranau houhou o kangae ta"
+    "kana": "ことし の うりあげ わ きょねん を うわまわる と うらなう",
+    "romaji": "kotoshi no uriage wa kyonen o uwamawaru to uranau"
   },
   "jlpt-n2-危うい-1323": {
     "kana": "あやうい ひ だっ た が さいご まで あるい た",
     "romaji": "ayaui hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-卸す-1318": {
-    "kana": "あんぜん に おろす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni orosu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おろす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te orosu"
   },
   "jlpt-n2-原始-1496": {
-    "kana": "ともだち と げんし について しばらく はなし た",
-    "romaji": "tomodachi to genshi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で げんし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de genshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-原産-1623": {
     "kana": "しゅうまつ に げんさん え いく みち を しらべ た",
@@ -5728,24 +5728,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de mataha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-反る-1406": {
-    "kana": "ひつよう な ばめん で かえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kaeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kaeru"
   },
   "jlpt-n2-反省-1395": {
-    "kana": "ともだち と はんせい について しばらく はなし た",
-    "romaji": "tomodachi to hansei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はんせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hansei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-叔母さん-1414": {
     "kana": "ともだち と おばさん について しばらく はなし た",
     "romaji": "tomodachi to obasan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-取り入れる-1764": {
-    "kana": "あんぜん に とりいれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toriireru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とりいれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toriireru koto ni shi ta"
   },
   "jlpt-n2-取り出す-1846": {
-    "kana": "あんぜん に とりだす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toridasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て とりだす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te toridasu"
   },
   "jlpt-n2-取り消す-1795": {
     "kana": "ひきだし から ふるい てがみ を とりけす と なつかしく なっ た",
@@ -5760,20 +5760,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni juken e iku michi o shirabe ta"
   },
   "jlpt-n2-口紅-1883": {
-    "kana": "ともだち と くちべに について しばらく はなし た",
-    "romaji": "tomodachi to kuchibeni nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で くちべに について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kuchibeni nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-只-1546": {
     "kana": "この いべんと の にゅうじょう りょう わ ただ だっ た",
     "romaji": "kono ibento no nyuujou ryou wa tada da ta"
   },
   "jlpt-n2-可決-1682": {
-    "kana": "かいぎ で かけつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaketsu nitsuite gutai teki ni hanashia ta"
+    "kana": "けいかく わ じょうし の かけつ を え て から すすめる",
+    "romaji": "keikaku wa joushi no kaketsu o e te kara susumeru"
   },
   "jlpt-n2-司会-1894": {
-    "kana": "ともだち と しかい について しばらく はなし た",
-    "romaji": "tomodachi to shikai nitsuite shibaraku hanashi ta"
+    "kana": "ちいき の しかい に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no shikai ni ooku no hito ga atsuma ta"
   },
   "jlpt-n2-各自-1679": {
     "kana": "こまっ て いる かくじ に こえ を かけ た",
@@ -5788,8 +5788,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "uwagi o tsuru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-同格-1400": {
-    "kana": "かいぎ で どうかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de doukaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と どうかく について しばらく はなし た",
+    "romaji": "tomodachi to doukaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-名作-1848": {
     "kana": "かいぎ で めいさく について ぐたい てき に はなしあっ た",
@@ -5808,24 +5808,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to fubuki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-呑気-1429": {
-    "kana": "のんき な てん を さき に せつめい し た",
-    "romaji": "nonki na ten o saki ni setsumei shi ta"
+    "kana": "のんき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "nonki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-周辺-1622": {
-    "kana": "かいぎ で しゅうへん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuuhen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅうへん について しばらく はなし た",
+    "romaji": "tomodachi to shuuhen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-味わう-1357": {
-    "kana": "ひつよう な ばめん で あじわう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ajiwau houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あじわう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ajiwau"
   },
   "jlpt-n2-呼び掛ける-1306": {
-    "kana": "あんぜん に よびかける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni yobikakeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て よびかける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te yobikakeru"
   },
   "jlpt-n2-命ずる-1654": {
-    "kana": "ひつよう な ばめん で めいずる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de meizuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て めいずる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te meizuru"
   },
   "jlpt-n2-和英-1467": {
     "kana": "つくえ の うえ に かずひで を おい て から でかけ た",
@@ -5836,12 +5836,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kuchibiru nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-問い合わせ-1625": {
-    "kana": "ともだち と といあわせ について しばらく はなし た",
-    "romaji": "tomodachi to toiawase nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で といあわせ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toiawase nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-器械-1749": {
-    "kana": "かいぎ で きかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kikai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きかい について しばらく はなし た",
+    "romaji": "tomodachi to kikai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-四つ角-1784": {
     "kana": "よつかど の はこ を たな に きれい に ならべ た",
@@ -5876,36 +5876,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kokuou ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n2-国籍-1711": {
-    "kana": "ともだち と こくせき について しばらく はなし た",
-    "romaji": "tomodachi to kokuseki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こくせき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokuseki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-地点-1597": {
-    "kana": "しゅうまつ に ちてん え いく みち を しらべ た",
-    "romaji": "shuumatsu ni chiten e iku michi o shirabe ta"
+    "kana": "あたらしい としょかん わ ひろい ちてん に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi chiten ni tate rare ta"
   },
   "jlpt-n2-地盤-1448": {
-    "kana": "かいぎ で じばん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jiban nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じばん について しばらく はなし た",
+    "romaji": "tomodachi to jiban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-地質-1425": {
-    "kana": "ともだち と ちしつ について しばらく はなし た",
-    "romaji": "tomodachi to chishitsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちしつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chishitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-坊や-1873": {
-    "kana": "かいぎ で ぼうや について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bouya nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぼうや について しばらく はなし た",
+    "romaji": "tomodachi to bouya nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-垣根-1587": {
-    "kana": "かいぎ で かきね について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kakine nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かきね について しばらく はなし た",
+    "romaji": "tomodachi to kakine nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-執筆-1689": {
-    "kana": "ともだち と しっぴつ について しばらく はなし た",
-    "romaji": "tomodachi to shippitsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しっぴつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shippitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-基準-1310": {
-    "kana": "かいぎ で きじゅん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kijun nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きじゅん について しばらく はなし た",
+    "romaji": "tomodachi to kijun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-基盤-1319": {
     "kana": "ともだち と きばん について しばらく はなし た",
@@ -5916,40 +5916,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sono setsumei wa sukoshi katai to kanji ta"
   },
   "jlpt-n2-塊-1368": {
-    "kana": "ともだち と かたまり について しばらく はなし た",
-    "romaji": "tomodachi to katamari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かたまり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de katamari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-塞がる-1510": {
-    "kana": "ひつよう な ばめん で ふさがる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de fusagaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふさがる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te fusagaru"
   },
   "jlpt-n2-塵芥-1615": {
     "kana": "かいぎ で ごみ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de gomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-増やす-1629": {
-    "kana": "ひつよう な ばめん で ふやす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de fuyasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふやす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te fuyasu"
   },
   "jlpt-n2-増大-1766": {
-    "kana": "ともだち と ぞうだい について しばらく はなし た",
-    "romaji": "tomodachi to zoudai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぞうだい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zoudai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-売行き-1297": {
-    "kana": "かいぎ で うれゆき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ureyuki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うれゆき について しばらく はなし た",
+    "romaji": "tomodachi to ureyuki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-夕日-1488": {
     "kana": "ゆうひ に だいじ な よてい が はいっ て いる",
     "romaji": "yuuhi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-外れる-1460": {
-    "kana": "あんぜん に はずれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hazureru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はずれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hazureru"
   },
   "jlpt-n2-夜行-1579": {
-    "kana": "やこう れっしゃ で こきょう え かえっ た",
-    "romaji": "yakou ressha de kokyou e kae ta"
+    "kana": "やこう について べつ の かくど から わだい が ひろがっ た",
+    "romaji": "yakou nitsuite betsu no kakudo kara wadai ga hiroga ta"
   },
   "jlpt-n2-大して-1363": {
     "kana": "たいして この ぶぶん を ていねい に よん だ",
@@ -5968,8 +5968,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de daishou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-大層-1411": {
-    "kana": "きょう わ たいそう つかれ た ので はやめ に ね た",
-    "romaji": "kyou wa taisou tsukare ta node hayame ni ne ta"
+    "kana": "たいそう について べつ の かくど から わだい が ひろがっ た",
+    "romaji": "taisou nitsuite betsu no kakudo kara wadai ga hiroga ta"
   },
   "jlpt-n2-大工-1927": {
     "kana": "かいぎ で だいく について ぐたい てき に はなしあっ た",
@@ -5984,44 +5984,44 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni taiko o oi te kara dekake ta"
   },
   "jlpt-n2-失恋-1657": {
-    "kana": "ともだち と しつれん について しばらく はなし た",
-    "romaji": "tomodachi to shitsuren nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しつれん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitsuren nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-女の人-1339": {
     "kana": "かえりぎわ に おんな の ひと と こえ を かけ た",
     "romaji": "kaerigiwa ni onna no hito to koe o kake ta"
   },
   "jlpt-n2-女房-1725": {
-    "kana": "かいぎ で にょうぼう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nyoubou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と にょうぼう について しばらく はなし た",
+    "romaji": "tomodachi to nyoubou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-妥当-1344": {
-    "kana": "だとう な てん を さき に せつめい し た",
-    "romaji": "datou na ten o saki ni setsumei shi ta"
+    "kana": "だとう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "datou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-妨げる-1670": {
-    "kana": "あんぜん に さまたげる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni samatageru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さまたげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te samatageru"
   },
   "jlpt-n2-姓-1940": {
-    "kana": "ともだち と せい について しばらく はなし た",
-    "romaji": "tomodachi to sei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-姿勢-1509": {
     "kana": "しせい が いたく て きょう わ はやめ に やすん だ",
     "romaji": "shisei ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-嫌がる-1613": {
-    "kana": "あんぜん に いやがる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni iyagaru tame ni saki ni junbi o shi ta"
+    "kana": "しちょう わ かいけん で じにん の いこう を いやがる",
+    "romaji": "shichou wa kaiken de jinin no ikou o iyagaru"
   },
   "jlpt-n2-子孫-1576": {
-    "kana": "かいぎ で しそん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shison nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しそん について しばらく はなし た",
+    "romaji": "tomodachi to shison nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-学会-1353": {
-    "kana": "ともだち と がっかい について しばらく はなし た",
-    "romaji": "tomodachi to gakkai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で がっかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gakkai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-学年-1361": {
     "kana": "しゅうまつ に がくねん え いく みち を しらべ た",
@@ -6036,12 +6036,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni gakubu e iku michi o shirabe ta"
   },
   "jlpt-n2-定休日-1727": {
-    "kana": "かいぎ で ていきゅう び について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de teikyuu bi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ていきゅう び について しばらく はなし た",
+    "romaji": "tomodachi to teikyuu bi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-定価-1763": {
-    "kana": "かいぎ で ていか について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de teika nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ていか について しばらく はなし た",
+    "romaji": "tomodachi to teika nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-定員-1385": {
     "kana": "うけつけ で ていいん を よば れる まで まっ た",
@@ -6052,8 +6052,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni teiki ken o oi te kara dekake ta"
   },
   "jlpt-n2-実力-1522": {
-    "kana": "かいぎ で じつりょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jitsuryoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じつりょく について しばらく はなし た",
+    "romaji": "tomodachi to jitsuryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-実用-1616": {
     "kana": "ともだち と じつよう について しばらく はなし た",
@@ -6072,16 +6072,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yanushi ni mizu more o shirase ta"
   },
   "jlpt-n2-容積-1649": {
-    "kana": "ともだち と ようせき について しばらく はなし た",
-    "romaji": "tomodachi to youseki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ようせき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youseki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-寮-1391": {
-    "kana": "きゅうけい ちゅう に あたたかい りょう を いっぱい のん だ",
-    "romaji": "kyuukei chuu ni atatakai ryou o ippai non da"
+    "kana": "ちいき の りょう に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no ryou ni ooku no hito ga atsuma ta"
   },
   "jlpt-n2-寸法-1529": {
-    "kana": "かいぎ で すんぽう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sunpou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と すんぽう について しばらく はなし た",
+    "romaji": "tomodachi to sunpou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-対照-1352": {
     "kana": "かいぎ で たいしょう について ぐたい てき に はなしあっ た",
@@ -6092,8 +6092,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to taisaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-射す-1729": {
-    "kana": "ひつよう な ばめん で さす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sasu"
   },
   "jlpt-n2-小学生-1301": {
     "kana": "しゅうまつ に しょうがくせい え いく みち を しらべ た",
@@ -6108,16 +6108,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni togaru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-就任-1824": {
-    "kana": "ともだち と しゅうにん について しばらく はなし た",
-    "romaji": "tomodachi to shuunin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅうにん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuunin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-山林-1333": {
     "kana": "ゆうがた に なる と さんりん が とても きれい に みえ た",
     "romaji": "yuugata ni naru to sanrin ga totemo kirei ni mie ta"
   },
   "jlpt-n2-崩す-1891": {
-    "kana": "ひつよう な ばめん で くずす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kuzusu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くずす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kuzusu"
   },
   "jlpt-n2-工事-1583": {
     "kana": "あたらしい さあびす の こうじ が よてい より はやく すすん で いる",
@@ -6132,16 +6132,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "uwagi o maku basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-干す-1403": {
-    "kana": "あんぜん に ほす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hosu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ほす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hosu koto ni shi ta"
   },
   "jlpt-n2-平仮名-1515": {
     "kana": "ともだち と ひ ら が な について しばらく はなし た",
     "romaji": "tomodachi to hi ra ga na nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-平気-1327": {
-    "kana": "へいき な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "heiki na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "へいき な てん を さき に せつめい し た",
+    "romaji": "heiki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-年度-1857": {
     "kana": "しゅうまつ に ねんど え いく みち を しらべ た",
@@ -6152,52 +6152,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni youchien e iku michi o shirabe ta"
   },
   "jlpt-n2-幾分-1668": {
-    "kana": "あんぜん に いくぶん ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ikubun tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で いくぶん こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ikubun koto ni shi ta"
   },
   "jlpt-n2-広々-1903": {
     "kana": "ひろびろ よてい を へんこう し た",
     "romaji": "hirobiro yotei o henkou shi ta"
   },
   "jlpt-n2-広さ-1364": {
-    "kana": "ともだち と ひろ さ について しばらく はなし た",
-    "romaji": "tomodachi to hiro sa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひろ さ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiro sa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-広める-1792": {
-    "kana": "ひつよう な ばめん で ひろめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hiromeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ひろめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hiromeru koto ni shi ta"
   },
   "jlpt-n2-広場-1912": {
-    "kana": "かいぎ で ひろば について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hiroba nitsuite gutai teki ni hanashia ta"
+    "kana": "つくえ の よこ に ほんだな を おく ひろば を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku hiroba o tsuku ta"
   },
   "jlpt-n2-庖丁-1900": {
     "kana": "ひる ごはん に ほうちょう を すこし たべ た",
     "romaji": "hiru gohan ni houchou o sukoshi tabe ta"
   },
   "jlpt-n2-延ばす-1676": {
-    "kana": "ひつよう な ばめん で のばす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nobasu houhou o kangae ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を のばす",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o nobasu"
   },
   "jlpt-n2-引っ繰り返す-1791": {
-    "kana": "ひつよう な ばめん で ひっくりかえす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hikkurikaesu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ひっくりかえす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hikkurikaesu koto ni shi ta"
   },
   "jlpt-n2-引力-1585": {
-    "kana": "かいぎ で いんりょく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de inryoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いんりょく について しばらく はなし た",
+    "romaji": "tomodachi to inryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-引受る-1717": {
-    "kana": "あんぜん に ひきうけ る ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hikiuke ru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ひきうけ る",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hikiuke ru"
   },
   "jlpt-n2-引算-1502": {
-    "kana": "ともだち と ひきざん について しばらく はなし た",
-    "romaji": "tomodachi to hikizan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひきざん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hikizan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-弱点-1468": {
-    "kana": "かいぎ で じゃくてん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jakuten nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じゃくてん について しばらく はなし た",
+    "romaji": "tomodachi to jakuten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-強引-1492": {
     "kana": "ごういん な てん を さき に せつめい し た",
@@ -6208,16 +6208,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru touban ni koe o kake ta"
   },
   "jlpt-n2-彫刻-1477": {
-    "kana": "かいぎ で ちょうこく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de choukoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちょうこく について しばらく はなし た",
+    "romaji": "tomodachi to choukoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-役所-1822": {
-    "kana": "かいぎ で やくしょ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yakusho nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と やくしょ について しばらく はなし た",
+    "romaji": "tomodachi to yakusho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-待ち合わせる-1571": {
-    "kana": "あんぜん に まちあわせる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni machiawaseru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まちあわせる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te machiawaseru"
   },
   "jlpt-n2-従姉妹-1355": {
     "kana": "こまっ て いる いとこ に こえ を かけ た",
@@ -6236,8 +6236,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no kokoroatari o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n2-心得る-1638": {
-    "kana": "あんぜん に こころえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kokoroeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で こころえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kokoroeru koto ni shi ta"
   },
   "jlpt-n2-心身-1677": {
     "kana": "しんしん が いたく て きょう わ はやめ に やすん だ",
@@ -6248,16 +6248,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hitsuju hin na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n2-応ずる-1901": {
-    "kana": "あんぜん に おうずる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ouzuru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おうずる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ouzuru"
   },
   "jlpt-n2-応接-1494": {
-    "kana": "ともだち と おうせつ について しばらく はなし た",
-    "romaji": "tomodachi to ousetsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おうせつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ousetsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-怠る-1397": {
-    "kana": "ひつよう な ばめん で おこたる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de okotaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おこたる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de okotaru koto ni shi ta"
   },
   "jlpt-n2-性能-1660": {
     "kana": "かいぎ で せいのう について ぐたい てき に はなしあっ た",
@@ -6276,8 +6276,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "aite o tsuyoku uramu mae ni mazu jijou o kii ta"
   },
   "jlpt-n2-悔やむ-1617": {
-    "kana": "あんぜん に くやむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kuyamu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くやむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kuyamu"
   },
   "jlpt-n2-悠々-1719": {
     "kana": "ゆうゆう な まち を ゆっくり あるい た",
@@ -6292,8 +6292,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to igi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-感ずる-1728": {
-    "kana": "ひつよう な ばめん で かんずる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kanzuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かんずる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kanzuru"
   },
   "jlpt-n2-感想-1864": {
     "kana": "かいぎ で かんそう について ぐたい てき に はなしあっ た",
@@ -6304,24 +6304,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi kangeki o oboe ta"
   },
   "jlpt-n2-慰める-1526": {
-    "kana": "あんぜん に なぐさめる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nagusameru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で なぐさめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nagusameru koto ni shi ta"
   },
   "jlpt-n2-慶び-1939": {
     "kana": "ともだち と よろこび について しばらく はなし た",
     "romaji": "tomodachi to yorokobi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-憎む-1478": {
-    "kana": "ひつよう な ばめん で にくむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nikumu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て にくむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nikumu"
   },
   "jlpt-n2-憎らしい-1379": {
     "kana": "にくらしい ひ だっ た が さいご まで あるい た",
     "romaji": "nikurashii hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-成分-1287": {
-    "kana": "ともだち と せいぶん について しばらく はなし た",
-    "romaji": "tomodachi to seibun nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいぶん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seibun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-戸棚-1798": {
     "kana": "へや の とだな を きれい に ととのえ た",
@@ -6332,8 +6332,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tokorodokoro o sagashi ta ga saifu wa mitsukara naka ta"
   },
   "jlpt-n2-扇ぐ-1417": {
-    "kana": "あんぜん に あおぐ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni aogu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あおぐ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te aogu"
   },
   "jlpt-n2-手入れ-1302": {
     "kana": "ていれ の てつづき を きげん まで に すませ た",
@@ -6352,8 +6352,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "mise ga ryoukin o haraimodosu tetsuzuki o susume te iru"
   },
   "jlpt-n2-払い込む-1915": {
-    "kana": "ひつよう な ばめん で はらいこむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de haraikomu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はらいこむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te haraikomu"
   },
   "jlpt-n2-承る-1777": {
     "kana": "よる に ゆっくり うけたまわる じかん を つくっ た",
@@ -6364,40 +6364,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni tousho o oi te kara dekake ta"
   },
   "jlpt-n2-折角-1377": {
-    "kana": "ひつよう な ばめん で せっかく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sekkaku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て せっかく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sekkaku"
   },
   "jlpt-n2-押える-1662": {
-    "kana": "ひつよう な ばめん で おさえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de osaeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おさえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de osaeru koto ni shi ta"
   },
   "jlpt-n2-拝む-1699": {
-    "kana": "あんぜん に おがむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ogamu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おがむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ogamu koto ni shi ta"
   },
   "jlpt-n2-拝見-1435": {
-    "kana": "ともだち と はいけん について しばらく はなし た",
-    "romaji": "tomodachi to haiken nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はいけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haiken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-拡充-1659": {
-    "kana": "かいぎ で かくじゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kakujuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かくじゅう について しばらく はなし た",
+    "romaji": "tomodachi to kakujuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-括弧-1454": {
-    "kana": "ともだち と かっこ について しばらく はなし た",
-    "romaji": "tomodachi to kakko nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かっこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakko nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-持参-1482": {
     "kana": "かいぎ で じさん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de jisan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-指定-1738": {
-    "kana": "かいぎ で してい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shitei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と してい について しばらく はなし た",
+    "romaji": "tomodachi to shitei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-挟まる-1776": {
-    "kana": "ひつよう な ばめん で はさまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hasamaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はさまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hasamaru"
   },
   "jlpt-n2-振り仮名-1486": {
     "kana": "ちかく の みせ で ふりがな を みつけ た",
@@ -6408,8 +6408,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "uwagi o sasu basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-捕える-1709": {
-    "kana": "ひつよう な ばめん で とらえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de toraeru houhou o kangae ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を とらえる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o toraeru"
   },
   "jlpt-n2-捜す-1688": {
     "kana": "たすけ を さがす こえ が とおく から きこえ た",
@@ -6420,8 +6420,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haku na machi o yukkuri arui ta"
   },
   "jlpt-n2-採る-1387": {
-    "kana": "あんぜん に とる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toru koto ni shi ta"
   },
   "jlpt-n2-採点-1750": {
     "kana": "かいぎ で さいてん について ぐたい てき に はなしあっ た",
@@ -6432,8 +6432,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tasuke o saguru koe ga tooku kara kikoe ta"
   },
   "jlpt-n2-接近-1882": {
-    "kana": "ともだち と せっきん について しばらく はなし た",
-    "romaji": "tomodachi to sekkin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せっきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sekkin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-擦る-1538": {
     "kana": "よてい が こする ひ を えらん で みんな で あつまっ た",
@@ -6444,72 +6444,72 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "aratamete yotei o henkou shi ta"
   },
   "jlpt-n2-改める-1535": {
-    "kana": "あんぜん に あらためる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni aratameru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あらためる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de aratameru koto ni shi ta"
   },
   "jlpt-n2-改正-1734": {
-    "kana": "かいぎ で かいせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaisei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かいせい について しばらく はなし た",
+    "romaji": "tomodachi to kaisei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-改造-1342": {
     "kana": "ともだち と かいぞう について しばらく はなし た",
     "romaji": "tomodachi to kaizou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-攻める-1786": {
-    "kana": "ひつよう な ばめん で せめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de semeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て せめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te semeru"
   },
   "jlpt-n2-政党-1612": {
-    "kana": "ともだち と せいとう について しばらく はなし た",
-    "romaji": "tomodachi to seitou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seitou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-教わる-1693": {
-    "kana": "あんぜん に おそわる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni osowaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おそわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te osowaru"
   },
   "jlpt-n2-散らかる-1838": {
-    "kana": "あんぜん に ちらかる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni chirakaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ちらかる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chirakaru"
   },
   "jlpt-n2-整備-1345": {
     "kana": "あたらしい さあびす の せいび が よてい より はやく すすん で いる",
     "romaji": "atarashii saabisu no seibi ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-整数-1469": {
-    "kana": "ともだち と せいすう について しばらく はなし た",
-    "romaji": "tomodachi to seisuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいすう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seisuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-敷く-1874": {
-    "kana": "ひつよう な ばめん で しく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de shiku houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shiku koto ni shi ta"
   },
   "jlpt-n2-敷地-1511": {
-    "kana": "ともだち と しきち について しばらく はなし た",
-    "romaji": "tomodachi to shikichi nitsuite shibaraku hanashi ta"
+    "kana": "あたらしい としょかん わ ひろい しきち に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi shikichi ni tate rare ta"
   },
   "jlpt-n2-文体-1466": {
-    "kana": "かいぎ で ぶんたい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de buntai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶんたい について しばらく はなし た",
+    "romaji": "tomodachi to buntai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-文献-1303": {
     "kana": "つくえ の うえ に ぶんけん を おい て から でかけ た",
     "romaji": "tsukue no ue ni bunken o oi te kara dekake ta"
   },
   "jlpt-n2-斬る-1875": {
-    "kana": "あんぜん に きる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kiru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て きる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kiru"
   },
   "jlpt-n2-断水-1782": {
     "kana": "こうじょう に ひつよう な だんすい を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na dansui o asa no uchi ni atsume ta"
   },
   "jlpt-n2-新幹線-1396": {
-    "kana": "かいぎ で しんかんせん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinkansen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんかんせん について しばらく はなし た",
+    "romaji": "tomodachi to shinkansen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-方程式-1534": {
-    "kana": "かいぎ で ほうていしき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de houteishiki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほうていしき について しばらく はなし た",
+    "romaji": "tomodachi to houteishiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-日時-1691": {
     "kana": "にちじ に だいじ な よてい が はいっ て いる",
@@ -6532,16 +6532,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni jikanwari e iku michi o shirabe ta"
   },
   "jlpt-n2-暖まる-1870": {
-    "kana": "あんぜん に あたたまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni atatamaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あたたまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de atatamaru koto ni shi ta"
   },
   "jlpt-n2-暖める-1462": {
-    "kana": "ひつよう な ばめん で あたためる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de atatameru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あたためる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de atatameru koto ni shi ta"
   },
   "jlpt-n2-曲線-1346": {
-    "kana": "ともだち と きょくせん について しばらく はなし た",
-    "romaji": "tomodachi to kyokusen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きょくせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyokusen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-更ける-1866": {
     "kana": "うわぎ を ふける ばしょ を いりぐち の ちかく に つくっ た",
@@ -6560,16 +6560,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni shoseki o oi te kara dekake ta"
   },
   "jlpt-n2-書道-1703": {
-    "kana": "かいぎ で しょどう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shodou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しょどう について しばらく はなし た",
+    "romaji": "tomodachi to shodou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-木材-1354": {
     "kana": "こうじょう に ひつよう な もくざい を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na mokuzai o asa no uchi ni atsume ta"
   },
   "jlpt-n2-杉-1767": {
-    "kana": "かいぎ で すぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sugi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と すぎ について しばらく はなし た",
+    "romaji": "tomodachi to sugi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-来日-1436": {
     "kana": "ゆうじん の らいにち に あわせ て しゅうまつ の よてい を あけ た",
@@ -6580,8 +6580,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "touyou no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n2-架空-1295": {
-    "kana": "かいぎ で かくう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kakuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かくう について しばらく はなし た",
+    "romaji": "tomodachi to kakuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-栓-1849": {
     "kana": "ともだち と せん について しばらく はなし た",
@@ -6600,8 +6600,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to keta nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-案外-1916": {
-    "kana": "あんがい へんじ が とどい た ので あんしん し た",
-    "romaji": "angai henji ga todoi ta node anshin shi ta"
+    "kana": "あんがい よてい を へんこう し た",
+    "romaji": "angai yotei o henkou shi ta"
   },
   "jlpt-n2-梯子-1415": {
     "kana": "かいぎ で はしご について ぐたい てき に はなしあっ た",
@@ -6612,20 +6612,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to ueki ga totemo kirei ni mie ta"
   },
   "jlpt-n2-楽器-1755": {
-    "kana": "ともだち と がっき について しばらく はなし た",
-    "romaji": "tomodachi to gakki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で がっき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gakki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-構造-1745": {
     "kana": "あたらしい さあびす の こうぞう が よてい より はやく すすん で いる",
     "romaji": "atarashii saabisu no kouzou ga yotei yori hayaku susun de iru"
   },
   "jlpt-n2-機関車-1349": {
-    "kana": "かいぎ で きかん しゃ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kikan sha nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きかん しゃ について しばらく はなし た",
+    "romaji": "tomodachi to kikan sha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-櫛-1785": {
-    "kana": "かいぎ で くし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kushi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と くし について しばらく はなし た",
+    "romaji": "tomodachi to kushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-欄-1446": {
     "kana": "あめあがり の らん に そら が うつっ て い た",
@@ -6656,28 +6656,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "nokora zu yotei o henkou shi ta"
   },
   "jlpt-n2-殖える-1309": {
-    "kana": "ひつよう な ばめん で ふえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de fueru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ふえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de fueru koto ni shi ta"
   },
   "jlpt-n2-段階-1536": {
     "kana": "しゅうまつ に ともだち と だんかい を み に いっ た",
     "romaji": "shuumatsu ni tomodachi to dankai o mi ni i ta"
   },
   "jlpt-n2-殻-1359": {
-    "kana": "ともだち と から について しばらく はなし た",
-    "romaji": "tomodachi to kara nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で から について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-比較的-1313": {
-    "kana": "ひかくてき へんじ が とどい た ので あんしん し た",
-    "romaji": "hikakuteki henji ga todoi ta node anshin shi ta"
+    "kana": "ひかくてき よてい を へんこう し た",
+    "romaji": "hikakuteki yotei o henkou shi ta"
   },
   "jlpt-n2-毛皮-1920": {
-    "kana": "ともだち と けがわ について しばらく はなし た",
-    "romaji": "tomodachi to kegawa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で けがわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kegawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-毛糸-1288": {
-    "kana": "かいぎ で けいと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de keito nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けいと について しばらく はなし た",
+    "romaji": "tomodachi to keito nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-民謡-1298": {
     "kana": "しゅうまつ に ともだち と みんよう を み に いっ た",
@@ -6696,8 +6696,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kiatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-水平-1322": {
-    "kana": "すいへい な てん を さき に せつめい し た",
-    "romaji": "suihei na ten o saki ni setsumei shi ta"
+    "kana": "すいへい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "suihei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-水滴-1389": {
     "kana": "きゅうけい ちゅう に あたたかい すいてき を いっぱい のん だ",
@@ -6720,12 +6720,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shiru nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-汚す-1388": {
-    "kana": "あんぜん に けがす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kegasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で けがす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kegasu koto ni shi ta"
   },
   "jlpt-n2-治める-1610": {
-    "kana": "あんぜん に おさめる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni osameru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おさめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de osameru koto ni shi ta"
   },
   "jlpt-n2-泊める-1611": {
     "kana": "しゅうまつ に ともだち の いえ え とめる よてい だ",
@@ -6736,8 +6736,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kono jouken ni sasu baai wa tsuika no tetsuzuki ga hitsuyou da"
   },
   "jlpt-n2-洒落-1893": {
-    "kana": "かいぎ で しゃらく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sharaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゃれ について しばらく はなし た",
+    "romaji": "tomodachi to share nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-派手-1936": {
     "kana": "はで な ようす で かれ わ さいご まで はなし を きい た",
@@ -6748,20 +6748,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e ukabu yotei da"
   },
   "jlpt-n2-海洋-1384": {
-    "kana": "ともだち と かいよう について しばらく はなし た",
-    "romaji": "tomodachi to kaiyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かいよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaiyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-消耗-1809": {
     "kana": "ともだち と しょうもう について しばらく はなし た",
     "romaji": "tomodachi to shoumou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-混ざる-1618": {
-    "kana": "あんぜん に まざる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni mazaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まざる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mazaru"
   },
   "jlpt-n2-混合-1386": {
-    "kana": "ともだち と こんごう について しばらく はなし た",
-    "romaji": "tomodachi to kongou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こんごう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kongou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-清い-1409": {
     "kana": "きよい ひ だっ た が さいご まで あるい た",
@@ -6776,20 +6776,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "seisho na machi o yukkuri arui ta"
   },
   "jlpt-n2-渇く-1744": {
-    "kana": "あんぜん に かわく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kawaku tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かわく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kawaku koto ni shi ta"
   },
   "jlpt-n2-温室-1706": {
     "kana": "ともだち と おんしつ について しばらく はなし た",
     "romaji": "tomodachi to onshitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-測定-1420": {
-    "kana": "かいぎ で そくてい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sokutei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と そくてい について しばらく はなし た",
+    "romaji": "tomodachi to sokutei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-測量-1931": {
-    "kana": "ともだち と そくりょう について しばらく はなし た",
-    "romaji": "tomodachi to sokuryou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そくりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sokuryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-湧く-1584": {
     "kana": "ゆ が わく まで だいどころ で すこし まっ た",
@@ -6816,20 +6816,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omoi nimotsu o eki made tokasu hito o sagashi ta"
   },
   "jlpt-n2-溶く-1474": {
-    "kana": "ひつよう な ばめん で とく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de toku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て とく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te toku"
   },
   "jlpt-n2-滝-1736": {
-    "kana": "かいぎ で たき について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taki nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たき について しばらく はなし た",
+    "romaji": "tomodachi to taki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-漁師-1694": {
-    "kana": "ともだち と りょうし について しばらく はなし た",
-    "romaji": "tomodachi to ryoushi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りょうし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryoushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-漸く-1841": {
-    "kana": "ようやく へんじ が とどい た ので あんしん し た",
-    "romaji": "youyaku henji ga todoi ta node anshin shi ta"
+    "kana": "ようやく よてい を へんこう し た",
+    "romaji": "youyaku yotei o henkou shi ta"
   },
   "jlpt-n2-潜る-1541": {
     "kana": "しゅうまつ に ともだち の いえ え もぐる よてい だ",
@@ -6856,8 +6856,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to toudai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-灯油-1802": {
-    "kana": "かいぎ で とうゆ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de touyu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とうゆ について しばらく はなし た",
+    "romaji": "tomodachi to touyu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-灰色-1799": {
     "kana": "はいいろ の しゃつ を えらん で かがみ の まえ で あわせ て み た",
@@ -6888,20 +6888,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "muji no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-無数-1567": {
-    "kana": "むすう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "musuu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "むすう な てん を さき に せつめい し た",
+    "romaji": "musuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-無限-1590": {
     "kana": "かいぎ で むげん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de mugen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-焦がす-1551": {
-    "kana": "ひつよう な ばめん で こがす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kogasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で こがす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kogasu koto ni shi ta"
   },
   "jlpt-n2-焦げる-1653": {
-    "kana": "あんぜん に こげる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kogeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て こげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kogeru"
   },
   "jlpt-n2-焦点-1752": {
     "kana": "かいぎ で しょうてん について ぐたい てき に はなしあっ た",
@@ -6920,28 +6920,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de entotsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-照らす-1718": {
-    "kana": "あんぜん に てらす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni terasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て てらす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te terasu"
   },
   "jlpt-n2-蒸し暑い-1308": {
     "kana": "その せつめい わ すこし むしあつい と かんじ た",
     "romaji": "sono setsumei wa sukoshi mushiatsui to kanji ta"
   },
   "jlpt-n2-熟語-1424": {
-    "kana": "かいぎ で じゅくご について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jukugo nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じゅくご について しばらく はなし た",
+    "romaji": "tomodachi to jukugo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-熱する-1624": {
     "kana": "ゆ が ねつ する まで だいどころ で すこし まっ た",
     "romaji": "yu ga netsu suru made daidokoro de sukoshi ma ta"
   },
   "jlpt-n2-片付く-1911": {
-    "kana": "あんぜん に かたづく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni katazuku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かたづく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te katazuku"
   },
   "jlpt-n2-片仮名-1774": {
-    "kana": "かいぎ で かたかな について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de katakana nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かたかな について しばらく はなし た",
+    "romaji": "tomodachi to katakana nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-片道-1473": {
     "kana": "つくえ の うえ に かたみち を おい て から でかけ た",
@@ -6976,16 +6976,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "zurui hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-独り言-1558": {
-    "kana": "かいぎ で ひとりごと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hitorigoto nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひとりごと について しばらく はなし た",
+    "romaji": "tomodachi to hitorigoto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-王女-1550": {
     "kana": "かいぎ で おうじょ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de oujo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-現に-1586": {
-    "kana": "げんに へんじ が とどい た ので あんしん し た",
-    "romaji": "genni henji ga todoi ta node anshin shi ta"
+    "kana": "げんに よてい を へんこう し た",
+    "romaji": "genni yotei o henkou shi ta"
   },
   "jlpt-n2-琴-1316": {
     "kana": "かいぎ で きん について ぐたい てき に はなしあっ た",
@@ -7004,16 +7004,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ikiiki yotei o henkou shi ta"
   },
   "jlpt-n2-生る-1554": {
-    "kana": "ひつよう な ばめん で なる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de naru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te naru"
   },
   "jlpt-n2-生年月日-1773": {
     "kana": "せいねんがっぴ に だいじ な よてい が はいっ て いる",
     "romaji": "seinengappi ni daiji na yotei ga hai te iru"
   },
   "jlpt-n2-生意気-1375": {
-    "kana": "なまいき な てん を さき に せつめい し た",
-    "romaji": "namaiki na ten o saki ni setsumei shi ta"
+    "kana": "なまいき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "namaiki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-産地-1440": {
     "kana": "しゅうまつ に さんち え いく みち を しらべ た",
@@ -7040,16 +7040,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to rusuban nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-略す-1575": {
-    "kana": "ひつよう な ばめん で りゃくす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ryakusu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て りゃくす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ryakusu"
   },
   "jlpt-n2-畳む-1431": {
-    "kana": "あんぜん に たたむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tatamu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たたむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tatamu"
   },
   "jlpt-n2-発つ-1299": {
-    "kana": "ひつよう な ばめん で たつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tatsu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tatsu"
   },
   "jlpt-n2-発売-1934": {
     "kana": "かいぎ で はつばい について ぐたい てき に はなしあっ た",
@@ -7060,20 +7060,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi to hakki o mi ni i ta"
   },
   "jlpt-n2-盆地-1748": {
-    "kana": "ともだち と ぼんち について しばらく はなし た",
-    "romaji": "tomodachi to bonchi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぼんち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bonchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-盗難-1372": {
     "kana": "かいぎ で とうなん について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de tounan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-目上-1286": {
-    "kana": "かいぎ で めうえ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de meue nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と めうえ について しばらく はなし た",
+    "romaji": "tomodachi to meue nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-目安-1294": {
-    "kana": "ともだち と めやす について しばらく はなし た",
-    "romaji": "tomodachi to meyasu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で めやす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meyasu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-目次-1808": {
     "kana": "しりょう の もくじ に すうじ を まとめ た",
@@ -7096,12 +7096,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de soui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-省略-1713": {
-    "kana": "ともだち と しょうりゃく について しばらく はなし た",
-    "romaji": "tomodachi to shouryaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょうりゃく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shouryaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-看板-1539": {
-    "kana": "ともだち と かんばん について しばらく はなし た",
-    "romaji": "tomodachi to kanban nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かんばん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanban nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-看病-1630": {
     "kana": "ともだち と かんびょう について しばらく はなし た",
@@ -7112,24 +7112,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "fuutou no massaki ni juusho o kai ta"
   },
   "jlpt-n2-真っ暗-1300": {
-    "kana": "まっくら な てん を さき に せつめい し た",
-    "romaji": "makkura na ten o saki ni setsumei shi ta"
+    "kana": "まっくら な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "makkura na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-真っ青-1661": {
     "kana": "まっさお な てん を さき に せつめい し た",
     "romaji": "massao na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-真っ黒-1321": {
-    "kana": "まっくろ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "makkuro na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "まっくろ な てん を さき に せつめい し た",
+    "romaji": "makkuro na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-着々-1324": {
-    "kana": "ちゃくちゃく よてい を へんこう し た",
-    "romaji": "chakuchaku yotei o henkou shi ta"
+    "kana": "ちゃくちゃく へんじ が とどい た ので あんしん し た",
+    "romaji": "chakuchaku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-瞳-1686": {
-    "kana": "かいぎ で ひとみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hitomi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひとみ について しばらく はなし た",
+    "romaji": "tomodachi to hitomi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-矛盾-1475": {
     "kana": "ともだち と むじゅん について しばらく はなし た",
@@ -7140,16 +7140,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru yajirushi ni koe o kake ta"
   },
   "jlpt-n2-知人-1697": {
-    "kana": "ともだち と ちじん について しばらく はなし た",
-    "romaji": "tomodachi to chijin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chijin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-知合い-1426": {
-    "kana": "かいぎ で しりあい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shiriai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しりあい について しばらく はなし た",
+    "romaji": "tomodachi to shiriai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-短所-1768": {
-    "kana": "ともだち と たんしょ について しばらく はなし た",
-    "romaji": "tomodachi to tansho nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で たんしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tansho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-石鹸-1825": {
     "kana": "つくえ の うえ に せっけん を おい て から でかけ た",
@@ -7168,24 +7168,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to go nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-碗-1628": {
-    "kana": "かいぎ で わん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de wan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と わん について しばらく はなし た",
+    "romaji": "tomodachi to wan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-磁石-1621": {
-    "kana": "ともだち と じしゃく について しばらく はなし た",
-    "romaji": "tomodachi to jishaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じしゃく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jishaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-祝日-1565": {
-    "kana": "かいぎ で しゅくじつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shukujitsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅくじつ について しばらく はなし た",
+    "romaji": "tomodachi to shukujitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-祭る-1756": {
-    "kana": "あんぜん に まつる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni matsuru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まつる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de matsuru koto ni shi ta"
   },
   "jlpt-n2-祭日-1648": {
-    "kana": "かいぎ で さいじつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saijitsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ちいき の さいじつ に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no saijitsu ni ooku no hito ga atsuma ta"
   },
   "jlpt-n2-私鉄-1418": {
     "kana": "ともだち と してつ について しばらく はなし た",
@@ -7196,12 +7196,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de hakari o mitsuke ta"
   },
   "jlpt-n2-稀-1438": {
-    "kana": "まれ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "mare na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "まれ な てん を さき に せつめい し た",
+    "romaji": "mare na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-税関-1594": {
-    "kana": "かいぎ で ぜいかん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zeikan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぜいかん について しばらく はなし た",
+    "romaji": "tomodachi to zeikan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-稽古-1732": {
     "kana": "きょう の けいこ わ おもっ た より はやく おわっ た",
@@ -7232,20 +7232,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-粒-1334": {
-    "kana": "かいぎ で つぶ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tsubu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と つぶ について しばらく はなし た",
+    "romaji": "tomodachi to tsubu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-納める-1398": {
-    "kana": "ひつよう な ばめん で おさめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de osameru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おさめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te osameru"
   },
   "jlpt-n2-紙幣-1369": {
     "kana": "ちかく の みせ で しへい を みつけ た",
     "romaji": "chikaku no mise de shihei o mitsuke ta"
   },
   "jlpt-n2-素質-1724": {
-    "kana": "ともだち と そしつ について しばらく はなし た",
-    "romaji": "tomodachi to soshitsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そしつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soshitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-紫-1633": {
     "kana": "むらさき の しゃつ を えらん で かがみ の まえ で あわせ て み た",
@@ -7256,20 +7256,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kon no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n2-終了-1365": {
-    "kana": "ともだち と しゅうりょう について しばらく はなし た",
-    "romaji": "tomodachi to shuuryou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅうりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-終点-1569": {
-    "kana": "かいぎ で しゅうてん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuuten nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅうてん について しばらく はなし た",
+    "romaji": "tomodachi to shuuten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-統一-1506": {
-    "kana": "ともだち と とういつ について しばらく はなし た",
-    "romaji": "tomodachi to touitsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とういつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de touitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-統計-1684": {
-    "kana": "かいぎ で とうけい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de toukei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とうけい について しばらく はなし た",
+    "romaji": "tomodachi to toukei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-絵の具-1491": {
     "kana": "かえりぎわ に えのぐ と こえ を かけ た",
@@ -7280,72 +7280,72 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "taezu henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-続々-1485": {
-    "kana": "ぞくぞく よてい を へんこう し た",
-    "romaji": "zokuzoku yotei o henkou shi ta"
+    "kana": "ぞくぞく へんじ が とどい た ので あんしん し た",
+    "romaji": "zokuzoku henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n2-綱-1428": {
-    "kana": "かいぎ で つな について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tsuna nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と つな について しばらく はなし た",
+    "romaji": "tomodachi to tsuna nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-線路-1479": {
-    "kana": "かいぎ で せんろ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de senro nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と せんろ について しばらく はなし た",
+    "romaji": "tomodachi to senro nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-緩い-1593": {
     "kana": "おもっ た より ゆるい もんだい だっ た",
     "romaji": "omo ta yori yurui mondai da ta"
   },
   "jlpt-n2-縛る-1698": {
-    "kana": "ひつよう な ばめん で しばる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de shibaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しばる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shibaru koto ni shi ta"
   },
   "jlpt-n2-縞-1935": {
     "kana": "ともだち と しま について しばらく はなし た",
     "romaji": "tomodachi to shima nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-縫う-1634": {
-    "kana": "ひつよう な ばめん で ぬう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nuu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ぬう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nuu"
   },
   "jlpt-n2-縮れる-1821": {
-    "kana": "ひつよう な ばめん で ちぢれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de chijireru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ちぢれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chijireru"
   },
   "jlpt-n2-美容-1351": {
     "kana": "びよう な まち を ゆっくり あるい た",
     "romaji": "biyou na machi o yukkuri arui ta"
   },
   "jlpt-n2-習字-1528": {
-    "kana": "ともだち と しゅうじ について しばらく はなし た",
-    "romaji": "tomodachi to shuuji nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅうじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuuji nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-耕す-1383": {
-    "kana": "あんぜん に たがやす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tagayasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たがやす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tagayasu"
   },
   "jlpt-n2-耕地-1700": {
-    "kana": "ともだち と こうち について しばらく はなし た",
-    "romaji": "tomodachi to kouchi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-肘-1457": {
-    "kana": "かいぎ で ひじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hiji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひじ について しばらく はなし た",
+    "romaji": "tomodachi to hiji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-肯定-1513": {
-    "kana": "ともだち と こうてい について しばらく はなし た",
-    "romaji": "tomodachi to koutei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koutei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-脱線-1787": {
-    "kana": "ともだち と だっせん について しばらく はなし た",
-    "romaji": "tomodachi to dassen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で だっせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dassen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-臨時-1674": {
-    "kana": "かいぎ で りんじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de rinji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と りんじ について しばらく はなし た",
+    "romaji": "tomodachi to rinji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-自然科学-1722": {
-    "kana": "ともだち と しぜん かがく について しばらく はなし た",
-    "romaji": "tomodachi to shizen kagaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しぜん かがく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shizen kagaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-自習-1720": {
     "kana": "しゅうまつ に じしゅう え いく みち を しらべ た",
@@ -7368,16 +7368,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no kushin wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-苦情-1588": {
-    "kana": "ともだち と くじょう について しばらく はなし た",
-    "romaji": "tomodachi to kujou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で くじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-英和-1421": {
     "kana": "つくえ の うえ に えいわ を おい て から でかけ た",
     "romaji": "tsukue no ue ni eiwa o oi te kara dekake ta"
   },
   "jlpt-n2-茂る-1760": {
-    "kana": "あんぜん に しげる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shigeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shigeru"
   },
   "jlpt-n2-著す-1453": {
     "kana": "よる に ゆっくり あらわす じかん を つくっ た",
@@ -7392,16 +7392,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to soushiki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-蓄える-1410": {
-    "kana": "あんぜん に たくわえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni takuwaeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で たくわえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de takuwaeru koto ni shi ta"
   },
   "jlpt-n2-蕎麦-1348": {
-    "kana": "ともだち と そば について しばらく はなし た",
-    "romaji": "tomodachi to soba nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-蘇る-1370": {
-    "kana": "ひつよう な ばめん で よみがえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de yomigaeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で よみがえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yomigaeru koto ni shi ta"
   },
   "jlpt-n2-蚊-1924": {
     "kana": "ともだち と か について しばらく はなし た",
@@ -7412,16 +7412,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de jaguchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-蝋燭-1771": {
-    "kana": "あんぜん に ろうそく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni rousoku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ろうそく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te rousoku"
   },
   "jlpt-n2-血圧-1820": {
-    "kana": "かいぎ で けつあつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ketsuatsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けつあつ について しばらく はなし た",
+    "romaji": "tomodachi to ketsuatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-行事-1455": {
-    "kana": "かいぎ で ぎょうじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gyouji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぎょうじ について しばらく はなし た",
+    "romaji": "tomodachi to gyouji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-裁縫-1761": {
     "kana": "ともだち と さいほう について しばらく はなし た",
@@ -7432,12 +7432,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "garasu ga saku oto ga shi te minna ga furimui ta"
   },
   "jlpt-n2-補う-1547": {
-    "kana": "あんぜん に おぎなう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni oginau tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おぎなう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de oginau koto ni shi ta"
   },
   "jlpt-n2-西暦-1775": {
-    "kana": "ともだち と せいれき について しばらく はなし た",
-    "romaji": "tomodachi to seireki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいれき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seireki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-要旨-1890": {
     "kana": "ちかく の みせ で ようし を みつけ た",
@@ -7452,64 +7452,64 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to oyayubi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-親類-1685": {
-    "kana": "ともだち と しんるい について しばらく はなし た",
-    "romaji": "tomodachi to shinrui nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しんるい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinrui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-観測-1816": {
     "kana": "かれ の かんそく を きい て かんがえかた が すこし かわっ た",
     "romaji": "kare no kansoku o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n2-解放-1814": {
-    "kana": "ともだち と かいほう について しばらく はなし た",
-    "romaji": "tomodachi to kaihou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かいほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaihou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-解答-1929": {
     "kana": "かいぎ で かいとう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kaitou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-言い付ける-1707": {
-    "kana": "あんぜん に いいつける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni iitsukeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いいつける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te iitsukeru"
   },
   "jlpt-n2-記号-1325": {
-    "kana": "かいぎ で きごう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kigou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きごう について しばらく はなし た",
+    "romaji": "tomodachi to kigou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-診る-1639": {
-    "kana": "ひつよう な ばめん で みる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de miru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て みる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te miru"
   },
   "jlpt-n2-診断-1862": {
-    "kana": "かいぎ で しんだん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shindan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんだん について しばらく はなし た",
+    "romaji": "tomodachi to shindan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-詰まる-1296": {
-    "kana": "あんぜん に つまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsumaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsumaru koto ni shi ta"
   },
   "jlpt-n2-誓う-1599": {
-    "kana": "ひつよう な ばめん で ちかう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de chikau houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ちかう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chikau"
   },
   "jlpt-n2-調味料-1381": {
     "kana": "かいぎ で ちょうみ りょう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de choumi ryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-論ずる-1356": {
-    "kana": "あたらしい あん を ろんずる かいぎ が よる まで つづい た",
-    "romaji": "atarashii an o ronzuru kaigi ga yoru made tsuzui ta"
+    "kana": "ちいさな こども づれ の きゃく に ろんずる せき を ようい し た",
+    "romaji": "chiisana kodomo zure no kyaku ni ronzuru seki o youi shi ta"
   },
   "jlpt-n2-謙虚-1378": {
-    "kana": "けんきょ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kenkyo na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "けんきょ な てん を さき に せつめい し た",
+    "romaji": "kenkyo na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-講師-1373": {
     "kana": "しゅうまつ に こうし え いく みち を しらべ た",
     "romaji": "shuumatsu ni koushi e iku michi o shirabe ta"
   },
   "jlpt-n2-警備-1853": {
-    "kana": "かいぎ で けいび について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de keibi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けいび について しばらく はなし た",
+    "romaji": "tomodachi to keibi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-貝-1876": {
     "kana": "ともだち と かい について しばらく はなし た",
@@ -7536,12 +7536,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e kosu yotei da"
   },
   "jlpt-n2-跳ぶ-1471": {
-    "kana": "ひつよう な ばめん で とぶ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tobu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とぶ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tobu koto ni shi ta"
   },
   "jlpt-n2-踏切-1595": {
-    "kana": "ともだち と ふみきり について しばらく はなし た",
-    "romaji": "tomodachi to fumikiri nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふみきり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fumikiri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-車輪-1835": {
     "kana": "ちかく の みせ で しゃりん を みつけ た",
@@ -7552,44 +7552,44 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yawarakai hi da ta ga saigo made arui ta"
   },
   "jlpt-n2-転がす-1407": {
-    "kana": "ひつよう な ばめん で ころがす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de korogasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ころがす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de korogasu koto ni shi ta"
   },
   "jlpt-n2-転がる-1754": {
     "kana": "つよい かぜ で き が ころがる おと が し た",
     "romaji": "tsuyoi kaze de ki ga korogaru oto ga shi ta"
   },
   "jlpt-n2-農薬-1337": {
-    "kana": "ともだち と のうやく について しばらく はなし た",
-    "romaji": "tomodachi to nouyaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で のうやく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nouyaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-近付ける-1427": {
     "kana": "おもい にもつ を えき まで ちかづける ひと を さがし た",
     "romaji": "omoi nimotsu o eki made chikazukeru hito o sagashi ta"
   },
   "jlpt-n2-迫る-1552": {
-    "kana": "ひつよう な ばめん で せまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de semaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で せまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de semaru koto ni shi ta"
   },
   "jlpt-n2-述語-1817": {
     "kana": "かいぎ で じゅつご について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de jutsugo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-迷信-1788": {
-    "kana": "ともだち と めいしん について しばらく はなし た",
-    "romaji": "tomodachi to meishin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で めいしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meishin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-追加-1439": {
-    "kana": "かいぎ で ついか について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tsuika nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ついか について しばらく はなし た",
+    "romaji": "tomodachi to tsuika nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-退く-1480": {
     "kana": "ひきだし から ふるい てがみ を どく と なつかしく なっ た",
     "romaji": "hikidashi kara furui tegami o doku to natsukashiku na ta"
   },
   "jlpt-n2-退院-1831": {
-    "kana": "ともだち と たいいん について しばらく はなし た",
-    "romaji": "tomodachi to taiin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で たいいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taiin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-送料-1655": {
     "kana": "そうりょう の てつづき を きげん まで に すませ た",
@@ -7620,24 +7620,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to sokuryoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-速達-1335": {
-    "kana": "かいぎ で そくたつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sokutatsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と そくたつ について しばらく はなし た",
+    "romaji": "tomodachi to sokutatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-造船-1512": {
-    "kana": "ともだち と ぞうせん について しばらく はなし た",
-    "romaji": "tomodachi to zousen nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぞうせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zousen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-逸れる-1908": {
     "kana": "しゅうまつ に ともだち の いえ え それる よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e soreru yotei da"
   },
   "jlpt-n2-過失-1913": {
-    "kana": "かいぎ で かしつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kashitsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かしつ について しばらく はなし た",
+    "romaji": "tomodachi to kashitsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-過程-1520": {
-    "kana": "ともだち と かてい について しばらく はなし た",
-    "romaji": "tomodachi to katei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de katei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-道順-1371": {
     "kana": "ともだち と みちじゅん について しばらく はなし た",
@@ -7648,40 +7648,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ameagari no ensoku ni sora ga utsu te i ta"
   },
   "jlpt-n2-遭う-1854": {
-    "kana": "あんぜん に あう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni au tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te au"
   },
   "jlpt-n2-郡-1548": {
     "kana": "しゅうまつ に ぐん え いく みち を しらべ た",
     "romaji": "shuumatsu ni gun e iku michi o shirabe ta"
   },
   "jlpt-n2-部首-1918": {
-    "kana": "かいぎ で ぶしゅ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bushu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶしゅ について しばらく はなし た",
+    "romaji": "tomodachi to bushu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-都心-1555": {
-    "kana": "かいぎ で としん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de toshin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と としん について しばらく はなし た",
+    "romaji": "tomodachi to toshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-酌む-1289": {
-    "kana": "ひつよう な ばめん で くむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kumu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kumu"
   },
   "jlpt-n2-醜い-1464": {
     "kana": "その せつめい わ すこし みにくい と かんじ た",
     "romaji": "sono setsumei wa sukoshi minikui to kanji ta"
   },
   "jlpt-n2-醤油-1667": {
-    "kana": "ともだち と しょうゆ について しばらく はなし た",
-    "romaji": "tomodachi to shouyu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょうゆ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shouyu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-重ねる-1813": {
     "kana": "うわぎ を かさねる ばしょ を いりぐち の ちかく に つくっ た",
     "romaji": "uwagi o kasaneru basho o iriguchi no chikaku ni tsuku ta"
   },
   "jlpt-n2-重量-1801": {
-    "kana": "ともだち と じゅうりょう について しばらく はなし た",
-    "romaji": "tomodachi to juuryou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じゅうりょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juuryou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-釜-1877": {
     "kana": "つくえ の うえ に かま を おい て から でかけ た",
@@ -7692,8 +7692,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to harigane nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-鉄橋-1603": {
-    "kana": "ともだち と てっきょう について しばらく はなし た",
-    "romaji": "tomodachi to tekkyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てっきょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tekkyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-鉄砲-1390": {
     "kana": "ちかく の ぼくじょう で てっぽう を み た",
@@ -7708,24 +7708,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de meimei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-錆-1394": {
-    "kana": "かいぎ で さび について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sabi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さび について しばらく はなし た",
+    "romaji": "tomodachi to sabi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-錆びる-1803": {
     "kana": "はる に さびる ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni sabiru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n2-長引く-1636": {
-    "kana": "あんぜん に ながびく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nagabiku tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ながびく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nagabiku koto ni shi ta"
   },
   "jlpt-n2-長所-1909": {
-    "kana": "ともだち と ちょうしょ について しばらく はなし た",
-    "romaji": "tomodachi to chousho nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちょうしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chousho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-閉会-1514": {
-    "kana": "かいぎ で へいかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de heikai nitsuite gutai teki ni hanashia ta"
+    "kana": "ちいき の へいかい に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no heikai ni ooku no hito ga atsuma ta"
   },
   "jlpt-n2-附属-1845": {
     "kana": "だいがく に ふぞく する びょういん で じっしゅう し た",
@@ -7736,24 +7736,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de gendo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-陽射-1647": {
-    "kana": "ともだち と ひ しゃ について しばらく はなし た",
-    "romaji": "tomodachi to hi sha nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひ しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hi sha nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-随筆-1851": {
     "kana": "しゅうまつ に ともだち と ずいひつ を み に いっ た",
     "romaji": "shuumatsu ni tomodachi to zuihitsu o mi ni i ta"
   },
   "jlpt-n2-隔てる-1921": {
-    "kana": "ひつよう な ばめん で へだてる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hedateru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で へだてる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hedateru koto ni shi ta"
   },
   "jlpt-n2-障子-1452": {
     "kana": "つくえ の うえ に しょうじ を おい て から でかけ た",
     "romaji": "tsukue no ue ni shouji o oi te kara dekake ta"
   },
   "jlpt-n2-集合-1459": {
-    "kana": "ともだち と しゅうごう について しばらく はなし た",
-    "romaji": "tomodachi to shuugou nitsuite shibaraku hanashi ta"
+    "kana": "しゅうごう で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "shuugou de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n2-雑巾-1867": {
     "kana": "ともだち と ぞうきん について しばらく はなし た",
@@ -7764,16 +7764,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni amado o oi te kara dekake ta"
   },
   "jlpt-n2-零点-1871": {
-    "kana": "かいぎ で れい てん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de rei ten nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と れい てん について しばらく はなし た",
+    "romaji": "tomodachi to rei ten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-電柱-1413": {
-    "kana": "かいぎ で でんちゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de denchuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と でんちゅう について しばらく はなし た",
+    "romaji": "tomodachi to denchuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-電波-1917": {
-    "kana": "ともだち と でんぱ について しばらく はなし た",
-    "romaji": "tomodachi to denpa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で でんぱ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de denpa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-青白い-1419": {
     "kana": "あおじろい しゃつ を えらん で かがみ の まえ で あわせ て み た",
@@ -7804,24 +7804,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni koumoku o oi te kara dekake ta"
   },
   "jlpt-n2-順々-1487": {
-    "kana": "かいぎ で じゅんじゅん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de junjun nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じゅんじゅん について しばらく はなし た",
+    "romaji": "tomodachi to junjun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-順序-1596": {
-    "kana": "かいぎ で じゅんじょ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de junjo nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じゅんじょ について しばらく はなし た",
+    "romaji": "tomodachi to junjo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-預かる-1834": {
     "kana": "かえりぎわ に あずかる と こえ を かけ た",
     "romaji": "kaerigiwa ni azukaru to koe o kake ta"
   },
   "jlpt-n2-頼もしい-1489": {
-    "kana": "その せつめい わ すこし たのもしい と かんじ た",
-    "romaji": "sono setsumei wa sukoshi tanomoshii to kanji ta"
+    "kana": "おもっ た より たのもしい もんだい だっ た",
+    "romaji": "omo ta yori tanomoshii mondai da ta"
   },
   "jlpt-n2-題名-1285": {
-    "kana": "ともだち と だいめい について しばらく はなし た",
-    "romaji": "tomodachi to daimei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で だいめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de daimei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-飾り-1367": {
     "kana": "へや の かざり を きれい に ととのえ た",
@@ -7832,32 +7832,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni mochi o sukoshi tabe ta"
   },
   "jlpt-n2-養分-1701": {
-    "kana": "かいぎ で ようぶん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de youbun nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ようぶん について しばらく はなし た",
+    "romaji": "tomodachi to youbun nitsuite shibaraku hanashi ta"
   },
   "jlpt-n2-香水-1645": {
-    "kana": "ともだち と こうすい について しばらく はなし た",
-    "romaji": "tomodachi to kousui nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうすい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kousui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n2-高度-1501": {
     "kana": "きょう の こうど わ おもっ た より はやく おわっ た",
     "romaji": "kyou no koudo wa omo ta yori hayaku owa ta"
   },
   "jlpt-n2-高等-1503": {
-    "kana": "こうとう な てん を さき に せつめい し た",
-    "romaji": "koutou na ten o saki ni setsumei shi ta"
+    "kana": "こうとう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "koutou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n2-高級-1525": {
-    "kana": "こうきゅう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "koukyuu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "こうきゅう な てん を さき に せつめい し た",
+    "romaji": "koukyuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n2-髭-1643": {
     "kana": "ひ げ が いたく て きょう わ はやめ に やすん だ",
     "romaji": "hi ge ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n2-鳴らす-1338": {
-    "kana": "ひつよう な ばめん で ならす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de narasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ならす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te narasu"
   },
   "jlpt-n2-墨-1497": {
     "kana": "ひる ごはん に すみ を すこし たべ た",
@@ -7868,8 +7868,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de ie nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-お昼-2013": {
-    "kana": "ともだち と おひる について しばらく はなし た",
-    "romaji": "tomodachi to ohiru nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おひる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ohiru nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-ここ-2031": {
     "kana": "あめ が やむ まで ここ で まっ た",
@@ -7884,28 +7884,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to jettoki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-すると-2488": {
-    "kana": "あんぜん に する と する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni suru to suru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で する と する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de suru to suru koto ni shi ta"
   },
   "jlpt-n3-そう-2071": {
     "kana": "そう な てん を さき に せつめい し た",
     "romaji": "sou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-だから-2149": {
-    "kana": "ともだち と だから について しばらく はなし た",
-    "romaji": "tomodachi to dakara nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で だ から について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de da kara nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-できる-2539": {
-    "kana": "あんぜん に できる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni dekiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で できる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de dekiru koto ni shi ta"
   },
   "jlpt-n3-どれ-2203": {
-    "kana": "どれ に みち を たずね た",
-    "romaji": "dore ni michi o tazune ta"
+    "kana": "どれ わ しずか に うなずい た",
+    "romaji": "dore wa shizuka ni unazui ta"
   },
   "jlpt-n3-ね-2028": {
-    "kana": "ともだち と ね について しばらく はなし た",
-    "romaji": "tomodachi to ne nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ne nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-一家-1966": {
     "kana": "ともだち と いっか について しばらく はなし た",
@@ -7924,8 +7924,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to ippan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-万一-2138": {
-    "kana": "ともだち と まんいち について しばらく はなし た",
-    "romaji": "tomodachi to man'ichi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で まんいち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de man'ichi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-下-2082": {
     "kana": "やまのした から まち ぜんたい が みえ た",
@@ -7940,20 +7940,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "fukou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-不満-2246": {
-    "kana": "ふまん な てん を さき に せつめい し た",
-    "romaji": "fuman na ten o saki ni setsumei shi ta"
+    "kana": "ふまん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fuman na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-世紀-2277": {
-    "kana": "ともだち と せいき について しばらく はなし た",
-    "romaji": "tomodachi to seiki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せいき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seiki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-丘-2273": {
     "kana": "ともだち と おか について しばらく はなし た",
     "romaji": "tomodachi to oka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-両替-1983": {
-    "kana": "ともだち と りょうがえ について しばらく はなし た",
-    "romaji": "tomodachi to ryougae nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で りょうがえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryougae nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-中央-1958": {
     "kana": "ともだち と ちゅうおう について しばらく はなし た",
@@ -7964,24 +7964,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni chuugaku e iku michi o shirabe ta"
   },
   "jlpt-n3-乗客-2003": {
-    "kana": "かいぎ で じょうきゃく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de joukyaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じょうきゃく について しばらく はなし た",
+    "romaji": "tomodachi to joukyaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-九-2393": {
     "kana": "ともだち と きゅう について しばらく はなし た",
     "romaji": "tomodachi to kyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-予報-2512": {
-    "kana": "ともだち と よほう について しばらく はなし た",
-    "romaji": "tomodachi to yohou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で よほう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yohou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-予算-2154": {
-    "kana": "かいぎ で よさん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yosan nitsuite gutai teki ni hanashia ta"
+    "kana": "かぎら れ た よさん の なか で りょこう の けいかく を たて た",
+    "romaji": "kagira re ta yosan no naka de ryokou no keikaku o tate ta"
   },
   "jlpt-n3-事情-2026": {
-    "kana": "ともだち と じじょう について しばらく はなし た",
-    "romaji": "tomodachi to jijou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jijou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-二十-2342": {
     "kana": "に じゅう に だいじ な よてい が はいっ て いる",
@@ -8004,20 +8004,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hitogomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-人類-2404": {
-    "kana": "ともだち と じんるい について しばらく はなし た",
-    "romaji": "tomodachi to jinrui nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じんるい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jinrui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-今日-2160": {
     "kana": "きょう わ はやめ に いえ を で た",
     "romaji": "kyou wa hayame ni ie o de ta"
   },
   "jlpt-n3-付き合い-2298": {
-    "kana": "かいぎ で つきあい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tsukiai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と つきあい について しばらく はなし た",
+    "romaji": "tomodachi to tsukiai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-代理-2235": {
-    "kana": "ともだち と だいり について しばらく はなし た",
-    "romaji": "tomodachi to dairi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で だいり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dairi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-以前-2080": {
     "kana": "かいぎ で いぜん について ぐたい てき に はなしあっ た",
@@ -8032,16 +8032,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ekimae no nakama de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-任せる-2057": {
-    "kana": "ひつよう な ばめん で まかせる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de makaseru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まかせる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de makaseru koto ni shi ta"
   },
   "jlpt-n3-会計-2464": {
-    "kana": "かいぎ で かいけい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaikei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かいけい について しばらく はなし た",
+    "romaji": "tomodachi to kaikei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-伸びる-1984": {
-    "kana": "ひつよう な ばめん で のびる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nobiru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で のびる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nobiru koto ni shi ta"
   },
   "jlpt-n3-伺う-1986": {
     "kana": "しゅうまつ に ともだち の いえ え うかがう よてい だ",
@@ -8068,36 +8068,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni amari o sukoshi tabe ta"
   },
   "jlpt-n3-価格-2335": {
-    "kana": "かいぎ で かかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kakaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かかく について しばらく はなし た",
+    "romaji": "tomodachi to kakaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-便-1951": {
-    "kana": "ともだち と びん について しばらく はなし た",
-    "romaji": "tomodachi to bin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で びん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-便り-2431": {
     "kana": "つくえ の うえ に たより を おい て から でかけ た",
     "romaji": "tsukue no ue ni tayori o oi te kara dekake ta"
   },
   "jlpt-n3-保証-2327": {
-    "kana": "ともだち と ほしょう について しばらく はなし た",
-    "romaji": "tomodachi to hoshou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ほしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hoshou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-信頼-2386": {
-    "kana": "かいぎ で しんらい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinrai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんらい について しばらく はなし た",
+    "romaji": "tomodachi to shinrai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-修正-1963": {
-    "kana": "かいぎ で しゅうせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuusei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅうせい について しばらく はなし た",
+    "romaji": "tomodachi to shuusei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-俳優-2065": {
-    "kana": "かいぎ で はいゆう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de haiyuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はいゆう について しばらく はなし た",
+    "romaji": "tomodachi to haiyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-値-2278": {
-    "kana": "かいぎ で ね について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ne nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ね について しばらく はなし た",
+    "romaji": "tomodachi to ne nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-値段-2019": {
     "kana": "ともだち と ねだん について しばらく はなし た",
@@ -8108,28 +8108,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kenkou na machi o yukkuri arui ta"
   },
   "jlpt-n3-偶々-2195": {
-    "kana": "たまたま よてい を へんこう し た",
-    "romaji": "tamatama yotei o henkou shi ta"
+    "kana": "たまたま へんじ が とどい た ので あんしん し た",
+    "romaji": "tamatama henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-備える-1950": {
-    "kana": "しゅうまつ に ともだち と たな を そなえる けいかく を たて た",
-    "romaji": "shuumatsu ni tomodachi to tana o sonaeru keikaku o tate ta"
+    "kana": "いりぐち に あたらしい あんない ばん を しごと に そなえる",
+    "romaji": "iriguchi ni atarashii annai ban o shigoto ni sonaeru"
   },
   "jlpt-n3-優勝-2377": {
-    "kana": "ともだち と ゆうしょう について しばらく はなし た",
-    "romaji": "tomodachi to yuushou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆうしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuushou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-優秀-2313": {
-    "kana": "ゆうしゅう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "yuushuu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ゆうしゅう な てん を さき に せつめい し た",
+    "romaji": "yuushuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-兎-2424": {
-    "kana": "ともだち と うさぎ について しばらく はなし た",
-    "romaji": "tomodachi to usagi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うさぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de usagi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-入場-2166": {
-    "kana": "ともだち と にゅうじょう について しばらく はなし た",
-    "romaji": "tomodachi to nyuujou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で にゅうじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nyuujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-入院-2346": {
     "kana": "そふ の にゅういん が きまり かぞく で じゅんび を し た",
@@ -8144,12 +8144,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de subete nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-全体-2402": {
-    "kana": "ひつよう な ばめん で ぜんたい ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de zentai houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ぜんたい",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te zentai"
   },
   "jlpt-n3-全員-2176": {
-    "kana": "かいぎ で ぜんいん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de zen'in nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぜんいん について しばらく はなし た",
+    "romaji": "tomodachi to zen'in nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-全国-2331": {
     "kana": "しゅうまつ に ぜんこく え いく みち を しらべ た",
@@ -8160,20 +8160,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na gutai o asa no uchi ni atsume ta"
   },
   "jlpt-n3-内-2055": {
-    "kana": "ともだち と うち について しばらく はなし た",
-    "romaji": "tomodachi to uchi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uchi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-再び-2137": {
-    "kana": "ふたたび よてい を へんこう し た",
-    "romaji": "futatabi yotei o henkou shi ta"
+    "kana": "ふたたび へんじ が とどい た ので あんしん し た",
+    "romaji": "futatabi henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-冒険-2001": {
-    "kana": "ともだち と ぼうけん について しばらく はなし た",
-    "romaji": "tomodachi to bouken nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぼうけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-冗談-2451": {
-    "kana": "ともだち と じょうだん について しばらく はなし た",
-    "romaji": "tomodachi to joudan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じょうだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-処理-2317": {
     "kana": "かいぎ で しょり について ぐたい てき に はなしあっ た",
@@ -8188,20 +8188,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e deau yotei da"
   },
   "jlpt-n3-出来事-2269": {
-    "kana": "かいぎ で できごと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dekigoto nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と できごと について しばらく はなし た",
+    "romaji": "tomodachi to dekigoto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-出版-2146": {
-    "kana": "かいぎ で しゅっぱん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shuppan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しゅっぱん について しばらく はなし た",
+    "romaji": "tomodachi to shuppan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-分ける-2490": {
     "kana": "がらす が わける おと が し て みんな が ふりむい た",
     "romaji": "garasu ga wakeru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n3-刈る-1972": {
-    "kana": "あんぜん に かる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni karu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de karu koto ni shi ta"
   },
   "jlpt-n3-刑事-2250": {
     "kana": "かいぎ で けいじ について ぐたい てき に はなしあっ た",
@@ -8228,16 +8228,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to zenshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-助手-2437": {
-    "kana": "ともだち と じょしゅ について しばらく はなし た",
-    "romaji": "tomodachi to joshu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じょしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de joshu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-効く-1995": {
     "kana": "あたらしい どうぐ を きく ばめん が ふえ て いる",
     "romaji": "atarashii dougu o kiku bamen ga fue te iru"
   },
   "jlpt-n3-動かす-2251": {
-    "kana": "あんぜん に うごかす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ugokasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うごかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ugokasu"
   },
   "jlpt-n3-務め-2552": {
     "kana": "きょう の つとめ わ おもっ た より はやく おわっ た",
@@ -8260,8 +8260,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sensei ga susumeru hon wa totemo yomi yasui"
   },
   "jlpt-n3-包み-2355": {
-    "kana": "かいぎ で つつみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tsutsumi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と つつみ について しばらく はなし た",
+    "romaji": "tomodachi to tsutsumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-区別-2151": {
     "kana": "かいぎ で くべつ について ぐたい てき に はなしあっ た",
@@ -8284,12 +8284,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to hakubutsukan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-占める-2051": {
-    "kana": "あんぜん に しめる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shimeru tame ni saki ni junbi o shi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を しめる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o shimeru"
   },
   "jlpt-n3-印刷-2484": {
-    "kana": "ともだち と いんさつ について しばらく はなし た",
-    "romaji": "tomodachi to insatsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いんさつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de insatsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-去る-1954": {
     "kana": "おもい にもつ を えき まで さる ひと を さがし た",
@@ -8300,20 +8300,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e toreru yotei da"
   },
   "jlpt-n3-叫ぶ-2439": {
-    "kana": "あんぜん に さけぶ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sakebu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で さけぶ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sakebu koto ni shi ta"
   },
   "jlpt-n3-可能-2387": {
-    "kana": "かのう な てん を さき に せつめい し た",
-    "romaji": "kanou na ten o saki ni setsumei shi ta"
+    "kana": "かのう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kanou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-台-2227": {
     "kana": "しりょう の だい に すうじ を まとめ た",
     "romaji": "shiryou no dai ni suuji o matome ta"
   },
   "jlpt-n3-合図-1941": {
-    "kana": "かいぎ で あいず について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de aizu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あいず について しばらく はなし た",
+    "romaji": "tomodachi to aizu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-合格-2079": {
     "kana": "しりょう の ごうかく に わ じぜん の よやく が ひつよう だ",
@@ -8324,20 +8324,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de goukei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-同一-2228": {
-    "kana": "どういつ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "douitsu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "どういつ な てん を さき に せつめい し た",
+    "romaji": "douitsu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-名-2486": {
-    "kana": "ともだち と な について しばらく はなし た",
-    "romaji": "tomodachi to na nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de na nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-向ける-2076": {
     "kana": "ちず で もくてき ち を むける ゆび を み た",
     "romaji": "chizu de mokuteki chi o mukeru yubi o mi ta"
   },
   "jlpt-n3-周囲-2002": {
-    "kana": "ともだち と しゅうい について しばらく はなし た",
-    "romaji": "tomodachi to shuui nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しゅうい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-味方-1977": {
     "kana": "ともだち と みかた について しばらく はなし た",
@@ -8360,44 +8360,44 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni nodo o oi te kara dekake ta"
   },
   "jlpt-n3-喜び-2279": {
-    "kana": "ともだち と よろこび について しばらく はなし た",
-    "romaji": "tomodachi to yorokobi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で よろこび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yorokobi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-喧嘩-2170": {
     "kana": "かいぎ で けんか について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kenka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-嘘-2111": {
-    "kana": "かいぎ で うそ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de uso nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うそ について しばらく はなし た",
+    "romaji": "tomodachi to uso nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-回す-1999": {
-    "kana": "ひつよう な ばめん で まわす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mawasu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まわす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mawasu koto ni shi ta"
   },
   "jlpt-n3-回り-2189": {
-    "kana": "ともだち と まわり について しばらく はなし た",
-    "romaji": "tomodachi to mawari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で まわり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mawari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-囲む-2363": {
     "kana": "まち を かこむ やまやま が ゆうひ に そまっ た",
     "romaji": "machi o kakomu yamayama ga yuuhi ni soma ta"
   },
   "jlpt-n3-国境-1990": {
-    "kana": "かいぎ で こっきょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kokkyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こっきょう について しばらく はなし た",
+    "romaji": "tomodachi to kokkyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-土-2271": {
     "kana": "ともだち と ど について しばらく はなし た",
     "romaji": "tomodachi to do nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-土曜-2534": {
-    "kana": "ともだち と どよう について しばらく はなし た",
-    "romaji": "tomodachi to doyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で どよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-地下-2103": {
-    "kana": "ともだち と ちか について しばらく はなし た",
-    "romaji": "tomodachi to chika nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chika nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-地区-2062": {
     "kana": "ともだち と ちく について しばらく はなし た",
@@ -8408,20 +8408,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de chiheisen nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-地球-2010": {
-    "kana": "かいぎ で ちきゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chikyuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちきゅう について しばらく はなし た",
+    "romaji": "tomodachi to chikyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-基-2258": {
-    "kana": "かいぎ で もと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de moto nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と もと について しばらく はなし た",
+    "romaji": "tomodachi to moto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-基づく-2025": {
     "kana": "じじつ に もとづく いけん を のべ た",
     "romaji": "jijitsu ni motozuku iken o nobe ta"
   },
   "jlpt-n3-場-1974": {
-    "kana": "あめあがり の ば に そら が うつっ て い た",
-    "romaji": "ameagari no ba ni sora ga utsu te i ta"
+    "kana": "つくえ の よこ に ほんだな を おく ば を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku ba o tsuku ta"
   },
   "jlpt-n3-場面-2183": {
     "kana": "しゅうまつ に ばめん え いく みち を しらべ た",
@@ -8432,12 +8432,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to gomi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-境-2182": {
-    "kana": "かいぎ で さかい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sakai nitsuite gutai teki ni hanashia ta"
+    "kana": "そつぎょう わ じんせい の おおきな さかい に なる",
+    "romaji": "sotsugyou wa jinsei no ookina sakai ni naru"
   },
   "jlpt-n3-墓-2052": {
-    "kana": "かいぎ で はか について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de haka nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はか について しばらく はなし た",
+    "romaji": "tomodachi to haka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-売れる-1989": {
     "kana": "うれる な まち を ゆっくり あるい た",
@@ -8452,8 +8452,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "taishita mise wa eki no chikaku ni aru"
   },
   "jlpt-n3-大家-2044": {
-    "kana": "ともだち と おおや について しばらく はなし た",
-    "romaji": "tomodachi to ooya nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おおや について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ooya nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-大抵-2150": {
     "kana": "たいてい な ようす で かれ わ さいご まで はなし を きい た",
@@ -8472,8 +8472,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no iken ni keiyaku shi te fukaku unazui ta"
   },
   "jlpt-n3-奥-2102": {
-    "kana": "かいぎ で おく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de oku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と おく について しばらく はなし た",
+    "romaji": "tomodachi to oku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-姉妹-2243": {
     "kana": "かいぎ で しまい について ぐたい てき に はなしあっ た",
@@ -8496,16 +8496,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru gakusha ni koe o kake ta"
   },
   "jlpt-n3-孫-2120": {
-    "kana": "かいぎ で まご について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mago nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と まご について しばらく はなし た",
+    "romaji": "tomodachi to mago nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-宅-2350": {
     "kana": "ともだち と たく について しばらく はなし た",
     "romaji": "tomodachi to taku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-完全-2038": {
-    "kana": "かんぜん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kanzen na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "かんぜん な てん を さき に せつめい し た",
+    "romaji": "kanzen na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-定期-2290": {
     "kana": "かいぎ で ていき について ぐたい てき に はなしあっ た",
@@ -8516,76 +8516,76 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni jitsuha to koe o kake ta"
   },
   "jlpt-n3-実施-2390": {
-    "kana": "ともだち と じっし について しばらく はなし た",
-    "romaji": "tomodachi to jisshi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じっし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jisshi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-実行-2543": {
     "kana": "ともだち と じっこう について しばらく はなし た",
     "romaji": "tomodachi to jikkou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-実際-2526": {
-    "kana": "ともだち と じっさい について しばらく はなし た",
-    "romaji": "tomodachi to jissai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じっさい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jissai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-実験-2033": {
     "kana": "ともだち と じっけん について しばらく はなし た",
     "romaji": "tomodachi to jikken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-家事-2089": {
-    "kana": "かいぎ で かじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かじ について しばらく はなし た",
+    "romaji": "tomodachi to kaji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-家具-2039": {
-    "kana": "ともだち と かぐ について しばらく はなし た",
-    "romaji": "tomodachi to kagu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かぐ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kagu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-家賃-2188": {
-    "kana": "かいぎ で やちん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yachin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と やちん について しばらく はなし た",
+    "romaji": "tomodachi to yachin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-容易-2024": {
-    "kana": "ようい な てん を さき に せつめい し た",
-    "romaji": "youi na ten o saki ni setsumei shi ta"
+    "kana": "ようい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "youi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-宿-2546": {
-    "kana": "かいぎ で やど について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yado nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と やど について しばらく はなし た",
+    "romaji": "tomodachi to yado nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-対する-2485": {
-    "kana": "ひつよう な ばめん で たいする ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de taisuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たいする",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te taisuru"
   },
   "jlpt-n3-対象-2341": {
     "kana": "きょう の たいしょう わ おもっ た より はやく おわっ た",
     "romaji": "kyou no taishou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-尊敬-2035": {
-    "kana": "ともだち と そんけい について しばらく はなし た",
-    "romaji": "tomodachi to sonkei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そんけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sonkei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-小包-2274": {
-    "kana": "かいぎ で こづつみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kozutsumi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こづつみ について しばらく はなし た",
+    "romaji": "tomodachi to kozutsumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-小麦-2126": {
-    "kana": "かいぎ で こむぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de komugi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こむぎ について しばらく はなし た",
+    "romaji": "tomodachi to komugi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-少しも-2448": {
-    "kana": "すこし も へんじ が とどい た ので あんしん し た",
-    "romaji": "sukoshi mo henji ga todoi ta node anshin shi ta"
+    "kana": "すこし も よてい を へんこう し た",
+    "romaji": "sukoshi mo yotei o henkou shi ta"
   },
   "jlpt-n3-少年-1968": {
     "kana": "こまっ て いる しょうねん に こえ を かけ た",
     "romaji": "koma te iru shounen ni koe o kake ta"
   },
   "jlpt-n3-尤も-2122": {
-    "kana": "ともだち と もっとも について しばらく はなし た",
-    "romaji": "tomodachi to mottomo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もっとも について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mottomo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-就く-2385": {
-    "kana": "あんぜん に つく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsuku tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsuku koto ni shi ta"
   },
   "jlpt-n3-尻-2164": {
     "kana": "やま の しり から まち ぜんたい が みえ た",
@@ -8596,36 +8596,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni kyoku e iku michi o shirabe ta"
   },
   "jlpt-n3-居る-2086": {
-    "kana": "ひつよう な ばめん で おる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de oru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te oru"
   },
   "jlpt-n3-居間-2330": {
     "kana": "しゅうまつ に いま え いく みち を しらべ た",
     "romaji": "shuumatsu ni ima e iku michi o shirabe ta"
   },
   "jlpt-n3-岩-2129": {
-    "kana": "ともだち と いわ について しばらく はなし た",
-    "romaji": "tomodachi to iwa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de iwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-川-2236": {
-    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かわ について しばらく はなし た",
+    "romaji": "tomodachi to kawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-工場-2194": {
-    "kana": "ともだち と こうじょう について しばらく はなし た",
-    "romaji": "tomodachi to koujou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-巨大-2519": {
     "kana": "きょだい な ようす で かれ わ さいご まで はなし を きい た",
     "romaji": "kyodai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-市場-2411": {
-    "kana": "ともだち と しじょう について しばらく はなし た",
-    "romaji": "tomodachi to shijou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shijou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-常に-2139": {
-    "kana": "つねに よてい を へんこう し た",
-    "romaji": "tsuneni yotei o henkou shi ta"
+    "kana": "つねに へんじ が とどい た ので あんしん し た",
+    "romaji": "tsuneni henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-幅-2323": {
     "kana": "かれ の はば を きい て かんがえかた が すこし かわっ た",
@@ -8640,8 +8640,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "heiwa na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-平均-1952": {
-    "kana": "ともだち と へいきん について しばらく はなし た",
-    "romaji": "tomodachi to heikin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で へいきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de heikin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-年中-2244": {
     "kana": "ねんじゅう に だいじ な よてい が はいっ て いる",
@@ -8660,8 +8660,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "saiwai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-幸せ-2168": {
-    "kana": "しあわせ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "shiawase na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "しあわせ な てん を さき に せつめい し た",
+    "romaji": "shiawase na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-幸福-2500": {
     "kana": "こうふく な ようす で かれ わ さいご まで はなし を きい た",
@@ -8696,20 +8696,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni bentou o oi te kara dekake ta"
   },
   "jlpt-n3-式-2453": {
-    "kana": "ともだち と しき について しばらく はなし た",
-    "romaji": "tomodachi to shiki nitsuite shibaraku hanashi ta"
+    "kana": "ちいき の しき に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no shiki ni ooku no hito ga atsuma ta"
   },
   "jlpt-n3-引っ張る-2360": {
-    "kana": "ひつよう な ばめん で ひっぱる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hipparu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ひっぱる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hipparu koto ni shi ta"
   },
   "jlpt-n3-引用-2504": {
     "kana": "かいぎ で いんよう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de in'you nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-張る-2533": {
-    "kana": "あんぜん に はる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni haru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te haru"
   },
   "jlpt-n3-当時-2255": {
     "kana": "とうじ に だいじ な よてい が はいっ て いる",
@@ -8728,8 +8728,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "karera ni michi o tazune ta"
   },
   "jlpt-n3-後-2322": {
-    "kana": "かいぎ で のち について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nochi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ご について しばらく はなし た",
+    "romaji": "tomodachi to go nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-御-2316": {
     "kana": "ともだち とお について しばらく はなし た",
@@ -8744,16 +8744,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tetsuya ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-徹底-2034": {
-    "kana": "かいぎ で てってい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tettei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と てってい について しばらく はなし た",
+    "romaji": "tomodachi to tettei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-心臓-2037": {
-    "kana": "かいぎ で しんぞう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinzou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんぞう について しばらく はなし た",
+    "romaji": "tomodachi to shinzou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-心配-2125": {
-    "kana": "ともだち と しんぱい について しばらく はなし た",
-    "romaji": "tomodachi to shinpai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しんぱい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinpai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-必死-2099": {
     "kana": "ひっし な ようす で かれ わ さいご まで はなし を きい た",
@@ -8768,12 +8768,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de omoide nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-怠ける-2308": {
-    "kana": "あんぜん に なまける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni namakeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で なまける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de namakeru koto ni shi ta"
   },
   "jlpt-n3-急激-2267": {
-    "kana": "きゅうげき な てん を さき に せつめい し た",
-    "romaji": "kyuugeki na ten o saki ni setsumei shi ta"
+    "kana": "きゅうげき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kyuugeki na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-性-2302": {
     "kana": "こまっ て いる せい に こえ を かけ た",
@@ -8784,8 +8784,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to koibito nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-恐れる-2337": {
-    "kana": "ひつよう な ばめん で おそれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de osoreru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おそれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te osoreru"
   },
   "jlpt-n3-恐ろしい-2158": {
     "kana": "おそろしい ひ だっ た が さいご まで あるい た",
@@ -8796,16 +8796,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni iki o sukoshi tabe ta"
   },
   "jlpt-n3-患者-2318": {
-    "kana": "ともだち と かんじゃ について しばらく はなし た",
-    "romaji": "tomodachi to kanja nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かんじゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanja nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-悪口-2222": {
     "kana": "ともだち と わるぐち について しばらく はなし た",
     "romaji": "tomodachi to waruguchi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-悲しむ-2417": {
-    "kana": "ひつよう な ばめん で かなしむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kanashimu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かなしむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kanashimu koto ni shi ta"
   },
   "jlpt-n3-情報-2106": {
     "kana": "じょうほう が こっきょう ちかく に はいち さ れ た",
@@ -8816,8 +8816,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de souzou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-意外-2238": {
-    "kana": "いがい な てん を さき に せつめい し た",
-    "romaji": "igai na ten o saki ni setsumei shi ta"
+    "kana": "いがい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "igai na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-意思-1956": {
     "kana": "かいぎ で いし について ぐたい てき に はなしあっ た",
@@ -8832,32 +8832,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kazoku o aisuru kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n3-愛情-2499": {
-    "kana": "ともだち と あいじょう について しばらく はなし た",
-    "romaji": "tomodachi to aijou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あいじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aijou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-感じ-2333": {
     "kana": "とつぜん の しらせ に つよい かんじ を おぼえ た",
     "romaji": "totsuzen no shirase ni tsuyoi kanji o oboe ta"
   },
   "jlpt-n3-感心-2429": {
-    "kana": "ともだち と かんしん について しばらく はなし た",
-    "romaji": "tomodachi to kanshin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かんしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanshin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-成る-2171": {
     "kana": "はる に なる ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni naru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n3-我慢-2155": {
-    "kana": "かいぎ で がまん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de gaman nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と がまん について しばらく はなし た",
+    "romaji": "tomodachi to gaman nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-戦い-2351": {
     "kana": "たたかい に だいじ な よてい が はいっ て いる",
     "romaji": "tatakai ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-戻す-2478": {
-    "kana": "しゅうまつ に ともだち の いえ え もどす よてい だ",
-    "romaji": "shuumatsu ni tomodachi no ie e modosu yotei da"
+    "kana": "しちょう わ かいけん で じにん の いこう を もどす",
+    "romaji": "shichou wa kaiken de jinin no ikou o modosu"
   },
   "jlpt-n3-手間-1994": {
     "kana": "てま の てつづき を きげん まで に すませ た",
@@ -8876,24 +8876,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to hihyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-承認-2075": {
-    "kana": "かれ の いけん に しょうにん し て ふかく うなずい た",
-    "romaji": "kare no iken ni shounin shi te fukaku unazui ta"
+    "kana": "けいかく わ じょうし の しょうにん を え て から すすめる",
+    "romaji": "keikaku wa joushi no shounin o e te kara susumeru"
   },
   "jlpt-n3-技師-2147": {
-    "kana": "ともだち と ぎし について しばらく はなし た",
-    "romaji": "tomodachi to gishi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぎし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-抜く-2257": {
     "kana": "ひきだし から ふるい てがみ を ぬく と なつかしく なっ た",
     "romaji": "hikidashi kara furui tegami o nuku to natsukashiku na ta"
   },
   "jlpt-n3-抱える-2482": {
-    "kana": "おもい にもつ を えき まで かかえる ひと を さがし た",
-    "romaji": "omoi nimotsu o eki made kakaeru hito o sagashi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を かかえる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o kakaeru"
   },
   "jlpt-n3-抵抗-2226": {
-    "kana": "かいぎ で ていこう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de teikou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ていこう について しばらく はなし た",
+    "romaji": "tomodachi to teikou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-担当-2011": {
     "kana": "たんとう の てつづき を きげん まで に すませ た",
@@ -8904,48 +8904,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hakushu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-招く-2209": {
-    "kana": "あんぜん に まねく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni maneku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て まねく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te maneku"
   },
   "jlpt-n3-指す-2047": {
     "kana": "ちず で もくてき ち を さす ゆび を み た",
     "romaji": "chizu de mokuteki chi o sasu yubi o mi ta"
   },
   "jlpt-n3-振る-2461": {
-    "kana": "あんぜん に ふる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni furu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te furu"
   },
   "jlpt-n3-推薦-2312": {
     "kana": "ともだち と すいせん について しばらく はなし た",
     "romaji": "tomodachi to suisen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-掲示-2474": {
-    "kana": "かいぎ で けいじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de keiji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けいじ について しばらく はなし た",
+    "romaji": "tomodachi to keiji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-換える-2234": {
-    "kana": "あんぜん に かえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kaeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kaeru koto ni shi ta"
   },
   "jlpt-n3-握る-2268": {
-    "kana": "ひつよう な ばめん で にぎる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nigiru houhou o kangae ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を にぎる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o nigiru"
   },
   "jlpt-n3-援助-2193": {
     "kana": "かいぎ で えんじょ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de enjo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-損-2456": {
-    "kana": "そん な てん を さき に せつめい し た",
-    "romaji": "son na ten o saki ni setsumei shi ta"
+    "kana": "そん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "son na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-撃つ-2547": {
-    "kana": "あんぜん に うつ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni utsu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で うつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de utsu koto ni shi ta"
   },
   "jlpt-n3-支える-2389": {
-    "kana": "あんぜん に ささえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sasaeru tame ni saki ni junbi o shi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を ささえる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o sasaeru"
   },
   "jlpt-n3-支払-2214": {
     "kana": "しはらい の てつづき を きげん まで に すませ た",
@@ -8968,8 +8968,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to keii nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-数える-2266": {
-    "kana": "あんぜん に かぞえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kazoeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かぞえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kazoeru koto ni shi ta"
   },
   "jlpt-n3-文-2358": {
     "kana": "ぶん が こっきょう ちかく に はいち さ れ た",
@@ -8984,48 +8984,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni moji o oi te kara dekake ta"
   },
   "jlpt-n3-文明-2029": {
-    "kana": "かいぎ で ぶんめい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bunmei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶんめい について しばらく はなし た",
+    "romaji": "tomodachi to bunmei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-料金-2364": {
     "kana": "りょうきん の てつづき を きげん まで に すませ た",
     "romaji": "ryoukin no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n3-断る-2530": {
-    "kana": "ひつよう な ばめん で ことわる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kotowaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ことわる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kotowaru koto ni shi ta"
   },
   "jlpt-n3-方-2060": {
     "kana": "かいぎ で ほう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de hou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-方法-2084": {
-    "kana": "かいぎ で ほうほう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de houhou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほうほう について しばらく はなし た",
+    "romaji": "tomodachi to houhou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-日中-2388": {
-    "kana": "ともだち と にち ちゅう について しばらく はなし た",
-    "romaji": "tomodachi to nichi chuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で にち ちゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nichi chuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-日付-2112": {
-    "kana": "ともだち と ひづけ について しばらく はなし た",
-    "romaji": "tomodachi to hizuke nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひづけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hizuke nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-日曜-2434": {
-    "kana": "かいぎ で にちよう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nichiyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と にちよう について しばらく はなし た",
+    "romaji": "tomodachi to nichiyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-日本-2375": {
-    "kana": "かいぎ で にっぽん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nippon nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と にっぽん について しばらく はなし た",
+    "romaji": "tomodachi to nippon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-旧-2438": {
-    "kana": "かいぎ で きゅう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyuu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きゅう について しばらく はなし た",
+    "romaji": "tomodachi to kyuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-明かり-2447": {
-    "kana": "ともだち と あかり について しばらく はなし た",
-    "romaji": "tomodachi to akari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あかり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de akari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-明らか-2260": {
     "kana": "あきらか な ようす で かれ わ さいご まで はなし を きい た",
@@ -9052,8 +9052,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kurashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-暮らす-2219": {
-    "kana": "あんぜん に くらす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kurasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くらす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kurasu"
   },
   "jlpt-n3-曜日-2005": {
     "kana": "ようび に だいじ な よてい が はいっ て いる",
@@ -9080,12 +9080,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to getsuyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-有利-2503": {
-    "kana": "ゆうり な てん を さき に せつめい し た",
-    "romaji": "yuuri na ten o saki ni setsumei shi ta"
+    "kana": "ゆうり な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuuri na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-有効-2042": {
-    "kana": "ゆうこう な てん を さき に せつめい し た",
-    "romaji": "yuukou na ten o saki ni setsumei shi ta"
+    "kana": "ゆうこう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yuukou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-有能-2418": {
     "kana": "ゆうのう な ようす で かれ わ さいご まで はなし を きい た",
@@ -9100,20 +9100,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de nozomi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-期待-2549": {
-    "kana": "かいぎ で きたい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kitai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きたい について しばらく はなし た",
+    "romaji": "tomodachi to kitai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-木曜-2284": {
-    "kana": "ともだち と もくよう について しばらく はなし た",
-    "romaji": "tomodachi to mokuyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もくよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mokuyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-未来-2263": {
     "kana": "ともだち と みらい について しばらく はなし た",
     "romaji": "tomodachi to mirai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-本当-2399": {
-    "kana": "ほんとう な てん を さき に せつめい し た",
-    "romaji": "hontou na ten o saki ni setsumei shi ta"
+    "kana": "ほんとう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "hontou na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-束-2406": {
     "kana": "かいぎ で たば について ぐたい てき に はなしあっ た",
@@ -9124,8 +9124,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ki ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-板-2000": {
-    "kana": "ともだち と いた について しばらく はなし た",
-    "romaji": "tomodachi to ita nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ita nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-栄養-2163": {
     "kana": "ともだち と えいよう について しばらく はなし た",
@@ -9148,32 +9148,32 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de bou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-植物-2299": {
-    "kana": "ともだち と しょくぶつ について しばらく はなし た",
-    "romaji": "tomodachi to shokubutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょくぶつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shokubutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-様々-2021": {
-    "kana": "さまざま な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "samazama na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "さまざま な てん を さき に せつめい し た",
+    "romaji": "samazama na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-模様-2527": {
-    "kana": "ともだち と もよう について しばらく はなし た",
-    "romaji": "tomodachi to moyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-機械-2443": {
     "kana": "ちかく の みせ で きかい を みつけ た",
     "romaji": "chikaku no mise de kikai o mitsuke ta"
   },
   "jlpt-n3-機関-2477": {
-    "kana": "ともだち と きかん について しばらく はなし た",
-    "romaji": "tomodachi to kikan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-欠ける-2023": {
-    "kana": "がらす が かける おと が し て みんな が ふりむい た",
-    "romaji": "garasu ga kakeru oto ga shi te minna ga furimui ta"
+    "kana": "がらす が しごと に かける おと が し て みんな が ふりむい た",
+    "romaji": "garasu ga shigoto ni kakeru oto ga shi te minna ga furimui ta"
   },
   "jlpt-n3-欠点-2397": {
-    "kana": "かいぎ で けってん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ketten nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けってん について しばらく はなし た",
+    "romaji": "tomodachi to ketten nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-次々-2073": {
     "kana": "ともだち と つぎつぎ について しばらく はなし た",
@@ -9184,20 +9184,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shidai ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n3-歌手-2066": {
-    "kana": "ともだち と かしゅ について しばらく はなし た",
-    "romaji": "tomodachi to kashu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kashu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-歓迎-1959": {
     "kana": "ともだち と かんげい について しばらく はなし た",
     "romaji": "tomodachi to kangei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-正-2294": {
-    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と せい について しばらく はなし た",
+    "romaji": "tomodachi to sei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-正午-2425": {
-    "kana": "ともだち と しょうご について しばらく はなし た",
-    "romaji": "tomodachi to shougo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょうご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-正式-2452": {
     "kana": "せいしき な しょるい を わすれ ず に もっ て いっ た",
@@ -9216,56 +9216,56 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to hodou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-母親-2376": {
-    "kana": "ともだち と ははおや について しばらく はなし た",
-    "romaji": "tomodachi to hahaoya nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ははおや について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hahaoya nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-比較-2177": {
-    "kana": "かいぎ で ひかく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hikaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひかく について しばらく はなし た",
+    "romaji": "tomodachi to hikaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-毛布-2513": {
-    "kana": "かいぎ で もうふ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de moufu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と もうふ について しばらく はなし た",
+    "romaji": "tomodachi to moufu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-気の毒-2054": {
-    "kana": "きのどく な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kinodoku na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "きのどく な てん を さき に せつめい し た",
+    "romaji": "kinodoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-気付く-2179": {
     "kana": "はる に きづく ころ えきまえ の さくら が さき はじめる",
     "romaji": "haru ni kizuku koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n3-気候-2157": {
-    "kana": "かいぎ で きこう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kikou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きこう について しばらく はなし た",
+    "romaji": "tomodachi to kikou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-気味-2301": {
-    "kana": "きみ な てん を さき に せつめい し た",
-    "romaji": "kimi na ten o saki ni setsumei shi ta"
+    "kana": "きみ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kimi na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-気温-2185": {
-    "kana": "ともだち と きおん について しばらく はなし た",
-    "romaji": "tomodachi to kion nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きおん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kion nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-永久-2196": {
-    "kana": "えいきゅう な てん を さき に せつめい し た",
-    "romaji": "eikyuu na ten o saki ni setsumei shi ta"
+    "kana": "えいきゅう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "eikyuu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-求める-2432": {
     "kana": "たすけ を もとめる こえ が とおく から きこえ た",
     "romaji": "tasuke o motomeru koe ga tooku kara kikoe ta"
   },
   "jlpt-n3-決心-2498": {
-    "kana": "かいぎ で けっしん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kesshin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けっしん について しばらく はなし た",
+    "romaji": "tomodachi to kesshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-沈む-2523": {
     "kana": "しゅうまつ に ともだち の いえ え しずむ よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e shizumu yotei da"
   },
   "jlpt-n3-河-2537": {
-    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かわ について しばらく はなし た",
+    "romaji": "tomodachi to kawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-泉-2108": {
     "kana": "ゆうがた に なる と いずみ が とても きれい に みえ た",
@@ -9276,16 +9276,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi hou o oboe ta"
   },
   "jlpt-n3-注ぐ-2463": {
-    "kana": "あんぜん に そそぐ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sosogu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て そそぐ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sosogu"
   },
   "jlpt-n3-注文-2370": {
     "kana": "ともだち と ちゅうもん について しばらく はなし た",
     "romaji": "tomodachi to chuumon nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-注目-2059": {
-    "kana": "かいぎ で ちゅうもく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chuumoku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちゅうもく について しばらく はなし た",
+    "romaji": "tomodachi to chuumoku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-泳ぎ-2107": {
     "kana": "ともだち と およぎ について しばらく はなし た",
@@ -9296,16 +9296,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru katsudou ni koe o kake ta"
   },
   "jlpt-n3-流す-2232": {
-    "kana": "あんぜん に ながす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nagasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ながす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nagasu"
   },
   "jlpt-n3-流れる-2092": {
-    "kana": "あんぜん に ながれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nagareru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ながれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nagareru"
   },
   "jlpt-n3-浴びる-1988": {
-    "kana": "あんぜん に あびる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni abiru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あびる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te abiru"
   },
   "jlpt-n3-消防-2017": {
     "kana": "ともだち と しょうぼう について しばらく はなし た",
@@ -9316,8 +9316,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi namida o oboe ta"
   },
   "jlpt-n3-混雑-2127": {
-    "kana": "かいぎ で こんざつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de konzatsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こんざつ について しばらく はなし た",
+    "romaji": "tomodachi to konzatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-清潔-1942": {
     "kana": "せいけつ な まち を ゆっくり あるい た",
@@ -9336,24 +9336,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ondan na kikou no machi de kurashi tai"
   },
   "jlpt-n3-満足-2100": {
-    "kana": "まんぞく な てん を さき に せつめい し た",
-    "romaji": "manzoku na ten o saki ni setsumei shi ta"
+    "kana": "まんぞく な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "manzoku na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-滞在-2413": {
-    "kana": "かいぎ で たいざい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taizai nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たいざい について しばらく はなし た",
+    "romaji": "tomodachi to taizai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-演奏-2373": {
     "kana": "かいぎ で えんそう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de ensou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-演技-2321": {
-    "kana": "かいぎ で えんぎ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de engi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えんぎ について しばらく はなし た",
+    "romaji": "tomodachi to engi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-演説-2134": {
-    "kana": "かいぎ で えんぜつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de enzetsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えんぜつ について しばらく はなし た",
+    "romaji": "tomodachi to enzetsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-激しい-2455": {
     "kana": "その せつめい わ すこし はげしい と かんじ た",
@@ -9364,16 +9364,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koi hi da ta ga saigo made arui ta"
   },
   "jlpt-n3-濠-2454": {
-    "kana": "かいぎ で ほり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hori nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ほり について しばらく はなし た",
+    "romaji": "tomodachi to hori nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-火曜-2064": {
-    "kana": "ともだち と かよう について しばらく はなし た",
-    "romaji": "tomodachi to kayou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kayou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-火災-2200": {
-    "kana": "ともだち と かさい について しばらく はなし た",
-    "romaji": "tomodachi to kasai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かさい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kasai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-無し-2307": {
     "kana": "かいぎ で なし について ぐたい てき に はなしあっ た",
@@ -9384,48 +9384,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kono ibento no nyuujou ryou wa muryou da ta"
   },
   "jlpt-n3-無視-2421": {
-    "kana": "かいぎ で むし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mushi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と むし について しばらく はなし た",
+    "romaji": "tomodachi to mushi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-煙-2472": {
     "kana": "かいぎ で けむり について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kemuri nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-熱帯-2338": {
-    "kana": "ともだち と ねったい について しばらく はなし た",
-    "romaji": "tomodachi to nettai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ねったい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nettai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-黙る-2496": {
-    "kana": "ひつよう な ばめん で だまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de damaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て だまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te damaru"
   },
   "jlpt-n3-燃える-2366": {
-    "kana": "あんぜん に もえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni moeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で もえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de moeru koto ni shi ta"
   },
   "jlpt-n3-牛-2162": {
     "kana": "ひる ごはん に うし を すこし たべ た",
     "romaji": "hiru gohan ni ushi o sukoshi tabe ta"
   },
   "jlpt-n3-物価-2521": {
-    "kana": "ともだち と ぶっか について しばらく はなし た",
-    "romaji": "tomodachi to bukka nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぶっか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bukka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-物理-2094": {
-    "kana": "かいぎ で ぶつり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de butsuri nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ぶつり について しばらく はなし た",
+    "romaji": "tomodachi to butsuri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-物語-2113": {
-    "kana": "ともだち と ものがたり について しばらく はなし た",
-    "romaji": "tomodachi to monogatari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ものがたり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de monogatari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-物質-2187": {
     "kana": "こうじょう に ひつよう な ぶっしつ を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na busshitsu o asa no uchi ni atsume ta"
   },
   "jlpt-n3-特徴-2067": {
-    "kana": "かいぎ で とくちょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tokuchou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と とくちょう について しばらく はなし た",
+    "romaji": "tomodachi to tokuchou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-状況-2241": {
     "kana": "かいぎ で じょうきょう について ぐたい てき に はなしあっ た",
@@ -9440,52 +9440,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru hitori ni koe o kake ta"
   },
   "jlpt-n3-独特-2272": {
-    "kana": "どくとく な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "dokutoku na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "どくとく な てん を さき に せつめい し た",
+    "romaji": "dokutoku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-玉-2239": {
-    "kana": "ともだち と たま について しばらく はなし た",
-    "romaji": "tomodachi to tama nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で たま について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tama nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-王-2210": {
     "kana": "おう が しきてん で みじかい えんぜつ を おこなっ た",
     "romaji": "ou ga shikiten de mijikai enzetsu o okona ta"
   },
   "jlpt-n3-現れ-2288": {
-    "kana": "ともだち と あらわれ について しばらく はなし た",
-    "romaji": "tomodachi to araware nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あらわれ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de araware nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-環境-2184": {
-    "kana": "かいぎ で かんきょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kankyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かんきょう について しばらく はなし た",
+    "romaji": "tomodachi to kankyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-生-2324": {
-    "kana": "かいぎ で せい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち とせい について しばらく はなし た",
+    "romaji": "tomodachi tosei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-生き物-2436": {
     "kana": "ちかく の ぼくじょう で いきもの を み た",
     "romaji": "chikaku no bokujou de ikimono o mi ta"
   },
   "jlpt-n3-生じる-2344": {
-    "kana": "あんぜん に しょうじる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shoujiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しょうじる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shoujiru koto ni shi ta"
   },
   "jlpt-n3-生地-2022": {
-    "kana": "こうじょう に ひつよう な きじ を あさ の うち に あつめ た",
-    "romaji": "koujou ni hitsuyou na kiji o asa no uchi ni atsume ta"
+    "kana": "きじ の あじ を しり たく て その まち を おとずれ た",
+    "romaji": "kiji no aji o shiri taku te sono machi o otozure ta"
   },
   "jlpt-n3-生産-2085": {
-    "kana": "かいぎ で せいさん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de seisan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と せいさん について しばらく はなし た",
+    "romaji": "tomodachi to seisan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-用いる-2328": {
     "kana": "あたらしい どうぐ を もちいる ばめん が ふえ て いる",
     "romaji": "atarashii dougu o mochiiru bamen ga fue te iru"
   },
   "jlpt-n3-用心-2365": {
-    "kana": "ともだち と ようじん について しばらく はなし た",
-    "romaji": "tomodachi to youjin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ようじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youjin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-田-2212": {
     "kana": "あめあがり の た に そら が うつっ て い た",
@@ -9496,12 +9496,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to moushiwake nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-留める-2078": {
-    "kana": "しゅうまつ に ともだち の いえ え とめる よてい だ",
-    "romaji": "shuumatsu ni tomodachi no ie e tomeru yotei da"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を とめる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o tomeru"
   },
   "jlpt-n3-発明-2199": {
-    "kana": "かいぎ で はつめい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hatsumei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はつめい について しばらく はなし た",
+    "romaji": "tomodachi to hatsumei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-発表-2540": {
     "kana": "かいぎ で はっぴょう について ぐたい てき に はなしあっ た",
@@ -9512,56 +9512,56 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hakken nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-皮-2412": {
-    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かわ について しばらく はなし た",
+    "romaji": "tomodachi to kawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-盛り-2525": {
-    "kana": "やま の もり から まち ぜんたい が みえ た",
-    "romaji": "yama no mori kara machi zentai ga mie ta"
+    "kana": "やま の そうりつ ざかり から まち ぜんたい が みえ た",
+    "romaji": "yama no souritsu zakari kara machi zentai ga mie ta"
   },
   "jlpt-n3-目的-2153": {
     "kana": "かいぎ で もくてき について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de mokuteki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-直-2012": {
-    "kana": "じか な てん を さき に せつめい し た",
-    "romaji": "jika na ten o saki ni setsumei shi ta"
+    "kana": "じか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "jika na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-直ちに-2529": {
-    "kana": "ただちに へんじ が とどい た ので あんしん し た",
-    "romaji": "tadachini henji ga todoi ta node anshin shi ta"
+    "kana": "ただちに よてい を へんこう し た",
+    "romaji": "tadachini yotei o henkou shi ta"
   },
   "jlpt-n3-相当-2175": {
-    "kana": "ともだち と そうとう について しばらく はなし た",
-    "romaji": "tomodachi to soutou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そうとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soutou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-相手-2497": {
     "kana": "えきまえ の あいて で あたらしい しごと が はじまっ た",
     "romaji": "ekimae no aite de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-相談-2435": {
-    "kana": "ともだち と そうだん について しばらく はなし た",
-    "romaji": "tomodachi to soudan nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そうだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soudan nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-真っ赤-2220": {
-    "kana": "まっか な てん を さき に せつめい し た",
-    "romaji": "makka na ten o saki ni setsumei shi ta"
+    "kana": "まっか な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "makka na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-真剣-2311": {
-    "kana": "しんけん な てん を さき に せつめい し た",
-    "romaji": "shinken na ten o saki ni setsumei shi ta"
+    "kana": "しんけん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "shinken na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-知らせ-2473": {
     "kana": "ともだち と しらせ について しばらく はなし た",
     "romaji": "tomodachi to shirase nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-石油-2479": {
-    "kana": "ともだち と せきゆ について しばらく はなし た",
-    "romaji": "tomodachi to sekiyu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せきゆ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sekiyu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-砂漠-2213": {
-    "kana": "ともだち と さばく について しばらく はなし た",
-    "romaji": "tomodachi to sabaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さばく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sabaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-破産-2483": {
     "kana": "ともだち と はさん について しばらく はなし た",
@@ -9576,8 +9576,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kouka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-確実-2468": {
-    "kana": "かくじつ な てん を さき に せつめい し た",
-    "romaji": "kakujitsu na ten o saki ni setsumei shi ta"
+    "kana": "かくじつ な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kakujitsu na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-示す-2285": {
     "kana": "ちず で もくてき ち を しめす ゆび を み た",
@@ -9592,24 +9592,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shinkei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-禁止-2458": {
-    "kana": "かいぎ で きんし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kinshi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きんし について しばらく はなし た",
+    "romaji": "tomodachi to kinshi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-積もる-2401": {
-    "kana": "ひつよう な ばめん で つもる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsumoru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つもる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsumoru"
   },
   "jlpt-n3-穴-2430": {
-    "kana": "かいぎ で あな について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ana nitsuite gutai teki ni hanashia ta"
+    "kana": "えいが さい の あな に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no ana ni awase te machi ga nigiwa ta"
   },
   "jlpt-n3-突然-2046": {
-    "kana": "とつぜん な てん を さき に せつめい し た",
-    "romaji": "totsuzen na ten o saki ni setsumei shi ta"
+    "kana": "とつぜん な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "totsuzen na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n3-立ち上がる-2422": {
-    "kana": "あんぜん に たちあがる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tachiagaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たちあがる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tachiagaru"
   },
   "jlpt-n3-立場-2420": {
     "kana": "かれ の たちば を きい て かんがえかた が すこし かわっ た",
@@ -9636,12 +9636,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni kan o oi te kara dekake ta"
   },
   "jlpt-n3-籠-2297": {
-    "kana": "ともだち と かご について しばらく はなし た",
-    "romaji": "tomodachi to kago nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kago nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-精々-2148": {
-    "kana": "せいぜい よてい を へんこう し た",
-    "romaji": "seizei yotei o henkou shi ta"
+    "kana": "せいぜい へんじ が とどい た ので あんしん し た",
+    "romaji": "seizei henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-約-2509": {
     "kana": "やく へんじ が とどい た ので あんしん し た",
@@ -9656,8 +9656,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni kyuu e iku michi o shirabe ta"
   },
   "jlpt-n3-素-2544": {
-    "kana": "かいぎ で もと について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de moto nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と もと について しばらく はなし た",
+    "romaji": "tomodachi to moto nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-素晴らしい-2516": {
     "kana": "おもっ た より すばらしい もんだい だっ た",
@@ -9672,16 +9672,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no kumi wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-経つ-2532": {
-    "kana": "あんぜん に たつ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tatsu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tatsu"
   },
   "jlpt-n3-経由-1987": {
     "kana": "ともだち と けいゆ について しばらく はなし た",
     "romaji": "tomodachi to keiyu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-結ぶ-2049": {
-    "kana": "あんぜん に むすぶ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni musubu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で むすぶ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de musubu koto ni shi ta"
   },
   "jlpt-n3-結局-2090": {
     "kana": "けっきょく よてい を へんこう し た",
@@ -9696,20 +9696,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no ketsuron wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-縁-2495": {
-    "kana": "ともだち と えん について しばらく はなし た",
-    "romaji": "tomodachi to en nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で えん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de en nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-縄-2445": {
-    "kana": "かいぎ で なわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de nawa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と なわ について しばらく はなし た",
+    "romaji": "tomodachi to nawa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-縦-2379": {
     "kana": "ふうとう の たて に じゅうしょ を かい た",
     "romaji": "fuutou no tate ni juusho o kai ta"
   },
   "jlpt-n3-繰り返す-2216": {
-    "kana": "あんぜん に くりかえす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kurikaesu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て くりかえす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kurikaesu"
   },
   "jlpt-n3-美人-2511": {
     "kana": "びじん な まち を ゆっくり あるい た",
@@ -9724,20 +9724,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na hada o asa no uchi ni atsume ta"
   },
   "jlpt-n3-胸-2469": {
-    "kana": "かいぎ で むね について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de mune nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と むね について しばらく はなし た",
+    "romaji": "tomodachi to mune nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-脇-2551": {
     "kana": "ともだち と わき について しばらく はなし た",
     "romaji": "tomodachi to waki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-腹-2287": {
-    "kana": "かいぎ で はら について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hara nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と はら について しばらく はなし た",
+    "romaji": "tomodachi to hara nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-膝-2345": {
-    "kana": "ともだち と ひざ について しばらく はなし た",
-    "romaji": "tomodachi to hiza nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひざ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hiza nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-自身-2340": {
     "kana": "かいぎ で じしん について ぐたい てき に はなしあっ た",
@@ -9748,12 +9748,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi to butai o mi ni i ta"
   },
   "jlpt-n3-航空-2110": {
-    "kana": "ともだち と こうくう について しばらく はなし た",
-    "romaji": "tomodachi to koukuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で こうくう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koukuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-芸術-2410": {
-    "kana": "かいぎ で げいじゅつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de geijutsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と げいじゅつ について しばらく はなし た",
+    "romaji": "tomodachi to geijutsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-苦しい-2520": {
     "kana": "くるしい ひ だっ た が さいご まで あるい た",
@@ -9764,8 +9764,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyuukei chuu ni atatakai cha o ippai non da"
   },
   "jlpt-n3-行動-2320": {
-    "kana": "かいぎ で こうどう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koudou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうどう について しばらく はなし た",
+    "romaji": "tomodachi to koudou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-衣服-2315": {
     "kana": "さむく なっ た ので いふく を はおっ た",
@@ -9776,8 +9776,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shiryou no hyou ni suuji o matome ta"
   },
   "jlpt-n3-表現-2276": {
-    "kana": "かいぎ で ひょうげん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de hyougen nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ひょうげん について しばらく はなし た",
+    "romaji": "tomodachi to hyougen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-被る-2296": {
     "kana": "うわぎ を かぶる ばしょ を いりぐち の ちかく に つくっ た",
@@ -9800,8 +9800,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "migoto na tokei no tsukuri ni omowazu mii ta"
   },
   "jlpt-n3-見当-2487": {
-    "kana": "かいぎ で けんとう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kentou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けんとう について しばらく はなし た",
+    "romaji": "tomodachi to kentou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-見舞い-2518": {
     "kana": "とつぜん の しらせ に つよい みまい を おぼえ た",
@@ -9812,48 +9812,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to kankou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-角-2398": {
-    "kana": "かいぎ で かく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かく について しばらく はなし た",
+    "romaji": "tomodachi to kaku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-解く-2181": {
-    "kana": "ひつよう な ばめん で とく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de toku houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toku koto ni shi ta"
   },
   "jlpt-n3-触れる-2528": {
     "kana": "しゅうまつ に ともだち の いえ え ふれる よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e fureru yotei da"
   },
   "jlpt-n3-言わば-2489": {
-    "kana": "いわば よてい を へんこう し た",
-    "romaji": "iwaba yotei o henkou shi ta"
+    "kana": "いわば へんじ が とどい た ので あんしん し た",
+    "romaji": "iwaba henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n3-計-2467": {
-    "kana": "かいぎ で けい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と けい について しばらく はなし た",
+    "romaji": "tomodachi to kei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-計画-2093": {
     "kana": "かいぎ で けいかく について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de keikaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-記入-2396": {
-    "kana": "ともだち と きにゅう について しばらく はなし た",
-    "romaji": "tomodachi to kinyuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きにゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-記念-1964": {
-    "kana": "ともだち と きねん について しばらく はなし た",
-    "romaji": "tomodachi to kinen nitsuite shibaraku hanashi ta"
+    "kana": "ちいき の きねん に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no kinen ni ooku no hito ga atsuma ta"
   },
   "jlpt-n3-記憶-2470": {
-    "kana": "かいぎ で きおく について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kioku nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きおく について しばらく はなし た",
+    "romaji": "tomodachi to kioku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-許す-2493": {
-    "kana": "ひつよう な ばめん で ゆるす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de yurusu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ゆるす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yurusu koto ni shi ta"
   },
   "jlpt-n3-診察-2476": {
-    "kana": "かいぎ で しんさつ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shinsatsu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しんさつ について しばらく はなし た",
+    "romaji": "tomodachi to shinsatsu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-評判-2392": {
     "kana": "ともだち と ひょうばん について しばらく はなし た",
@@ -9868,20 +9868,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to shijin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-誇り-2378": {
-    "kana": "ともだち と ほこり について しばらく はなし た",
-    "romaji": "tomodachi to hokori nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ほこり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hokori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-語る-2522": {
-    "kana": "あんぜん に かたる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kataru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かたる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kataru koto ni shi ta"
   },
   "jlpt-n3-語学-2118": {
     "kana": "きょう の ごがく わ おもっ た より はやく おわっ た",
     "romaji": "kyou no gogaku wa omo ta yori hayaku owa ta"
   },
   "jlpt-n3-誤り-2101": {
-    "kana": "ともだち と あやまり について しばらく はなし た",
-    "romaji": "tomodachi to ayamari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あやまり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ayamari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-誤解-2233": {
     "kana": "ともだち と ごかい について しばらく はなし た",
@@ -9892,28 +9892,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no setsu o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-論じる-2136": {
-    "kana": "あたらしい あん を ろんじる かいぎ が よる まで つづい た",
-    "romaji": "atarashii an o ronjiru kaigi ga yoru made tsuzui ta"
+    "kana": "ちいさな こども づれ の きゃく に ろんじる せき を ようい し た",
+    "romaji": "chiisana kodomo zure no kyaku ni ronjiru seki o youi shi ta"
   },
   "jlpt-n3-論文-2508": {
     "kana": "しゅうまつ に ともだち と ろんぶん を み に いっ た",
     "romaji": "shuumatsu ni tomodachi to ronbun o mi ni i ta"
   },
   "jlpt-n3-諦める-2020": {
-    "kana": "あんぜん に あきらめる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni akirameru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あきらめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de akirameru koto ni shi ta"
   },
   "jlpt-n3-諺-2204": {
     "kana": "ともだち と ことわざ について しばらく はなし た",
     "romaji": "tomodachi to kotowaza nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-議会-2538": {
-    "kana": "ともだち と ぎかい について しばらく はなし た",
-    "romaji": "tomodachi to gikai nitsuite shibaraku hanashi ta"
+    "kana": "ぎかい で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "gikai de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n3-豆-2077": {
-    "kana": "ともだち と まめ について しばらく はなし た",
-    "romaji": "tomodachi to mame nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で まめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mame nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-豊富-2357": {
     "kana": "ほうふ な しりょう を つかっ て はっぴょう し た",
@@ -9924,8 +9924,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to zou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-豪華-2502": {
-    "kana": "ごうか な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "gouka na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ごうか な てん を さき に せつめい し た",
+    "romaji": "gouka na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-貧しい-2045": {
     "kana": "まずしい ひ だっ た が さいご まで あるい た",
@@ -9952,16 +9952,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de shihon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-賛成-2514": {
-    "kana": "かれ の いけん に さんせい し て ふかく うなずい た",
-    "romaji": "kare no iken ni sansei shi te fukaku unazui ta"
+    "kana": "けいかく わ じょうし の さんせい を え て から すすめる",
+    "romaji": "keikaku wa joushi no sansei o e te kara susumeru"
   },
   "jlpt-n3-質-2202": {
     "kana": "こまっ て いる しつ に こえ を かけ た",
     "romaji": "koma te iru shitsu ni koe o kake ta"
   },
   "jlpt-n3-跡-2165": {
-    "kana": "ともだち と あと について しばらく はなし た",
-    "romaji": "tomodachi to ato nitsuite shibaraku hanashi ta"
+    "kana": "あたらしい としょかん わ ひろい あと に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi ato ni tate rare ta"
   },
   "jlpt-n3-身体-2145": {
     "kana": "こまっ て いる しんたい に こえ を かけ た",
@@ -9976,52 +9976,52 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "guntai ga kokkyou chikaku ni haichi sa re ta"
   },
   "jlpt-n3-軒-2336": {
-    "kana": "ともだち と のき について しばらく はなし た",
-    "romaji": "tomodachi to noki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で のき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de noki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-輪-2517": {
-    "kana": "かいぎ で わ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de wa nitsuite gutai teki ni hanashia ta"
+    "kana": "とつぜん の しらせ に つよい わ を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi wa o oboe ta"
   },
   "jlpt-n3-輸出-1960": {
-    "kana": "ともだち と ゆしゅつ について しばらく はなし た",
-    "romaji": "tomodachi to yushutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ゆしゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yushutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-農民-2347": {
-    "kana": "ともだち と のうみん について しばらく はなし た",
-    "romaji": "tomodachi to noumin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で のうみん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de noumin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-辺り-2348": {
-    "kana": "ともだち と あたり について しばらく はなし た",
-    "romaji": "tomodachi to atari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で あたり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de atari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-迎え-2395": {
     "kana": "こまっ て いる むかえ に こえ を かけ た",
     "romaji": "koma te iru mukae ni koe o kake ta"
   },
   "jlpt-n3-述べる-2131": {
-    "kana": "ひつよう な ばめん で のべる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de noberu houhou o kangae ta"
+    "kana": "しちょう わ かいけん で じにん の いこう を のべる",
+    "romaji": "shichou wa kaiken de jinin no ikou o noberu"
   },
   "jlpt-n3-迷子-2058": {
     "kana": "こまっ て いる まいご に こえ を かけ た",
     "romaji": "koma te iru maigo ni koe o kake ta"
   },
   "jlpt-n3-迷惑-2403": {
-    "kana": "めいわく な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "meiwaku na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "めいわく な てん を さき に せつめい し た",
+    "romaji": "meiwaku na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-追う-2289": {
-    "kana": "あんぜん に おう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ou tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ou koto ni shi ta"
   },
   "jlpt-n3-逆らう-2036": {
     "kana": "しゅうまつ に ともだち の いえ え さからう よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e sakarau yotei da"
   },
   "jlpt-n3-通す-2088": {
-    "kana": "あんぜん に とおす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toosu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とおす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toosu koto ni shi ta"
   },
   "jlpt-n3-通り過ぎる-2329": {
     "kana": "しゅうまつ に ともだち の いえ え とおりすぎる よてい だ",
@@ -10036,8 +10036,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ekimae no tsure de atarashii shigoto ga hajima ta"
   },
   "jlpt-n3-逮捕-1996": {
-    "kana": "かいぎ で たいほ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de taiho nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たいほ について しばらく はなし た",
+    "romaji": "tomodachi to taiho nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-週-1970": {
     "kana": "しゅう に だいじ な よてい が はいっ て いる",
@@ -10052,40 +10052,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsuini yotei o henkou shi ta"
   },
   "jlpt-n3-運-1981": {
-    "kana": "かいぎ で うん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de un nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と うん について しばらく はなし た",
+    "romaji": "tomodachi to un nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-過去-2325": {
-    "kana": "かいぎ で かこ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kako nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かこ について しばらく はなし た",
+    "romaji": "tomodachi to kako nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-道路-2384": {
-    "kana": "かいぎ で どうろ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de douro nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と どうろ について しばらく はなし た",
+    "romaji": "tomodachi to douro nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-違い-1969": {
     "kana": "かいぎ で ちがい について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de chigai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-遠慮-2400": {
-    "kana": "ともだち と えんりょ について しばらく はなし た",
-    "romaji": "tomodachi to enryo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で えんりょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de enryo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-適する-2368": {
     "kana": "よてい が てきする ひ を えらん で みんな で あつまっ た",
     "romaji": "yotei ga tekisuru hi o eran de minna de atsuma ta"
   },
   "jlpt-n3-適用-1971": {
-    "kana": "ともだち と てきよう について しばらく はなし た",
-    "romaji": "tomodachi to tekiyou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てきよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tekiyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-選択-2053": {
-    "kana": "ともだち と せんたく について しばらく はなし た",
-    "romaji": "tomodachi to sentaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で せんたく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sentaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-避ける-2097": {
-    "kana": "あんぜん に さける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sakeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で さける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sakeru koto ni shi ta"
   },
   "jlpt-n3-邪魔-2264": {
     "kana": "じゃま な ようす で かれ わ さいご まで はなし を きい た",
@@ -10096,12 +10096,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de yuubin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-都会-2291": {
-    "kana": "ともだち と とかい について しばらく はなし た",
-    "romaji": "tomodachi to tokai nitsuite shibaraku hanashi ta"
+    "kana": "とかい で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "tokai de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n3-酸素-2201": {
-    "kana": "かいぎ で さんそ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sanso nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と さんそ について しばらく はなし た",
+    "romaji": "tomodachi to sanso nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-重要-2275": {
     "kana": "じゅうよう な しょるい を わすれ ず に もっ て いっ た",
@@ -10112,8 +10112,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni ryou o sukoshi tabe ta"
   },
   "jlpt-n3-金融-2446": {
-    "kana": "ともだち と きんゆう について しばらく はなし た",
-    "romaji": "tomodachi to kin'yuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きんゆう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kin'yuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-金銭-2440": {
     "kana": "かいぎ で きんせん について ぐたい てき に はなしあっ た",
@@ -10128,28 +10128,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de kagi o mitsuke ta"
   },
   "jlpt-n3-閉じる-2249": {
-    "kana": "ひつよう な ばめん で とじる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tojiru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て とじる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tojiru"
   },
   "jlpt-n3-開始-2206": {
     "kana": "かいぎ で かいし について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kaishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-間-1962": {
-    "kana": "しゅうまつ に ま え いく みち を しらべ た",
-    "romaji": "shuumatsu ni ma e iku michi o shirabe ta"
+    "kana": "つくえ の よこ に ほんだな を おく ま を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku ma o tsuku ta"
   },
   "jlpt-n3-関する-2426": {
-    "kana": "ひつよう な ばめん で かんする ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kansuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かんする",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kansuru"
   },
   "jlpt-n3-関心-2006": {
     "kana": "ともだち と かんしん について しばらく はなし た",
     "romaji": "tomodachi to kanshin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-防ぐ-2510": {
-    "kana": "あんぜん に ふせぐ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni fusegu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ふせぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de fusegu koto ni shi ta"
   },
   "jlpt-n3-降ろす-2225": {
     "kana": "たな から にもつ を おろす とき わ あしもと に き を つける",
@@ -10160,8 +10160,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to genkai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-除く-1946": {
-    "kana": "ひつよう な ばめん で のぞく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nozoku houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で のぞく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nozoku koto ni shi ta"
   },
   "jlpt-n3-陸-2230": {
     "kana": "かいぎ で りく について ぐたい てき に はなしあっ た",
@@ -10176,12 +10176,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou wa zuibun tsukare ta node hayame ni ne ta"
   },
   "jlpt-n3-障害-2372": {
-    "kana": "ともだち と しょうがい について しばらく はなし た",
-    "romaji": "tomodachi to shougai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しょうがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-隠れる-2339": {
-    "kana": "あんぜん に かくれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kakureru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かくれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kakureru koto ni shi ta"
   },
   "jlpt-n3-離れる-2310": {
     "kana": "しゅうまつ に ともだち の いえ え はなれる よてい だ",
@@ -10196,36 +10196,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de juyou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-震える-1965": {
-    "kana": "あんぜん に ふるえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni furueru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふるえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te furueru"
   },
   "jlpt-n3-青年-2231": {
     "kana": "ともだち と せいねん について しばらく はなし た",
     "romaji": "tomodachi to seinen nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-面倒-2256": {
-    "kana": "めんどう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "mendou na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "めんどう な てん を さき に せつめい し た",
+    "romaji": "mendou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-革-1953": {
-    "kana": "ともだち と かわ について しばらく はなし た",
-    "romaji": "tomodachi to kawa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-頃-2450": {
     "kana": "ころ に だいじ な よてい が はいっ て いる",
     "romaji": "koro ni daiji na yotei ga hai te iru"
   },
   "jlpt-n3-順-2074": {
-    "kana": "ともだち と じゅん について しばらく はなし た",
-    "romaji": "tomodachi to jun nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じゅん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jun nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-順調-2319": {
     "kana": "じゅんちょう な てん を さき に せつめい し た",
     "romaji": "junchou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n3-預ける-2061": {
-    "kana": "ひつよう な ばめん で あづける ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de azukeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あづける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de azukeru koto ni shi ta"
   },
   "jlpt-n3-頬-2015": {
     "kana": "ほお が いたく て きょう わ はやめ に やすん だ",
@@ -10236,12 +10236,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to zutsuu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n3-額-2408": {
-    "kana": "ともだち と がく について しばらく はなし た",
-    "romaji": "tomodachi to gaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で がく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-願い-1943": {
-    "kana": "ともだち と ねがい について しばらく はなし た",
-    "romaji": "tomodachi to negai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ねがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de negai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-風呂-2159": {
     "kana": "しゅうまつ に ふろ え いく みち を しらべ た",
@@ -10252,8 +10252,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no fuukei o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n3-飛行-2098": {
-    "kana": "ともだち と ひこう について しばらく はなし た",
-    "romaji": "tomodachi to hikou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ひこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hikou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n3-食卓-2105": {
     "kana": "しりょう の しょくたく に すうじ を まとめ た",
@@ -10272,12 +10272,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni shokumotsu o sukoshi tabe ta"
   },
   "jlpt-n3-飼う-2140": {
-    "kana": "ひつよう な ばめん で かう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kau houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kau koto ni shi ta"
   },
   "jlpt-n3-飽きる-1993": {
-    "kana": "あんぜん に あきる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni akiru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で あきる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de akiru koto ni shi ta"
   },
   "jlpt-n3-首相-2282": {
     "kana": "ともだち と しゅしょう について しばらく はなし た",
@@ -10312,12 +10312,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no bokujou de sakana o mi ta"
   },
   "jlpt-n4-お-金持ち-2600": {
-    "kana": "ともだち と お かねもち について しばらく はなし た",
-    "romaji": "tomodachi to o kanemochi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で お かねもち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o kanemochi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-お土産-2687": {
-    "kana": "かいぎ で お みやげ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de o miyage nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と お みやげ について しばらく はなし た",
+    "romaji": "tomodachi to o miyage nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お嬢さん-2558": {
     "kana": "こまっ て いる おじょうさん に こえ を かけ た",
@@ -10328,16 +10328,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to o taku nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-お礼-2644": {
-    "kana": "ともだち と おれい について しばらく はなし た",
-    "romaji": "tomodachi to orei nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おれい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de orei nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-お祝い-2563": {
-    "kana": "ともだち と おいわい について しばらく はなし た",
-    "romaji": "tomodachi to oiwai nitsuite shibaraku hanashi ta"
+    "kana": "ちいき の おいわい に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no oiwai ni ooku no hito ga atsuma ta"
   },
   "jlpt-n4-お祭り-2689": {
-    "kana": "かいぎ で おまつり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de omatsuri nitsuite gutai teki ni hanashia ta"
+    "kana": "ちいき の お まつり に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no o matsuri ni ooku no hito ga atsuma ta"
   },
   "jlpt-n4-お見舞い-2691": {
     "kana": "ともだち と お みまい について しばらく はなし た",
@@ -10352,12 +10352,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ichi do ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-一生懸命-2564": {
-    "kana": "いっしょうけんめい な てん を さき に せつめい し た",
-    "romaji": "isshoukenmei na ten o saki ni setsumei shi ta"
+    "kana": "いっしょうけんめい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "isshoukenmei na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-丁寧-2584": {
-    "kana": "ていねい な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "teinei na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "ていねい な てん を さき に せつめい し た",
+    "romaji": "teinei na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-上る-2699": {
     "kana": "さか を のぼる と うみ が みえ た",
@@ -10380,8 +10380,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kodomo o sewa suru hito ga mou ichi nin hitsuyou da ta"
   },
   "jlpt-n4-両方-2744": {
-    "kana": "かいぎ で りょうほう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ryouhou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と りょうほう について しばらく はなし た",
+    "romaji": "tomodachi to ryouhou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-久しぶり-2800": {
     "kana": "ひさしぶり に だいじ な よてい が はいっ て いる",
@@ -10392,16 +10392,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kazoku o norikaeru kimochi o taisetsu ni shi te iru"
   },
   "jlpt-n4-乾く-2630": {
-    "kana": "ひつよう な ばめん で かわく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kawaku houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で かわく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kawaku koto ni shi ta"
   },
   "jlpt-n4-予定-2665": {
-    "kana": "かいぎ で よてい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yotei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と よてい について しばらく はなし た",
+    "romaji": "tomodachi to yotei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-事故-2749": {
-    "kana": "かいぎ で じこ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de jiko nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と じこ について しばらく はなし た",
+    "romaji": "tomodachi to jiko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-二階建て-2787": {
     "kana": "に かい だて の はこ を たな に きれい に ならべ た",
@@ -10428,12 +10428,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na shikata o asa no uchi ni atsume ta"
   },
   "jlpt-n4-付く-2561": {
-    "kana": "あんぜん に つく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsuku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuku"
   },
   "jlpt-n4-代わり-2603": {
-    "kana": "かいぎ で かわり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kawari nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かわり について しばらく はなし た",
+    "romaji": "tomodachi to kawari nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-以上-2592": {
     "kana": "かいぎ で いじょう について ぐたい てき に はなしあっ た",
@@ -10448,28 +10448,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de kaiwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-会議室-2762": {
-    "kana": "しゅうまつ に かいぎ しつ え いく みち を しらべ た",
-    "romaji": "shuumatsu ni kaigi shitsu e iku michi o shirabe ta"
+    "kana": "かいぎ しつ で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "kaigi shitsu de atarashii jourei nitsuite giron sa re ta"
   },
   "jlpt-n4-似る-2747": {
-    "kana": "にる な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "niru na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "にる な てん を さき に せつめい し た",
+    "romaji": "niru na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-住所-2655": {
     "kana": "きょう の じゅうしょ わ おもっ た より はやく おわっ た",
     "romaji": "kyou no juusho wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-例えば-2755": {
-    "kana": "たとえば へんじ が とどい た ので あんしん し た",
-    "romaji": "tatoeba henji ga todoi ta node anshin shi ta"
+    "kana": "たとえば よてい を へんこう し た",
+    "romaji": "tatoeba yotei o henkou shi ta"
   },
   "jlpt-n4-倒れる-2823": {
     "kana": "つよい かぜ で き が たおれる おと が し た",
     "romaji": "tsuyoi kaze de ki ga taoreru oto ga shi ta"
   },
   "jlpt-n4-僕-2775": {
-    "kana": "ぼく わ しずか に うなずい た",
-    "romaji": "boku wa shizuka ni unazui ta"
+    "kana": "ぼく に みち を たずね た",
+    "romaji": "boku ni michi o tazune ta"
   },
   "jlpt-n4-優しい-2638": {
     "kana": "やさしい ひ だっ た が さいご まで あるい た",
@@ -10488,20 +10488,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru koumuin ni koe o kake ta"
   },
   "jlpt-n4-最初-2578": {
-    "kana": "ともだち と さいしょ について しばらく はなし た",
-    "romaji": "tomodachi to saisho nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で さいしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saisho nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-写す-2679": {
-    "kana": "ひつよう な ばめん で うつす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de utsusu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うつす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te utsusu"
   },
   "jlpt-n4-冷える-2684": {
     "kana": "すうぷ が ひえる まで すこし まっ た",
     "romaji": "suupu ga hieru made sukoshi ma ta"
   },
   "jlpt-n4-出席-2667": {
-    "kana": "あんぜん に しゅっせき する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shusseki suru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しゅっせき する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shusseki suru koto ni shi ta"
   },
   "jlpt-n4-割れる-2795": {
     "kana": "がらす が われる おと が し て みんな が ふりむい た",
@@ -10512,20 +10512,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "wariai no tetsuzuki o kigen made ni sumase ta"
   },
   "jlpt-n4-動く-2737": {
-    "kana": "ひつよう な ばめん で うごく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ugoku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うごく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ugoku"
   },
   "jlpt-n4-厳しい-2637": {
     "kana": "きびしい ひ だっ た が さいご まで あるい た",
     "romaji": "kibishii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-参る-2738": {
-    "kana": "つよい かぜ で き が まいる おと が し た",
-    "romaji": "tsuyoi kaze de ki ga mairu oto ga shi ta"
+    "kana": "まいる について べつ の かくど から わだい が ひろがっ た",
+    "romaji": "mairu nitsuite betsu no kakudo kara wadai ga hiroga ta"
   },
   "jlpt-n4-取り替える-2768": {
-    "kana": "ひつよう な ばめん で とりかえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de torikaeru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て とりかえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te torikaeru"
   },
   "jlpt-n4-受ける-2557": {
     "kana": "しんらい を うける はつげん わ さけ た ほう が いい",
@@ -10536,16 +10536,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de uketsuke o mitsuke ta"
   },
   "jlpt-n4-召し上がる-2719": {
-    "kana": "あんぜん に めしあがる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni meshiagaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て めしあがる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te meshiagaru"
   },
   "jlpt-n4-合う-2617": {
     "kana": "よてい が あう ひ を えらん で みんな で あつまっ た",
     "romaji": "yotei ga au hi o eran de minna de atsuma ta"
   },
   "jlpt-n4-向かう-2607": {
-    "kana": "しゅうまつ に ともだち の いえ え むかう よてい だ",
-    "romaji": "shuumatsu ni tomodachi no ie e mukau yotei da"
+    "kana": "しゅうまつ に ともだち の いえ え しごと に むかう よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e shigoto ni mukau yotei da"
   },
   "jlpt-n4-周り-2650": {
     "kana": "かいぎ で まわり について ぐたい てき に はなしあっ た",
@@ -10556,40 +10556,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chikaku no mise de miso o mitsuke ta"
   },
   "jlpt-n4-地理-2746": {
-    "kana": "かいぎ で ちり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de chiri nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ちり について しばらく はなし た",
+    "romaji": "tomodachi to chiri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-坂-2702": {
-    "kana": "かいぎ で さか について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de saka nitsuite gutai teki ni hanashia ta"
+    "kana": "そつぎょう わ じんせい の おおきな さか に なる",
+    "romaji": "sotsugyou wa jinsei no ookina saka ni naru"
   },
   "jlpt-n4-場合-2730": {
     "kana": "ともだち と ばあい について しばらく はなし た",
     "romaji": "tomodachi to baai nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-増える-2608": {
-    "kana": "ひつよう な ばめん で ふえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de fueru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ふえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de fueru koto ni shi ta"
   },
   "jlpt-n4-壁-2668": {
-    "kana": "ともだち と かべ について しばらく はなし た",
-    "romaji": "tomodachi to kabe nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かべ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kabe nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-壊れる-2725": {
     "kana": "つよい かぜ で き が こわれる おと が し た",
     "romaji": "tsuyoi kaze de ki ga kowareru oto ga shi ta"
   },
   "jlpt-n4-変-2613": {
-    "kana": "へん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "hen na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "へん な てん を さき に せつめい し た",
+    "romaji": "hen na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-変える-2580": {
-    "kana": "あんぜん に かえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kaeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て かえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kaeru"
   },
   "jlpt-n4-大体-2646": {
-    "kana": "だいたい へんじ が とどい た ので あんしん し た",
-    "romaji": "daitai henji ga todoi ta node anshin shi ta"
+    "kana": "だいたい よてい を へんこう し た",
+    "romaji": "daitai yotei o henkou shi ta"
   },
   "jlpt-n4-大分-2641": {
     "kana": "きょう わ だいぶ つかれ た ので はやめ に ね た",
@@ -10600,12 +10600,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru daigakusei ni koe o kake ta"
   },
   "jlpt-n4-失敗-2622": {
-    "kana": "ともだち と しっぱい について しばらく はなし た",
-    "romaji": "tomodachi to shippai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で しっぱい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shippai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-妻-2778": {
-    "kana": "ともだち と つま について しばらく はなし た",
-    "romaji": "tomodachi to tsuma nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で つま について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuma nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-子-2721": {
     "kana": "こまっ て いる こ に こえ を かけ た",
@@ -10636,8 +10636,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi no ie e yoru yotei da"
   },
   "jlpt-n4-寺-2797": {
-    "kana": "かいぎ で てら について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tera nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と てら について しばらく はなし た",
+    "romaji": "tomodachi to tera nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-小学校-2711": {
     "kana": "しゅうまつ に しょうがっこう え いく みち を しらべ た",
@@ -10656,28 +10656,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omoi nimotsu o eki made todokeru hito o sagashi ta"
   },
   "jlpt-n4-屋上-2686": {
-    "kana": "ともだち と おくじょう について しばらく はなし た",
-    "romaji": "tomodachi to okujou nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おくじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de okujou nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-工場-2774": {
-    "kana": "かいぎ で こうじょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koujou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうじょう について しばらく はなし た",
+    "romaji": "tomodachi to koujou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-工業-2810": {
-    "kana": "かいぎ で こうぎょう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kougyou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうぎょう について しばらく はなし た",
+    "romaji": "tomodachi to kougyou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-市-2735": {
-    "kana": "ともだち と し について しばらく はなし た",
-    "romaji": "tomodachi to shi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で し について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-市民-2560": {
     "kana": "しゅうまつ に しみん え いく みち を しらべ た",
     "romaji": "shuumatsu ni shimin e iku michi o shirabe ta"
   },
   "jlpt-n4-布団-2785": {
-    "kana": "ともだち と ふとん について しばらく はなし た",
-    "romaji": "tomodachi to futon nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ふとん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de futon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-建てる-2799": {
     "kana": "しゅうまつ に ともだち と たな を たてる けいかく を たて た",
@@ -10692,40 +10692,40 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni yakunitatsu to koe o kake ta"
   },
   "jlpt-n4-彼-2777": {
-    "kana": "かれ に みち を たずね た",
-    "romaji": "kare ni michi o tazune ta"
+    "kana": "かれ わ しずか に うなずい た",
+    "romaji": "kare wa shizuka ni unazui ta"
   },
   "jlpt-n4-彼ら-2634": {
-    "kana": "かれら に みち を たずね た",
-    "romaji": "karera ni michi o tazune ta"
+    "kana": "かれら わ しずか に うなずい た",
+    "romaji": "karera wa shizuka ni unazui ta"
   },
   "jlpt-n4-御主人-2756": {
-    "kana": "ともだち と ご しゅじん について しばらく はなし た",
-    "romaji": "tomodachi to go shujin nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ご しゅじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de go shujin nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-復習-2566": {
     "kana": "こうじょう に ひつよう な ふくしゅう を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na fukushuu o asa no uchi ni atsume ta"
   },
   "jlpt-n4-怒る-2587": {
-    "kana": "あんぜん に おこる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni okoru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おこる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de okoru koto ni shi ta"
   },
   "jlpt-n4-怖い-2555": {
     "kana": "その せつめい わ すこし こわい と かんじ た",
     "romaji": "sono setsumei wa sukoshi kowai to kanji ta"
   },
   "jlpt-n4-思い出す-2713": {
-    "kana": "あんぜん に おもいだす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni omoidasu tame ni saki ni junbi o shi ta"
+    "kana": "あたらしい かんじ を まいにち いつつ ずつ おもいだす",
+    "romaji": "atarashii kanji o mainichi itsutsu zutsu omoidasu"
   },
   "jlpt-n4-思う-2625": {
-    "kana": "ひつよう な ばめん で おもう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de omou houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おもう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te omou"
   },
   "jlpt-n4-急-2567": {
-    "kana": "きゅう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kyuu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "きゅう な てん を さき に せつめい し た",
+    "romaji": "kyuu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-恥ずかしい-2821": {
     "kana": "その せつめい わ すこし はずかしい と かんじ た",
@@ -10740,28 +10740,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no iken o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n4-戦争-2765": {
-    "kana": "かいぎ で せんそう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de sensou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と せんそう について しばらく はなし た",
+    "romaji": "tomodachi to sensou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-手伝う-2574": {
-    "kana": "ひつよう な ばめん で てつだう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tetsudau houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て てつだう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tetsudau"
   },
   "jlpt-n4-打つ-2822": {
-    "kana": "ひつよう な ばめん で うつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de utsu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te utsu"
   },
   "jlpt-n4-払う-2745": {
-    "kana": "ひつよう な ばめん で はらう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de harau houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はらう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te harau"
   },
   "jlpt-n4-技術-2703": {
-    "kana": "ともだち と ぎじゅつ について しばらく はなし た",
-    "romaji": "tomodachi to gijutsu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぎじゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gijutsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-投げる-2579": {
-    "kana": "ひつよう な ばめん で なげる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nageru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nageru"
   },
   "jlpt-n4-折る-2723": {
     "kana": "がらす が おる おと が し て みんな が ふりむい た",
@@ -10776,16 +10776,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "heya no oshiire o kirei ni totonoe ta"
   },
   "jlpt-n4-招待-2776": {
-    "kana": "あんぜん に しょうたい する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shoutai suru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しょうたい する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shoutai suru koto ni shi ta"
   },
   "jlpt-n4-指輪-2568": {
-    "kana": "かいぎ で ゆびわ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de yubiwa nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ゆびわ について しばらく はなし た",
+    "romaji": "tomodachi to yubiwa nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-捕まえる-2727": {
-    "kana": "あんぜん に つかまえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsukamaeru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で つかまえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tsukamaeru koto ni shi ta"
   },
   "jlpt-n4-掛ける-2593": {
     "kana": "うわぎ を かける ばしょ を いりぐち の ちかく に つくっ た",
@@ -10800,8 +10800,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shinrai o koshou suru hatsugen wa sake ta hou ga ii"
   },
   "jlpt-n4-文学-2598": {
-    "kana": "ともだち と ぶんがく について しばらく はなし た",
-    "romaji": "tomodachi to bungaku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ぶんがく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bungaku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-文法-2741": {
     "kana": "ともだち と ぶんぽう について しばらく はなし た",
@@ -10828,8 +10828,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiruma ni daiji na yotei ga hai te iru"
   },
   "jlpt-n4-時代-2695": {
-    "kana": "ともだち と じだい について しばらく はなし た",
-    "romaji": "tomodachi to jidai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で じだい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jidai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-景色-2642": {
     "kana": "ともだち と けしき について しばらく はなし た",
@@ -10840,48 +10840,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koujou ni hitsuyou na hayashi o asa no uchi ni atsume ta"
   },
   "jlpt-n4-枝-2786": {
-    "kana": "かいぎ で えだ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de eda nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えだ について しばらく はなし た",
+    "romaji": "tomodachi to eda nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-案内-2817": {
-    "kana": "あんぜん に あんない する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni annai suru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あんない する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te annai suru"
   },
   "jlpt-n4-棚-2818": {
     "kana": "へや の たな を きれい に ととのえ た",
     "romaji": "heya no tana o kirei ni totonoe ta"
   },
   "jlpt-n4-森-2734": {
-    "kana": "ともだち と もり について しばらく はなし た",
-    "romaji": "tomodachi to mori nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mori nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-植える-2669": {
-    "kana": "ひつよう な ばめん で うえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de ueru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ueru"
   },
   "jlpt-n4-楽む-2789": {
     "kana": "きゅうじつ に ともだち と げえむ に らく む じかん を たのしん だ",
     "romaji": "kyuujitsu ni tomodachi to geemu ni raku mu jikan o tanoshin da"
   },
   "jlpt-n4-機会-2626": {
-    "kana": "ともだち と きかい について しばらく はなし た",
-    "romaji": "tomodachi to kikai nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-止む-2764": {
-    "kana": "ひつよう な ばめん で やむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de yamu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て やむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te yamu"
   },
   "jlpt-n4-歯医者-2662": {
     "kana": "ともだち と はいしゃ について しばらく はなし た",
     "romaji": "tomodachi to haisha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-歴史-2813": {
-    "kana": "ともだち と れきし について しばらく はなし た",
-    "romaji": "tomodachi to rekishi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で れきし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rekishi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-残る-2604": {
-    "kana": "あんぜん に のこる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nokoru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て のこる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nokoru"
   },
   "jlpt-n4-残念-2781": {
     "kana": "ざんねん な てん を さき に せつめい し た",
@@ -10908,12 +10908,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "haru ni yogoreru koro ekimae no sakura ga saki hajimeru"
   },
   "jlpt-n4-決める-2792": {
-    "kana": "ひつよう な ばめん で きめる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de kimeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で きめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kimeru koto ni shi ta"
   },
   "jlpt-n4-汽車-2623": {
-    "kana": "かいぎ で きしゃ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kisha nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きしゃ について しばらく はなし た",
+    "romaji": "tomodachi to kisha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-沸く-2771": {
     "kana": "ゆ が わく まで だいどころ で すこし まっ た",
@@ -10936,8 +10936,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to chuusha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-注意-2656": {
-    "kana": "ともだち と ちゅうい について しばらく はなし た",
-    "romaji": "tomodachi to chuui nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ちゅうい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chuui nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-浅い-2690": {
     "kana": "その せつめい わ すこし あさい と かんじ た",
@@ -10968,12 +10968,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de manga nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-火事-2666": {
-    "kana": "かいぎ で かじ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kaji nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かじ について しばらく はなし た",
+    "romaji": "tomodachi to kaji nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-点-2664": {
-    "kana": "ともだち と てん について しばらく はなし た",
-    "romaji": "tomodachi to ten nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で てん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ten nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-為-2704": {
     "kana": "きゅうけい ちゅう に あたたかい ため を いっぱい のん だ",
@@ -11008,28 +11008,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no you wa omo ta yori hayaku owa ta"
   },
   "jlpt-n4-田舎-2796": {
-    "kana": "ともだち と いなか について しばらく はなし た",
-    "romaji": "tomodachi to inaka nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で いなか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inaka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-申し上げる-2683": {
-    "kana": "ひつよう な ばめん で もうしあげる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de moushiageru houhou o kangae ta"
+    "kana": "しちょう わ かいけん で じにん の いこう を もうしあげる",
+    "romaji": "shichou wa kaiken de jinin no ikou o moushiageru"
   },
   "jlpt-n4-申す-2621": {
-    "kana": "ひつよう な ばめん で もうす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mousu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て もうす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mousu"
   },
   "jlpt-n4-男性-2801": {
-    "kana": "かいぎ で だんせい について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de dansei nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と だんせい について しばらく はなし た",
+    "romaji": "tomodachi to dansei nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-留守-2714": {
     "kana": "かいぎ で るす について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de rusu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-番組-2726": {
-    "kana": "かいぎ で ばんぐみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de bangumi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と ばんぐみ について しばらく はなし た",
+    "romaji": "tomodachi to bangumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-痩せる-2685": {
     "kana": "はる に やせる ころ えきまえ の さくら が さき はじめる",
@@ -11040,20 +11040,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de hatsuon nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-皆-2627": {
-    "kana": "みな に みち を たずね た",
-    "romaji": "mina ni michi o tazune ta"
+    "kana": "みな わ しずか に うなずい た",
+    "romaji": "mina wa shizuka ni unazui ta"
   },
   "jlpt-n4-盗む-2701": {
     "kana": "よる に ゆっくり ぬすむ じかん を つくっ た",
     "romaji": "yoru ni yukkuri nusumu jikan o tsuku ta"
   },
   "jlpt-n4-盛ん-2767": {
-    "kana": "さかん な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "sakan na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "さかん な てん を さき に せつめい し た",
+    "romaji": "sakan na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-直す-2614": {
-    "kana": "あんぜん に なおす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni naosu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なおす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te naosu"
   },
   "jlpt-n4-直る-2570": {
     "kana": "しゅうまつ に ともだち の いえ え なおる よてい だ",
@@ -11072,8 +11072,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to mannaka nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-眠る-2753": {
-    "kana": "ひつよう な ばめん で ねむる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nemuru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ねむる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nemuru koto ni shi ta"
   },
   "jlpt-n4-着物-2733": {
     "kana": "さむく なっ た ので きもの を はおっ た",
@@ -11084,8 +11084,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "sensei ga shiraseru hon wa totemo yomi yasui"
   },
   "jlpt-n4-石-2779": {
-    "kana": "かいぎ で いし について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ishi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いし について しばらく はなし た",
+    "romaji": "tomodachi to ishi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-砂-2653": {
     "kana": "ゆうがた に なる と すな が とても きれい に みえ た",
@@ -11112,8 +11112,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de sobo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-祖父-2596": {
-    "kana": "ともだち と そふ について しばらく はなし た",
-    "romaji": "tomodachi to sofu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で そふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sofu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-神社-2582": {
     "kana": "かいぎ で じんじゃ について ぐたい てき に はなしあっ た",
@@ -11124,12 +11124,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "totsuzen no shirase ni tsuyoi kuuki o oboe ta"
   },
   "jlpt-n4-立てる-2812": {
-    "kana": "ひつよう な ばめん で たてる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tateru houhou o kangae ta"
+    "kana": "いりぐち に あたらしい あんない ばん を たてる",
+    "romaji": "iriguchi ni atarashii annai ban o tateru"
   },
   "jlpt-n4-笑う-2654": {
-    "kana": "ひつよう な ばめん で わらう ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de warau houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て わらう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te warau"
   },
   "jlpt-n4-簡単-2780": {
     "kana": "かんたん な ようす で かれ わ さいご まで はなし を きい た",
@@ -11144,48 +11144,48 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de shoukai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-終わり-2811": {
-    "kana": "ともだち と おわり について しばらく はなし た",
-    "romaji": "tomodachi to owari nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で おわり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de owari nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-経済-2591": {
     "kana": "かいぎ で けいざい について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de keizai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-経験-2806": {
-    "kana": "あんぜん に けいけん する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni keiken suru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て けいけん する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te keiken suru"
   },
   "jlpt-n4-絹-2586": {
-    "kana": "かいぎ で きぬ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kinu nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きぬ について しばらく はなし た",
+    "romaji": "tomodachi to kinu nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-続く-2601": {
     "kana": "がらす が つづく おと が し て みんな が ふりむい た",
     "romaji": "garasu ga tsuzuku oto ga shi te minna ga furimui ta"
   },
   "jlpt-n4-続ける-2715": {
-    "kana": "あんぜん に つづける ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tsuzukeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つづける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuzukeru"
   },
   "jlpt-n4-美しい-2569": {
     "kana": "うつくしい ひ だっ た が さいご まで あるい た",
     "romaji": "utsukushii hi da ta ga saigo made arui ta"
   },
   "jlpt-n4-聞こえる-2759": {
-    "kana": "きこえる な てん を さき に せつめい し た",
-    "romaji": "kikoeru na ten o saki ni setsumei shi ta"
+    "kana": "きこえる な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kikoeru na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n4-腕-2697": {
-    "kana": "ともだち と うで について しばらく はなし た",
-    "romaji": "tomodachi to ude nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で うで について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ude nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-致す-2589": {
-    "kana": "ひつよう な ばめん で いたす ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de itasu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いたす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te itasu"
   },
   "jlpt-n4-興味-2694": {
-    "kana": "かいぎ で きょうみ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kyoumi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と きょうみ について しばらく はなし た",
+    "romaji": "tomodachi to kyoumi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-花見-2639": {
     "kana": "しりょう の はなみ に わ じぜん の よやく が ひつよう だ",
@@ -11208,8 +11208,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to ha nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-虫-2611": {
-    "kana": "ともだち と むし について しばらく はなし た",
-    "romaji": "tomodachi to mushi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で むし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mushi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-血-2782": {
     "kana": "かいぎ で ち について ぐたい てき に はなしあっ た",
@@ -11228,28 +11228,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "seiyou no sora ga yuuyake de akaku soma ta"
   },
   "jlpt-n4-見える-2682": {
-    "kana": "ひつよう な ばめん で みえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mieru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で みえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mieru koto ni shi ta"
   },
   "jlpt-n4-見つかる-2672": {
-    "kana": "ひつよう な ばめん で みつかる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mitsukaru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で みつかる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mitsukaru koto ni shi ta"
   },
   "jlpt-n4-見つける-2675": {
     "kana": "しゅうまつ に ともだち の いえ え みつける よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e mitsukeru yotei da"
   },
   "jlpt-n4-規則-2585": {
-    "kana": "ともだち と きそく について しばらく はなし た",
-    "romaji": "tomodachi to kisoku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kisoku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-親-2815": {
     "kana": "しんらい できる おや に しゅうり を たのん だ",
     "romaji": "shinrai dekiru oya ni shuuri o tanon da"
   },
   "jlpt-n4-触る-2659": {
-    "kana": "ひつよう な ばめん で さわる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de sawaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sawaru"
   },
   "jlpt-n4-訪ねる-2562": {
     "kana": "しゅうまつ に ともだち の いえ え たずねる よてい だ",
@@ -11264,16 +11264,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de shiai nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-試験-2784": {
-    "kana": "かいぎ で しけん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de shiken nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と しけん について しばらく はなし た",
+    "romaji": "tomodachi to shiken nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-調べる-2706": {
-    "kana": "ひつよう な ばめん で しらべる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de shiraberu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で しらべる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shiraberu koto ni shi ta"
   },
   "jlpt-n4-講堂-2739": {
-    "kana": "かいぎ で こうどう について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de koudou nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と こうどう について しばらく はなし た",
+    "romaji": "tomodachi to koudou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-警察-2648": {
     "kana": "しゅうまつ に けいさつ え いく みち を しらべ た",
@@ -11284,8 +11284,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to akanbou nitsuite shibaraku hanashi ta"
   },
   "jlpt-n4-起す-2757": {
-    "kana": "あんぜん に おこす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni okosu tame ni saki ni junbi o shi ta"
+    "kana": "いりぐち に あたらしい あんない ばん を おこす",
+    "romaji": "iriguchi ni atarashii annai ban o okosu"
   },
   "jlpt-n4-趣味-2707": {
     "kana": "ともだち と しゅみ について しばらく はなし た",
@@ -11296,28 +11296,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaerigiwa ni tasu to koe o kake ta"
   },
   "jlpt-n4-足りる-2808": {
-    "kana": "ひつよう な ばめん で たりる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tariru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で たりる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tariru koto ni shi ta"
   },
   "jlpt-n4-踊る-2748": {
     "kana": "きゅうじつ に ともだち と げえむ に おどる じかん を たのしん だ",
     "romaji": "kyuujitsu ni tomodachi to geemu ni odoru jikan o tanoshin da"
   },
   "jlpt-n4-輸入-2692": {
-    "kana": "ひつよう な ばめん で ゆにゅう する ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de yunyuu suru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ゆにゅう する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yunyuu suru koto ni shi ta"
   },
   "jlpt-n4-辞典-2676": {
     "kana": "つくえ の うえ に じてん を おい て から でかけ た",
     "romaji": "tsukue no ue ni jiten o oi te kara dekake ta"
   },
   "jlpt-n4-近所-2754": {
-    "kana": "ともだち と きんじょ について しばらく はなし た",
-    "romaji": "tomodachi to kinjo nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きんじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinjo nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-途中-2717": {
-    "kana": "ともだち と とちゅう について しばらく はなし た",
-    "romaji": "tomodachi to tochuu nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で とちゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tochuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-通る-2732": {
     "kana": "あたらしい どうぐ を とおる ばめん が ふえ て いる",
@@ -11332,8 +11332,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omoi nimotsu o eki made hakobu hito o sagashi ta"
   },
   "jlpt-n4-運動-2681": {
-    "kana": "あんぜん に うんどう する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni undou suru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て うんどう する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te undou suru"
   },
   "jlpt-n4-運転-2722": {
     "kana": "あたらしい どうぐ を うんてん する ばめん が ふえ て いる",
@@ -11344,36 +11344,36 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de unten shu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n4-遠く-2790": {
-    "kana": "ひつよう な ばめん で とおく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tooku houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とおく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tooku koto ni shi ta"
   },
   "jlpt-n4-遠慮-2773": {
-    "kana": "ひつよう な ばめん で えんりょ する ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de enryo suru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で えんりょ する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de enryo suru koto ni shi ta"
   },
   "jlpt-n4-適当-2595": {
-    "kana": "てきとう な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "tekitou na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "てきとう な てん を さき に せつめい し た",
+    "romaji": "tekitou na ten o saki ni setsumei shi ta"
   },
   "jlpt-n4-釣る-2798": {
-    "kana": "ひつよう な ばめん で つる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsuru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuru"
   },
   "jlpt-n4-間-2820": {
-    "kana": "ま に だいじ な よてい が はいっ て いる",
-    "romaji": "ma ni daiji na yotei ga hai te iru"
+    "kana": "ま について べつ の かくど から わだい が ひろがっ た",
+    "romaji": "ma nitsuite betsu no kakudo kara wadai ga hiroga ta"
   },
   "jlpt-n4-間違える-2760": {
-    "kana": "ひつよう な ばめん で まちがえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de machigaeru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で まちがえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de machigaeru koto ni shi ta"
   },
   "jlpt-n4-降り出す-2766": {
-    "kana": "あんぜん に ふりだす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni furidasu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で ふりだす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de furidasu koto ni shi ta"
   },
   "jlpt-n4-集る-2645": {
-    "kana": "ひつよう な ばめん で たかる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de takaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て たかる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te takaru"
   },
   "jlpt-n4-雲-2553": {
     "kana": "ゆうがた に なる と くも が とても きれい に みえ た",
@@ -11388,8 +11388,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou wa hijou ni tsukare ta node hayame ni ne ta"
   },
   "jlpt-n4-食事-2616": {
-    "kana": "あんぜん に しょくじ する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shokuji suru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しょくじ する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shokuji suru"
   },
   "jlpt-n4-食料品-2583": {
     "kana": "ともだち と しょくりょう ひん について しばらく はなし た",
@@ -11412,12 +11412,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to otousan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-お皿-2883": {
-    "kana": "かいぎ で お さら について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de o sara nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と お さら について しばらく はなし た",
+    "romaji": "tomodachi to o sara nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-お茶-2828": {
-    "kana": "きゅうけい ちゅう に あたたかい おちゃ を いっぱい のん だ",
-    "romaji": "kyuukei chuu ni atatakai ocha o ippai non da"
+    "kana": "ちいき の おちゃ に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no ocha ni ooku no hito ga atsuma ta"
   },
   "jlpt-n5-お菓子-3036": {
     "kana": "ひる ごはん に おかし を すこし たべ た",
@@ -11440,8 +11440,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan nitori niku o sukoshi tabe ta"
   },
   "jlpt-n5-一つ-2946": {
-    "kana": "あんぜん に ひとつ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hitotsu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ひとつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hitotsu"
   },
   "jlpt-n5-一人-3075": {
     "kana": "いち にん で えいが を み に いっ た",
@@ -11472,28 +11472,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "nana no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-七つ-2858": {
-    "kana": "あんぜん に ななつ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nanatsu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ななつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nanatsu"
   },
   "jlpt-n5-万年筆-2926": {
     "kana": "かいぎ で まんねんひつ について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de mannenhitsu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-三つ-3081": {
-    "kana": "ひつよう な ばめん で みっつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de mittsu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で みっつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mittsu koto ni shi ta"
   },
   "jlpt-n5-上-3065": {
     "kana": "やまのうえ から まち ぜんたい が みえ た",
     "romaji": "yamanoue kara machi zentai ga mie ta"
   },
   "jlpt-n5-上げる-2964": {
-    "kana": "あんぜん に あげる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni ageru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て あげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ageru"
   },
   "jlpt-n5-上手-3077": {
-    "kana": "じょうず な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "jouzu na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "じょうず な てん を さき に せつめい し た",
+    "romaji": "jouzu na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-上着-3008": {
     "kana": "さむく なっ た ので うわぎ を はおっ た",
@@ -11504,12 +11504,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no shita ni kagi ga ochi te i ta"
   },
   "jlpt-n5-下手-2904": {
-    "kana": "へた な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "heta na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "へた な てん を さき に せつめい し た",
+    "romaji": "heta na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-両親-2933": {
-    "kana": "かいぎ で りょうしん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ryoushin nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と りょうしん について しばらく はなし た",
+    "romaji": "tomodachi to ryoushin nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-並ぶ-2838": {
     "kana": "よてい が ならぶ ひ を えらん で みんな で あつまっ た",
@@ -11520,16 +11520,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de naka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-乗る-3095": {
-    "kana": "ひつよう な ばめん で のる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de noru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て のる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te noru"
   },
   "jlpt-n5-九-2847": {
     "kana": "かいぎ で きゅう について ぐたい てき に はなしあっ た",
     "romaji": "kaigi de kyuu nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-二つ-3089": {
-    "kana": "ひつよう な ばめん で ふたつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de futatsu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ふたつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te futatsu"
   },
   "jlpt-n5-二十日-3056": {
     "kana": "に じゅう にち に だいじ な よてい が はいっ て いる",
@@ -11544,8 +11544,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "go no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-五つ-2914": {
-    "kana": "ひつよう な ばめん で いつつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de itsutsu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て いつつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te itsutsu"
   },
   "jlpt-n5-五日-3019": {
     "kana": "ご にち に だいじ な よてい が はいっ て いる",
@@ -11596,8 +11596,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hikui michi o yukkuri arui ta"
   },
   "jlpt-n5-住む-3012": {
-    "kana": "あんぜん に すむ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sumu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で すむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de sumu koto ni shi ta"
   },
   "jlpt-n5-体-3043": {
     "kana": "からだ が いたく て きょう わ はやめ に やすん だ",
@@ -11616,16 +11616,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni tomodachi to sakubun o mi ni i ta"
   },
   "jlpt-n5-便利-2851": {
-    "kana": "べんり な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "benri na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "べんり な てん を さき に せつめい し た",
+    "romaji": "benri na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-借りる-3005": {
     "kana": "あたらしい どうぐ を かりる ばめん が ふえ て いる",
     "romaji": "atarashii dougu o kariru bamen ga fue te iru"
   },
   "jlpt-n5-傘-2892": {
-    "kana": "かさ な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "kasa na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "かさ な てん を さき に せつめい し た",
+    "romaji": "kasa na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-元気-2996": {
     "kana": "げんき な まち を ゆっくり あるい た",
@@ -11652,8 +11652,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "shuumatsu ni kouen e iku michi o shirabe ta"
   },
   "jlpt-n5-六-2906": {
-    "kana": "ともだち と ろく について しばらく はなし た",
-    "romaji": "tomodachi to roku nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ろく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de roku nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-六日-2861": {
     "kana": "ろく にち に だいじ な よてい が はいっ て いる",
@@ -11672,8 +11672,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to reizouko nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-出す-2966": {
-    "kana": "あんぜん に だす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni dasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て だす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te dasu"
   },
   "jlpt-n5-分かる-2870": {
     "kana": "よる に ゆっくり わかる じかん を つくっ た",
@@ -11684,8 +11684,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni kippu o oi te kara dekake ta"
   },
   "jlpt-n5-初めて-2908": {
-    "kana": "はじめて よてい を へんこう し た",
-    "romaji": "hajimete yotei o henkou shi ta"
+    "kana": "はじめて へんじ が とどい た ので あんしん し た",
+    "romaji": "hajimete henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n5-動物-3040": {
     "kana": "ちかく の ぼくじょう で どうぶつ を み た",
@@ -11736,12 +11736,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyonen ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-取る-2846": {
-    "kana": "ひつよう な ばめん で とる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de toru houhou o kangae ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を とる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o toru"
   },
   "jlpt-n5-口-3006": {
-    "kana": "くち が いたく て きょう わ はやめ に やすん だ",
-    "romaji": "kuchi ga itaku te kyou wa hayame ni yasun da"
+    "kana": "えいが さい の くち に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no kuchi ni awase te machi ga nigiwa ta"
   },
   "jlpt-n5-台所-2830": {
     "kana": "しゅうまつ に だいどころ え いく みち を しらべ た",
@@ -11752,24 +11752,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "migi ga itaku te kyou wa hayame ni yasun da"
   },
   "jlpt-n5-向こう-3076": {
-    "kana": "あんぜん に むこ う ため に さき に じゅんび を し た",
-    "romaji": "anzen ni muko u tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で むこう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mukou koto ni shi ta"
   },
   "jlpt-n5-吸う-3082": {
-    "kana": "あんぜん に すう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni suu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て すう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te suu"
   },
   "jlpt-n5-吹く-3049": {
     "kana": "きゅうじつ に ともだち と げえむ に ふく じかん を たのしん だ",
     "romaji": "kyuujitsu ni tomodachi to geemu ni fuku jikan o tanoshin da"
   },
   "jlpt-n5-呼ぶ-3042": {
-    "kana": "あんぜん に よぶ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni yobu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て よぶ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te yobu"
   },
   "jlpt-n5-咲く-2969": {
-    "kana": "あんぜん に さく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni saku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te saku"
   },
   "jlpt-n5-問題-2827": {
     "kana": "かいぎ で もんだい について ぐたい てき に はなしあっ た",
@@ -11780,8 +11780,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yon no hako o tana ni kirei ni narabe ta"
   },
   "jlpt-n5-困る-2942": {
-    "kana": "ひつよう な ばめん で こまる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de komaru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て こまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te komaru"
   },
   "jlpt-n5-国-2990": {
     "kana": "しゅうまつ に くに え いく みち を しらべ た",
@@ -11804,8 +11804,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kare no koe o kii te kangaekata ga sukoshi kawa ta"
   },
   "jlpt-n5-売る-2836": {
-    "kana": "ひつよう な ばめん で うる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de uru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で うる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de uru koto ni shi ta"
   },
   "jlpt-n5-夏-3029": {
     "kana": "ゆうがた に なる と なつ が とても きれい に みえ た",
@@ -11832,8 +11832,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "ookina mise wa eki no chikaku ni aru"
   },
   "jlpt-n5-大人-3045": {
-    "kana": "おとな な てん を さき に せつめい し た",
-    "romaji": "otona na ten o saki ni setsumei shi ta"
+    "kana": "おとな な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "otona na yousu de kare wa saigo made hanashi o kii ta"
   },
   "jlpt-n5-大使館-3063": {
     "kana": "しゅうまつ に たいしかん え いく みち を しらべ た",
@@ -11844,8 +11844,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "taisetsu na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n5-大好き-3027": {
-    "kana": "だいすき な ようす で かれ わ さいご まで はなし を きい た",
-    "romaji": "daisuki na yousu de kare wa saigo made hanashi o kii ta"
+    "kana": "だいすき な てん を さき に せつめい し た",
+    "romaji": "daisuki na ten o saki ni setsumei shi ta"
   },
   "jlpt-n5-大学-2919": {
     "kana": "だいがく の はこ を たな に きれい に ならべ た",
@@ -11868,8 +11868,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "koma te iru imouto ni koe o kake ta"
   },
   "jlpt-n5-始まる-2941": {
-    "kana": "あんぜん に はじまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni hajimaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で はじまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hajimaru koto ni shi ta"
   },
   "jlpt-n5-学校-2975": {
     "kana": "しゅうまつ に がっこう え いく みち を しらべ た",
@@ -11884,8 +11884,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omo ta yori yasui mondai da ta"
   },
   "jlpt-n5-家-2842": {
-    "kana": "かいぎ で いえ について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de ie nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と いえ について しばらく はなし た",
+    "romaji": "tomodachi to ie nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-家族-2903": {
     "kana": "ともだち と かぞく について しばらく はなし た",
@@ -11904,16 +11904,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "chiisana mise wa eki no chikaku ni aru"
   },
   "jlpt-n5-少し-2918": {
-    "kana": "すこし よてい を へんこう し た",
-    "romaji": "sukoshi yotei o henkou shi ta"
+    "kana": "すこし へんじ が とどい た ので あんしん し た",
+    "romaji": "sukoshi henji ga todoi ta node anshin shi ta"
   },
   "jlpt-n5-山-2970": {
     "kana": "ゆうがた に なる と やま が とても きれい に みえ た",
     "romaji": "yuugata ni naru to yama ga totemo kirei ni mie ta"
   },
   "jlpt-n5-差す-2897": {
-    "kana": "あんぜん に さす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni sasu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て さす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sasu"
   },
   "jlpt-n5-帰る-2958": {
     "kana": "しゅうまつ に ともだち の いえ え かえる よてい だ",
@@ -11928,8 +11928,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiroi michi o yukkuri arui ta"
   },
   "jlpt-n5-座る-2862": {
-    "kana": "あんぜん に すわる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni suwaru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で すわる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de suwaru koto ni shi ta"
   },
   "jlpt-n5-庭-2899": {
     "kana": "あめあがり の にわ に そら が うつっ て い た",
@@ -11940,20 +11940,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de rouka nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-建物-2915": {
-    "kana": "かいぎ で たてもの について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de tatemono nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と たてもの について しばらく はなし た",
+    "romaji": "tomodachi to tatemono nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-引く-2833": {
-    "kana": "ひつよう な ばめん で ひく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hiku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ひく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hiku"
   },
   "jlpt-n5-弟-3096": {
     "kana": "おとうと に しゅくだい を てつだっ て もらっ た",
     "romaji": "otouto ni shukudai o tetsuda te mora ta"
   },
   "jlpt-n5-忘れる-3014": {
-    "kana": "あんぜん に わすれる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni wasureru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て わすれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te wasureru"
   },
   "jlpt-n5-悪い-3010": {
     "kana": "おもっ た より わるい もんだい だっ た",
@@ -11964,20 +11964,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "furui to o shizuka ni ake ta"
   },
   "jlpt-n5-所-3048": {
-    "kana": "しゅうまつ に ところ え いく みち を しらべ た",
-    "romaji": "shuumatsu ni tokoro e iku michi o shirabe ta"
+    "kana": "あたらしい としょかん わ ひろい ところ に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi tokoro ni tate rare ta"
   },
   "jlpt-n5-手紙-2889": {
     "kana": "つくえ の うえ に てがみ を おい て から でかけ た",
     "romaji": "tsukue no ue ni tegami o oi te kara dekake ta"
   },
   "jlpt-n5-押す-2835": {
-    "kana": "あんぜん に おす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni osu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て おす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te osu"
   },
   "jlpt-n5-持つ-3007": {
-    "kana": "おもい にもつ を えき まで もつ ひと を さがし た",
-    "romaji": "omoi nimotsu o eki made motsu hito o sagashi ta"
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を もつ",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o motsu"
   },
   "jlpt-n5-掃除-2944": {
     "kana": "そうじ な まち を ゆっくり あるい た",
@@ -11988,12 +11988,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kyou no jugyou wa omo ta yori hayaku owa ta"
   },
   "jlpt-n5-撮る-2931": {
-    "kana": "あんぜん に とる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni toru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de toru koto ni shi ta"
   },
   "jlpt-n5-教える-2950": {
-    "kana": "あんぜん に おしえる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni oshieru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で おしえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de oshieru koto ni shi ta"
   },
   "jlpt-n5-文章-3003": {
     "kana": "つくえ の うえ に ぶんしょう を おい て から でかけ た",
@@ -12020,8 +12020,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni hiru gohan o sukoshi tabe ta"
   },
   "jlpt-n5-時々-2891": {
-    "kana": "ときどき へんじ が とどい た ので あんしん し た",
-    "romaji": "tokidoki henji ga todoi ta node anshin shi ta"
+    "kana": "ときどき よてい を へんこう し た",
+    "romaji": "tokidoki yotei o henkou shi ta"
   },
   "jlpt-n5-時計-3058": {
     "kana": "つくえ の うえ に とけい を おい て から でかけ た",
@@ -12036,8 +12036,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "hiru gohan ni ban o sukoshi tabe ta"
   },
   "jlpt-n5-晴れる-2992": {
-    "kana": "ひつよう な ばめん で はれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de hareru houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て はれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hareru"
   },
   "jlpt-n5-暑い-2844": {
     "kana": "きょう わ とても あつい ので みず を おおめ に のん だ",
@@ -12064,16 +12064,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "asa ni daiji na yotei ga hai te iru"
   },
   "jlpt-n5-朝御飯-2951": {
-    "kana": "かいぎ で あさ ごはん について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de asa gohan nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と あさ ごはん について しばらく はなし た",
+    "romaji": "tomodachi to asa gohan nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-木-3034": {
     "kana": "こうじょう に ひつよう な き を あさ の うち に あつめ た",
     "romaji": "koujou ni hitsuyou na ki o asa no uchi ni atsume ta"
   },
   "jlpt-n5-木曜日-3013": {
-    "kana": "ともだち と もくようび について しばらく はなし た",
-    "romaji": "tomodachi to mokuyoubi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で もくようび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mokuyoubi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-村-2985": {
     "kana": "しゅうまつ に むら え いく みち を しらべ た",
@@ -12140,20 +12140,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to umi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-消す-2856": {
-    "kana": "あんぜん に けす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni kesu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て けす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kesu"
   },
   "jlpt-n5-温い-2980": {
     "kana": "きょう わ とても ぬるい ので みず を おおめ に のん だ",
     "romaji": "kyou wa totemo nurui node mizu o oome ni non da"
   },
   "jlpt-n5-火曜日-3094": {
-    "kana": "かいぎ で かようび について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kayoubi nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と かようび について しばらく はなし た",
+    "romaji": "tomodachi to kayoubi nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-無くす-2922": {
-    "kana": "あんぜん に なくす ため に さき に じゅんび を し た",
-    "romaji": "anzen ni nakusu tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て なくす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nakusu"
   },
   "jlpt-n5-牛肉-3078": {
     "kana": "ひる ごはん に ぎゅうにく を すこし たべ た",
@@ -12172,8 +12172,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "omo ta yori amai mondai da ta"
   },
   "jlpt-n5-生まれる-2988": {
-    "kana": "ひつよう な ばめん で うまれる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de umareru houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で うまれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de umareru koto ni shi ta"
   },
   "jlpt-n5-生徒-2965": {
     "kana": "こまっ て いる せいと に こえ を かけ た",
@@ -12212,24 +12212,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to me nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-着く-3026": {
-    "kana": "ひつよう な ばめん で つく ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tsuku houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て つく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsuku"
   },
   "jlpt-n5-着る-3020": {
     "kana": "あいて を つよく きる まえ に まず じじょう を きい た",
     "romaji": "aite o tsuyoku kiru mae ni mazu jijou o kii ta"
   },
   "jlpt-n5-知る-2949": {
-    "kana": "あんぜん に しる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shiru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shiru"
   },
   "jlpt-n5-磨く-2834": {
-    "kana": "あんぜん に みがく ため に さき に じゅんび を し た",
-    "romaji": "anzen ni migaku tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て みがく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te migaku"
   },
   "jlpt-n5-私-2932": {
-    "kana": "わたし わ しずか に うなずい た",
-    "romaji": "watashi wa shizuka ni unazui ta"
+    "kana": "わたし に みち を たずね た",
+    "romaji": "watashi ni michi o tazune ta"
   },
   "jlpt-n5-秋-3009": {
     "kana": "ゆうがた に なる と あき が とても きれい に みえ た",
@@ -12244,8 +12244,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tsukue no ue ni mado o oi te kara dekake ta"
   },
   "jlpt-n5-立つ-2995": {
-    "kana": "ひつよう な ばめん で たつ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de tatsu houhou o kangae ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で たつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tatsu koto ni shi ta"
   },
   "jlpt-n5-箱-3051": {
     "kana": "つくえ の うえ に はこ を おい て から でかけ た",
@@ -12260,8 +12260,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "midori no shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-練習-2873": {
-    "kana": "あんぜん に れんしゅう する ため に さき に じゅんび を し た",
-    "romaji": "anzen ni renshuu suru tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で れんしゅう する こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de renshuu suru koto ni shi ta"
   },
   "jlpt-n5-肉-3070": {
     "kana": "とつぜん の しらせ に つよい にく を おぼえ た",
@@ -12284,24 +12284,24 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to kabin ga totemo kirei ni mie ta"
   },
   "jlpt-n5-英語-2841": {
-    "kana": "かいぎ で えいご について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de eigo nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と えいご について しばらく はなし た",
+    "romaji": "tomodachi to eigo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-茶色-2888": {
     "kana": "ともだち と ちゃいろ について しばらく はなし た",
     "romaji": "tomodachi to chairo nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-葉書-2831": {
-    "kana": "ともだち と はがき について しばらく はなし た",
-    "romaji": "tomodachi to hagaki nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はがき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hagaki nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-薄い-2956": {
     "kana": "その せつめい わ すこし うすい と かんじ た",
     "romaji": "sono setsumei wa sukoshi usui to kanji ta"
   },
   "jlpt-n5-薬-3035": {
-    "kana": "かいぎ で くすり について ぐたい てき に はなしあっ た",
-    "romaji": "kaigi de kusuri nitsuite gutai teki ni hanashia ta"
+    "kana": "ともだち と くすり について しばらく はなし た",
+    "romaji": "tomodachi to kusuri nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-西-2912": {
     "kana": "にし の そら が ゆうやけ で あかく そまっ た",
@@ -12312,28 +12312,28 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "iru na shorui o wasure zu ni mo te i ta"
   },
   "jlpt-n5-覚える-2938": {
-    "kana": "ひつよう な ばめん で おぼえる ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de oboeru houhou o kangae ta"
+    "kana": "あたらしい かんじ を まいにち いつつ ずつ おぼえる",
+    "romaji": "atarashii kanji o mainichi itsutsu zutsu oboeru"
   },
   "jlpt-n5-言う-2871": {
     "kana": "しゅうまつ に ともだち の いえ え いう よてい だ",
     "romaji": "shuumatsu ni tomodachi no ie e iu yotei da"
   },
   "jlpt-n5-言葉-2953": {
-    "kana": "ともだち と ことば について しばらく はなし た",
-    "romaji": "tomodachi to kotoba nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で ことば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kotoba nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-話-3079": {
-    "kana": "ともだち と はなし について しばらく はなし た",
-    "romaji": "tomodachi to hanashi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で はなし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hanashi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-読む-3022": {
-    "kana": "よる に ゆっくり よむ じかん を つくっ た",
-    "romaji": "yoru ni yukkuri yomu jikan o tsuku ta"
+    "kana": "ことし の うりあげ わ きょねん を うわまわる と よん で いる",
+    "romaji": "kotoshi no uriage wa kyonen o uwamawaru to yon de iru"
   },
   "jlpt-n5-誰-3064": {
-    "kana": "だれ に みち を たずね た",
-    "romaji": "dare ni michi o tazune ta"
+    "kana": "だれ わ しずか に うなずい た",
+    "romaji": "dare wa shizuka ni unazui ta"
   },
   "jlpt-n5-豚肉-3072": {
     "kana": "ひる ごはん に ぶたにく を すこし たべ た",
@@ -12356,8 +12356,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "akai shatsu o eran de kagami no mae de awase te mi ta"
   },
   "jlpt-n5-足-3050": {
-    "kana": "あし が いたく て きょう わ はやめ に やすん だ",
-    "romaji": "ashi ga itaku te kyou wa hayame ni yasun da"
+    "kana": "むり の ない あし で はしり つづけ た",
+    "romaji": "muri no nai ashi de hashiri tsuzuke ta"
   },
   "jlpt-n5-軽い-3100": {
     "kana": "かるい はこ を たな の うえ に おい た",
@@ -12392,16 +12392,16 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "kaigi de michi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-違う-2868": {
-    "kana": "あんぜん に ちがう ため に さき に じゅんび を し た",
-    "romaji": "anzen ni chigau tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て ちがう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chigau"
   },
   "jlpt-n5-部屋-3086": {
     "kana": "しゅうまつ に へや え いく みち を しらべ た",
     "romaji": "shuumatsu ni heya e iku michi o shirabe ta"
   },
   "jlpt-n5-金曜日-3037": {
-    "kana": "ともだち と きんようび について しばらく はなし た",
-    "romaji": "tomodachi to kin'youbi nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で きんようび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kin'youbi nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-鉛筆-2986": {
     "kana": "つくえ の うえ に えんぴつ を おい て から でかけ た",
@@ -12416,12 +12416,12 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "nagai michi o yukkuri arui ta"
   },
   "jlpt-n5-閉まる-2877": {
-    "kana": "あんぜん に しまる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shimaru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しまる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shimaru"
   },
   "jlpt-n5-閉める-2848": {
-    "kana": "あんぜん に しめる ため に さき に じゅんび を し た",
-    "romaji": "anzen ni shimeru tame ni saki ni junbi o shi ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て しめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shimeru"
   },
   "jlpt-n5-降る-3061": {
     "kana": "しゅうまつ に ともだち の いえ え ふる よてい だ",
@@ -12448,8 +12448,8 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "tomodachi to denki nitsuite shibaraku hanashi ta"
   },
   "jlpt-n5-電話-2893": {
-    "kana": "ともだち と でんわ について しばらく はなし た",
-    "romaji": "tomodachi to denwa nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で でんわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de denwa nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-青い-3011": {
     "kana": "あおい しゃつ を えらん で かがみ の まえ で あわせ て み た",
@@ -12476,20 +12476,20 @@ export const exampleReadings: Record<string, ExampleReading> = {
     "romaji": "yuugata ni naru to kaze ga totemo kirei ni mie ta"
   },
   "jlpt-n5-風邪-2909": {
-    "kana": "ともだち と かぜ について しばらく はなし た",
-    "romaji": "tomodachi to kaze nitsuite shibaraku hanashi ta"
+    "kana": "かいぎ で かぜ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaze nitsuite gutai teki ni hanashia ta"
   },
   "jlpt-n5-飛ぶ-2952": {
-    "kana": "あんぜん に とぶ ため に さき に じゅんび を し た",
-    "romaji": "anzen ni tobu tame ni saki ni junbi o shi ta"
+    "kana": "もんだい を かいけつ する ため に ちいむ で とぶ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tobu koto ni shi ta"
   },
   "jlpt-n5-食べ物-3060": {
     "kana": "ひる ごはん に たべもの を すこし たべ た",
     "romaji": "hiru gohan ni tabemono o sukoshi tabe ta"
   },
   "jlpt-n5-飲む-2872": {
-    "kana": "ひつよう な ばめん で のむ ほうほう を かんがえ た",
-    "romaji": "hitsuyou na bamen de nomu houhou o kangae ta"
+    "kana": "じょうきょう を かくにん し て から おちつい て のむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nomu"
   },
   "jlpt-n5-高い-2957": {
     "kana": "たかい たてもの を みあげ た",
@@ -16474,6 +16474,4706 @@ export const exampleReadings: Record<string, ExampleReading> = {
   "toumei": {
     "kana": "とうめい な こえ が ひびく",
     "romaji": "toumei na koe ga hibiku"
+  },
+  "try-n1-アイスホッケー-909": {
+    "kana": "かいぎ で あいすほっけえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aisuhokkee nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-あいつ-1113": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で あいつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de aitsu koto ni shi ta"
+  },
+  "try-n1-アイドル-503": {
+    "kana": "へや の あいどる を きれい に ととのえ た",
+    "romaji": "heya no aidoru o kirei ni totonoe ta"
+  },
+  "try-n1-あいまい-550": {
+    "kana": "あいまい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "aimai na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-アクロバット飛行-869": {
+    "kana": "ともだち と あくろばっと ひこう について しばらく はなし た",
+    "romaji": "tomodachi to akurobatto hikou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-あげくの果てに-252": {
+    "kana": "あげく の はて に へんじ が とどい た ので あんしん し た",
+    "romaji": "ageku no hate ni henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-あっという間に-717": {
+    "kana": "かえりぎわ に あっというまに と こえ を かけ た",
+    "romaji": "kaerigiwa ni attoiumani to koe o kake ta"
+  },
+  "try-n1-アトリエ-356": {
+    "kana": "ともだち と あとりえ について しばらく はなし た",
+    "romaji": "tomodachi to atorie nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-アニメ-623": {
+    "kana": "ともだち と あにめ について しばらく はなし た",
+    "romaji": "tomodachi to anime nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-アポを取る-939": {
+    "kana": "じょうきょう を かくにん し て から おちつい て あぽ を とる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te apo o toru"
+  },
+  "try-n1-アマチュア-831": {
+    "kana": "かいぎ で あまちゅあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de amachua nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-アリ-1115": {
+    "kana": "かいぎ で あり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ari nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-アルコール-496": {
+    "kana": "きゅうけい ちゅう に あたたかい あるこうる を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai arukouru o ippai non da"
+  },
+  "try-n1-いたずら-564": {
+    "kana": "ともだち と いたずら について しばらく はなし た",
+    "romaji": "tomodachi to itazura nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-いびき-325": {
+    "kana": "かいぎ で いびき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ibiki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-イメージ-1269": {
+    "kana": "ともだち と いめえじ について しばらく はなし た",
+    "romaji": "tomodachi to imeeji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ウイスキー-1314": {
+    "kana": "かいぎ で ういすきい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uisukii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ウォーキング-511": {
+    "kana": "ともだち と うぉうきんぐ について しばらく はなし た",
+    "romaji": "tomodachi to uoukingu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ウォーターカッター-395": {
+    "kana": "きゅうけい ちゅう に あたたかい うぉうたあ かったあ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai uoutaa kattaa o ippai non da"
+  },
+  "try-n1-うそも方便-1136": {
+    "kana": "かいぎ で うそ も ほうべん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uso mo houben nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-エスカレート-562": {
+    "kana": "かいぎ で えすかれえと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de esukareeto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-オアシス-538": {
+    "kana": "ともだち と おあしす について しばらく はなし た",
+    "romaji": "tomodachi to oashisu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-おごり-258": {
+    "kana": "かいぎ で おごり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ogori nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-おにぎり-923": {
+    "kana": "ともだち と おにぎり について しばらく はなし た",
+    "romaji": "tomodachi to onigiri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-オフィス-785": {
+    "kana": "ともだち と おふぃす について しばらく はなし た",
+    "romaji": "tomodachi to ofyisu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-オンデマンド-1031": {
+    "kana": "かいぎ で おんでまんど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ondemando nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-お供の人-1028": {
+    "kana": "ともだち と おとも の ひと について しばらく はなし た",
+    "romaji": "tomodachi to otomo no hito nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-お前-750": {
+    "kana": "おまえ わ しずか に うなずい た",
+    "romaji": "omae wa shizuka ni unazui ta"
+  },
+  "try-n1-お嫁さん-206": {
+    "kana": "かいぎ で お よめさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o yomesan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-お悔み-823": {
+    "kana": "かいぎ で お くやみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de o kuyami nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-お節介-163": {
+    "kana": "おせっかい な てん を さき に せつめい し た",
+    "romaji": "osekkai na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-お見合い-919": {
+    "kana": "かれ の お みあい を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no o miai o kii te kangaekata ga sukoshi kawa ta"
+  },
+  "try-n1-お詫び-293": {
+    "kana": "かいぎ で おわび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de owabi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-お遣い-844": {
+    "kana": "ともだち と お つかい について しばらく はなし た",
+    "romaji": "tomodachi to o tsukai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-カードゲーム-950": {
+    "kana": "ともだち と かあど げえむ について しばらく はなし た",
+    "romaji": "tomodachi to kaado geemu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ガードマン-650": {
+    "kana": "ともだち と があどまん について しばらく はなし た",
+    "romaji": "tomodachi to gaadoman nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-かくも-810": {
+    "kana": "きょう わ かく も つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa kaku mo tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-カタログ-845": {
+    "kana": "かいぎ で かたろぐ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de katarogu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-カヌー-1039": {
+    "kana": "ともだち と かぬう について しばらく はなし た",
+    "romaji": "tomodachi to kanuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-かび臭い-81": {
+    "kana": "ともだち と かびくさい について しばらく はなし た",
+    "romaji": "tomodachi to kabikusai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-カボチャ-329": {
+    "kana": "ともだち と かぼちゃ について しばらく はなし た",
+    "romaji": "tomodachi to kabocha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-かゆみ-726": {
+    "kana": "かいぎ で かゆみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kayumi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-カラオケ-931": {
+    "kana": "ともだち と からおけ について しばらく はなし た",
+    "romaji": "tomodachi to karaoke nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-カラス-334": {
+    "kana": "ともだち と からす について しばらく はなし た",
+    "romaji": "tomodachi to karasu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-カワウソ-1294": {
+    "kana": "かいぎ で かわうそ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kawauso nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ガンジー-1152": {
+    "kana": "かいぎ で がんじい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ganjii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-きっかけ-443": {
+    "kana": "ともだち と きっかけ について しばらく はなし た",
+    "romaji": "tomodachi to kikkake nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-キティちゃん-673": {
+    "kana": "かえりぎわ に きてぃちゃん と こえ を かけ た",
+    "romaji": "kaerigiwa ni kiteichan to koe o kake ta"
+  },
+  "try-n1-キノコ-604": {
+    "kana": "かいぎ で きのこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinoko nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ギブ-アンド-テイク-442": {
+    "kana": "かいぎ で ギブ・アンド・テイク について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gibu/ando/teiku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-キムチ-76": {
+    "kana": "ともだち と きむち について しばらく はなし た",
+    "romaji": "tomodachi to kimuchi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-キャプテン-58": {
+    "kana": "かいぎ で きゃぷてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyaputen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-キャラクターグッズ-1243": {
+    "kana": "こうじょう に ひつよう な きゃらくたあ ぐっず を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na kyarakutaa guzzu o asa no uchi ni atsume ta"
+  },
+  "try-n1-キャリアライフ-429": {
+    "kana": "かいぎ で きゃりあ らいふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyaria raifu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-キャンセル-473": {
+    "kana": "じょうきょう を かくにん し て から おちつい て きゃんせる する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kyanseru suru"
+  },
+  "try-n1-キャンパス-1280": {
+    "kana": "かいぎ で きゃんぱす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyanpasu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ギャンブル-1188": {
+    "kana": "かいぎ で ぎゃんぶる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gyanburu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ぎらぎら-光る-290": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ぎらぎら こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de giragira koto ni shi ta"
+  },
+  "try-n1-ギラリとした-光-1077": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ぎらり と し た",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te girari to shi ta"
+  },
+  "try-n1-きれいさっぱり-捨てる-1195": {
+    "kana": "ともだち と きれい さっぱり について しばらく はなし た",
+    "romaji": "tomodachi to kirei sappari nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-くぐり抜ける-530": {
+    "kana": "じょうきょう を かくにん し て から おちつい て くぐりぬける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kugurinukeru"
+  },
+  "try-n1-ぐずぐず-848": {
+    "kana": "ぐずぐず よてい を へんこう し た",
+    "romaji": "guzuguzu yotei o henkou shi ta"
+  },
+  "try-n1-くだらない-578": {
+    "kana": "その せつめい わ すこし くだらない と かんじ た",
+    "romaji": "sono setsumei wa sukoshi kudaranai to kanji ta"
+  },
+  "try-n1-グッズ-675": {
+    "kana": "こうじょう に ひつよう な ぐっず を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na guzzu o asa no uchi ni atsume ta"
+  },
+  "try-n1-クレーム-1354": {
+    "kana": "かいぎ で くれえむ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kureemu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ゲームショー-784": {
+    "kana": "しゅうまつ に ともだち と げえむ しょう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to geemu shou o mi ni i ta"
+  },
+  "try-n1-けち-201": {
+    "kana": "ともだち と けち について しばらく はなし た",
+    "romaji": "tomodachi to kechi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-コーチ-1284": {
+    "kana": "ともだち と こうち について しばらく はなし た",
+    "romaji": "tomodachi to kouchi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ゴールイン-1286": {
+    "kana": "かいぎ で ごうるいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gouruin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-こじれる-894": {
+    "kana": "しゅうまつ に ともだち の いえ え こじれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e kojireru yotei da"
+  },
+  "try-n1-コスト削減-149": {
+    "kana": "かいぎ で こすと さくげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kosuto sakugen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-こっそり-282": {
+    "kana": "こっそり へんじ が とどい た ので あんしん し た",
+    "romaji": "kossori henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-コマーシャル-375": {
+    "kana": "ともだち と こまあしゃる について しばらく はなし た",
+    "romaji": "tomodachi to komaasharu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-コラム-62": {
+    "kana": "つくえ の うえ に こらむ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni koramu o oi te kara dekake ta"
+  },
+  "try-n1-コレクション-1323": {
+    "kana": "さむく なっ た ので これくしょん を はおっ た",
+    "romaji": "samuku na ta node korekushon o hao ta"
+  },
+  "try-n1-ごろごろする-283": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ごろごろ する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te gorogoro suru"
+  },
+  "try-n1-コンクール-898": {
+    "kana": "ともだち と こんくうる について しばらく はなし た",
+    "romaji": "tomodachi to konkuuru nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-コンクリート-396": {
+    "kana": "かいぎ で こんくりいと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de konkuriito nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-コンタクト-257": {
+    "kana": "ともだち と こんたくと について しばらく はなし た",
+    "romaji": "tomodachi to kontakuto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-コンタクトをとる-724": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で こんたくと を とる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kontakuto o toru koto ni shi ta"
+  },
+  "try-n1-ご愛顧-813": {
+    "kana": "ともだち と ご あいこ について しばらく はなし た",
+    "romaji": "tomodachi to go aiko nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ご近所同士-990": {
+    "kana": "ご きんじょ どうし で ぼうさい について はなしあっ た",
+    "romaji": "go kinjo doushi de bousai nitsuite hanashia ta"
+  },
+  "try-n1-サークル-232": {
+    "kana": "えきまえ の さあくる で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no saakuru de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-サービスエリア-505": {
+    "kana": "ともだち と さあびす えりあ について しばらく はなし た",
+    "romaji": "tomodachi to saabisu eria nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-サービスセンター-1353": {
+    "kana": "かいぎ で さあびす せんたあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saabisu sentaa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-サーフィン-552": {
+    "kana": "ともだち と さあふぃん について しばらく はなし た",
+    "romaji": "tomodachi to saafyin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-サイン-1111": {
+    "kana": "ともだち と さいん について しばらく はなし た",
+    "romaji": "tomodachi to sain nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-サポート体制-106": {
+    "kana": "かいぎ で さぽうと たいせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sapouto taisei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-さぼる-570": {
+    "kana": "じょうきょう を かくにん し て から おちつい て さぼる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te saboru"
+  },
+  "try-n1-サミット-54": {
+    "kana": "やま の さみっと から まち ぜんたい が みえ た",
+    "romaji": "yama no samitto kara machi zentai ga mie ta"
+  },
+  "try-n1-サンダル-593": {
+    "kana": "かいぎ で さんだる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sandaru nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-シーズン-1192": {
+    "kana": "しいずん に だいじ な よてい が はいっ て いる",
+    "romaji": "shiizun ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-シーンと-336": {
+    "kana": "ともだち と しいん と について しばらく はなし た",
+    "romaji": "tomodachi to shiin to nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ジェットコースター-27": {
+    "kana": "かいぎ で じぇっと こうすたあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jetto kousutaa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-シェバイツァー-199": {
+    "kana": "かいぎ で しぇばいつぁあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shebaitsuaa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-シェフ-188": {
+    "kana": "かいぎ で しぇふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shefu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-システム-1035": {
+    "kana": "ともだち と しすてむ について しばらく はなし た",
+    "romaji": "tomodachi to shisutemu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-しっぽ-896": {
+    "kana": "ちかく の ぼくじょう で しっぽ を み た",
+    "romaji": "chikaku no bokujou de shippo o mi ta"
+  },
+  "try-n1-ジャーナリスト-1099": {
+    "kana": "ともだち と じゃあなりすと について しばらく はなし た",
+    "romaji": "tomodachi to jaanarisuto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ジャム-1066": {
+    "kana": "かいぎ で じゃむ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jamu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-しわ-226": {
+    "kana": "ともだち と しわ について しばらく はなし た",
+    "romaji": "tomodachi to shiwa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-シンデレラ-307": {
+    "kana": "ともだち と しんでれら について しばらく はなし た",
+    "romaji": "tomodachi to shinderera nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-スーツケース-1106": {
+    "kana": "かいぎ で すうつけえす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suutsukeesu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ずさんな-629": {
+    "kana": "ともだち と ずさん な について しばらく はなし た",
+    "romaji": "tomodachi to zusan na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-スター-1137": {
+    "kana": "かいぎ で すたあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sutaa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-スタッフ-1201": {
+    "kana": "ともだち と すたっふ について しばらく はなし た",
+    "romaji": "tomodachi to sutaffu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ストーリー-1300": {
+    "kana": "かいぎ で すとうりい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sutourii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ストレート-542": {
+    "kana": "すとれえと な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "sutoreeto na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-ストレッチ-510": {
+    "kana": "こうじょう に ひつよう な すとれっち を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na sutoretchi o asa no uchi ni atsume ta"
+  },
+  "try-n1-スニーカー-592": {
+    "kana": "ともだち と すにいかあ について しばらく はなし た",
+    "romaji": "tomodachi to suniikaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-スペース-243": {
+    "kana": "つくえ の よこ に ほんだな を おく すぺえす を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku supeesu o tsuku ta"
+  },
+  "try-n1-スワヒリ語-771": {
+    "kana": "かいぎ で すわひり ご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suwahiri go nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-セルフサービス-746": {
+    "kana": "かいぎ で せるふさあびす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de serufusaabisu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-センス-499": {
+    "kana": "しゅうまつ に ともだち と せんす を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to sensu o mi ni i ta"
+  },
+  "try-n1-その旨-186": {
+    "kana": "ともだち と その むね について しばらく はなし た",
+    "romaji": "tomodachi to sono mune nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-そば-917": {
+    "kana": "ともだち と そば について しばらく はなし た",
+    "romaji": "tomodachi to soba nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ソフトドリンク-497": {
+    "kana": "きゅうけい ちゅう に あたたかい そふとどりんく を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai sofutodorinku o ippai non da"
+  },
+  "try-n1-たいそう-203": {
+    "kana": "きょう わ たいそう つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa taisou tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-たたえる-216": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で たたえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tataeru koto ni shi ta"
+  },
+  "try-n1-たちまち-323": {
+    "kana": "たちまち よてい を へんこう し た",
+    "romaji": "tachimachi yotei o henkou shi ta"
+  },
+  "try-n1-たばこ-951": {
+    "kana": "かいぎ で たばこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tabako nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-だまし取る-1334": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で だましとる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de damashitoru koto ni shi ta"
+  },
+  "try-n1-たまたま-631": {
+    "kana": "たまたま よてい を へんこう し た",
+    "romaji": "tamatama yotei o henkou shi ta"
+  },
+  "try-n1-だらしない-556": {
+    "kana": "おもっ た より だらし ない もんだい だっ た",
+    "romaji": "omo ta yori darashi nai mondai da ta"
+  },
+  "try-n1-ダンプカー-671": {
+    "kana": "ともだち と だんぷかあ について しばらく はなし た",
+    "romaji": "tomodachi to danpukaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-チャンス-852": {
+    "kana": "かいぎ で ちゃんす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chansu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-っす-940": {
+    "kana": "じょうきょう を かくにん し て から おちつい て っす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ssu"
+  },
+  "try-n1-つぶす-773": {
+    "kana": "じょうきょう を かくにん し て から おちつい て つぶす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsubusu"
+  },
+  "try-n1-つぶやく-1001": {
+    "kana": "じょうきょう を かくにん し て から おちつい て つぶやく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tsubuyaku"
+  },
+  "try-n1-つぶれる-713": {
+    "kana": "つよい かぜ で き が つぶれる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga tsubureru oto ga shi ta"
+  },
+  "try-n1-データ-362": {
+    "kana": "かいぎ で でえた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de deeta nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-テーマパーク-506": {
+    "kana": "しゅうまつ に てえまぱあく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni teemapaaku e iku michi o shirabe ta"
+  },
+  "try-n1-テント-483": {
+    "kana": "ともだち と てんと について しばらく はなし た",
+    "romaji": "tomodachi to tento nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-トーナメント-885": {
+    "kana": "ともだち と とうなめんと について しばらく はなし た",
+    "romaji": "tomodachi to tounamento nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-とうてい-1187": {
+    "kana": "とうてい あした わ あめ に なる かも しれ ない",
+    "romaji": "toutei ashita wa ame ni naru kamo shire nai"
+  },
+  "try-n1-トップ-900": {
+    "kana": "ともだち と とっぷ について しばらく はなし た",
+    "romaji": "tomodachi to toppu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-どら焼き-119": {
+    "kana": "ともだち と どら やき について しばらく はなし た",
+    "romaji": "tomodachi to dora yaki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-トリアージ-1197": {
+    "kana": "かいぎ で とりああじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toriaaji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-どろぼう-205": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ど ろ ぼう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de do ro bou koto ni shi ta"
+  },
+  "try-n1-トンネル-560": {
+    "kana": "しゅうまつ に ともだち の いえ え とんねる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e tonneru yotei da"
+  },
+  "try-n1-なぐる-365": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で なぐる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de naguru koto ni shi ta"
+  },
+  "try-n1-ナショナルチーム-837": {
+    "kana": "かいぎ で なしょなる ちいむ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nashonaru chiimu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-なだれ込む-317": {
+    "kana": "はつばい び に ちゅうもん が みせ え なだれこむ",
+    "romaji": "hatsubai bi ni chuumon ga mise e nadarekomu"
+  },
+  "try-n1-ニーズ-150": {
+    "kana": "かいぎ で にいず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de niizu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-に伝わる-1075": {
+    "kana": "はる に しごと に つたわる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni shigoto ni tsutawaru koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-に値する-833": {
+    "kana": "じょうきょう を かくにん し て から おちつい て しごと に あたいする",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shigoto ni ataisuru"
+  },
+  "try-n1-に力を入れる-1068": {
+    "kana": "じょうきょう を かくにん し て から おちつい て しごと に ちから を いれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shigoto ni chikara o ireru"
+  },
+  "try-n1-に打ち込む-53": {
+    "kana": "かれ わ だいがく じだい から けんきゅう に しごと に うちこん で いる",
+    "romaji": "kare wa daigaku jidai kara kenkyuu ni shigoto ni uchikon de iru"
+  },
+  "try-n1-に立ち会う-1011": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しごと に たちあう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shigoto ni tachiau koto ni shi ta"
+  },
+  "try-n1-に至る-488": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しごと に いたる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shigoto ni itaru koto ni shi ta"
+  },
+  "try-n1-に訴える-935": {
+    "kana": "おもい にもつ を えき まで しごと に うったえる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made shigoto ni uttaeru hito o sagashi ta"
+  },
+  "try-n1-に追い込む-159": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しごと に おいこむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shigoto ni oikomu koto ni shi ta"
+  },
+  "try-n1-ネット-445": {
+    "kana": "ともだち と ねっと について しばらく はなし た",
+    "romaji": "tomodachi to netto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ネットカフェ-930": {
+    "kana": "ともだち と ねっと かふぇ について しばらく はなし た",
+    "romaji": "tomodachi to netto kafye nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ねぶた祭り-37": {
+    "kana": "ちいき の ねぶた まつり に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no nebuta matsuri ni ooku no hito ga atsuma ta"
+  },
+  "try-n1-のしかかる-35": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で のしかかる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de noshikakaru koto ni shi ta"
+  },
+  "try-n1-ノンアルコール飲料-24": {
+    "kana": "きゅうけい ちゅう に あたたかい のん あるこうる いんりょう を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai non arukouru inryou o ippai non da"
+  },
+  "try-n1-の念-793": {
+    "kana": "とつぜん の しらせ に つよい かんしゃ の ねん を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kansha no nen o oboe ta"
+  },
+  "try-n1-の手前-661": {
+    "kana": "きゅうけい ちゅう に あたたかい せけん の てまえ を いっぱい のん だ",
+    "romaji": "kyuukei chuu ni atatakai seken no temae o ippai non da"
+  },
+  "try-n1-の鍵-1384": {
+    "kana": "ちかく の みせ で せいこう の かぎ を みつけ た",
+    "romaji": "chikaku no mise de seikou no kagi o mitsuke ta"
+  },
+  "try-n1-バー-25": {
+    "kana": "ひる ごはん に ばあ を すこし たべ た",
+    "romaji": "hiru gohan ni baa o sukoshi tabe ta"
+  },
+  "try-n1-バイエルン地方-18": {
+    "kana": "ともだち と ばいえるん ちほう について しばらく はなし た",
+    "romaji": "tomodachi to baierun chihou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ハイヒール-594": {
+    "kana": "さむく なっ た ので はいひいる を はおっ た",
+    "romaji": "samuku na ta node haihiiru o hao ta"
+  },
+  "try-n1-パジャマ-597": {
+    "kana": "かいぎ で ぱじゃま について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de pajama nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-バッテリー-883": {
+    "kana": "かいぎ で ばってりい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de batterii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ハッピー-892": {
+    "kana": "はっぴい な てん を さき に せつめい し た",
+    "romaji": "happii na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-はやぶさ-1042": {
+    "kana": "かいぎ で わ やぶ さ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wa yabu sa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-バレる-667": {
+    "kana": "しゅうまつ に ともだち の いえ え ばれる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e bareru yotei da"
+  },
+  "try-n1-ハンバーグ-507": {
+    "kana": "かいぎ で はんばあぐ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hanbaagu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-パンフレット-942": {
+    "kana": "かいぎ で ぱんふれっと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de panfuretto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ピアニスト-346": {
+    "kana": "ともだち と ぴあにすと について しばらく はなし た",
+    "romaji": "tomodachi to pianisuto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ひっくり返す-219": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ひっくりかえす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hikkurikaesu"
+  },
+  "try-n1-ヒット-624": {
+    "kana": "ともだち と ひっと について しばらく はなし た",
+    "romaji": "tomodachi to hitto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ビリ-684": {
+    "kana": "ともだち と びり について しばらく はなし た",
+    "romaji": "tomodachi to biri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ファン-979": {
+    "kana": "へや の ふぁん を きれい に ととのえ た",
+    "romaji": "heya no fuan o kirei ni totonoe ta"
+  },
+  "try-n1-ぶつぶつ-つぶやく-1000": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ぶつぶつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de butsubutsu koto ni shi ta"
+  },
+  "try-n1-プライバシー-751": {
+    "kana": "つくえ の よこ に ほんだな を おく ぷらいばしい を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku puraibashii o tsuku ta"
+  },
+  "try-n1-ブランド-302": {
+    "kana": "かいぎ で ぶらんど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de burando nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-フリーズする-895": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ふりいず する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te furiizu suru"
+  },
+  "try-n1-プロ-481": {
+    "kana": "ともだち と ぷろ について しばらく はなし た",
+    "romaji": "tomodachi to puro nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-プロジェクト-796": {
+    "kana": "かいぎ で ぷろじぇくと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de purojekuto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ペース-1033": {
+    "kana": "むり の ない ぺえす で はしり つづけ た",
+    "romaji": "muri no nai peesu de hashiri tsuzuke ta"
+  },
+  "try-n1-ヘクタール-6": {
+    "kana": "その のうえん わ ご へくたある の ひろ さ が ある",
+    "romaji": "sono nouen wa go hekutaaru no hiro sa ga aru"
+  },
+  "try-n1-ベテラン-428": {
+    "kana": "あめあがり の べてらん に そら が うつっ て い た",
+    "romaji": "ameagari no beteran ni sora ga utsu te i ta"
+  },
+  "try-n1-ベトナム-792": {
+    "kana": "かいぎ で べとなむ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de betonamu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ボーナス-470": {
+    "kana": "ともだち と ぼうなす について しばらく はなし た",
+    "romaji": "tomodachi to bounasu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ホームドクター-1373": {
+    "kana": "こまっ て いる ほうむ どくたあ に こえ を かけ た",
+    "romaji": "koma te iru houmu dokutaa ni koe o kake ta"
+  },
+  "try-n1-ホームページ-603": {
+    "kana": "ともだち と ほうむぺえじ について しばらく はなし た",
+    "romaji": "tomodachi to houmupeeji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ホイッスル-212": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ほいっする する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hoissuru suru"
+  },
+  "try-n1-ボウル-218": {
+    "kana": "かいぎ で ぼうる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bouru nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ボクシング-513": {
+    "kana": "かいぎ で ぼくしんぐ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bokushingu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ほこり-204": {
+    "kana": "かいぎ で ほこり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hokori nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ポスター-1281": {
+    "kana": "ともだち と ぽすたあ について しばらく はなし た",
+    "romaji": "tomodachi to posutaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-まいる-600": {
+    "kana": "つよい かぜ で き が まいる おと が し た",
+    "romaji": "tsuyoi kaze de ki ga mairu oto ga shi ta"
+  },
+  "try-n1-マシントラブル-1049": {
+    "kana": "ちかく の みせ で ましん とらぶる を みつけ た",
+    "romaji": "chikaku no mise de mashin toraburu o mitsuke ta"
+  },
+  "try-n1-まずい-632": {
+    "kana": "その せつめい わ すこし まずい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi mazui to kanji ta"
+  },
+  "try-n1-マスコミ-534": {
+    "kana": "ともだち と ますこみ について しばらく はなし た",
+    "romaji": "tomodachi to masukomi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-マナー-601": {
+    "kana": "ともだち と まなあ について しばらく はなし た",
+    "romaji": "tomodachi to manaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-マラソン-512": {
+    "kana": "ともだち と まらそん について しばらく はなし た",
+    "romaji": "tomodachi to marason nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ミス-434": {
+    "kana": "かいぎ で みす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de misu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ミュンヘン-4": {
+    "kana": "みゅんへん で こくさい かいぎ が ひらか れ た",
+    "romaji": "myunhen de kokusai kaigi ga hiraka re ta"
+  },
+  "try-n1-むしゃむしゃと-食べる-288": {
+    "kana": "じょうきょう を かくにん し て から おちつい て むしゃむしゃ と",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mushamusha to"
+  },
+  "try-n1-メイン-23": {
+    "kana": "かいぎ で めいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mein nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-めぐり合う-1346": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で めぐり あう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de meguri au koto ni shi ta"
+  },
+  "try-n1-めちゃくちゃ-565": {
+    "kana": "めちゃくちゃ な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "mechakucha na atsukai o uke te kare wa sugu ni kougi shi ta"
+  },
+  "try-n1-めっきり-1019": {
+    "kana": "めっきり へんじ が とどい た ので あんしん し た",
+    "romaji": "mekkiri henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-メディア-1012": {
+    "kana": "ともだち と めでぃあ について しばらく はなし た",
+    "romaji": "tomodachi to medeia nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-メモリーチップ-744": {
+    "kana": "ともだち と めもりい ちっぷ について しばらく はなし た",
+    "romaji": "tomodachi to memorii chippu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-メリーゴーラウンド-26": {
+    "kana": "かいぎ で めりいごうらうんど について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meriigouraundo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-メリット-926": {
+    "kana": "かいぎ で めりっと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meritto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-メロディー-1016": {
+    "kana": "ともだち と めろでぃい について しばらく はなし た",
+    "romaji": "tomodachi to merodeii nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-もったいない-590": {
+    "kana": "その せつめい わ すこし もったいない と かんじ た",
+    "romaji": "sono setsumei wa sukoshi mottainai to kanji ta"
+  },
+  "try-n1-モナリザ-44": {
+    "kana": "かいぎ で もなりざ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de monariza nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-やけになる-964": {
+    "kana": "はる に やけ に なる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni yake ni naru koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-ヨット-1045": {
+    "kana": "かいぎ で よっと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yotto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ライバル-849": {
+    "kana": "ともだち と らいばる について しばらく はなし た",
+    "romaji": "tomodachi to raibaru nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ラッシュアワー-728": {
+    "kana": "ともだち と らっしゅあわあ について しばらく はなし た",
+    "romaji": "tomodachi to rasshuawaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ランナー-874": {
+    "kana": "かいぎ で らんなあ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rannaa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-リース-853": {
+    "kana": "かいぎ で りいす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de riisu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-リース料-945": {
+    "kana": "ともだち と りいす りょう について しばらく はなし た",
+    "romaji": "tomodachi to riisu ryou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-リーダー-1322": {
+    "kana": "ともだち と りいだあ について しばらく はなし た",
+    "romaji": "tomodachi to riidaa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-リアルな-1304": {
+    "kana": "かいぎ で りある な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de riaru na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-リスク-1393": {
+    "kana": "ともだち と りすく について しばらく はなし た",
+    "romaji": "tomodachi to risuku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-リハビリ-485": {
+    "kana": "ともだち と りはびり について しばらく はなし た",
+    "romaji": "tomodachi to rihabiri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ルーズ-250": {
+    "kana": "るうず な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "ruuzu na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-ロケ-31": {
+    "kana": "かいぎ で ろけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de roke nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ロケット-457": {
+    "kana": "ともだち と ろけっと について しばらく はなし た",
+    "romaji": "tomodachi to roketto nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-ロビー-1103": {
+    "kana": "かいぎ で ろびい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de robii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-ワイン-1105": {
+    "kana": "ともだち と わいん について しばらく はなし た",
+    "romaji": "tomodachi to wain nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-わずか-98": {
+    "kana": "わずか な てん を さき に せつめい し た",
+    "romaji": "wazuka na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-を追われる-1293": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で こきょう を おわ れる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kokyou o owa reru koto ni shi ta"
+  },
+  "try-n1-一丸-190": {
+    "kana": "いちがん が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "ichigan ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-一人前-366": {
+    "kana": "こまっ て いる いち にんまえ に こえ を かけ た",
+    "romaji": "koma te iru ichi ninmae ni koe o kake ta"
+  },
+  "try-n1-一分野-1253": {
+    "kana": "あめあがり の いち ぶんや に そら が うつっ て い た",
+    "romaji": "ameagari no ichi bun'ya ni sora ga utsu te i ta"
+  },
+  "try-n1-一刻も早い-1208": {
+    "kana": "いっこく も はやい よてい を へんこう し た",
+    "romaji": "ikkoku mo hayai yotei o henkou shi ta"
+  },
+  "try-n1-一刻も早く-1009": {
+    "kana": "じょうきょう を かくにん し て から おちつい て いっこく も はやく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ikkoku mo hayaku"
+  },
+  "try-n1-一助-194": {
+    "kana": "かいぎ で いちじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ichijo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-一同-1371": {
+    "kana": "ともだち と いちどう について しばらく はなし た",
+    "romaji": "tomodachi to ichidou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-一存-1180": {
+    "kana": "かいぎ で いちぞん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ichizon nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-一斉に-47": {
+    "kana": "いっせい に へんじ が とどい た ので あんしん し た",
+    "romaji": "issei ni henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-一晩-932": {
+    "kana": "やこう ばす で とうきょう え むかっ た",
+    "romaji": "yakou basu de toukyou e muka ta"
+  },
+  "try-n1-一気に-361": {
+    "kana": "いっきに へんじ が とどい た ので あんしん し た",
+    "romaji": "ikkini henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-一気飲み-812": {
+    "kana": "ともだち と いっき のみ について しばらく はなし た",
+    "romaji": "tomodachi to ikki nomi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-一流-187": {
+    "kana": "いちりゅう の てつづき を きげん まで に すませ た",
+    "romaji": "ichiryuu no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-一粒-160": {
+    "kana": "ともだち と いち つぶ について しばらく はなし た",
+    "romaji": "tomodachi to ichi tsubu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-一群-239": {
+    "kana": "いちぐん が こっきょう ちかく に はいち さ れ た",
+    "romaji": "ichigun ga kokkyou chikaku ni haichi sa re ta"
+  },
+  "try-n1-一致-622": {
+    "kana": "かれ の いけん に いっち し て ふかく うなずい た",
+    "romaji": "kare no iken ni itchi shi te fukaku unazui ta"
+  },
+  "try-n1-一苦労-284": {
+    "kana": "ひとくろう に だいじ な よてい が はいっ て いる",
+    "romaji": "hitokurou ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-一見-373": {
+    "kana": "かいぎ で いっけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ikken nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-一顧-1175": {
+    "kana": "かいぎ で いっこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ikko nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-下山-637": {
+    "kana": "ゆうがた に なる と げざん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to gezan ga totemo kirei ni mie ta"
+  },
+  "try-n1-下請け-711": {
+    "kana": "えきまえ の したうけ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no shitauke de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-不信-901": {
+    "kana": "かいぎ で ふしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fushin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-不可能-960": {
+    "kana": "ふかのう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fukanou na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-不可解-1361": {
+    "kana": "ふかかい な てん を さき に せつめい し た",
+    "romaji": "fukakai na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-不在-821": {
+    "kana": "ともだち と ふざい について しばらく はなし た",
+    "romaji": "tomodachi to fuzai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-不愉快-722": {
+    "kana": "ふゆかい な てん を さき に せつめい し た",
+    "romaji": "fuyukai na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-不景気-452": {
+    "kana": "ふけいき な せいせき が つづき げんいん を みなおし た",
+    "romaji": "fukeiki na seiseki ga tsuzuki gen'in o minaoshi ta"
+  },
+  "try-n1-不本意-1359": {
+    "kana": "ふ ほんい な てん を さき に せつめい し た",
+    "romaji": "fu hon'i na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-不正-1096": {
+    "kana": "ふせい な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "fusei na atsukai o uke te kare wa sugu ni kougi shi ta"
+  },
+  "try-n1-不気味な-1171": {
+    "kana": "はっぴょう の まえ で かれ わ すこし きんちょう ぶきみ な だっ た",
+    "romaji": "happyou no mae de kare wa sukoshi kinchou bukimi na da ta"
+  },
+  "try-n1-不況-1112": {
+    "kana": "とつぜん の しらせ に つよい ふきょう を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi fukyou o oboe ta"
+  },
+  "try-n1-不況下-827": {
+    "kana": "ともだち と ふきょう か について しばらく はなし た",
+    "romaji": "tomodachi to fukyou ka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-不用意-135": {
+    "kana": "ふようい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "fuyoui na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-不祥事-786": {
+    "kana": "かいぎ で ふしょうじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fushouji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-不良品-709": {
+    "kana": "こうじょう に ひつよう な ふ りょうひん を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na fu ryouhin o asa no uchi ni atsume ta"
+  },
+  "try-n1-不誠実-1352": {
+    "kana": "ともだち と ふせいじつ について しばらく はなし た",
+    "romaji": "tomodachi to fuseijitsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-不適切な-144": {
+    "kana": "ともだち と ふてきせつ な について しばらく はなし た",
+    "romaji": "tomodachi to futekisetsu na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-世界観-1307": {
+    "kana": "きょう の せかい かん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no sekai kan wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-中小企業-99": {
+    "kana": "ともだち と ちゅうしょう きぎょう について しばらく はなし た",
+    "romaji": "tomodachi to chuushou kigyou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-乱獲-1296": {
+    "kana": "かいぎ で らんかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rankaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-乱闘騒ぎ-704": {
+    "kana": "かいぎ で らんとう さわぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rantou sawagi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-乳酸菌-75": {
+    "kana": "かいぎ で にゅうさんきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nyuusankin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-了承-474": {
+    "kana": "けいかく わ じょうし の りょうしょう を え て から すすめる",
+    "romaji": "keikaku wa joushi no ryoushou o e te kara susumeru"
+  },
+  "try-n1-予備校-1050": {
+    "kana": "しゅうまつ に よびこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni yobikou e iku michi o shirabe ta"
+  },
+  "try-n1-予防-391": {
+    "kana": "ともだち と よぼう について しばらく はなし た",
+    "romaji": "tomodachi to yobou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-事ここに至る-68": {
+    "kana": "ちず で もくてき ち を こと ここ に いたる ゆび を み た",
+    "romaji": "chizu de mokuteki chi o koto koko ni itaru yubi o mi ta"
+  },
+  "try-n1-事件現場-1101": {
+    "kana": "あたらしい としょかん わ ひろい じけん げんば に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi jiken genba ni tate rare ta"
+  },
+  "try-n1-事態-1229": {
+    "kana": "ともだち と じたい について しばらく はなし た",
+    "romaji": "tomodachi to jitai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-事業-464": {
+    "kana": "きょう の じぎょう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no jigyou wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-事業所-91": {
+    "kana": "あたらしい としょかん わ ひろい じぎょう しょ に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi jigyou sho ni tate rare ta"
+  },
+  "try-n1-二度書き-1256": {
+    "kana": "かいぎ で に ど がき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ni do gaki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-五分咲き-769": {
+    "kana": "ともだち と ご ふん さき について しばらく はなし た",
+    "romaji": "tomodachi to go fun saki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-交通がマヒする-60": {
+    "kana": "じょうきょう を かくにん し て から おちつい て こうつう が まひ する",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te koutsuu ga mahi suru"
+  },
+  "try-n1-交通ルール-912": {
+    "kana": "かいぎ で こうつう るうる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koutsuu ruuru nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-人ごみ-986": {
+    "kana": "ともだち と ひとごみ について しばらく はなし た",
+    "romaji": "tomodachi to hitogomi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-人件費-658": {
+    "kana": "ともだち と じんけん ひ について しばらく はなし た",
+    "romaji": "tomodachi to jinken hi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-人員削減-925": {
+    "kana": "ともだち と じんいん さくげん について しばらく はなし た",
+    "romaji": "tomodachi to jin'in sakugen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-人影-822": {
+    "kana": "こまっ て いる ひとかげ に こえ を かけ た",
+    "romaji": "koma te iru hitokage ni koe o kake ta"
+  },
+  "try-n1-人手-1218": {
+    "kana": "かいぎ で ひとで について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitode nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-人格-423": {
+    "kana": "ともだち と じんかく について しばらく はなし た",
+    "romaji": "tomodachi to jinkaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-人目も構わず-698": {
+    "kana": "かいぎ で ひとめ も かまわ ず について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitome mo kamawa zu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-人間形成-1223": {
+    "kana": "ともだち と にんげん けいせい について しばらく はなし た",
+    "romaji": "tomodachi to ningen keisei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-今一つ-558": {
+    "kana": "きょう わ いまひとつ つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa imahitotsu tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-介護靴-65": {
+    "kana": "ともだち と かいご くつ について しばらく はなし た",
+    "romaji": "tomodachi to kaigo kutsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-仏陀-1022": {
+    "kana": "ともだち と ぶつだ について しばらく はなし た",
+    "romaji": "tomodachi to butsuda nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-仕事に就く-1227": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しごと に つく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shigoto ni tsuku koto ni shi ta"
+  },
+  "try-n1-他者-1388": {
+    "kana": "こまっ て いる たしゃ に こえ を かけ た",
+    "romaji": "koma te iru tasha ni koe o kake ta"
+  },
+  "try-n1-仮に-946": {
+    "kana": "かりに じかん が あれ ば もういちど あい たい",
+    "romaji": "karini jikan ga are ba mouichido ai tai"
+  },
+  "try-n1-企業-878": {
+    "kana": "えきまえ の きぎょう で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no kigyou de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-伏せる-309": {
+    "kana": "ちず で もくてき ち を ふせる ゆび を み た",
+    "romaji": "chizu de mokuteki chi o fuseru yubi o mi ta"
+  },
+  "try-n1-伐採-1336": {
+    "kana": "こうじょう に ひつよう な ばっさい を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na bassai o asa no uchi ni atsume ta"
+  },
+  "try-n1-休止-1196": {
+    "kana": "かいぎ で きゅうし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuushi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-休職-102": {
+    "kana": "かいぎ で きゅうしょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuushoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-会談-456": {
+    "kana": "ともだち と かいだん について しばらく はなし た",
+    "romaji": "tomodachi to kaidan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-伴う-1127": {
+    "kana": "おもい にもつ を えき まで ともなう ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made tomonau hito o sagashi ta"
+  },
+  "try-n1-低俗-696": {
+    "kana": "ともだち と ていぞく について しばらく はなし た",
+    "romaji": "tomodachi to teizoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-低迷-233": {
+    "kana": "かいぎ で ていめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teimei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-住宅街-1121": {
+    "kana": "かいぎ で じゅうたく がい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de juutaku gai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-体質-630": {
+    "kana": "ともだち と たいしつ について しばらく はなし た",
+    "romaji": "tomodachi to taishitsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-何分にも-819": {
+    "kana": "ともだち と なん ふん に も について しばらく はなし た",
+    "romaji": "tomodachi to nan fun ni mo nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-余白-1259": {
+    "kana": "つくえ の よこ に ほんだな を おく よはく を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku yohaku o tsuku ta"
+  },
+  "try-n1-作り話-1091": {
+    "kana": "ともだち と つくりばなし について しばらく はなし た",
+    "romaji": "tomodachi to tsukuribanashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-使い道-668": {
+    "kana": "かいぎ で つかいみち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsukaimichi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-侍-114": {
+    "kana": "さむらい が こっきょう ちかく に はいち さ れ た",
+    "romaji": "samurai ga kokkyou chikaku ni haichi sa re ta"
+  },
+  "try-n1-侵食-357": {
+    "kana": "ともだち と しんしょく について しばらく はなし た",
+    "romaji": "tomodachi to shinshoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-便器-1276": {
+    "kana": "ふるい べんき を あたらしい もの に こうかん し た",
+    "romaji": "furui benki o atarashii mono ni koukan shi ta"
+  },
+  "try-n1-保全-419": {
+    "kana": "ほぜん の てつづき を きげん まで に すませ た",
+    "romaji": "hozen no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-保護-125": {
+    "kana": "ともだち と ほご について しばらく はなし た",
+    "romaji": "tomodachi to hogo nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-信念-1145": {
+    "kana": "ともだち と しんねん について しばらく はなし た",
+    "romaji": "tomodachi to shinnen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-信用-490": {
+    "kana": "ともだち と しんよう について しばらく はなし た",
+    "romaji": "tomodachi to shin'you nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-修行-982": {
+    "kana": "きょう の しゅぎょう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shugyou wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-俺-749": {
+    "kana": "おれ わ しずか に うなずい た",
+    "romaji": "ore wa shizuka ni unazui ta"
+  },
+  "try-n1-個人情報-1397": {
+    "kana": "こまっ て いる こじん じょうほう に こえ を かけ た",
+    "romaji": "koma te iru kojin jouhou ni koe o kake ta"
+  },
+  "try-n1-個性的-266": {
+    "kana": "こせい てき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kosei teki na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-倒産-351": {
+    "kana": "きょう の とうさん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no tousan wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-借金-222": {
+    "kana": "うけつけ で しゃっきん を よば れる まで まっ た",
+    "romaji": "uketsuke de shakkin o yoba reru made ma ta"
+  },
+  "try-n1-値がつく-1222": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ね が つく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ne ga tsuku"
+  },
+  "try-n1-停電-1318": {
+    "kana": "かいぎ で ていでん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teiden nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-健全な-628": {
+    "kana": "けんぜん な な まち を ゆっくり あるい た",
+    "romaji": "kenzen na na machi o yukkuri arui ta"
+  },
+  "try-n1-健康診断-889": {
+    "kana": "かいぎ で けんこう しんだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kenkou shindan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-健闘-215": {
+    "kana": "かいぎ で けんとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kentou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-偽札-1108": {
+    "kana": "かいぎ で にせさつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nisesatsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-偽物-303": {
+    "kana": "ともだち と にせもの について しばらく はなし た",
+    "romaji": "tomodachi to nisemono nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-働き盛り-104": {
+    "kana": "かいぎ で はたらき ざかり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hataraki zakari nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-億単位の金-374": {
+    "kana": "ともだち と おく たんい の きん について しばらく はなし た",
+    "romaji": "tomodachi to oku tan'i no kin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-優先順位-1199": {
+    "kana": "ともだち と ゆうせん じゅんい について しばらく はなし た",
+    "romaji": "tomodachi to yuusen jun'i nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-儲かる-944": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で もうかる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de moukaru koto ni shi ta"
+  },
+  "try-n1-充実-107": {
+    "kana": "ともだち と じゅうじつ について しばらく はなし た",
+    "romaji": "tomodachi to juujitsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-先を争う-1124": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で さき を あらそう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de saki o arasou koto ni shi ta"
+  },
+  "try-n1-先方-850": {
+    "kana": "ふうとう の せんぽう に じゅうしょ を かい た",
+    "romaji": "fuutou no senpou ni juusho o kai ta"
+  },
+  "try-n1-先輩-162": {
+    "kana": "しゅうまつ に せんぱい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni senpai e iku michi o shirabe ta"
+  },
+  "try-n1-光栄-806": {
+    "kana": "こうえい な てん を さき に せつめい し た",
+    "romaji": "kouei na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-光陰矢のごとし-1148": {
+    "kana": "こういん や の ごとし へんじ が とどい た ので あんしん し た",
+    "romaji": "kouin ya no gotoshi henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-克服-1014": {
+    "kana": "かいぎ で こくふく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kokufuku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-入れ替え-876": {
+    "kana": "ともだち と いれかえ について しばらく はなし た",
+    "romaji": "tomodachi to irekae nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-入居-41": {
+    "kana": "かいぎ で にゅうきょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nyuukyo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-入社式-586": {
+    "kana": "ちいき の にゅうしゃ しき に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no nyuusha shiki ni ooku no hito ga atsuma ta"
+  },
+  "try-n1-入荷-339": {
+    "kana": "こうじょう に ひつよう な にゅうか を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na nyuuka o asa no uchi ni atsume ta"
+  },
+  "try-n1-全品-877": {
+    "kana": "かいぎ で ぜんぴん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zenpin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-全国平均-96": {
+    "kana": "ともだち と ぜんこく へいきん について しばらく はなし た",
+    "romaji": "tomodachi to zenkoku heikin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-全宇宙-1132": {
+    "kana": "ともだち と ぜん うちゅう について しばらく はなし た",
+    "romaji": "tomodachi to zen uchuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-全面解決-755": {
+    "kana": "かいぎ で ぜんめん かいけつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zenmen kaiketsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-公の場-1340": {
+    "kana": "しゅうまつ に おおやけ の ば え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ooyake no ba e iku michi o shirabe ta"
+  },
+  "try-n1-公演-816": {
+    "kana": "しゅうまつ に こうえん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kouen e iku michi o shirabe ta"
+  },
+  "try-n1-公衆便所-1272": {
+    "kana": "かいぎ で こうしゅう べんじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koushuu benjo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-公表-1224": {
+    "kana": "こうひょう な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "kouhyou na shorui o wasure zu ni mo te i ta"
+  },
+  "try-n1-内気-298": {
+    "kana": "うちき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "uchiki na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-内緒-891": {
+    "kana": "かいぎ で ないしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de naisho nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-内部告発-1036": {
+    "kana": "かいぎ で ないぶ こくはつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de naibu kokuhatsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-再三-227": {
+    "kana": "さいさん へんじ が とどい た ので あんしん し た",
+    "romaji": "saisan henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-再婚-1021": {
+    "kana": "ともだち と さいこん について しばらく はなし た",
+    "romaji": "tomodachi to saikon nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-再生可能エネルギー-399": {
+    "kana": "かいぎ で さいせい かのう えねるぎい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saisei kanou enerugii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-再編成-148": {
+    "kana": "ともだち と さい へんせい について しばらく はなし た",
+    "romaji": "tomodachi to sai hensei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-再開-278": {
+    "kana": "かいぎ で さいかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saikai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-冷ややかな-237": {
+    "kana": "ともだち と ひややか な について しばらく はなし た",
+    "romaji": "tomodachi to hiyayaka na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-冷静に-1215": {
+    "kana": "れいせい に よてい を へんこう し た",
+    "romaji": "reisei ni yotei o henkou shi ta"
+  },
+  "try-n1-処置-1209": {
+    "kana": "ともだち と しょち について しばらく はなし た",
+    "romaji": "tomodachi to shochi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-出展-1263": {
+    "kana": "ともだち と しゅってん について しばらく はなし た",
+    "romaji": "tomodachi to shutten nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-出演料-376": {
+    "kana": "しゅうまつ に ともだち と しゅつえん りょう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to shutsuen ryou o mi ni i ta"
+  },
+  "try-n1-出版業界-966": {
+    "kana": "かいぎ で しゅっぱん ぎょうかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shuppan gyoukai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-出荷-333": {
+    "kana": "こうじょう に ひつよう な しゅっか を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na shukka o asa no uchi ni atsume ta"
+  },
+  "try-n1-刀-318": {
+    "kana": "ともだち と かたな について しばらく はなし た",
+    "romaji": "tomodachi to katana nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-分析-547": {
+    "kana": "ともだち と ぶんせき について しばらく はなし た",
+    "romaji": "tomodachi to bunseki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-分析が甘い-548": {
+    "kana": "その せつめい わ すこし ぶんせき が あまい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi bunseki ga amai to kanji ta"
+  },
+  "try-n1-列が空く-887": {
+    "kana": "じょうきょう を かくにん し て から おちつい て れつ が すく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te retsu ga suku"
+  },
+  "try-n1-初心者-645": {
+    "kana": "かいぎ で しょしんしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoshinsha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-利益-1395": {
+    "kana": "かいぎ で りえき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de rieki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-制す-178": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で せいす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de seisu koto ni shi ta"
+  },
+  "try-n1-制服-649": {
+    "kana": "ともだち と せいふく について しばらく はなし た",
+    "romaji": "tomodachi to seifuku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-削減-768": {
+    "kana": "かいぎ で さくげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sakugen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-前衛書道-1251": {
+    "kana": "ともだち と ぜんえい しょどう について しばらく はなし た",
+    "romaji": "tomodachi to zen'ei shodou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-剣-115": {
+    "kana": "かいぎ で けん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ken nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-副作用-1320": {
+    "kana": "かいぎ で ふくさよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukusayou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-割く-803": {
+    "kana": "じょうきょう を かくにん し て から おちつい て さく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te saku"
+  },
+  "try-n1-創る-1081": {
+    "kana": "しゅうまつ に ともだち と たな を つくる けいかく を たて た",
+    "romaji": "shuumatsu ni tomodachi to tana o tsukuru keikaku o tate ta"
+  },
+  "try-n1-創意-462": {
+    "kana": "かれ の そうい を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no soui o kii te kangaekata ga sukoshi kawa ta"
+  },
+  "try-n1-力を注ぐ-1052": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ちから を そそぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de chikara o sosogu koto ni shi ta"
+  },
+  "try-n1-加入-479": {
+    "kana": "すき な ざっし の かにゅう を もうしこん だ",
+    "romaji": "suki na zasshi no kanyuu o moushikon da"
+  },
+  "try-n1-努力の甲斐あって-835": {
+    "kana": "かいぎ で どりょく の かい あっ て について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doryoku no kai a te nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-労働者-100": {
+    "kana": "ろうどう しゃ の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "roudou sha no shatsu o eran de kagami no mae de awase te mi ta"
+  },
+  "try-n1-動物園-1056": {
+    "kana": "かいぎ で どうぶつ えん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doubutsu en nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-務める-838": {
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を つとめる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o tsutomeru"
+  },
+  "try-n1-匂いが漂う-997": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で におい が ただよう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de nioi ga tadayou koto ni shi ta"
+  },
+  "try-n1-包装紙-120": {
+    "kana": "かいぎ で ほうそう し について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de housou shi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-化け物-281": {
+    "kana": "かいぎ で ばけもの について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bakemono nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-化粧-699": {
+    "kana": "へや の けしょう を きれい に ととのえ た",
+    "romaji": "heya no keshou o kirei ni totonoe ta"
+  },
+  "try-n1-化粧水-543": {
+    "kana": "ともだち と けしょう すい について しばらく はなし た",
+    "romaji": "tomodachi to keshou sui nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-医療ミス-1228": {
+    "kana": "かいぎ で いりょう みす について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de iryou misu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-医療機器-881": {
+    "kana": "かいぎ で いりょう きき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de iryou kiki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-医療設備-1200": {
+    "kana": "かいぎ で いりょう せつび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de iryou setsubi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-半日-937": {
+    "kana": "ともだち と はんにち について しばらく はなし た",
+    "romaji": "tomodachi to hannichi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-卑近な-1271": {
+    "kana": "かいぎ で ひきん な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hikin na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-卒業単位-610": {
+    "kana": "かいぎ で そつぎょう たんい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sotsugyou tan'i nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-南極-859": {
+    "kana": "なんきょく の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "nankyoku no sora ga yuuyake de akaku soma ta"
+  },
+  "try-n1-単純-1360": {
+    "kana": "たんじゅん な てん を さき に せつめい し た",
+    "romaji": "tanjun na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-印象-1308": {
+    "kana": "かいぎ で いんしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inshou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-危機-747": {
+    "kana": "かいぎ で きき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kiki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-厚着-860": {
+    "kana": "さむく なっ た ので あつぎ を はおっ た",
+    "romaji": "samuku na ta node atsugi o hao ta"
+  },
+  "try-n1-原料-1310": {
+    "kana": "こうじょう に ひつよう な げんりょう を あさ の うち に あつめ た",
+    "romaji": "koujou ni hitsuyou na genryou o asa no uchi ni atsume ta"
+  },
+  "try-n1-原稿-736": {
+    "kana": "かいぎ で げんこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de genkou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-厳選-1309": {
+    "kana": "かいぎ で げんせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gensen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-厳重に-1231": {
+    "kana": "げんじゅう に よてい を へんこう し た",
+    "romaji": "genjuu ni yotei o henkou shi ta"
+  },
+  "try-n1-反抗-569": {
+    "kana": "かいぎ で はんこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hankou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-収納-242": {
+    "kana": "しゅうのう の てつづき を きげん まで に すませ た",
+    "romaji": "shuunou no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-叔母-164": {
+    "kana": "かいぎ で おば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de oba nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-取り組み-1005": {
+    "kana": "かいぎ で とりくみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de torikumi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-取り調べ-665": {
+    "kana": "かいぎ で とりしらべ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de torishirabe nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-取引先-777": {
+    "kana": "えきまえ の とりひき さき で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no torihiki saki de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-取調室-523": {
+    "kana": "しゅうまつ に とりしらべ しつ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni torishirabe shitsu e iku michi o shirabe ta"
+  },
+  "try-n1-受給者-472": {
+    "kana": "ともだち と じゅきゅう しゃ について しばらく はなし た",
+    "romaji": "tomodachi to jukyuu sha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-受講-467": {
+    "kana": "きょう の じゅこう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no jukou wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-口癖-254": {
+    "kana": "ともだち と くちぐせ について しばらく はなし た",
+    "romaji": "tomodachi to kuchiguse nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-口調-1088": {
+    "kana": "かいぎ で くちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kuchou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-叱る-437": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しかる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shikaru koto ni shi ta"
+  },
+  "try-n1-各国-11": {
+    "kana": "しゅうまつ に かっこく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kakkoku e iku michi o shirabe ta"
+  },
+  "try-n1-各地-783": {
+    "kana": "しゅうまつ に かくち え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kakuchi e iku michi o shirabe ta"
+  },
+  "try-n1-各方面-108": {
+    "kana": "かいぎ で かく ほうめん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaku houmen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-各社-992": {
+    "kana": "えきまえ の かくしゃ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no kakusha de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-合同-795": {
+    "kana": "ともだち と ごうどう について しばらく はなし た",
+    "romaji": "tomodachi to goudou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-合宿-687": {
+    "kana": "ともだち と がっしゅく について しばらく はなし た",
+    "romaji": "tomodachi to gasshuku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-合格通知-1119": {
+    "kana": "かいぎ で ごうかく つうち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de goukaku tsuuchi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-同僚-369": {
+    "kana": "ともだち と どうりょう について しばらく はなし た",
+    "romaji": "tomodachi to douryou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-同情的-971": {
+    "kana": "かいぎ で どうじょう てき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doujou teki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-同意-1392": {
+    "kana": "けいかく わ じょうし の どうい を え て から すすめる",
+    "romaji": "keikaku wa joushi no doui o e te kara susumeru"
+  },
+  "try-n1-同業者-828": {
+    "kana": "しんらい できる どうぎょう しゃ に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru dougyou sha ni shuuri o tanon da"
+  },
+  "try-n1-同窓会-425": {
+    "kana": "きょう の どうそうかい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no dousoukai wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-同行-858": {
+    "kana": "しゅうまつ に どうこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni doukou e iku michi o shirabe ta"
+  },
+  "try-n1-名人-312": {
+    "kana": "かいぎ で めいじん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meijin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-名水-1387": {
+    "kana": "めいすい な まち を ゆっくり あるい た",
+    "romaji": "meisui na machi o yukkuri arui ta"
+  },
+  "try-n1-名目-662": {
+    "kana": "かいぎ で めいもく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de meimoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-吠える-873": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ほえる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hoeru"
+  },
+  "try-n1-否-1273": {
+    "kana": "かえりぎわ に いな と こえ を かけ た",
+    "romaji": "kaerigiwa ni ina to koe o kake ta"
+  },
+  "try-n1-吸い殻-952": {
+    "kana": "ともだち と すいがら について しばらく はなし た",
+    "romaji": "tomodachi to suigara nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-周年-2": {
+    "kana": "そうりつ じゅう しゅうねん を きねん し て しきてん が ひらか れ た",
+    "romaji": "souritsu juu shuunen o kinen shi te shikiten ga hiraka re ta"
+  },
+  "try-n1-呪文-321": {
+    "kana": "ともだち と じゅもん について しばらく はなし た",
+    "romaji": "tomodachi to jumon nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-命じる-814": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で めいじる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de meijiru koto ni shi ta"
+  },
+  "try-n1-品薄-340": {
+    "kana": "ともだち と しなうす について しばらく はなし た",
+    "romaji": "tomodachi to shinausu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-品質-557": {
+    "kana": "かいぎ で ひんしつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hinshitsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-商事-32": {
+    "kana": "ともだち と やまだ しょうじ について しばらく はなし た",
+    "romaji": "tomodachi to yamada shouji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-商工会議所-1063": {
+    "kana": "かいぎ で しょうこう かいぎ しょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoukou kaigi sho nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-商店街-996": {
+    "kana": "ともだち と しょうてん がい について しばらく はなし た",
+    "romaji": "tomodachi to shouten gai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-商談-847": {
+    "kana": "きょう の しょうだん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shoudan wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-問いかけ-1356": {
+    "kana": "かいぎ で といかけ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de toikake nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-善意-573": {
+    "kana": "かいぎ で ぜんい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zen'i nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-喜ばしい-840": {
+    "kana": "その せつめい わ すこし よろこばしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi yorokobashii to kanji ta"
+  },
+  "try-n1-営業部-240": {
+    "kana": "きょう の えいぎょう ぶ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no eigyou bu wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-嘆く-701": {
+    "kana": "じょうきょう を かくにん し て から おちつい て なげく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nageku"
+  },
+  "try-n1-噛む-872": {
+    "kana": "きゅうじつ に ともだち と げえむ に かむ じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni kamu jikan o tanoshin da"
+  },
+  "try-n1-器-313": {
+    "kana": "かいぎ で うつわ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de utsuwa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-回戦-886": {
+    "kana": "ともだち と いち かいせん について しばらく はなし た",
+    "romaji": "tomodachi to ichi kaisen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-回避-455": {
+    "kana": "かいぎ で かいひ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaihi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-図々しい-589": {
+    "kana": "その せつめい わ すこし ずうずうしい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi zuuzuushii to kanji ta"
+  },
+  "try-n1-固定的な-1268": {
+    "kana": "かいぎ で こてい てき な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kotei teki na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-固定観念-1275": {
+    "kana": "かれ の こてい かんねん を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no kotei kannen o kii te kangaekata ga sukoshi kawa ta"
+  },
+  "try-n1-国会-703": {
+    "kana": "こっかい で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "kokkai de atarashii jourei nitsuite giron sa re ta"
+  },
+  "try-n1-国会議員-583": {
+    "kana": "こっかい ぎいん で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "kokkai giin de atarashii jourei nitsuite giron sa re ta"
+  },
+  "try-n1-国宝級-638": {
+    "kana": "きょう の こくほう きゅう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kokuhou kyuu wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-地下倉庫-740": {
+    "kana": "ともだち と ちか そうこ について しばらく はなし た",
+    "romaji": "tomodachi to chika souko nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-地位-904": {
+    "kana": "えきまえ の ちい で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no chii de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-地位に就く-913": {
+    "kana": "かれ わ わかく し て じゅうよう な ちい に つい た",
+    "romaji": "kare wa wakaku shi te juuyou na chii ni tsui ta"
+  },
+  "try-n1-地形-402": {
+    "kana": "かいぎ で ちけい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chikei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-地方-446": {
+    "kana": "しゅうまつ に ちほう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni chihou e iku michi o shirabe ta"
+  },
+  "try-n1-地球外生命体-352": {
+    "kana": "かいぎ で ちきゅう がい せいめい たい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chikyuu gai seimei tai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-地球温暖化-145": {
+    "kana": "かいぎ で ちきゅう おんだん か について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de chikyuu ondan ka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-基本料金-914": {
+    "kana": "きほん りょうきん の てつづき を きげん まで に すませ た",
+    "romaji": "kihon ryoukin no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-堂々と-563": {
+    "kana": "ともだち と どうどう と について しばらく はなし た",
+    "romaji": "tomodachi to doudou to nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-報道-1349": {
+    "kana": "かいぎ で ほうどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de houdou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-塀-1160": {
+    "kana": "かいぎ で へい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-塩分-387": {
+    "kana": "ともだち と えんぶん について しばらく はなし た",
+    "romaji": "tomodachi to enbun nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-境遇-1250": {
+    "kana": "かいぎ で きょうぐう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouguu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-増員-89": {
+    "kana": "うけつけ で ぞういん を よば れる まで まっ た",
+    "romaji": "uketsuke de zouin o yoba reru made ma ta"
+  },
+  "try-n1-墜落-870": {
+    "kana": "ともだち と ついらく について しばらく はなし た",
+    "romaji": "tomodachi to tsuiraku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-壮大な-131": {
+    "kana": "かいぎ で そうだい な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soudai na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-声優-626": {
+    "kana": "ともだち と せいゆう について しばらく はなし た",
+    "romaji": "tomodachi to seiyuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-売り上げ-235": {
+    "kana": "かいぎ で うりあげ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de uriage nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-売れ行き-465": {
+    "kana": "ともだち と うれゆき について しばらく はなし た",
+    "romaji": "tomodachi to ureyuki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-変更-1399": {
+    "kana": "ともだち と へんこう について しばらく はなし た",
+    "romaji": "tomodachi to henkou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-外す-743": {
+    "kana": "たな から にもつ を はずす とき わ あしもと に き を つける",
+    "romaji": "tana kara nimotsu o hazusu toki wa ashimoto ni ki o tsukeru"
+  },
+  "try-n1-外科医-167": {
+    "kana": "ともだち と げか い について しばらく はなし た",
+    "romaji": "tomodachi to geka i nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-多忙-802": {
+    "kana": "たぼう な てん を さき に せつめい し た",
+    "romaji": "tabou na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-多数決-182": {
+    "kana": "かいぎ で たすうけつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tasuuketsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-大した差-972": {
+    "kana": "ともだち と たいした さ について しばらく はなし た",
+    "romaji": "tomodachi to taishita sa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-大らか-555": {
+    "kana": "ともだち と だい ら か について しばらく はなし た",
+    "romaji": "tomodachi to dai ra ka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-大会-884": {
+    "kana": "たいかい で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "taikai de atarashii jourei nitsuite giron sa re ta"
+  },
+  "try-n1-大幅に-767": {
+    "kana": "おおはば に よてい を へんこう し た",
+    "romaji": "oohaba ni yotei o henkou shi ta"
+  },
+  "try-n1-大役-1116": {
+    "kana": "たいやく な しょるい を わすれ ず に もっ て いっ た",
+    "romaji": "taiyaku na shorui o wasure zu ni mo te i ta"
+  },
+  "try-n1-大手-350": {
+    "kana": "えきまえ の おおて で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no oote de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-大臣-143": {
+    "kana": "へや の だいじん を きれい に ととのえ た",
+    "romaji": "heya no daijin o kirei ni totonoe ta"
+  },
+  "try-n1-天候-459": {
+    "kana": "ゆうがた に なる と てんこう が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to tenkou ga totemo kirei ni mie ta"
+  },
+  "try-n1-太陽光発電-398": {
+    "kana": "かいぎ で たいようこう はつでん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taiyoukou hatsuden nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-失う-491": {
+    "kana": "じょうきょう を かくにん し て から おちつい て うしなう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ushinau"
+  },
+  "try-n1-失望-1368": {
+    "kana": "かいぎ で しつぼう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shitsubou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-奇跡-1343": {
+    "kana": "ともだち と きせき について しばらく はなし た",
+    "romaji": "tomodachi to kiseki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-奏でる-347": {
+    "kana": "きゅうじつ に ともだち と げえむ に かなでる じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni kanaderu jikan o tanoshin da"
+  },
+  "try-n1-奨学金-413": {
+    "kana": "しょうがく きん の てつづき を きげん まで に すませ た",
+    "romaji": "shougaku kin no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-奪う-519": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で うばう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ubau koto ni shi ta"
+  },
+  "try-n1-奴-846": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で やつ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yatsu koto ni shi ta"
+  },
+  "try-n1-好奇心-279": {
+    "kana": "ともだち と こうき しん について しばらく はなし た",
+    "romaji": "tomodachi to kouki shin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-好転-416": {
+    "kana": "かいぎ で こうてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouten nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-妖怪-291": {
+    "kana": "かいぎ で ようかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de youkai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-姿-55": {
+    "kana": "ともだち と すがた について しばらく はなし た",
+    "romaji": "tomodachi to sugata nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-威張る-1153": {
+    "kana": "うわぎ を いばる ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o ibaru basho o iriguchi no chikaku ni tsuku ta"
+  },
+  "try-n1-子熊-134": {
+    "kana": "ともだち と こ くま について しばらく はなし た",
+    "romaji": "tomodachi to ko kuma nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-子鬼-1071": {
+    "kana": "かいぎ で こ おに について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ko oni nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-孔子-1168": {
+    "kana": "つくえ の うえ に こうし を おい て から でかけ た",
+    "romaji": "tsukue no ue ni koushi o oi te kara dekake ta"
+  },
+  "try-n1-存続-1237": {
+    "kana": "ともだち と そんぞく について しばらく はなし た",
+    "romaji": "tomodachi to sonzoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-孤独な-1287": {
+    "kana": "ともだち と こどく な について しばらく はなし た",
+    "romaji": "tomodachi to kodoku na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-学生街-390": {
+    "kana": "こまっ て いる がくせい がい に こえ を かけ た",
+    "romaji": "koma te iru gakusei gai ni koe o kake ta"
+  },
+  "try-n1-学費-686": {
+    "kana": "しゅうまつ に がくひ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni gakuhi e iku michi o shirabe ta"
+  },
+  "try-n1-宇宙人-911": {
+    "kana": "つくえ の よこ に ほんだな を おく うちゅう じん を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku uchuu jin o tsuku ta"
+  },
+  "try-n1-宇宙旅行-602": {
+    "kana": "つくえ の よこ に ほんだな を おく うちゅう りょこう を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku uchuu ryokou o tsuku ta"
+  },
+  "try-n1-安らか-1158": {
+    "kana": "やすらか な てん を さき に せつめい し た",
+    "romaji": "yasuraka na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-安全性-1130": {
+    "kana": "ともだち と あんぜん せい について しばらく はなし た",
+    "romaji": "tomodachi to anzen sei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-完売-1102": {
+    "kana": "でんしゃ わ かんばい で いりぐち まで ひと が たっ て い た",
+    "romaji": "densha wa kanbai de iriguchi made hito ga ta te i ta"
+  },
+  "try-n1-定着-433": {
+    "kana": "しゅうまつ に ていちゃく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni teichaku e iku michi o shirabe ta"
+  },
+  "try-n1-定評がある-268": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ていひょう が ある こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de teihyou ga aru koto ni shi ta"
+  },
+  "try-n1-宝-1076": {
+    "kana": "ともだち と たから について しばらく はなし た",
+    "romaji": "tomodachi to takara nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-宝くじ-301": {
+    "kana": "つくえ の うえ に たからくじ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni takarakuji o oi te kara dekake ta"
+  },
+  "try-n1-宝物-928": {
+    "kana": "ともだち と ほうもつ について しばらく はなし た",
+    "romaji": "tomodachi to houmotsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-宝石-1220": {
+    "kana": "ともだち と ほうせき について しばらく はなし た",
+    "romaji": "tomodachi to houseki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-実情-403": {
+    "kana": "かいぎ で じつじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jitsujou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-実用的-267": {
+    "kana": "じつよう てき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "jitsuyou teki na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-実行力-1367": {
+    "kana": "かいぎ で じっこう りょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jikkou ryoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-容疑者-753": {
+    "kana": "かいぎ で ようぎ しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yougi sha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-宿直-520": {
+    "kana": "しゅくちょく に だいじ な よてい が はいっ て いる",
+    "romaji": "shukuchoku ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-寄り添う-1140": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で よりそう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yorisou koto ni shi ta"
+  },
+  "try-n1-寄付-1219": {
+    "kana": "かいぎ で きふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kifu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-寄付金-574": {
+    "kana": "ともだち と きふ きん について しばらく はなし た",
+    "romaji": "tomodachi to kifu kin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-寛容な-48": {
+    "kana": "ともだち と かんよう な について しばらく はなし た",
+    "romaji": "tomodachi to kan'you na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-寝返りを打つ-275": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ねがえり を うつ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te negaeri o utsu"
+  },
+  "try-n1-対応-655": {
+    "kana": "かいぎ で たいおう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taiou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-専門医-1374": {
+    "kana": "かいぎ で せんもんい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senmon'i nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-小型車-648": {
+    "kana": "ともだち と こがたしゃ について しばらく はなし た",
+    "romaji": "tomodachi to kogatasha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-小心者-1155": {
+    "kana": "こまっ て いる しょうしん しゃ に こえ を かけ た",
+    "romaji": "koma te iru shoushin sha ni koe o kake ta"
+  },
+  "try-n1-小規模-90": {
+    "kana": "しょうきぼ な てん を さき に せつめい し た",
+    "romaji": "shoukibo na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-小麦粉-217": {
+    "kana": "ともだち と こむぎこ について しばらく はなし た",
+    "romaji": "tomodachi to komugiko nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-少子化-388": {
+    "kana": "ともだち と しょうし か について しばらく はなし た",
+    "romaji": "tomodachi to shoushi ka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-少子高齢社会-1225": {
+    "kana": "かいぎ で しょうし こうれい しゃかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoushi kourei shakai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-就活-608": {
+    "kana": "きょう の 就 かつ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no 就 katsu wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-就職-689": {
+    "kana": "きょう の しゅうしょく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shuushoku wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-尽力-824": {
+    "kana": "ともだち と じんりょく について しばらく はなし た",
+    "romaji": "tomodachi to jinryoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-居眠り-521": {
+    "kana": "かいぎ で いねむり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de inemuri nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-展示-1058": {
+    "kana": "ともだち と てんじ について しばらく はなし た",
+    "romaji": "tomodachi to tenji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-展開-1301": {
+    "kana": "あたらしい さあびす の てんかい が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no tenkai ga yotei yori hayaku susun de iru"
+  },
+  "try-n1-履歴書-475": {
+    "kana": "つくえ の うえ に りれき しょ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni rireki sho o oi te kara dekake ta"
+  },
+  "try-n1-山寺-1170": {
+    "kana": "ゆうがた に なる と やまでら が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to yamadera ga totemo kirei ni mie ta"
+  },
+  "try-n1-山百合-864": {
+    "kana": "ともだち と やまゆり について しばらく はなし た",
+    "romaji": "tomodachi to yamayuri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-山菜-820": {
+    "kana": "ともだち と さんさい について しばらく はなし た",
+    "romaji": "tomodachi to sansai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-山間部-122": {
+    "kana": "かいぎ で さんかん ぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sankan bu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-島民-1004": {
+    "kana": "ゆうがた に なる と とうみん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to toumin ga totemo kirei ni mie ta"
+  },
+  "try-n1-嵐-539": {
+    "kana": "ともだち と あらし について しばらく はなし た",
+    "romaji": "tomodachi to arashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-川面-987": {
+    "kana": "ふうとう の かわも に じゅうしょ を かい た",
+    "romaji": "fuutou no kawamo ni juusho o kai ta"
+  },
+  "try-n1-工夫-463": {
+    "kana": "かいぎ で くふう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kufuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-工芸品-64": {
+    "kana": "ともだち と こうげい ひん について しばらく はなし た",
+    "romaji": "tomodachi to kougei hin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-巧みな-1299": {
+    "kana": "たくみ な な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "takumi na na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-差-938": {
+    "kana": "かいぎ で さ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-市場調査-1289": {
+    "kana": "ともだち と しじょう ちょうさ について しばらく はなし た",
+    "romaji": "tomodachi to shijou chousa nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-市議会-86": {
+    "kana": "しぎかい で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "shigikai de atarashii jourei nitsuite giron sa re ta"
+  },
+  "try-n1-市長-87": {
+    "kana": "ともだち と しちょう について しばらく はなし た",
+    "romaji": "tomodachi to shichou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-席上-808": {
+    "kana": "かいぎ で せきじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sekijou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-帰国-921": {
+    "kana": "しゅうまつ に きこく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kikoku e iku michi o shirabe ta"
+  },
+  "try-n1-帰宅-706": {
+    "kana": "ともだち と きたく について しばらく はなし た",
+    "romaji": "tomodachi to kitaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-帰還-1043": {
+    "kana": "かいぎ で きかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kikan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-平凡-383": {
+    "kana": "へいぼん な てん を さき に せつめい し た",
+    "romaji": "heibon na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-平然と-1159": {
+    "kana": "かいぎ で へいぜんと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de heizento nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-年末-1123": {
+    "kana": "ねんまつ に だいじ な よてい が はいっ て いる",
+    "romaji": "nenmatsu ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-幻想的な-1306": {
+    "kana": "ともだち と げんそう てき な について しばらく はなし た",
+    "romaji": "tomodachi to gensou teki na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-幼い-241": {
+    "kana": "おさない はこ を たな の うえ に おい た",
+    "romaji": "osanai hako o tana no ue ni oi ta"
+  },
+  "try-n1-幼児-73": {
+    "kana": "しゅうまつ に ようじ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni youji e iku michi o shirabe ta"
+  },
+  "try-n1-広告-170": {
+    "kana": "かいぎ で こうこく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koukoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-広報活動-1006": {
+    "kana": "ともだち と こうほう かつどう について しばらく はなし た",
+    "romaji": "tomodachi to kouhou katsudou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-度重なる-1040": {
+    "kana": "じょうきょう を かくにん し て から おちつい て たびかさなる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tabikasanaru"
+  },
+  "try-n1-庶民感覚-544": {
+    "kana": "かいぎ で しょみん かんかく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shomin kankaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-廃棄処分-663": {
+    "kana": "かいぎ で はいき しょぶん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de haiki shobun nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-廃線-140": {
+    "kana": "かいぎ で はい せん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hai sen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-延期-460": {
+    "kana": "ともだち と えんき について しばらく はなし た",
+    "romaji": "tomodachi to enki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-建造物-1363": {
+    "kana": "かいぎ で けんぞう ぶつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kenzou butsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-弁護士-224": {
+    "kana": "ともだち と べんごし について しばらく はなし た",
+    "romaji": "tomodachi to bengoshi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-弊社-406": {
+    "kana": "えきまえ の へいしゃ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no heisha de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-引きとめる-228": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ひき とめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hiki tomeru"
+  },
+  "try-n1-引き返す-579": {
+    "kana": "しゅうまつ に ともだち の いえ え ひきかえす よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hikikaesu yotei da"
+  },
+  "try-n1-引退-1193": {
+    "kana": "かいぎ で いんたい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de intai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-強化-1007": {
+    "kana": "かいぎ で きょうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyouka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-強盗-300": {
+    "kana": "ともだち と ごうとう について しばらく はなし た",
+    "romaji": "tomodachi to goutou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-強行採決-702": {
+    "kana": "ともだち と きょうこう さいけつ について しばらく はなし た",
+    "romaji": "tomodachi to kyoukou saiketsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-強風-1162": {
+    "kana": "ゆうがた に なる と きょうふう が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kyoufuu ga totemo kirei ni mie ta"
+  },
+  "try-n1-弾圧-1348": {
+    "kana": "かいぎ で だんあつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de dan'atsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-当-72": {
+    "kana": "ともだち と とう よてい について しばらく はなし た",
+    "romaji": "tomodachi to tou yotei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-当事者-180": {
+    "kana": "こまっ て いる とうじしゃ に こえ を かけ た",
+    "romaji": "koma te iru toujisha ni koe o kake ta"
+  },
+  "try-n1-当社-69": {
+    "kana": "えきまえ の とうしゃ で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no tousha de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-当選-1396": {
+    "kana": "かいぎ で とうせん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tousen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-当選者-173": {
+    "kana": "かいぎ で とうせん しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tousen sha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-彗星-1156": {
+    "kana": "ともだち と すいせい について しばらく はなし た",
+    "romaji": "tomodachi to suisei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-影-1139": {
+    "kana": "ともだち と かげ について しばらく はなし た",
+    "romaji": "tomodachi to kage nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-役者-500": {
+    "kana": "こまっ て いる やくしゃ に こえ を かけ た",
+    "romaji": "koma te iru yakusha ni koe o kake ta"
+  },
+  "try-n1-征服-1133": {
+    "kana": "ゆうがた に なる と せいふく が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to seifuku ga totemo kirei ni mie ta"
+  },
+  "try-n1-待ちかねる-1182": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で まちかねる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de machikaneru koto ni shi ta"
+  },
+  "try-n1-待ち構える-330": {
+    "kana": "よる に ゆっくり まちかまえる じかん を つくっ た",
+    "romaji": "yoru ni yukkuri machikamaeru jikan o tsuku ta"
+  },
+  "try-n1-後輩-370": {
+    "kana": "しゅうまつ に こうはい え いく みち を しらべ た",
+    "romaji": "shuumatsu ni kouhai e iku michi o shirabe ta"
+  },
+  "try-n1-徐々に-1087": {
+    "kana": "じょじょに よてい を へんこう し た",
+    "romaji": "jojoni yotei o henkou shi ta"
+  },
+  "try-n1-従う-763": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で したがう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shitagau koto ni shi ta"
+  },
+  "try-n1-従業員-616": {
+    "kana": "ともだち と じゅうぎょう いん について しばらく はなし た",
+    "romaji": "tomodachi to juugyou in nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-得る-906": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で える こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de eru koto ni shi ta"
+  },
+  "try-n1-復元-363": {
+    "kana": "かいぎ で ふくげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukugen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-復帰-761": {
+    "kana": "かいぎ で ふっき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-微動-1176": {
+    "kana": "かいぎ で びどう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bidou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-微笑み-1093": {
+    "kana": "ともだち と ほほえみ について しばらく はなし た",
+    "romaji": "tomodachi to hohoemi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-志望校-1010": {
+    "kana": "しゅうまつ に しぼうこう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shiboukou e iku michi o shirabe ta"
+  },
+  "try-n1-応募-476": {
+    "kana": "すき な ざっし の おうぼ を もうしこん だ",
+    "romaji": "suki na zasshi no oubo o moushikon da"
+  },
+  "try-n1-応募作-1375": {
+    "kana": "きょう の おうぼ さく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no oubo saku wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-快挙-1315": {
+    "kana": "かいぎ で かいきょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaikyo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-快適-484": {
+    "kana": "かいてき な てん を さき に せつめい し た",
+    "romaji": "kaiteki na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-念願-826": {
+    "kana": "ともだち と ねんがん について しばらく はなし た",
+    "romaji": "tomodachi to nengan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-怒鳴る-653": {
+    "kana": "じょうきょう を かくにん し て から おちつい て どなる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te donaru"
+  },
+  "try-n1-思いやり-441": {
+    "kana": "とつぜん の しらせ に つよい おもいやり を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi omoiyari o oboe ta"
+  },
+  "try-n1-思いやる-1389": {
+    "kana": "ちいさな こども づれ の きゃく に おもいやる せき を ようい し た",
+    "romaji": "chiisana kodomo zure no kyaku ni omoiyaru seki o youi shi ta"
+  },
+  "try-n1-急降下-871": {
+    "kana": "かいぎ で きゅうこうか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuukouka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-性格-861": {
+    "kana": "こまっ て いる せいかく に こえ を かけ た",
+    "romaji": "koma te iru seikaku ni koe o kake ta"
+  },
+  "try-n1-怪盗-269": {
+    "kana": "かいぎ で かいとう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaitou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-恋愛小説-132": {
+    "kana": "とつぜん の しらせ に つよい れんあい しょうせつ を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ren'ai shousetsu o oboe ta"
+  },
+  "try-n1-恩師-426": {
+    "kana": "こまっ て いる おんし に こえ を かけ た",
+    "romaji": "koma te iru onshi ni koe o kake ta"
+  },
+  "try-n1-息抜き-260": {
+    "kana": "かいぎ で いきぬき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ikinuki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-悔しい-198": {
+    "kana": "おもっ た より くやしい もんだい だっ た",
+    "romaji": "omo ta yori kuyashii mondai da ta"
+  },
+  "try-n1-悩み-776": {
+    "kana": "ともだち と なやみ について しばらく はなし た",
+    "romaji": "tomodachi to nayami nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-悪天候-1046": {
+    "kana": "ゆうがた に なる と あくてんこう が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to akutenkou ga totemo kirei ni mie ta"
+  },
+  "try-n1-悪天候下-1247": {
+    "kana": "ゆうがた に なる と あくてんこう か が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to akutenkou ka ga totemo kirei ni mie ta"
+  },
+  "try-n1-悪徳業者-781": {
+    "kana": "しんらい できる あくとく ぎょうしゃ に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru akutoku gyousha ni shuuri o tanon da"
+  },
+  "try-n1-悲惨な-764": {
+    "kana": "ともだち と ひさん な について しばらく はなし た",
+    "romaji": "tomodachi to hisan na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-情けない-843": {
+    "kana": "その せつめい わ すこし なさけない と かんじ た",
+    "romaji": "sono setsumei wa sukoshi nasakenai to kanji ta"
+  },
+  "try-n1-情勢-461": {
+    "kana": "ともだち と じょうせい について しばらく はなし た",
+    "romaji": "tomodachi to jousei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-惑星探査機-1041": {
+    "kana": "ともだち と わくせい たんさ き について しばらく はなし た",
+    "romaji": "tomodachi to wakusei tansa ki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-惜別-1372": {
+    "kana": "かいぎ で せきべつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sekibetsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-想い-1194": {
+    "kana": "おもい しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "omoi shatsu o eran de kagami no mae de awase te mi ta"
+  },
+  "try-n1-想定外-1332": {
+    "kana": "かいぎ で そうてい がい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soutei gai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-愛犬-1288": {
+    "kana": "ちかく の ぼくじょう で あいけん を み た",
+    "romaji": "chikaku no bokujou de aiken o mi ta"
+  },
+  "try-n1-感情-128": {
+    "kana": "とつぜん の しらせ に つよい かんじょう を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi kanjou o oboe ta"
+  },
+  "try-n1-感情を抑える-129": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かんじょう を おさえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kanjou o osaeru koto ni shi ta"
+  },
+  "try-n1-感染症-759": {
+    "kana": "ともだち と かんせん しょう について しばらく はなし た",
+    "romaji": "tomodachi to kansen shou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-感知-748": {
+    "kana": "かいぎ で かんち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanchi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-態度-1331": {
+    "kana": "ともだち と たいど について しばらく はなし た",
+    "romaji": "tomodachi to taido nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-慌てる-1079": {
+    "kana": "はる に あわてる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni awateru koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-慎重に-1321": {
+    "kana": "しんちょう に よてい を へんこう し た",
+    "romaji": "shinchou ni yotei o henkou shi ta"
+  },
+  "try-n1-慰め-541": {
+    "kana": "ともだち と なぐさめ について しばらく はなし た",
+    "romaji": "tomodachi to nagusame nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-憤り-1369": {
+    "kana": "とつぜん の しらせ に つよい いきどおり を おぼえ た",
+    "romaji": "totsuzen no shirase ni tsuyoi ikidoori o oboe ta"
+  },
+  "try-n1-懐-1074": {
+    "kana": "つくえ の よこ に ほんだな を おく ふところ を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku futokoro o tsuku ta"
+  },
+  "try-n1-懐石料理-82": {
+    "kana": "ともだち と かいせき りょうり について しばらく はなし た",
+    "romaji": "tomodachi to kaiseki ryouri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-成し遂げる-1317": {
+    "kana": "さいご まで けいかく を なしとげる かくご を きめ た",
+    "romaji": "saigo made keikaku o nashitogeru kakugo o kime ta"
+  },
+  "try-n1-成果-394": {
+    "kana": "かいぎ で せいか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seika nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-成果を得る-1008": {
+    "kana": "じょうきょう を かくにん し て から おちつい て せいか を える",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te seika o eru"
+  },
+  "try-n1-戦場-230": {
+    "kana": "ともだち と せんじょう について しばらく はなし た",
+    "romaji": "tomodachi to senjou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-戦火-1344": {
+    "kana": "かいぎ で せんか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-戻る-903": {
+    "kana": "しゅうまつ に ともだち の いえ え もどる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e modoru yotei da"
+  },
+  "try-n1-所持-265": {
+    "kana": "こまっ て いる しょじ に こえ を かけ た",
+    "romaji": "koma te iru shoji ni koe o kake ta"
+  },
+  "try-n1-手口-271": {
+    "kana": "かいぎ で てぐち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teguchi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-手品-1025": {
+    "kana": "てじな が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "tejina ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-手術-890": {
+    "kana": "しゅじゅつ が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "shujutsu ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-打ち上げ-458": {
+    "kana": "ともだち と うちあげ について しばらく はなし た",
+    "romaji": "tomodachi to uchiage nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-扱う-681": {
+    "kana": "かえりぎわ に あつかう と こえ を かけ た",
+    "romaji": "kaerigiwa ni atsukau to koe o kake ta"
+  },
+  "try-n1-技術者-882": {
+    "kana": "かいぎ で ぎじゅつ しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gijutsu sha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-抑える-659": {
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を おさえる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o osaeru"
+  },
+  "try-n1-抱く-1270": {
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を いだく",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o idaku"
+  },
+  "try-n1-担う-1377": {
+    "kana": "しゅっちょう の こうつう ひ わ かいしゃ が になう",
+    "romaji": "shutchou no koutsuu hi wa kaisha ga ninau"
+  },
+  "try-n1-担架-221": {
+    "kana": "ともだち と たんか について しばらく はなし た",
+    "romaji": "tomodachi to tanka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-指摘-435": {
+    "kana": "かいぎ で してき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shiteki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-指示を仰ぐ-372": {
+    "kana": "じょうきょう を かくにん し て から おちつい て しじ を あおぐ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te shiji o aogu"
+  },
+  "try-n1-挨拶-922": {
+    "kana": "かいぎ で あいさつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aisatsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-振る舞う-1154": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ふるまう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de furumau koto ni shi ta"
+  },
+  "try-n1-捕まる-708": {
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を つかまる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o tsukamaru"
+  },
+  "try-n1-採用-863": {
+    "kana": "かいぎ で さいよう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saiyou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-採算-857": {
+    "kana": "かいぎ で さいさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de saisan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-接待-778": {
+    "kana": "ひる ごはん に せったい を すこし たべ た",
+    "romaji": "hiru gohan ni settai o sukoshi tabe ta"
+  },
+  "try-n1-接戦-985": {
+    "kana": "たよう な せっせん の ひとびと が おなじ かいじょう に あつまっ た",
+    "romaji": "tayou na sessen no hitobito ga onaji kaijou ni atsuma ta"
+  },
+  "try-n1-控え-184": {
+    "kana": "かいぎ で ひかえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hikae nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-控える-244": {
+    "kana": "らいげつ えきまえ の ひろば で おんがく いべんと を ひかえる",
+    "romaji": "raigetsu ekimae no hiroba de ongaku ibento o hikaeru"
+  },
+  "try-n1-描写-1305": {
+    "kana": "ともだち と びょうしゃ について しばらく はなし た",
+    "romaji": "tomodachi to byousha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-提出-716": {
+    "kana": "かいぎ で ていしゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teishutsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-提案-71": {
+    "kana": "かいぎ で ていあん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de teian nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-握り飯-287": {
+    "kana": "かいぎ で にぎりめし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nigirimeshi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-揺れる-672": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ゆれる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de yureru koto ni shi ta"
+  },
+  "try-n1-損失-1290": {
+    "kana": "ともだち と そんしつ について しばらく はなし た",
+    "romaji": "tomodachi to sonshitsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-損害賠償-343": {
+    "kana": "かいぎ で そんがい ばいしょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de songai baishou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-搬送-1211": {
+    "kana": "そふ の はんそう が きまり かぞく で じゅんび を し た",
+    "romaji": "sofu no hansou ga kimari kazoku de junbi o shi ta"
+  },
+  "try-n1-携える-229": {
+    "kana": "おもい にもつ を えき まで たずさえる ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made tazusaeru hito o sagashi ta"
+  },
+  "try-n1-支援-731": {
+    "kana": "かいぎ で しえん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shien nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-放っておく-572": {
+    "kana": "じょうきょう を かくにん し て から おちつい て はなっ て おく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hana te oku"
+  },
+  "try-n1-放置-620": {
+    "kana": "ともだち と ほうち について しばらく はなし た",
+    "romaji": "tomodachi to houchi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-政治家-576": {
+    "kana": "ともだち と せいじ か について しばらく はなし た",
+    "romaji": "tomodachi to seiji ka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-故郷-152": {
+    "kana": "こきょう の あじ を しり たく て その まち を おとずれ た",
+    "romaji": "kokyou no aji o shiri taku te sono machi o otozure ta"
+  },
+  "try-n1-救命ボート-1329": {
+    "kana": "かいぎ で きゅうめい ぼうと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuumei bouto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-救命救急-1198": {
+    "kana": "かいぎ で きゅうめい きゅうきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kyuumei kyuukyuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-敢えて-1126": {
+    "kana": "あえて この ぶぶん を ていねい に よん だ",
+    "romaji": "aete kono bubun o teinei ni yon da"
+  },
+  "try-n1-散らかす-335": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ちらかす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te chirakasu"
+  },
+  "try-n1-散乱-680": {
+    "kana": "ひる ごはん に さんらん を すこし たべ た",
+    "romaji": "hiru gohan ni sanran o sukoshi tabe ta"
+  },
+  "try-n1-敬愛-197": {
+    "kana": "かいぎ で けいあい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keiai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-整腸薬-77": {
+    "kana": "かいぎ で せい ちょう やく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sei chou yaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-敵-319": {
+    "kana": "ともだち と てき について しばらく はなし た",
+    "romaji": "tomodachi to teki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-文具-674": {
+    "kana": "ともだち と ぶんぐ について しばらく はなし た",
+    "romaji": "tomodachi to bungu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-文科系-400": {
+    "kana": "ともだち と ぶんか けい について しばらく はなし た",
+    "romaji": "tomodachi to bunka kei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-断定-246": {
+    "kana": "ともだち と だんてい について しばらく はなし た",
+    "romaji": "tomodachi to dantei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-新人-627": {
+    "kana": "ともだち と しんじん について しばらく はなし た",
+    "romaji": "tomodachi to shinjin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-新作-30": {
+    "kana": "きょう の しんさく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no shinsaku wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-新卒-113": {
+    "kana": "ともだち と しんそつ について しばらく はなし た",
+    "romaji": "tomodachi to shinsotsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-新型-880": {
+    "kana": "かいぎ で しんがた について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shingata nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-新薬-1146": {
+    "kana": "かいぎ で しんやく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shin'yaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-新車-596": {
+    "kana": "かいぎ で しんしゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinsha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-方々で-251": {
+    "kana": "ともだち と かたがた で について しばらく はなし た",
+    "romaji": "tomodachi to katagata de nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-方っ端から-941": {
+    "kana": "かいぎ で かた っ はじ から について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kata  haji kara nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-方針-1179": {
+    "kana": "ともだち と ほうしん について しばらく はなし た",
+    "romaji": "tomodachi to houshin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-日帰り-636": {
+    "kana": "ともだち と ひがえり について しばらく はなし た",
+    "romaji": "tomodachi to higaeri nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-日程-817": {
+    "kana": "ともだち と にってい について しばらく はなし た",
+    "romaji": "tomodachi to nittei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-早咲き-295": {
+    "kana": "ともだち と はやざき について しばらく はなし た",
+    "romaji": "tomodachi to hayazaki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-早朝-651": {
+    "kana": "そうちょう に だいじ な よてい が はいっ て いる",
+    "romaji": "souchou ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-昇進-261": {
+    "kana": "かいぎ で しょうしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoushin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-映像-354": {
+    "kana": "ともだち と えいぞう について しばらく はなし た",
+    "romaji": "tomodachi to eizou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-昨年度-112": {
+    "kana": "さくねんど に だいじ な よてい が はいっ て いる",
+    "romaji": "sakunendo ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-時給-482": {
+    "kana": "ともだち と じきゅう について しばらく はなし た",
+    "romaji": "tomodachi to jikyuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-晩婚化-389": {
+    "kana": "かいぎ で ばんこん か について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de bankon ka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-普段-51": {
+    "kana": "かいぎ で ふだん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fudan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-景気-415": {
+    "kana": "きょう の けいき わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no keiki wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-暴く-1097": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で あばく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de abaku koto ni shi ta"
+  },
+  "try-n1-書家-1267": {
+    "kana": "かいぎ で しょか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-書面-185": {
+    "kana": "つくえ の うえ に しょめん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shomen o oi te kara dekake ta"
+  },
+  "try-n1-有利な-414": {
+    "kana": "かいぎ で ゆうり な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuri na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-有罪-1379": {
+    "kana": "かいぎ で ゆうざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yuuzai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-望む-1385": {
+    "kana": "ことし の うりあげ わ きょねん を うわまわる と のぞん で いる",
+    "romaji": "kotoshi no uriage wa kyonen o uwamawaru to nozon de iru"
+  },
+  "try-n1-未定-606": {
+    "kana": "みてい な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "mitei na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-未満-93": {
+    "kana": "かいぎ で そうりつ みまん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de souritsu miman nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-末の-378": {
+    "kana": "ともだち と すえ の よてい について しばらく はなし た",
+    "romaji": "tomodachi to sue no yotei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-本場-10": {
+    "kana": "ほんば な まち を ゆっくり あるい た",
+    "romaji": "honba na machi o yukkuri arui ta"
+  },
+  "try-n1-本日-787": {
+    "kana": "ほんじつ わ はやめ に いえ を で た",
+    "romaji": "honjitsu wa hayame ni ie o de ta"
+  },
+  "try-n1-本来-799": {
+    "kana": "かいぎ で ほんらい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de honrai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-本番-1283": {
+    "kana": "かいぎ で ほんばん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de honban nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-札束-1107": {
+    "kana": "かいぎ で さつたば について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de satsutaba nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-村上春樹-61": {
+    "kana": "かいぎ で むらかみ はるき について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de murakami haruki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-条件-943": {
+    "kana": "かいぎ で じょうけん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jouken nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-条例-409": {
+    "kana": "ともだち と じょうれい について しばらく はなし た",
+    "romaji": "tomodachi to jourei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-東京ドーム-7": {
+    "kana": "とうきょうどうむ で やきゅう の しあい を み た",
+    "romaji": "toukyoudoumu de yakyuu no shiai o mi ta"
+  },
+  "try-n1-東北-38": {
+    "kana": "とうほく の そら が ゆうやけ で あかく そまっ た",
+    "romaji": "touhoku no sora ga yuuyake de akaku soma ta"
+  },
+  "try-n1-果樹園-1061": {
+    "kana": "ともだち と かじゅ えん について しばらく はなし た",
+    "romaji": "tomodachi to kaju en nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-柄-498": {
+    "kana": "かいぎ で え について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de e nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-某-514": {
+    "kana": "ともだち と ぼう よてい について しばらく はなし た",
+    "romaji": "tomodachi to bou yotei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-柵-158": {
+    "kana": "かいぎ で しがらみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shigarami nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-根強い-1245": {
+    "kana": "その せつめい わ すこし ねづよい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi nezuyoi to kanji ta"
+  },
+  "try-n1-梅-296": {
+    "kana": "うめ の はこ を たな に きれい に ならべ た",
+    "romaji": "ume no hako o tana ni kirei ni narabe ta"
+  },
+  "try-n1-検討-929": {
+    "kana": "きょう の けんとう わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kentou wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-検討中-608": {
+    "kana": "ともだち と けんとう ちゅう について しばらく はなし た",
+    "romaji": "tomodachi to kentou chuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-業界-407": {
+    "kana": "きょう の ぎょうかい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no gyoukai wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-業種-533": {
+    "kana": "かいぎ で ぎょうしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gyoushu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-楽園-1080": {
+    "kana": "ともだち と らくえん について しばらく はなし た",
+    "romaji": "tomodachi to rakuen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-構成-551": {
+    "kana": "あたらしい さあびす の こうせい が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no kousei ga yotei yori hayaku susun de iru"
+  },
+  "try-n1-槍-117": {
+    "kana": "かいぎ で やり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yari nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-権力の座-1292": {
+    "kana": "かいぎ で けんりょく の ざ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kenryoku no za nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-権威-805": {
+    "kana": "ともだち と けんい について しばらく はなし た",
+    "romaji": "tomodachi to ken'i nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-横領-1335": {
+    "kana": "ともだち と おうりょう について しばらく はなし た",
+    "romaji": "tomodachi to ouryou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-樽-5": {
+    "kana": "わいん を ふるい たる で じゅくせい さ せ た",
+    "romaji": "wain o furui taru de jukusei sa se ta"
+  },
+  "try-n1-機種-79": {
+    "kana": "ちかく の みせ で きしゅ を みつけ た",
+    "romaji": "chikaku no mise de kishu o mitsuke ta"
+  },
+  "try-n1-欠かす-916": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かかす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kakasu koto ni shi ta"
+  },
+  "try-n1-欠航-468": {
+    "kana": "けっこう な てん を さき に せつめい し た",
+    "romaji": "kekkou na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-欠陥-619": {
+    "kana": "ともだち と けっかん について しばらく はなし た",
+    "romaji": "tomodachi to kekkan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-欠陥品-1338": {
+    "kana": "ともだち と けっかん ひん について しばらく はなし た",
+    "romaji": "tomodachi to kekkan hin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-次期-421": {
+    "kana": "じき よてい に だいじ な よてい が はいっ て いる",
+    "romaji": "jiki yotei ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-欲望-195": {
+    "kana": "ともだち と よくぼう について しばらく はなし た",
+    "romaji": "tomodachi to yokubou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-歓声を上げる-1104": {
+    "kana": "じょうきょう を かくにん し て から おちつい て かんせい を あげる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kansei o ageru"
+  },
+  "try-n1-正々堂々と-832": {
+    "kana": "ともだち と せいせいどうどう と について しばらく はなし た",
+    "romaji": "tomodachi to seiseidoudou to nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-正体-666": {
+    "kana": "ともだち と しょうたい について しばらく はなし た",
+    "romaji": "tomodachi to shoutai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-正視-705": {
+    "kana": "かいぎ で せいし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seishi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-正義-1350": {
+    "kana": "かいぎ で せいぎ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seigi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-死亡-959": {
+    "kana": "ともだち と しぼう について しばらく はなし た",
+    "romaji": "tomodachi to shibou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-殺人的な-729": {
+    "kana": "ともだち と さつじん てき な について しばらく はなし た",
+    "romaji": "tomodachi to satsujin teki na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-殺到-42": {
+    "kana": "ともだち と さっとう について しばらく はなし た",
+    "romaji": "tomodachi to sattou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-殺虫剤-752": {
+    "kana": "かいぎ で さっちゅう ざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de satchuu zai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-毒-177": {
+    "kana": "かいぎ で どく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-気が重い-1169": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で き が おもい こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ki ga omoi koto ni shi ta"
+  },
+  "try-n1-気晴らし-432": {
+    "kana": "ともだち と きばらし について しばらく はなし た",
+    "romaji": "tomodachi to kibarashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-気楽な-367": {
+    "kana": "かいぎ で きらく な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kiraku na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-水分補給-386": {
+    "kana": "かいぎ で すいぶん ほきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de suibun hokyuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-決勝戦-153": {
+    "kana": "ともだち と けっしょう せん について しばらく はなし た",
+    "romaji": "tomodachi to kesshou sen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-決定事項-509": {
+    "kana": "かいぎ で けってい じこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kettei jikou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-決算書-453": {
+    "kana": "ともだち と けっさん しょ について しばらく はなし た",
+    "romaji": "tomodachi to kessan sho nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-法に触れる-489": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ほう に ふれる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hou ni fureru"
+  },
+  "try-n1-泥-214": {
+    "kana": "こまっ て いる どろ に こえ を かけ た",
+    "romaji": "koma te iru doro ni koe o kake ta"
+  },
+  "try-n1-洗練-615": {
+    "kana": "ともだち と せんれん について しばらく はなし た",
+    "romaji": "tomodachi to senren nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-洪水-137": {
+    "kana": "かいぎ で こうずい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouzui nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-活躍-1065": {
+    "kana": "ともだち と かつやく について しばらく はなし た",
+    "romaji": "tomodachi to katsuyaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-流出-642": {
+    "kana": "かいぎ で りゅうしゅつ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ryuushutsu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-流行る-927": {
+    "kana": "しゅうまつ に ともだち の いえ え はやる よてい だ",
+    "romaji": "shuumatsu ni tomodachi no ie e hayaru yotei da"
+  },
+  "try-n1-浮く-988": {
+    "kana": "はる に うく ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni uku koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-浮世絵-501": {
+    "kana": "かいぎ で うきよえ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ukiyoe nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-海外移転-151": {
+    "kana": "かいぎ で かいがい いてん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaigai iten nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-海水浴場-39": {
+    "kana": "ともだち と かいすいよく じょう について しばらく はなし た",
+    "romaji": "tomodachi to kaisuiyoku jou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-海面上昇-146": {
+    "kana": "ともだち と かいめん じょうしょう について しばらく はなし た",
+    "romaji": "tomodachi to kaimen joushou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-消え去る-1163": {
+    "kana": "じょうきょう を かくにん し て から おちつい て きえさる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kiesaru"
+  },
+  "try-n1-消印-248": {
+    "kana": "ともだち と けしいん について しばらく はなし た",
+    "romaji": "tomodachi to keshiin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-消火器-734": {
+    "kana": "かいぎ で しょうか き について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shouka ki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-消費-1244": {
+    "kana": "ともだち と しょうひ について しばらく はなし た",
+    "romaji": "tomodachi to shouhi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-消費者-1339": {
+    "kana": "ひる ごはん に しょうひ しゃ を すこし たべ た",
+    "romaji": "hiru gohan ni shouhi sha o sukoshi tabe ta"
+  },
+  "try-n1-深夜-652": {
+    "kana": "しんや に だいじ な よてい が はいっ て いる",
+    "romaji": "shin'ya ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-渡り鳥-424": {
+    "kana": "ちかく の ぼくじょう で わたりどり を み た",
+    "romaji": "chikaku no bokujou de wataridori o mi ta"
+  },
+  "try-n1-湯水のごとく使う-1141": {
+    "kana": "ゆみず の ごとく つかう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "yumizu no gotoku tsukau na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-源氏物語-130": {
+    "kana": "かいぎ で げんじものがたり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de genjimonogatari nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-溶ける-1084": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で とける こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tokeru koto ni shi ta"
+  },
+  "try-n1-漂う-16": {
+    "kana": "うわぎ を ただよう ばしょ を いりぐち の ちかく に つくっ た",
+    "romaji": "uwagi o tadayou basho o iriguchi no chikaku ni tsuku ta"
+  },
+  "try-n1-激励-789": {
+    "kana": "ともだち と げきれい について しばらく はなし た",
+    "romaji": "tomodachi to gekirei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-激流-1038": {
+    "kana": "かいぎ で げきりゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gekiryuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-濃厚な-493": {
+    "kana": "のうこう な の しゃつ を えらん で かがみ の まえ で あわせ て み た",
+    "romaji": "noukou na no shatsu o eran de kagami no mae de awase te mi ta"
+  },
+  "try-n1-災害時-379": {
+    "kana": "ともだち と さいがい じ について しばらく はなし た",
+    "romaji": "tomodachi to saigai ji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-炊く-286": {
+    "kana": "ゆ が たく まで だいどころ で すこし まっ た",
+    "romaji": "yu ga taku made daidokoro de sukoshi ma ta"
+  },
+  "try-n1-無名-625": {
+    "kana": "かいぎ で むめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mumei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-無実-973": {
+    "kana": "むじつ の てつづき を きげん まで に すませ た",
+    "romaji": "mujitsu no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-無灯火-582": {
+    "kana": "かいぎ で む ともしび について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mu tomoshibi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-無理やり-918": {
+    "kana": "むりやり よてい を へんこう し た",
+    "romaji": "muriyari yotei o henkou shi ta"
+  },
+  "try-n1-無茶-191": {
+    "kana": "むちゃ な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "mucha na atsukai o uke te kare wa sugu ni kougi shi ta"
+  },
+  "try-n1-無謀な-553": {
+    "kana": "ともだち と むぼう な について しばらく はなし た",
+    "romaji": "tomodachi to mubou na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-熱中症-385": {
+    "kana": "ともだち と ねっちゅう しょう について しばらく はなし た",
+    "romaji": "tomodachi to netchuu shou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-熱意-1316": {
+    "kana": "ともだち と ねつい について しばらく はなし た",
+    "romaji": "tomodachi to netsui nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-黙々と-働く-1090": {
+    "kana": "かいぎ で もくもくと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mokumokuto nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-燃費-614": {
+    "kana": "かいぎ で ねんぴ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nenpi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-爆睡-326": {
+    "kana": "ともだち と 爆 ねむ について しばらく はなし た",
+    "romaji": "tomodachi to 爆 nemu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-牛丼-259": {
+    "kana": "ひる ごはん に うし どんぶり を すこし たべ た",
+    "romaji": "hiru gohan ni ushi donburi o sukoshi tabe ta"
+  },
+  "try-n1-牧場-155": {
+    "kana": "しゅうまつ に ぼくじょう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni bokujou e iku michi o shirabe ta"
+  },
+  "try-n1-物件-40": {
+    "kana": "ちかく の みせ で ぶっけん を みつけ た",
+    "romaji": "chikaku no mise de bukken o mitsuke ta"
+  },
+  "try-n1-物体-995": {
+    "kana": "ぶったい が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "buttai ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-物心がつく-981": {
+    "kana": "はる に ぶっしん が つく ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni busshin ga tsuku koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-物的証拠-1380": {
+    "kana": "かいぎ で ぶってき しょうこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de butteki shouko nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-物足りない-545": {
+    "kana": "おもっ た より ものたりない もんだい だっ た",
+    "romaji": "omo ta yori monotarinai mondai da ta"
+  },
+  "try-n1-特定-1230": {
+    "kana": "かいぎ で とくてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tokutei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-特産品-447": {
+    "kana": "かいぎ で とくさん ひん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tokusan hin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-犯行-270": {
+    "kana": "かいぎ で はんこう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hankou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-独創的-382": {
+    "kana": "どくそう てき な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "dokusou teki na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-猶予-103": {
+    "kana": "ゆうよ に だいじ な よてい が はいっ て いる",
+    "romaji": "yuuyo ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-猿-862": {
+    "kana": "じょうきょう を かくにん し て から おちつい て さる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te saru"
+  },
+  "try-n1-獲得-1303": {
+    "kana": "かいぎ で かくとく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakutoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-率いる-1135": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で ひきいる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de hikiiru koto ni shi ta"
+  },
+  "try-n1-王子-306": {
+    "kana": "かいぎ で おうじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ouji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-王者-1285": {
+    "kana": "おうじゃ が しきてん で みじかい えんぜつ を おこなっ た",
+    "romaji": "ouja ga shikiten de mijikai enzetsu o okona ta"
+  },
+  "try-n1-現れる-1073": {
+    "kana": "はる に あらわれる ころ えきまえ の さくら が さき はじめる",
+    "romaji": "haru ni arawareru koro ekimae no sakura ga saki hajimeru"
+  },
+  "try-n1-現代-1252": {
+    "kana": "げんだい わ はやめ に いえ を で た",
+    "romaji": "gendai wa hayame ni ie o de ta"
+  },
+  "try-n1-現場-765": {
+    "kana": "あたらしい としょかん わ ひろい げんば に たて られ た",
+    "romaji": "atarashii toshokan wa hiroi genba ni tate rare ta"
+  },
+  "try-n1-現状-371": {
+    "kana": "ともだち と げんじょう について しばらく はなし た",
+    "romaji": "tomodachi to genjou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-環境保護-448": {
+    "kana": "ともだち と かんきょう ほご について しばらく はなし た",
+    "romaji": "tomodachi to kankyou hogo nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-生命-1125": {
+    "kana": "ともだち と せいめい について しばらく はなし た",
+    "romaji": "tomodachi to seimei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-生態系-418": {
+    "kana": "ともだち と せいたい けい について しばらく はなし た",
+    "romaji": "tomodachi to seitai kei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-生涯-200": {
+    "kana": "かいぎ で しょうがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-生産ライン-766": {
+    "kana": "かいぎ で せいさん らいん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seisan rain nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-産業医-88": {
+    "kana": "ともだち と さんぎょう い について しばらく はなし た",
+    "romaji": "tomodachi to sangyou i nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-甥-568": {
+    "kana": "ともだち と おい について しばらく はなし た",
+    "romaji": "tomodachi to oi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-画家-867": {
+    "kana": "かいぎ で がか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gaka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-留年-719": {
+    "kana": "しゅうまつ に りゅうねん え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ryuunen e iku michi o shirabe ta"
+  },
+  "try-n1-異なる-1277": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ことなる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kotonaru"
+  },
+  "try-n1-異国-1345": {
+    "kana": "しゅうまつ に いこく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni ikoku e iku michi o shirabe ta"
+  },
+  "try-n1-異様な-353": {
+    "kana": "ともだち と いよう な について しばらく はなし た",
+    "romaji": "tomodachi to iyou na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-異界-980": {
+    "kana": "かいぎ で こと かい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de koto kai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-疑う-1274": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で うたがう こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de utagau koto ni shi ta"
+  },
+  "try-n1-病-1166": {
+    "kana": "かいぎ で やまい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de yamai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-病状-101": {
+    "kana": "かいぎ で びょうじょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de byoujou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-痛恨-1364": {
+    "kana": "かいぎ で つうこん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuukon nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-発信機-126": {
+    "kana": "かいぎ で はっしん き について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hasshin ki nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-発生-1173": {
+    "kana": "かいぎ で はっせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hassei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-発砲-310": {
+    "kana": "かいぎ で はっぽう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de happou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-発行-1221": {
+    "kana": "つくえ の うえ に はっこう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni hakkou o oi te kara dekake ta"
+  },
+  "try-n1-発言-605": {
+    "kana": "ともだち と はつげん について しばらく はなし た",
+    "romaji": "tomodachi to hatsugen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-発送-174": {
+    "kana": "かいぎ で はっそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hassou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-登山隊-141": {
+    "kana": "ゆうがた に なる と とざん たい が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to tozan tai ga totemo kirei ni mie ta"
+  },
+  "try-n1-登頂-1047": {
+    "kana": "やま の とうちょう から まち ぜんたい が みえ た",
+    "romaji": "yama no touchou kara machi zentai ga mie ta"
+  },
+  "try-n1-百害あって一利なし-454": {
+    "kana": "ともだち と ひゃくがい あっ て いちり なし について しばらく はなし た",
+    "romaji": "tomodachi to hyakugai a te ichiri nashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-百獣の王-1382": {
+    "kana": "かいぎ で ひゃくじゅう の おう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hyakujuu no ou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-盛大な-811": {
+    "kana": "かいぎ で せいだい な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seidai na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-監督-29": {
+    "kana": "かいぎ で かんとく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kantoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-監視-529": {
+    "kana": "かいぎ で かんし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kanshi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-目の色が変わる-1109": {
+    "kana": "じょうきょう を かくにん し て から おちつい て め の いろ が かわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te me no iro ga kawaru"
+  },
+  "try-n1-目撃者-262": {
+    "kana": "ともだち と もくげき しゃ について しばらく はなし た",
+    "romaji": "tomodachi to mokugeki sha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-盲目-345": {
+    "kana": "かいぎ で もうもく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de moumoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-相棒-741": {
+    "kana": "ともだち と あいぼう について しばらく はなし た",
+    "romaji": "tomodachi to aibou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-相次ぐ-142": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で あいつぐ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de aitsugu koto ni shi ta"
+  },
+  "try-n1-相続-179": {
+    "kana": "かいぎ で そうぞく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de souzoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-看護師-836": {
+    "kana": "かいぎ で かんご し について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kango shi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-真っ先に-1328": {
+    "kana": "きょう わ まっさき に つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa massaki ni tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-真実-957": {
+    "kana": "しんじつ な てん を さき に せつめい し た",
+    "romaji": "shinjitsu na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-真実味-440": {
+    "kana": "かいぎ で しんじつみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinjitsumi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-真相-1235": {
+    "kana": "かいぎ で しんそう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shinsou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-眺め-316": {
+    "kana": "かれ の ながめ を きい て かんがえかた が すこし かわっ た",
+    "romaji": "kare no nagame o kii te kangaekata ga sukoshi kawa ta"
+  },
+  "try-n1-眼下-954": {
+    "kana": "かいぎ で がんか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ganka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-着服-575": {
+    "kana": "さむく なっ た ので ちゃくふく を はおっ た",
+    "romaji": "samuku na ta node chakufuku o hao ta"
+  },
+  "try-n1-瞬時に-723": {
+    "kana": "しゅんじ に へんじ が とどい た ので あんしん し た",
+    "romaji": "shunji ni henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-研修-791": {
+    "kana": "ともだち と けんしゅう について しばらく はなし た",
+    "romaji": "tomodachi to kenshuu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-研究論文-977": {
+    "kana": "ちかく の みせ で けんきゅう ろんぶん を みつけ た",
+    "romaji": "chikaku no mise de kenkyuu ronbun o mitsuke ta"
+  },
+  "try-n1-破たん-879": {
+    "kana": "さむく なっ た ので はたん を はおっ た",
+    "romaji": "samuku na ta node hatan o hao ta"
+  },
+  "try-n1-破壊-967": {
+    "kana": "かいぎ で はかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hakai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-確かめる-958": {
+    "kana": "じょうきょう を かくにん し て から おちつい て たしかめる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tashikameru"
+  },
+  "try-n1-社交的な-677": {
+    "kana": "ともだち と しゃこう てき な について しばらく はなし た",
+    "romaji": "tomodachi to shakou teki na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-社会人野球-1059": {
+    "kana": "かいぎ で しゃかい じん やきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shakai jin yakyuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-社会面-516": {
+    "kana": "つくえ の うえ に しゃかい めん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shakai men o oi te kara dekake ta"
+  },
+  "try-n1-祈願-294": {
+    "kana": "かいぎ で きがん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kigan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-票-1366": {
+    "kana": "つくえ の うえ に いち ひょう を おい て から でかけ た",
+    "romaji": "tsukue no ue ni ichi hyou o oi te kara dekake ta"
+  },
+  "try-n1-祭典-1": {
+    "kana": "ちいき の さいてん に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no saiten ni ooku no hito ga atsuma ta"
+  },
+  "try-n1-視線-238": {
+    "kana": "ともだち と しせん について しばらく はなし た",
+    "romaji": "tomodachi to shisen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-視聴率-1302": {
+    "kana": "しりょう の しちょう りつ に わ じぜん の よやく が ひつよう だ",
+    "romaji": "shiryou no shichou ritsu ni wa jizen no yoyaku ga hitsuyou da"
+  },
+  "try-n1-福祉-1236": {
+    "kana": "かいぎ で ふくし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fukushi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-私有地-1279": {
+    "kana": "ともだち と しゆうち について しばらく はなし た",
+    "romaji": "tomodachi to shiyuuchi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-科せられる-411": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かせ られる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kase rareru koto ni shi ta"
+  },
+  "try-n1-移住-147": {
+    "kana": "かいぎ で いじゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ijuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-程度-97": {
+    "kana": "うけつけ で そうりつ ていど を よば れる まで まっ た",
+    "romaji": "uketsuke de souritsu teido o yoba reru made ma ta"
+  },
+  "try-n1-稚拙-697": {
+    "kana": "ちせつ な てん を さき に せつめい し た",
+    "romaji": "chisetsu na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-空き缶-121": {
+    "kana": "ともだち と あきかん について しばらく はなし た",
+    "romaji": "tomodachi to akikan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-空気が澄む-1312": {
+    "kana": "じょうきょう を かくにん し て から おちつい て くうき が すむ",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te kuuki ga sumu"
+  },
+  "try-n1-空間-1260": {
+    "kana": "つくえ の よこ に ほんだな を おく くうかん を つくっ た",
+    "romaji": "tsukue no yoko ni hondana o oku kuukan o tsuku ta"
+  },
+  "try-n1-立ち直り-948": {
+    "kana": "かいぎ で たちなおり について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tachinaori nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-竹-63": {
+    "kana": "たけ の はこ を たな に きれい に ならべ た",
+    "romaji": "take no hako o tana ni kirei ni narabe ta"
+  },
+  "try-n1-笑顔-110": {
+    "kana": "えがお が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "egao ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-第三者-1398": {
+    "kana": "こまっ て いる だいさんしゃ に こえ を かけ た",
+    "romaji": "koma te iru daisansha ni koe o kake ta"
+  },
+  "try-n1-筆-1258": {
+    "kana": "かいぎ で ふで について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fude nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-筆順-1255": {
+    "kana": "ともだち と ひつじゅん について しばらく はなし た",
+    "romaji": "tomodachi to hitsujun nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-節目-13": {
+    "kana": "そつぎょう わ じんせい の おおきな ふしめ に なる",
+    "romaji": "sotsugyou wa jinsei no ookina fushime ni naru"
+  },
+  "try-n1-節電-797": {
+    "kana": "ともだち と せつでん について しばらく はなし た",
+    "romaji": "tomodachi to setsuden nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-管理-1232": {
+    "kana": "きょう の かんり わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no kanri wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-箱詰め-332": {
+    "kana": "かいぎ で はこづめ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hakozume nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-粉-220": {
+    "kana": "ひる ごはん に こな を すこし たべ た",
+    "romaji": "hiru gohan ni kona o sukoshi tabe ta"
+  },
+  "try-n1-粗悪な-780": {
+    "kana": "ともだち と そあく な について しばらく はなし た",
+    "romaji": "tomodachi to soaku na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-紅葉-955": {
+    "kana": "ゆうがた に なる と こうよう が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to kouyou ga totemo kirei ni mie ta"
+  },
+  "try-n1-納品-772": {
+    "kana": "かいぎ で のうひん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nouhin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-純粋-1261": {
+    "kana": "じゅんすい な てん を さき に せつめい し た",
+    "romaji": "junsui na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-終電-688": {
+    "kana": "ともだち と しゅうでん について しばらく はなし た",
+    "romaji": "tomodachi to shuuden nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-組織-36": {
+    "kana": "あたらしい さあびす の そしき が よてい より はやく すすん で いる",
+    "romaji": "atarashii saabisu no soshiki ga yotei yori hayaku susun de iru"
+  },
+  "try-n1-経営-621": {
+    "kana": "きょう の けいえい わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no keiei wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-経営戦略論-417": {
+    "kana": "きょう の けいえい せんりゃく ろん わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no keiei senryaku ron wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-経営者-829": {
+    "kana": "ともだち と けいえい しゃ について しばらく はなし た",
+    "romaji": "tomodachi to keiei sha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-経緯-66": {
+    "kana": "ともだち と けいい について しばらく はなし た",
+    "romaji": "tomodachi to keii nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-結構-207": {
+    "kana": "けっこう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "kekkou na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-給料-690": {
+    "kana": "ともだち と きゅうりょう について しばらく はなし た",
+    "romaji": "tomodachi to kyuuryou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-給料日-276": {
+    "kana": "ともだち と きゅうりょう び について しばらく はなし た",
+    "romaji": "tomodachi to kyuuryou bi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-絶好-851": {
+    "kana": "ぜっこう な ようす で かれ わ さいご まで はなし を きい た",
+    "romaji": "zekkou na yousu de kare wa saigo made hanashi o kii ta"
+  },
+  "try-n1-絶滅-1297": {
+    "kana": "ともだち と ぜつめつ について しばらく はなし た",
+    "romaji": "tomodachi to zetsumetsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-緊急時-1204": {
+    "kana": "かいぎ で きんきゅう じ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinkyuu ji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-緊迫-644": {
+    "kana": "かいぎ で きんぱく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinpaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-総立ち-1110": {
+    "kana": "ともだち と そうだち について しばらく はなし た",
+    "romaji": "tomodachi to soudachi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-締切-611": {
+    "kana": "つくえ の うえ に しめきり を おい て から でかけ た",
+    "romaji": "tsukue no ue ni shimekiri o oi te kara dekake ta"
+  },
+  "try-n1-緻密-439": {
+    "kana": "ちみつ な とけい の つくり に おもわず みいっ た",
+    "romaji": "chimitsu na tokei no tsukuri ni omowazu mii ta"
+  },
+  "try-n1-繁殖-1067": {
+    "kana": "かいぎ で はんしょく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hanshoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-繊細-273": {
+    "kana": "せんさい な とけい の つくり に おもわず みいっ た",
+    "romaji": "sensai na tokei no tsukuri ni omowazu mii ta"
+  },
+  "try-n1-繰り広げる-9": {
+    "kana": "りょう ちいむ わ さいご まで はげしい しあい を くりひろげ た",
+    "romaji": "ryou chiimu wa saigo made hageshii shiai o kurihiroge ta"
+  },
+  "try-n1-罰金-410": {
+    "kana": "ともだち と ばっきん について しばらく はなし た",
+    "romaji": "tomodachi to bakkin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-羊-156": {
+    "kana": "かいぎ で ひつじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hitsuji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-美術品-1324": {
+    "kana": "ちかく の みせ で びじゅつ ひん を みつけ た",
+    "romaji": "chikaku no mise de bijutsu hin o mitsuke ta"
+  },
+  "try-n1-美談-1092": {
+    "kana": "ともだち と びだん について しばらく はなし た",
+    "romaji": "tomodachi to bidan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-群れ-157": {
+    "kana": "しゅうまつ に むれ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni mure e iku michi o shirabe ta"
+  },
+  "try-n1-義務付ける-480": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ぎむづける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te gimuzukeru"
+  },
+  "try-n1-老いる-1157": {
+    "kana": "じょうきょう を かくにん し て から おちつい て おいる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te oiru"
+  },
+  "try-n1-老ける-1020": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ふける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te fukeru"
+  },
+  "try-n1-聖火リレー-50": {
+    "kana": "ともだち と せいか りれえ について しばらく はなし た",
+    "romaji": "tomodachi to seika riree nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-聴衆-348": {
+    "kana": "かいぎ で ちょうしゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de choushuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-職務範囲-742": {
+    "kana": "かいぎ で しょくむ はんい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shokumu han'i nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-肩が凝る-775": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かた が こる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kata ga koru koto ni shi ta"
+  },
+  "try-n1-育む-1311": {
+    "kana": "おもい にもつ を えき まで はぐくむ ひと を さがし た",
+    "romaji": "omoi nimotsu o eki made hagukumu hito o sagashi ta"
+  },
+  "try-n1-育児-1055": {
+    "kana": "こまっ て いる いくじ に こえ を かけ た",
+    "romaji": "koma te iru ikuji ni koe o kake ta"
+  },
+  "try-n1-育成-74": {
+    "kana": "ともだち と いくせい について しばらく はなし た",
+    "romaji": "tomodachi to ikusei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-脱字-613": {
+    "kana": "かいぎ で だつじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de datsuji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-腐らせる-587": {
+    "kana": "しんらい を くさら せる はつげん わ さけ た ほう が いい",
+    "romaji": "shinrai o kusara seru hatsugen wa sake ta hou ga ii"
+  },
+  "try-n1-腰-274": {
+    "kana": "こし が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "koshi ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-腰を下ろす-1086": {
+    "kana": "じょうきょう を かくにん し て から おちつい て こし を おろす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te koshi o orosu"
+  },
+  "try-n1-自ら-1120": {
+    "kana": "こまっ て いる みずから に こえ を かけ た",
+    "romaji": "koma te iru mizukara ni koe o kake ta"
+  },
+  "try-n1-自宅-1033": {
+    "kana": "かいぎ で じたく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jitaku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-自慢話-280": {
+    "kana": "ともだち と じまん ばなし について しばらく はなし た",
+    "romaji": "tomodachi to jiman banashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-自然災害-1337": {
+    "kana": "かいぎ で しぜん さいがい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shizen saigai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-自給自足-1054": {
+    "kana": "かいぎ で じきゅうじそく について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jikyuujisoku nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-自負-124": {
+    "kana": "かいぎ で じふ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jifu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-自首-1357": {
+    "kana": "かいぎ で じしゅ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jishu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-至急-804": {
+    "kana": "かいぎ で しきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shikyuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-興奮気味-28": {
+    "kana": "はっぴょう の まえ で かれ わ すこし きんちょう こうふん ぎみ だっ た",
+    "romaji": "happyou no mae de kare wa sukoshi kinchou koufun gimi da ta"
+  },
+  "try-n1-舟-715": {
+    "kana": "ともだち と ふね について しばらく はなし た",
+    "romaji": "tomodachi to fune nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-船団-1134": {
+    "kana": "ともだち と せんだん について しばらく はなし た",
+    "romaji": "tomodachi to sendan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-船長-1330": {
+    "kana": "かいぎ で せんちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de senchou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-良心-1037": {
+    "kana": "ともだち と りょうしん について しばらく はなし た",
+    "romaji": "tomodachi to ryoushin nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-良質-1386": {
+    "kana": "りょうしつ な とけい の つくり に おもわず みいっ た",
+    "romaji": "ryoushitsu na tokei no tsukuri ni omowazu mii ta"
+  },
+  "try-n1-花粉症-725": {
+    "kana": "かいぎ で かふん しょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kafun shou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-苦しむ-311": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で くるしむ こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kurushimu koto ni shi ta"
+  },
+  "try-n1-苦労-580": {
+    "kana": "かいぎ で くろう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kurou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-草原-1282": {
+    "kana": "あめあがり の そうげん に そら が うつっ て い た",
+    "romaji": "ameagari no sougen ni sora ga utsu te i ta"
+  },
+  "try-n1-荒波-1044": {
+    "kana": "かいぎ で あらなみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de aranami nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-華々しい-1138": {
+    "kana": "はなばなしい ひ だっ た が さいご まで あるい た",
+    "romaji": "hanabanashii hi da ta ga saigo made arui ta"
+  },
+  "try-n1-著作権-392": {
+    "kana": "さくひん を こうかい する まえ に ちょさく けん を かくにん し た",
+    "romaji": "sakuhin o koukai suru mae ni chosaku ken o kakunin shi ta"
+  },
+  "try-n1-著作権者-1391": {
+    "kana": "さくひん を こうかい する まえ に ちょさく けん しゃ を かくにん し た",
+    "romaji": "sakuhin o koukai suru mae ni chosaku ken sha o kakunin shi ta"
+  },
+  "try-n1-落書き-561": {
+    "kana": "ともだち と らくがき について しばらく はなし た",
+    "romaji": "tomodachi to rakugaki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-薄暗い-80": {
+    "kana": "その せつめい わ すこし うすぐらい と かんじ た",
+    "romaji": "sono setsumei wa sukoshi usugurai to kanji ta"
+  },
+  "try-n1-薄紙-1082": {
+    "kana": "ちかく の みせ で うすがみ を みつけ た",
+    "romaji": "chikaku no mise de usugami o mitsuke ta"
+  },
+  "try-n1-薙ぎ払う-1150": {
+    "kana": "じょうきょう を かくにん し て から おちつい て なぎはらう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te nagiharau"
+  },
+  "try-n1-虎-1381": {
+    "kana": "かいぎ で とら について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tora nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-蛙-324": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kaeru koto ni shi ta"
+  },
+  "try-n1-行方不明-745": {
+    "kana": "こまっ て いる ゆくえ ふめい に こえ を かけ た",
+    "romaji": "koma te iru yukue fumei ni koe o kake ta"
+  },
+  "try-n1-行為-554": {
+    "kana": "ともだち と こうい について しばらく はなし た",
+    "romaji": "tomodachi to koui nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-衛生-756": {
+    "kana": "かいぎ で えいせい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de eisei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-表情-1070": {
+    "kana": "ともだち と ひょうじょう について しばらく はなし た",
+    "romaji": "tomodachi to hyoujou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-表明-46": {
+    "kana": "ともだち と ひょうめい について しばらく はなし た",
+    "romaji": "tomodachi to hyoumei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-被告-970": {
+    "kana": "ともだち と ひこく について しばらく はなし た",
+    "romaji": "tomodachi to hikoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-被害者-531": {
+    "kana": "かいぎ で ひがい しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de higai sha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-裁判官-127": {
+    "kana": "ともだち と さいばんかん について しばらく はなし た",
+    "romaji": "tomodachi to saibankan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-裏目に出る-660": {
+    "kana": "じょうきょう を かくにん し て から おちつい て うらめ に でる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te urame ni deru"
+  },
+  "try-n1-補助-92": {
+    "kana": "かいぎ で ほじょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hojo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-製法-1030": {
+    "kana": "ともだち と せいほう について しばらく はなし た",
+    "romaji": "tomodachi to seihou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-見かねる-1183": {
+    "kana": "じょうきょう を かくにん し て から おちつい て みかねる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te mikaneru"
+  },
+  "try-n1-見事な-1027": {
+    "kana": "みごと な な とけい の つくり に おもわず みいっ た",
+    "romaji": "migoto na na tokei no tsukuri ni omowazu mii ta"
+  },
+  "try-n1-見出し-517": {
+    "kana": "ともだち と みだし について しばらく はなし た",
+    "romaji": "tomodachi to midashi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-見込む-22": {
+    "kana": "ことし の うりあげ わ きょねん を うわまわる と みこん で いる",
+    "romaji": "kotoshi no uriage wa kyonen o uwamawaru to mikon de iru"
+  },
+  "try-n1-見違える-211": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で みちがえる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de michigaeru koto ni shi ta"
+  },
+  "try-n1-見頃-770": {
+    "kana": "みごろ に だいじ な よてい が はいっ て いる",
+    "romaji": "migoro ni daiji na yotei ga hai te iru"
+  },
+  "try-n1-規定-412": {
+    "kana": "かいぎ で きてい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kitei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-覚悟-536": {
+    "kana": "かいぎ で かくご について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kakugo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-親不孝-581": {
+    "kana": "こまっ て いる おやふこう に こえ を かけ た",
+    "romaji": "koma te iru oyafukou ni koe o kake ta"
+  },
+  "try-n1-親戚-83": {
+    "kana": "ともだち と しんせき について しばらく はなし た",
+    "romaji": "tomodachi to shinseki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-観客-377": {
+    "kana": "ともだち と かんきゃく について しばらく はなし た",
+    "romaji": "tomodachi to kankyaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-解散-815": {
+    "kana": "えきまえ の かいさん で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no kaisan de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-解明-910": {
+    "kana": "かいぎ で かいめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kaimei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-解雇-253": {
+    "kana": "ともだち と かいこ について しばらく はなし た",
+    "romaji": "tomodachi to kaiko nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-言い訳-526": {
+    "kana": "ともだち と いいわけ について しばらく はなし た",
+    "romaji": "tomodachi to iiwake nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-言い返す-714": {
+    "kana": "じょうきょう を かくにん し て から おちつい て いいかえす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te iikaesu"
+  },
+  "try-n1-記す-1144": {
+    "kana": "よる に ゆっくり しるす じかん を つくっ た",
+    "romaji": "yoru ni yukkuri shirusu jikan o tsuku ta"
+  },
+  "try-n1-記者-782": {
+    "kana": "ともだち と きしゃ について しばらく はなし た",
+    "romaji": "tomodachi to kisha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-設立-84": {
+    "kana": "きょう の せつりつ わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no setsuritsu wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-設置-15": {
+    "kana": "ちかく の みせ で せっち を みつけ た",
+    "romaji": "chikaku no mise de setchi o mitsuke ta"
+  },
+  "try-n1-証拠-245": {
+    "kana": "ともだち と しょうこ について しばらく はなし た",
+    "romaji": "tomodachi to shouko nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-証明-974": {
+    "kana": "かいぎ で しょうめい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shoumei nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-証言-263": {
+    "kana": "かいぎ で しょうげん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shougen nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-評価-52": {
+    "kana": "ともだち と ひょうか について しばらく はなし た",
+    "romaji": "tomodachi to hyouka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-試写会-1186": {
+    "kana": "かいぎ で ししゃ かい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shisha kai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-試食-571": {
+    "kana": "ひる ごはん に ししょく を すこし たべ た",
+    "romaji": "hiru gohan ni shishoku o sukoshi tabe ta"
+  },
+  "try-n1-試験に落ちる-1118": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で しけん に おちる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de shiken ni ochiru koto ni shi ta"
+  },
+  "try-n1-誇る-1313": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ほこる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te hokoru"
+  },
+  "try-n1-誠に-788": {
+    "kana": "きょう わ まことに つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa makotoni tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-誠実な-794": {
+    "kana": "かいぎ で せいじつ な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de seijitsu na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-誠意-654": {
+    "kana": "ともだち と せいい について しばらく はなし た",
+    "romaji": "tomodachi to seii nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-認める-978": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で みとめる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de mitomeru koto ni shi ta"
+  },
+  "try-n1-誘い-994": {
+    "kana": "かいぎ で さそい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sasoi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-語り明かす-1191": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かたりあかす こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de katariakasu koto ni shi ta"
+  },
+  "try-n1-誤字-612": {
+    "kana": "かいぎ で ごじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de goji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-誤解を招く-1249": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ごかい を まねく",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te gokai o maneku"
+  },
+  "try-n1-誰彼なしに-678": {
+    "kana": "だれかれ なし に へんじ が とどい た ので あんしん し た",
+    "romaji": "darekare nashi ni henji ga todoi ta node anshin shi ta"
+  },
+  "try-n1-課長-999": {
+    "kana": "かいぎ で かちょう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kachou nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-請求-344": {
+    "kana": "せいきゅう の てつづき を きげん まで に すませ た",
+    "romaji": "seikyuu no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-論旨-549": {
+    "kana": "ともだち と ろんし について しばらく はなし た",
+    "romaji": "tomodachi to ronshi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-謎-1072": {
+    "kana": "かいぎ で なぞ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de nazo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-講座-1032": {
+    "kana": "かいぎ で こうざ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kouza nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-謝る-893": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で あやまる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de ayamaru koto ni shi ta"
+  },
+  "try-n1-謝罪-1095": {
+    "kana": "かいぎ で しゃざい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shazai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-警官-308": {
+    "kana": "かいぎ で けいかん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keikan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-警察署-522": {
+    "kana": "しゅうまつ に けいさつ しょ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni keisatsu sho e iku michi o shirabe ta"
+  },
+  "try-n1-警部-304": {
+    "kana": "かいぎ で けいぶ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keibu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-議長-1064": {
+    "kana": "ぎちょう で あたらしい じょうれい について ぎろん さ れ た",
+    "romaji": "gichou de atarashii jourei nitsuite giron sa re ta"
+  },
+  "try-n1-負荷-965": {
+    "kana": "かいぎ で ふか について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de fuka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-財産-907": {
+    "kana": "かいぎ で ざいさん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de zaisan nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-貧乏-1142": {
+    "kana": "びんぼう な てん を さき に せつめい し た",
+    "romaji": "binbou na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-責任者-1333": {
+    "kana": "せきにん しゃ の てつづき を きげん まで に すませ た",
+    "romaji": "sekinin sha no tetsuzuki o kigen made ni sumase ta"
+  },
+  "try-n1-責任逃れ-67": {
+    "kana": "しっぱい の のち で せきにん のがれ を する たいど わ しんらい を うしなう",
+    "romaji": "shippai no nochi de sekinin nogare o suru taido wa shinrai o ushinau"
+  },
+  "try-n1-費-172": {
+    "kana": "ともだち と そうりつ ひ について しばらく はなし た",
+    "romaji": "tomodachi to souritsu hi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-貿易-1226": {
+    "kana": "ともだち と ぼうえき について しばらく はなし た",
+    "romaji": "tomodachi to boueki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-賄賂-1327": {
+    "kana": "かいぎ で わいろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de wairo nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-資格-834": {
+    "kana": "ともだち と しかく について しばらく はなし た",
+    "romaji": "tomodachi to shikaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-資金-85": {
+    "kana": "かいぎ で しきん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shikin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-賜る-825": {
+    "kana": "じょうきょう を かくにん し て から おちつい て たまわる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te tamawaru"
+  },
+  "try-n1-贅沢-1365": {
+    "kana": "ぜいたく な しりょう を つかっ て はっぴょう し た",
+    "romaji": "zeitaku na shiryou o tsuka te happyou shi ta"
+  },
+  "try-n1-赤面-809": {
+    "kana": "せきめん が いたく て きょう わ はやめ に やすん だ",
+    "romaji": "sekimen ga itaku te kyou wa hayame ni yasun da"
+  },
+  "try-n1-起動-78": {
+    "kana": "ともだち と きどう について しばらく はなし た",
+    "romaji": "tomodachi to kidou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-足元-801": {
+    "kana": "むり の ない あしもと で はしり つづけ た",
+    "romaji": "muri no nai ashimoto de hashiri tsuzuke ta"
+  },
+  "try-n1-路上喫煙-408": {
+    "kana": "ともだち と ろじょう きつえん について しばらく はなし た",
+    "romaji": "tomodachi to rojou kitsuen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-車庫-735": {
+    "kana": "かいぎ で しゃこ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de shako nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-軒並み-712": {
+    "kana": "つくえ の うえ に のきなみ を おい て から でかけ た",
+    "romaji": "tsukue no ue ni nokinami o oi te kara dekake ta"
+  },
+  "try-n1-転職-256": {
+    "kana": "きょう の てんしょく わ おもっ た より はやく おわっ た",
+    "romaji": "kyou no tenshoku wa omo ta yori hayaku owa ta"
+  },
+  "try-n1-転覆-718": {
+    "kana": "ともだち と てんぷく について しばらく はなし た",
+    "romaji": "tomodachi to tenpuku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-軽んじる-166": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かる ん じ る こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de karu n ji ru koto ni shi ta"
+  },
+  "try-n1-軽傷者-1210": {
+    "kana": "かいぎ で けいしょう しゃ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keishou sha nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-軽視-169": {
+    "kana": "かいぎ で けいし について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de keishi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-辞意-45": {
+    "kana": "かいぎ で じい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de jii nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-迅速に-380": {
+    "kana": "きょう わ じんそく に つかれ た ので はやめ に ね た",
+    "romaji": "kyou wa jinsoku ni tsukare ta node hayame ni ne ta"
+  },
+  "try-n1-返信-685": {
+    "kana": "つくえ の うえ に へんしん を おい て から でかけ た",
+    "romaji": "tsukue no ue ni henshin o oi te kara dekake ta"
+  },
+  "try-n1-返却-477": {
+    "kana": "ともだち と へんきゃく について しばらく はなし た",
+    "romaji": "tomodachi to henkyaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-追求-618": {
+    "kana": "かいぎ で ついきゅう について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tsuikyuu nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-退出-1217": {
+    "kana": "ともだち と たいしゅつ について しばらく はなし た",
+    "romaji": "tomodachi to taishutsu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-退官-1370": {
+    "kana": "ともだち と たいかん について しばらく はなし た",
+    "romaji": "tomodachi to taikan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-退屈な-949": {
+    "kana": "かいぎ で たいくつ な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de taikutsu na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-送信-635": {
+    "kana": "かいぎ で そうしん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de soushin nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-透ける-1083": {
+    "kana": "じょうきょう を かくにん し て から おちつい て すける",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te sukeru"
+  },
+  "try-n1-通用-899": {
+    "kana": "あたらしい どうぐ を つうよう する ばめん が ふえ て いる",
+    "romaji": "atarashii dougu o tsuuyou suru bamen ga fue te iru"
+  },
+  "try-n1-速やかな-1205": {
+    "kana": "かいぎ で すみやか な について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sumiyaka na nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-速報-1013": {
+    "kana": "ともだち と そくほう について しばらく はなし た",
+    "romaji": "tomodachi to sokuhou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-造詣が深い-1325": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ぞうけい が ふかい",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te zoukei ga fukai"
+  },
+  "try-n1-連日-17": {
+    "kana": "れんじつ の あめ で かわ の すいい が あがっ た",
+    "romaji": "renjitsu no ame de kawa no suii ga aga ta"
+  },
+  "try-n1-進学-969": {
+    "kana": "しゅうまつ に しんがく え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shingaku e iku michi o shirabe ta"
+  },
+  "try-n1-進言-236": {
+    "kana": "ともだち と しんげん について しばらく はなし た",
+    "romaji": "tomodachi to shingen nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-進路-466": {
+    "kana": "しゅうまつ に しんろ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni shinro e iku michi o shirabe ta"
+  },
+  "try-n1-運動会-683": {
+    "kana": "ちいき の うんどうかい に おおく の ひと が あつまっ た",
+    "romaji": "chiiki no undoukai ni ooku no hito ga atsuma ta"
+  },
+  "try-n1-運送業者-640": {
+    "kana": "しんらい できる うんそう ぎょうしゃ に しゅうり を たのん だ",
+    "romaji": "shinrai dekiru unsou gyousha ni shuuri o tanon da"
+  },
+  "try-n1-過ち-1291": {
+    "kana": "かいぎ で あやまち について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de ayamachi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-過保護-591": {
+    "kana": "ともだち と か ほご について しばらく はなし た",
+    "romaji": "tomodachi to ka hogo nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-過酷な-1048": {
+    "kana": "ともだち と かこく な について しばらく はなし た",
+    "romaji": "tomodachi to kakoku na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-遠方-444": {
+    "kana": "しゅうまつ に えんぽう え いく みち を しらべ た",
+    "romaji": "shuumatsu ni enpou e iku michi o shirabe ta"
+  },
+  "try-n1-選任-95": {
+    "kana": "こまっ て いる せんにん に こえ を かけ た",
+    "romaji": "koma te iru sennin ni koe o kake ta"
+  },
+  "try-n1-遺伝学-43": {
+    "kana": "だいがく で いでん がく を まなび びょうき の しくみ に きょうみ を もっ た",
+    "romaji": "daigaku de iden gaku o manabi byouki no shikumi ni kyoumi o mo ta"
+  },
+  "try-n1-遺書-1143": {
+    "kana": "こまっ て いる いしょ に こえ を かけ た",
+    "romaji": "koma te iru isho ni koe o kake ta"
+  },
+  "try-n1-部署-670": {
+    "kana": "しゅうまつ に ぶしょ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni busho e iku michi o shirabe ta"
+  },
+  "try-n1-配慮-56": {
+    "kana": "ともだち と はいりょ について しばらく はなし た",
+    "romaji": "tomodachi to hairyo nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-配置-1015": {
+    "kana": "ともだち と はいち について しばらく はなし た",
+    "romaji": "tomodachi to haichi nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-酷-532": {
+    "kana": "こく な あつかい を うけ て かれ わ すぐ に こうぎ し た",
+    "romaji": "koku na atsukai o uke te kare wa sugu ni kougi shi ta"
+  },
+  "try-n1-里-1181": {
+    "kana": "かいぎ で さと について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de sato nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-重傷者-1203": {
+    "kana": "ともだち と じゅうしょう しゃ について しばらく はなし た",
+    "romaji": "tomodachi to juushou sha nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-野生動物-968": {
+    "kana": "ちかく の ぼくじょう で やせい どうぶつ を み た",
+    "romaji": "chikaku no bokujou de yasei doubutsu o mi ta"
+  },
+  "try-n1-金メダル-486": {
+    "kana": "かいぎ で きんめだる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinmedaru nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-金閣寺-1362": {
+    "kana": "かいぎ で きんかくじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kinkakuji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-鉄道-139": {
+    "kana": "ともだち と てつどう について しばらく はなし た",
+    "romaji": "tomodachi to tetsudou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-銃-264": {
+    "kana": "ともだち と じゅう について しばらく はなし た",
+    "romaji": "tomodachi to juu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-銅メダル-487": {
+    "kana": "かいぎ で どうめだる について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de doumedaru nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-鐘-327": {
+    "kana": "かいぎ で かね について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kane nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-鑑賞-1262": {
+    "kana": "しゅうまつ に ともだち と かんしょう を み に いっ た",
+    "romaji": "shuumatsu ni tomodachi to kanshou o mi ni i ta"
+  },
+  "try-n1-閉鎖-136": {
+    "kana": "かいぎ で へいさ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de heisa nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-開幕-3": {
+    "kana": "えいが さい の かいまく に あわせ て まち が にぎわっ た",
+    "romaji": "eiga sai no kaimaku ni awase te machi ga nigiwa ta"
+  },
+  "try-n1-開講-469": {
+    "kana": "ともだち と かいこう について しばらく はなし た",
+    "romaji": "tomodachi to kaikou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-間が抜けている-524": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ま が ぬけ て いる",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te ma ga nuke te iru"
+  },
+  "try-n1-闇-1161": {
+    "kana": "しゅうまつ に やみ え いく みち を しらべ た",
+    "romaji": "shuumatsu ni yami e iku michi o shirabe ta"
+  },
+  "try-n1-防災対策-779": {
+    "kana": "ともだち と ぼうさい たいさく について しばらく はなし た",
+    "romaji": "tomodachi to bousai taisaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-陰の-508": {
+    "kana": "ともだち と かげ の よてい について しばらく はなし た",
+    "romaji": "tomodachi to kage no yotei nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-陶芸家-1053": {
+    "kana": "かいぎ で とうげい か について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tougei ka nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-集客-21": {
+    "kana": "みせ わ しゅうまつ の しゅうきゃく に ちから を いれ て いる",
+    "romaji": "mise wa shuumatsu no shuukyaku ni chikara o ire te iru"
+  },
+  "try-n1-離れ離れ-1189": {
+    "kana": "ともだち と はなればなれ について しばらく はなし た",
+    "romaji": "tomodachi to hanarebanare nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-離島-1351": {
+    "kana": "ともだち と りとう について しばらく はなし た",
+    "romaji": "tomodachi to ritou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-難病-192": {
+    "kana": "ともだち と なんびょう について しばらく はなし た",
+    "romaji": "tomodachi to nanbyou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-難解-315": {
+    "kana": "なんかい な てん を さき に せつめい し た",
+    "romaji": "nankai na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-零細企業-123": {
+    "kana": "えきまえ の れいさい きぎょう で あたらしい しごと が はじまっ た",
+    "romaji": "ekimae no reisai kigyou de atarashii shigoto ga hajima ta"
+  },
+  "try-n1-電源プラグ-70": {
+    "kana": "ともだち と でんげん ぷらぐ について しばらく はなし た",
+    "romaji": "tomodachi to dengen puragu nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-震わす-349": {
+    "kana": "じょうきょう を かくにん し て から おちつい て ふるわす",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te furuwasu"
+  },
+  "try-n1-静まり返る-337": {
+    "kana": "しずまりかえる な まち を ゆっくり あるい た",
+    "romaji": "shizumarikaeru na machi o yukkuri arui ta"
+  },
+  "try-n1-静養-762": {
+    "kana": "ともだち と せいよう について しばらく はなし た",
+    "romaji": "tomodachi to seiyou nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-非凡な-1023": {
+    "kana": "ともだち と ひぼん な について しばらく はなし た",
+    "romaji": "tomodachi to hibon na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-非常時-1239": {
+    "kana": "かいぎ で ひじょうじ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de hijouji nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-非常識-1355": {
+    "kana": "ひじょうしき な てん を さき に せつめい し た",
+    "romaji": "hijoushiki na ten o saki ni setsumei shi ta"
+  },
+  "try-n1-非常食-738": {
+    "kana": "ひる ごはん に ひ じょうしょく を すこし たべ た",
+    "romaji": "hiru gohan ni hi joushoku o sukoshi tabe ta"
+  },
+  "try-n1-非情な-1212": {
+    "kana": "ともだち と ひじょう な について しばらく はなし た",
+    "romaji": "tomodachi to hijou na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-非難-1089": {
+    "kana": "ともだち と ひなん について しばらく はなし た",
+    "romaji": "tomodachi to hinan nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-非難所-138": {
+    "kana": "ともだち と ひなん しょ について しばらく はなし た",
+    "romaji": "tomodachi to hinan sho nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-面倒見-438": {
+    "kana": "かいぎ で めんどう み について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mendou mi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-面白半分-567": {
+    "kana": "かいぎ で おもしろ はんぶん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de omoshiro hanbun nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-頂上-364": {
+    "kana": "やま の ちょうじょう から まち ぜんたい が みえ た",
+    "romaji": "yama no choujou kara machi zentai ga mie ta"
+  },
+  "try-n1-順調に-234": {
+    "kana": "じゅんちょう に よてい を へんこう し た",
+    "romaji": "junchou ni yotei o henkou shi ta"
+  },
+  "try-n1-頑固な-975": {
+    "kana": "ともだち と がんこ な について しばらく はなし た",
+    "romaji": "tomodachi to ganko na nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-頼る-691": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で たよる こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de tayoru koto ni shi ta"
+  },
+  "try-n1-題字-1265": {
+    "kana": "ともだち と だいじ について しばらく はなし た",
+    "romaji": "tomodachi to daiji nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-願書-247": {
+    "kana": "かいぎ で がんしょ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de gansho nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-顧客-358": {
+    "kana": "ともだち と こきゃく について しばらく はなし た",
+    "romaji": "tomodachi to kokyaku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-風が吹く-865": {
+    "kana": "もんだい を かいけつ する ため に ちいむ で かぜ が ふく こと に し た",
+    "romaji": "mondai o kaiketsu suru tame ni chiimu de kaze ga fuku koto ni shi ta"
+  },
+  "try-n1-風力発電-397": {
+    "kana": "ゆうがた に なる と ふうりょく はつでん が とても きれい に みえ た",
+    "romaji": "yuugata ni naru to fuuryoku hatsuden ga totemo kirei ni mie ta"
+  },
+  "try-n1-飛び込み-693": {
+    "kana": "かいぎ で とびこみ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tobikomi nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-飛躍的に-757": {
+    "kana": "ひやく てき に よてい を へんこう し た",
+    "romaji": "hiyaku teki ni yotei o henkou shi ta"
+  },
+  "try-n1-食べ放題-875": {
+    "kana": "かいぎ で たべ ほうだい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de tabe houdai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-食後-915": {
+    "kana": "ひる ごはん に しょくご を すこし たべ た",
+    "romaji": "hiru gohan ni shokugo o sukoshi tabe ta"
+  },
+  "try-n1-飲み会-430": {
+    "kana": "ともだち と のみ かい について しばらく はなし た",
+    "romaji": "tomodachi to nomi kai nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-馬車-328": {
+    "kana": "ちかく の ぼくじょう で ばしゃ を み た",
+    "romaji": "chikaku no bokujou de basha o mi ta"
+  },
+  "try-n1-馬鹿-947": {
+    "kana": "ともだち と ばか について しばらく はなし た",
+    "romaji": "tomodachi to baka nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-騒ぐ-535": {
+    "kana": "きゅうじつ に ともだち と げえむ に さわぐ じかん を たのしん だ",
+    "romaji": "kyuujitsu ni tomodachi to geemu ni sawagu jikan o tanoshin da"
+  },
+  "try-n1-騒音-599": {
+    "kana": "かいぎ で そうおん について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de souon nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-高名な-1266": {
+    "kana": "こうみょう な な まち を ゆっくり あるい た",
+    "romaji": "koumyou na na machi o yukkuri arui ta"
+  },
+  "try-n1-高度経済成長期-1240": {
+    "kana": "ともだち と こうど けいざい せいちょう き について しばらく はなし た",
+    "romaji": "tomodachi to koudo keizai seichou ki nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-高速道路-504": {
+    "kana": "かいぎ で こうそく どうろ について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de kousoku douro nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-高齢者-1233": {
+    "kana": "こまっ て いる こうれい しゃ に こえ を かけ た",
+    "romaji": "koma te iru kourei sha ni koe o kake ta"
+  },
+  "try-n1-魅了-1094": {
+    "kana": "じょうきょう を かくにん し て から おちつい て みりょう",
+    "romaji": "joukyou o kakunin shi te kara ochitsui te miryou"
+  },
+  "try-n1-魅力-495": {
+    "kana": "ともだち と みりょく について しばらく はなし た",
+    "romaji": "tomodachi to miryoku nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-魔法使い-320": {
+    "kana": "かいぎ で まほうつかい について ぐたい てき に はなしあっ た",
+    "romaji": "kaigi de mahoutsukai nitsuite gutai teki ni hanashia ta"
+  },
+  "try-n1-麺-494": {
+    "kana": "ともだち と めん について しばらく はなし た",
+    "romaji": "tomodachi to men nitsuite shibaraku hanashi ta"
+  },
+  "try-n1-鼻水-727": {
+    "kana": "ともだち と はなみず について しばらく はなし た",
+    "romaji": "tomodachi to hanamizu nitsuite shibaraku hanashi ta"
   },
   "uso": {
     "kana": "うそ を ほんとうに かえ たい",

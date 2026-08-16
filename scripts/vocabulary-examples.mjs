@@ -109,13 +109,32 @@ function partOfSpeech(word, entry) {
 }
 
 function exampleSurface(word, entry) {
+  let surface = "";
   if (entry?.altWord === word.japanese && entry.word && entry.reading === word.kana) {
-    return entry.word;
+    surface = entry.word;
+  } else if (entry?.word === word.kana && entry.reading === word.kana) {
+    surface = entry.word;
+  } else {
+    surface = (cleanText(word.japanese) || cleanText(word.kana) || "言葉").split(/\s*\/\s*/)[0];
   }
-  if (entry?.word === word.kana && entry.reading === word.kana) {
-    return entry.word;
-  }
-  return (cleanText(word.japanese) || cleanText(word.kana) || "言葉").split(/\s*\/\s*/)[0];
+
+  if (surface === "～周年") return "創立十周年";
+  if (surface === "～商事") return "山田商事";
+  if (surface === "～回戦") return "一回戦";
+  if (surface === "～票") return "一票";
+  if (surface === "～の念") return "感謝の念";
+  if (surface === "～の鍵") return "成功の鍵";
+  if (surface === "～の手前") return "世間の手前";
+  if (surface === "～を追われる") return "故郷を追われる";
+
+  return surface
+    .replace(/^～に/, "仕事に")
+    .replace(/^～/, "創立")
+    .replace(/～$/u, "予定")
+    .replace(/（[^）]+）/g, "")
+    .replace(/\([^)]*\)/g, "")
+    .replace(/\s+/g, "")
+    .trim();
 }
 
 function hasVerbSignal(surface, en, kana, pos) {
@@ -250,6 +269,213 @@ function createExample(exampleJp, exampleZh, exampleEn, partOfSpeech) {
 }
 
 const nounRules = [
+  {
+    words: ["東京ドーム", "Tokyo Dome"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}で野球の試合を見た。`,
+      `在东京巨蛋看了棒球比赛。`,
+      `I watched a baseball game at Tokyo Dome.`,
+      pos
+    )
+  },
+  {
+    words: ["ミュンヘン", "Munich"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}で国際会議が開かれた。`,
+      `国际会议在慕尼黑举行。`,
+      `An international conference was held in Munich.`,
+      pos
+    )
+  },
+  {
+    words: ["樽", "cask", "barrel"],
+    build: (w, zh, en, pos) => createExample(
+      `ワインを古い${w}で熟成させた。`,
+      `葡萄酒在旧木桶里熟成。`,
+      `The wine was aged in an old barrel.`,
+      pos
+    )
+  },
+  {
+    words: ["ヘクタール", "hectare", "公顷"],
+    build: (w, zh, en, pos) => createExample(
+      `その農園は五${w}の広さがある。`,
+      `那座农园有五公顷大。`,
+      `The farm covers five hectares.`,
+      pos
+    )
+  },
+  {
+    words: ["便器", "toilet bowl", "马桶"],
+    build: (w, zh, en, pos) => createExample(
+      `古い${w}を新しいものに交換した。`,
+      `把旧马桶换成了新的。`,
+      `The old toilet bowl was replaced with a new one.`,
+      pos
+    )
+  },
+  {
+    words: ["スペース", "space", "空间"],
+    build: (w, zh, en, pos) => createExample(
+      `机の横に本棚を置く${w}を作った。`,
+      `在桌子旁边腾出了放书架的空间。`,
+      `I made space beside the desk for a bookshelf.`,
+      pos
+    )
+  },
+  {
+    words: ["ペース", "pace", "步调", "进度"],
+    build: (w, zh, en, pos) => createExample(
+      `無理のない${w}で走り続けた。`,
+      `以不勉强的节奏继续跑。`,
+      `I kept running at a comfortable pace.`,
+      pos
+    )
+  },
+  {
+    words: ["祭典", "祭礼", "festival", "ceremony", "celebration"],
+    build: (w, zh, en, pos) => createExample(
+      `地域の${w}に多くの人が集まった。`,
+      `很多人聚集到当地的${zh}。`,
+      `Many people gathered for the local ${en}.`,
+      pos
+    )
+  },
+  {
+    words: ["周年", "anniversary"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}を記念して式典が開かれた。`,
+      `为了纪念${zh}举行了典礼。`,
+      `A ceremony was held to mark the ${en}.`,
+      pos
+    )
+  },
+  {
+    words: ["開幕", "opening"],
+    build: (w, zh, en, pos) => createExample(
+      `映画祭の${w}に合わせて町がにぎわった。`,
+      `配合电影节开幕，城镇热闹了起来。`,
+      `The town became lively for the opening of the film festival.`,
+      pos
+    )
+  },
+  {
+    words: ["敷地", "site", "premises", "用地", "地皮"],
+    build: (w, zh, en, pos) => createExample(
+      `新しい図書館は広い${w}に建てられた。`,
+      `新图书馆建在宽阔的用地上。`,
+      `The new library was built on a large site.`,
+      pos
+    )
+  },
+  {
+    words: ["本場", "birthplace", "home of", "authentic", "正宗"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}の味を知りたくて、その町を訪れた。`,
+      `想了解正宗的味道，于是去了那座城镇。`,
+      `I visited the town because I wanted to experience the authentic taste.`,
+      pos
+    )
+  },
+  {
+    words: ["節目", "milestone", "turning point", "阶段", "段落"],
+    build: (w, zh, en, pos) => createExample(
+      `卒業は人生の大きな${w}になる。`,
+      `毕业会成为人生的一个重要阶段。`,
+      `Graduation becomes a major milestone in life.`,
+      pos
+    )
+  },
+  {
+    words: ["連日", "successive days", "day after day", "连日"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}の雨で川の水位が上がった。`,
+      `连日下雨使河水水位上涨。`,
+      `The river rose after rain for successive days.`,
+      pos
+    )
+  },
+  {
+    words: ["集客", "attracting customers", "吸引客人", "招揽客人"],
+    build: (w, zh, en, pos) => createExample(
+      `店は週末の${w}に力を入れている。`,
+      `店铺正在努力吸引周末的客人。`,
+      `The shop is focusing on attracting customers on weekends.`,
+      pos
+    )
+  },
+  {
+    words: ["気味", "slightly", "a touch of", "有点"],
+    build: (w, zh, en, pos) => createExample(
+      `発表の前で、彼は少し緊張${w}だった。`,
+      `发表前，他有点紧张。`,
+      `He seemed slightly nervous before the presentation.`,
+      pos
+    )
+  },
+  {
+    words: ["遺伝学", "genetics"],
+    build: (w, zh, en, pos) => createExample(
+      `大学で${w}を学び、病気の仕組みに興味を持った。`,
+      `在大学学习遗传学后，对疾病机制产生了兴趣。`,
+      `After studying genetics at university, I became interested in how diseases work.`,
+      pos
+    )
+  },
+  {
+    words: ["責任逃れ", "avoid responsibility", "逃避责任"],
+    build: (w, zh, en, pos) => createExample(
+      `失敗の後で${w}をする態度は信頼を失う。`,
+      `失败后逃避责任的态度会失去信任。`,
+      `An attitude of avoiding responsibility after a failure destroys trust.`,
+      pos
+    )
+  },
+  {
+    words: ["著作権", "copyright"],
+    build: (w, zh, en, pos) => createExample(
+      `作品を公開する前に${w}を確認した。`,
+      `公开作品前确认了著作权。`,
+      `I checked the copyright before publishing the work.`,
+      pos
+    )
+  },
+  {
+    words: ["予算", "budget"],
+    build: (w, zh, en, pos) => createExample(
+      `限られた${w}の中で旅行の計画を立てた。`,
+      `在有限预算内制定了旅行计划。`,
+      `I planned the trip within a limited budget.`,
+      pos
+    )
+  },
+  {
+    words: ["議会", "assembly", "parliament", "council"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}で新しい条例について議論された。`,
+      `议会上讨论了新的条例。`,
+      `The council discussed the new ordinance.`,
+      pos
+    )
+  },
+  {
+    words: ["承認", "approval", "approve", "承认"],
+    build: (w, zh, en, pos) => createExample(
+      `計画は上司の${w}を得てから進める。`,
+      `计划获得上司批准后再推进。`,
+      `The plan will proceed after receiving the manager's approval.`,
+      pos
+    )
+  },
+  {
+    words: ["ご近所同士", "neighbors", "neighbours"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}で防災について話し合った。`,
+      `邻里之间讨论了防灾问题。`,
+      `The neighbors discussed disaster prevention together.`,
+      pos
+    )
+  },
   {
     words: ["vendor", "dealer", "trader", "contractor", "業者"],
     build: (w, zh, en, pos) => createExample(
@@ -695,6 +921,123 @@ const nounRules = [
 
 const verbRules = [
   {
+    words: ["繰り広げ", "unfold", "unroll", "展开", "开展"],
+    build: (w, zh, en, pos) => createExample(
+      `両チームは最後まで激しい試合を繰り広げた。`,
+      `两支队伍一直展开激烈比赛直到最后。`,
+      `Both teams carried on an intense match until the end.`,
+      pos
+    )
+  },
+  {
+    words: ["開催", "举办", "举行", "hold an event", "hold"],
+    build: (w, zh, en, pos) => createExample(
+      `来月、駅前の広場で音楽イベントを${w}。`,
+      `下个月将在车站前广场举办音乐活动。`,
+      `A music event will be held in the plaza in front of the station next month.`,
+      pos
+    )
+  },
+  {
+    words: ["設置", "设置", "安装", "install", "set up"],
+    build: (w, zh, en, pos) => createExample(
+      `入口に新しい案内板を${w}。`,
+      `在入口处设置了新的指示牌。`,
+      `A new information board was installed at the entrance.`,
+      pos
+    )
+  },
+  {
+    words: ["見込", "预测", "expect", "forecast", "anticipate"],
+    build: (w, zh, en, pos) => createExample(
+      `今年の売上は去年を上回ると${w.replace(/む$/u, "んでいる").replace(/する$/u, "している")}。`,
+      `预计今年的销售额会超过去年。`,
+      `We expect this year's sales to exceed last year's.`,
+      pos
+    )
+  },
+  {
+    words: ["負担", "承担", "burden", "bear the cost"],
+    build: (w, zh, en, pos) => createExample(
+      `出張の交通費は会社が${w}。`,
+      `出差的交通费由公司负担。`,
+      `The company bears the transportation cost for the business trip.`,
+      pos
+    )
+  },
+  {
+    words: ["組織", "组织", "organize"],
+    build: (w, zh, en, pos) => createExample(
+      `学生たちが地域の交流会を${w}。`,
+      `学生们组织了地区交流会。`,
+      `The students organized a local exchange event.`,
+      pos
+    )
+  },
+  {
+    words: ["殺到", "蜂拥", "rush in", "flood in"],
+    build: (w, zh, en, pos) => createExample(
+      `発売日に注文が店へ${w}。`,
+      `发售当天订单涌向店铺。`,
+      `Orders flooded into the store on the release date.`,
+      pos
+    )
+  },
+  {
+    words: ["入居", "迁入", "搬进", "move into"],
+    build: (w, zh, en, pos) => createExample(
+      `春から新しいマンションに${w}ことになった。`,
+      `从春天开始要搬进新的公寓。`,
+      `I will move into a new apartment starting in spring.`,
+      pos
+    )
+  },
+  {
+    words: ["表明", "表明", "state", "express"],
+    build: (w, zh, en, pos) => createExample(
+      `市長は会見で辞任の意向を${w}。`,
+      `市长在记者会上表明了辞职意向。`,
+      `The mayor stated the intention to resign at the press conference.`,
+      pos
+    )
+  },
+  {
+    words: ["配慮", "关怀", "照顾", "consideration"],
+    build: (w, zh, en, pos) => createExample(
+      `小さな子ども連れの客に${w.replace(/する$/u, "した")}席を用意した。`,
+      `为带小孩的客人准备了体现照顾的座位。`,
+      `We prepared seats with consideration for guests with small children.`,
+      pos
+    )
+  },
+  {
+    words: ["打ち込", "专心致志", "devote oneself", "be absorbed"],
+    build: (w, zh, en, pos) => createExample(
+      `彼は大学時代から研究に${w.replace(/む$/u, "んでいる")}。`,
+      `他从大学时代起就专心投入研究。`,
+      `He has devoted himself to research since his university days.`,
+      pos
+    )
+  },
+  {
+    words: ["覚える", "remember", "memorize", "记住", "想起"],
+    build: (w, zh, en, pos) => createExample(
+      `新しい漢字を毎日五つずつ${w}。`,
+      `每天记住五个新的汉字。`,
+      `I memorize five new kanji every day.`,
+      pos
+    )
+  },
+  {
+    words: ["地位に就く", "take up a position", "assume a post"],
+    build: (w, zh, en, pos) => createExample(
+      `彼は若くして重要な地位に就いた。`,
+      `他年纪轻轻就担任了重要职位。`,
+      `He took up an important position at a young age.`,
+      pos
+    )
+  },
+  {
     words: ["become used to", "get used to", "familiar"],
     build: (w, zh, en, pos) => createExample(
       `この景色に${w}まで、少し時間がかかった。`,
@@ -1128,15 +1471,15 @@ function buildVerbExample(surface, word, zh, en, pos, seed, lower) {
   return pick(
     [
       createExample(
-        `必要な場面で${verb}方法を考えた。`,
-        `思考了在必要场景下如何${zh}。`,
-        `I thought about how to ${en} when it is necessary.`,
+        `問題を解決するために、チームで${verb}ことにした。`,
+        `为了解决问题，团队决定${zh}。`,
+        `The team decided to ${en} in order to solve the problem.`,
         pos
       ),
       createExample(
-        `安全に${verb}ために、先に準備をした。`,
-        `为了安全地${zh}，先做了准备。`,
-        `I prepared first so I could ${en} safely.`,
+        `状況を確認してから、落ち着いて${verb}。`,
+        `确认情况后，冷静地${zh}。`,
+        `After checking the situation, I calmly ${en}.`,
         pos
       )
     ],
