@@ -36,6 +36,7 @@ import {
   type SongPack,
   type StudyLine,
   type StudyWord,
+  type TokenInfo,
   vocabulary
 } from "./data/studyContent";
 import {
@@ -102,6 +103,8 @@ interface GameLine {
   japanese: string;
   english: string;
   zh: string;
+  kana?: string;
+  romaji?: string;
   furigana: string;
   isDummy: boolean;
   order: number;
@@ -194,6 +197,26 @@ function visualSubjectFromToken(token: ReturnType<typeof tokensForLine>[number])
     tags: token.vocabularyId ? wordById.get(token.vocabularyId)?.tags : undefined,
     source: token.vocabularyId ? wordById.get(token.vocabularyId)?.source : undefined
   };
+}
+
+function tokensForGameLine(line: GameLine): TokenInfo[] {
+  return analyzeJapaneseText(line.japanese).flatMap((segment, segmentIndex) =>
+    segment.tokens.map((token, tokenIndex) => {
+      const readingOptions = token.vocabularyId
+        ? readingOptionsForSurface(token.surface, token.reading)
+        : token.readingOptions;
+      const romajiOptions = token.vocabularyId
+        ? romajiOptionsForSurface(token.surface, token.romaji)
+        : token.romajiOptions;
+      return {
+        ...token,
+        id: `${line.id}-${segmentIndex}-${token.id}-${tokenIndex}`,
+        exampleKey: token.exampleKey ?? token.vocabularyId,
+        readingOptions,
+        romajiOptions
+      };
+    })
+  );
 }
 
 export default function App() {
@@ -1789,6 +1812,7 @@ function GameStudyView({
   const [fileQuery, setFileQuery] = useState("");
   const [showDummy, setShowDummy] = useState(false);
   const [visibleCount, setVisibleCount] = useState(80);
+  const [selectedToken, setSelectedToken] = useState<TokenInfo | null>(null);
   const learnedIds = progress.learnedGameLines?.[game.id] ?? [];
   const learnedSet = useMemo(() => new Set(learnedIds), [learnedIds]);
   const pageStyle: CSSProperties = {
@@ -1799,6 +1823,7 @@ function GameStudyView({
     let alive = true;
     setData(null);
     setLoadError("");
+    setSelectedToken(null);
     fetch(assetUrl(game.dataUrl))
       .then((response) => {
         if (!response.ok) throw new Error(`Failed to load ${game.dataUrl}`);
@@ -1817,6 +1842,7 @@ function GameStudyView({
 
   useEffect(() => {
     setVisibleCount(80);
+    setSelectedToken(null);
   }, [query, fileQuery, showDummy, game.id]);
 
   const filteredLines = useMemo(() => {
@@ -1835,6 +1861,8 @@ function GameStudyView({
         line.japanese,
         line.english,
         line.zh,
+        line.kana,
+        line.romaji,
         line.furigana
       ]
         .join(" ")
@@ -1908,15 +1936,30 @@ function GameStudyView({
       {!data && !loadError && <section className="empty-state">正在加载 Persona 5 全量文本...</section>}
 
       {data && (
-        <div className="game-line-stack">
-          {visibleLines.map((line) => (
-            <GameLineCard
-              key={line.id}
-              line={line}
-              learned={learnedSet.has(line.id)}
-              onToggle={toggleLine}
-            />
-          ))}
+        <div className="game-study-grid">
+          <div className="game-line-stack">
+            {visibleLines.map((line) => (
+              <GameLineCard
+                key={line.id}
+                line={line}
+                learned={learnedSet.has(line.id)}
+                selectedTokenId={selectedToken?.id}
+                onToken={setSelectedToken}
+                onToggle={toggleLine}
+              />
+            ))}
+          </div>
+          <aside className="game-token-detail">
+            {selectedToken ? (
+              <TokenDetail token={selectedToken} progress={progress} setProgress={setProgress} />
+            ) : (
+              <section className="game-detail-empty">
+                <p className="eyebrow">Word detail</p>
+                <h3>点一句里的词</h3>
+                <p>游戏文本会用现在的单词表匹配；已登记的词可以直接看释义、例句、图片，也能加入生词本。</p>
+              </section>
+            )}
+          </aside>
         </div>
       )}
 
@@ -1936,13 +1979,18 @@ function GameStudyView({
 function GameLineCard({
   line,
   learned,
+  selectedTokenId,
+  onToken,
   onToggle
 }: {
   line: GameLine;
   learned: boolean;
+  selectedTokenId?: string;
+  onToken: (token: TokenInfo) => void;
   onToggle: (lineId: string) => void;
 }) {
   const speakText = line.japanese || line.speakerJp;
+  const tokens = useMemo(() => tokensForGameLine(line), [line]);
   return (
     <article className={learned ? "game-line-card learned" : "game-line-card"}>
       <div className="game-line-meta">
@@ -1959,6 +2007,22 @@ function GameLineCard({
         <div>
           <span>日本語</span>
           <p className="game-text japanese">{line.japanese || "（日文为空）"}</p>
+          {(line.kana || line.romaji) && (
+            <div className="game-reading-box">
+              {line.kana && (
+                <>
+                  <span>读音</span>
+                  <p>{line.kana}</p>
+                </>
+              )}
+              {line.romaji && (
+                <>
+                  <span>Romaji</span>
+                  <p>{line.romaji}</p>
+                </>
+              )}
+            </div>
+          )}
           {line.furigana && <p className="game-text furigana">{line.furigana}</p>}
         </div>
         <div>
@@ -1967,9 +2031,28 @@ function GameLineCard({
         </div>
         <div>
           <span>English</span>
-          <p className="game-text">{line.english || "No English text in source."}</p>
+          <p className="game-text">{line.english || "No English line in source."}</p>
         </div>
       </div>
+      {tokens.length > 0 && (
+        <div className="game-token-row token-row" aria-label="句子单词分析">
+          {tokens.map((token, index) => (
+            <button
+              key={`${token.id}-${index}`}
+              className={[
+                "token-chip",
+                token.pos === "unknown" ? "unknown" : "",
+                selectedTokenId === token.id ? "active" : ""
+              ].filter(Boolean).join(" ")}
+              type="button"
+              onClick={() => onToken(token)}
+            >
+              {token.surface}
+              <small>{token.vocabularyId ? token.reading : "未登记"}</small>
+            </button>
+          ))}
+        </div>
+      )}
       <div className="game-line-actions">
         <button className="secondary-button" type="button" onClick={() => speakJapanese(speakText)} disabled={!speakText}>
           <Volume2 size={17} />

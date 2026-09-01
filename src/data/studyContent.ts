@@ -81,7 +81,7 @@ export interface SongPack {
   lines: StudyLine[];
 }
 
-export const contentVersion = "2026.09.01.2";
+export const contentVersion = "2026.09.01.3";
 
 export const curatedVocabulary: StudyWord[] = [
   {

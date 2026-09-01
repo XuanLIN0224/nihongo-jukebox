@@ -21,6 +21,7 @@ FILE_RE = re.compile(r"^[A-Za-z0-9_./-]+\.bf$")
 ID_RE = re.compile(r"^Id:\s*(\d+)$", re.I)
 DUMMY_RE = re.compile(r"^(?:Msg_)?DUMMY|^Dummy\s+", re.I)
 JP_RE = re.compile(r"[ぁ-んァ-ヶー一-龥々]")
+LATIN_RE = re.compile(r"[A-Za-z]{2,}")
 
 
 @dataclass
@@ -102,6 +103,8 @@ def load_anki(path: Path) -> dict[str, dict[str, str]]:
     furigana = values[3]
     if not jp and JP_RE.search(en):
       jp, en = en, ""
+    elif en:
+      en = clean_english_field(en, jp)
     rows[key] = {"japanese": jp, "english": en, "furigana": furigana}
   return rows
 
@@ -114,6 +117,40 @@ def split_speaker(lines: list[str]) -> tuple[str, str]:
 
 def compact_text(value: str) -> str:
   return re.sub(r"[ \t]+", " ", value).strip()
+
+
+def normalize_compare(value: str) -> str:
+  return re.sub(r"[\s、。．，,!?！？…・「」『』（）()［］\[\]【】〈〉《》“”\"':：;；〜~♪]+", "", value)
+
+
+def is_japanese_only(value: str) -> bool:
+  return bool(JP_RE.search(value)) and not LATIN_RE.search(value)
+
+
+def japanese_like_same(candidate: str, japanese: str) -> bool:
+  return bool(japanese and JP_RE.search(candidate) and normalize_compare(candidate) == normalize_compare(japanese))
+
+
+def clean_english_field(value: str, japanese: str = "") -> str:
+  text = compact_text(value)
+  if not text:
+    return ""
+  if is_japanese_only(text) or japanese_like_same(text, japanese):
+    return ""
+  kept_lines: list[str] = []
+  for raw_line in value.splitlines():
+    line = compact_text(raw_line)
+    if not line:
+      continue
+    if JP_RE.search(line):
+      continue
+    if re.search(r"\.(?:bf|bmd)$", line, re.I):
+      continue
+    if re.match(r"^[A-Za-z0-9_./-]+\.(?:bf|bmd)$", line, re.I):
+      continue
+    kept_lines.append(line)
+  cleaned = "\n".join(kept_lines).strip()
+  return cleaned if cleaned and not japanese_like_same(cleaned, japanese) else ""
 
 
 EN_PHRASES = [
@@ -569,6 +606,10 @@ def main() -> None:
       jp_text = anki_row["japanese"]
     if anki_row.get("english"):
       en_text = anki_row["english"]
+    elif en_text:
+      en_text = clean_english_field(en_text, jp_text)
+    if en_speaker:
+      en_speaker = clean_english_field(en_speaker, jp_speaker)
     is_dummy = bool(DUMMY_RE.search(template.key) or DUMMY_RE.search(jp_text) or DUMMY_RE.search(en_text))
     line = {
       "id": stable_id(key),
