@@ -880,6 +880,8 @@ function TokenDetail({
       </div>
       <WordImageStrip subject={visualSubjectFromToken(token)} limit={3} />
       <div className="meaning-block">
+        <span>日本語</span>
+        <p>{token.surface}</p>
         <span>中文释义</span>
         <p>{token.zh}</p>
         <span>English meaning</span>
@@ -2045,10 +2047,12 @@ function GameLineCard({
                 selectedTokenId === token.id ? "active" : ""
               ].filter(Boolean).join(" ")}
               type="button"
+              title={`${token.surface} · ${token.zh} · ${token.en}`}
+              aria-label={`${token.surface}，${token.zh}，${token.en}`}
               onClick={() => onToken(token)}
             >
               {token.surface}
-              <small>{token.vocabularyId ? token.reading : "未登记"}</small>
+              <small>{token.vocabularyId ? `${token.reading} · ${token.zh}` : "未登记"}</small>
             </button>
           ))}
         </div>

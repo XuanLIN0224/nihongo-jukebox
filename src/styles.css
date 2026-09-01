@@ -1591,9 +1591,17 @@ textarea:focus {
 }
 
 .game-token-row .token-chip {
+  max-width: 260px;
   border-color: rgba(255, 253, 248, 0.22);
   background: rgba(255, 253, 248, 0.92);
   color: var(--ink);
+}
+
+.game-token-row .token-chip small {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .game-token-row .token-chip.active,
