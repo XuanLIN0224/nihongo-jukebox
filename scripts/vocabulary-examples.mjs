@@ -100,6 +100,7 @@ function meaningText(word, entry) {
 
 function partOfSpeech(word, entry) {
   if (entry?.pos) return entry.pos;
+  if (word.partOfSpeech) return word.partOfSpeech;
   const meaning = meaningText(word, entry);
   if (isIAdjective(word.japanese, meaning)) return "i-adjective";
   if (isNaAdjective(word.japanese, meaning)) return "na-adjective";
@@ -243,6 +244,7 @@ function wordKind(word, entry, surface, en, pos) {
   if (lowerPos.includes("interjection") || lowerPos.includes("expression") || hasAny(en, ["take care", "excuse me", "hello", "goodbye", "thank"])) {
     return "expression";
   }
+  if (lowerPos.includes("conjunction")) return "conjunction";
   if (lowerPos.includes("adj-pn")) return "adnominal";
   if (lowerPos.includes("noun") && hasAny(en, ["week", "month", "year", "morning", "evening", "night", "afternoon", "birthday", "birth date", "today", "tomorrow", "yesterday", "time", "day"])) {
     return "noun";
@@ -536,6 +538,42 @@ const nounRules = [
       `新しいサービスの${w}が予定より早く進んでいる。`,
       `新服务的${zh}比计划推进得更快。`,
       `The ${en} of the new service is moving ahead of schedule.`,
+      pos
+    )
+  },
+  {
+    words: ["image improvement", "public image"],
+    build: (w, zh, en, pos) => createExample(
+      `新しい制服で店の${w}を図った。`,
+      `用新制服提升了店铺形象。`,
+      `The new uniforms helped improve the shop's image.`,
+      pos
+    )
+  },
+  {
+    words: ["flash of insight", "inspiration"],
+    build: (w, zh, en, pos) => createExample(
+      `散歩中に新しい企画の${w}が浮かんだ。`,
+      `散步时突然有了新企划的灵感。`,
+      `A new project idea came to me during a walk.`,
+      pos
+    )
+  },
+  {
+    words: ["recovery", "recover lost ground", "挽回"],
+    build: (w, zh, en, pos) => createExample(
+      `後半の努力で失点の${w}を狙った。`,
+      `靠下半场的努力争取挽回失分。`,
+      `We tried to recover the lost points through effort in the second half.`,
+      pos
+    )
+  },
+  {
+    words: ["framework", "outline"],
+    build: (w, zh, en, pos) => createExample(
+      `計画の${w}を決めてから、細部を詰めた。`,
+      `先决定计划框架，再完善细节。`,
+      `After deciding the framework of the plan, we worked out the details.`,
       pos
     )
   },
@@ -920,6 +958,33 @@ const nounRules = [
 ];
 
 const verbRules = [
+  {
+    words: ["inherit", "succeed", "take over", "继承", "传承"],
+    build: (w, zh, en, pos) => createExample(
+      `祖父から受け継いだ店を大切に守っている。`,
+      `珍惜地守护着从祖父那里继承来的店。`,
+      `I carefully protect the shop I inherited from my grandfather.`,
+      pos
+    )
+  },
+  {
+    words: ["dilute", "water down", "thin", "稀释", "弄淡"],
+    build: (w, zh, en, pos) => createExample(
+      `濃いジュースを水で少し薄めた。`,
+      `用水把浓果汁稍微稀释了。`,
+      `I diluted the strong juice with a little water.`,
+      pos
+    )
+  },
+  {
+    words: ["become weak", "fade", "变浅", "变淡"],
+    build: (w, zh, en, pos) => createExample(
+      `雨で看板の色が少し薄まった。`,
+      `因为下雨，招牌颜色稍微变淡了。`,
+      `The sign's color faded a little in the rain.`,
+      pos
+    )
+  },
   {
     words: ["繰り広げ", "unfold", "unroll", "展开", "开展"],
     build: (w, zh, en, pos) => createExample(
@@ -1356,6 +1421,33 @@ const verbRules = [
 
 const adverbRules = [
   {
+    words: ["at last", "finally", "more and more", "increasingly", "いよいよ"],
+    build: (w, zh, en, pos) => createExample(
+      `${w}新しい生活が始まる。`,
+      `终于要开始新的生活了。`,
+      `A new life is finally about to begin.`,
+      pos
+    )
+  },
+  {
+    words: ["naturally", "of its own accord", "自ずと"],
+    build: (w, zh, en, pos) => createExample(
+      `毎日続けていると、力は${w}ついてくる。`,
+      `每天坚持下去，能力自然会提高。`,
+      `If you keep at it every day, your ability will naturally grow.`,
+      pos
+    )
+  },
+  {
+    words: ["dry", "crisp", "cheerful", "からっと"],
+    build: (w, zh, en, pos) => createExample(
+      `雨のあと、空気が${w}晴れた。`,
+      `雨后空气一下子变得清爽晴朗。`,
+      `After the rain, the air cleared crisply.`,
+      pos
+    )
+  },
+  {
     words: ["if", "in case"],
     build: (w, zh, en, pos) => createExample(
       `${w}時間があれば、もう一度会いたい。`,
@@ -1660,6 +1752,23 @@ function buildExpressionExample(surface, zh, en, pos) {
   );
 }
 
+function buildConjunctionExample(surface, zh, en, pos, lower) {
+  if (surface === "乃至" || hasAny(lower, ["from ... to", "between ... and"])) {
+    return createExample(
+      `参加者は五十人乃至六十人ほどだ。`,
+      `参加者大约五十到六十人。`,
+      `There are about fifty to sixty participants.`,
+      pos
+    );
+  }
+  return createExample(
+    `早めに出発した。${surface}、渋滞に巻き込まれた。`,
+    `很早就出发了。可是，还是遇上了堵车。`,
+    `I left early. Even so, I got stuck in traffic.`,
+    pos
+  );
+}
+
 function buildAdnominalExample(surface, zh, en, pos) {
   return createExample(
     `${surface}店は駅の近くにある。`,
@@ -1719,6 +1828,7 @@ export function buildVocabularyExample(word, index = 0) {
   const seed = hashSeed(surface, zh, en, pos, index);
 
   if (kind === "expression") return buildExpressionExample(surface, zh, en, pos);
+  if (kind === "conjunction") return buildConjunctionExample(surface, zh, en, pos, lower);
   if (kind === "adnominal") return buildAdnominalExample(surface, zh, en, pos);
   if (kind === "pronoun") return buildPronounExample(surface, zh, en, pos, seed, lower);
   if (kind === "verb") return buildVerbExample(surface, word, zh, en, pos, seed, lower);

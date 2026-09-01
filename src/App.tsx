@@ -7,18 +7,26 @@ import {
   BookmarkPlus,
   Check,
   CircleUserRound,
+  Gamepad2,
+  GripVertical,
   Image as ImageIcon,
   Library,
   LogOut,
   Music2,
+  Pause,
   PenLine,
+  Play,
   RefreshCcw,
+  Repeat,
+  Repeat1,
   Search,
+  ScrollText,
+  Shuffle as ShuffleIcon,
   Volume2,
   X
 } from "lucide-react";
-import type { Dispatch, FormEvent, SetStateAction } from "react";
-import { useEffect, useMemo, useState } from "react";
+import type { CSSProperties, Dispatch, DragEvent, FormEvent, SetStateAction } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   contentVersion,
   legalNotice,
@@ -34,6 +42,16 @@ import {
   exampleReadings,
   type ExampleReading
 } from "./data/exampleReadings";
+import {
+  gamePacks,
+  type GamePack,
+  type GameTrack
+} from "./data/gameContent";
+import {
+  grammarPoints,
+  grammarSource,
+  type GrammarPoint
+} from "./data/grammarStudy";
 import {
   type AuthSession,
   type ProgressState,
@@ -63,7 +81,7 @@ import {
   type WordVisualImage
 } from "./lib/wordImages";
 
-type View = "lyrics" | "words" | "saved" | "progress" | "account";
+type View = "lyrics" | "words" | "grammar" | "games" | "saved" | "progress" | "account";
 
 const categoryLabels: Record<Category | "all", string> = {
   all: "全部歌手",
@@ -72,6 +90,39 @@ const categoryLabels: Record<Category | "all", string> = {
 };
 
 const jlptLevels: JLPTLevel[] = ["N1", "N2", "N3", "N4", "N5"];
+
+interface GameLine {
+  id: string;
+  sourceKey: string;
+  file: string;
+  messageId: string;
+  messageKey: string;
+  speakerJp: string;
+  speakerEn: string;
+  japanese: string;
+  english: string;
+  zh: string;
+  furigana: string;
+  isDummy: boolean;
+  order: number;
+}
+
+interface GameData {
+  id: string;
+  title: string;
+  sourceWorkbook: string;
+  generatedAt: string;
+  lineCount: number;
+  fileCount: number;
+  nonDummyLineCount: number;
+  translationMode: string;
+  lines: GameLine[];
+}
+
+function assetUrl(path: string): string {
+  const url = `${import.meta.env.BASE_URL}${path}`.replace(/([^:]\/)\/+/g, "$1");
+  return encodeURI(url);
+}
 
 function toggleSavedWord(
   wordId: string,
@@ -84,6 +135,21 @@ function toggleSavedWord(
       savedWords: saved.includes(wordId)
         ? saved.filter((id) => id !== wordId)
         : [...saved, wordId]
+    };
+  });
+}
+
+function toggleLearnedGrammar(
+  pointId: string,
+  setProgress: Dispatch<SetStateAction<ProgressState>>
+): void {
+  setProgress((current) => {
+    const learnedGrammar = current.learnedGrammar ?? [];
+    return {
+      ...current,
+      learnedGrammar: learnedGrammar.includes(pointId)
+        ? learnedGrammar.filter((id) => id !== pointId)
+        : [...learnedGrammar, pointId]
     };
   });
 }
@@ -185,6 +251,8 @@ export default function App() {
   const navItems: { id: View; label: string; icon: typeof Music2 }[] = [
     { id: "lyrics", label: "歌词学习", icon: Music2 },
     { id: "words", label: "背单词", icon: BookOpen },
+    { id: "grammar", label: "文法", icon: ScrollText },
+    { id: "games", label: "游戏区", icon: Gamepad2 },
     { id: "saved", label: "生词本", icon: BookMarked },
     { id: "progress", label: "进度", icon: Check },
     { id: "account", label: "账号", icon: CircleUserRound }
@@ -252,6 +320,8 @@ export default function App() {
           <>
             {view === "lyrics" && <LyricsLab progress={progress} setProgress={setProgress} />}
             {view === "words" && <VocabularyDrill progress={progress} setProgress={setProgress} />}
+            {view === "grammar" && <GrammarView progress={progress} setProgress={setProgress} />}
+            {view === "games" && <GamesView progress={progress} setProgress={setProgress} />}
             {view === "saved" && <SavedWordsView progress={progress} setProgress={setProgress} />}
             {view === "progress" && <ProgressView progress={progress} setProgress={setProgress} />}
             {view === "account" && <AccountView session={session} />}
@@ -265,6 +335,8 @@ export default function App() {
 function viewTitle(view: View): string {
   if (view === "lyrics") return "歌词学习";
   if (view === "words") return "背单词";
+  if (view === "grammar") return "文法学习";
+  if (view === "games") return "游戏区";
   if (view === "saved") return "生词本";
   if (view === "progress") return "学习进度";
   return "账号";
@@ -1178,11 +1250,13 @@ function VocabularyDrill({
 function LevelToolbar({
   selectedLevel,
   counts,
-  onSelect
+  onSelect,
+  unit = "词"
 }: {
   selectedLevel: JLPTLevel;
   counts: Record<JLPTLevel, number>;
   onSelect: (level: JLPTLevel) => void;
+  unit?: string;
 }) {
   return (
     <section className="level-toolbar" aria-label="JLPT difficulty">
@@ -1199,7 +1273,7 @@ function LevelToolbar({
             onClick={() => onSelect(level)}
           >
             <strong>{level}</strong>
-            <small>{counts[level]} 词</small>
+            <small>{counts[level]} {unit}</small>
           </button>
         ))}
       </div>
@@ -1508,6 +1582,563 @@ function VocabularyLibrary({
   );
 }
 
+function GrammarView({
+  progress,
+  setProgress
+}: {
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [selectedLevel, setSelectedLevel] = useState<JLPTLevel>("N1");
+  const [query, setQuery] = useState("");
+  const [selectedId, setSelectedId] = useState(grammarPoints.find((point) => point.level === "N1")?.id ?? grammarPoints[0]?.id ?? "");
+  const learnedGrammar = progress.learnedGrammar ?? [];
+  const learnedSet = useMemo(() => new Set(learnedGrammar), [learnedGrammar]);
+  const levelCounts = useMemo(
+    () =>
+      jlptLevels.reduce((counts, level) => {
+        counts[level] = grammarPoints.filter((point) => point.level === level).length;
+        return counts;
+      }, {} as Record<JLPTLevel, number>),
+    []
+  );
+  const levelPoints = useMemo(
+    () => grammarPoints.filter((point) => point.level === selectedLevel),
+    [selectedLevel]
+  );
+  const filteredPoints = useMemo(() => {
+    const normalizedQuery = query.trim().toLowerCase();
+    if (!normalizedQuery) return levelPoints;
+    return levelPoints.filter((point) =>
+      [
+        point.pattern,
+        point.titleZh,
+        point.meaningZh,
+        point.meaningEn,
+        point.formationZh,
+        point.exampleJp,
+        point.exampleZh,
+        point.exampleEn
+      ]
+        .join(" ")
+        .toLowerCase()
+        .includes(normalizedQuery)
+    );
+  }, [levelPoints, query]);
+  const selectedPoint =
+    filteredPoints.find((point) => point.id === selectedId) ??
+    levelPoints.find((point) => point.id === selectedId) ??
+    filteredPoints[0] ??
+    levelPoints[0];
+  const learnedLevelCount = levelPoints.filter((point) => learnedSet.has(point.id)).length;
+  const levelPercent = progressPercent(learnedLevelCount, levelPoints.length);
+
+  useEffect(() => {
+    if (selectedPoint) setSelectedId(selectedPoint.id);
+  }, [selectedPoint]);
+
+  function chooseLevel(level: JLPTLevel) {
+    setSelectedLevel(level);
+    setQuery("");
+    setSelectedId(grammarPoints.find((point) => point.level === level)?.id ?? "");
+  }
+
+  return (
+    <section className="grammar-view">
+      <LevelToolbar
+        counts={levelCounts}
+        selectedLevel={selectedLevel}
+        onSelect={chooseLevel}
+        unit="项"
+      />
+      <div className="library-tools grammar-tools">
+        <label>
+          搜索文法
+          <input value={query} onChange={(event) => setQuery(event.target.value)} />
+        </label>
+        <div className="library-count">
+          <strong>{selectedLevel}</strong>
+          <span>{filteredPoints.length} 项</span>
+        </div>
+      </div>
+      <div className="progress-strip">
+        <span>
+          {selectedLevel} 文法 {learnedLevelCount} / {levelPoints.length}
+        </span>
+        <div>
+          <span style={{ width: `${levelPercent}%` }} />
+        </div>
+        <strong>{levelPercent}%</strong>
+      </div>
+      <div className="grammar-layout">
+        <div className="grammar-list">
+          {filteredPoints.map((point) => (
+            <button
+              key={point.id}
+              className={selectedPoint?.id === point.id ? "grammar-card active" : "grammar-card"}
+              type="button"
+              onClick={() => setSelectedId(point.id)}
+            >
+              <span>{point.level} · {point.number}</span>
+              <strong>{point.pattern}</strong>
+              <small>{point.meaningZh}</small>
+              {learnedSet.has(point.id) && <em>已学过</em>}
+            </button>
+          ))}
+        </div>
+
+        {selectedPoint ? (
+          <article className="grammar-detail">
+            <div className="grammar-detail-head">
+              <div>
+                <p className="eyebrow">{selectedPoint.titleZh}</p>
+                <h3>{selectedPoint.pattern}</h3>
+              </div>
+              <button
+                className="icon-button"
+                type="button"
+                aria-label="朗读文法例句"
+                title="朗读文法例句"
+                onClick={() => speakJapanese(selectedPoint.exampleJp)}
+              >
+                <Volume2 size={18} />
+              </button>
+            </div>
+            <div className="grammar-source-pill">{grammarSource.name} · {grammarSource.count} 项</div>
+            <div className="meaning-block">
+              <span>中文释义</span>
+              <p>{selectedPoint.meaningZh}</p>
+              <span>English meaning</span>
+              <p>{selectedPoint.meaningEn}</p>
+            </div>
+            <div className="meaning-block">
+              <span>接续</span>
+              <p>{selectedPoint.formationZh}</p>
+            </div>
+            <ExampleBlock
+              japanese={selectedPoint.exampleJp}
+              reading={exampleReadingFor(selectedPoint.id)}
+              zh={selectedPoint.exampleZh}
+              en={selectedPoint.exampleEn}
+              wide
+            />
+            <button
+              className={learnedSet.has(selectedPoint.id) ? "secondary-button" : "primary-button"}
+              type="button"
+              onClick={() => toggleLearnedGrammar(selectedPoint.id, setProgress)}
+            >
+              <Check size={18} />
+              {learnedSet.has(selectedPoint.id) ? "已学过" : "标记学过"}
+            </button>
+          </article>
+        ) : (
+          <section className="empty-state">
+            <h3>没有找到文法点。</h3>
+            <p>换一个关键词或 JLPT 级别试试。</p>
+          </section>
+        )}
+      </div>
+    </section>
+  );
+}
+
+function GamesView({
+  progress,
+  setProgress
+}: {
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [selectedId, setSelectedId] = useState(gamePacks[0]?.id ?? "persona5");
+  const selectedGame = gamePacks.find((game) => game.id === selectedId) ?? gamePacks[0];
+
+  return (
+    <div className="games-shell">
+      <aside className="game-picker">
+        <p className="eyebrow">Games</p>
+        {gamePacks.map((game) => (
+          <button
+            key={game.id}
+            className={selectedGame.id === game.id ? "game-pick-card active" : "game-pick-card"}
+            type="button"
+            onClick={() => setSelectedId(game.id)}
+          >
+            <strong>{game.title}</strong>
+            <span>{game.titleJp}</span>
+            <small>{game.nonDummyLineCount.toLocaleString()} 句文本</small>
+          </button>
+        ))}
+      </aside>
+      <GameStudyView game={selectedGame} progress={progress} setProgress={setProgress} />
+    </div>
+  );
+}
+
+function GameStudyView({
+  game,
+  progress,
+  setProgress
+}: {
+  game: GamePack;
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const [data, setData] = useState<GameData | null>(null);
+  const [loadError, setLoadError] = useState("");
+  const [query, setQuery] = useState("");
+  const [fileQuery, setFileQuery] = useState("");
+  const [showDummy, setShowDummy] = useState(false);
+  const [visibleCount, setVisibleCount] = useState(80);
+  const learnedIds = progress.learnedGameLines?.[game.id] ?? [];
+  const learnedSet = useMemo(() => new Set(learnedIds), [learnedIds]);
+  const pageStyle: CSSProperties = {
+    backgroundImage: `linear-gradient(90deg, rgba(10, 10, 10, 0.88), rgba(10, 10, 10, 0.66)), url("${assetUrl(game.backgroundUrl)}")`
+  };
+
+  useEffect(() => {
+    let alive = true;
+    setData(null);
+    setLoadError("");
+    fetch(assetUrl(game.dataUrl))
+      .then((response) => {
+        if (!response.ok) throw new Error(`Failed to load ${game.dataUrl}`);
+        return response.json() as Promise<GameData>;
+      })
+      .then((payload) => {
+        if (alive) setData(payload);
+      })
+      .catch((error) => {
+        if (alive) setLoadError(error instanceof Error ? error.message : "游戏文本加载失败。");
+      });
+    return () => {
+      alive = false;
+    };
+  }, [game.dataUrl]);
+
+  useEffect(() => {
+    setVisibleCount(80);
+  }, [query, fileQuery, showDummy, game.id]);
+
+  const filteredLines = useMemo(() => {
+    if (!data) return [];
+    const normalizedQuery = query.trim().toLowerCase();
+    const normalizedFile = fileQuery.trim().toLowerCase();
+    return data.lines.filter((line) => {
+      if (!showDummy && line.isDummy) return false;
+      if (normalizedFile && !line.file.toLowerCase().includes(normalizedFile)) return false;
+      if (!normalizedQuery) return true;
+      return [
+        line.file,
+        line.messageKey,
+        line.speakerJp,
+        line.speakerEn,
+        line.japanese,
+        line.english,
+        line.zh,
+        line.furigana
+      ]
+        .join(" ")
+        .toLowerCase()
+        .includes(normalizedQuery);
+    });
+  }, [data, fileQuery, query, showDummy]);
+  const visibleLines = filteredLines.slice(0, visibleCount);
+  const learnedGameCount = learnedIds.length;
+  const totalForProgress = game.nonDummyLineCount || game.lineCount;
+  const percent = progressPercent(learnedGameCount, totalForProgress);
+
+  function toggleLine(lineId: string) {
+    setProgress((current) => {
+      const gameLines = current.learnedGameLines?.[game.id] ?? [];
+      const nextLines = gameLines.includes(lineId)
+        ? gameLines.filter((id) => id !== lineId)
+        : [...gameLines, lineId];
+      return {
+        ...current,
+        learnedGameLines: {
+          ...(current.learnedGameLines ?? {}),
+          [game.id]: nextLines
+        }
+      };
+    });
+  }
+
+  return (
+    <section className="game-page persona5-page" style={pageStyle}>
+      <div className="game-hero">
+        <div>
+          <p className="eyebrow">Game study</p>
+          <h3>{game.title}</h3>
+          <p>{game.descriptionZh}</p>
+        </div>
+        <div className="game-stat-panel">
+          <strong>{learnedGameCount.toLocaleString()}</strong>
+          <span>/ {totalForProgress.toLocaleString()} 句</span>
+          <div className="progress-strip inverted">
+            <div>
+              <span style={{ width: `${percent}%` }} />
+            </div>
+            <em>{percent}%</em>
+          </div>
+        </div>
+      </div>
+
+      <GameMusicPlayer game={game} progress={progress} setProgress={setProgress} />
+
+      <div className="game-tools">
+        <label>
+          搜索文本
+          <input value={query} onChange={(event) => setQuery(event.target.value)} />
+        </label>
+        <label>
+          文件筛选
+          <input placeholder="例如 0282.bf" value={fileQuery} onChange={(event) => setFileQuery(event.target.value)} />
+        </label>
+        <label className="toggle-row">
+          <input type="checkbox" checked={showDummy} onChange={(event) => setShowDummy(event.target.checked)} />
+          显示 Dummy
+        </label>
+        <div className="library-count game-count">
+          <strong>{filteredLines.length.toLocaleString()}</strong>
+          <span>{data ? `${data.fileCount.toLocaleString()} files` : "loading"}</span>
+        </div>
+      </div>
+
+      {loadError && <section className="empty-state">{loadError}</section>}
+      {!data && !loadError && <section className="empty-state">正在加载 Persona 5 全量文本...</section>}
+
+      {data && (
+        <div className="game-line-stack">
+          {visibleLines.map((line) => (
+            <GameLineCard
+              key={line.id}
+              line={line}
+              learned={learnedSet.has(line.id)}
+              onToggle={toggleLine}
+            />
+          ))}
+        </div>
+      )}
+
+      {data && visibleCount < filteredLines.length && (
+        <button
+          className="secondary-button game-load-more"
+          type="button"
+          onClick={() => setVisibleCount((count) => count + 120)}
+        >
+          显示更多
+        </button>
+      )}
+    </section>
+  );
+}
+
+function GameLineCard({
+  line,
+  learned,
+  onToggle
+}: {
+  line: GameLine;
+  learned: boolean;
+  onToggle: (lineId: string) => void;
+}) {
+  const speakText = line.japanese || line.speakerJp;
+  return (
+    <article className={learned ? "game-line-card learned" : "game-line-card"}>
+      <div className="game-line-meta">
+        <span>{line.file} · Id {line.messageId} · {line.messageKey}</span>
+        {line.isDummy && <em>Dummy</em>}
+      </div>
+      {(line.speakerJp || line.speakerEn) && (
+        <div className="game-speaker-row">
+          {line.speakerJp && <strong>{line.speakerJp}</strong>}
+          {line.speakerEn && <span>{line.speakerEn}</span>}
+        </div>
+      )}
+      <div className="game-text-grid">
+        <div>
+          <span>日本語</span>
+          <p className="game-text japanese">{line.japanese || "（日文为空）"}</p>
+          {line.furigana && <p className="game-text furigana">{line.furigana}</p>}
+        </div>
+        <div>
+          <span>中文</span>
+          <p className="game-text">{line.zh}</p>
+        </div>
+        <div>
+          <span>English</span>
+          <p className="game-text">{line.english || "No English text in source."}</p>
+        </div>
+      </div>
+      <div className="game-line-actions">
+        <button className="secondary-button" type="button" onClick={() => speakJapanese(speakText)} disabled={!speakText}>
+          <Volume2 size={17} />
+          朗读
+        </button>
+        <button className={learned ? "secondary-button" : "primary-button"} type="button" onClick={() => onToggle(line.id)}>
+          <Check size={18} />
+          {learned ? "已学过" : "标记学过"}
+        </button>
+      </div>
+    </article>
+  );
+}
+
+function GameMusicPlayer({
+  game,
+  progress,
+  setProgress
+}: {
+  game: GamePack;
+  progress: ProgressState;
+  setProgress: Dispatch<SetStateAction<ProgressState>>;
+}) {
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [activeTrackId, setActiveTrackId] = useState(game.tracks[0]?.id ?? "");
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [playMode, setPlayMode] = useState<"loop-all" | "shuffle" | "repeat-one">("loop-all");
+  const [dragTrackId, setDragTrackId] = useState<string | null>(null);
+  const savedOrder = progress.gameMusicOrders?.[game.id] ?? [];
+  const orderedTracks = useMemo(() => {
+    const byId = new Map(game.tracks.map((track) => [track.id, track]));
+    const ordered = savedOrder.map((id) => byId.get(id)).filter((track): track is GameTrack => Boolean(track));
+    const missing = game.tracks.filter((track) => !savedOrder.includes(track.id));
+    return [...ordered, ...missing];
+  }, [game.tracks, savedOrder]);
+  const activeTrack = orderedTracks.find((track) => track.id === activeTrackId) ?? orderedTracks[0];
+
+  useEffect(() => {
+    if (orderedTracks[0] && !orderedTracks.some((track) => track.id === activeTrackId)) {
+      setActiveTrackId(orderedTracks[0].id);
+    }
+  }, [activeTrackId, orderedTracks]);
+
+  useEffect(() => {
+    if (!audioRef.current) return;
+    if (isPlaying) {
+      audioRef.current.play().catch(() => setIsPlaying(false));
+    }
+  }, [activeTrackId, isPlaying]);
+
+  function saveTrackOrder(nextTracks: GameTrack[]) {
+    setProgress((current) => ({
+      ...current,
+      gameMusicOrders: {
+        ...(current.gameMusicOrders ?? {}),
+        [game.id]: nextTracks.map((track) => track.id)
+      }
+    }));
+  }
+
+  function selectTrack(trackId: string, play = true) {
+    setActiveTrackId(trackId);
+    setIsPlaying(play);
+  }
+
+  function togglePlay() {
+    const audio = audioRef.current;
+    if (!audio) return;
+    if (isPlaying) {
+      audio.pause();
+      setIsPlaying(false);
+    } else {
+      audio.play().then(() => setIsPlaying(true)).catch(() => setIsPlaying(false));
+    }
+  }
+
+  function nextTrack() {
+    if (!activeTrack || orderedTracks.length === 0) return;
+    if (playMode === "shuffle") {
+      const candidates = orderedTracks.filter((track) => track.id !== activeTrack.id);
+      const next = candidates[Math.floor(Math.random() * candidates.length)] ?? activeTrack;
+      selectTrack(next.id, true);
+      return;
+    }
+    const index = orderedTracks.findIndex((track) => track.id === activeTrack.id);
+    const next = orderedTracks[(index + 1) % orderedTracks.length];
+    selectTrack(next.id, true);
+  }
+
+  function handleEnded() {
+    if (playMode === "repeat-one" && audioRef.current) {
+      audioRef.current.currentTime = 0;
+      audioRef.current.play().catch(() => setIsPlaying(false));
+      return;
+    }
+    nextTrack();
+  }
+
+  function handleDrop(event: DragEvent<HTMLButtonElement>, targetId: string) {
+    event.preventDefault();
+    if (!dragTrackId || dragTrackId === targetId) return;
+    const fromIndex = orderedTracks.findIndex((track) => track.id === dragTrackId);
+    const toIndex = orderedTracks.findIndex((track) => track.id === targetId);
+    if (fromIndex < 0 || toIndex < 0) return;
+    const nextTracks = [...orderedTracks];
+    const [moved] = nextTracks.splice(fromIndex, 1);
+    nextTracks.splice(toIndex, 0, moved);
+    saveTrackOrder(nextTracks);
+    setDragTrackId(null);
+  }
+
+  return (
+    <section className="game-music-panel">
+      <div className="game-music-head">
+        <div>
+          <p className="eyebrow">Soundtrack</p>
+          <h3>{activeTrack?.title ?? "No track"}</h3>
+        </div>
+        <button className="primary-button" type="button" onClick={togglePlay} disabled={!activeTrack}>
+          {isPlaying ? <Pause size={18} /> : <Play size={18} />}
+          {isPlaying ? "暂停" : "播放"}
+        </button>
+      </div>
+      {activeTrack && (
+        <audio
+          ref={audioRef}
+          src={assetUrl(activeTrack.file)}
+          controls
+          preload="metadata"
+          onPlay={() => setIsPlaying(true)}
+          onPause={() => setIsPlaying(false)}
+          onEnded={handleEnded}
+        />
+      )}
+      <div className="segmented compact game-play-modes">
+        <button type="button" className={playMode === "loop-all" ? "active" : ""} onClick={() => setPlayMode("loop-all")}>
+          <Repeat size={15} />
+          循环
+        </button>
+        <button type="button" className={playMode === "shuffle" ? "active" : ""} onClick={() => setPlayMode("shuffle")}>
+          <ShuffleIcon size={15} />
+          随机
+        </button>
+        <button type="button" className={playMode === "repeat-one" ? "active" : ""} onClick={() => setPlayMode("repeat-one")}>
+          <Repeat1 size={15} />
+          单曲
+        </button>
+      </div>
+      <div className="game-track-list">
+        {orderedTracks.map((track) => (
+          <button
+            key={track.id}
+            className={activeTrack?.id === track.id ? "game-track-row active" : "game-track-row"}
+            type="button"
+            draggable
+            onClick={() => selectTrack(track.id)}
+            onDragStart={() => setDragTrackId(track.id)}
+            onDragOver={(event) => event.preventDefault()}
+            onDrop={(event) => handleDrop(event, track.id)}
+          >
+            <GripVertical size={16} />
+            <span>{track.title}</span>
+          </button>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 function SavedWordsView({
   progress,
   setProgress
@@ -1680,7 +2311,17 @@ function ProgressView({
   const songPercent = progressPercent(progress.completedSongs.length, songPacks.length);
   const wordPercent = progressPercent(progress.learnedWords.length, vocabulary.length);
   const linePercent = progressPercent(progress.learnedSongLines.length, totalLines);
+  const grammarPercent = progressPercent(progress.learnedGrammar?.length ?? 0, grammarPoints.length);
+  const totalGameLines = gamePacks.reduce((sum, game) => sum + game.nonDummyLineCount, 0);
+  const learnedGameLines = Object.values(progress.learnedGameLines ?? {}).reduce(
+    (sum, lines) => sum + lines.length,
+    0
+  );
+  const gamePercent = progressPercent(learnedGameLines, totalGameLines);
   const completedSongs = songPacks.filter((song) => progress.completedSongs.includes(song.id));
+  const learnedGrammarPoints = grammarPoints.filter((point) =>
+    (progress.learnedGrammar ?? []).includes(point.id)
+  );
   const mistakeRows = Object.entries(progress.mistakes).sort((a, b) => b[1] - a[1]).slice(0, 8);
   const savedSet = useMemo(() => new Set(progress.savedWords ?? []), [progress.savedWords]);
   const learnedWords = useMemo(
@@ -1735,6 +2376,8 @@ function ProgressView({
         <Stat label="歌曲完成" value={`${progress.completedSongs.length}/${songPacks.length}`} percent={songPercent} />
         <Stat label="歌词行" value={`${progress.learnedSongLines.length}/${totalLines}`} percent={linePercent} />
         <Stat label="单词" value={`${progress.learnedWords.length}/${vocabulary.length}`} percent={wordPercent} />
+        <Stat label="文法" value={`${progress.learnedGrammar?.length ?? 0}/${grammarPoints.length}`} percent={grammarPercent} />
+        <Stat label="游戏句子" value={`${learnedGameLines}/${totalGameLines}`} percent={gamePercent} />
         <Stat label="生词本" value={`${progress.savedWords?.length ?? 0}`} percent={progressPercent(progress.savedWords?.length ?? 0, vocabulary.length)} />
       </section>
 
@@ -1771,6 +2414,39 @@ function ProgressView({
             ) : (
               <span>目前没有错题记录。</span>
             )}
+          </div>
+        </div>
+        <div>
+          <div className="section-title">
+            <ScrollText size={18} />
+            <h3>已学文法</h3>
+          </div>
+          <div className="plain-list">
+            {learnedGrammarPoints.length ? (
+              learnedGrammarPoints.slice(0, 10).map((point) => (
+                <span key={point.id}>
+                  {point.level} · {point.pattern}
+                </span>
+              ))
+            ) : (
+              <span>还没有标记文法点。</span>
+            )}
+          </div>
+        </div>
+        <div>
+          <div className="section-title">
+            <Gamepad2 size={18} />
+            <h3>游戏进度</h3>
+          </div>
+          <div className="plain-list">
+            {gamePacks.map((game) => {
+              const count = progress.learnedGameLines?.[game.id]?.length ?? 0;
+              return (
+                <span key={game.id}>
+                  {game.title}：{count.toLocaleString()} / {game.nonDummyLineCount.toLocaleString()} 句
+                </span>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -1825,7 +2501,7 @@ function ProgressView({
       </section>
 
       <p className="fine-print">
-        内容版本 {contentVersion}。进度按歌曲、歌词行、单词的稳定 ID 保存；以后新增内容时，旧进度会保留。
+        内容版本 {contentVersion}。进度按歌曲、歌词行、单词、文法和游戏句子的稳定 ID 保存；以后新增内容时，旧进度会保留。
       </p>
     </div>
   );
